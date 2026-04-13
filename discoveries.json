@@ -1,96 +1,46 @@
 {
   "date": "2026-04-13",
-  "last_updated": "2026-04-13 23:00 UTC",
-  "categories": {
-    "science": [
-      {
-        "title": "Vitamin B1 theory confirmed after decades of debate",
-        "summary": "Researchers stabilized a highly reactive intermediate in water, confirming a long-standing mechanistic theory and opening the door to greener chemistry routes.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
-        "impact": 5
-      }
-    ],
-    "tech": [
-      {
-        "title": "New chip design reduces energy use for large-scale computing",
-        "summary": "Engineers demonstrated an architecture that improves throughput per watt and could influence future data-center hardware design.",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "source_url": "https://www.technologyreview.com/",
-        "impact": 4
-      }
-    ],
-    "medicine": [
-      {
-        "title": "Aggressive breast cancer study targets immune suppression pathways",
-        "summary": "A new project aims to decode how tumors suppress immune activity and to identify biomarkers linked to progression and treatment response.",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
-        "impact": 5
-      }
-    ],
-    "mathematics": [
-      {
-        "title": "New proof framework simplifies a difficult class of optimization problems",
-        "summary": "Mathematicians proposed a cleaner proof strategy for a family of problems that appear in algorithms, networks, and control.",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "source_url": "https://www.quantamagazine.org/mathematics/",
-        "impact": 4
-      }
-    ],
-    "space": [
-      {
-        "title": "Hidden weak spots in viruses revealed with nanodisc platform",
-        "summary": "A membrane-mimicking nanodisc system exposed antibody interactions that conventional techniques had missed, improving structural understanding.",
-        "category": "Space",
-        "source": "sciencedaily.com",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
-        "impact": 4
-      }
-    ],
-    "astronomy": [
-      {
-        "title": "Observatory data reveals unusual stellar behavior in a nearby system",
-        "summary": "New observations show time-dependent changes in stellar output that may revise models of magnetic activity and planetary environments.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "source_url": "https://skyandtelescope.org/",
-        "impact": 4
-      }
-    ],
-    "architecture": [
-      {
-        "title": "New low-carbon building system reduces embodied emissions",
-        "summary": "Architects and engineers introduced a construction method that cuts material demand while preserving structural performance and thermal quality.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "source_url": "https://www.archdaily.com/",
-        "impact": 4
-      }
-    ],
-    "construction": [
-      {
-        "title": "Modular construction workflow speeds delivery on dense urban sites",
-        "summary": "A prefabricated assembly process reduced coordination delays and improved quality control in a constrained multi-story build.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "source_url": "https://www.constructiondive.com/",
-        "impact": 4
-      }
-    ],
-    "ai": [
-      {
-        "title": "Large multimodal model improves technical reasoning on scientific tasks",
-        "summary": "A new system demonstrated stronger performance on cross-domain benchmarks involving diagrams, equations, and long-context reasoning.",
-        "category": "AI",
-        "source": "openai.com",
-        "source_url": "https://openai.com/news/",
-        "impact": 5
-      }
-    ]
-  }
+  "last_updated": "2026-04-13 18:23 UTC",
+  "items": [
+    {
+      "title": "NASA Night-light Imagery Tracks US Energy Transition, Global Volatility",
+      "summary": "New nighttime maps based on NASA satellite imagery are upending assumptions, revealing a world where artificial brightening and dimming have intensified over the past decade. The findings show intense flaring over major oil and gas fields in the United States, while factors such as rural electrifica",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/",
+      "impact": 5
+    },
+    {
+      "title": "New toothpaste stops gum disease without killing good bacteria",
+      "summary": "Scientists have developed a new way to fight gum disease without wiping out the mouth’s helpful bacteria—a major shift from traditional treatments. Instead of killing everything, this targeted approach blocks only the harmful microbes that drive periodontitis, allowing beneficial bacteria to thrive ",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
+      "impact": 5
+    },
+    {
+      "title": "Two simple eating habits linked to lower weight, study finds",
+      "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock.",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
+      "impact": 5
+    },
+    {
+      "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
+      "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
+      "impact": 5
+    },
+    {
+      "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+      "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and be",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+      "impact": 4
+    }
+  ]
 }
