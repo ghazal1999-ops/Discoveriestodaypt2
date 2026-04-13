@@ -4,15 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>discoveries.today — The Bloomberg Terminal for Daily Scientific Breakthroughs</title>
-  <meta name="description" content="Daily top discoveries across science, tech, medicine, mathematics, space, astronomy, architecture, construction, and AI." />
-  <meta property="og:title" content="discoveries.today" />
-  <meta property="og:description" content="The Bloomberg Terminal for Daily Scientific Breakthroughs" />
-  <meta property="og:type" content="website" />
+  <meta name="description" content="A daily discovery portal across science, tech, medicine, mathematics, space, astronomy, architecture, construction, and AI." />
   <meta name="theme-color" content="#0A0A0F" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
-
   <style>
     :root {
       --ink: #0A0A0F;
@@ -24,8 +20,6 @@
       --glow: #1A6BFF;
       --glow-pale: #EBF1FF;
       --accent: #FF5C35;
-      --accent-pale: #FFF0EC;
-      --success: #0F7A56;
       --border: rgba(10,10,15,0.10);
       --border-strong: rgba(10,10,15,0.18);
       --shadow: 0 10px 30px rgba(10,10,15,0.08);
@@ -33,7 +27,6 @@
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
-
     body {
       font-family: 'Geist', system-ui, sans-serif;
       background: var(--paper);
@@ -41,7 +34,6 @@
       min-height: 100vh;
       -webkit-font-smoothing: antialiased;
     }
-
     body::before {
       content: '';
       position: fixed;
@@ -50,7 +42,7 @@
         linear-gradient(var(--paper-tint) 1px, transparent 1px),
         linear-gradient(90deg, var(--paper-tint) 1px, transparent 1px);
       background-size: 40px 40px;
-      opacity: 0.45;
+      opacity: 0.42;
       pointer-events: none;
       z-index: 0;
     }
@@ -69,7 +61,6 @@
       backdrop-filter: blur(12px);
       border-bottom: 1px solid var(--border);
     }
-
     .logo {
       display: flex;
       align-items: center;
@@ -78,56 +69,38 @@
       font-size: 13px;
       font-weight: 500;
     }
-
     .logo-dot {
-      width: 8px;
-      height: 8px;
+      width: 8px; height: 8px; border-radius: 50%;
       background: var(--accent);
-      border-radius: 999px;
       animation: pulse 2s infinite;
     }
-
     @keyframes pulse {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.5; transform: scale(0.85); }
+      0%,100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.55; transform: scale(0.85); }
     }
-
     .topbar-right {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: wrap;
-      justify-content: flex-end;
+      display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+      font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--ink-muted);
     }
 
-    .topbar-date, .topbar-updated {
-      font-family: 'Geist Mono', monospace;
-      font-size: 11px;
-      color: var(--ink-muted);
-    }
-
-    .topbar-badge {
-      font-family: 'Geist Mono', monospace;
-      font-size: 11px;
-      padding: 4px 10px;
-      border-radius: 999px;
-      background: var(--glow-pale);
-      color: var(--glow);
-      border: 1px solid rgba(26,107,255,0.20);
-    }
-
-    .hero {
+    .hero, .category-view {
       position: relative;
       z-index: 1;
       max-width: 1120px;
       margin: 0 auto;
-      padding: 72px 24px 32px;
-      text-align: center;
+      padding: 74px 24px 36px;
     }
-
+    .hero {
+      text-align: center;
+      min-height: calc(100vh - 58px - 92px);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
     .hero-kicker {
       display: inline-flex;
       align-items: center;
+      justify-content: center;
       gap: 8px;
       font-family: 'Geist Mono', monospace;
       font-size: 11px;
@@ -136,7 +109,6 @@
       color: var(--accent);
       margin-bottom: 18px;
     }
-
     .hero-kicker::before, .hero-kicker::after {
       content: '';
       width: 22px;
@@ -144,30 +116,23 @@
       background: var(--accent);
       opacity: 0.5;
     }
-
     h1 {
       font-family: 'Instrument Serif', Georgia, serif;
       font-size: clamp(42px, 6vw, 82px);
-      line-height: 1.02;
+      line-height: 1.03;
       letter-spacing: -0.025em;
       font-weight: 400;
       margin-bottom: 16px;
     }
-
-    h1 em {
-      font-style: italic;
-      color: var(--glow);
-    }
-
+    h1 em { color: var(--glow); font-style: italic; }
     .hero-sub {
       max-width: 760px;
-      margin: 0 auto 22px;
+      margin: 0 auto 16px;
       color: var(--ink-soft);
       font-size: 16px;
-      line-height: 1.7;
+      line-height: 1.72;
       font-weight: 300;
     }
-
     .hero-tagline {
       display: inline-block;
       font-family: 'Geist Mono', monospace;
@@ -178,281 +143,171 @@
       padding: 8px 14px;
       border-radius: 999px;
       box-shadow: var(--shadow);
-      margin-bottom: 22px;
+      margin: 0 auto 28px;
     }
 
-    .chips {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      justify-content: center;
-      max-width: 980px;
-      margin: 0 auto;
+    .categories-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 14px;
+      margin-top: 22px;
+      text-align: left;
     }
-
-    .chip {
-      border: 1px solid var(--border-strong);
-      background: var(--paper);
-      color: var(--ink-soft);
-      text-decoration: none;
-      padding: 8px 14px;
-      border-radius: 999px;
-      font-size: 13px;
-      transition: all 0.15s ease;
-    }
-
-    .chip:hover {
-      color: var(--glow);
-      border-color: var(--glow);
-      transform: translateY(-1px);
-    }
-
-    .summary-bar {
-      position: relative;
-      z-index: 1;
-      max-width: 1120px;
-      margin: 0 auto 12px;
-      padding: 0 24px;
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .summary-left {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      align-items: center;
-    }
-
-    .summary-pill {
-      font-family: 'Geist Mono', monospace;
-      font-size: 11px;
-      color: var(--ink-muted);
+    .category-tile {
       background: white;
       border: 1px solid var(--border);
-      border-radius: 999px;
-      padding: 6px 10px;
-    }
-
-    .refresh-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      background: var(--ink);
-      color: white;
-      border: none;
-      border-radius: 10px;
-      padding: 10px 16px;
-      font-size: 13px;
+      border-radius: 16px;
+      padding: 18px 18px 16px;
       cursor: pointer;
-      transition: all 0.15s ease;
+      transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+      box-shadow: 0 3px 14px rgba(10,10,15,0.03);
     }
-
-    .refresh-btn:hover {
-      transform: translateY(-1px);
-      background: #161624;
+    .category-tile:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow);
+      border-color: rgba(26,107,255,0.18);
     }
-
-    .refresh-btn:disabled {
-      opacity: 0.6;
-      cursor: not-allowed;
-      transform: none;
-    }
-
-    .loading, .error-state, .empty-state {
-      position: relative;
-      z-index: 1;
-      max-width: 760px;
-      margin: 0 auto;
-      padding: 70px 24px;
-      text-align: center;
-    }
-
-    .loading-orb {
-      width: 48px;
-      height: 48px;
-      border-radius: 999px;
-      margin: 0 auto 20px;
-      border: 2px solid var(--border);
-      border-top-color: var(--glow);
-      animation: spin 0.9s linear infinite;
-    }
-
-    @keyframes spin {
-      to { transform: rotate(360deg); }
-    }
-
-    .loading-text, .error-body, .empty-body {
+    .tile-kicker {
+      font-family: 'Geist Mono', monospace;
+      font-size: 10px;
+      letter-spacing: .10em;
+      text-transform: uppercase;
       color: var(--ink-muted);
-      line-height: 1.7;
-      font-size: 15px;
+      margin-bottom: 8px;
     }
-
-    .error-title, .empty-title {
+    .tile-title {
       font-family: 'Instrument Serif', Georgia, serif;
-      font-size: 30px;
-      margin-bottom: 10px;
+      font-size: 28px;
+      line-height: 1.08;
+      margin-bottom: 8px;
+    }
+    .tile-body {
+      color: var(--ink-soft);
+      font-size: 13px;
+      line-height: 1.65;
+      min-height: 42px;
     }
 
-    .sections {
-      position: relative;
-      z-index: 1;
-      max-width: 1120px;
-      margin: 0 auto;
-      padding: 10px 24px 90px;
-    }
-
-    .category-section {
-      margin-top: 26px;
-      scroll-margin-top: 86px;
-    }
+    .hidden { display: none !important; }
 
     .category-header {
       display: flex;
       align-items: end;
       justify-content: space-between;
       gap: 14px;
-      margin-bottom: 16px;
+      margin-bottom: 18px;
       border-bottom: 1px solid var(--border);
       padding-bottom: 12px;
     }
-
-    .category-title-wrap {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
     .category-kicker {
       font-family: 'Geist Mono', monospace;
       font-size: 11px;
-      letter-spacing: 0.12em;
+      letter-spacing: .12em;
       text-transform: uppercase;
       color: var(--ink-muted);
+      margin-bottom: 6px;
     }
-
     .category-title {
       font-family: 'Instrument Serif', Georgia, serif;
-      font-size: clamp(28px, 3vw, 42px);
-      line-height: 1.05;
-      font-weight: 400;
+      font-size: clamp(30px, 4vw, 56px);
+      line-height: 1.04;
       letter-spacing: -0.02em;
+      font-weight: 400;
     }
-
-    .category-count {
+    .category-meta {
       font-family: 'Geist Mono', monospace;
       font-size: 12px;
       color: var(--glow);
       background: var(--glow-pale);
       border: 1px solid rgba(26,107,255,0.20);
       border-radius: 999px;
-      padding: 5px 10px;
+      padding: 6px 10px;
       white-space: nowrap;
     }
+    .category-sub {
+      color: var(--ink-soft);
+      font-size: 15px;
+      line-height: 1.7;
+      margin-bottom: 16px;
+      max-width: 760px;
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 18px;
+    }
+    .btn {
+      border: none;
+      border-radius: 10px;
+      padding: 10px 16px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all .15s ease;
+      text-decoration: none;
+    }
+    .btn-primary {
+      background: var(--ink);
+      color: white;
+    }
+    .btn-secondary {
+      background: white;
+      color: var(--ink);
+      border: 1px solid var(--border-strong);
+    }
+    .btn:hover { transform: translateY(-1px); }
 
     .cards {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 18px;
     }
-
     .card {
       background: white;
       border: 1px solid var(--border);
       border-radius: 14px;
       overflow: hidden;
-      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
-      animation: fadeUp 0.35s ease both;
+      transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
       box-shadow: 0 3px 14px rgba(10,10,15,0.03);
     }
-
     .card:hover {
       transform: translateY(-2px);
       box-shadow: var(--shadow);
       border-color: rgba(26,107,255,0.18);
     }
-
-    .card.featured {
-      grid-column: 1 / -1;
-      background: linear-gradient(135deg, #FAFEFF 0%, white 70%);
-    }
-
-    @keyframes fadeUp {
-      from { opacity: 0; transform: translateY(12px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-
-    .card-inner {
-      display: grid;
-      grid-template-columns: 70px 1fr;
-      min-height: 100%;
-    }
-
+    .card.featured { grid-column: 1 / -1; background: linear-gradient(135deg, #FAFEFF 0%, white 70%); }
+    .card-inner { display: grid; grid-template-columns: 70px 1fr; }
     .card-rank {
-      display: flex;
-      align-items: start;
-      justify-content: center;
-      padding: 22px 16px;
-      background: var(--paper-warm);
-      border-right: 1px solid var(--border);
+      display: flex; justify-content: center; align-items: start;
+      padding: 22px 16px; background: var(--paper-warm); border-right: 1px solid var(--border);
     }
-
-    .card.featured .card-rank {
-      background: var(--glow-pale);
-    }
-
+    .card.featured .card-rank { background: var(--glow-pale); }
     .rank-num {
       font-family: 'Instrument Serif', Georgia, serif;
-      font-size: 30px;
-      line-height: 1;
-      color: var(--ink-muted);
-      font-style: italic;
+      font-size: 30px; line-height: 1; color: var(--ink-muted); font-style: italic;
     }
-
-    .card.featured .rank-num {
-      color: var(--glow);
+    .card.featured .rank-num { color: var(--glow); }
+    .card-content { padding: 18px 22px; }
+    .card-meta-row {
+      display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px;
     }
-
-    .card-content {
-      padding: 18px 22px;
-    }
-
-    .card-meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-      margin-bottom: 10px;
-    }
-
     .tag {
       font-family: 'Geist Mono', monospace;
       font-size: 10px;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
+      letter-spacing: .08em;
       border-radius: 6px;
       padding: 4px 8px;
       font-weight: 500;
+      background: var(--paper-warm);
+      color: var(--ink-soft);
     }
-
     .source-tag {
       font-family: 'Geist Mono', monospace;
       font-size: 11px;
       color: var(--ink-muted);
     }
-
-    .tag-science { background: #F2F1EC; color: #444; }
-    .tag-tech, .tag-ai { background: #EBF1FF; color: #185FA5; }
-    .tag-medicine { background: #E6F5F0; color: #0F6E56; }
-    .tag-mathematics { background: #F0EDFF; color: #534AB7; }
-    .tag-space, .tag-astronomy { background: #EEF4FF; color: #2459B8; }
-    .tag-architecture { background: #FFF5EA; color: #9D5E15; }
-    .tag-construction { background: #FFF0EC; color: #993C1D; }
-    .tag-default { background: var(--paper-warm); color: var(--ink-soft); }
-
     .card-title {
       font-family: 'Instrument Serif', Georgia, serif;
       font-size: 22px;
@@ -461,48 +316,25 @@
       font-weight: 400;
       margin-bottom: 10px;
     }
-
     .card-body {
       color: var(--ink-soft);
       font-size: 14px;
       line-height: 1.7;
       font-weight: 300;
     }
-
     .card-footer {
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      flex-wrap: wrap;
-      margin-top: 16px;
-      padding-top: 14px;
-      border-top: 1px solid var(--border);
+      display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+      margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--border);
     }
-
     .impact-label {
-      font-family: 'Geist Mono', monospace;
-      font-size: 10px;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: var(--ink-muted);
+      font-family: 'Geist Mono', monospace; font-size: 10px;
+      letter-spacing: .08em; text-transform: uppercase; color: var(--ink-muted);
     }
-
-    .impact-dots {
-      display: flex;
-      gap: 4px;
-    }
-
+    .impact-dots { display: flex; gap: 4px; }
     .impact-dot {
-      width: 6px;
-      height: 6px;
-      border-radius: 999px;
-      background: var(--border-strong);
+      width: 6px; height: 6px; border-radius: 50%; background: var(--border-strong);
     }
-
-    .impact-dot.filled {
-      background: var(--accent);
-    }
-
+    .impact-dot.filled { background: var(--accent); }
     .card-link {
       margin-left: auto;
       text-decoration: none;
@@ -511,8 +343,11 @@
       font-size: 12px;
     }
 
-    .card-link:hover {
-      opacity: 0.75;
+    .status {
+      color: var(--ink-muted);
+      font-size: 14px;
+      line-height: 1.7;
+      padding: 18px 0;
     }
 
     footer {
@@ -523,7 +358,6 @@
       border-top: 1px solid var(--border);
       background: var(--paper-warm);
     }
-
     .footer-text {
       font-family: 'Geist Mono', monospace;
       font-size: 12px;
@@ -539,68 +373,56 @@
         align-items: flex-start;
         flex-direction: column;
       }
-      .topbar-right {
-        justify-content: flex-start;
-      }
-      .hero {
-        padding: 54px 20px 24px;
-      }
-      h1 {
-        font-size: 38px;
-      }
-      .sections {
-        padding: 10px 20px 70px;
-      }
-      .summary-bar {
-        padding: 0 20px;
-      }
-      .card-inner {
-        grid-template-columns: 56px 1fr;
-      }
-      .rank-num {
-        font-size: 24px;
-      }
-      .card-title {
-        font-size: 18px;
-      }
+      .hero, .category-view { padding: 54px 20px 24px; }
+      h1 { font-size: 38px; }
+      .card-inner { grid-template-columns: 56px 1fr; }
+      .rank-num { font-size: 24px; }
+      .card-title { font-size: 18px; }
+      .categories-grid { grid-template-columns: 1fr; }
     }
   </style>
 </head>
 <body>
   <nav class="topbar">
-    <div class="logo">
-      <span class="logo-dot"></span>
-      discoveries.today
-    </div>
+    <div class="logo"><span class="logo-dot"></span>discoveries.today</div>
     <div class="topbar-right">
-      <div class="topbar-date" id="topbar-date">—</div>
-      <div class="topbar-updated" id="topbar-updated">—</div>
-      <div class="topbar-badge" id="topbar-badge" style="display:none">—</div>
+      <div id="topbar-date">—</div>
+      <div id="topbar-updated">—</div>
     </div>
   </nav>
 
-  <section class="hero">
-    <div class="hero-kicker">Live · Updated Daily</div>
-    <h1>The <em>Bloomberg Terminal</em><br>for Daily Scientific Breakthroughs</h1>
-    <p class="hero-sub">
-      Top discoveries updated every day across science, tech, medicine, mathematics, space, astronomy, architecture, construction, and AI.
-    </p>
-    <div class="hero-tagline">discoveries.today</div>
-    <div class="chips" id="chips"></div>
-  </section>
-
-  <div class="summary-bar">
-    <div class="summary-left">
-      <span class="summary-pill" id="categories-pill">0 categories</span>
-      <span class="summary-pill" id="items-pill">0 discoveries</span>
-    </div>
-    <button class="refresh-btn" id="refresh-btn">Refresh</button>
-  </div>
-
   <main id="app">
-    <section class="loading">
-      <div class="loading-orb"></div>
-      <div class="loading-text">Loading today’s discovery matrix…</div>
+    <section id="home-view" class="hero">
+      <div class="hero-kicker">Live · Updated Daily</div>
+      <h1>The <em>Bloomberg Terminal</em><br>for Daily Scientific Breakthroughs</h1>
+      <p class="hero-sub">
+        Explore today’s top discoveries across science, tech, medicine, mathematics, space, astronomy, architecture, construction, and AI.
+      </p>
+      <div class="hero-tagline">Choose a category to see today’s top 5</div>
+      <div id="categories-grid" class="categories-grid"></div>
+      <div id="home-status" class="status">Loading categories…</div>
+    </section>
+
+    <section id="category-view" class="category-view hidden">
+      <div class="category-header">
+        <div>
+          <div class="category-kicker">Top 5 Today</div>
+          <h2 id="category-title" class="category-title">Science</h2>
+        </div>
+        <div id="category-meta" class="category-meta">5 shown</div>
+      </div>
+
+      <p id="category-sub" class="category-sub">
+        Today’s highest-ranked breakthroughs and discoveries in this category.
+      </p>
+
+      <div class="actions">
+        <button id="back-btn" class="btn btn-secondary">← Back to categories</button>
+        <button id="refresh-btn" class="btn btn-primary">Refresh data</button>
+      </div>
+
+      <div id="category-status" class="status hidden"></div>
+      <div id="cards" class="cards"></div>
     </section>
   </main>
 
@@ -610,9 +432,45 @@
 
   <script>
     const JSON_PATH = 'discoveries.json';
-    const app = document.getElementById('app');
+    const CATEGORY_DESCRIPTIONS = {
+      science: 'Today’s broad scientific breakthroughs across disciplines.',
+      tech: 'Today’s most important technology and engineering developments.',
+      medicine: 'Today’s leading medical and health-related breakthroughs.',
+      mathematics: 'Today’s most notable mathematics and theoretical advances.',
+      space: 'Today’s major spaceflight, mission, and exploration stories.',
+      astronomy: 'Today’s top observations, cosmic discoveries, and telescope findings.',
+      architecture: 'Today’s notable architecture, buildings, and design innovations.',
+      construction: 'Today’s key construction, infrastructure, and built-environment updates.',
+      ai: 'Today’s top artificial intelligence, model, and machine-learning developments.'
+    };
+
+    let discoveryData = null;
+
+    const homeView = document.getElementById('home-view');
+    const categoryView = document.getElementById('category-view');
+    const categoriesGrid = document.getElementById('categories-grid');
+    const homeStatus = document.getElementById('home-status');
+    const cards = document.getElementById('cards');
+    const categoryTitle = document.getElementById('category-title');
+    const categoryMeta = document.getElementById('category-meta');
+    const categorySub = document.getElementById('category-sub');
+    const categoryStatus = document.getElementById('category-status');
     const refreshBtn = document.getElementById('refresh-btn');
-    const chipsEl = document.getElementById('chips');
+    const backBtn = document.getElementById('back-btn');
+
+    function escapeHtml(str = '') {
+      return String(str)
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#39;');
+    }
+
+    function titleCase(str = '') {
+      if (str.toLowerCase() === 'ai') return 'AI';
+      return str.charAt(0).toUpperCase() + str.slice(1);
+    }
 
     function formatDisplayDate(dateStr) {
       if (!dateStr) return 'Date unavailable';
@@ -625,27 +483,6 @@
       });
     }
 
-    function escapeHtml(str = '') {
-      return String(str)
-        .replaceAll('&', '&amp;')
-        .replaceAll('<', '&lt;')
-        .replaceAll('>', '&gt;')
-        .replaceAll('"', '&quot;')
-        .replaceAll("'", '&#39;');
-    }
-
-    function slugify(value = '') {
-      return String(value).toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-    }
-
-    function tagClass(category = '') {
-      const key = slugify(category);
-      if (['science', 'tech', 'medicine', 'mathematics', 'space', 'astronomy', 'architecture', 'construction', 'ai'].includes(key)) {
-        return `tag-${key}`;
-      }
-      return 'tag-default';
-    }
-
     function impactDots(n = 3) {
       const count = Math.max(1, Math.min(5, Number(n) || 3));
       return `<div class="impact-dots">${
@@ -653,112 +490,126 @@
       }</div>`;
     }
 
-    function renderError(message) {
-      app.innerHTML = `
-        <section class="error-state">
-          <div class="error-title">Couldn’t load discoveries</div>
-          <div class="error-body">${escapeHtml(message)}</div>
-        </section>`;
+    function updateTopbar(data) {
+      document.getElementById('topbar-date').textContent = formatDisplayDate(data?.date);
+      document.getElementById('topbar-updated').textContent = data?.last_updated ? `Updated: ${data.last_updated}` : 'Updated: unavailable';
     }
 
-    function renderEmpty() {
-      app.innerHTML = `
-        <section class="empty-state">
-          <div class="empty-title">No discoveries available</div>
-          <div class="empty-body">The page loaded, but there were no category items in the JSON file.</div>
-        </section>`;
-    }
-
-    function renderChips(categories) {
-      chipsEl.innerHTML = categories.map(cat => {
-        const slug = slugify(cat);
-        const label = cat.charAt(0).toUpperCase() + cat.slice(1);
-        return `<a class="chip" href="#${slug}">${escapeHtml(label)}</a>`;
-      }).join('');
-    }
-
-    function renderSections(data) {
-      const categoriesObject = data.categories || {};
-      const categoryKeys = Object.keys(categoriesObject).filter(key => Array.isArray(categoriesObject[key]) && categoriesObject[key].length > 0);
-
-      document.getElementById('topbar-date').textContent = formatDisplayDate(data.date);
-      document.getElementById('topbar-updated').textContent = data.last_updated ? `Updated: ${data.last_updated}` : 'Updated: unavailable';
-      document.getElementById('topbar-badge').style.display = categoryKeys.length ? 'inline-block' : 'none';
-      document.getElementById('topbar-badge').textContent = `${categoryKeys.length} active`;
-      document.getElementById('categories-pill').textContent = `${categoryKeys.length} categor${categoryKeys.length === 1 ? 'y' : 'ies'}`;
-      const totalItems = categoryKeys.reduce((sum, key) => sum + categoriesObject[key].length, 0);
-      document.getElementById('items-pill').textContent = `${totalItems} discoveries`;
-
-      if (!categoryKeys.length) {
-        renderEmpty();
+    function renderCategoryTiles(data) {
+      const categories = Object.keys(data.categories || {});
+      if (!categories.length) {
+        categoriesGrid.innerHTML = '';
+        homeStatus.textContent = 'No categories found in discoveries.json.';
         return;
       }
 
-      renderChips(categoryKeys);
+      categoriesGrid.innerHTML = categories.map(key => {
+        const items = Array.isArray(data.categories[key]) ? data.categories[key] : [];
+        return `
+          <button class="category-tile" data-category="${escapeHtml(key)}">
+            <div class="tile-kicker">Daily category</div>
+            <div class="tile-title">${escapeHtml(titleCase(key))}</div>
+            <div class="tile-body">${escapeHtml(CATEGORY_DESCRIPTIONS[key] || 'Explore today’s highest-ranked items in this category.')}</div>
+          </button>
+        `;
+      }).join('');
 
-      app.innerHTML = `
-        <div class="sections">
-          ${categoryKeys.map((key) => {
-            const items = categoriesObject[key].slice(0, 5);
-            const label = key.charAt(0).toUpperCase() + key.slice(1);
-
-            return `
-              <section class="category-section" id="${escapeHtml(slugify(key))}">
-                <div class="category-header">
-                  <div class="category-title-wrap">
-                    <div class="category-kicker">Top 5 Today</div>
-                    <h2 class="category-title">${escapeHtml(label)}</h2>
-                  </div>
-                  <div class="category-count">${items.length} shown</div>
-                </div>
-
-                <div class="cards">
-                  ${items.map((item, idx) => `
-                    <article class="card ${idx === 0 ? 'featured' : ''}">
-                      <div class="card-inner">
-                        <div class="card-rank">
-                          <div class="rank-num">${idx + 1}</div>
-                        </div>
-                        <div class="card-content">
-                          <div class="card-meta">
-                            <span class="tag ${tagClass(item.category || key)}">${escapeHtml(item.category || label)}</span>
-                            <span class="source-tag">${escapeHtml(item.source || 'Unknown source')}</span>
-                          </div>
-                          <h3 class="card-title">${escapeHtml(item.title || 'Untitled')}</h3>
-                          <p class="card-body">${escapeHtml(item.summary || 'No summary available.')}</p>
-                          <div class="card-footer">
-                            <span class="impact-label">Impact</span>
-                            ${impactDots(item.impact)}
-                            <a class="card-link" href="${escapeHtml(item.source_url || '#')}" target="_blank" rel="noopener noreferrer">Read more →</a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-                  `).join('')}
-                </div>
-              </section>
-            `;
-          }).join('')}
-        </div>
-      `;
+      homeStatus.textContent = `${categories.length} categories loaded.`;
     }
 
-    async function loadDiscoveries(force = false) {
+    function renderCategory(categoryKey) {
+      const items = (discoveryData?.categories?.[categoryKey] || []).slice(0, 5);
+      categoryTitle.textContent = titleCase(categoryKey);
+      categoryMeta.textContent = `${items.length} shown`;
+      categorySub.textContent = CATEGORY_DESCRIPTIONS[categoryKey] || 'Today’s highest-ranked breakthroughs and discoveries in this category.';
+      categoryStatus.classList.add('hidden');
+
+      if (!items.length) {
+        cards.innerHTML = '';
+        categoryStatus.textContent = 'No discoveries available for this category yet.';
+        categoryStatus.classList.remove('hidden');
+      } else {
+        cards.innerHTML = items.map((item, idx) => `
+          <article class="card ${idx === 0 ? 'featured' : ''}">
+            <div class="card-inner">
+              <div class="card-rank"><div class="rank-num">${idx + 1}</div></div>
+              <div class="card-content">
+                <div class="card-meta-row">
+                  <span class="tag">${escapeHtml(item.category || titleCase(categoryKey))}</span>
+                  <span class="source-tag">${escapeHtml(item.source || 'Unknown source')}</span>
+                </div>
+                <h3 class="card-title">${escapeHtml(item.title || 'Untitled')}</h3>
+                <p class="card-body">${escapeHtml(item.summary || 'No summary available.')}</p>
+                <div class="card-footer">
+                  <span class="impact-label">Impact</span>
+                  ${impactDots(item.impact)}
+                  <a class="card-link" href="${escapeHtml(item.source_url || '#')}" target="_blank" rel="noopener noreferrer">Read more →</a>
+                </div>
+              </div>
+            </div>
+          </article>
+        `).join('');
+      }
+
+      homeView.classList.add('hidden');
+      categoryView.classList.remove('hidden');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function showHome() {
+      categoryView.classList.add('hidden');
+      homeView.classList.remove('hidden');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    async function loadData(force = false) {
       refreshBtn.disabled = true;
+      homeStatus.textContent = 'Loading categories…';
       try {
         const res = await fetch(`${JSON_PATH}?v=${force ? Date.now() : '1'}`, { cache: 'no-store' });
         if (!res.ok) throw new Error(`HTTP ${res.status}: could not load discoveries.json`);
-        const data = await res.json();
-        renderSections(data);
+        discoveryData = await res.json();
+        updateTopbar(discoveryData);
+        renderCategoryTiles(discoveryData);
+
+        const hashKey = window.location.hash.replace('#', '').trim().toLowerCase();
+        if (hashKey && discoveryData.categories && discoveryData.categories[hashKey]) {
+          renderCategory(hashKey);
+        }
       } catch (err) {
-        renderError(err.message || 'Unknown error.');
+        homeStatus.textContent = err.message || 'Unknown error.';
+        categoryStatus.textContent = err.message || 'Unknown error.';
+        categoryStatus.classList.remove('hidden');
       } finally {
         refreshBtn.disabled = false;
       }
     }
 
-    refreshBtn.addEventListener('click', () => loadDiscoveries(true));
-    loadDiscoveries();
+    categoriesGrid.addEventListener('click', (e) => {
+      const tile = e.target.closest('.category-tile');
+      if (!tile) return;
+      const categoryKey = tile.dataset.category;
+      window.location.hash = categoryKey;
+      renderCategory(categoryKey);
+    });
+
+    backBtn.addEventListener('click', () => {
+      history.replaceState(null, '', window.location.pathname + window.location.search);
+      showHome();
+    });
+
+    refreshBtn.addEventListener('click', () => loadData(true));
+
+    window.addEventListener('hashchange', () => {
+      const hashKey = window.location.hash.replace('#', '').trim().toLowerCase();
+      if (hashKey && discoveryData?.categories?.[hashKey]) {
+        renderCategory(hashKey);
+      } else {
+        showHome();
+      }
+    });
+
+    loadData();
   </script>
 </body>
 </html>
