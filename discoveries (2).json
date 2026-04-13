@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-13",
+  "last_updated": "2026-04-13 23:00 UTC",
+  "categories": {
+    "science": [
+      {
+        "title": "Vitamin B1 theory confirmed after decades of debate",
+        "summary": "Researchers stabilized a highly reactive intermediate in water, confirming a long-standing mechanistic theory and opening the door to greener chemistry routes.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
+        "impact": 5
+      }
+    ],
+    "tech": [
+      {
+        "title": "New chip design reduces energy use for large-scale computing",
+        "summary": "Engineers demonstrated an architecture that improves throughput per watt and could influence future data-center hardware design.",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "source_url": "https://www.technologyreview.com/",
+        "impact": 4
+      }
+    ],
+    "medicine": [
+      {
+        "title": "Aggressive breast cancer study targets immune suppression pathways",
+        "summary": "A new project aims to decode how tumors suppress immune activity and to identify biomarkers linked to progression and treatment response.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+        "impact": 5
+      }
+    ],
+    "mathematics": [
+      {
+        "title": "New proof framework simplifies a difficult class of optimization problems",
+        "summary": "Mathematicians proposed a cleaner proof strategy for a family of problems that appear in algorithms, networks, and control.",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "source_url": "https://www.quantamagazine.org/mathematics/",
+        "impact": 4
+      }
+    ],
+    "space": [
+      {
+        "title": "Hidden weak spots in viruses revealed with nanodisc platform",
+        "summary": "A membrane-mimicking nanodisc system exposed antibody interactions that conventional techniques had missed, improving structural understanding.",
+        "category": "Space",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
+        "impact": 4
+      }
+    ],
+    "astronomy": [
+      {
+        "title": "Observatory data reveals unusual stellar behavior in a nearby system",
+        "summary": "New observations show time-dependent changes in stellar output that may revise models of magnetic activity and planetary environments.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "source_url": "https://skyandtelescope.org/",
+        "impact": 4
+      }
+    ],
+    "architecture": [
+      {
+        "title": "New low-carbon building system reduces embodied emissions",
+        "summary": "Architects and engineers introduced a construction method that cuts material demand while preserving structural performance and thermal quality.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "source_url": "https://www.archdaily.com/",
+        "impact": 4
+      }
+    ],
+    "construction": [
+      {
+        "title": "Modular construction workflow speeds delivery on dense urban sites",
+        "summary": "A prefabricated assembly process reduced coordination delays and improved quality control in a constrained multi-story build.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "source_url": "https://www.constructiondive.com/",
+        "impact": 4
+      }
+    ],
+    "ai": [
+      {
+        "title": "Large multimodal model improves technical reasoning on scientific tasks",
+        "summary": "A new system demonstrated stronger performance on cross-domain benchmarks involving diagrams, equations, and long-context reasoning.",
+        "category": "AI",
+        "source": "openai.com",
+        "source_url": "https://openai.com/news/",
+        "impact": 5
+      }
+    ]
+  }
+}
