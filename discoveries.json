@@ -1,383 +1,383 @@
 {
   "date": "2026-04-13",
-  "last_updated": "2026-04-13 23:00 UTC",
+  "last_updated": "2026-04-13 18:40 UTC",
   "categories": {
     "science": [
       {
-        "title": "Vitamin B1 theory confirmed after decades of debate",
-        "summary": "Researchers stabilized a highly reactive intermediate in water, confirming a long-standing mechanistic theory and opening the door to greener chemistry routes.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
-        "impact": 5
-      },
-      {
-        "title": "Hidden weak spots in HIV and Ebola revealed with nanodisc technology",
-        "summary": "A nanodisc-based platform let scientists study viral proteins in a more realistic membrane environment and uncover antibody interactions that conventional methods missed.",
+        "title": "Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology",
+        "summary": "A new nanodisc-based platform lets scientists study viral proteins in a form that closely mimics real viruses, revealing how antibodies truly recognize them. This approach uncovered hidden interactions in viruses like HIV and Ebola that traditional methods missed. By recreating the virus’s membrane environment, researc...",
         "category": "Science",
         "source": "sciencedaily.com",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
         "impact": 5
       },
       {
-        "title": "Ancient human interaction evidence reshapes prehistory debate",
-        "summary": "New archaeological analysis suggests deeper cultural exchange between Neanderthals and Homo sapiens, affecting how researchers interpret social and technological evolution.",
+        "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+        "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising...",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+        "impact": 5
+      },
+      {
+        "title": "How aggressive breast cancer turns off the immune system",
+        "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Using real patient sam...",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+        "impact": 5
+      },
+      {
+        "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+        "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and behavioral innovations...",
         "category": "Science",
         "source": "sciencedaily.com",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
         "impact": 4
       },
       {
-        "title": "Scientists refine a greener pathway for high-value chemical synthesis",
-        "summary": "A new reaction route reduces waste and improves selectivity, offering a more sustainable way to produce complex molecules.",
+        "title": "Scientists Unveil Microscopy Breakthrough That Reveals “Invisible” Molecular States",
+        "summary": "Scientists have introduced a microscopy technique that reveals a hidden layer of chemistry involving molecules that normally evade detection. A team at the University of Tokyo has created a microscopy platform that can detect a previously unseen layer of biomolecular chemistry influenced by weak magnetic fields. The pr...",
         "category": "Science",
-        "source": "phys.org",
-        "source_url": "https://phys.org/",
-        "impact": 4
-      },
-      {
-        "title": "Researchers map an unexpected molecular mechanism in living cells",
-        "summary": "A cross-disciplinary team identified a hidden interaction pathway that may improve how scientists design biomaterials and diagnostics.",
-        "category": "Science",
-        "source": "sciencenews.org",
-        "source_url": "https://www.sciencenews.org/",
+        "source": "scitechdaily.com",
+        "source_url": "https://scitechdaily.com/scientists-unveil-microscopy-breakthrough-that-reveals-invisible-molecular-states/",
         "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "New chip design reduces energy use for large-scale computing",
-        "summary": "Engineers demonstrated an architecture that improves throughput per watt and could influence future data-center hardware design.",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "source_url": "https://www.technologyreview.com/",
-        "impact": 5
-      },
-      {
-        "title": "A new robotics system improves precision in repetitive industrial tasks",
-        "summary": "A redesigned control stack and vision loop raised repeatability and reduced manual intervention in test deployments.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "source_url": "https://arstechnica.com/",
-        "impact": 4
-      },
-      {
-        "title": "Low-power edge device pushes on-device sensing further",
-        "summary": "A compact hardware-software system handles more inference locally, reducing dependence on cloud calls and improving latency.",
-        "category": "Tech",
-        "source": "theverge.com",
-        "source_url": "https://www.theverge.com/",
-        "impact": 4
-      },
-      {
-        "title": "Novel battery management approach extends system runtime",
-        "summary": "A new control strategy improves balancing and efficiency in distributed energy storage electronics.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "source_url": "https://techcrunch.com/",
-        "impact": 4
-      },
-      {
-        "title": "Engineers unveil a more resilient networking architecture",
-        "summary": "The design improves fault tolerance under load and could help high-availability computing environments.",
+        "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+        "summary": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
         "category": "Tech",
         "source": "wired.com",
-        "source_url": "https://www.wired.com/",
+        "source_url": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
         "impact": 3
+      },
+      {
+        "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &#160; A spacecraft h...",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "source_url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+        "impact": 2
+      },
+      {
+        "title": "SwitchBot’s button-pressing robot is now available with a rechargeable battery",
+        "summary": "SwitchBot is introducing a new version of the tiny button-pressing robot that helped launch the company a decade ago. The functionality of the new SwitchBot Bot is exactly the same as the original that the company will continue to sell, but comes with a rechargeable battery instead of a disposable one. The SwitchBot Bo...",
+        "category": "Tech",
+        "source": "theverge.com",
+        "source_url": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
+        "impact": 2
+      },
+      {
+        "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in his early twenties sug...",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "source_url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+        "impact": 2
+      },
+      {
+        "title": "The Download: AstroTurf wars and exponential AI growth",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is&#160;fake&#160;grass&#160;a&#160;bad&#160;idea?&#160;The&#160;AstroTurf&#160;wars&#160;are&#160;far&#160;from&#160;over.&#160; In 2001,&#160;Americans installed just o...",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "source_url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+        "impact": 2
       }
     ],
     "medicine": [
       {
         "title": "How aggressive breast cancer turns off the immune system",
-        "summary": "A research effort is investigating how tumors suppress immune responses and which biomarkers best indicate progression and treatment response.",
+        "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Using real patient sam...",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
         "impact": 5
       },
       {
-        "title": "A new therapy design improves targeting in preclinical models",
-        "summary": "Researchers reported stronger localization and reduced off-target effects in early-stage experiments.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "source_url": "https://medicalxpress.com/",
-        "impact": 4
-      },
-      {
-        "title": "Diagnostic platform identifies disease signatures faster",
-        "summary": "A medical sensing workflow shortened analysis time while preserving sensitivity and specificity in benchmark tests.",
-        "category": "Medicine",
-        "source": "nih.gov",
-        "source_url": "https://www.nih.gov/news-events/news-releases",
-        "impact": 4
-      },
-      {
-        "title": "Scientists test a new strategy for restoring immune activity",
-        "summary": "The study explores how treatment timing and signaling pathways affect immune reactivation in aggressive disease states.",
-        "category": "Medicine",
-        "source": "news-medical.net",
-        "source_url": "https://www.news-medical.net/",
-        "impact": 4
-      },
-      {
-        "title": "Clinical data suggests a clearer route to personalized intervention",
-        "summary": "A new dataset links patient response patterns to a narrower set of treatment variables, supporting more individualized decisions.",
+        "title": "Scientists finally uncover why promising cancer drugs keep failing",
+        "summary": "Cancer drugs known as BET inhibitors once looked like a breakthrough, but in real patients they’ve often fallen short. New research reveals a key reason why: two closely related proteins, BRD2 and BRD4, don’t actually do the same job. Instead, BRD2 acts like a “stage manager,” preparing genes for activation, while BRD4...",
         "category": "Medicine",
         "source": "sciencedaily.com",
-        "source_url": "https://www.sciencedaily.com/rss/health_medicine.xml",
-        "impact": 3
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101055.htm",
+        "impact": 4
+      },
+      {
+        "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+        "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising...",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+        "impact": 4
+      },
+      {
+        "title": "Early weight gain is linked to lifelong health consequences",
+        "summary": "Putting on weight earlier in life may be more dangerous than previously thought. Researchers found that early adulthood obesity significantly raises the risk of premature death, especially from major diseases like heart disease and diabetes. The longer the body carries excess weight, the greater the damage appears to b...",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022023.htm",
+        "impact": 4
+      },
+      {
+        "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
+        "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene SLC35F2 as the gate...",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
+        "impact": 4
       }
     ],
     "mathematics": [
       {
-        "title": "New proof framework simplifies a difficult class of optimization problems",
-        "summary": "Mathematicians proposed a cleaner proof strategy for a family of problems that appear in algorithms, networks, and control.",
+        "title": "Generic Metrics on $S^{n+1}$ Preclude Linearly Stable Singular Tangent Cones of Area-Minimizing Boundaries",
+        "summary": "arXiv:2604.08822v1 Announce Type: new Abstract: We prove that for a residual (and hence dense) subset $\\mathcal{G}$ of Riemannian metrics on $S^{n+1}$ in the $C^{3}$ topology, no area-minimizing integral $n$-current that is a boundary admits a singular tangent cone which is linearly stable in the Euclidean sense. The p...",
         "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "source_url": "https://www.quantamagazine.org/mathematics/",
-        "impact": 5
-      },
-      {
-        "title": "Researchers connect algebraic structure to improved complexity bounds",
-        "summary": "A theoretical result sharpens understanding of how certain symbolic systems scale under constrained operations.",
-        "category": "Mathematics",
-        "source": "rss.arxiv.org",
-        "source_url": "https://rss.arxiv.org/rss/math",
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.08822",
         "impact": 4
       },
       {
-        "title": "A new geometry argument resolves a long-standing special case",
-        "summary": "The result does not solve the full conjecture, but it narrows the gap with an elegant constructive approach.",
+        "title": "Central limit theorem for the Allen-Cahn equation with supercritical random initial conditions",
+        "summary": "arXiv:2604.08623v1 Announce Type: new Abstract: We study the large-scale behavior of solutions to the Allen-Cahn reaction-diffusion equation with Gaussian initial data. We consider the case of short-range dependence in the associated supercritical regime with spatial dimension $d \\ge 3$. Under diffusive rescaling, the ...",
         "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "source_url": "https://www.quantamagazine.org/",
-        "impact": 4
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.08623",
+        "impact": 3
       },
       {
-        "title": "Mathematicians refine a theorem relevant to network optimization",
-        "summary": "The updated formulation may influence how researchers reason about graph structure and constrained flow.",
+        "title": "A necessary condition for solvability by radicals",
+        "summary": "arXiv:2604.08642v1 Announce Type: new Abstract: This note was prepared as a handout for the MAT401 course ``Polynomial equations and fields\", taught at the University of Toronto in Spring 2026. It presents a proof of a necessary condition for the solvability of algebraic equations by radicals, based on Galois theory. W...",
         "category": "Mathematics",
-        "source": "rss.arxiv.org",
-        "source_url": "https://rss.arxiv.org/rss/math",
-        "impact": 4
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.08642",
+        "impact": 3
       },
       {
-        "title": "A fresh topological method reveals hidden equivalence classes",
-        "summary": "The work introduces a compact proof pattern that may be useful in adjacent problems across pure mathematics.",
+        "title": "Galois theory for finite fields",
+        "summary": "arXiv:2604.08640v1 Announce Type: new Abstract: This note presents Galois theory for finite fields. It was written as a handout for the MAT401 course ``Polynomial equations and fields'' taught at the University of Toronto in Spring 2026. We use without proofs some basic properties of finite fields and of finite field e...",
         "category": "Mathematics",
-        "source": "rss.arxiv.org",
-        "source_url": "https://rss.arxiv.org/rss/math",
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.08640",
+        "impact": 3
+      },
+      {
+        "title": "Adaptive Randomized Neural Networks with Locally Activation Function: Theory and Algorithm for Solving PDEs",
+        "summary": "arXiv:2604.08869v1 Announce Type: new Abstract: This paper establishes an approximation theorem for randomized neural networks (RaNNs) whose hidden-layer parameters are uniformly sampled from a prescribed bounded domain. Our analysis shows that, for RaNNs of the form $\\mathop{\\sum}_i W_i \\sigma(A_i, b_i)$, the size of ...",
+        "category": "Mathematics",
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.08869",
         "impact": 3
       }
     ],
     "space": [
       {
-        "title": "A new orbital systems study improves mission planning under uncertainty",
-        "summary": "Researchers developed a method that better handles changing constraints in spacecraft operations and trajectory updates.",
+        "title": "NASA to Host Artemis II Crew Postflight News Conference",
+        "summary": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency)...",
         "category": "Space",
         "source": "nasa.gov",
-        "source_url": "https://www.nasa.gov/",
-        "impact": 5
+        "source_url": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
+        "impact": 4
       },
       {
-        "title": "Engineers test a safer architecture for long-duration mission support",
-        "summary": "The concept aims to improve robustness in critical systems needed for sustained exploration missions.",
+        "title": "NASA Science, Cargo Launch Aboard Northrop Grumman CRS-24",
+        "summary": "NASA is sending more science, technology demonstrations, and crew supplies to the International Space Station following the successful launch of the agency’s Northrop Grumman Commercial Resupply Services 24 mission, or Northrop Grumman CRS-24. Northrop Grumman’s Cygnus XL spacecraft, carrying approximately 11,000 pound...",
+        "category": "Space",
+        "source": "nasa.gov",
+        "source_url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/",
+        "impact": 4
+      },
+      {
+        "title": "Splashdown! Artemis 2 astronauts return to Earth after historic NASA mission to the moon",
+        "summary": "NASA's Artemis 2 astronauts came home today (April 10), wrapping up an epic mission that broke spaceflight records and set the stage for even more ambitious moonshots to come.",
         "category": "Space",
         "source": "space.com",
-        "source_url": "https://www.space.com/",
+        "source_url": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission",
         "impact": 4
       },
       {
-        "title": "A mission analysis tool cuts compute time for trajectory trade studies",
-        "summary": "The workflow gives teams faster insight into feasible launch and transfer windows.",
+        "title": "NASA Night-light Imagery Tracks US Energy Transition, Global Volatility",
+        "summary": "New nighttime maps based on NASA satellite imagery are upending assumptions, revealing a world where artificial brightening and dimming have intensified over the past decade. The findings show intense flaring over major oil and gas fields in the United States, while factors such as rural electrification and energy cons...",
         "category": "Space",
-        "source": "sciencedaily.com",
-        "source_url": "https://www.sciencedaily.com/rss/top/space_time.xml",
-        "impact": 4
+        "source": "science.nasa.gov",
+        "source_url": "https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/",
+        "impact": 3
       },
       {
-        "title": "New propulsion data helps refine small-satellite maneuver models",
-        "summary": "The study improves understanding of how real operating conditions change performance predictions.",
+        "title": "Artemis II Splashes Down",
+        "summary": "This image from April 10, 2026, captures NASA&#8217;s Orion spacecraft, with its parachutes deployed, seconds before splashdown in the Pacific Ocean. The Artemis II crew accomplished many milestones on their nearly 10-day mission, surpassing the Apollo 13 record for farthest crewed spaceflight and capturing views of th...",
         "category": "Space",
-        "source": "esa.int",
-        "source_url": "https://www.esa.int/",
-        "impact": 4
-      },
-      {
-        "title": "Researchers improve risk models for orbital congestion",
-        "summary": "The updated framework supports more reliable scenario analysis for crowded low-Earth orbit environments.",
-        "category": "Space",
-        "source": "space.com",
-        "source_url": "https://www.space.com/feeds/all",
+        "source": "nasa.gov",
+        "source_url": "https://www.nasa.gov/image-article/artemis-ii-splashes-down/",
         "impact": 3
       }
     ],
     "astronomy": [
       {
-        "title": "Observatory data reveals unusual stellar behavior in a nearby system",
-        "summary": "New observations show time-dependent changes in stellar output that may revise models of magnetic activity and planetary environments.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "source_url": "https://skyandtelescope.org/",
-        "impact": 5
-      },
-      {
-        "title": "A telescope survey finds a rare structure around a distant object",
-        "summary": "Astronomers identified an unexpected pattern that may refine current models of formation and evolution.",
+        "title": "The Moon Just Got a New Scar",
+        "summary": "A crater the size of two football pitches has appeared on the Moon and for the first time, scientists have been able to watch exactly what happened. Captured by NASA's Lunar Reconnaissance Orbiter before and after the impact, this remarkable discovery is giving planetary scientists an unprecedented close up of one of t...",
         "category": "Astronomy",
         "source": "universetoday.com",
-        "source_url": "https://www.universetoday.com/",
-        "impact": 4
+        "source_url": "https://www.universetoday.com/articles/the-moon-just-got-a-new-scar",
+        "impact": 3
       },
       {
-        "title": "Researchers detect a new signal trend in exoplanet observations",
-        "summary": "The finding could improve how scientists distinguish instrumental noise from true atmospheric signatures.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "source_url": "https://www.space.com/",
-        "impact": 4
-      },
-      {
-        "title": "Deep-sky analysis suggests a revised timeline for galactic growth",
-        "summary": "A large dataset points to a more complex sequence of events in early cosmic structure formation.",
+        "title": "Rubin Observatory Announces 11,000 New Asteroids",
+        "summary": "The Vera C. Rubin Observatory will discover up to 500,000 solar system objects every year. It’s already starting to deliver on that promise. The post Rubin Observatory Announces 11,000 New Asteroids appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
-        "source_url": "https://skyandtelescope.org/feed/",
-        "impact": 4
+        "source_url": "https://skyandtelescope.org/astronomy-news/rubin-observatory-announces-11000-new-asteroids/",
+        "impact": 3
       },
       {
-        "title": "New processing method sharpens faint-object detection in telescope data",
-        "summary": "The computational approach improves contrast and helps preserve weak features in noisy astronomical images.",
+        "title": "It's Not Supposed To Be Like This: A Giant Planet Orbits A Small Star",
+        "summary": "According to theory and models of planet formation, large gas giants should form around massive stars. That's because massive stars have more massive protoplanetary disks. But astronomers have the opposite arrangement in some cases. New research highlights a massive gas giant on a close-in orbit around a low-mass M-dwa...",
         "category": "Astronomy",
         "source": "universetoday.com",
-        "source_url": "https://www.universetoday.com/feed/",
+        "source_url": "https://www.universetoday.com/articles/its-not-supposed-to-be-like-this-a-giant-planet-orbits-a-small-star",
+        "impact": 3
+      },
+      {
+        "title": "A New Class of Star: Merger Remnant",
+        "summary": "In the vastness of the Universe, any new object with interesting properties can spur the search for similar objects, potentially establishing a new class of stars. In a paper published in Astronomy &amp; Astrophysics and an arXiv preprint, researchers from the Institute of Science and Technology Austria (ISTA) describe...",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "source_url": "https://www.universetoday.com/articles/a-new-class-of-star-merger-remnant",
+        "impact": 3
+      },
+      {
+        "title": "Planets Collide Around Young, Sun-like Star",
+        "summary": "Astronomers have uncovered evidence that two planets collided around a young star, revealing how giant impacts sculpt baby solar systems. The post Planets Collide Around Young, Sun-like Star appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "source_url": "https://skyandtelescope.org/astronomy-news/planets-collide-around-young-sun-like-star/",
         "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "New low-carbon building system reduces embodied emissions",
-        "summary": "Architects and engineers introduced a construction method that cuts material demand while preserving structural performance and thermal quality.",
+        "title": "How Spanish Ceramics Bridge Culture, Memory and Identity at Milan Design Week 2026",
+        "summary": "How does an architectural installation express the identity of a region? How can a building material connect with the essence of a nation? Throughout its history, Spain has been shaped by a wide range of cultures and civilizations, including Muslim, Phoenician, Roman, Greek, Carthaginian, and Visigothic influences. Fro...",
         "category": "Architecture",
         "source": "archdaily.com",
-        "source_url": "https://www.archdaily.com/",
-        "impact": 5
-      },
-      {
-        "title": "Adaptive facade design improves daylight while reducing heat gain",
-        "summary": "A project combines passive control with computational design to improve occupant comfort and energy performance.",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "source_url": "https://www.dezeen.com/architecture/",
+        "source_url": "https://www.archdaily.com/1040400/how-spanish-ceramics-bridge-culture-memory-and-identity-at-milan-design-week-2026",
         "impact": 4
       },
       {
-        "title": "A modular public building concept shortens design-to-build cycles",
-        "summary": "The system standardizes repeatable components without losing spatial flexibility across different sites.",
+        "title": "\"Artisans of the Reiwa Era\" Documentary Showcases Traditional Japanese Wood Construction and Craftsmanship",
+        "summary": "Rinshunkaku is a notable example of early Edo-period residential architecture. Originally built in the Wakayama Prefecture by the Kishu Tokugawa family, the villa was relocated to Sankeien, a traditional Japanese garden in the city of Yokohama, during the Taisho era (1912-1926). The garden was created in the early 20th...",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "source_url": "https://www.archdaily.com/1032340/artisans-of-the-reiwa-era-documentary-showcases-traditional-japanese-wood-construction-and-craftsmanship",
+        "impact": 4
+      },
+      {
+        "title": "Replus Bureau avoids \"nostalgic reconstruction\" in Ukrainian villa renovation",
+        "summary": "Ukrainian architecture studio Replus Bureau has renovated a 20th-century villa in Lviv, contrasting the exposed surfaces of its historic shell with contemporary extensions and finishes. Named Villa Quince after a neighbouring grove of fruit trees, the dwelling near Znesinnia Park was originally designed in 1906 in a ne...",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "source_url": "https://www.dezeen.com/2026/04/04/replus-bureau-villa-quince/",
+        "impact": 4
+      },
+      {
+        "title": "Meganom shows infinity pool topping its skinny New York skyscraper",
+        "summary": "Russian architecture studio Meganom has released renderings showing an infinity pool on its near-completed skyscraper in Manhattan's NoMad neighbourhood. 262 Fifth Avenue will be \"the tallest all-residential building on Fifth Avenue\" according to Meganom, and will be 860 feet (262 metres) tall with 52 storeys. It is ju...",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "source_url": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/",
+        "impact": 4
+      },
+      {
+        "title": "lush facade of potted plants screens this vietnamese residence by H&P architects",
+        "summary": "'flying vegetation' integrates urban agriculture through a planted facade that filters sunlight and breezes. The post lush facade of potted plants screens this vietnamese residence by H&#038;P architects appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
         "source": "designboom.com",
-        "source_url": "https://www.designboom.com/architecture/",
+        "source_url": "https://www.designboom.com/architecture/lush-facade-potted-plants-screens-vietnamese-residence-hp-architects-flying-vegetation/",
         "impact": 4
-      },
-      {
-        "title": "Researchers test structural layouts for lower-material urban housing",
-        "summary": "The approach aims to reduce cost and embodied carbon while maintaining livability and code compliance.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "source_url": "https://www.archdaily.com/rss",
-        "impact": 4
-      },
-      {
-        "title": "Computational workflow links site constraints to faster concept evaluation",
-        "summary": "A new design method helps teams compare performance implications earlier in the project cycle.",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "source_url": "https://www.dezeen.com/architecture/feed/",
-        "impact": 3
       }
     ],
     "construction": [
       {
-        "title": "Modular construction workflow speeds delivery on dense urban sites",
-        "summary": "A prefabricated assembly process reduced coordination delays and improved quality control in a constrained multi-story build.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "source_url": "https://www.constructiondive.com/",
-        "impact": 5
-      },
-      {
-        "title": "A new scheduling method reduces downtime across parallel trades",
-        "summary": "The workflow improved sequencing and reduced idle labor in a complex infrastructure build.",
-        "category": "Construction",
-        "source": "engineering.com",
-        "source_url": "https://www.engineering.com/",
-        "impact": 4
-      },
-      {
-        "title": "Engineers improve concrete monitoring with embedded sensor data",
-        "summary": "The system provides earlier warning of curing anomalies and helps teams intervene sooner.",
+        "title": "Letter to the Editor: Major Shifts Needed for Integrated Project Delivery",
+        "summary": "Thanks for the great article on Lean and IPD (ENR 6/15 p. 8). It&rsquo;s very helpful for the design and construction community to have a thoughtful piece for discussion.",
         "category": "Construction",
         "source": "enr.com",
-        "source_url": "https://www.enr.com/",
-        "impact": 4
+        "source_url": "https://www.enr.com/articles/8149-letter-to-the-editor-major-shifts-needed-for-integrated-project-delivery",
+        "impact": 3
       },
       {
-        "title": "Digital QA process cuts rework in prefabricated assemblies",
-        "summary": "A more structured verification pipeline improved first-pass quality in field installation.",
+        "title": "Correction: Wrong Casino Collapse Photo",
+        "summary": "Related Links: Engineering News Record Architectural Record &#65279;The story \"OSHA Points to Process Errors in Cincinnati Casino Collapse\" contained errors. The photograph depicted another Horseshoe Casino, which collapsed last December in Cleveland. Also, Messer Construction Co. received its last OSHA violation in Ja...",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "source_url": "https://www.newcivilengineer.com/",
-        "impact": 4
+        "source": "enr.com",
+        "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
+        "impact": 3
       },
       {
-        "title": "A bridge-maintenance model prioritizes interventions more efficiently",
-        "summary": "The method helps agencies allocate resources using updated condition and risk data.",
+        "title": "Corrections",
+        "summary": "&#65279;\"BIM Consensus Standard Is a Step Forward but Not a Major Leap Toward Interoperability\" should have stated that Nemetschek Vectorworks and Graphisoft are owned by the same company, Nemetschek Group. Also, the headquarters of FM:Systems is located in Raleigh, N.C.&#65279;\"Cracks Slow Pontoon Job\" erroneously sta...",
+        "category": "Construction",
+        "source": "enr.com",
+        "source_url": "https://www.enr.com/articles/8139-corrections",
+        "impact": 3
+      },
+      {
+        "title": "Suffolk tapped as construction manager for $1.2B student housing project",
+        "summary": "The Boston-based contractor plans to use a unique modular stacking construction method to ensure accuracy and cut down on delivery time.",
         "category": "Construction",
         "source": "constructiondive.com",
-        "source_url": "https://www.constructiondive.com/feeds/news/",
+        "source_url": "https://www.constructiondive.com/news/suffolk-construction-manager-cal-poly-student-housing/817234/",
+        "impact": 3
+      },
+      {
+        "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
+        "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
+        "category": "Construction",
+        "source": "enr.com",
+        "source_url": "https://www.enr.com/articles/8151-letter-to-the-editor-theres-nothing-new-under-the-sun-for-bridges",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Large multimodal model improves technical reasoning on scientific tasks",
-        "summary": "A new system demonstrated stronger performance on cross-domain benchmarks involving diagrams, equations, and long-context reasoning.",
+        "title": "Model Space Reasoning as Search in Feedback Space for Planning Domain Generation",
+        "summary": "arXiv:2604.08712v1 Announce Type: new Abstract: The generation of planning domains from natural language descriptions remains an open problem even with the advent of large language models and reasoning models. Recent work suggests that while LLMs have the ability to assist with domain generation, they are still far fro...",
         "category": "AI",
-        "source": "openai.com",
-        "source_url": "https://openai.com/news/",
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.08712",
         "impact": 5
       },
       {
-        "title": "A new training strategy improves model reliability under distribution shift",
-        "summary": "Researchers reported better robustness when models encounter examples outside their primary training distribution.",
+        "title": "Hypergraph Neural Networks Accelerate MUS Enumeration",
+        "summary": "arXiv:2604.09001v1 Announce Type: new Abstract: Enumerating Minimal Unsatisfiable Subsets (MUSes) is a fundamental task in constraint satisfaction problems (CSPs). Its major challenge is the exponential growth of the search space, which becomes particularly severe when satisfiability checks are expensive. Recent machin...",
         "category": "AI",
-        "source": "huggingface.co",
-        "source_url": "https://huggingface.co/blog",
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.09001",
+        "impact": 5
+      },
+      {
+        "title": "Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym",
+        "summary": "arXiv:2604.09338v1 Announce Type: new Abstract: Spatial reasoning is central to navigation and robotics, yet measuring model capabilities on these tasks remains difficult. Existing benchmarks evaluate models in a one-shot setting, requiring full solution generation in a single response, unlike humans, who work in inter...",
+        "category": "AI",
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.09338",
         "impact": 4
       },
       {
-        "title": "Agent workflow cuts tool-use errors in multi-step tasks",
-        "summary": "A redesigned planning loop improved execution accuracy across longer task chains.",
+        "title": "E3-TIR: Enhanced Experience Exploitation for Tool-Integrated Reasoning",
+        "summary": "arXiv:2604.09455v1 Announce Type: new Abstract: While Large Language Models (LLMs) have demonstrated significant potential in Tool-Integrated Reasoning (TIR), existing training paradigms face significant limitations: Zero-RL suffers from inefficient exploration and mode degradation due to a lack of prior guidance, whil...",
         "category": "AI",
-        "source": "technologyreview.com",
-        "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.09455",
         "impact": 4
       },
       {
-        "title": "Researchers reduce inference cost without large accuracy loss",
-        "summary": "A compact efficiency method lowers compute requirements and could make deployment easier on constrained hardware.",
+        "title": "Medical Reasoning with Large Language Models: A Survey and MR-Bench",
+        "summary": "arXiv:2604.08559v1 Announce Type: cross Abstract: Large language models (LLMs) have achieved strong performance on medical exam-style tasks, motivating growing interest in their deployment in real-world clinical settings. However, clinical decision-making is inherently safety-critical, context-dependent, and conducted ...",
         "category": "AI",
-        "source": "rss.arxiv.org",
-        "source_url": "https://rss.arxiv.org/rss/cs.AI",
+        "source": "arxiv.org",
+        "source_url": "https://arxiv.org/abs/2604.08559",
         "impact": 4
-      },
-      {
-        "title": "A multimodal benchmark exposes new gaps in visual-language reasoning",
-        "summary": "The evaluation shows where current systems still struggle with grounded interpretation and scientific context.",
-        "category": "AI",
-        "source": "blog.google",
-        "source_url": "https://blog.google/technology/ai/",
-        "impact": 3
       }
     ]
   }
