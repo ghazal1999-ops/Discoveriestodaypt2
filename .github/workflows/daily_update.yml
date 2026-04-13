@@ -1,0 +1,146 @@
+name: Update Daily Discoveries
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-discoveries:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependency
+        run: pip install feedparser
+
+      - name: Generate discoveries.json from RSS feeds
+        run: |
+          python << 'PY'
+          import json
+          import re
+          from datetime import datetime, timezone
+          from urllib.parse import urlparse
+          import feedparser
+
+          RSS_FEEDS = [
+              "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+              "https://www.sciencedaily.com/rss/top/science.xml",
+              "https://www.sciencedaily.com/rss/top/space_time.xml",
+              "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          ]
+
+          KEYWORDS = [
+              "discovery", "discover", "breakthrough", "study", "research", "scientists",
+              "astronomers", "engineers", "found", "reveals", "revealed", "new", "first"
+          ]
+
+          def clean_text(text):
+              text = re.sub(r"<[^>]+>", "", text or "")
+              text = re.sub(r"\s+", " ", text).strip()
+              return text
+
+          def infer_category(text):
+              t = text.lower()
+              if any(k in t for k in ["space", "nasa", "planet", "star", "galaxy", "black hole", "moon", "mars", "telescope", "orbit"]):
+                  return "Space"
+              if any(k in t for k in ["medicine", "medical", "disease", "therapy", "drug", "clinical", "patient", "health"]):
+                  return "Medicine"
+              if any(k in t for k in ["ai", "artificial intelligence", "machine learning", "robot", "neural", "model"]):
+                  return "AI & Tech"
+              if any(k in t for k in ["climate", "warming", "carbon", "emissions", "ocean", "glacier", "atmosphere"]):
+                  return "Climate"
+              if any(k in t for k in ["biology", "gene", "dna", "species", "cell", "protein", "bacteria", "virus"]):
+                  return "Biology"
+              if any(k in t for k in ["physics", "quantum", "particle", "laser", "fusion", "superconductor", "electron", "photon"]):
+                  return "Physics"
+              return "Science"
+
+          def infer_impact(text):
+              t = text.lower()
+              if any(k in t for k in ["breakthrough", "first ever", "historic", "landmark", "major", "unprecedented"]):
+                  return 5
+              if any(k in t for k in ["new study", "researchers", "scientists", "reveals", "discovery"]):
+                  return 4
+              return 3
+
+          def looks_relevant(text):
+              t = text.lower()
+              return any(k in t for k in KEYWORDS)
+
+          all_items = []
+          seen_links = set()
+
+          for feed_url in RSS_FEEDS:
+              feed = feedparser.parse(feed_url)
+
+              if getattr(feed, "bozo", 0):
+                  print(f"Warning: could not fully parse {feed_url}")
+
+              for entry in feed.entries[:10]:
+                  title = clean_text(entry.get("title", ""))
+                  summary = clean_text(entry.get("summary", entry.get("description", "")))
+                  link = entry.get("link", "")
+
+                  if not title or not link or link in seen_links:
+                      continue
+
+                  combined = f"{title} {summary}"
+
+                  if not looks_relevant(combined):
+                      continue
+
+                  seen_links.add(link)
+                  source = urlparse(link).netloc.replace("www.", "")
+
+                  all_items.append({
+                      "title": title,
+                      "summary": summary[:300] if summary else title,
+                      "category": infer_category(combined),
+                      "source": source,
+                      "source_url": link,
+                      "impact": infer_impact(combined)
+                  })
+
+          all_items.sort(key=lambda x: (x["impact"], len(x["title"]) + len(x["summary"])), reverse=True)
+          top5 = all_items[:5]
+
+          if not top5:
+              top5 = [{
+                  "title": "No fresh discoveries found",
+                  "summary": "The workflow ran, but no suitable RSS items were found today. Try adding more feeds.",
+                  "category": "Science",
+                  "source": "GitHub Action",
+                  "source_url": "https://github.com",
+                  "impact": 2
+              }]
+
+          output = {
+              "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+              "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+              "items": top5
+          }
+
+          with open("discoveries.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, indent=2, ensure_ascii=False)
+
+          print("discoveries.json updated successfully")
+          PY
+
+      - name: Commit and push if file changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add discoveries.json
+          git diff --staged --quiet || git commit -m "Update daily discoveries"
+          git push
