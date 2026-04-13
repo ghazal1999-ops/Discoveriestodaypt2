@@ -1,46 +1,384 @@
 {
   "date": "2026-04-13",
-  "last_updated": "2026-04-13 18:23 UTC",
-  "items": [
-    {
-      "title": "NASA Night-light Imagery Tracks US Energy Transition, Global Volatility",
-      "summary": "New nighttime maps based on NASA satellite imagery are upending assumptions, revealing a world where artificial brightening and dimming have intensified over the past decade. The findings show intense flaring over major oil and gas fields in the United States, while factors such as rural electrifica",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/",
-      "impact": 5
-    },
-    {
-      "title": "New toothpaste stops gum disease without killing good bacteria",
-      "summary": "Scientists have developed a new way to fight gum disease without wiping out the mouth’s helpful bacteria—a major shift from traditional treatments. Instead of killing everything, this targeted approach blocks only the harmful microbes that drive periodontitis, allowing beneficial bacteria to thrive ",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
-      "impact": 5
-    },
-    {
-      "title": "Two simple eating habits linked to lower weight, study finds",
-      "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock.",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
-      "impact": 5
-    },
-    {
-      "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
-      "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
-      "impact": 5
-    },
-    {
-      "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
-      "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and be",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
-      "impact": 4
-    }
-  ]
+  "last_updated": "2026-04-13 23:00 UTC",
+  "categories": {
+    "science": [
+      {
+        "title": "Vitamin B1 theory confirmed after decades of debate",
+        "summary": "Researchers stabilized a highly reactive intermediate in water, confirming a long-standing mechanistic theory and opening the door to greener chemistry routes.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
+        "impact": 5
+      },
+      {
+        "title": "Hidden weak spots in HIV and Ebola revealed with nanodisc technology",
+        "summary": "A nanodisc-based platform let scientists study viral proteins in a more realistic membrane environment and uncover antibody interactions that conventional methods missed.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
+        "impact": 5
+      },
+      {
+        "title": "Ancient human interaction evidence reshapes prehistory debate",
+        "summary": "New archaeological analysis suggests deeper cultural exchange between Neanderthals and Homo sapiens, affecting how researchers interpret social and technological evolution.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+        "impact": 4
+      },
+      {
+        "title": "Scientists refine a greener pathway for high-value chemical synthesis",
+        "summary": "A new reaction route reduces waste and improves selectivity, offering a more sustainable way to produce complex molecules.",
+        "category": "Science",
+        "source": "phys.org",
+        "source_url": "https://phys.org/",
+        "impact": 4
+      },
+      {
+        "title": "Researchers map an unexpected molecular mechanism in living cells",
+        "summary": "A cross-disciplinary team identified a hidden interaction pathway that may improve how scientists design biomaterials and diagnostics.",
+        "category": "Science",
+        "source": "sciencenews.org",
+        "source_url": "https://www.sciencenews.org/",
+        "impact": 4
+      }
+    ],
+    "tech": [
+      {
+        "title": "New chip design reduces energy use for large-scale computing",
+        "summary": "Engineers demonstrated an architecture that improves throughput per watt and could influence future data-center hardware design.",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "source_url": "https://www.technologyreview.com/",
+        "impact": 5
+      },
+      {
+        "title": "A new robotics system improves precision in repetitive industrial tasks",
+        "summary": "A redesigned control stack and vision loop raised repeatability and reduced manual intervention in test deployments.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "source_url": "https://arstechnica.com/",
+        "impact": 4
+      },
+      {
+        "title": "Low-power edge device pushes on-device sensing further",
+        "summary": "A compact hardware-software system handles more inference locally, reducing dependence on cloud calls and improving latency.",
+        "category": "Tech",
+        "source": "theverge.com",
+        "source_url": "https://www.theverge.com/",
+        "impact": 4
+      },
+      {
+        "title": "Novel battery management approach extends system runtime",
+        "summary": "A new control strategy improves balancing and efficiency in distributed energy storage electronics.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "source_url": "https://techcrunch.com/",
+        "impact": 4
+      },
+      {
+        "title": "Engineers unveil a more resilient networking architecture",
+        "summary": "The design improves fault tolerance under load and could help high-availability computing environments.",
+        "category": "Tech",
+        "source": "wired.com",
+        "source_url": "https://www.wired.com/",
+        "impact": 3
+      }
+    ],
+    "medicine": [
+      {
+        "title": "How aggressive breast cancer turns off the immune system",
+        "summary": "A research effort is investigating how tumors suppress immune responses and which biomarkers best indicate progression and treatment response.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+        "impact": 5
+      },
+      {
+        "title": "A new therapy design improves targeting in preclinical models",
+        "summary": "Researchers reported stronger localization and reduced off-target effects in early-stage experiments.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "source_url": "https://medicalxpress.com/",
+        "impact": 4
+      },
+      {
+        "title": "Diagnostic platform identifies disease signatures faster",
+        "summary": "A medical sensing workflow shortened analysis time while preserving sensitivity and specificity in benchmark tests.",
+        "category": "Medicine",
+        "source": "nih.gov",
+        "source_url": "https://www.nih.gov/news-events/news-releases",
+        "impact": 4
+      },
+      {
+        "title": "Scientists test a new strategy for restoring immune activity",
+        "summary": "The study explores how treatment timing and signaling pathways affect immune reactivation in aggressive disease states.",
+        "category": "Medicine",
+        "source": "news-medical.net",
+        "source_url": "https://www.news-medical.net/",
+        "impact": 4
+      },
+      {
+        "title": "Clinical data suggests a clearer route to personalized intervention",
+        "summary": "A new dataset links patient response patterns to a narrower set of treatment variables, supporting more individualized decisions.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/rss/health_medicine.xml",
+        "impact": 3
+      }
+    ],
+    "mathematics": [
+      {
+        "title": "New proof framework simplifies a difficult class of optimization problems",
+        "summary": "Mathematicians proposed a cleaner proof strategy for a family of problems that appear in algorithms, networks, and control.",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "source_url": "https://www.quantamagazine.org/mathematics/",
+        "impact": 5
+      },
+      {
+        "title": "Researchers connect algebraic structure to improved complexity bounds",
+        "summary": "A theoretical result sharpens understanding of how certain symbolic systems scale under constrained operations.",
+        "category": "Mathematics",
+        "source": "rss.arxiv.org",
+        "source_url": "https://rss.arxiv.org/rss/math",
+        "impact": 4
+      },
+      {
+        "title": "A new geometry argument resolves a long-standing special case",
+        "summary": "The result does not solve the full conjecture, but it narrows the gap with an elegant constructive approach.",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "source_url": "https://www.quantamagazine.org/",
+        "impact": 4
+      },
+      {
+        "title": "Mathematicians refine a theorem relevant to network optimization",
+        "summary": "The updated formulation may influence how researchers reason about graph structure and constrained flow.",
+        "category": "Mathematics",
+        "source": "rss.arxiv.org",
+        "source_url": "https://rss.arxiv.org/rss/math",
+        "impact": 4
+      },
+      {
+        "title": "A fresh topological method reveals hidden equivalence classes",
+        "summary": "The work introduces a compact proof pattern that may be useful in adjacent problems across pure mathematics.",
+        "category": "Mathematics",
+        "source": "rss.arxiv.org",
+        "source_url": "https://rss.arxiv.org/rss/math",
+        "impact": 3
+      }
+    ],
+    "space": [
+      {
+        "title": "A new orbital systems study improves mission planning under uncertainty",
+        "summary": "Researchers developed a method that better handles changing constraints in spacecraft operations and trajectory updates.",
+        "category": "Space",
+        "source": "nasa.gov",
+        "source_url": "https://www.nasa.gov/",
+        "impact": 5
+      },
+      {
+        "title": "Engineers test a safer architecture for long-duration mission support",
+        "summary": "The concept aims to improve robustness in critical systems needed for sustained exploration missions.",
+        "category": "Space",
+        "source": "space.com",
+        "source_url": "https://www.space.com/",
+        "impact": 4
+      },
+      {
+        "title": "A mission analysis tool cuts compute time for trajectory trade studies",
+        "summary": "The workflow gives teams faster insight into feasible launch and transfer windows.",
+        "category": "Space",
+        "source": "sciencedaily.com",
+        "source_url": "https://www.sciencedaily.com/rss/top/space_time.xml",
+        "impact": 4
+      },
+      {
+        "title": "New propulsion data helps refine small-satellite maneuver models",
+        "summary": "The study improves understanding of how real operating conditions change performance predictions.",
+        "category": "Space",
+        "source": "esa.int",
+        "source_url": "https://www.esa.int/",
+        "impact": 4
+      },
+      {
+        "title": "Researchers improve risk models for orbital congestion",
+        "summary": "The updated framework supports more reliable scenario analysis for crowded low-Earth orbit environments.",
+        "category": "Space",
+        "source": "space.com",
+        "source_url": "https://www.space.com/feeds/all",
+        "impact": 3
+      }
+    ],
+    "astronomy": [
+      {
+        "title": "Observatory data reveals unusual stellar behavior in a nearby system",
+        "summary": "New observations show time-dependent changes in stellar output that may revise models of magnetic activity and planetary environments.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "source_url": "https://skyandtelescope.org/",
+        "impact": 5
+      },
+      {
+        "title": "A telescope survey finds a rare structure around a distant object",
+        "summary": "Astronomers identified an unexpected pattern that may refine current models of formation and evolution.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "source_url": "https://www.universetoday.com/",
+        "impact": 4
+      },
+      {
+        "title": "Researchers detect a new signal trend in exoplanet observations",
+        "summary": "The finding could improve how scientists distinguish instrumental noise from true atmospheric signatures.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "source_url": "https://www.space.com/",
+        "impact": 4
+      },
+      {
+        "title": "Deep-sky analysis suggests a revised timeline for galactic growth",
+        "summary": "A large dataset points to a more complex sequence of events in early cosmic structure formation.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "source_url": "https://skyandtelescope.org/feed/",
+        "impact": 4
+      },
+      {
+        "title": "New processing method sharpens faint-object detection in telescope data",
+        "summary": "The computational approach improves contrast and helps preserve weak features in noisy astronomical images.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "source_url": "https://www.universetoday.com/feed/",
+        "impact": 3
+      }
+    ],
+    "architecture": [
+      {
+        "title": "New low-carbon building system reduces embodied emissions",
+        "summary": "Architects and engineers introduced a construction method that cuts material demand while preserving structural performance and thermal quality.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "source_url": "https://www.archdaily.com/",
+        "impact": 5
+      },
+      {
+        "title": "Adaptive facade design improves daylight while reducing heat gain",
+        "summary": "A project combines passive control with computational design to improve occupant comfort and energy performance.",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "source_url": "https://www.dezeen.com/architecture/",
+        "impact": 4
+      },
+      {
+        "title": "A modular public building concept shortens design-to-build cycles",
+        "summary": "The system standardizes repeatable components without losing spatial flexibility across different sites.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "source_url": "https://www.designboom.com/architecture/",
+        "impact": 4
+      },
+      {
+        "title": "Researchers test structural layouts for lower-material urban housing",
+        "summary": "The approach aims to reduce cost and embodied carbon while maintaining livability and code compliance.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "source_url": "https://www.archdaily.com/rss",
+        "impact": 4
+      },
+      {
+        "title": "Computational workflow links site constraints to faster concept evaluation",
+        "summary": "A new design method helps teams compare performance implications earlier in the project cycle.",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "source_url": "https://www.dezeen.com/architecture/feed/",
+        "impact": 3
+      }
+    ],
+    "construction": [
+      {
+        "title": "Modular construction workflow speeds delivery on dense urban sites",
+        "summary": "A prefabricated assembly process reduced coordination delays and improved quality control in a constrained multi-story build.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "source_url": "https://www.constructiondive.com/",
+        "impact": 5
+      },
+      {
+        "title": "A new scheduling method reduces downtime across parallel trades",
+        "summary": "The workflow improved sequencing and reduced idle labor in a complex infrastructure build.",
+        "category": "Construction",
+        "source": "engineering.com",
+        "source_url": "https://www.engineering.com/",
+        "impact": 4
+      },
+      {
+        "title": "Engineers improve concrete monitoring with embedded sensor data",
+        "summary": "The system provides earlier warning of curing anomalies and helps teams intervene sooner.",
+        "category": "Construction",
+        "source": "enr.com",
+        "source_url": "https://www.enr.com/",
+        "impact": 4
+      },
+      {
+        "title": "Digital QA process cuts rework in prefabricated assemblies",
+        "summary": "A more structured verification pipeline improved first-pass quality in field installation.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "source_url": "https://www.newcivilengineer.com/",
+        "impact": 4
+      },
+      {
+        "title": "A bridge-maintenance model prioritizes interventions more efficiently",
+        "summary": "The method helps agencies allocate resources using updated condition and risk data.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "source_url": "https://www.constructiondive.com/feeds/news/",
+        "impact": 3
+      }
+    ],
+    "ai": [
+      {
+        "title": "Large multimodal model improves technical reasoning on scientific tasks",
+        "summary": "A new system demonstrated stronger performance on cross-domain benchmarks involving diagrams, equations, and long-context reasoning.",
+        "category": "AI",
+        "source": "openai.com",
+        "source_url": "https://openai.com/news/",
+        "impact": 5
+      },
+      {
+        "title": "A new training strategy improves model reliability under distribution shift",
+        "summary": "Researchers reported better robustness when models encounter examples outside their primary training distribution.",
+        "category": "AI",
+        "source": "huggingface.co",
+        "source_url": "https://huggingface.co/blog",
+        "impact": 4
+      },
+      {
+        "title": "Agent workflow cuts tool-use errors in multi-step tasks",
+        "summary": "A redesigned planning loop improved execution accuracy across longer task chains.",
+        "category": "AI",
+        "source": "technologyreview.com",
+        "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+        "impact": 4
+      },
+      {
+        "title": "Researchers reduce inference cost without large accuracy loss",
+        "summary": "A compact efficiency method lowers compute requirements and could make deployment easier on constrained hardware.",
+        "category": "AI",
+        "source": "rss.arxiv.org",
+        "source_url": "https://rss.arxiv.org/rss/cs.AI",
+        "impact": 4
+      },
+      {
+        "title": "A multimodal benchmark exposes new gaps in visual-language reasoning",
+        "summary": "The evaluation shows where current systems still struggle with grounded interpretation and scientific context.",
+        "category": "AI",
+        "source": "blog.google",
+        "source_url": "https://blog.google/technology/ai/",
+        "impact": 3
+      }
+    ]
+  }
 }
