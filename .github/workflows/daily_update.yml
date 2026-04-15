@@ -1,1 +1,203 @@
-name: Daily Refresh\non:\n  workflow_dispatch:\n
+name: Update Daily Discoveries
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-discoveries:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependency
+        run: pip install feedparser
+
+      - name: Generate discoveries.json
+        run: |
+          python << 'PY'
+          import json
+          import re
+          from datetime import datetime, timezone
+          from urllib.parse import urlparse
+          import feedparser
+
+          MAX_PER_CATEGORY = 5
+
+          CATEGORY_FEEDS = {
+              "science": [
+                  "https://www.sciencedaily.com/rss/top/science.xml",
+                  "https://phys.org/rss-feed/",
+                  "https://www.sciencenews.org/feed",
+                  "https://scitechdaily.com/feed/"
+              ],
+              "tech": [
+                  "http://feeds.arstechnica.com/arstechnica/index",
+                  "https://techcrunch.com/feed/",
+                  "https://www.theverge.com/rss/index.xml",
+                  "https://www.wired.com/feed/rss",
+                  "https://www.technologyreview.com/feed/"
+              ],
+              "medicine": [
+                  "https://medicalxpress.com/rss-feed/",
+                  "https://www.nih.gov/news-events/news-releases/feed",
+                  "https://www.sciencedaily.com/rss/health_medicine.xml",
+                  "https://www.news-medical.net/medical/feed/"
+              ],
+              "mathematics": [
+                  "https://rss.arxiv.org/rss/math",
+                  "https://www.quantamagazine.org/mathematics/feed/"
+              ],
+              "space": [
+                  "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+                  "https://www.sciencedaily.com/rss/top/space_time.xml",
+                  "https://www.space.com/feeds/all"
+              ],
+              "astronomy": [
+                  "https://skyandtelescope.org/feed/",
+                  "https://www.universetoday.com/feed/",
+                  "https://www.space.com/feeds/all"
+              ],
+              "architecture": [
+                  "https://www.archdaily.com/rss",
+                  "https://www.dezeen.com/architecture/feed/",
+                  "https://www.designboom.com/architecture/feed/"
+              ],
+              "construction": [
+                  "https://www.constructiondive.com/feeds/news/",
+                  "https://www.engineering.com/rss.xml",
+                  "https://www.enr.com/rss/topic/150-news",
+                  "https://www.newcivilengineer.com/feed/"
+              ],
+              "ai": [
+                  "https://openai.com/news/rss.xml",
+                  "https://blog.google/technology/ai/rss/",
+                  "https://huggingface.co/blog/feed.xml",
+                  "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+                  "https://rss.arxiv.org/rss/cs.AI"
+              ]
+          }
+
+          KEYWORDS = {
+              "science": ["discovery","discover","research","study","scientists","breakthrough","first","finding","evidence"],
+              "tech": ["technology","device","engineering","platform","chip","system","software","hardware","robot","sensor"],
+              "medicine": ["disease","therapy","drug","clinical","patient","cancer","medical","health","diagnostic","immune"],
+              "mathematics": ["proof","theorem","equation","algebra","geometry","topology","optimization","number theory","combinatorics"],
+              "space": ["space","rocket","orbit","moon","mars","satellite","mission","spacecraft","launch","propulsion"],
+              "astronomy": ["telescope","star","galaxy","black hole","astronomy","planet","cosmic","nebula","exoplanet","observatory"],
+              "architecture": ["architecture","architect","building","design","facade","urban","structural","housing","spatial"],
+              "construction": ["construction","infrastructure","concrete","bridge","project","contractor","engineering","prefabrication","site"],
+              "ai": ["ai","artificial intelligence","machine learning","model","llm","neural","multimodal","agent","inference","training"]
+          }
+
+          def clean_text(text):
+              text = re.sub(r"<[^>]+>", "", text or "")
+              text = re.sub(r"\s+", " ", text).strip()
+              return text
+
+          def extract_image(entry):
+              media = entry.get("media_content") or entry.get("media_thumbnail") or []
+              if isinstance(media, list) and media:
+                  first = media[0]
+                  if isinstance(first, dict):
+                      return first.get("url", "")
+              summary = entry.get("summary", entry.get("description", "")) or ""
+              m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary, re.I)
+              return m.group(1) if m else ""
+
+          def parse_entry(entry):
+              title = clean_text(entry.get("title", ""))
+              summary = clean_text(entry.get("summary", entry.get("description", "")))
+              link = entry.get("link", "").strip()
+              image_url = extract_image(entry)
+              published = str(entry.get("published", "") or entry.get("updated", "") or "")
+              return title, summary, link, image_url, published
+
+          def score_item(category, title, summary):
+              text = f"{title} {summary}".lower()
+              score = 0
+              for kw in KEYWORDS.get(category, []):
+                  if kw in text:
+                      score += 2
+              if any(w in text for w in ["breakthrough","first ever","historic","landmark","major","unprecedented"]):
+                  score += 4
+              if any(w in text for w in ["study","researchers","scientists","engineers","reveals","found","new"]):
+                  score += 2
+              if len(summary) > 120:
+                  score += 1
+              return score
+
+          def infer_impact(score):
+              if score >= 14: return 5
+              if score >= 10: return 4
+              if score >= 6: return 3
+              if score >= 3: return 2
+              return 1
+
+          def compact_summary(summary, title):
+              summary = summary or title
+              return (summary[:320] + "...") if len(summary) > 320 else summary
+
+          categories_output = {}
+          for category, feeds in CATEGORY_FEEDS.items():
+              items, seen_links = [], set()
+              for feed_url in feeds:
+                  feed = feedparser.parse(feed_url)
+                  for entry in feed.entries[:40]:
+                      title, summary, link, image_url, published = parse_entry(entry)
+                      if not title or not link or link in seen_links:
+                          continue
+                      seen_links.add(link)
+                      score = score_item(category, title, summary)
+                      source = urlparse(link).netloc.replace("www.", "")
+                      items.append({
+                          "title": title,
+                          "summary": compact_summary(summary, title),
+                          "category": "AI" if category == "ai" else category.capitalize(),
+                          "source": source,
+                          "journal": source,
+                          "published_at": published or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                          "source_url": link,
+                          "image_url": image_url,
+                          "impact": infer_impact(score),
+                          "_score": score
+                      })
+              items.sort(key=lambda x: (x["_score"], x["impact"], len(x["title"]) + len(x["summary"])), reverse=True)
+              cleaned = []
+              for item in items:
+                  if len(cleaned) >= MAX_PER_CATEGORY:
+                      break
+                  item.pop("_score", None)
+                  cleaned.append(item)
+              categories_output[category] = cleaned
+
+          output = {
+              "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+              "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+              "categories": categories_output
+          }
+
+          with open("discoveries.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, indent=2, ensure_ascii=False)
+
+          print("discoveries.json updated successfully")
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add discoveries.json
+          git diff --staged --quiet || git commit -m "Update daily discoveries"
+          git push
