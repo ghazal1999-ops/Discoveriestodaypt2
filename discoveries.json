@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "last_updated": "2026-04-15 20:18 UTC",
+  "last_updated": "2026-04-15 20:57 UTC",
   "categories": {
     "science": [
       {
@@ -22,7 +22,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Sun, 12 Apr 2026 06:42:12 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/immunology-antibodies-genetically-engineered-chimeric-antigen-receptor-immune-cell-with-implanted-mrna-gene-strand.webp",
         "impact": 5
       },
       {
@@ -33,7 +33,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Tue, 14 Apr 2026 10:06:43 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/supernova-explosion-space.webp",
         "impact": 5
       },
       {
@@ -44,7 +44,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Sun, 12 Apr 2026 07:03:28 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
         "impact": 5
       },
       {
@@ -55,7 +55,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Sun, 12 Apr 2026 07:32:05 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/homo-sapiens-and-neanderthals-sharing-technology-and-behavior.webp",
         "impact": 4
       }
     ],
@@ -90,7 +90,7 @@
         "journal": "theverge.com",
         "published_at": "2026-04-15T14:03:46-04:00",
         "source_url": "https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students",
-        "image_url": "",
+        "image_url": "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
         "impact": 3
       },
       {
@@ -125,7 +125,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Sun, 12 Apr 2026 07:03:28 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
         "impact": 5
       },
       {
@@ -136,7 +136,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Wed, 15 Apr 2026 03:26:50 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
         "impact": 4
       },
       {
@@ -147,7 +147,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Thu, 09 Apr 2026 23:42:35 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101055.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/confused-face-palm-young-doctor.webp",
         "impact": 4
       },
       {
@@ -158,7 +158,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Thu, 09 Apr 2026 06:36:40 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
         "impact": 4
       },
       {
@@ -169,7 +169,7 @@
         "journal": "sciencedaily.com",
         "published_at": "Sat, 11 Apr 2026 09:54:18 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022023.htm",
-        "image_url": "",
+        "image_url": "https://www.sciencedaily.com/images/1920/obesity-students-walking-on-college-university-campus.webp",
         "impact": 4
       }
     ],
@@ -243,17 +243,6 @@
         "impact": 4
       },
       {
-        "title": "‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions",
-        "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) mission has mapped interstellar ice at an unprecedented scale. Covering regions in our Milky Way galaxy more than 600 light-years across, the ice was found inside giant molecular clouds — vast regions of gas an...",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 15 Apr 2026 15:02:15 +0000",
-        "source_url": "https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/",
-        "image_url": "",
-        "impact": 3
-      },
-      {
         "title": "'The most special thing that will ever happen in my life': Artemis 2 astronauts describe their epic moon mission",
         "summary": "The Artemis 2 astronauts are back on Earth, and they've begun processing their historic moon mission. But it's still tough for them to put the experience into words.",
         "category": "Space",
@@ -284,6 +273,17 @@
         "published_at": "Sat, 11 Apr 2026 10:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/artemis/artemis-3-and-beyond-whats-next-for-nasa-after-artemis-2-moon-success",
         "image_url": "https://cdn.mos.cms.futurecdn.net/iMpp9op7zEN4JccYsQDDCd-1280-80.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Artemis 2: Our favorite photos from NASA's historic moon mission",
+        "summary": "The Artemis 2 mission to the moon beamed back some incredible photos, and we've rounded up the best ones.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 13 Apr 2026 13:58:48 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/artemis-2-our-favorite-photos-from-nasas-historic-moon-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/3AHo6PCz3x3pRsLVnES9JD-1280-80.jpg",
         "impact": 3
       }
     ],
@@ -353,7 +353,7 @@
         "journal": "archdaily.com",
         "published_at": "Wed, 15 Apr 2026 00:00:00 +0000",
         "source_url": "https://www.archdaily.com/1040510/shanghai-jiao-tong-university-student-service-center-tjad-zeng-qun-architecture-design-studio",
-        "image_url": "",
+        "image_url": "https://www.facebook.com/tr?id=350870482443432&ev=PageView&noscript=1",
         "impact": 4
       },
       {
@@ -364,7 +364,7 @@
         "journal": "designboom.com",
         "published_at": "Tue, 14 Apr 2026 23:01:01 +0000",
         "source_url": "https://www.designboom.com/architecture/vam-victoria-albert-east-museum-odonnell-tuomey-london-folded-concrete-landmark/",
-        "image_url": "",
+        "image_url": "https://www.designboom.com/wp-content/themes/designboom/res/svg/arrow-down.svg",
         "impact": 4
       },
       {
@@ -375,7 +375,7 @@
         "journal": "dezeen.com",
         "published_at": "Wed, 15 Apr 2026 17:00:52 +0000",
         "source_url": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
-        "image_url": "",
+        "image_url": "https://www.dezeen.com/wp-content/themes/2016dezeen/assets/img/edificio.jpg",
         "impact": 4
       },
       {
@@ -386,7 +386,7 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 14 Apr 2026 10:30:40 +0000",
         "source_url": "https://www.dezeen.com/2026/04/14/sukchulmok-brbb-architects-myeongnyun-sogul/",
-        "image_url": "",
+        "image_url": "https://www.dezeen.com/wp-content/themes/2016dezeen/assets/img/edificio.jpg",
         "impact": 3
       },
       {
@@ -397,7 +397,7 @@
         "journal": "archdaily.com",
         "published_at": "Wed, 15 Apr 2026 05:30:00 +0000",
         "source_url": "https://www.archdaily.com/1040679/v-and-a-east-museum-by-odonnell-plus-tuomey-to-open-in-east-londons-cultural-quarter",
-        "image_url": "",
+        "image_url": "https://www.facebook.com/tr?id=350870482443432&ev=PageView&noscript=1",
         "impact": 3
       }
     ],
@@ -421,7 +421,7 @@
         "journal": "enr.com",
         "published_at": "Thu, 02 Jul 2015 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8149-letter-to-the-editor-major-shifts-needed-for-integrated-project-delivery",
-        "image_url": "",
+        "image_url": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-Letters.png?height=635&t=1542393215&width=1200",
         "impact": 3
       },
       {
@@ -454,7 +454,7 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "",
+        "image_url": "https://www.enr.com/ext/resources/2026/04/02/commerce_enr_ph_article1_cash-is-king_image.webp?crop=true&height=257&t=1775138429&width=420",
         "impact": 3
       }
     ],
