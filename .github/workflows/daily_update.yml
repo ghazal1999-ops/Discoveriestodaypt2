@@ -129,9 +129,9 @@ jobs:
                           return url
 
               summary = entry.get("summary", entry.get("description", "")) or ""
-              match = re.search(r'<img[^>]+src=["\\']([^"\\']+)["\\']', summary, re.I)
-              if match:
-                  url = match.group(1)
+              m = re.search(r"<img[^>]+src=['\\\"]([^'\\\"]+)['\\\"]", summary, re.I)
+              if m:
+                  url = m.group(1)
                   if url and not looks_like_bad_image(url):
                       return url
 
@@ -145,28 +145,24 @@ jobs:
 
                   soup = BeautifulSoup(resp.text, "html.parser")
 
-                  # 1. og:image
                   og = soup.find("meta", property="og:image")
                   if og and og.get("content"):
                       img = og["content"].strip()
                       if img and not looks_like_bad_image(img):
                           return img
 
-                  # 2. twitter:image
                   tw = soup.find("meta", attrs={"name": "twitter:image"})
                   if tw and tw.get("content"):
                       img = tw["content"].strip()
                       if img and not looks_like_bad_image(img):
                           return img
 
-                  # 3. image_src
                   link_img = soup.find("link", rel="image_src")
                   if link_img and link_img.get("href"):
                       img = link_img["href"].strip()
                       if img and not looks_like_bad_image(img):
                           return img
 
-                  # 4. first decent <img>
                   imgs = soup.find_all("img")
                   for img_tag in imgs:
                       img = img_tag.get("src", "").strip()
