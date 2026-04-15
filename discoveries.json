@@ -1,383 +1,518 @@
 {
-  "date": "2026-04-13",
-  "last_updated": "2026-04-13 18:40 UTC",
+  "date": "2026-04-15",
+  "last_updated": "2026-04-15 23:00 UTC",
   "categories": {
     "science": [
       {
         "title": "Science breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Science",
-        "published_at": "2026-04-13",
+        "summary": "A sample science story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Science",
+        "source": "ScienceDaily",
+        "journal": "ScienceDaily",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/science0/400/240"
+        "image_url": "https://picsum.photos/seed/science1/1200/800",
+        "impact": 5
       },
       {
         "title": "Science breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Science",
-        "published_at": "2026-04-13",
+        "summary": "A sample science story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Science",
+        "source": "Nature",
+        "journal": "Nature",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/science1/400/240"
+        "image_url": "https://picsum.photos/seed/science2/1200/800",
+        "impact": 4
       },
       {
         "title": "Science breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Science",
-        "published_at": "2026-04-13",
+        "summary": "A sample science story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Science",
+        "source": "Science News",
+        "journal": "Science News",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/science2/400/240"
+        "image_url": "https://picsum.photos/seed/science3/1200/800",
+        "impact": 4
       },
       {
         "title": "Science breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Science",
-        "published_at": "2026-04-13",
+        "summary": "A sample science story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Science",
+        "source": "Phys.org",
+        "journal": "Phys.org",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/science3/400/240"
+        "image_url": "https://picsum.photos/seed/science4/1200/800",
+        "impact": 3
       },
       {
         "title": "Science breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Science",
-        "published_at": "2026-04-13",
+        "summary": "A sample science story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Science",
+        "source": "Cell",
+        "journal": "Cell",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/science4/400/240"
+        "image_url": "https://picsum.photos/seed/science5/1200/800",
+        "impact": 3
       }
     ],
     "tech": [
       {
         "title": "Tech breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Tech",
-        "published_at": "2026-04-13",
+        "summary": "A sample tech story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "journal": "TechCrunch",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/tech0/400/240"
+        "image_url": "https://picsum.photos/seed/tech1/1200/800",
+        "impact": 5
       },
       {
         "title": "Tech breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Tech",
-        "published_at": "2026-04-13",
+        "summary": "A sample tech story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Tech",
+        "source": "MIT Technology Review",
+        "journal": "MIT Technology Review",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/tech1/400/240"
+        "image_url": "https://picsum.photos/seed/tech2/1200/800",
+        "impact": 4
       },
       {
         "title": "Tech breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Tech",
-        "published_at": "2026-04-13",
+        "summary": "A sample tech story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Tech",
+        "source": "The Verge",
+        "journal": "The Verge",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/tech2/400/240"
+        "image_url": "https://picsum.photos/seed/tech3/1200/800",
+        "impact": 4
       },
       {
         "title": "Tech breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Tech",
-        "published_at": "2026-04-13",
+        "summary": "A sample tech story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Tech",
+        "source": "WIRED",
+        "journal": "WIRED",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/tech3/400/240"
+        "image_url": "https://picsum.photos/seed/tech4/1200/800",
+        "impact": 3
       },
       {
         "title": "Tech breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Tech",
-        "published_at": "2026-04-13",
+        "summary": "A sample tech story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Tech",
+        "source": "Ars Technica",
+        "journal": "Ars Technica",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/tech4/400/240"
+        "image_url": "https://picsum.photos/seed/tech5/1200/800",
+        "impact": 3
       }
     ],
     "medicine": [
       {
         "title": "Medicine breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Medicine",
-        "published_at": "2026-04-13",
+        "summary": "A sample medicine story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Medicine",
+        "source": "Medical Xpress",
+        "journal": "Medical Xpress",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/medicine0/400/240"
+        "image_url": "https://picsum.photos/seed/medicine1/1200/800",
+        "impact": 5
       },
       {
         "title": "Medicine breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Medicine",
-        "published_at": "2026-04-13",
+        "summary": "A sample medicine story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Medicine",
+        "source": "NIH",
+        "journal": "NIH",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/medicine1/400/240"
+        "image_url": "https://picsum.photos/seed/medicine2/1200/800",
+        "impact": 4
       },
       {
         "title": "Medicine breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Medicine",
-        "published_at": "2026-04-13",
+        "summary": "A sample medicine story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Medicine",
+        "source": "The Lancet",
+        "journal": "The Lancet",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/medicine2/400/240"
+        "image_url": "https://picsum.photos/seed/medicine3/1200/800",
+        "impact": 4
       },
       {
         "title": "Medicine breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Medicine",
-        "published_at": "2026-04-13",
+        "summary": "A sample medicine story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Medicine",
+        "source": "ScienceDaily",
+        "journal": "ScienceDaily",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/medicine3/400/240"
+        "image_url": "https://picsum.photos/seed/medicine4/1200/800",
+        "impact": 3
       },
       {
         "title": "Medicine breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Medicine",
-        "published_at": "2026-04-13",
+        "summary": "A sample medicine story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Medicine",
+        "source": "News Medical",
+        "journal": "News Medical",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/medicine4/400/240"
+        "image_url": "https://picsum.photos/seed/medicine5/1200/800",
+        "impact": 3
       }
     ],
     "mathematics": [
       {
         "title": "Mathematics breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Mathematics",
-        "published_at": "2026-04-13",
+        "summary": "A sample mathematics story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Mathematics",
+        "source": "Quanta Magazine",
+        "journal": "Quanta Magazine",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/mathematics0/400/240"
+        "image_url": "https://picsum.photos/seed/mathematics1/1200/800",
+        "impact": 5
       },
       {
         "title": "Mathematics breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Mathematics",
-        "published_at": "2026-04-13",
+        "summary": "A sample mathematics story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Mathematics",
+        "source": "arXiv",
+        "journal": "arXiv",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/mathematics1/400/240"
+        "image_url": "https://picsum.photos/seed/mathematics2/1200/800",
+        "impact": 4
       },
       {
         "title": "Mathematics breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Mathematics",
-        "published_at": "2026-04-13",
+        "summary": "A sample mathematics story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Mathematics",
+        "source": "AMS",
+        "journal": "AMS",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/mathematics2/400/240"
+        "image_url": "https://picsum.photos/seed/mathematics3/1200/800",
+        "impact": 4
       },
       {
         "title": "Mathematics breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Mathematics",
-        "published_at": "2026-04-13",
+        "summary": "A sample mathematics story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Mathematics",
+        "source": "Quanta Magazine",
+        "journal": "Quanta Magazine",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/mathematics3/400/240"
+        "image_url": "https://picsum.photos/seed/mathematics4/1200/800",
+        "impact": 3
       },
       {
         "title": "Mathematics breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Mathematics",
-        "published_at": "2026-04-13",
+        "summary": "A sample mathematics story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Mathematics",
+        "source": "arXiv",
+        "journal": "arXiv",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/mathematics4/400/240"
+        "image_url": "https://picsum.photos/seed/mathematics5/1200/800",
+        "impact": 3
       }
     ],
     "space": [
       {
         "title": "Space breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Space",
-        "published_at": "2026-04-13",
+        "summary": "A sample space story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Space",
+        "source": "NASA",
+        "journal": "NASA",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/space0/400/240"
+        "image_url": "https://picsum.photos/seed/space1/1200/800",
+        "impact": 5
       },
       {
         "title": "Space breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Space",
-        "published_at": "2026-04-13",
+        "summary": "A sample space story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Space",
+        "source": "Space.com",
+        "journal": "Space.com",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/space1/400/240"
+        "image_url": "https://picsum.photos/seed/space2/1200/800",
+        "impact": 4
       },
       {
         "title": "Space breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Space",
-        "published_at": "2026-04-13",
+        "summary": "A sample space story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Space",
+        "source": "ESA",
+        "journal": "ESA",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/space2/400/240"
+        "image_url": "https://picsum.photos/seed/space3/1200/800",
+        "impact": 4
       },
       {
         "title": "Space breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Space",
-        "published_at": "2026-04-13",
+        "summary": "A sample space story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Space",
+        "source": "ScienceDaily",
+        "journal": "ScienceDaily",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/space3/400/240"
+        "image_url": "https://picsum.photos/seed/space4/1200/800",
+        "impact": 3
       },
       {
         "title": "Space breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Space",
-        "published_at": "2026-04-13",
+        "summary": "A sample space story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Space",
+        "source": "NASA",
+        "journal": "NASA",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/space4/400/240"
+        "image_url": "https://picsum.photos/seed/space5/1200/800",
+        "impact": 3
       }
     ],
     "astronomy": [
       {
         "title": "Astronomy breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Astronomy",
-        "published_at": "2026-04-13",
+        "summary": "A sample astronomy story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Astronomy",
+        "source": "Sky & Telescope",
+        "journal": "Sky & Telescope",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/astronomy0/400/240"
+        "image_url": "https://picsum.photos/seed/astronomy1/1200/800",
+        "impact": 5
       },
       {
         "title": "Astronomy breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Astronomy",
-        "published_at": "2026-04-13",
+        "summary": "A sample astronomy story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Astronomy",
+        "source": "Universe Today",
+        "journal": "Universe Today",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/astronomy1/400/240"
+        "image_url": "https://picsum.photos/seed/astronomy2/1200/800",
+        "impact": 4
       },
       {
         "title": "Astronomy breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Astronomy",
-        "published_at": "2026-04-13",
+        "summary": "A sample astronomy story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Astronomy",
+        "source": "Space.com",
+        "journal": "Space.com",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/astronomy2/400/240"
+        "image_url": "https://picsum.photos/seed/astronomy3/1200/800",
+        "impact": 4
       },
       {
         "title": "Astronomy breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Astronomy",
-        "published_at": "2026-04-13",
+        "summary": "A sample astronomy story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Astronomy",
+        "source": "Sky & Telescope",
+        "journal": "Sky & Telescope",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/astronomy3/400/240"
+        "image_url": "https://picsum.photos/seed/astronomy4/1200/800",
+        "impact": 3
       },
       {
         "title": "Astronomy breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Astronomy",
-        "published_at": "2026-04-13",
+        "summary": "A sample astronomy story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Astronomy",
+        "source": "Universe Today",
+        "journal": "Universe Today",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/astronomy4/400/240"
+        "image_url": "https://picsum.photos/seed/astronomy5/1200/800",
+        "impact": 3
       }
     ],
     "architecture": [
       {
         "title": "Architecture breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Architecture",
-        "published_at": "2026-04-13",
+        "summary": "A sample architecture story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Architecture",
+        "source": "ArchDaily",
+        "journal": "ArchDaily",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/architecture0/400/240"
+        "image_url": "https://picsum.photos/seed/architecture1/1200/800",
+        "impact": 5
       },
       {
         "title": "Architecture breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Architecture",
-        "published_at": "2026-04-13",
+        "summary": "A sample architecture story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Architecture",
+        "source": "Dezeen",
+        "journal": "Dezeen",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/architecture1/400/240"
+        "image_url": "https://picsum.photos/seed/architecture2/1200/800",
+        "impact": 4
       },
       {
         "title": "Architecture breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Architecture",
-        "published_at": "2026-04-13",
+        "summary": "A sample architecture story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Architecture",
+        "source": "Designboom",
+        "journal": "Designboom",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/architecture2/400/240"
+        "image_url": "https://picsum.photos/seed/architecture3/1200/800",
+        "impact": 4
       },
       {
         "title": "Architecture breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Architecture",
-        "published_at": "2026-04-13",
+        "summary": "A sample architecture story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Architecture",
+        "source": "ArchDaily",
+        "journal": "ArchDaily",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/architecture3/400/240"
+        "image_url": "https://picsum.photos/seed/architecture4/1200/800",
+        "impact": 3
       },
       {
         "title": "Architecture breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Architecture",
-        "published_at": "2026-04-13",
+        "summary": "A sample architecture story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Architecture",
+        "source": "Dezeen",
+        "journal": "Dezeen",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/architecture4/400/240"
+        "image_url": "https://picsum.photos/seed/architecture5/1200/800",
+        "impact": 3
       }
     ],
     "construction": [
       {
         "title": "Construction breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Construction",
-        "published_at": "2026-04-13",
+        "summary": "A sample construction story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Construction",
+        "source": "Construction Dive",
+        "journal": "Construction Dive",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/construction0/400/240"
+        "image_url": "https://picsum.photos/seed/construction1/1200/800",
+        "impact": 5
       },
       {
         "title": "Construction breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Construction",
-        "published_at": "2026-04-13",
+        "summary": "A sample construction story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Construction",
+        "source": "ENR",
+        "journal": "ENR",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/construction1/400/240"
+        "image_url": "https://picsum.photos/seed/construction2/1200/800",
+        "impact": 4
       },
       {
         "title": "Construction breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Construction",
-        "published_at": "2026-04-13",
+        "summary": "A sample construction story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Construction",
+        "source": "Engineering.com",
+        "journal": "Engineering.com",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/construction2/400/240"
+        "image_url": "https://picsum.photos/seed/construction3/1200/800",
+        "impact": 4
       },
       {
         "title": "Construction breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Construction",
-        "published_at": "2026-04-13",
+        "summary": "A sample construction story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Construction",
+        "source": "New Civil Engineer",
+        "journal": "New Civil Engineer",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/construction3/400/240"
+        "image_url": "https://picsum.photos/seed/construction4/1200/800",
+        "impact": 3
       },
       {
         "title": "Construction breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Construction",
-        "published_at": "2026-04-13",
+        "summary": "A sample construction story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "Construction",
+        "source": "Construction Dive",
+        "journal": "Construction Dive",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/construction4/400/240"
+        "image_url": "https://picsum.photos/seed/construction5/1200/800",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Ai breakthrough #1",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Ai",
-        "published_at": "2026-04-13",
+        "title": "AI breakthrough #1",
+        "summary": "A sample ai story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "AI",
+        "source": "OpenAI",
+        "journal": "OpenAI",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/ai0/400/240"
+        "image_url": "https://picsum.photos/seed/ai1/1200/800",
+        "impact": 5
       },
       {
-        "title": "Ai breakthrough #2",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Ai",
-        "published_at": "2026-04-13",
+        "title": "AI breakthrough #2",
+        "summary": "A sample ai story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "AI",
+        "source": "Hugging Face",
+        "journal": "Hugging Face",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/ai1/400/240"
+        "image_url": "https://picsum.photos/seed/ai2/1200/800",
+        "impact": 4
       },
       {
-        "title": "Ai breakthrough #3",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Ai",
-        "published_at": "2026-04-13",
+        "title": "AI breakthrough #3",
+        "summary": "A sample ai story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "AI",
+        "source": "Google AI Blog",
+        "journal": "Google AI Blog",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/ai2/400/240"
+        "image_url": "https://picsum.photos/seed/ai3/1200/800",
+        "impact": 4
       },
       {
-        "title": "Ai breakthrough #4",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Ai",
-        "published_at": "2026-04-13",
+        "title": "AI breakthrough #4",
+        "summary": "A sample ai story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "AI",
+        "source": "MIT Technology Review",
+        "journal": "MIT Technology Review",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/ai3/400/240"
+        "image_url": "https://picsum.photos/seed/ai4/1200/800",
+        "impact": 3
       },
       {
-        "title": "Ai breakthrough #5",
-        "summary": "A high-impact discovery summary for today.",
-        "source": "Ai",
-        "published_at": "2026-04-13",
+        "title": "AI breakthrough #5",
+        "summary": "A sample ai story used to test the Claude-generated homepage, category navigation, featured card, metadata rows, image handling, and footer links.",
+        "category": "AI",
+        "source": "arXiv",
+        "journal": "arXiv",
+        "published_at": "2026-04-15",
         "source_url": "https://example.com",
-        "image_url": "https://picsum.photos/seed/ai4/400/240"
+        "image_url": "https://picsum.photos/seed/ai5/1200/800",
+        "impact": 3
       }
     ]
   }
