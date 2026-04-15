@@ -1,27 +1,1335 @@
-<html><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
-<title>discoveries.today</title>
-<style>body{font-family:Arial;background:#f8f7f2;margin:0} .hidden{display:none} .wrap{max-width:1200px;margin:auto;padding:24px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}.tile,.card{background:#fff;border:1px solid #ddd;border-radius:16px;padding:18px;cursor:pointer}
-.nav{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0}.tab{padding:8px 12px;border:1px solid #ddd;border-radius:999px;background:#fff;cursor:pointer}.active{background:#2563eb;color:#fff}
-.hero{text-align:center;padding:40px 0}.feature{display:grid;grid-template-columns:220px 1fr;gap:18px}.thumb{width:100%;height:180px;object-fit:cover;border-radius:12px}
-footer{text-align:center;padding:40px 0} .socials a{margin:0 6px}
-</style></head><body><div class='wrap'>
-<section id='home'><div class='hero'><h1>The <span style='color:#2563eb'>Bloomberg Terminal</span><br>for Daily Scientific Breakthroughs</h1><p>Choose a category to see today’s top 5</p><div id='tiles' class='grid'></div></div></section>
-<section id='cat' class='hidden'><div id='nav' class='nav'></div><h2 id='title'></h2><div id='tag' style='color:#2563eb;font-style:italic'></div><div id='feature'></div><div id='side' class='grid' style='margin-top:16px'></div></section>
-<section><h3>Spotted a big breakthrough we missed?</h3><p>Send discoveries, ideas, collaborations, or feature suggestions.</p><a href='mailto:ghazal.mussawar@outlook.com?subject=Discovery%20suggestion%20for%20MUSSAWARI'>ghazal.mussawar@outlook.com</a></section>
-<footer><div>because the world never stops being amazing</div><div><b>Powered by MUSSAWARI.com</b></div>
-<div class='socials'><a href='https://www.instagram.com/mussawarii/'>Instagram</a><a href='https://www.linkedin.com/in/ghazala-mussawar-mussawari/'>LinkedIn</a><a href='https://www.behance.net/ghazalamussawar'>Behance</a><a href='https://x.com/GhazalaMussawar'>X</a><a href='https://www.youtube.com/channel/UCvLLF8ATt-cvre_IfhY6Khg'>YouTube</a><a href='https://mussawari.com'>Website</a></div></footer>
-</div>
-<script>
-const tags={science:"Where reality keeps surprising itself.",tech:"Tomorrow’s tools, arriving slightly early.",medicine:"Healing, decoded one breakthrough at a time.",mathematics:"The universe, written in pure logic.",space:"Where distance becomes destiny.",astronomy:"Reading the oldest light in existence.",architecture:"Where ideas learn how to stand.",construction:"Where tomorrow gets built today.",ai:"Teaching machines to think in public."};
-let data; function tc(s){return s==='ai'?'AI':s[0].toUpperCase()+s.slice(1)}
-function home(){document.getElementById('tiles').innerHTML=Object.keys(data.categories).map(c=>`<div class='tile' onclick="showCat('${c}')"><h3>${tc(c)}</h3><div>${tags[c]}</div></div>`).join('')}
-window.showCat=function(c){document.getElementById('home').classList.add('hidden');document.getElementById('cat').classList.remove('hidden');
-document.getElementById('title').textContent=tc(c);document.getElementById('tag').textContent=tags[c];
-document.getElementById('nav').innerHTML=Object.keys(data.categories).map(x=>`<div class='tab ${x===c?'active':''}' onclick="showCat('${x}')">${tc(x)}</div>`).join('');
-const items=data.categories[c]; const f=items[0];
-document.getElementById('feature').innerHTML=`<div class='card feature'><img class='thumb' src='${f.image_url}'><div><h3>${f.title}</h3><div>${f.source} • ${f.published_at}</div><p>${f.summary}</p><a href='${f.source_url}'>Read more</a></div></div>`;
-document.getElementById('side').innerHTML=items.slice(1).map(x=>`<div class='card'><h4>${x.title}</h4><div>${x.source} • ${x.published_at}</div><p>${x.summary}</p></div>`).join('');
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>discoveries.today — The Bloomberg Terminal for Daily Scientific Breakthroughs</title>
+<meta name="description" content="The Bloomberg Terminal for Daily Scientific Breakthroughs. Top 5 daily discoveries across science, tech, medicine, mathematics, space, astronomy, architecture, construction, and AI." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet" />
+<style>
+/* ─── DESIGN TOKENS ──────────────────────────────────────────── */
+:root {
+  --ink:        #1a1714;
+  --ink-muted:  #5a5450;
+  --ink-faint:  #9a9490;
+  --paper:      #f7f4ef;
+  --paper-warm: #f0ece4;
+  --paper-deep: #e8e3d9;
+  --accent:     #b5460f;
+  --accent-2:   #1a4a6b;
+  --accent-gold:#c49a2a;
+  --rule:       rgba(26,23,20,0.12);
+  --rule-light: rgba(26,23,20,0.06);
+  --shadow-sm:  0 1px 3px rgba(26,23,20,0.08), 0 1px 2px rgba(26,23,20,0.06);
+  --shadow-md:  0 4px 16px rgba(26,23,20,0.10), 0 2px 6px rgba(26,23,20,0.07);
+  --shadow-lg:  0 12px 40px rgba(26,23,20,0.12), 0 4px 12px rgba(26,23,20,0.08);
+  --radius:     4px;
+  --radius-lg:  8px;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans:  'DM Sans', system-ui, sans-serif;
+  --font-mono:  'DM Mono', monospace;
+  --max-w:      1280px;
+  --transition: 220ms cubic-bezier(0.4,0,0.2,1);
 }
-fetch('discoveries.json').then(r=>r.json()).then(j=>{data=j;home();});
-</script></body></html>
+
+/* ─── RESET ──────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--ink);
+  background: var(--paper);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; }
+button { font-family: inherit; cursor: pointer; border: none; background: none; }
+
+/* ─── BACKGROUND DECORATION ─────────────────────────────────── */
+.bg-canvas {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+  opacity: 0.38;
+}
+.bg-canvas svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+/* ─── SITE CHROME ────────────────────────────────────────────── */
+#app { position: relative; z-index: 1; }
+
+/* MASTHEAD */
+.masthead {
+  border-bottom: 1px solid var(--rule);
+  background: rgba(247,244,239,0.92);
+  backdrop-filter: blur(8px);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.masthead-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 32px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.logo {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.logo span { color: var(--accent); }
+.masthead-date {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.masthead-back {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--ink-muted);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: color var(--transition);
+  flex-shrink: 0;
+}
+.masthead-back:hover { color: var(--accent); }
+.masthead-back .arrow { font-size: 1rem; }
+
+/* ─── HOMEPAGE ───────────────────────────────────────────────── */
+#view-home { display: block; }
+#view-category { display: none; }
+
+/* HERO */
+.hero {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 80px 32px 64px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: center;
+}
+.hero-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.hero-eyebrow::before {
+  content: '';
+  display: block;
+  width: 32px;
+  height: 1px;
+  background: var(--accent);
+}
+.hero-headline {
+  font-family: var(--font-serif);
+  font-size: clamp(2.4rem, 4vw, 3.6rem);
+  font-weight: 700;
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin-bottom: 24px;
+}
+.hero-headline em {
+  font-style: italic;
+  color: var(--accent);
+}
+.hero-tagline {
+  font-size: 1.05rem;
+  color: var(--ink-muted);
+  line-height: 1.7;
+  max-width: 480px;
+  margin-bottom: 40px;
+  font-weight: 300;
+}
+.hero-meta {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.hero-badge {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  border: 1px solid var(--rule);
+  padding: 5px 10px;
+  border-radius: 2px;
+}
+.hero-visual {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero-visual svg {
+  width: 100%;
+  max-width: 380px;
+  opacity: 0.7;
+}
+
+/* CATEGORIES SECTION */
+.categories-section {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 32px 100px;
+}
+.section-label {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-bottom: 28px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.section-label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--rule);
+}
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.cat-tile {
+  background: var(--paper-warm);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg);
+  padding: 28px 24px;
+  cursor: pointer;
+  transition: all var(--transition);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.cat-tile::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, transparent 70%, rgba(181,70,15,0.04));
+  pointer-events: none;
+}
+.cat-tile:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: rgba(181,70,15,0.25);
+  background: var(--paper-deep);
+}
+.cat-tile:hover .cat-icon { color: var(--accent); }
+.cat-tile:hover .cat-arrow { opacity: 1; transform: translateX(0); }
+.cat-icon {
+  font-size: 1.5rem;
+  transition: color var(--transition);
+  line-height: 1;
+}
+.cat-name {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+.cat-tagline {
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  line-height: 1.5;
+  font-weight: 300;
+}
+.cat-arrow {
+  font-size: 0.78rem;
+  color: var(--accent);
+  opacity: 0;
+  transform: translateX(-6px);
+  transition: all var(--transition);
+  margin-top: auto;
+  font-family: var(--font-mono);
+  letter-spacing: 0.06em;
+}
+
+/* ─── CATEGORY VIEW ──────────────────────────────────────────── */
+/* Category nav bar */
+.cat-nav {
+  background: rgba(247,244,239,0.95);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--rule);
+  position: sticky;
+  top: 60px;
+  z-index: 90;
+}
+.cat-nav-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  gap: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.cat-nav-inner::-webkit-scrollbar { display: none; }
+.cat-nav-btn {
+  flex-shrink: 0;
+  padding: 14px 18px;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  border-bottom: 2px solid transparent;
+  transition: all var(--transition);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.cat-nav-btn:hover { color: var(--ink); }
+.cat-nav-btn.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Category header */
+.cat-header {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 56px 32px 40px;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 48px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 32px;
+}
+.cat-header-left {}
+.cat-header-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+.cat-header-title {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+  color: var(--ink);
+}
+.cat-header-micro {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--ink-muted);
+  font-weight: 400;
+  margin-top: 10px;
+}
+.cat-header-meta {
+  text-align: right;
+  flex-shrink: 0;
+}
+.cat-header-count {
+  font-family: var(--font-mono);
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: var(--paper-deep);
+  line-height: 1;
+  -webkit-text-stroke: 1px var(--rule);
+  letter-spacing: -0.04em;
+}
+.cat-header-count-label {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-top: 4px;
+}
+
+/* Stories layout */
+.stories-container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 32px 80px;
+}
+
+/* Featured story */
+.featured-story {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: white;
+  box-shadow: var(--shadow-md);
+  margin-bottom: 32px;
+  transition: box-shadow var(--transition);
+}
+.featured-story:hover {
+  box-shadow: var(--shadow-lg);
+}
+.featured-img-wrap {
+  position: relative;
+  overflow: hidden;
+  background: var(--paper-deep);
+  min-height: 400px;
+}
+.featured-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 500ms cubic-bezier(0.4,0,0.2,1);
+}
+.featured-story:hover .featured-img-wrap img {
+  transform: scale(1.03);
+}
+.featured-img-placeholder {
+  width: 100%;
+  height: 100%;
+  min-height: 400px;
+  background: linear-gradient(135deg, var(--paper-deep), var(--paper-warm));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.featured-img-placeholder svg {
+  opacity: 0.18;
+  width: 80px;
+}
+.featured-rank {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: var(--accent);
+  color: white;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  padding: 4px 10px;
+  border-radius: 2px;
+}
+.featured-body {
+  padding: 40px 44px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.story-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.story-source {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 400;
+}
+.story-journal {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  border-left: 1px solid var(--rule);
+  padding-left: 12px;
+}
+.story-date {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  color: var(--ink-faint);
+  margin-left: auto;
+}
+.featured-headline {
+  font-family: var(--font-serif);
+  font-size: clamp(1.3rem, 2.2vw, 1.85rem);
+  font-weight: 700;
+  line-height: 1.22;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.featured-summary {
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+  line-height: 1.72;
+  font-weight: 300;
+  margin-bottom: 32px;
+  flex: 1;
+}
+.read-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border-bottom: 1px solid rgba(181,70,15,0.3);
+  padding-bottom: 2px;
+  transition: all var(--transition);
+  width: fit-content;
+}
+.read-more:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+.read-more .arrow { font-size: 0.9rem; }
+.impact-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 20px;
+}
+.impact-label {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+.impact-dots {
+  display: flex;
+  gap: 3px;
+}
+.impact-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--paper-deep);
+  border: 1px solid var(--rule);
+}
+.impact-dot.filled { background: var(--accent-gold); border-color: var(--accent-gold); }
+
+/* Grid of 4 smaller stories */
+.secondary-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+.story-card {
+  background: white;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: all var(--transition);
+  box-shadow: var(--shadow-sm);
+}
+.story-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+  border-color: rgba(181,70,15,0.18);
+}
+.story-card-img {
+  position: relative;
+  height: 160px;
+  overflow: hidden;
+  background: var(--paper-deep);
+  flex-shrink: 0;
+}
+.story-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 400ms ease;
+}
+.story-card:hover .story-card-img img { transform: scale(1.05); }
+.story-card-img-placeholder {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, var(--paper-deep), var(--paper-warm));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.story-card-img-placeholder svg { opacity: 0.14; width: 40px; }
+.story-card-rank {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: var(--ink);
+  color: white;
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  padding: 3px 8px;
+  border-radius: 2px;
+}
+.story-card-body {
+  padding: 20px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 10px;
+}
+.story-card-headline {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+.story-card-summary {
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  line-height: 1.65;
+  font-weight: 300;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.story-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4px;
+}
+
+/* Empty state */
+.empty-state {
+  text-align: center;
+  padding: 80px 32px;
+  color: var(--ink-faint);
+}
+.empty-state-icon { font-size: 3rem; margin-bottom: 20px; opacity: 0.4; }
+.empty-state-title {
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  color: var(--ink-muted);
+  margin-bottom: 10px;
+}
+.empty-state-text { font-size: 0.85rem; line-height: 1.7; }
+
+/* Loading */
+.loading-state {
+  text-align: center;
+  padding: 60px 32px;
+}
+.loading-pulse {
+  width: 32px;
+  height: 32px;
+  border: 2px solid var(--rule);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin: 0 auto 16px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-text {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+/* ─── CONTACT SECTION ────────────────────────────────────────── */
+.contact-section {
+  background: var(--paper-deep);
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+.contact-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 60px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 48px;
+  flex-wrap: wrap;
+}
+.contact-text h3 {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin-bottom: 10px;
+}
+.contact-text p {
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+  font-weight: 300;
+  line-height: 1.7;
+}
+.contact-email a {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--accent);
+  border-bottom: 1px solid rgba(181,70,15,0.3);
+  padding-bottom: 2px;
+  transition: all var(--transition);
+}
+.contact-email a:hover { border-bottom-color: var(--accent); }
+
+/* ─── FOOTER ─────────────────────────────────────────────────── */
+.site-footer {
+  background: var(--ink);
+  color: rgba(247,244,239,0.55);
+  padding: 48px 32px 40px;
+}
+.footer-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+}
+.footer-logo {
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--paper);
+  letter-spacing: -0.01em;
+  margin-bottom: 4px;
+  cursor: pointer;
+}
+.footer-logo span { color: var(--accent); }
+.footer-tagline {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: rgba(247,244,239,0.6);
+  letter-spacing: 0.01em;
+}
+.footer-powered {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(247,244,239,0.3);
+}
+.footer-powered a {
+  color: var(--accent-gold);
+  transition: color var(--transition);
+}
+.footer-powered a:hover { color: var(--paper); }
+.footer-socials {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 8px;
+}
+.footer-social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(247,244,239,0.35);
+  border: 1px solid rgba(247,244,239,0.1);
+  padding: 5px 11px;
+  border-radius: 2px;
+  transition: all var(--transition);
+}
+.footer-social-link:hover {
+  color: var(--paper);
+  border-color: rgba(247,244,239,0.35);
+}
+.footer-rule {
+  width: 40px;
+  height: 1px;
+  background: rgba(247,244,239,0.1);
+  margin: 4px auto;
+}
+.footer-copy {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.1em;
+  color: rgba(247,244,239,0.18);
+}
+
+/* ─── ANIMATIONS ─────────────────────────────────────────────── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up {
+  animation: fadeUp 0.5s cubic-bezier(0.4,0,0.2,1) both;
+}
+.fade-up-1 { animation-delay: 0.05s; }
+.fade-up-2 { animation-delay: 0.1s; }
+.fade-up-3 { animation-delay: 0.15s; }
+.fade-up-4 { animation-delay: 0.2s; }
+.fade-up-5 { animation-delay: 0.25s; }
+
+/* ─── RESPONSIVE ─────────────────────────────────────────────── */
+@media (max-width: 960px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding: 60px 24px 48px;
+  }
+  .hero-visual { display: none; }
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .featured-story {
+    grid-template-columns: 1fr;
+  }
+  .featured-img-wrap { min-height: 260px; }
+  .featured-body { padding: 28px 28px; }
+  .secondary-grid { grid-template-columns: 1fr; }
+  .cat-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 40px 24px 28px;
+    margin-bottom: 28px;
+  }
+  .cat-header-meta { display: none; }
+  .stories-container { padding: 0 24px 60px; }
+  .categories-section { padding: 0 24px 80px; }
+  .masthead-inner { padding: 0 24px; }
+}
+@media (max-width: 600px) {
+  .category-grid { grid-template-columns: 1fr; }
+  .cat-nav-btn { padding: 12px 12px; font-size: 0.62rem; }
+  .contact-inner { flex-direction: column; gap: 24px; }
+  .footer-socials { gap: 5px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ── Background decorative canvas ── -->
+<div class="bg-canvas" aria-hidden="true">
+<svg viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <!-- orbit rings -->
+  <circle cx="1200" cy="180" r="220" stroke="#b5460f" stroke-width="0.5" stroke-dasharray="4 6" opacity="0.35"/>
+  <circle cx="1200" cy="180" r="150" stroke="#1a4a6b" stroke-width="0.4" stroke-dasharray="2 8" opacity="0.25"/>
+  <circle cx="1200" cy="180" r="80" stroke="#b5460f" stroke-width="0.35" opacity="0.2"/>
+  <!-- small planet dot -->
+  <circle cx="1340" cy="120" r="4" fill="#c49a2a" opacity="0.35"/>
+  <circle cx="1090" cy="240" r="2.5" fill="#1a4a6b" opacity="0.3"/>
+  <!-- molecular bonds left -->
+  <circle cx="80" cy="700" r="5" stroke="#1a4a6b" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <circle cx="130" cy="650" r="5" stroke="#1a4a6b" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <circle cx="50" cy="640" r="5" stroke="#1a4a6b" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <line x1="80" y1="700" x2="130" y2="650" stroke="#1a4a6b" stroke-width="0.5" opacity="0.25"/>
+  <line x1="80" y1="700" x2="50" y2="640" stroke="#1a4a6b" stroke-width="0.5" opacity="0.25"/>
+  <circle cx="160" cy="710" r="3" stroke="#b5460f" stroke-width="0.7" fill="none" opacity="0.25"/>
+  <line x1="130" y1="650" x2="160" y2="710" stroke="#b5460f" stroke-width="0.4" opacity="0.2"/>
+  <!-- grid lines blueprint -->
+  <line x1="0" y1="450" x2="280" y2="450" stroke="#1a4a6b" stroke-width="0.35" stroke-dasharray="3 5" opacity="0.18"/>
+  <line x1="0" y1="480" x2="180" y2="480" stroke="#1a4a6b" stroke-width="0.25" stroke-dasharray="2 6" opacity="0.12"/>
+  <line x1="0" y1="510" x2="220" y2="510" stroke="#1a4a6b" stroke-width="0.3" stroke-dasharray="3 8" opacity="0.14"/>
+  <!-- arch arc top right -->
+  <path d="M 1100 900 Q 1280 700 1440 780" stroke="#b5460f" stroke-width="0.5" fill="none" opacity="0.2" stroke-dasharray="5 7"/>
+  <!-- sine wave -->
+  <path d="M 0 300 C 80 260, 160 340, 240 300 S 400 260, 480 300 S 640 340, 720 300 S 880 260, 960 300" stroke="#c49a2a" stroke-width="0.4" fill="none" opacity="0.18"/>
+  <!-- node graph bottom right -->
+  <circle cx="1360" cy="820" r="4" stroke="#1a4a6b" stroke-width="0.8" fill="none" opacity="0.28"/>
+  <circle cx="1400" cy="780" r="3" stroke="#1a4a6b" stroke-width="0.6" fill="none" opacity="0.22"/>
+  <circle cx="1330" cy="770" r="3.5" stroke="#b5460f" stroke-width="0.6" fill="none" opacity="0.22"/>
+  <line x1="1360" y1="820" x2="1400" y2="780" stroke="#1a4a6b" stroke-width="0.45" opacity="0.2"/>
+  <line x1="1360" y1="820" x2="1330" y2="770" stroke="#b5460f" stroke-width="0.4" opacity="0.18"/>
+  <line x1="1400" y1="780" x2="1330" y2="770" stroke="#1a4a6b" stroke-width="0.35" opacity="0.15"/>
+  <!-- Drafting mark corner -->
+  <line x1="30" y1="30" x2="60" y2="30" stroke="#b5460f" stroke-width="0.5" opacity="0.2"/>
+  <line x1="30" y1="30" x2="30" y2="60" stroke="#b5460f" stroke-width="0.5" opacity="0.2"/>
+</svg>
+</div>
+
+<div id="app">
+
+  <!-- ── MASTHEAD ── -->
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="logo" id="logo-btn">discoveries<span>.</span>today</div>
+      <div class="masthead-date" id="masthead-date">—</div>
+      <div class="masthead-back" id="back-btn" style="display:none">
+        <span class="arrow">←</span> All Categories
+      </div>
+    </div>
+  </header>
+
+  <!-- ══════════════════════════════════════
+       HOME VIEW
+  ════════════════════════════════════════ -->
+  <main id="view-home">
+
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-left fade-up">
+        <div class="hero-eyebrow">Daily Dispatch</div>
+        <h1 class="hero-headline">
+          The <em>Bloomberg Terminal</em><br>for Daily Scientific<br>Breakthroughs
+        </h1>
+        <p class="hero-tagline">
+          Every morning, the world's most significant discoveries—curated across science, technology, medicine, mathematics, space, and more. Intelligently ranked. Elegantly presented.
+        </p>
+        <div class="hero-meta">
+          <span class="hero-badge">9 Categories</span>
+          <span class="hero-badge">Top 5 Daily</span>
+          <span class="hero-badge">Live Updates</span>
+        </div>
+      </div>
+      <div class="hero-visual fade-up fade-up-2">
+        <svg viewBox="0 0 380 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <!-- Large orbit -->
+          <circle cx="190" cy="170" r="140" stroke="#b5460f" stroke-width="1" stroke-dasharray="6 8" opacity="0.3"/>
+          <!-- Medium orbit -->
+          <circle cx="190" cy="170" r="90" stroke="#1a4a6b" stroke-width="0.8" stroke-dasharray="3 7" opacity="0.35"/>
+          <!-- Center -->
+          <circle cx="190" cy="170" r="22" fill="#f7f4ef" stroke="#b5460f" stroke-width="1.5" opacity="0.6"/>
+          <circle cx="190" cy="170" r="10" fill="#b5460f" opacity="0.5"/>
+          <!-- Orbit bodies -->
+          <circle cx="330" cy="170" r="7" fill="#c49a2a" opacity="0.6"/>
+          <circle cx="190" cy="30" r="5" fill="#1a4a6b" opacity="0.5"/>
+          <circle cx="100" cy="260" r="6" fill="#b5460f" opacity="0.45"/>
+          <!-- Grid overlay -->
+          <line x1="50" y1="170" x2="330" y2="170" stroke="#1a1714" stroke-width="0.4" opacity="0.08"/>
+          <line x1="190" y1="30" x2="190" y2="310" stroke="#1a1714" stroke-width="0.4" opacity="0.08"/>
+          <!-- Data labels -->
+          <rect x="280" y="60" width="64" height="20" rx="2" fill="#f0ece4" stroke="#e8e3d9" stroke-width="0.8" opacity="0.8"/>
+          <rect x="36" y="120" width="48" height="14" rx="2" fill="#f0ece4" stroke="#e8e3d9" stroke-width="0.8" opacity="0.8"/>
+          <rect x="240" y="250" width="56" height="14" rx="2" fill="#f0ece4" stroke="#e8e3d9" stroke-width="0.8" opacity="0.8"/>
+          <!-- Sine graph -->
+          <path d="M 40 310 C 80 285, 130 335, 170 310 S 250 285, 290 310 S 340 335, 380 310" stroke="#c49a2a" stroke-width="1" fill="none" opacity="0.3"/>
+        </svg>
+      </div>
+    </section>
+
+    <!-- Categories -->
+    <section class="categories-section">
+      <div class="section-label fade-up fade-up-2">Choose a category to explore</div>
+      <div class="category-grid" id="cat-grid">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ══════════════════════════════════════
+       CATEGORY VIEW
+  ════════════════════════════════════════ -->
+  <div id="view-category" style="display:none;">
+
+    <!-- Horizontal category nav -->
+    <nav class="cat-nav" aria-label="Categories">
+      <div class="cat-nav-inner" id="cat-nav-inner">
+        <!-- Populated by JS -->
+      </div>
+    </nav>
+
+    <!-- Category header -->
+    <div class="cat-header" id="cat-header">
+      <div class="cat-header-left">
+        <div class="cat-header-eyebrow" id="cat-header-eyebrow">Category</div>
+        <h2 class="cat-header-title" id="cat-header-title">—</h2>
+        <p class="cat-header-micro" id="cat-header-micro">—</p>
+      </div>
+      <div class="cat-header-meta">
+        <div class="cat-header-count">05</div>
+        <div class="cat-header-count-label">Top Discoveries</div>
+      </div>
+    </div>
+
+    <!-- Stories -->
+    <div class="stories-container" id="stories-container">
+      <div class="loading-state">
+        <div class="loading-pulse"></div>
+        <div class="loading-text">Loading discoveries…</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ── CONTACT ── -->
+  <section class="contact-section">
+    <div class="contact-inner">
+      <div class="contact-text">
+        <h3>Spotted a big breakthrough we missed?</h3>
+        <p>Send discoveries, ideas, collaborations, or feature suggestions.</p>
+      </div>
+      <div class="contact-email">
+        <a href="mailto:ghazal.mussawar@outlook.com">ghazal.mussawar@outlook.com</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-logo" id="footer-logo">discoveries<span>.</span>today</div>
+      <div class="footer-tagline">because the world never stops being amazing</div>
+      <div class="footer-powered">Powered by <a href="https://mussawari.com" target="_blank" rel="noopener noreferrer">MUSSAWARI.com</a></div>
+      <div class="footer-socials">
+        <a class="footer-social-link" href="https://www.instagram.com/mussawarii/" target="_blank" rel="noopener noreferrer">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+          Instagram
+        </a>
+        <a class="footer-social-link" href="https://www.linkedin.com/in/ghazala-mussawar-mussawari/" target="_blank" rel="noopener noreferrer">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+          LinkedIn
+        </a>
+        <a class="footer-social-link" href="https://www.behance.net/ghazalamussawar?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnPNiYk7MUEc4qciJvCSoQpBbjGbyv_2OwPkXrgK_7W4S8Wri1Fp9-R8rA2UQ_aem_dPJrvIAuKQBDkkLmn_lLQw" target="_blank" rel="noopener noreferrer">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 2h8.5C13 2 15 4 15 6.5S13 11 10.5 11H2V2z"/><path d="M2 11h9.5c2.8 0 5 2 5 4.5S14.3 20 11.5 20H2v-9z"/><line x1="17" y1="6" x2="22" y2="6"/><path d="M22 11c0-2.8-2-4.5-4.5-4.5S13 8.2 13 11s2 4.5 4.5 4.5c1.5 0 2.7-.7 3.5-1.8"/></svg>
+          Behance
+        </a>
+        <a class="footer-social-link" href="https://x.com/GhazalaMussawar" target="_blank" rel="noopener noreferrer">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4l16 16M20 4L4 20"/></svg>
+          Twitter / X
+        </a>
+        <a class="footer-social-link" href="https://www.youtube.com/channel/UCvLLF8ATt-cvre_IfhY6Khg" target="_blank" rel="noopener noreferrer">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46A2.78 2.78 0 0 0 1.46 6.42 29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58A2.78 2.78 0 0 0 3.41 19.6C5.12 20 12 20 12 20s6.88 0 8.59-.4a2.78 2.78 0 0 0 1.95-1.95A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z"/><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02"/></svg>
+          YouTube
+        </a>
+        <a class="footer-social-link" href="https://mussawari.com" target="_blank" rel="noopener noreferrer">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+          Website
+        </a>
+      </div>
+      <div class="footer-rule"></div>
+      <div class="footer-copy">© <span id="footer-year"></span> discoveries.today — All rights reserved</div>
+    </div>
+  </footer>
+
+</div><!-- #app -->
+
+<script>
+/* ════════════════════════════════════════════
+   DATA & CONFIG
+════════════════════════════════════════════ */
+const CATEGORIES = [
+  { id: 'science',      label: 'Science',      icon: '🔬', tagline: 'Where reality keeps surprising itself.' },
+  { id: 'tech',         label: 'Tech',          icon: '⚙️', tagline: "Tomorrow's tools, arriving slightly early." },
+  { id: 'medicine',     label: 'Medicine',      icon: '🧬', tagline: 'Healing, decoded one breakthrough at a time.' },
+  { id: 'mathematics',  label: 'Mathematics',   icon: '∑',  tagline: 'The universe, written in pure logic.' },
+  { id: 'space',        label: 'Space',          icon: '🚀', tagline: 'Where distance becomes destiny.' },
+  { id: 'astronomy',    label: 'Astronomy',     icon: '🌌', tagline: 'Reading the oldest light in existence.' },
+  { id: 'architecture', label: 'Architecture',  icon: '🏛',  tagline: 'Where ideas learn how to stand.' },
+  { id: 'construction', label: 'Construction',  icon: '🏗',  tagline: 'Where tomorrow gets built today.' },
+  { id: 'ai',           label: 'AI',             icon: '🤖', tagline: 'Teaching machines to think in public.' },
+];
+
+let appData   = null;
+let activecat = null;
+
+/* ════════════════════════════════════════════
+   INIT
+════════════════════════════════════════════ */
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('footer-year').textContent = new Date().getFullYear();
+  buildHomeTiles();
+  buildCatNav();
+  wireStaticButtons();
+  loadData().then(() => {
+    // Check hash
+    const hash = location.hash.replace('#', '');
+    if (hash && CATEGORIES.find(c => c.id === hash)) {
+      showCategory(hash);
+    }
+  });
+  window.addEventListener('hashchange', () => {
+    const hash = location.hash.replace('#', '');
+    if (hash && CATEGORIES.find(c => c.id === hash)) {
+      showCategory(hash);
+    } else if (!hash) {
+      showHome();
+    }
+  });
+});
+
+/* ════════════════════════════════════════════
+   DATA FETCH
+════════════════════════════════════════════ */
+async function loadData() {
+  try {
+    const res = await fetch('discoveries.json');
+    if (!res.ok) throw new Error('Not found');
+    appData = await res.json();
+    if (appData.date) {
+      const d = new Date(appData.date);
+      document.getElementById('masthead-date').textContent =
+        d.toLocaleDateString('en-US', { weekday:'short', year:'numeric', month:'long', day:'numeric' });
+    }
+  } catch(e) {
+    appData = null;
+  }
+}
+
+/* ════════════════════════════════════════════
+   BUILD HOME TILES
+════════════════════════════════════════════ */
+function buildHomeTiles() {
+  const grid = document.getElementById('cat-grid');
+  grid.innerHTML = CATEGORIES.map((c, i) => `
+    <button class="cat-tile fade-up fade-up-${Math.min(i+1,5)}" data-cat="${c.id}" aria-label="Open ${c.label}">
+      <div class="cat-icon">${c.icon}</div>
+      <div class="cat-name">${c.label}</div>
+      <div class="cat-tagline">${c.tagline}</div>
+      <div class="cat-arrow">Explore →</div>
+    </button>
+  `).join('');
+  grid.querySelectorAll('.cat-tile').forEach(btn => {
+    btn.addEventListener('click', () => {
+      location.hash = btn.dataset.cat;
+    });
+  });
+}
+
+/* ════════════════════════════════════════════
+   BUILD CATEGORY NAV
+════════════════════════════════════════════ */
+function buildCatNav() {
+  const nav = document.getElementById('cat-nav-inner');
+  nav.innerHTML = CATEGORIES.map(c => `
+    <button class="cat-nav-btn" data-cat="${c.id}">${c.label}</button>
+  `).join('');
+  nav.querySelectorAll('.cat-nav-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      location.hash = btn.dataset.cat;
+    });
+  });
+}
+
+/* ════════════════════════════════════════════
+   WIRE STATIC BUTTONS
+════════════════════════════════════════════ */
+function wireStaticButtons() {
+  document.getElementById('logo-btn').addEventListener('click', () => { location.hash = ''; showHome(); });
+  document.getElementById('footer-logo').addEventListener('click', () => { location.hash = ''; showHome(); });
+  document.getElementById('back-btn').addEventListener('click', () => { location.hash = ''; showHome(); });
+}
+
+/* ════════════════════════════════════════════
+   VIEW SWITCHING
+════════════════════════════════════════════ */
+function showHome() {
+  document.getElementById('view-home').style.display = 'block';
+  document.getElementById('view-category').style.display = 'none';
+  document.getElementById('back-btn').style.display = 'none';
+  activecat = null;
+  document.querySelectorAll('.cat-nav-btn').forEach(b => b.classList.remove('active'));
+}
+
+function showCategory(catId) {
+  const cat = CATEGORIES.find(c => c.id === catId);
+  if (!cat) return;
+  activecat = catId;
+
+  document.getElementById('view-home').style.display = 'none';
+  document.getElementById('view-category').style.display = 'block';
+  document.getElementById('back-btn').style.display = 'flex';
+
+  // Update nav highlights
+  document.querySelectorAll('.cat-nav-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.cat === catId);
+  });
+
+  // Update header
+  document.getElementById('cat-header-eyebrow').textContent = 'Today\'s Top Discoveries';
+  document.getElementById('cat-header-title').textContent = cat.label;
+  document.getElementById('cat-header-micro').textContent = cat.tagline;
+
+  // Scroll to top
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+
+  // Render stories
+  renderStories(catId);
+}
+
+/* ════════════════════════════════════════════
+   RENDER STORIES
+════════════════════════════════════════════ */
+function renderStories(catId) {
+  const container = document.getElementById('stories-container');
+
+  if (!appData) {
+    container.innerHTML = emptyState('No data available', 'Make sure <code>discoveries.json</code> is in the same directory as this file.');
+    return;
+  }
+
+  const items = (appData.categories && appData.categories[catId]) || [];
+
+  if (!items.length) {
+    container.innerHTML = emptyState('No discoveries yet', 'Check back soon — breakthroughs arrive daily.');
+    return;
+  }
+
+  const top5 = items.slice(0, 5);
+  const featured = top5[0];
+  const rest = top5.slice(1);
+
+  let html = `<div class="fade-up">${renderFeatured(featured, 1)}</div>`;
+
+  if (rest.length) {
+    html += `<div class="secondary-grid fade-up fade-up-2">`;
+    rest.forEach((item, i) => {
+      html += renderCard(item, i + 2);
+    });
+    html += `</div>`;
+  }
+
+  container.innerHTML = html;
+}
+
+/* ─── Featured card ── */
+function renderFeatured(item, rank) {
+  const imgHtml = item.image_url
+    ? `<img src="${esc(item.image_url)}" alt="${esc(item.title)}" loading="lazy" onerror="this.parentElement.innerHTML=placeholderSvg()">`
+    : `<div class="featured-img-placeholder">${placeholderSvg()}</div>`;
+
+  return `
+  <article class="featured-story">
+    <div class="featured-img-wrap">
+      ${imgHtml}
+      <div class="featured-rank"># ${rank} &nbsp; Featured</div>
+    </div>
+    <div class="featured-body">
+      <div>
+        <div class="story-meta-row">
+          ${item.source ? `<span class="story-source">${esc(item.source)}</span>` : ''}
+          ${item.journal ? `<span class="story-journal">${esc(item.journal)}</span>` : ''}
+          ${item.published_at ? `<span class="story-date">${formatDate(item.published_at)}</span>` : ''}
+        </div>
+        <h3 class="featured-headline">${esc(item.title || '—')}</h3>
+        <p class="featured-summary">${esc(item.summary || '')}</p>
+      </div>
+      <div>
+        ${item.source_url ? `<a class="read-more" href="${esc(item.source_url)}" target="_blank" rel="noopener noreferrer">Read full story <span class="arrow">→</span></a>` : ''}
+        ${item.impact ? renderImpact(item.impact) : ''}
+      </div>
+    </div>
+  </article>`;
+}
+
+/* ─── Small card ── */
+function renderCard(item, rank) {
+  const imgHtml = item.image_url
+    ? `<img src="${esc(item.image_url)}" alt="${esc(item.title)}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'story-card-img-placeholder\\'>' + placeholderSvg() + '</div>'">`
+    : `<div class="story-card-img-placeholder">${placeholderSvg(true)}</div>`;
+
+  return `
+  <article class="story-card">
+    <div class="story-card-img">
+      ${imgHtml}
+      <div class="story-card-rank"># ${rank}</div>
+    </div>
+    <div class="story-card-body">
+      <div class="story-meta-row">
+        ${item.source ? `<span class="story-source">${esc(item.source)}</span>` : ''}
+        ${item.journal ? `<span class="story-journal">${esc(item.journal)}</span>` : ''}
+        ${item.published_at ? `<span class="story-date">${formatDate(item.published_at)}</span>` : ''}
+      </div>
+      <h4 class="story-card-headline">${esc(item.title || '—')}</h4>
+      <p class="story-card-summary">${esc(item.summary || '')}</p>
+      <div class="story-card-footer">
+        ${item.source_url ? `<a class="read-more" href="${esc(item.source_url)}" target="_blank" rel="noopener noreferrer">Read more <span class="arrow">→</span></a>` : '<span></span>'}
+        ${item.impact ? renderImpact(item.impact) : ''}
+      </div>
+    </div>
+  </article>`;
+}
+
+/* ─── Impact dots ── */
+function renderImpact(score) {
+  const max = 5;
+  const s = Math.min(Math.max(parseInt(score) || 0, 0), max);
+  const dots = Array.from({length: max}, (_, i) =>
+    `<div class="impact-dot${i < s ? ' filled' : ''}"></div>`
+  ).join('');
+  return `<div class="impact-bar"><span class="impact-label">Impact</span><div class="impact-dots">${dots}</div></div>`;
+}
+
+/* ─── Empty state ── */
+function emptyState(title, msg) {
+  return `<div class="empty-state">
+    <div class="empty-state-icon">◎</div>
+    <div class="empty-state-title">${title}</div>
+    <div class="empty-state-text">${msg}</div>
+  </div>`;
+}
+
+/* ─── Placeholder SVG ── */
+function placeholderSvg(small) {
+  const size = small ? 32 : 64;
+  return `<svg width="${size}" height="${size}" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="32" cy="32" r="24" stroke="#1a4a6b" stroke-width="1" stroke-dasharray="4 6" opacity="0.3"/>
+    <circle cx="32" cy="32" r="8" stroke="#b5460f" stroke-width="1" opacity="0.3"/>
+    <line x1="8" y1="32" x2="56" y2="32" stroke="#1a1714" stroke-width="0.6" opacity="0.1"/>
+    <line x1="32" y1="8" x2="32" y2="56" stroke="#1a1714" stroke-width="0.6" opacity="0.1"/>
+  </svg>`;
+}
+
+/* ════════════════════════════════════════════
+   UTILITIES
+════════════════════════════════════════════ */
+function esc(s) {
+  if (s == null) return '';
+  return String(s)
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#39;');
+}
+
+function formatDate(str) {
+  if (!str) return '';
+  try {
+    const d = new Date(str);
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  } catch { return str; }
+}
+</script>
+</body>
+</html>
