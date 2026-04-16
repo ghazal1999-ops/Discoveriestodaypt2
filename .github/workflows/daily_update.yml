@@ -58,8 +58,11 @@ jobs:
                   "https://www.news-medical.net/medical/feed/"
               ],
               "mathematics": [
-                  "https://rss.arxiv.org/rss/math",
-                  "https://www.quantamagazine.org/mathematics/feed/"
+                  "https://www.quantamagazine.org/mathematics/feed/",
+                  "https://www.quantamagazine.org/tag/foundations-of-mathematics/feed/",
+                  "https://www.ams.org/cgi-bin/notices/rss",
+                  "https://news.mit.edu/rss/topic/mathematics",
+                  "https://www.nature.com/subjects/mathematics.rss"
               ],
               "space": [
                   "https://www.nasa.gov/rss/dyn/breaking_news.rss",
@@ -92,19 +95,31 @@ jobs:
           }
 
           KEYWORDS = {
-              "science": ["discovery","discover","research","study","scientists","breakthrough","first","finding","evidence"],
-              "tech": ["technology","device","engineering","platform","chip","system","software","hardware","robot","sensor"],
-              "medicine": ["disease","therapy","drug","clinical","patient","cancer","medical","health","diagnostic","immune"],
-              "mathematics": ["proof","theorem","equation","algebra","geometry","topology","optimization","number theory","combinatorics"],
-              "space": ["space","rocket","orbit","moon","mars","satellite","mission","spacecraft","launch","propulsion"],
-              "astronomy": ["telescope","star","galaxy","black hole","astronomy","planet","cosmic","nebula","exoplanet","observatory"],
-              "architecture": ["architecture","architect","building","design","facade","urban","structural","housing","spatial"],
-              "construction": ["construction","infrastructure","concrete","bridge","project","contractor","engineering","prefabrication","site"],
-              "ai": ["ai","artificial intelligence","machine learning","model","llm","neural","multimodal","agent","inference","training"]
+              "science": ["discovery","discover","research","study","scientists","breakthrough"],
+              "tech": ["technology","device","engineering","chip","robot","software"],
+              "medicine": ["disease","therapy","drug","clinical","patient","health"],
+              "mathematics": ["proof","theorem","equation","geometry","optimization","mathematics"],
+              "space": ["space","rocket","orbit","moon","mars","mission"],
+              "astronomy": ["telescope","star","galaxy","planet","cosmic"],
+              "architecture": ["architecture","building","design","urban","structural"],
+              "construction": ["construction","infrastructure","bridge","concrete","engineering"],
+              "ai": ["ai","machine learning","model","llm","neural","agent"]
           }
 
           HEADERS = {
               "User-Agent": "Mozilla/5.0 (compatible; DiscoveriesTodayBot/1.0)"
+          }
+
+          FALLBACK_IMAGES = {
+              "science": "https://picsum.photos/seed/sciencefallback/1200/800",
+              "tech": "https://picsum.photos/seed/techfallback/1200/800",
+              "medicine": "https://picsum.photos/seed/medicinefallback/1200/800",
+              "mathematics": "https://picsum.photos/seed/mathfallback/1200/800",
+              "space": "https://picsum.photos/seed/spacefallback/1200/800",
+              "astronomy": "https://picsum.photos/seed/astronomyfallback/1200/800",
+              "architecture": "https://picsum.photos/seed/architecturefallback/1200/800",
+              "construction": "https://picsum.photos/seed/constructionfallback/1200/800",
+              "ai": "https://picsum.photos/seed/aifallback/1200/800"
           }
 
           def clean_text(text):
@@ -115,8 +130,8 @@ jobs:
           def looks_like_bad_image(url):
               if not url:
                   return True
-              bad_words = ["logo", "icon", "avatar", "sprite", "banner", "ads", "advert", "favicon"]
               lower = url.lower()
+              bad_words = ["logo", "icon", "avatar", "sprite", "banner", "ads", "favicon"]
               return any(word in lower for word in bad_words)
 
           def extract_image_from_rss(entry):
@@ -134,7 +149,6 @@ jobs:
                   url = m.group(1)
                   if url and not looks_like_bad_image(url):
                       return url
-
               return ""
 
           def extract_image_from_article(url):
@@ -147,41 +161,32 @@ jobs:
 
                   og = soup.find("meta", property="og:image")
                   if og and og.get("content"):
-                      img = og["content"].strip()
-                      if img and not looks_like_bad_image(img):
-                          return img
+                      return og["content"].strip()
 
                   tw = soup.find("meta", attrs={"name": "twitter:image"})
                   if tw and tw.get("content"):
-                      img = tw["content"].strip()
-                      if img and not looks_like_bad_image(img):
-                          return img
+                      return tw["content"].strip()
 
-                  link_img = soup.find("link", rel="image_src")
-                  if link_img and link_img.get("href"):
-                      img = link_img["href"].strip()
-                      if img and not looks_like_bad_image(img):
-                          return img
-
-                  imgs = soup.find_all("img")
-                  for img_tag in imgs:
-                      img = img_tag.get("src", "").strip()
-                      if img and img.startswith("http") and not looks_like_bad_image(img):
-                          return img
-
+                  for img in soup.find_all("img"):
+                      src = img.get("src", "").strip()
+                      if src.startswith("http") and not looks_like_bad_image(src):
+                          return src
               except Exception:
                   return ""
-
               return ""
 
-          def parse_entry(entry):
+          def parse_entry(category, entry):
               title = clean_text(entry.get("title", ""))
               summary = clean_text(entry.get("summary", entry.get("description", "")))
               link = entry.get("link", "").strip()
+
               image_url = extract_image_from_rss(entry)
 
               if not image_url and link:
                   image_url = extract_image_from_article(link)
+
+              if not image_url:
+                  image_url = FALLBACK_IMAGES[category]
 
               published = str(entry.get("published", "") or entry.get("updated", "") or "")
               return title, summary, link, image_url, published
@@ -189,36 +194,12 @@ jobs:
           def score_item(category, title, summary):
               text = f"{title} {summary}".lower()
               score = 0
-
               for kw in KEYWORDS.get(category, []):
                   if kw in text:
                       score += 2
-
-              if any(w in text for w in ["breakthrough", "first ever", "historic", "landmark", "major", "unprecedented"]):
+              if "breakthrough" in text:
                   score += 4
-
-              if any(w in text for w in ["study", "researchers", "scientists", "engineers", "reveals", "found", "new"]):
-                  score += 2
-
-              if len(summary) > 120:
-                  score += 1
-
               return score
-
-          def infer_impact(score):
-              if score >= 14:
-                  return 5
-              if score >= 10:
-                  return 4
-              if score >= 6:
-                  return 3
-              if score >= 3:
-                  return 2
-              return 1
-
-          def compact_summary(summary, title):
-              summary = summary or title
-              return (summary[:320] + "...") if len(summary) > 320 else summary
 
           categories_output = {}
 
@@ -230,7 +211,7 @@ jobs:
                   feed = feedparser.parse(feed_url)
 
                   for entry in feed.entries[:40]:
-                      title, summary, link, image_url, published = parse_entry(entry)
+                      title, summary, link, image_url, published = parse_entry(category, entry)
 
                       if not title or not link or link in seen_links:
                           continue
@@ -241,26 +222,21 @@ jobs:
 
                       items.append({
                           "title": title,
-                          "summary": compact_summary(summary, title),
+                          "summary": summary[:320],
                           "category": "AI" if category == "ai" else category.capitalize(),
                           "source": source,
                           "journal": source,
                           "published_at": published or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
                           "source_url": link,
                           "image_url": image_url,
-                          "impact": infer_impact(score),
+                          "impact": 5 if score >= 8 else 4 if score >= 4 else 3,
                           "_score": score
                       })
 
-              items.sort(
-                  key=lambda x: (x["_score"], x["impact"], len(x["title"]) + len(x["summary"])),
-                  reverse=True
-              )
+              items.sort(key=lambda x: x["_score"], reverse=True)
 
               cleaned = []
-              for item in items:
-                  if len(cleaned) >= MAX_PER_CATEGORY:
-                      break
+              for item in items[:MAX_PER_CATEGORY]:
                   item.pop("_score", None)
                   cleaned.append(item)
 
@@ -274,8 +250,6 @@ jobs:
 
           with open("discoveries.json", "w", encoding="utf-8") as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
-
-          print("discoveries.json updated successfully")
           PY
 
       - name: Commit and push if changed
