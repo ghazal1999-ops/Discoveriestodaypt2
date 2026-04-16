@@ -1,19 +1,8 @@
 {
   "date": "2026-04-16",
-  "last_updated": "2026-04-16 06:17 UTC",
+  "last_updated": "2026-04-16 17:36 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Alzheimer’s Breakthrough: Scientists Discover Key Protein May Prevent Toxic Protein Clumps in the Brain",
-        "summary": "New research suggests that tubulin may help prevent the toxic protein clumps associated with Alzheimer’s and Parkinson’s diseases. Researchers at Baylor College of Medicine say they may have found a new way to push back against two of the most devastating brain diseases: Alzheimer’s and Parkinson’s. Both illnesses are ...",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Tue, 14 Apr 2026 14:13:57 +0000",
-        "source_url": "https://scitechdaily.com/alzheimers-breakthrough-scientists-discover-key-protein-may-prevent-toxic-protein-clumps-in-the-brain/",
-        "image_url": "https://scitechdaily.com/images/Alzheimers-Dementia-Brain-Disease-Concept-777x583.jpg",
-        "impact": 5
-      },
       {
         "title": "Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology",
         "summary": "A new nanodisc-based platform lets scientists study viral proteins in a form that closely mimics real viruses, revealing how antibodies truly recognize them. This approach uncovered hidden interactions in viruses like HIV and Ebola that traditional methods missed. By recreating the virus’s membrane environment, researc...",
@@ -37,6 +26,28 @@
         "impact": 5
       },
       {
+        "title": "Asthma and Depression Don’t Mix the Way Scientists Expected",
+        "summary": "Depressive symptoms are common in people with asthma, but increasing evidence suggests they may be driven by biological processes that differ from those seen in major depressive disorder. Researchers from Hiroshima University in Japan, working with collaborators, have identified a biological difference in how depressio...",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 16 Apr 2026 15:21:14 +0000",
+        "source_url": "https://scitechdaily.com/asthma-and-depression-dont-mix-the-way-scientists-expected/",
+        "image_url": "https://scitechdaily.com/images/Happy-Sad-Balloon-Faces-Depression-Mental-Health-Antidepressant-Concept-777x518.jpg",
+        "impact": 5
+      },
+      {
+        "title": "From Salford to Shanghai: Cities taking control of housing",
+        "summary": "A major new international study led by The University of Manchester has revealed how policymakers around the world are becoming far more active in constructing affordable housing. Drawing on evidence from cities including Salford, Shanghai, Nairobi and Paris, the research shows how governments are stepping in where pri...",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Thu, 16 Apr 2026 11:40:05 EDT",
+        "source_url": "https://phys.org/news/2026-04-salford-shanghai-cities-housing.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/housing-shanghai.jpg",
+        "impact": 5
+      },
+      {
         "title": "How aggressive breast cancer turns off the immune system",
         "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Using real patient sam...",
         "category": "Science",
@@ -46,17 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
         "impact": 5
-      },
-      {
-        "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
-        "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and behavioral innovations...",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 12 Apr 2026 07:32:05 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/homo-sapiens-and-neanderthals-sharing-technology-and-behavior.webp",
-        "impact": 4
       }
     ],
     "tech": [
@@ -72,46 +72,46 @@
         "impact": 3
       },
       {
-        "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry...",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Tue, 14 Apr 2026 12:04:47 +0000",
-        "source_url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
-        "image_url": "",
-        "impact": 3
-      },
-      {
-        "title": "Microsoft counters the MacBook Neo with freebies for students",
-        "summary": "Apple's $599 MacBook Neo ($499 for students) has sent shockwaves through the PC ecosystem, and now Microsoft is responding with deals targeting students in the US. A new \"Microsoft College Offer\" is launching today, which will see the software giant bundle 12 months of free Microsoft 365 Premium and Xbox Game Pass Ulti...",
+        "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
+        "summary": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and ...",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-04-15T14:03:46-04:00",
-        "source_url": "https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students",
+        "published_at": "2026-04-16T11:59:24-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
         "image_url": "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
         "impact": 3
       },
       {
-        "title": "Redefining the future of software engineering",
-        "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative de...",
+        "title": "Roku hits a major milestone with 100 million users",
+        "summary": "Roku continues to solidify itself in a very busy streaming landscape. As of April, over 100 million households are streaming with Roku devices, including its streaming sticks and boxes and Roku TVs. Roku originally spun out of Netflix in 2008, where it was conceived as an in-house streaming device. It's not just Roku t...",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Tue, 14 Apr 2026 18:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-        "image_url": "",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-04-16T11:14:46-04:00",
+        "source_url": "https://www.theverge.com/streaming/913169/roku-passes-100-million-users",
+        "image_url": "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
         "impact": 3
       },
       {
-        "title": "Aloe Blacc’s fame means nothing in biotech (and that’s the point)",
-        "summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&#160;out? You&#160;can&#8217;t&#160;just write a check in biotech. Regulators require a commercialization plan, and phil...",
+        "title": "Anthropic Plots Major London Expansion",
+        "summary": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 15 Apr 2026 14:00:00 +0000",
-        "source_url": "https://techcrunch.com/video/aloe-blaccs-fame-means-nothing-in-biotech-and-thats-the-point/",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 16 Apr 2026 13:49:35 +0000",
+        "source_url": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+        "image_url": "https://media.wired.com/photos/69e0da3dae2b670940bc0783/191:100/w_1280,c_limit/GettyImages-2261514586.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram Inside a money-laundering&#160;center&#160;in Cambodia, an employee opens a banking app on...",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 16 Apr 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
         "image_url": "",
         "impact": 2
       }
@@ -232,14 +232,14 @@
     ],
     "space": [
       {
-        "title": "Splashdown! Artemis 2 astronauts return to Earth after historic NASA mission to the moon",
-        "summary": "NASA's Artemis 2 astronauts came home today (April 10), wrapping up an epic mission that broke spaceflight records and set the stage for even more ambitious moonshots to come.",
+        "title": "Private Japanese spacecraft will inspect 2 dead satellites in 2027",
+        "summary": "Astroscale's 2027 ISSA-J mission will mark the first attempt to inspect multiple spacecraft across different orbits in a single flight.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sat, 11 Apr 2026 00:24:52 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/4GGpheX3kkZzXjDxYuBdUM-1280-80.png",
+        "published_at": "Thu, 16 Apr 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/private-japanese-spacecraft-will-inspect-2-dead-satellites-in-2027",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/DwHKVmS2fxHCkZq9T2A6HA-1280-80.jpg",
         "impact": 4
       },
       {
@@ -346,15 +346,26 @@
     ],
     "architecture": [
       {
-        "title": "Shanghai Jiao Tong University Student Service Center / TJAD/Zeng Qun Architecture Design Studio",
-        "summary": "Under the contemporary educational philosophy that places \"student-centeredness\" as a core principle in universities, the student center has emerged as a significant new building type on campuses in recent years. This particular project sits at the edge of the campus. Originally not part of the university's initial mas...",
+        "title": "Milan Design Week 2026 and Níall McLaughlin Architects’ Cathedral Precinct in Sydney: This Week’s Review",
+        "summary": "As major cultural events, institutional transformations, and new architectural commissions unfold across different geographies, this week's discourse highlights how architecture operates at the intersection of public life, creativity, and long-term adaptation. With Milan Design Week 2026 foregrounding process, experime...",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 15 Apr 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040510/shanghai-jiao-tong-university-student-service-center-tjad-zeng-qun-architecture-design-studio",
+        "published_at": "Thu, 16 Apr 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1040716/milan-design-week-2026-and-niall-mclaughlin-architects-cathedral-precinct-in-sydney-this-weeks-review",
         "image_url": "https://www.facebook.com/tr?id=350870482443432&ev=PageView&noscript=1",
-        "impact": 4
+        "impact": 5
+      },
+      {
+        "title": "Kéré Architecture’s Goethe-Institut in Senegal Opens as a Landmark for Cultural Exchange in West Africa",
+        "summary": "In February 2022, construction began on the Goethe-Institut in Dakar, designed by Kéré Architecture. Present in Senegal since 1978, the Goethe-Institut is reaching a milestone in strengthening cultural ties between Germany, Senegal, and West Africa with this new building. As the first purpose-built Goethe-Institut on t...",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 16 Apr 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1040701/kere-architectures-goethe-institut-in-senegal-opens-as-a-landmark-for-cultural-exchange-in-west-africa",
+        "image_url": "https://www.facebook.com/tr?id=350870482443432&ev=PageView&noscript=1",
+        "impact": 5
       },
       {
         "title": "V&A east museum by o’donnell + tuomey opens in london as a folded concrete landmark",
@@ -368,51 +379,29 @@
         "impact": 4
       },
       {
+        "title": "EU Mies Awards 2026 Announces Winners in Both Architecture and Emerging Architecture Categories",
+        "summary": "The Fundació Mies van der Rohe and the European Commission have announced the winners of the 2026 edition of the European Union Prize for Contemporary Architecture – Mies van der Rohe Awards, selected from a total of 410 nominated works. The 2026 Architecture Prize goes to the renovation of the Charleroi Palais des Exp...",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 16 Apr 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040736/eu-mies-awards-2026-announces-winners-in-both-architecture-and-emerging-architecture-categories",
+        "image_url": "https://www.facebook.com/tr?id=350870482443432&ev=PageView&noscript=1",
+        "impact": 4
+      },
+      {
         "title": "Flower-covered theatre forms centrepiece of Denise Scott Brown's photography exhibition",
         "summary": "A flower-covered theatre has been installed at the centre of an exhibition dedicated to architect Denise Scott Brown's photographs at the brutalist Yale architecture school building in New Haven, USA. Set within the Paul Rudolph-designed architecture school, Encounters: Denise Scott Brown Photographs aims to draw atten...",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
-        "published_at": "Wed, 15 Apr 2026 17:00:52 +0000",
+        "published_at": "Wed, 15 Apr 2026 19:00:52 +0000",
         "source_url": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
         "image_url": "https://www.dezeen.com/wp-content/themes/2016dezeen/assets/img/edificio.jpg",
         "impact": 4
-      },
-      {
-        "title": "Sukchulmok and BRBB Architects use \"sculptural forms\" for self-designed studio in Seoul",
-        "summary": "South Korean studios Sukchulmok and BRBB Architects have transformed a 1970s brick building in Seoul into their own workspace and residence, contrasting its blocky exterior with curvilinear timber-lined interiors. Named Myeongnyun Sogul, the original residential building dates from 1974 and steps down a sloping corner ...",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 14 Apr 2026 10:30:40 +0000",
-        "source_url": "https://www.dezeen.com/2026/04/14/sukchulmok-brbb-architects-myeongnyun-sogul/",
-        "image_url": "https://www.dezeen.com/wp-content/themes/2016dezeen/assets/img/edificio.jpg",
-        "impact": 3
-      },
-      {
-        "title": "V&A East Museum by O’Donnell + Tuomey to Open in East London’s Cultural Quarter",
-        "summary": "V&amp;A East Museum, designed by architects O'Donnell + Tuomey, will open to the public on 18 April 2026. Assigned to the firm in 2015, the new building is located in the Queen Elizabeth Olympic Park, near its recently opened sister facility, the V&amp;A East Storehouse, designed by Diller Scofidio + Renfro. Located in...",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 15 Apr 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1040679/v-and-a-east-museum-by-odonnell-plus-tuomey-to-open-in-east-londons-cultural-quarter",
-        "image_url": "https://www.facebook.com/tr?id=350870482443432&ev=PageView&noscript=1",
-        "impact": 3
       }
     ],
     "construction": [
-      {
-        "title": "Kier, Bam Nuttall, VolkerStevin and Taylor Woodrow avoided nearly £100M of project costs after training scheme",
-        "summary": "Four major UK construction and infrastructure firms avoided £92.6M worth of errors after signing up to a “landmark” training programme from the Get It Right Initiative (Giri) to reduce error in construction. The post Kier, Bam Nuttall, VolkerStevin and Taylor Woodrow avoided nearly £100M of project costs after training...",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 15 Apr 2026 10:25:43 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/kier-bam-nuttall-volker-stevin-and-taylor-woodrow-avoided-nearly-100m-of-project-costs-after-training-scheme-15-04-2026/",
-        "image_url": "",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: Major Shifts Needed for Integrated Project Delivery",
         "summary": "Thanks for the great article on Lean and IPD (ENR 6/15 p. 8). It&rsquo;s very helpful for the design and construction community to have a thoughtful piece for discussion.",
@@ -436,17 +425,6 @@
         "impact": 3
       },
       {
-        "title": "East West Rail: Raft of updates to proposals detailed in final consultation before DCO",
-        "summary": "East West Rail (EWR) has detailed a range of updates to its proposals for the new railway line between Oxford and Cambridge, as well as a new construction timetable for work on its new Bedford station. The post East West Rail: Raft of updates to proposals detailed in final consultation before DCO appeared first on New ...",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 15 Apr 2026 15:19:39 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/east-west-rail-raft-of-updates-to-proposals-detailed-in-final-consultation-before-dco-15-04-2026/",
-        "image_url": "",
-        "impact": 3
-      },
-      {
         "title": "Correction: Wrong Casino Collapse Photo",
         "summary": "Related Links: Engineering News Record Architectural Record &#65279;The story \"OSHA Points to Process Errors in Cincinnati Casino Collapse\" contained errors. The photograph depicted another Horseshoe Casino, which collapsed last December in Cleveland. Also, Messer Construction Co. received its last OSHA violation in Ja...",
         "category": "Construction",
@@ -455,6 +433,28 @@
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/04/02/commerce_enr_ph_article1_cash-is-king_image.webp?crop=true&height=257&t=1775138429&width=420",
+        "impact": 3
+      },
+      {
+        "title": "Corrections",
+        "summary": "&#65279;\"BIM Consensus Standard Is a Step Forward but Not a Major Leap Toward Interoperability\" should have stated that Nemetschek Vectorworks and Graphisoft are owned by the same company, Nemetschek Group. Also, the headquarters of FM:Systems is located in Raleigh, N.C.&#65279;\"Cracks Slow Pontoon Job\" erroneously sta...",
+        "category": "Construction",
+        "source": "enr.com",
+        "journal": "enr.com",
+        "published_at": "Mon, 11 Jun 2012 12:00:00 -0400",
+        "source_url": "https://www.enr.com/articles/8139-corrections",
+        "image_url": "https://www.enr.com/ext/resources/2026/04/02/commerce_enr_ph_article1_cash-is-king_image.webp?crop=true&height=257&t=1775138429&width=420",
+        "impact": 3
+      },
+      {
+        "title": "Construction needs to overhaul the culture of communication",
+        "summary": "The industry should place more value on open, early communication to prevent small problems snowballing into major delays, writes a construction consultant.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 15 Apr 2026 08:28:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-communication-disputes-issues-resolution/817485/",
+        "image_url": "https://imgproxy.divecdn.com/zUNjrSfqRC-3KbFCKGljE-P0QZqhBbO38jNLfBkAoLc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTQ0NzcyNzM1XzEuanBn.webp",
         "impact": 3
       }
     ],
