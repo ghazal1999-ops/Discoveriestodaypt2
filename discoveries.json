@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-16",
-  "last_updated": "2026-04-16 19:25 UTC",
+  "date": "2026-04-17",
+  "last_updated": "2026-04-17 06:18 UTC",
   "categories": {
     "science": [
       {
@@ -37,14 +37,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists Make Breakthrough on 40-Year-Old 2D Physics Puzzle",
-        "summary": "By manipulating ultrafast quantum particles under extreme conditions, researchers have begun to probe growth dynamics in unprecedented detail. Why do patterns emerge as surfaces grow, whether in crystals, flames, or living systems? Physicists have long turned to the Kardar–Parisi–Zhang (KPZ) equation, proposed in 1986,",
+        "title": "Preconception radiation exposure alters offspring mitochondrial DNA in an organ-specific manner",
+        "summary": "It did not take long after the discovery of X-rays in the 1890s for scientists to begin exploring the harmful effects of radiation on living organisms. Yet even after more than a century of research, new insights continue to emerge about how radiation affects the body. In a recent study, researchers at Hokkaido Univers",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Wed, 15 Apr 2026 13:01:39 +0000",
-        "source_url": "https://scitechdaily.com/scientists-make-breakthrough-on-40-year-old-2d-physics-puzzle/",
-        "image_url": "https://scitechdaily.com/images/Experiment-Demonstrating-KPZ-Universality-in-a-Two-Dimensional-System-in-Space-and-Time-777x437.jpg",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Thu, 16 Apr 2026 21:40:01 EDT",
+        "source_url": "https://phys.org/news/2026-04-preconception-exposure-offspring-mitochondrial-dna.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/preconception-radiatio-2.jpg",
         "impact": 5
       },
       {
@@ -94,14 +94,14 @@
         "impact": 3
       },
       {
-        "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
-        "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
+        "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+        "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 15 Apr 2026 19:34:33 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Boston-Dynamics-Spot-robot-inspecting-a-facility-e1776279688396-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 16 Apr 2026 20:26:44 +0000",
+        "source_url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
         "impact": 3
       },
       {
@@ -118,6 +118,28 @@
     ],
     "medicine": [
       {
+        "title": "Long-term cure rates for multidrug-resistant tuberculosis much better than expected",
+        "summary": "A new national cohort study provides important insights into the treatment of multidrug-resistant tuberculosis (MDR-TB). The study shows that long-term disease-free survival rates are significantly higher than previous standard indicators suggest. The results, published in The Lancet Regional Health Europe, are based o",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 16 Apr 2026 17:40:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-term-multidrug-resistant-tuberculosis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-cure-rates-f.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Global trial shows novel treatment for triple-negative breast cancer nearly doubles survival",
+        "summary": "A global, multicenter phase III trial, TROPION-Breast02, led by a senior medical oncologist and researcher from the National Cancer Centre Singapore, has demonstrated a significant breakthrough in improving the survival of patients with untreated, advanced triple negative breast cancer (TNBC) using the novel antibody-d",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 16 Apr 2026 16:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-global-trial-treatment-triple-negative.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/breast-cancer-1.jpg",
+        "impact": 5
+      },
+      {
         "title": "Scientists finally uncover why promising cancer drugs keep failing",
         "summary": "Cancer drugs known as BET inhibitors once looked like a breakthrough, but in real patients they’ve often fallen short. New research reveals a key reason why: two closely related proteins, BRD2 and BRD4, don’t actually do the same job. Instead, BRD2 acts like a “stage manager,” preparing genes for activation, while BRD4",
         "category": "Medicine",
@@ -126,17 +148,6 @@
         "published_at": "Thu, 09 Apr 2026 23:42:35 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101055.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/confused-face-palm-young-doctor.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists discover hidden gut trigger behind ALS and dementia",
-        "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 09 Apr 2026 06:36:40 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
         "impact": 5
       },
       {
@@ -159,17 +170,6 @@
         "published_at": "Wed, 15 Apr 2026 03:26:50 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
-        "impact": 4
-      },
-      {
-        "title": "Forget daily pills. This shot works when blood pressure meds fail",
-        "summary": "A twice-yearly injection may soon change how high blood pressure is treated. In a global trial, patients receiving the experimental drug zilebesiran alongside standard therapy saw greater blood pressure reductions than those on standard treatment alone. The drug works by blocking a key liver protein, helping blood vess",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 13 Apr 2026 00:20:02 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022035.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/blood-pressure-gauge-heart.webp",
         "impact": 4
       }
     ],
@@ -311,17 +311,6 @@
         "impact": 4
       },
       {
-        "title": "Exoplanet Host Star Shares Elemental Traits with Its Hot Jupiter",
-        "summary": "An ultra-hot Jupiter exoplanet orbiting a nearby star gave scientists using the Gemini South telescope a look at how both a star and its hot planet can have similar chemical compositions. The team, led by Arizona State University graduate student Jorge Antonio Sanchez, took spectra of the planet, called WASP-189b, usin",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 14 Apr 2026 01:32:20 +0000",
-        "source_url": "https://www.universetoday.com/articles/exoplanet-host-star-shares-elemental-traits-with-its-hot-jupiter",
-        "image_url": "https://www.universetoday.com/article_images/noirlab2609a_20260414_011319.jpg",
-        "impact": 4
-      },
-      {
         "title": "How do supergiant exoplanets form? James Webb Space Telescope finds a clue",
         "summary": "Using the James Webb Space Telescope, astronomers have investigated the giant exoplanet 29 Cygni b — work that could clarify the line between planets and stars.",
         "category": "Astronomy",
@@ -341,6 +330,17 @@
         "published_at": "Fri, 10 Apr 2026 15:27:19 +0000",
         "source_url": "https://skyandtelescope.org/astronomy-news/rubin-observatory-announces-11000-new-asteroids/",
         "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "Where's the Dividing Line Between A Star and A Planet? Ask the JWST.",
+        "summary": "It's obvious that Earth is a planet. It's obvious that the Sun is a star. But for substellar objects like brown dwarfs, it's not so clear. Researchers are using the JWST to find a stronger dividing line between star and planet that depends on how they formed.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 15 Apr 2026 23:03:59 +0000",
+        "source_url": "https://www.universetoday.com/articles/wheres-the-dividing-line-between-a-star-and-a-planet-ask-the-jwst",
+        "image_url": "https://www.universetoday.com/article_images/Half_Res_For_Display_20260415_202711.jpg",
         "impact": 4
       }
     ],
@@ -460,57 +460,57 @@
     ],
     "ai": [
       {
-        "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
-        "summary": "arXiv:2604.13206v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly integrated into agentic workflows, their unpredictability stemming from numerical instability has emerged as a critical reliability issue. While recent studies have demonstrated the significant downstream effects of these i",
+        "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
+        "summary": "arXiv:2604.14178v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable capabilities in reasoning and tool use, yet they often suffer from rigid, reactive control flows that limit their adaptability and efficiency. Most existing frameworks rely on fixed pipelines or failure-trigge",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.13206",
+        "published_at": "Fri, 17 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.14178",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
-        "summary": "arXiv:2604.13318v1 Announce Type: new Abstract: Autonomous web agents powered by large language models (LLMs) have shown promise in completing complex browser tasks, yet they still struggle with long-horizon workflows. A key bottleneck is the grounding gap in existing skill formulations: textual workflow skills provide",
+        "title": "Credo: Declarative Control of LLM Pipelines via Beliefs and Policies",
+        "summary": "arXiv:2604.14401v1 Announce Type: new Abstract: Agentic AI systems are becoming commonplace in domains that require long-lived, stateful decision-making in continuously evolving conditions. As such, correctness depends not only on the output of individual model calls, but also on how to best adapt when incorporating ne",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.13318",
+        "published_at": "Fri, 17 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.14401",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold",
-        "summary": "arXiv:2604.13392v1 Announce Type: new Abstract: Tabular data remains prevalent in high-stakes domains such as healthcare and finance, where predictive models are expected to provide both high accuracy and faithful, human-understandable reasoning. While symbolic models offer verifiable logic, they lack semantic expressi",
+        "title": "AIBuildAI: An AI Agent for Automatically Building AI Models",
+        "summary": "arXiv:2604.14455v1 Announce Type: new Abstract: AI models underpin modern intelligent systems, driving advances across science, medicine, finance, and technology. Yet developing high-performing AI models remains a labor-intensive process that requires expert practitioners to iteratively design architectures, engineer r",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.13392",
+        "published_at": "Fri, 17 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.14455",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
-        "summary": "arXiv:2604.13488v1 Announce Type: new Abstract: Autonomous Graphical User Interface (GUI) agents powered by Multimodal Large Language Models (MLLMs) enable digital automation on end-user devices. While scaling both parameters and data has yielded substantial gains, advanced methods still suffer from prohibitive deploym",
+        "title": "Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve",
+        "summary": "arXiv:2604.14475v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents can orchestrate specialist classifiers, segmentation models, and visual question-answering modules to interpret chest X-rays. However, these agents still solve each case in isolation: they fail to accumulate experience acro",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.13488",
+        "published_at": "Fri, 17 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.14475",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Rethinking AI Hardware: A Three-Layer Cognitive Architecture for Autonomous Agents",
-        "summary": "arXiv:2604.13757v1 Announce Type: new Abstract: The next generation of autonomous AI systems will be constrained not only by model capability, but by how intelligence is structured across heterogeneous hardware. Current paradigms -- cloud-centric AI, on-device inference, and edge-cloud pipelines -- treat planning, reas",
+        "title": "GDPR Auto-Formalization with AI Agents and Human Verification",
+        "summary": "arXiv:2604.14607v1 Announce Type: new Abstract: We study the overall process of automatic formalization of GDPR provisions using large language models, within a human-in-the-loop verification framework. Rather than aiming for full autonomy, we adopt a role-specialized workflow in which LLM-based AI components, operatin",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.13757",
+        "published_at": "Fri, 17 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.14607",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
