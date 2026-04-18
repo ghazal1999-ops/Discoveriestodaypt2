@@ -1,19 +1,8 @@
 {
   "date": "2026-04-18",
-  "last_updated": "2026-04-18 05:28 UTC",
+  "last_updated": "2026-04-18 23:32 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology",
-        "summary": "A new nanodisc-based platform lets scientists study viral proteins in a form that closely mimics real viruses, revealing how antibodies truly recognize them. This approach uncovered hidden interactions in viruses like HIV and Ebola that traditional methods missed. By recreating the virus’s membrane environment, researc",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 12 Apr 2026 06:42:12 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/immunology-antibodies-genetically-engineered-chimeric-antigen-receptor-immune-cell-with-implanted-mrna-gene-strand.webp",
-        "impact": 5
-      },
       {
         "title": "95% of people carry this virus and scientists may have just found how to stop it",
         "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering immune cells. One of",
@@ -23,17 +12,6 @@
         "published_at": "Wed, 15 Apr 2026 03:26:50 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
-        "impact": 5
-      },
-      {
-        "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
-        "summary": "A breakthrough in microbiome research could change how colorectal cancer is detected—no colonoscopy required. Scientists used AI to map gut bacteria at an unprecedented level of detail, revealing subtle microbial patterns linked to cancer. By analyzing simple stool samples, their method identified 90% of cases, rivalin",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 09 Apr 2026 22:23:41 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/colon-cancer-bacteria-viruses.webp",
         "impact": 5
       },
       {
@@ -57,9 +35,64 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/helicolocellus-on-ediacaran-seafloor-crop.webp",
         "impact": 5
+      },
+      {
+        "title": "Scientists just recreated a rare cosmic reaction never seen before",
+        "summary": "A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form in supernova explosio",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 14 Apr 2026 10:06:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/supernova-explosion-space.webp",
+        "impact": 5
+      },
+      {
+        "title": "Quantum systems can remember and forget at the same time, scientists discover",
+        "summary": "Quantum systems can secretly “remember” their past—even when they appear not to. Scientists found that whether a system shows memory depends on how you look at it: through its evolving state or its measurable properties. Each perspective uncovers different kinds of memory, meaning a system can seem memoryless and memor",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 14 Apr 2026 01:55:52 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043150.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/quantum-physics-light-duality.webp",
+        "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "Tesla brings its robotaxi service to Dallas and Houston",
+        "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The compa",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 18 Apr 2026 21:37:15 +0000",
+        "source_url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
+        "impact": 3
+      },
+      {
+        "title": "AI chip startup Cerebras files for IPO",
+        "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 18 Apr 2026 19:19:11 +0000",
+        "source_url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
+        "impact": 3
+      },
+      {
+        "title": "The App Store is booming again, and AI may be why",
+        "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 18 Apr 2026 13:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/app-store-with-badge-GettyImages-2193151739.jpg?w=1024",
+        "impact": 3
+      },
       {
         "title": "Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why",
         "summary": "The company, which deploys AI-guided robot arms for food production, says it is looking to expand its services to provide for a broader array of customers.",
@@ -72,62 +105,18 @@
         "impact": 3
       },
       {
-        "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
-        "summary": "From OLED TVs to smartphones, Best Buy’s Upgrade Sale has slashed prices on all kinds of tech, including a wide range of Apple devices. We’ve rounded up the best deals from the sale here, but one of the most notable is the AirPods Pro 3, which are down to $199.99 ($50 off) at Best Buy, [&#8230;]",
+        "title": "Cheap stuff that doesn’t suck, take 3",
+        "summary": "From&#160;fancy OLED TVs&#160;to&#160;robot vacuums with arms, we tend to cover a lot of cool stuff here at&#160;The Verge&#160;that, unfortunately, often costs as much as a month’s rent (or more). But with the ongoing tariff situation in the US and a global memory shortage pushing up the cost of, well, everything, we’",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-04-17T11:07:50-04:00",
-        "source_url": "https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Apple-AirPods-Pro-3-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Foreo Discount Codes and Deals: Up to 50% Off",
-        "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 17 Apr 2026 05:00:00 +0000",
-        "source_url": "https://www.wired.com/story/foreo-promo-code/",
-        "image_url": "https://media.wired.com/photos/67b63b972c751893c256c1e6/191:100/w_1280,c_limit/WIRED-Coupons-R2_16.png",
-        "impact": 3
-      },
-      {
-        "title": "The UK Launches Its $675 Million Sovereign AI Fund",
-        "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 16 Apr 2026 17:30:00 +0000",
-        "source_url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
-        "image_url": "https://media.wired.com/photos/69dff76f67d3fd19de3c134e/191:100/w_1280,c_limit/Business_UKLaunchesSovereignAIFund_03.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Robot Vacuum Throwdown: Shark Versus Dyson (2026)",
-        "summary": "I let Shark’s and Dyson’s new AI-powered robot vac-mops loose in my home. One was a clear winner.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 16 Apr 2026 10:34:00 +0000",
-        "source_url": "https://www.wired.com/story/dyson-shark-robot-vacuum-comparison/",
-        "image_url": "https://media.wired.com/photos/69dffb8e11e22e0dbb14f348/191:100/w_1280,c_limit/Why-Shark%E2%80%99s-AI-Powered-Robot-Vacuum-Beats-a-Dyson.jpg",
+        "published_at": "2026-04-18T11:33:00-04:00",
+        "source_url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268436_IKEA_Kallsup_speaker_JHiggins_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Scientists finally uncover why promising cancer drugs keep failing",
-        "summary": "Cancer drugs known as BET inhibitors once looked like a breakthrough, but in real patients they’ve often fallen short. New research reveals a key reason why: two closely related proteins, BRD2 and BRD4, don’t actually do the same job. Instead, BRD2 acts like a “stage manager,” preparing genes for activation, while BRD4",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 09 Apr 2026 23:42:35 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101055.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/confused-face-palm-young-doctor.webp",
-        "impact": 5
-      },
       {
         "title": "Skin-deep microneedle sensor tracks drug clearance and reveals early kidney and liver dysfunction",
         "summary": "Wearable technologies are starting to reshape how people manage health. Continuous glucose monitors that measure blood sugar levels in diabetes patients have already shown the power of tracking an important molecule in real time. The next leap is to track other medically important molecules. However, doing so is far mo",
@@ -170,6 +159,17 @@
         "published_at": "Mon, 13 Apr 2026 00:20:02 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022035.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/blood-pressure-gauge-heart.webp",
+        "impact": 4
+      },
+      {
+        "title": "How aggressive breast cancer turns off the immune system",
+        "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Using real patient sam",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 12 Apr 2026 07:03:28 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 5
       },
       {
+        "title": "This life-hunting rover may be SpaceX's 1st-ever Mars launch",
+        "summary": "SpaceX will launch Europe's life-hunting Rosalind Franklin rover toward Mars in 2028 — but not aboard the company's Starship megarocket.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 18 Apr 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/this-life-hunting-rover-may-be-spacexs-1st-ever-mars-launch",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/gnzSMR6Bp6Z2HrhVXrRStL-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Private Japanese spacecraft will inspect 2 dead satellites in 2027",
         "summary": "Astroscale's 2027 ISSA-J mission will mark the first attempt to inspect multiple spacecraft across different orbits in a single flight.",
         "category": "Space",
@@ -254,28 +265,6 @@
         "impact": 4
       },
       {
-        "title": "NASA's Artemis 2 moonshot was just the 'opening act' for America's return to the moon, space agency chief says",
-        "summary": "Artemis 2 kicks off a lunar \"relay race\" that will lead the NASA and its international partners to a moon base and, eventually, Mars, NASA chief Jared Isaacman says.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 14 Apr 2026 22:06:49 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-moonshot-was-just-the-opening-act-for-americas-return-to-the-moon-space-agency-chief-says",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/5fDcweM6uuBQC5d26c5uKV-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA's Artemis 2 moon shot just landed on Saturday Night Live — space toilet jokes and all (video)",
-        "summary": "NASA's Artemis 2 moon mission wowed the world enough to earn a space spoof skit on Saturday Night Live one day after a perfect splashdown. Watch how it went.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 14 Apr 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/entertainment/nasas-artemis-2-moon-shot-just-landed-on-saturday-night-live-its-hilarious-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/2shYfpMJGaoD8PezaJm6Yg-1280-80.png",
-        "impact": 4
-      },
-      {
         "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications",
         "summary": "NASA and the U.S. Office of Personnel Management (OPM)&#160;launched&#160;the&#160;NASA Force&#160;website&#160;on Friday, opening applications for roles&#160;aimed at recruiting the nation’s top engineers and technologists to support America’s&#160;air and&#160;space program.&#160; NASA Force, a new hiring initiative ",
         "category": "Space",
@@ -284,6 +273,17 @@
         "published_at": "Fri, 17 Apr 2026 17:04:51 +0000",
         "source_url": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
         "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/art002e009210large.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Artemis 2 and Tiangong space station astronauts set record for farthest distance between humans",
+        "summary": "For a few moments on April 6, the four Artemis 2 moon astronauts and the three crewmates aboard China's Tiangong space station were farther away from each other than any humans had ever been.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 18 Apr 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/artemis-2-and-tiangong-space-station-astronauts-set-record-for-farthest-distance-between-humans",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/5fDcweM6uuBQC5d26c5uKV-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -390,14 +390,14 @@
         "impact": 4
       },
       {
-        "title": "GLG Residence / Ximenes Leite Arquitetura",
-        "summary": "Located in the Fazenda da Grama Condominium, in the interior of the state of S&atilde;o Paulo, the GLG Residence emerges from a clear interpretation of volumes and layout to organize the uses of the house. The architecture and interior design project was conceived in an integrated manner, seeking balance between privac",
+        "title": "Islington House / Architecture for London + Hamish Vincent Design",
+        "summary": "When principal designer Hamish Vincent Design approached Architecture for London for the second time to collaborate on a client project in Islington, the chemistry was set to produce a standout home. Set in the Canonbury Conservation Area, on the southern side of St Paul's Road, this Neo Georgian home forms part of a t",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 17 Apr 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040490/glg-residence-ximenes-leite-arquitetura",
-        "image_url": "https://images.adsttc.com/media/images/69d4/ef9a/5a31/3100/01da/eb94/large_jpg/FE_CASTELLARI_FAIBANKS_PILNIK_GRAMA_EXTERNAS_2024-1.jpg?1775562726",
+        "published_at": "Sat, 18 Apr 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040466/islington-house-architecture-for-london-plus-hamish-vincent-design",
+        "image_url": "https://images.adsttc.com/media/images/69d7/09e2/ae7d/2910/dd30/a01e/large_jpg/islington-house-architecture-for-london-plus-hamish-vincent-design_10.jpg?1775700469",
         "impact": 4
       }
     ],
