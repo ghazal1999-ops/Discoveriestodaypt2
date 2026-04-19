@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-18",
-  "last_updated": "2026-04-18 23:32 UTC",
+  "date": "2026-04-19",
+  "last_updated": "2026-04-19 23:34 UTC",
   "categories": {
     "science": [
       {
@@ -61,8 +61,19 @@
     ],
     "tech": [
       {
+        "title": "Robots beat human records at Beijing half-marathon",
+        "summary": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 19 Apr 2026 18:44:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272010089.jpg?w=1024",
+        "impact": 3
+      },
+      {
         "title": "Tesla brings its robotaxi service to Dallas and Houston",
-        "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The compa",
+        "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
@@ -94,17 +105,6 @@
         "impact": 3
       },
       {
-        "title": "Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why",
-        "summary": "The company, which deploys AI-guided robot arms for food production, says it is looking to expand its services to provide for a broader array of customers.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 17 Apr 2026 16:15:50 +0000",
-        "source_url": "https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Chef-robots-deposit-rice-at-Chef-Bombay.jpg?resize=1200,900",
-        "impact": 3
-      },
-      {
         "title": "Cheap stuff that doesn’t suck, take 3",
         "summary": "From&#160;fancy OLED TVs&#160;to&#160;robot vacuums with arms, we tend to cover a lot of cool stuff here at&#160;The Verge&#160;that, unfortunately, often costs as much as a month’s rent (or more). But with the ongoing tariff situation in the US and a global memory shortage pushing up the cost of, well, everything, we’",
         "category": "Tech",
@@ -117,17 +117,6 @@
       }
     ],
     "medicine": [
-      {
-        "title": "Skin-deep microneedle sensor tracks drug clearance and reveals early kidney and liver dysfunction",
-        "summary": "Wearable technologies are starting to reshape how people manage health. Continuous glucose monitors that measure blood sugar levels in diabetes patients have already shown the power of tracking an important molecule in real time. The next leap is to track other medically important molecules. However, doing so is far mo",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 17 Apr 2026 14:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-skin-deep-microneedle-sensor-tracks.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/skin-deep-microneedle-2.jpg",
-        "impact": 4
-      },
       {
         "title": "This cheap drug could help people with type 1 diabetes use less insulin",
         "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12% less insulin while",
@@ -170,6 +159,17 @@
         "published_at": "Sun, 12 Apr 2026 07:03:28 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
+        "impact": 4
+      },
+      {
+        "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
+        "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health ",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 10 Apr 2026 10:12:15 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/dementia-brain-iceberg.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 5
       },
       {
+        "title": "Giant BlueBird 7 mobile phone satellite will be deorbited after faulty Blue Origin launch",
+        "summary": "Blue Origin, the space launch company founded by Jeff Bezos, achieved a successful recovery of its first reused orbital-class rocket, but the payload it put into space was left in the wrong location.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 19 Apr 2026 14:59:58 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-just-launched-the-giant-bluebird-7-mobile-phone-satellite-into-space-but-its-in-the-wrong-orbit",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/EGR78vHvP6uzXUdkrRzv2m-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "This life-hunting rover may be SpaceX's 1st-ever Mars launch",
         "summary": "SpaceX will launch Europe's life-hunting Rosalind Franklin rover toward Mars in 2028 — but not aboard the company's Starship megarocket.",
         "category": "Space",
@@ -254,6 +265,17 @@
         "impact": 4
       },
       {
+        "title": "Blue Origin reuses huge New Glenn rocket for 1st time, lands booster at sea — but deploys satellite into wrong orbit (launch video)",
+        "summary": "Blue Origin's huge New Glenn rocket launched into space for the third time ever Sunday morning (April 19) — but, in a first for the company, it soared into orbit powered by a previously flown booster.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 18 Apr 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-reuses-new-glenn-rocket-landing-success-1st-time-on-april-19-2026-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/covk6EUdtjjmX53ZBV5o73-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Private Japanese spacecraft will inspect 2 dead satellites in 2027",
         "summary": "Astroscale's 2027 ISSA-J mission will mark the first attempt to inspect multiple spacecraft across different orbits in a single flight.",
         "category": "Space",
@@ -262,28 +284,6 @@
         "published_at": "Thu, 16 Apr 2026 15:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/satellites/private-japanese-spacecraft-will-inspect-2-dead-satellites-in-2027",
         "image_url": "https://cdn.mos.cms.futurecdn.net/DwHKVmS2fxHCkZq9T2A6HA-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications",
-        "summary": "NASA and the U.S. Office of Personnel Management (OPM)&#160;launched&#160;the&#160;NASA Force&#160;website&#160;on Friday, opening applications for roles&#160;aimed at recruiting the nation’s top engineers and technologists to support America’s&#160;air and&#160;space program.&#160; NASA Force, a new hiring initiative ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 17 Apr 2026 17:04:51 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/art002e009210large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Artemis 2 and Tiangong space station astronauts set record for farthest distance between humans",
-        "summary": "For a few moments on April 6, the four Artemis 2 moon astronauts and the three crewmates aboard China's Tiangong space station were farther away from each other than any humans had ever been.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 18 Apr 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/artemis-2-and-tiangong-space-station-astronauts-set-record-for-farthest-distance-between-humans",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/5fDcweM6uuBQC5d26c5uKV-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -353,7 +353,7 @@
         "journal": "dezeen.com",
         "published_at": "Thu, 16 Apr 2026 16:00:24 +0000",
         "source_url": "https://www.dezeen.com/2026/04/16/texas-convention-centres-urban-development-mazade/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "image_url": "https://static.dezeen.com/uploads/2026/04/texas-convention-center-architecture-renderings-feature_dezeen_2364_sq1.jpg",
         "impact": 4
       },
       {
@@ -364,7 +364,7 @@
         "journal": "dezeen.com",
         "published_at": "Wed, 15 Apr 2026 19:00:52 +0000",
         "source_url": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "image_url": "https://static.dezeen.com/uploads/2026/04/encounters-denise-scott-brown-exhibition-yale-architecture-gallery_dezeen_2364_hero_18.jpg",
         "impact": 4
       },
       {
@@ -375,7 +375,7 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 14 Apr 2026 19:54:23 +0000",
         "source_url": "https://www.dezeen.com/2026/04/14/zgf-california-samuel-oschin-air-space-center/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "image_url": "https://static.dezeen.com/uploads/2026/04/samuel-oschin-air-space-center-los-angeles-california-zgf-architects_dezeen_2364-hero.jpg",
         "impact": 4
       },
       {
@@ -386,18 +386,18 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 14 Apr 2026 10:30:40 +0000",
         "source_url": "https://www.dezeen.com/2026/04/14/sukchulmok-brbb-architects-myeongnyun-sogul/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "image_url": "https://static.dezeen.com/uploads/2026/04/sukchulmok-brbb-home-studio-conversion-seoul_dezeen_2364_col_19.jpg",
         "impact": 4
       },
       {
-        "title": "Islington House / Architecture for London + Hamish Vincent Design",
-        "summary": "When principal designer Hamish Vincent Design approached Architecture for London for the second time to collaborate on a client project in Islington, the chemistry was set to produce a standout home. Set in the Canonbury Conservation Area, on the southern side of St Paul's Road, this Neo Georgian home forms part of a t",
+        "title": "Chapel Of Saint Peter / Atelier 66",
+        "summary": "While designing an urban park near the sea in Praia Norte, Viana do Castelo, we were invited to create a small chapel. The site already featured a humble, glass-fronted oratory built by local residents, which was originally slated for demolition. However, given the community's strong connection to the structure—and the",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sat, 18 Apr 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040466/islington-house-architecture-for-london-plus-hamish-vincent-design",
-        "image_url": "https://images.adsttc.com/media/images/69d7/09e2/ae7d/2910/dd30/a01e/large_jpg/islington-house-architecture-for-london-plus-hamish-vincent-design_10.jpg?1775700469",
+        "published_at": "Sun, 19 Apr 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040516/chapel-of-saint-peter-atelier-66",
+        "image_url": "https://images.adsttc.com/media/images/69d8/5018/d510/7401/89af/d52d/large_jpg/chapel-of-saint-peter-atelier-66_12.jpg?1775783985",
         "impact": 4
       }
     ],
