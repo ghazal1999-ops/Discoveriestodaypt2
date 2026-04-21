@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "last_updated": "2026-04-21 16:33 UTC",
+  "last_updated": "2026-04-21 23:33 UTC",
   "categories": {
     "science": [
       {
@@ -48,18 +48,40 @@
         "impact": 5
       },
       {
-        "title": "Graphene just defied a fundamental law of physics",
-        "summary": "In a major breakthrough, scientists have observed electrons in graphene flowing like a nearly frictionless liquid, defying a core law of physics. This exotic quantum state not only reveals new fundamental behavior but could also unlock powerful future technologies.",
+        "title": "Your phone's next speed boost may come from a strange magnetic jump that rewrites how chips handle heat",
+        "summary": "A new technology has been proposed that could fundamentally solve the issue of smartphones overheating during high-spec gaming or extended video streaming. Researchers at KAIST have discovered the principle of processing signals using the minute vibrations of magnets (spin waves) instead of electrons. This method signi",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 15 Apr 2026 04:26:57 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/graphene-energy-liquid.webp",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 21 Apr 2026 17:10:06 EDT",
+        "source_url": "https://phys.org/news/2026-04-boost-strange-magnetic-rewrites-chips.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/frequency-instant-jump.jpg",
         "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "Inventor recalls eye imaging breakthrough",
+        "summary": "If you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year.&#160; OCT is a noninvasive technique used&",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Tue, 21 Apr 2026 21:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Huang_creditJohn-Valls_2023.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+        "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 21 Apr 2026 17:00:04 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-1152x648.jpg",
+        "impact": 3
+      },
       {
         "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
         "summary": "There are some practical benefits to this $899 chip, but not many.",
@@ -69,17 +91,6 @@
         "published_at": "Tue, 21 Apr 2026 14:45:36 +0000",
         "source_url": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_7697-1152x648.jpeg",
-        "impact": 3
-      },
-      {
-        "title": "Robot runner handily beats humans in half-marathon, setting new record",
-        "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Mon, 20 Apr 2026 17:56:27 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271508322-1152x648.jpg",
         "impact": 3
       },
       {
@@ -94,29 +105,29 @@
         "impact": 3
       },
       {
-        "title": "A Humanoid Robot Set a Half-Marathon Record in China",
-        "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+        "title": "X makes it 1,900 percent more expensive to post links",
+        "summary": "Posting links to X through custom social media software just got a lot more expensive. On Monday, X significantly increased how much it costs to post a URL via the X API, which is what third-party tools use to hook into the platform. It now costs $0.20 when a link is posted, up from $0.01. [&#8230;]",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Mon, 20 Apr 2026 22:33:27 +0000",
-        "source_url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-        "image_url": "https://media.wired.com/photos/69e67707d27252207be01419/191:100/w_1280,c_limit/robotchino1.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Best Kitchen Composters and Food Recyclers (2026)",
-        "summary": "Responsibly dispose of your food scraps with one of these indoor, (mostly) odor-free, WIRED-tested devices.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Mon, 20 Apr 2026 21:38:00 +0000",
-        "source_url": "https://www.wired.com/story/home-composters-buying-guide/",
-        "image_url": "https://media.wired.com/photos/68f838f9ca694516647e4962/191:100/w_1280,c_limit/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-04-21T14:27:18-04:00",
+        "source_url": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK160_X_TWITTER_2__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Why 'brain fog' in Parkinson's isn't always what it seems",
+        "summary": "For many individuals living with Parkinson's disease and those in its \"prodromal\" or early stages before movement impairment, there is a distressing gap between how they feel their brain is working and what clinical tests show. Patients often report, \"I feel like my thinking is getting worse,\" only to be told their obj",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 21 Apr 2026 16:50:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-brain-fog-parkinson-isnt.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons.jpg",
+        "impact": 4
+      },
       {
         "title": "This cheap drug could help people with type 1 diabetes use less insulin",
         "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12% less insulin while",
@@ -159,17 +170,6 @@
         "published_at": "Sun, 12 Apr 2026 07:03:28 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
-        "impact": 4
-      },
-      {
-        "title": "Early myocarditis onset after immunotherapy may predict treatment-related fatality",
-        "summary": "Patients who developed myocarditis within the first month of receiving immune checkpoint inhibitor therapy were more likely to die of myocarditis, and myocarditis-specific fatality was more common in patients who experienced co-occurring myositis and myasthenia gravis, according to results from a study presented at the",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 21 Apr 2026 11:00:17 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-early-myocarditis-onset-immunotherapy-treatment.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/atrial-fibrillation.jpg",
         "impact": 4
       }
     ],
@@ -232,36 +232,36 @@
     ],
     "space": [
       {
-        "title": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
-        "summary": "Following the recent successful test flight of NASA’s Artemis II mission around the Moon, NASA rolled out the core stage, or the largest section, of the agency’s SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027. The stage departed from the agency’s Michoud Assembly Facility in Ne",
+        "title": "NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything",
+        "summary": "On March 21, 2026, NASA’s Johnson Space Center Director Vanessa Wyche took the stage&#160;at the Space House event at South by Southwest&#160;in Austin, Texas, to outline NASA’s next giant leap in human spaceflight&#160;—&#160;from low Earth orbit to the Moon, and&#160;ultimately Mars.&#160; As NASA prepares for a new ",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Mon, 20 Apr 2026 20:31:57 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/corestage1.jpg",
+        "published_at": "Tue, 21 Apr 2026 19:13:36 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/vanessa-wyche-by-daniel-stoops.png",
         "impact": 5
       },
       {
-        "title": "NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station",
-        "summary": "Media accreditation is open for the next U.S. launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. This launch is the 34th SpaceX Commercial Resupply Services mission to the orbital laboratory for NASA and will lift off on the company’s Falcon 9 rocket. NASA and Spa",
+        "title": "What Are Ames’ Contributions to Artemis II?",
+        "summary": "NASA successfully sent four astronauts&#160;around the Moon for the first time in more than 50 years, setting the stage for future lunar landing missions.&#160;As the agency continues to push the bounds of space exploration,&#160;NASA’s&#160;Ames Research Center in California’s Silicon Valley&#160;provided essential su",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Mon, 20 Apr 2026 18:02:28 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-34th-resupply-launch-to-space-station/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/34th-resupply-mission-advisory-april-20.jpg",
-        "impact": 5
+        "published_at": "Tue, 21 Apr 2026 17:41:48 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/ames/what-are-ames-contributions-to-artemis-ii/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604110022orig.jpg",
+        "impact": 4
       },
       {
-        "title": "NASA on Track for Future Missions with Initial Artemis II Assessments",
-        "summary": "Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in Florida performed. T",
+        "title": "You've heard of the Space Force. Now there's a 'NASA Force' — but it's not about making space war",
+        "summary": "NASA Force aims to recruit industry talent to the space agency for relatively short stints. Applications are open now in the wake of the Artemis 2 moon mission.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 20 Apr 2026 22:10:38 +0000",
-        "source_url": "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/launch-11a3a5.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 21 Apr 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/youve-heard-of-the-space-force-now-theres-a-nasa-force-but-its-not-about-making-space-war",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/n8WULCujSDjJBg8cT8inLf-1280-80.jpg",
         "impact": 4
       },
       {
