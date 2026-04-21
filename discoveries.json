@@ -1,8 +1,41 @@
 {
-  "date": "2026-04-20",
-  "last_updated": "2026-04-20 23:41 UTC",
+  "date": "2026-04-21",
+  "last_updated": "2026-04-21 16:33 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Breakthrough discovery reveals hidden oxygen flow deep inside catalysts",
+        "summary": "A major discovery is reshaping how scientists think about catalysts. Researchers have, for the first time, captured oxygen atoms moving through the interior of a catalyst—not just along its surface. This reveals that the bulk material can actively participate in reactions, opening a new frontier in catalyst design. The",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 21 Apr 2026 04:13:24 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260420014736.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/interface-controlled-bulk-oxygen-spillover.webp",
+        "impact": 5
+      },
+      {
+        "title": "This new camera captures what happens in a trillionth of a second",
+        "summary": "Scientists have unveiled a breakthrough imaging method that can capture the hidden details of events unfolding in trillionths of a second. This new technique doesn’t just track how bright something is—it also reveals subtle structural changes that were previously invisible, all in a single shot. By effectively turning ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 21 Apr 2026 08:39:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042808.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/femtosecond-imaging-illustration.webp",
+        "impact": 5
+      },
+      {
+        "title": "These tiny dinosaur fossils fooled scientists for 20 years",
+        "summary": "Tiny dinosaur fossils that puzzled scientists for over 20 years have finally revealed their true identity. Rather than belonging to a miniature species, they are actually baby ankylosaurs—some less than a year old, including a possible hatchling. By studying bone growth patterns, researchers confirmed these young dinos",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 21 Apr 2026 10:17:47 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260417224501.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/liaoningosaurus-paradoxus-fossils.webp",
+        "impact": 5
+      },
       {
         "title": "95% of people carry this virus and scientists may have just found how to stop it",
         "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering immune cells. One of",
@@ -24,42 +57,20 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/graphene-energy-liquid.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists just solved a 160-million-year fossil mystery “I’ve never seen anything like it”",
-        "summary": "A rare fossil discovery is shedding light on the “missing years” of early sponge evolution. Scientists found a 550-million-year-old sponge that likely lacked hard skeletal parts, explaining why earlier fossils are so scarce. This supports the idea that the earliest sponges were soft-bodied and rarely preserved. The fin",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 15 Apr 2026 02:02:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/helicolocellus-on-ediacaran-seafloor-crop.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists just recreated a rare cosmic reaction never seen before",
-        "summary": "A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form in supernova explosio",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 14 Apr 2026 10:06:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/supernova-explosion-space.webp",
-        "impact": 5
-      },
-      {
-        "title": "Quantum systems can remember and forget at the same time, scientists discover",
-        "summary": "Quantum systems can secretly “remember” their past—even when they appear not to. Scientists found that whether a system shows memory depends on how you look at it: through its evolving state or its measurable properties. Each perspective uncovers different kinds of memory, meaning a system can seem memoryless and memor",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 14 Apr 2026 01:55:52 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043150.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/quantum-physics-light-duality.webp",
-        "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
+        "summary": "There are some practical benefits to this $899 chip, but not many.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 21 Apr 2026 14:45:36 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_7697-1152x648.jpeg",
+        "impact": 3
+      },
       {
         "title": "Robot runner handily beats humans in half-marathon, setting new record",
         "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics.",
@@ -72,104 +83,93 @@
         "impact": 3
       },
       {
-        "title": "Robots beat human records at Beijing half-marathon",
-        "summary": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.",
+        "title": "YouTube expands its AI likeness detection technology to celebrities",
+        "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sun, 19 Apr 2026 18:44:00 +0000",
-        "source_url": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272010089.jpg?w=1024",
+        "published_at": "Tue, 21 Apr 2026 15:02:06 +0000",
+        "source_url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/celebrity-paparazzi-GettyImages-523409170.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Apple names Johny Srouji as chief hardware officer",
-        "summary": "Apple has appointed Johny Srouji as its new chief hardware officer, \"effective immediately,\" according to an announcement on Monday. He is stepping into the shoes of current hardware engineering head John Ternus, who will replace Tim Cook as CEO in September, while Cook becomes the chairman of the board. Last December,",
+        "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+        "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-04-20T17:05:59-04:00",
-        "source_url": "https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-Johny-Srouji.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Mon, 20 Apr 2026 22:33:27 +0000",
+        "source_url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+        "image_url": "https://media.wired.com/photos/69e67707d27252207be01419/191:100/w_1280,c_limit/robotchino1.jpg",
         "impact": 3
       },
       {
-        "title": "Apple CEO Tim Cook is stepping down",
-        "summary": "Apple CEO Tim Cook is stepping down and will be succeeded by John Ternus, currently Apple's senior vice president of hardware engineering. Ternus will take over as CEO and join Apple's board of directors on September 1st, 2026. Cook, who joined Apple in 1998 and took over as CEO from Steve Jobs in 2011, will [&#8230;]",
+        "title": "Best Kitchen Composters and Food Recyclers (2026)",
+        "summary": "Responsibly dispose of your food scraps with one of these indoor, (mostly) odor-free, WIRED-tested devices.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-04-20T16:42:59-04:00",
-        "source_url": "https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Google Photos adds subtle touch-up tools for faces",
-        "summary": "Google has announced a new collection of touch-up tools for Google Photos' image editor designed to apply subtle enhancements, refinements, or fixes to faces in photos. The tools are gradually being rolled out on the Google Photos app globally starting today, but only on devices running Android 9.0 and up with at least",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-04-20T15:33:17-04:00",
-        "source_url": "https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/googlephotos1.jpg?quality=90&strip=all&crop=0,10.677756423001,100,78.644487153997",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Mon, 20 Apr 2026 21:38:00 +0000",
+        "source_url": "https://www.wired.com/story/home-composters-buying-guide/",
+        "image_url": "https://media.wired.com/photos/68f838f9ca694516647e4962/191:100/w_1280,c_limit/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "BCMA-directed CAR T-cell therapy may be effective against high-risk smoldering multiple myeloma",
-        "summary": "A single infusion of ciltacabtagene autoleucel (Carvykti) led to a 100% minimal residual disease (MRD)-negativity rate in patients with high-risk smoldering multiple myeloma, according to results from CAR-PRISM, a phase II clinical trial, presented at the American Association for Cancer Research (AACR) Annual Meeting 2",
+        "title": "This cheap drug could help people with type 1 diabetes use less insulin",
+        "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12% less insulin while",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 20 Apr 2026 15:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-bcma-car-cell-therapy-effective.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2015/multiplemyel.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Washington expands hepatitis C testing, cutting per-patient costs by more than 45%",
-        "summary": "It took less than 22 years after the discovery of the hepatitis C virus (HCV) for a fast-acting, highly effective treatment to become available. Modern drugs are more than 95% effective at curing hepatitis C infection, yet the virus remains a critical public health problem. It's the most common bloodborne illness in th",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 20 Apr 2026 18:00:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-washington-hepatitis-patient.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-draw.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 15 Apr 2026 23:50:27 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043628.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/metformin-pill.webp",
         "impact": 4
       },
       {
-        "title": "First-line immunotherapy shows success treating advanced colorectal cancer",
-        "summary": "As colorectal cancer rates rise among young people, most patients with advanced disease still only have one treatment option: chemotherapy. That is rarely a cure, and often life-limiting with very toxic side effects.",
+        "title": "95% of people carry this virus and scientists may have just found how to stop it",
+        "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering immune cells. One of",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 20 Apr 2026 17:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-line-immunotherapy-success-advanced-colorectal.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-line-immunothera.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 15 Apr 2026 03:26:50 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
         "impact": 4
       },
       {
-        "title": "Bowel cancer immunotherapy clinical trial follow-up shows zero relapses",
-        "summary": "Patients with a specific type of bowel cancer who were treated with a short course of immunotherapy before surgery instead of post-op chemotherapy have remained cancer-free after almost three years of follow-up, according to new results from the NEOPRISM-CRC clinical trial led by a team from UCL and UCLH.",
+        "title": "Forget daily pills. This shot works when blood pressure meds fail",
+        "summary": "A twice-yearly injection may soon change how high blood pressure is treated. In a global trial, patients receiving the experimental drug zilebesiran alongside standard therapy saw greater blood pressure reductions than those on standard treatment alone. The drug works by blocking a key liver protein, helping blood vess",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 20 Apr 2026 17:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-bowel-cancer-immunotherapy-clinical-trial.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/older-man.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 13 Apr 2026 00:20:02 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022035.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/blood-pressure-gauge-heart.webp",
         "impact": 4
       },
       {
-        "title": "Interdisciplinary care is a promising approach for pediatric patients with long COVID",
-        "summary": "A study from University Hospitals Connor Whole Health has found that pediatric patients with long-term COVID report a high symptom burden that meets or exceeds that of other chronic health conditions. The study describes patient characteristics, care delivery, and provides a novel description of symptom severity. The f",
+        "title": "How aggressive breast cancer turns off the immune system",
+        "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Using real patient sam",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 12 Apr 2026 07:03:28 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
+        "impact": 4
+      },
+      {
+        "title": "Early myocarditis onset after immunotherapy may predict treatment-related fatality",
+        "summary": "Patients who developed myocarditis within the first month of receiving immune checkpoint inhibitor therapy were more likely to die of myocarditis, and myocarditis-specific fatality was more common in patients who experienced co-occurring myositis and myasthenia gravis, according to results from a study presented at the",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 20 Apr 2026 17:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-interdisciplinary-approach-pediatric-patients-covid.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/childhospital.jpg",
+        "published_at": "Tue, 21 Apr 2026 11:00:17 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-early-myocarditis-onset-immunotherapy-treatment.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/atrial-fibrillation.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,39 @@
     ],
     "space": [
       {
+        "title": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
+        "summary": "Following the recent successful test flight of NASA’s Artemis II mission around the Moon, NASA rolled out the core stage, or the largest section, of the agency’s SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027. The stage departed from the agency’s Michoud Assembly Facility in Ne",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 20 Apr 2026 20:31:57 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/corestage1.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station",
+        "summary": "Media accreditation is open for the next U.S. launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. This launch is the 34th SpaceX Commercial Resupply Services mission to the orbital laboratory for NASA and will lift off on the company’s Falcon 9 rocket. NASA and Spa",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 20 Apr 2026 18:02:28 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-34th-resupply-launch-to-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/34th-resupply-mission-advisory-april-20.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA on Track for Future Missions with Initial Artemis II Assessments",
+        "summary": "Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in Florida performed. T",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 20 Apr 2026 22:10:38 +0000",
+        "source_url": "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/launch-11a3a5.jpg",
+        "impact": 4
+      },
+      {
         "title": "600 rocket landings! SpaceX notches another milestone during Sunday Starlink launch (video)",
         "summary": "A SpaceX Falcon 9 rocket carrying 25 Starlink satellites lifted off from Vandenberg Space Force Station in California on April 19. The mission featured the 600th landing of a Falcon first stage.",
         "category": "Space",
@@ -243,47 +276,14 @@
         "impact": 4
       },
       {
-        "title": "Giant BlueBird 7 mobile phone satellite will be deorbited after faulty Blue Origin launch",
-        "summary": "Blue Origin, the space launch company founded by Jeff Bezos, achieved a successful recovery of its first reused orbital-class rocket, but the payload it put into space was left in the wrong location.",
+        "title": "SpaceX launches advanced GPS satellite for US Space Force after rocket swap (video, photos)",
+        "summary": "SpaceX launched a new GPS satellite for the U.S. Space Force early Tuesday morning (April 21) — a mission that was originally supposed to fly on a competitor's rocket.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sun, 19 Apr 2026 14:59:58 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-just-launched-the-giant-bluebird-7-mobile-phone-satellite-into-space-but-its-in-the-wrong-orbit",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/EGR78vHvP6uzXUdkrRzv2m-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "This life-hunting rover may be SpaceX's 1st-ever Mars launch",
-        "summary": "SpaceX will launch Europe's life-hunting Rosalind Franklin rover toward Mars in 2028 — but not aboard the company's Starship megarocket.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 18 Apr 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/this-life-hunting-rover-may-be-spacexs-1st-ever-mars-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/gnzSMR6Bp6Z2HrhVXrRStL-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Blue Origin reuses huge New Glenn rocket for 1st time, lands booster at sea — but deploys satellite into wrong orbit (launch video)",
-        "summary": "Blue Origin's huge New Glenn rocket launched into space for the third time ever Sunday morning (April 19) — but, in a first for the company, it soared into orbit powered by a previously flown booster.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 18 Apr 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-reuses-new-glenn-rocket-landing-success-1st-time-on-april-19-2026-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/covk6EUdtjjmX53ZBV5o73-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Private Japanese spacecraft will inspect 2 dead satellites in 2027",
-        "summary": "Astroscale's 2027 ISSA-J mission will mark the first attempt to inspect multiple spacecraft across different orbits in a single flight.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 16 Apr 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/satellites/private-japanese-spacecraft-will-inspect-2-dead-satellites-in-2027",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/DwHKVmS2fxHCkZq9T2A6HA-1280-80.jpg",
+        "published_at": "Sun, 19 Apr 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-gps-iii-sv-10-satellite-us-space-force",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/2832g89A6VPtEKRfdHQdEQ-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "Astronomers Find the Edge of the Milky Way",
+        "summary": "Astronomers have located the edge of the Milky Way’s star-forming disk for the first time, showing that star formation is focused within 40,000 light-years of our galactic center. The post Astronomers Find the Edge of the Milky Way appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Tue, 21 Apr 2026 16:12:02 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
+        "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
+        "impact": 4
+      },
+      {
         "title": "Rubin Observatory Announces 11,000 New Asteroids",
         "summary": "The Vera C. Rubin Observatory will discover up to 500,000 solar system objects every year. It’s already starting to deliver on that promise. The post Rubin Observatory Announces 11,000 New Asteroids appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -331,20 +342,20 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/rubin-observatory-announces-11000-new-asteroids/",
         "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Where's the Dividing Line Between A Star and A Planet? Ask the JWST.",
-        "summary": "It's obvious that Earth is a planet. It's obvious that the Sun is a star. But for substellar objects like brown dwarfs, it's not so clear. Researchers are using the JWST to find a stronger dividing line between star and planet that depends on how they formed.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 15 Apr 2026 23:03:59 +0000",
-        "source_url": "https://www.universetoday.com/articles/wheres-the-dividing-line-between-a-star-and-a-planet-ask-the-jwst",
-        "image_url": "https://www.universetoday.com/article_images/Half_Res_For_Display_20260415_202711.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "Jingu Studio / YNAS",
+        "summary": "The renovation of Villa Serena 204 began as a personal and professional mission to challenge Japan's \"scrap-and-build\" culture. Located in a historic modernist building designed by Junzo Sakakura, the project seeks to prove that aging architecture can gain value through thoughtful intervention. The core inspiration was",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 21 Apr 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040798/jingu-studio-ynas",
+        "image_url": "https://images.adsttc.com/media/images/69e6/3a98/5fed/0301/7ff7/2a88/large_jpg/jingu-studio-ynas_23.jpg?1776696002",
+        "impact": 5
+      },
       {
         "title": "Limberlost Place / Moriyama Teshima Architects",
         "summary": "Limberlost Place, on Toronto's waterfront, is perhaps the world's first public tall timber building—a technical landmark that also elevates the art of architecture. Designed by Moriyama Teshima Architects in joint venture with Acton Ostry Architects, the project was selected via an international competition hosted by G",
@@ -388,17 +399,6 @@
         "source_url": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/encounters-denise-scott-brown-exhibition-yale-architecture-gallery_dezeen_2364_hero_18.jpg",
         "impact": 4
-      },
-      {
-        "title": "ZGF wraps space shuttle in stainless-steel tower for California Science Center",
-        "summary": "American architecture studio ZGF's building in Los Angeles is complete with a full-size space shuttle \"in launch position\" wrapped in a stainless steel cylinder. The Samuel Oschin Air and Space Center (Air and Space Center), designed by ZGF Architects and built by MATT Construction, took four years to complete. It is p",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 14 Apr 2026 19:54:23 +0000",
-        "source_url": "https://www.dezeen.com/2026/04/14/zgf-california-samuel-oschin-air-space-center/",
-        "image_url": "https://static.dezeen.com/uploads/2026/04/samuel-oschin-air-space-center-los-angeles-california-zgf-architects_dezeen_2364-hero.jpg",
-        "impact": 4
       }
     ],
     "construction": [
@@ -425,6 +425,28 @@
         "impact": 4
       },
       {
+        "title": "$1B Virginia airport upgrade project reaches milestone",
+        "summary": "W.M. Jordan served as construction manager at risk for Norfolk International Airport&rsquo;s three new gates in Concourse A, an addition spanning nearly 19,000 square feet.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 21 Apr 2026 12:30:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/norfolk-virginia-airport-concourse-A-project/818088/",
+        "image_url": "https://imgproxy.divecdn.com/v6UhxlMDtLlYTJ9N3lHRvfwYe5iX-xmG9mcZBhN7g1A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNC4xNy4yMDI2LU9SRi1vcGVucy10aHJlZS1uZXctZ2F0ZXMtYXQtQ29uY291cnNlLUEuZG9jeC0wMDIuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "3 megaprojects triggered rebound in March construction starts",
+        "summary": "Starts in electric power and utilities leapt over 353% month over month, according to Dodge, even as data centers decelerated.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 21 Apr 2026 08:15:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/dodge-march-2026-construction-starts-megaprojects/818005/",
+        "image_url": "https://imgproxy.divecdn.com/GgLPzFWrF23E8ErP5zQuNOP2vbqlGhHOl-E-eXb56TE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU0MDU2MTExLmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "California contractor ordered to pay $468K in wage theft case",
         "summary": "A federal probe found missed payroll, unpaid overtime and retaliation, highlighting persistent labor violations in construction, according to an attorney.",
         "category": "Construction",
@@ -433,28 +455,6 @@
         "published_at": "Mon, 20 Apr 2026 15:58:42 -0400",
         "source_url": "https://www.constructiondive.com/news/california-contractor-back-wages-theft-dol/817989/",
         "image_url": "https://imgproxy.divecdn.com/eLlFYft8l9spgnlH1hOMXa5slmFFPE4CU7ZgDW_zo4c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTIyNDU4NjE4LmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Why preconstruction is now a competitive advantage",
-        "summary": "Construction is changing. Preconstruction is where competitive advantage is built.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 20 Apr 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/why-preconstruction-is-now-a-competitive-advantage/817518/",
-        "image_url": "https://imgproxy.divecdn.com/zn2JKwrAkJEtWc1uiwS3zahvJcRVOIKecDXk5mOwjp4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hdXRvZGVza19oZWFkZXJfaW1hZ2UuanBn.webp",
-        "impact": 3
-      },
-      {
-        "title": "Court awards $174.6M in damages against Tutor Perini in Philadelphia hotel dispute",
-        "summary": "Construction defects at the dual-banded W Hotel and Element Hotel amounted to breach of contract, according to a judgment in a suit filed by Chestle Development.&nbsp;",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 17 Apr 2026 16:57:28 -0400",
-        "source_url": "https://www.constructiondive.com/news/tutor-perini-philadelphia-w-hotel-lawsuit/817890/",
-        "image_url": "https://imgproxy.divecdn.com/5nGWZ0FoM8aktQaTueh1Pa83x4ADpYu0_QJfEdsUONw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY4NTA2OTY4TWVkaXVtLmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -465,18 +465,18 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Apr 2026 00:00:00 -0400",
+        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.15709",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
         "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
-        "summary": "arXiv:2604.15719v1 Announce Type: new Abstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as \\emph{future prediction}, where an LLM agent must form a prediction for an unresolved question using only the public information available at the predictio",
+        "summary": "arXiv:2604.15719v2 Announce Type: new Abstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as future prediction, where an LLM agent must form a prediction for an unresolved question using only the public information available at the prediction time.",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Apr 2026 00:00:00 -0400",
+        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.15719",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Apr 2026 00:00:00 -0400",
+        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.15760",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,18 +498,18 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Apr 2026 00:00:00 -0400",
+        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.15839",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
         "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
-        "summary": "arXiv:2604.15951v1 Announce Type: new Abstract: Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there remains limited clarity regarding when, why, where, and what types of grap",
+        "summary": "arXiv:2604.15951v2 Announce Type: new Abstract: Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there remains limited clarity regarding when, why, where, and what types of grap",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Apr 2026 00:00:00 -0400",
+        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.15951",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
