@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-21",
-  "last_updated": "2026-04-21 23:33 UTC",
+  "date": "2026-04-22",
+  "last_updated": "2026-04-22 23:43 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Tue, 21 Apr 2026 04:13:24 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260420014736.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/interface-controlled-bulk-oxygen-spillover.webp",
+        "impact": 5
+      },
+      {
+        "title": "This donut-shaped discovery just shattered a 150-year math rule",
+        "summary": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured locally but are actually different overall. For decades, researchers suspected this might be possible but couldn’t prove it—until now. The breakthrough reshapes how mathem",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 22 Apr 2026 01:49:13 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/breaking-bonnets-rule.webp",
         "impact": 5
       },
       {
@@ -46,86 +57,97 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
         "impact": 5
-      },
-      {
-        "title": "Your phone's next speed boost may come from a strange magnetic jump that rewrites how chips handle heat",
-        "summary": "A new technology has been proposed that could fundamentally solve the issue of smartphones overheating during high-spec gaming or extended video streaming. Researchers at KAIST have discovered the principle of processing signals using the minute vibrations of magnets (spin waves) instead of electrons. This method signi",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Tue, 21 Apr 2026 17:10:06 EDT",
-        "source_url": "https://phys.org/news/2026-04-boost-strange-magnetic-rewrites-chips.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/frequency-instant-jump.jpg",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Inventor recalls eye imaging breakthrough",
-        "summary": "If you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year.&#160; OCT is a noninvasive technique used&",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Tue, 21 Apr 2026 21:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Huang_creditJohn-Valls_2023.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-        "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 21 Apr 2026 17:00:04 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
-        "summary": "There are some practical benefits to this $899 chip, but not many.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 21 Apr 2026 14:45:36 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_7697-1152x648.jpeg",
-        "impact": 3
-      },
-      {
-        "title": "YouTube expands its AI likeness detection technology to celebrities",
-        "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+        "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
+        "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 21 Apr 2026 15:02:06 +0000",
-        "source_url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/celebrity-paparazzi-GettyImages-523409170.jpg?resize=1200,800",
+        "published_at": "Wed, 22 Apr 2026 20:57:21 +0000",
+        "source_url": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-china-Getty.jpg?resize=1200,800",
+        "impact": 4
+      },
+      {
+        "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+        "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 22 Apr 2026 14:22:10 +0000",
+        "source_url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+        "impact": 4
+      },
+      {
+        "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+        "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 22 Apr 2026 17:10:32 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/TPU-8t-board-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "X makes it 1,900 percent more expensive to post links",
-        "summary": "Posting links to X through custom social media software just got a lot more expensive. On Monday, X significantly increased how much it costs to post a URL via the X API, which is what third-party tools use to hook into the platform. It now costs $0.20 when a link is posted, up from $0.01. [&#8230;]",
+        "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
+        "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-04-21T14:27:18-04:00",
-        "source_url": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK160_X_TWITTER_2__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 22 Apr 2026 22:39:58 +0000",
+        "source_url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?resize=1200,675",
+        "impact": 3
+      },
+      {
+        "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+        "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 22 Apr 2026 18:39:27 +0000",
+        "source_url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Google-TPU8.jpg?w=1031",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Why 'brain fog' in Parkinson's isn't always what it seems",
-        "summary": "For many individuals living with Parkinson's disease and those in its \"prodromal\" or early stages before movement impairment, there is a distressing gap between how they feel their brain is working and what clinical tests show. Patients often report, \"I feel like my thinking is getting worse,\" only to be told their obj",
+        "title": "Aural symptoms common among patients with vestibular migraine, Meniere disease",
+        "summary": "Patients with vestibular migraine (VM) often have aural symptoms and these are predictive of a lower probability of symptom improvement for headache and dizziness, according to a study published online Feb. 24 in the Journal of Clinical Medicine.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 21 Apr 2026 16:50:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-brain-fog-parkinson-isnt.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons.jpg",
+        "published_at": "Wed, 22 Apr 2026 17:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-aural-symptoms-common-patients-vestibular.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/aural-symptoms-common.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Hidden virus in your gut may be linked to colon cancer",
+        "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to ",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
+        "impact": 4
+      },
+      {
+        "title": "Two common drugs may reverse fatty liver disease, study finds",
+        "summary": "Scientists have discovered that combining two existing drugs can dramatically reduce liver fat linked to a common and often silent disease. The treatment not only improved liver health in animal models but also showed potential to lower heart-related risks. Interestingly, using lower doses of both drugs together worked",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 22 Apr 2026 00:51:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422003024.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
         "impact": 4
       },
       {
@@ -148,28 +170,6 @@
         "published_at": "Wed, 15 Apr 2026 03:26:50 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
-        "impact": 4
-      },
-      {
-        "title": "Forget daily pills. This shot works when blood pressure meds fail",
-        "summary": "A twice-yearly injection may soon change how high blood pressure is treated. In a global trial, patients receiving the experimental drug zilebesiran alongside standard therapy saw greater blood pressure reductions than those on standard treatment alone. The drug works by blocking a key liver protein, helping blood vess",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 13 Apr 2026 00:20:02 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022035.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/blood-pressure-gauge-heart.webp",
-        "impact": 4
-      },
-      {
-        "title": "How aggressive breast cancer turns off the immune system",
-        "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Using real patient sam",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 12 Apr 2026 07:03:28 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
         "impact": 4
       }
     ],
@@ -208,17 +208,6 @@
         "impact": 3
       },
       {
-        "title": "New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem",
-        "summary": "A straightforward conjecture about runners moving around a track turns out to be equivalent to many complex mathematical questions. Three new proofs mark the first significant progress on the problem in decades. The post New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Fri, 06 Mar 2026 15:00:33 +0000",
-        "source_url": "https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Lonely-Runner-cr-Mark-Belan-Social.jpg",
-        "impact": 3
-      },
-      {
         "title": "School of Science welcomed new faculty in 2024",
         "summary": "Eleven new professors join the departments of Biology; Brain and Cognitive Sciences; Earth, Atmospheric and Planetary Sciences; Mathematics; and Physics.",
         "category": "Mathematics",
@@ -228,29 +217,51 @@
         "source_url": "https://news.mit.edu/2025/school-science-new-faculty-2024-1211",
         "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-school-of-science-faculty-2025.jpg?itok=jY2TIbXl",
         "impact": 3
+      },
+      {
+        "title": "Laurent Demanet appointed co-director of MIT Center for Computational Science and Engineering",
+        "summary": "Applied mathematics professor will join fellow co-director Nicolas Hadjiconstantinou in leading the cross-cutting center.",
+        "category": "Mathematics",
+        "source": "news.mit.edu",
+        "journal": "news.mit.edu",
+        "published_at": "Tue, 07 Oct 2025 17:00:00 -0400",
+        "source_url": "https://news.mit.edu/2025/laurent-demanet-co-director-center-computational-science-engineering-1007",
+        "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202510/laurent-demanet-mit-00_0.jpg?itok=UKBXCtvx",
+        "impact": 3
       }
     ],
     "space": [
       {
-        "title": "NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything",
-        "summary": "On March 21, 2026, NASA’s Johnson Space Center Director Vanessa Wyche took the stage&#160;at the Space House event at South by Southwest&#160;in Austin, Texas, to outline NASA’s next giant leap in human spaceflight&#160;—&#160;from low Earth orbit to the Moon, and&#160;ultimately Mars.&#160; As NASA prepares for a new ",
+        "title": "Artemis II Mission Milestones: An Image and Video Recap",
+        "summary": "On April 1, 2026,&#160;Artemis II&#160;launched on a&#160;nearly&#160;10-day&#160;voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Tue, 21 Apr 2026 19:13:36 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/vanessa-wyche-by-daniel-stoops.png",
-        "impact": 5
+        "published_at": "Wed, 22 Apr 2026 01:55:09 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
+        "image_url": "https://www.youtube.com/embed/XAv9wTVDpcg",
+        "impact": 4
       },
       {
-        "title": "What Are Ames’ Contributions to Artemis II?",
-        "summary": "NASA successfully sent four astronauts&#160;around the Moon for the first time in more than 50 years, setting the stage for future lunar landing missions.&#160;As the agency continues to push the bounds of space exploration,&#160;NASA’s&#160;Ames Research Center in California’s Silicon Valley&#160;provided essential su",
+        "title": "Watch Rocket Lab launch Japanese 'origami' satellite, 7 other spacecraft to orbit tonight",
+        "summary": "Rocket Lab will launch eight Japanese satellites to orbit tonight (April 22), including one that features an origami-folded antenna, and you can watch the action live.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 21 Apr 2026 17:41:48 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/ames/what-are-ames-contributions-to-artemis-ii/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604110022orig.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 22 Apr 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-eight-japanese-satellites-kakushin-rising-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/u4YtckZDhtEoDVPJRoVJyP-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Celebrate Earth Day with this Artemis 2 shot | Space photo of the day for April 22, 2026",
+        "summary": "Celebrating Earth Day with an image of Earth captured by NASA's Artemis 2 mission around the moon.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 22 Apr 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/earth/celebrate-earth-day-with-this-artemis-2-shot-space-photo-of-the-day-for-april-22-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/eMKcvfQDeH9sSfiyVWHoV9-1280-80.webp",
         "impact": 4
       },
       {
@@ -273,17 +284,6 @@
         "published_at": "Mon, 20 Apr 2026 19:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-22-b1097-vsfb-ofisly-600th-falcon-landing",
         "image_url": "https://cdn.mos.cms.futurecdn.net/r2AJXV5RM3MUQ7ywBGa3Ao-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX launches advanced GPS satellite for US Space Force after rocket swap (video, photos)",
-        "summary": "SpaceX launched a new GPS satellite for the U.S. Space Force early Tuesday morning (April 21) — a mission that was originally supposed to fly on a competitor's rocket.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 19 Apr 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-gps-iii-sv-10-satellite-us-space-force",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/2832g89A6VPtEKRfdHQdEQ-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -333,38 +333,27 @@
         "impact": 4
       },
       {
-        "title": "Rubin Observatory Announces 11,000 New Asteroids",
-        "summary": "The Vera C. Rubin Observatory will discover up to 500,000 solar system objects every year. It’s already starting to deliver on that promise. The post Rubin Observatory Announces 11,000 New Asteroids appeared first on Sky &amp; Telescope.",
+        "title": "Tracking Changes in the Trifid Nebula With the Hubble",
+        "summary": "Back in 1997, the Hubble Space Telescope imaged the spectacular Trifid Nebula, a region of active star-formation. Now the telescope has revisited the Trifid. By comparing both images, astronomers have tracked some changes that tell them about how young stars behave and evolve.",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Fri, 10 Apr 2026 15:27:19 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/rubin-observatory-announces-11000-new-asteroids/",
-        "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 22 Apr 2026 14:09:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/tracking-changes-in-the-trifid-nebula-with-the-hubble",
+        "image_url": "https://www.universetoday.com/article_images/2000x1936_20260421_215313.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Jingu Studio / YNAS",
-        "summary": "The renovation of Villa Serena 204 began as a personal and professional mission to challenge Japan's \"scrap-and-build\" culture. Located in a historic modernist building designed by Junzo Sakakura, the project seeks to prove that aging architecture can gain value through thoughtful intervention. The core inspiration was",
+        "title": "Reclaiming the Street: Alejandra Ferrera on Architecture and Urban Life in Honduras",
+        "summary": "Honduras is the second-largest country in Central America, both in territory and population. Today, its urban fabric remains heavily influenced by modernist principles from the 1970s that prioritised high-speed arterial corridors and automobile-dependent \"point-to-point\" mobility. In addition, the country faced many ch",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 21 Apr 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040798/jingu-studio-ynas",
-        "image_url": "https://images.adsttc.com/media/images/69e6/3a98/5fed/0301/7ff7/2a88/large_jpg/jingu-studio-ynas_23.jpg?1776696002",
-        "impact": 5
-      },
-      {
-        "title": "Limberlost Place / Moriyama Teshima Architects",
-        "summary": "Limberlost Place, on Toronto's waterfront, is perhaps the world's first public tall timber building—a technical landmark that also elevates the art of architecture. Designed by Moriyama Teshima Architects in joint venture with Acton Ostry Architects, the project was selected via an international competition hosted by G",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 20 Apr 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040708/limberlost-place-moriyama-and-teshima-architects",
-        "image_url": "https://images.adsttc.com/media/images/69e0/45fb/8471/2000/01f8/e910/large_jpg/MTA_LimberlostPlace_Image1_Credit_doublespace_photography.jpg?1776305679",
+        "published_at": "Wed, 22 Apr 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1039699/reclaiming-the-street-alejandra-ferrera-on-architecture-and-urban-life-in-honduras",
+        "image_url": "https://images.adsttc.com/media/images/69e1/4dfd/63f5/ef01/884f/dbb7/large_jpg/high-quality-urban-design-in-honduras-bridging-local-and-international-architecture-through-the-lens-of-alejandra-ferrera-architecture_15.jpg?1776373287",
         "impact": 4
       },
       {
@@ -399,6 +388,17 @@
         "source_url": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/encounters-denise-scott-brown-exhibition-yale-architecture-gallery_dezeen_2364_hero_18.jpg",
         "impact": 4
+      },
+      {
+        "title": "ZGF wraps space shuttle in stainless-steel tower for California Science Center",
+        "summary": "American architecture studio ZGF's building in Los Angeles is complete with a full-size space shuttle \"in launch position\" wrapped in a stainless steel cylinder. The Samuel Oschin Air and Space Center (Air and Space Center), designed by ZGF Architects and built by MATT Construction, took four years to complete. It is p",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 14 Apr 2026 19:54:23 +0000",
+        "source_url": "https://www.dezeen.com/2026/04/14/zgf-california-samuel-oschin-air-space-center/",
+        "image_url": "https://static.dezeen.com/uploads/2026/04/samuel-oschin-air-space-center-los-angeles-california-zgf-architects_dezeen_2364-hero.jpg",
+        "impact": 4
       }
     ],
     "construction": [
@@ -425,6 +425,28 @@
         "impact": 4
       },
       {
+        "title": "Consigli CIO sees biggest AI impacts in estimating",
+        "summary": "At the Milford, Massachusetts-based construction company, AI is useful for tracking revisions and trade offs. Its use has become an expectation for workers, says Anthony Chiaradonna.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 22 Apr 2026 11:59:11 -0400",
+        "source_url": "https://www.constructiondive.com/news/consigli-cio-ai-impact-estimating/818191/",
+        "image_url": "https://imgproxy.divecdn.com/P4sodWV9X39SrnTRGunnH8d_oy4IHlAbbOflOx7efN4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxNDAwNTcxX3FaSmhQazQuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "Construction M&A activity continues in 2026",
+        "summary": "Four contech giants added to their offerings while two builders prepared to strengthen their presence in growing markets.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 22 Apr 2026 10:29:08 -0400",
+        "source_url": "https://www.constructiondive.com/news/merger-acquistion-roundup-construction-tech-autodesk-trimble/818155/",
+        "image_url": "https://imgproxy.divecdn.com/hR9inOnCl1bRQtP8-VYfyHc7-nVxGTu8dPFzeyT0zTQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzIxODkxMTAzLmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "$1B Virginia airport upgrade project reaches milestone",
         "summary": "W.M. Jordan served as construction manager at risk for Norfolk International Airport&rsquo;s three new gates in Concourse A, an addition spanning nearly 19,000 square feet.",
         "category": "Construction",
@@ -434,83 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/norfolk-virginia-airport-concourse-A-project/818088/",
         "image_url": "https://imgproxy.divecdn.com/v6UhxlMDtLlYTJ9N3lHRvfwYe5iX-xmG9mcZBhN7g1A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNC4xNy4yMDI2LU9SRi1vcGVucy10aHJlZS1uZXctZ2F0ZXMtYXQtQ29uY291cnNlLUEuZG9jeC0wMDIuanBn.webp",
         "impact": 3
-      },
-      {
-        "title": "3 megaprojects triggered rebound in March construction starts",
-        "summary": "Starts in electric power and utilities leapt over 353% month over month, according to Dodge, even as data centers decelerated.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 21 Apr 2026 08:15:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/dodge-march-2026-construction-starts-megaprojects/818005/",
-        "image_url": "https://imgproxy.divecdn.com/GgLPzFWrF23E8ErP5zQuNOP2vbqlGhHOl-E-eXb56TE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU0MDU2MTExLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "California contractor ordered to pay $468K in wage theft case",
-        "summary": "A federal probe found missed payroll, unpaid overtime and retaliation, highlighting persistent labor violations in construction, according to an attorney.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 20 Apr 2026 15:58:42 -0400",
-        "source_url": "https://www.constructiondive.com/news/california-contractor-back-wages-theft-dol/817989/",
-        "image_url": "https://imgproxy.divecdn.com/eLlFYft8l9spgnlH1hOMXa5slmFFPE4CU7ZgDW_zo4c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTIyNDU4NjE4LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
-        "summary": "arXiv:2604.15709v1 Announce Type: new Abstract: Agent \\texttt{skills} are structured collections of instructions, tools, and supporting resources that help large language model (LLM) agents perform particular classes of tasks. Empirical evidence shows that the design of \\texttt{skills} can materially affect agent task ",
+        "title": "AI scientists produce results without reasoning scientifically",
+        "summary": "arXiv:2604.18805v1 Announce Type: new Abstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evaluate LLM-based scient",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.15709",
+        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.18805",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
-        "summary": "arXiv:2604.15719v2 Announce Type: new Abstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as future prediction, where an LLM agent must form a prediction for an unresolved question using only the public information available at the prediction time.",
+        "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
+        "summary": "arXiv:2604.18838v1 Announce Type: new Abstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Quantum Qubit-based Neural Networks (QQBNs), and Quantum Qutrit-based Neural Networks (QQTNs). By outlining methodologies, ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.15719",
+        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.18838",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
-        "summary": "arXiv:2604.15760v1 Announce Type: new Abstract: We introduce the first version of KWBench (Knowledge Work Bench), a benchmark for unprompted problem recognition in large language models: can an LLM identify a professional scenario before attempting to solve it. Existing frontier benchmarks have saturated, and most know",
+        "title": "Explicit Trait Inference for Multi-Agent Coordination",
+        "summary": "arXiv:2604.19278v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) show promise on complex tasks but remain prone to coordination failures such as goal drift, error cascades, and misaligned behaviors. We propose Explicit Trait Inference (ETI), a psychologically grounded method for improving coordinatio",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.15760",
+        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.19278",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
-        "summary": "arXiv:2604.15839v1 Announce Type: new Abstract: Most ATP benchmarks embed the final answer within the formal statement -- a convention we call \"Easy Mode\" -- a design that simplifies the task relative to what human competitors face and may lead to optimistic estimates of model capability. We call the stricter, more rea",
+        "title": "Large Language Models Exhibit Normative Conformity",
+        "summary": "arXiv:2604.19301v1 Announce Type: new Abstract: The conformity bias exhibited by large language models (LLMs) can pose a significant challenge to decision-making in LLM-based multi-agent systems (LLM-MAS). While many prior studies have treated \"conformity\" simply as a matter of opinion change, this study introduces the",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.15839",
+        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.19301",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
-        "summary": "arXiv:2604.15951v2 Announce Type: new Abstract: Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there remains limited clarity regarding when, why, where, and what types of grap",
+        "title": "Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture The Flag Challenges",
+        "summary": "arXiv:2604.19354v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly proposed for autonomous cybersecurity tasks, but their capabilities in realistic offensive settings remain poorly understood. We present DeepRed, an open-source benchmark for evaluating LLM-based agents on realistic Captu",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.15951",
+        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.19354",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
