@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-22",
-  "last_updated": "2026-04-22 23:43 UTC",
+  "date": "2026-04-23",
+  "last_updated": "2026-04-23 23:43 UTC",
   "categories": {
     "science": [
       {
@@ -48,84 +48,117 @@
         "impact": 5
       },
       {
-        "title": "95% of people carry this virus and scientists may have just found how to stop it",
-        "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering immune cells. One of",
+        "title": "DNA reveals a hidden pitviper species in China",
+        "summary": "A vivid green pitviper hiding in Sichuan’s misty mountains has been revealed as a completely new species. Scientists had overlooked it for decades, assuming it was a common snake—until DNA analysis proved otherwise. Named after Laozi, it features striking differences between males and females, including bold stripes an",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 15 Apr 2026 03:26:50 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
-        "impact": 5
+        "published_at": "Wed, 22 Apr 2026 05:15:51 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044617.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/huaxi-green-pitviper-snake.webp",
+        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
-        "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
+        "title": "Era raises $11M to build a software platform for AI gadgets",
+        "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 22 Apr 2026 20:57:21 +0000",
-        "source_url": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-china-Getty.jpg?resize=1200,800",
-        "impact": 4
-      },
-      {
-        "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-        "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 22 Apr 2026 14:22:10 +0000",
-        "source_url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-        "impact": 4
-      },
-      {
-        "title": "Google unveils two new TPUs designed for the \"agentic era\"",
-        "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 22 Apr 2026 17:10:32 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/TPU-8t-board-1152x648.jpg",
+        "published_at": "Thu, 23 Apr 2026 16:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/IMG_2200.jpeg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
-        "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
+        "title": "Meta is revamping its cross-app management system",
+        "summary": "Meta's Accounts Center will transition to the Meta Account, which is supposed to make it easier to manage your experience on various Meta apps and devices.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 22 Apr 2026 22:39:58 +0000",
-        "source_url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?resize=1200,675",
+        "published_at": "Thu, 23 Apr 2026 16:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Meta-Account-Announcement_Social-Share.jpg?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-        "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+        "title": "Labor unrest at Samsung may worsen memory chip supply issues",
+        "summary": "Tens of thousands of Samsung Electronics workers held a rally at the company’s Pyeongtaek campus in South Korea on Thursday to signal they are prepared to walk off the job for an 18-day strike next month.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 22 Apr 2026 18:39:27 +0000",
-        "source_url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Google-TPU8.jpg?w=1031",
+        "published_at": "Thu, 23 Apr 2026 13:59:59 +0000",
+        "source_url": "https://techcrunch.com/2026/04/23/labor-unrest-at-samsung-may-worsen-memory-chip-supply-issues/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799",
+        "impact": 3
+      },
+      {
+        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+        "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 23 Apr 2026 22:00:00 +0000",
+        "source_url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "image_url": "https://media.wired.com/photos/69ea6ad5ba58a984aa33cf3d/191:100/w_1280,c_limit/Security_MalwareMayHaveTargetedIran'sNuclearProgram_03.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+        "summary": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 23 Apr 2026 11:11:00 +0000",
+        "source_url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+        "image_url": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/191:100/w_1280,c_limit/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Aural symptoms common among patients with vestibular migraine, Meniere disease",
-        "summary": "Patients with vestibular migraine (VM) often have aural symptoms and these are predictive of a lower probability of symptom improvement for headache and dizziness, according to a study published online Feb. 24 in the Journal of Clinical Medicine.",
+        "title": "What a 'post‑antibiotic era' could mean for modern medicine",
+        "summary": "Antibiotics are one of the greatest breakthroughs in medical history. They turned once-deadly infections into treatable illnesses and made modern health care possible. But bacteria are changing, and some of the drugs we have depended on for decades are becoming less effective.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 22 Apr 2026 17:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-aural-symptoms-common-patients-vestibular.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/aural-symptoms-common.jpg",
+        "published_at": "Thu, 23 Apr 2026 16:20:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-postantibiotic-era-modern-medicine.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/antibiotic.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Simple 'gut reset' procedure may prevent weight rebound following GLP-1 discontinuation",
+        "summary": "An outpatient procedure may offer a way for the estimated 70% of people who discontinue popular weight-loss drugs to avoid regaining the pounds they shed, according to a study presented at Digestive Disease Week (DDW) 2026.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 23 Apr 2026 18:00:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-simple-gut-reset-procedure-weight.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/semaglutide.jpg",
+        "impact": 4
+      },
+      {
+        "title": "How a gentler stem cell transplant may move type 1 diabetes treatment closer",
+        "summary": "A combination blood stem cell and pancreatic islet cell transplant from an immunologically mismatched donor completely prevented or cured type 1 diabetes in mice in a study by Stanford Medicine researchers. Type 1 diabetes arises when the immune system mistakenly destroys insulin-producing islet cells in the pancreas. ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 23 Apr 2026 17:40:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-gentler-stem-cell-transplant-diabetes.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/lab-mouse.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Simple “gut reset” may stop weight gain after Ozempic or Wegovy",
+        "summary": "A new minimally invasive procedure may help people keep weight off after stopping popular drugs like Ozempic and semaglutide—something most patients struggle with. In a clinical trial, those who underwent a technique called duodenal mucosal resurfacing regained far less weight compared to others after discontinuing the",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
         "impact": 4
       },
       {
@@ -137,39 +170,6 @@
         "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
-        "impact": 4
-      },
-      {
-        "title": "Two common drugs may reverse fatty liver disease, study finds",
-        "summary": "Scientists have discovered that combining two existing drugs can dramatically reduce liver fat linked to a common and often silent disease. The treatment not only improved liver health in animal models but also showed potential to lower heart-related risks. Interestingly, using lower doses of both drugs together worked",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 00:51:12 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422003024.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
-        "impact": 4
-      },
-      {
-        "title": "This cheap drug could help people with type 1 diabetes use less insulin",
-        "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12% less insulin while",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 15 Apr 2026 23:50:27 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043628.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/metformin-pill.webp",
-        "impact": 4
-      },
-      {
-        "title": "95% of people carry this virus and scientists may have just found how to stop it",
-        "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering immune cells. One of",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 15 Apr 2026 03:26:50 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/epstein-barr-virus-ebv.webp",
         "impact": 4
       }
     ],
@@ -232,25 +232,36 @@
     ],
     "space": [
       {
-        "title": "Artemis II Mission Milestones: An Image and Video Recap",
-        "summary": "On April 1, 2026,&#160;Artemis II&#160;launched on a&#160;nearly&#160;10-day&#160;voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10",
+        "title": "Liquid Lifeline: NASA Tech Could Create IV Fluid In Space",
+        "summary": "On every crewed mission, NASA packs pouches of a potentially life-saving liquid in its cargo, known as IV (or intravenous) fluid. A simple mix of sodium chloride and purified water, it can treat up to 30% of medical conditions in flight, resolving things like dehydration, burns, and more. Crewed missions beyond low Ear",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 22 Apr 2026 01:55:09 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
-        "image_url": "https://www.youtube.com/embed/XAv9wTVDpcg",
+        "published_at": "Thu, 23 Apr 2026 16:30:00 +0000",
+        "source_url": "https://www.nasa.gov/general/iv-fluid-in-space/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/image-2-ivgen-mini-hardware-e1776959913490.jpeg",
         "impact": 4
       },
       {
-        "title": "Watch Rocket Lab launch Japanese 'origami' satellite, 7 other spacecraft to orbit tonight",
-        "summary": "Rocket Lab will launch eight Japanese satellites to orbit tonight (April 22), including one that features an origami-folded antenna, and you can watch the action live.",
+        "title": "Japan's audacious sample-return mission to the Mars moon Phobos has made it to the launch pad",
+        "summary": "The complex MMX mission aims to shed light on the origins of Mars' two tiny moons, Phobos and Deimos, bringing Phobos material back to Earth in 2031.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 23 Apr 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/japans-audacious-sample-return-mission-to-the-mars-moon-phobos-has-made-it-to-the-launch-pad",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/AFkUybZ9YEYNiFkSt2vs6e-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Rocket Lab launches Japanese 'origami' satellite, 7 other spacecraft to orbit (photos)",
+        "summary": "Rocket Lab launched eight Japanese satellites to orbit on Wednesday night (April 22), including one that features an origami-folded antenna.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
         "published_at": "Wed, 22 Apr 2026 17:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-eight-japanese-satellites-kakushin-rising-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/u4YtckZDhtEoDVPJRoVJyP-1280-80.jpg",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/tsV2CYKLAGQVAGJpzNMftS-1280-80.jpg",
         "impact": 4
       },
       {
@@ -273,17 +284,6 @@
         "published_at": "Tue, 21 Apr 2026 19:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/youve-heard-of-the-space-force-now-theres-a-nasa-force-but-its-not-about-making-space-war",
         "image_url": "https://cdn.mos.cms.futurecdn.net/n8WULCujSDjJBg8cT8inLf-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "600 rocket landings! SpaceX notches another milestone during Sunday Starlink launch (video)",
-        "summary": "A SpaceX Falcon 9 rocket carrying 25 Starlink satellites lifted off from Vandenberg Space Force Station in California on April 19. The mission featured the 600th landing of a Falcon first stage.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 20 Apr 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-22-b1097-vsfb-ofisly-600th-falcon-landing",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/r2AJXV5RM3MUQ7ywBGa3Ao-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,14 +311,25 @@
         "impact": 4
       },
       {
-        "title": "How a Black Hole and a Shredded Star Could Light Up a Galaxy",
-        "summary": "In 2014, a strange cloudy object called G2 made a close approach to Sagittarius A*, (Sag A*) the supermassive black hole at the heart of the Milky Way Galaxy. Astronomers were pretty excited, partly because they thought it might get torn apart by Sag A*'s intense gravitational pull. That didn't happen, and the event wa",
+        "title": "Two Worlds Where the Sun Never Moves",
+        "summary": "One side is scorched to over 200 degrees, while the other is plunged into a darkness so cold it falls below minus 200. Welcome to TRAPPIST-1b and 1c, two rocky worlds that have just revealed the first ever climate maps of Earth sized planets beyond our Solar System. The James Webb Space Telescope has been watching, and",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Fri, 17 Apr 2026 21:03:36 +0000",
-        "source_url": "https://www.universetoday.com/articles/how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy",
-        "image_url": "https://www.universetoday.com/article_images/fig1-13-1078x516_20260417_205916.jpg",
+        "published_at": "Thu, 23 Apr 2026 10:50:09 +0000",
+        "source_url": "https://www.universetoday.com/articles/two-worlds-where-the-sun-never-moves",
+        "image_url": "https://www.universetoday.com/article_images/1280px-PIA21424_-_The_TRAPPIST-1_Habitable_Zone_20260423_104949.jpg",
+        "impact": 4
+      },
+      {
+        "title": "James Webb Space Telescope peers into a dying star surrounded by mysterious buckyballs: 'The structures we're seeing now are breathtaking'",
+        "summary": "The James Webb Space Telescope captured the first detailed images of planetary nebula Tc 1, revealing new details of what happens after a sun-like star dies.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 23 Apr 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/stars/james-webb-space-telescope-peers-into-a-dying-star-surrounded-by-mysterious-buckyballs-the-structures-were-seeing-now-are-breathtaking",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/nK6J9xD4baumF6sCv82Vom-1280-80.jpg",
         "impact": 4
       },
       {
@@ -331,29 +342,18 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
         "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Tracking Changes in the Trifid Nebula With the Hubble",
-        "summary": "Back in 1997, the Hubble Space Telescope imaged the spectacular Trifid Nebula, a region of active star-formation. Now the telescope has revisited the Trifid. By comparing both images, astronomers have tracked some changes that tell them about how young stars behave and evolve.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 22 Apr 2026 14:09:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/tracking-changes-in-the-trifid-nebula-with-the-hubble",
-        "image_url": "https://www.universetoday.com/article_images/2000x1936_20260421_215313.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Reclaiming the Street: Alejandra Ferrera on Architecture and Urban Life in Honduras",
-        "summary": "Honduras is the second-largest country in Central America, both in territory and population. Today, its urban fabric remains heavily influenced by modernist principles from the 1970s that prioritised high-speed arterial corridors and automobile-dependent \"point-to-point\" mobility. In addition, the country faced many ch",
+        "title": "Building Lightness Through Glass and Frames",
+        "summary": "Throughout much of history, weight has been closely associated with the very idea of architecture. Vitruvius, whose notion of firmitas linked construction to stability and permanence, understood solidity as one of its fundamental qualities, and building largely meant resisting the effects of time, gravity, and natural ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 22 Apr 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1039699/reclaiming-the-street-alejandra-ferrera-on-architecture-and-urban-life-in-honduras",
-        "image_url": "https://images.adsttc.com/media/images/69e1/4dfd/63f5/ef01/884f/dbb7/large_jpg/high-quality-urban-design-in-honduras-bridging-local-and-international-architecture-through-the-lens-of-alejandra-ferrera-architecture_15.jpg?1776373287",
+        "published_at": "Thu, 23 Apr 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1040165/building-lightness-through-glass-and-frames",
+        "image_url": "https://images.adsttc.com/media/images/69ca/e87d/bacd/cd01/89fe/bb67/large_jpg/building-lightness-through-glass-and-frames_12.jpg?1774905476",
         "impact": 4
       },
       {
@@ -403,6 +403,17 @@
     ],
     "construction": [
       {
+        "title": "Costain using 3D printed concrete for Teesside carbon capture project",
+        "summary": "Infrastructure solutions company Costain, and civil and structural engineering delivery firm A E Yates have brought on board Hyperion Robotics to deliver low-carbon concrete sleepers for a “landmark” East Coast Cluster project on Teesside. The post Costain using 3D printed concrete for Teesside carbon capture project a",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 23 Apr 2026 09:42:25 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/costain-using-3d-printed-concrete-for-teesside-carbon-capture-project-23-04-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/hyperion-canva-547x315.jpg",
+        "impact": 4
+      },
+      {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
         "category": "Construction",
@@ -425,37 +436,26 @@
         "impact": 4
       },
       {
-        "title": "Consigli CIO sees biggest AI impacts in estimating",
-        "summary": "At the Milford, Massachusetts-based construction company, AI is useful for tracking revisions and trade offs. Its use has become an expectation for workers, says Anthony Chiaradonna.",
+        "title": "£4.1bn procurement for merged civils, enabling works and infrastructure framework",
+        "summary": "Pagabo has launched a £4.16bn civil engineering and enabling works framework - rising to £5bn including VAT - that will consolidate two major national agreements into a single procurement vehicle spanning the UK. The post £4.1bn procurement for merged civils, enabling works and infrastructure framework appeared first o",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 22 Apr 2026 11:59:11 -0400",
-        "source_url": "https://www.constructiondive.com/news/consigli-cio-ai-impact-estimating/818191/",
-        "image_url": "https://imgproxy.divecdn.com/P4sodWV9X39SrnTRGunnH8d_oy4IHlAbbOflOx7efN4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxNDAwNTcxX3FaSmhQazQuanBn.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 23 Apr 2026 10:35:47 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/4-1bn-procurement-for-national-framework-for-civil-engineering-infrastructure-and-enabling-works-23-04-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2011/09/forth_bridge_landscape_scaffolding.jpg",
+        "impact": 4
       },
       {
-        "title": "Construction M&A activity continues in 2026",
-        "summary": "Four contech giants added to their offerings while two builders prepared to strengthen their presence in growing markets.",
+        "title": "A422 overbridge construction methodology changes demand extensive temporary works and multi-party collaboration",
+        "summary": "With the High Speed 2 (HS2) rail line route intercepting a section of the A422 road between Brackley and Buckingham, a new overbridge is being constructed to allow the trains to run underneath the motorway. The post A422 overbridge construction methodology changes demand extensive temporary works and multi-party collab",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 22 Apr 2026 10:29:08 -0400",
-        "source_url": "https://www.constructiondive.com/news/merger-acquistion-roundup-construction-tech-autodesk-trimble/818155/",
-        "image_url": "https://imgproxy.divecdn.com/hR9inOnCl1bRQtP8-VYfyHc7-nVxGTu8dPFzeyT0zTQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzIxODkxMTAzLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "$1B Virginia airport upgrade project reaches milestone",
-        "summary": "W.M. Jordan served as construction manager at risk for Norfolk International Airport&rsquo;s three new gates in Concourse A, an addition spanning nearly 19,000 square feet.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 21 Apr 2026 12:30:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/norfolk-virginia-airport-concourse-A-project/818088/",
-        "image_url": "https://imgproxy.divecdn.com/v6UhxlMDtLlYTJ9N3lHRvfwYe5iX-xmG9mcZBhN7g1A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNC4xNy4yMDI2LU9SRi1vcGVucy10aHJlZS1uZXctZ2F0ZXMtYXQtQ29uY291cnNlLUEuZG9jeC0wMDIuanBn.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 23 Apr 2026 03:00:18 +0000",
+        "source_url": "https://www.newcivilengineer.com/bridges/a422-overbridge-construction-methodology-changes-demand-extensive-temporary-works-and-multi-party-collaboration-23-04-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/250409_A422Overbridge_T2G_01-1-560x315.jpg",
+        "impact": 4
       }
     ],
     "ai": [
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.18805",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,18 +476,18 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.18838",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
         "title": "Explicit Trait Inference for Multi-Agent Coordination",
-        "summary": "arXiv:2604.19278v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) show promise on complex tasks but remain prone to coordination failures such as goal drift, error cascades, and misaligned behaviors. We propose Explicit Trait Inference (ETI), a psychologically grounded method for improving coordinatio",
+        "summary": "arXiv:2604.19278v2 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) show promise on complex tasks but remain prone to coordination failures such as goal drift, error cascades, and misaligned behaviors. We propose Explicit Trait Inference (ETI), a psychologically grounded method for improving coordinatio",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.19278",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.19301",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Apr 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.19354",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
