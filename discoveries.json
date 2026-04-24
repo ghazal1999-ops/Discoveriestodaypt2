@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-23",
-  "last_updated": "2026-04-23 23:43 UTC",
+  "date": "2026-04-24",
+  "last_updated": "2026-04-24 23:38 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "Simplifying clean hydrogen production with a new all-in-one photocatalytic cocatalyst",
+        "summary": "Researchers have demonstrated the first \"all-in-one\" cocatalyst for photocatalytic overall water splitting, a breakthrough that could simplify the production of clean hydrogen fuel. The discovery marks an important step toward practical technologies that use sunlight and water to generate hydrogen, a key energy carrier",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Fri, 24 Apr 2026 16:20:01 EDT",
+        "source_url": "https://phys.org/news/2026-04-hydrogen-production-photocatalytic-cocatalyst.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/simplifying-clean-hydr.jpg",
+        "impact": 5
+      },
+      {
         "title": "This new camera captures what happens in a trillionth of a second",
         "summary": "Scientists have unveiled a breakthrough imaging method that can capture the hidden details of events unfolding in trillionths of a second. This new technique doesn’t just track how bright something is—it also reveals subtle structural changes that were previously invisible, all in a single shot. By effectively turning ",
         "category": "Science",
@@ -46,108 +57,108 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260417224501.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/liaoningosaurus-paradoxus-fossils.webp",
         "impact": 5
-      },
-      {
-        "title": "DNA reveals a hidden pitviper species in China",
-        "summary": "A vivid green pitviper hiding in Sichuan’s misty mountains has been revealed as a completely new species. Scientists had overlooked it for decades, assuming it was a common snake—until DNA analysis proved otherwise. Named after Laozi, it features striking differences between males and females, including bold stripes an",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 05:15:51 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044617.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/huaxi-green-pitviper-snake.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Era raises $11M to build a software platform for AI gadgets",
-        "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+        "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+        "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 23 Apr 2026 16:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/IMG_2200.jpeg?resize=1200,800",
+        "published_at": "Fri, 24 Apr 2026 21:53:44 +0000",
+        "source_url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266940912.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Meta is revamping its cross-app management system",
-        "summary": "Meta's Accounts Center will transition to the Meta Account, which is supposed to make it easier to manage your experience on various Meta apps and devices.",
+        "title": "Another spyware maker caught distributing fake Android snooping apps",
+        "summary": "Researchers have found a new case where government authorities used a fake Android app to plant spyware on a target’s phone. The company that allegedly developed the spyware was not previously known to sell this type of software.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 23 Apr 2026 16:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Meta-Account-Announcement_Social-Share.jpg?resize=1200,675",
+        "published_at": "Fri, 24 Apr 2026 14:17:55 +0000",
+        "source_url": "https://techcrunch.com/2026/04/24/another-spyware-maker-caught-distributing-fake-android-snooping-apps/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2021/09/android-spyware-malloc.jpg?resize=1200,751",
         "impact": 3
       },
       {
-        "title": "Labor unrest at Samsung may worsen memory chip supply issues",
-        "summary": "Tens of thousands of Samsung Electronics workers held a rally at the company’s Pyeongtaek campus in South Korea on Thursday to signal they are prepared to walk off the job for an 18-day strike next month.",
+        "title": "Nothing introduces an AI-powered dictation tool",
+        "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 23 Apr 2026 13:59:59 +0000",
-        "source_url": "https://techcrunch.com/2026/04/23/labor-unrest-at-samsung-may-worsen-memory-chip-supply-issues/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799",
+        "published_at": "Fri, 24 Apr 2026 13:41:42 +0000",
+        "source_url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200",
         "impact": 3
       },
       {
-        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
-        "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+        "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+        "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 23 Apr 2026 22:00:00 +0000",
-        "source_url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
-        "image_url": "https://media.wired.com/photos/69ea6ad5ba58a984aa33cf3d/191:100/w_1280,c_limit/Security_MalwareMayHaveTargetedIran'sNuclearProgram_03.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 24 Apr 2026 12:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
         "impact": 3
       },
       {
-        "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
-        "summary": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+        "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
+        "summary": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10 Pro to the Pixel Buds Pro 2, as well as the wearables like the Pixel Watch 4. In fact, [&#8230;]",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 23 Apr 2026 11:11:00 +0000",
-        "source_url": "https://www.wired.com/story/best-pool-cleaning-robots/",
-        "image_url": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/191:100/w_1280,c_limit/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-04-24T13:25:49-04:00",
+        "source_url": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Pixel-Watch-4-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "What a 'post‑antibiotic era' could mean for modern medicine",
-        "summary": "Antibiotics are one of the greatest breakthroughs in medical history. They turned once-deadly infections into treatable illnesses and made modern health care possible. But bacteria are changing, and some of the drugs we have depended on for decades are becoming less effective.",
+        "title": "Phage therapy case reveals hidden antibodies can block treatment of drug-resistant infections",
+        "summary": "A new treatment for patients with life-threatening infectious diseases is being pioneered in Melbourne by researchers at The Alfred and Monash University. VICPhage, a clinical partnership between The Alfred and Monash, is one of the first in Australia to offer end-to-end capacity in phage therapy to treat some of the m",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 23 Apr 2026 16:20:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-postantibiotic-era-modern-medicine.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/antibiotic.jpg",
+        "published_at": "Fri, 24 Apr 2026 19:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-phage-therapy-case-reveals-hidden.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-phage.jpg",
         "impact": 5
       },
       {
-        "title": "Simple 'gut reset' procedure may prevent weight rebound following GLP-1 discontinuation",
-        "summary": "An outpatient procedure may offer a way for the estimated 70% of people who discontinue popular weight-loss drugs to avoid regaining the pounds they shed, according to a study presented at Digestive Disease Week (DDW) 2026.",
+        "title": "New plan could speed Medicare coverage for innovative devices",
+        "summary": "A new proposal could make it easier for patients to access breakthrough medical devices through Medicare.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 23 Apr 2026 18:00:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-simple-gut-reset-procedure-weight.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/semaglutide.jpg",
+        "published_at": "Fri, 24 Apr 2026 15:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-medicare-coverage-devices.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-plan-could-speed-m.jpg",
         "impact": 4
       },
       {
-        "title": "How a gentler stem cell transplant may move type 1 diabetes treatment closer",
-        "summary": "A combination blood stem cell and pancreatic islet cell transplant from an immunologically mismatched donor completely prevented or cured type 1 diabetes in mice in a study by Stanford Medicine researchers. Type 1 diabetes arises when the immune system mistakenly destroys insulin-producing islet cells in the pancreas. ",
+        "title": "Gene therapy targets untreatable cystic fibrosis mutation affecting about 10% of patients",
+        "summary": "Cystic fibrosis is among the most common, known and studied genetic diseases. It affects over 100,000 people worldwide and reduces life expectancy mainly as it causes lung and respiratory problems. Over the years, scientific research has led to the development of several pharmacological therapies for this disease.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 23 Apr 2026 17:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-gentler-stem-cell-transplant-diabetes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/lab-mouse.jpg",
+        "published_at": "Fri, 24 Apr 2026 14:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-gene-therapy-untreatable-cystic-fibrosis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/gene-mutation.jpg",
+        "impact": 4
+      },
+      {
+        "title": "In myasthenia gravis, surgical removal of the thymus gland proves to be effective and economical",
+        "summary": "In patients with myasthenia gravis, the surgical removal of the thymus gland, called thymectomy, added \"quality adjusted life years\" to patients and was also cost-effective in comparison to pharmacological treatment alone, according to a study published April 13 in JAMA Network Open. \"Quality adjusted life years\" are a",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 24 Apr 2026 13:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-myasthenia-gravis-surgical-thymus-gland.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-myasthenia-gravis-s.jpg",
         "impact": 4
       },
       {
@@ -159,17 +170,6 @@
         "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
-        "impact": 4
-      },
-      {
-        "title": "Hidden virus in your gut may be linked to colon cancer",
-        "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to ",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 4
       },
       {
+        "title": "Ice melts in the springtime on Mars | Space photo of the day for April 24, 2026",
+        "summary": "Springtime has arrived at the Red Planet's Chasma Boreale, as this photo by NASA's Mars Reconnaissance Orbiter shows.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 24 Apr 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/ice-melts-in-the-springtime-on-mars-space-photo-of-the-day-for-april-24-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/FBpyTzBvporeGS5cmAgGBU-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Japan's audacious sample-return mission to the Mars moon Phobos has made it to the launch pad",
         "summary": "The complex MMX mission aims to shed light on the origins of Mars' two tiny moons, Phobos and Deimos, bringing Phobos material back to Earth in 2031.",
         "category": "Space",
@@ -274,17 +285,6 @@
         "source_url": "https://www.space.com/astronomy/earth/celebrate-earth-day-with-this-artemis-2-shot-space-photo-of-the-day-for-april-22-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/eMKcvfQDeH9sSfiyVWHoV9-1280-80.webp",
         "impact": 4
-      },
-      {
-        "title": "You've heard of the Space Force. Now there's a 'NASA Force' — but it's not about making space war",
-        "summary": "NASA Force aims to recruit industry talent to the space agency for relatively short stints. Applications are open now in the wake of the Artemis 2 moon mission.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 21 Apr 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/youve-heard-of-the-space-force-now-theres-a-nasa-force-but-its-not-about-making-space-war",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/n8WULCujSDjJBg8cT8inLf-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
@@ -298,17 +298,6 @@
         "source_url": "https://www.universetoday.com/articles/nasas-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets",
         "image_url": "https://www.universetoday.com/article_images/noao-cyg_x1_20260420_145949.jpg",
         "impact": 5
-      },
-      {
-        "title": "Planets Collide Around Young, Sun-like Star",
-        "summary": "Astronomers have uncovered evidence that two planets collided around a young star, revealing how giant impacts sculpt baby solar systems. The post Planets Collide Around Young, Sun-like Star appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Mon, 13 Apr 2026 18:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/planets-collide-around-young-sun-like-star/",
-        "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
-        "impact": 4
       },
       {
         "title": "Two Worlds Where the Sun Never Moves",
@@ -333,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "Catching the Earliest Stars in the Universe",
+        "summary": "New observations from the James Webb Space Telescope might have caught the signature of the universe's first stars. The post Catching the Earliest Stars in the Universe appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Fri, 24 Apr 2026 13:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/catching-the-earliest-stars-in-the-universe/",
+        "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
+        "impact": 4
+      },
+      {
         "title": "Astronomers Find the Edge of the Milky Way",
         "summary": "Astronomers have located the edge of the Milky Way’s star-forming disk for the first time, showing that star formation is focused within 40,000 light-years of our galactic center. The post Astronomers Find the Edge of the Milky Way appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -346,14 +346,25 @@
     ],
     "architecture": [
       {
-        "title": "Building Lightness Through Glass and Frames",
-        "summary": "Throughout much of history, weight has been closely associated with the very idea of architecture. Vitruvius, whose notion of firmitas linked construction to stability and permanence, understood solidity as one of its fundamental qualities, and building largely meant resisting the effects of time, gravity, and natural ",
+        "title": "The Bass Museum of Art Commissions Johnston Marklee for Campus Expansion in Collins Park, Miami Beach",
+        "summary": "The Bass Museum of Art has appointed the Los Angeles-based architecture practice Johnston Marklee to lead the expansion of its campus in Collins Park, Miami Beach, advancing a long-term vision that integrates architecture, landscape, and contemporary art. Founded in 1964 following the donation of the John and Johanna B",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 23 Apr 2026 06:45:00 +0000",
-        "source_url": "https://www.archdaily.com/1040165/building-lightness-through-glass-and-frames",
-        "image_url": "https://images.adsttc.com/media/images/69ca/e87d/bacd/cd01/89fe/bb67/large_jpg/building-lightness-through-glass-and-frames_12.jpg?1774905476",
+        "published_at": "Fri, 24 Apr 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1040912/the-bass-museum-of-art-commissions-johnston-marklee-for-campus-expansion-in-collins-park-miami-beach",
+        "image_url": "https://images.adsttc.com/media/images/69ea/2cd5/ab8e/1901/89cf/6aa8/large_jpg/the-bass-museum-of-art-commissions-johnston-marklee-for-campus-expansion-in-collins-park_4.jpg?1776954631",
+        "impact": 4
+      },
+      {
+        "title": "Diamond Schmitt and MVRDV reveal design of terraced research building for University of Toronto",
+        "summary": "Architecture studios Diamond Schmitt, MVRDV and Two Row Architect have revealed the design for the Temerty Building at the University of Toronto, a research building informed by Indigenous design principles. The building will be located on the edge of a campus lawn at the University of Toronto St George campus and host",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 24 Apr 2026 20:03:36 +0000",
+        "source_url": "https://www.dezeen.com/2026/04/24/diamond-schmitt-mvrdv-terraced-temerty-research-building-university-of-toronto/",
+        "image_url": "https://static.dezeen.com/uploads/2026/04/temerty-building-toronto-diamond-schmitt-mvrdv_dezeen_2364_sq-1.jpg",
         "impact": 4
       },
       {
@@ -388,29 +399,18 @@
         "source_url": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/encounters-denise-scott-brown-exhibition-yale-architecture-gallery_dezeen_2364_hero_18.jpg",
         "impact": 4
-      },
-      {
-        "title": "ZGF wraps space shuttle in stainless-steel tower for California Science Center",
-        "summary": "American architecture studio ZGF's building in Los Angeles is complete with a full-size space shuttle \"in launch position\" wrapped in a stainless steel cylinder. The Samuel Oschin Air and Space Center (Air and Space Center), designed by ZGF Architects and built by MATT Construction, took four years to complete. It is p",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 14 Apr 2026 19:54:23 +0000",
-        "source_url": "https://www.dezeen.com/2026/04/14/zgf-california-samuel-oschin-air-space-center/",
-        "image_url": "https://static.dezeen.com/uploads/2026/04/samuel-oschin-air-space-center-los-angeles-california-zgf-architects_dezeen_2364-hero.jpg",
-        "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Costain using 3D printed concrete for Teesside carbon capture project",
-        "summary": "Infrastructure solutions company Costain, and civil and structural engineering delivery firm A E Yates have brought on board Hyperion Robotics to deliver low-carbon concrete sleepers for a “landmark” East Coast Cluster project on Teesside. The post Costain using 3D printed concrete for Teesside carbon capture project a",
+        "title": "Zachry Construction names new president, keeps focus on water projects",
+        "summary": "Travis Mross, who started as an intern at the San Antonio-based builder, takes the role as demand for water infrastructure rises.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 23 Apr 2026 09:42:25 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/costain-using-3d-printed-concrete-for-teesside-carbon-capture-project-23-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/hyperion-canva-547x315.jpg",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 24 Apr 2026 08:37:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/zachry-construction-president-water-infrastructure/818317/",
+        "image_url": "https://imgproxy.divecdn.com/GWjAw0eKfIaaN-szJqi470OJNMAXUqinNdhwGjySreE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5sYXBfMjAyMy0wNjc3LmpwZw==.webp",
         "impact": 4
       },
       {
@@ -436,81 +436,81 @@
         "impact": 4
       },
       {
-        "title": "£4.1bn procurement for merged civils, enabling works and infrastructure framework",
-        "summary": "Pagabo has launched a £4.16bn civil engineering and enabling works framework - rising to £5bn including VAT - that will consolidate two major national agreements into a single procurement vehicle spanning the UK. The post £4.1bn procurement for merged civils, enabling works and infrastructure framework appeared first o",
+        "title": "Thousands of engineers receiving pay rise after industrial action threat",
+        "summary": "Thousands of engineering construction workers will receive a 4.5% pay increase from May. The post Thousands of engineers receiving pay rise after industrial action threat appeared first on New Civil Engineer.",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Thu, 23 Apr 2026 10:35:47 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/4-1bn-procurement-for-national-framework-for-civil-engineering-infrastructure-and-enabling-works-23-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2011/09/forth_bridge_landscape_scaffolding.jpg",
+        "published_at": "Fri, 24 Apr 2026 11:39:43 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/thousands-of-engineers-receiving-pay-rise-after-industrial-action-threat-24-04-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2016/02/energy_nuclear_power_sizewell_b_power_station_bcia_01_070628.jpg",
         "impact": 4
       },
       {
-        "title": "A422 overbridge construction methodology changes demand extensive temporary works and multi-party collaboration",
-        "summary": "With the High Speed 2 (HS2) rail line route intercepting a section of the A422 road between Brackley and Buckingham, a new overbridge is being constructed to allow the trains to run underneath the motorway. The post A422 overbridge construction methodology changes demand extensive temporary works and multi-party collab",
+        "title": "Water, sewer contractor and major homebuilder make ‘Dirty Dozen’ list",
+        "summary": "Revoli Construction and D.R. Horton were among major safety offenders highlighted in a list by the National Council for Occupational Safety and Health.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 23 Apr 2026 03:00:18 +0000",
-        "source_url": "https://www.newcivilengineer.com/bridges/a422-overbridge-construction-methodology-changes-demand-extensive-temporary-works-and-multi-party-collaboration-23-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/250409_A422Overbridge_T2G_01-1-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 24 Apr 2026 13:46:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/contractor-major-homebuilder-dirty-dozen-safety/818465/",
+        "image_url": "https://imgproxy.divecdn.com/28W7MmO0I40JRUNtdgLB4Q0p7qlyQzciSmfQVoi7NHw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04OTg4Nzk3MS5qcGc=.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "AI scientists produce results without reasoning scientifically",
-        "summary": "arXiv:2604.18805v1 Announce Type: new Abstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evaluate LLM-based scient",
+        "title": "The AI Telco Engineer: Toward Autonomous Discovery of Wireless Communications Algorithms",
+        "summary": "arXiv:2604.19803v1 Announce Type: new Abstract: Agentic AI is rapidly transforming the way research is conducted, from prototyping ideas to reproducing results found in the literature. In this paper, we explore the ability of agentic AI to autonomously design wireless communication algorithms. To that end, we implement",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.18805",
+        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.19803",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
-        "summary": "arXiv:2604.18838v1 Announce Type: new Abstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Quantum Qubit-based Neural Networks (QQBNs), and Quantum Qutrit-based Neural Networks (QQTNs). By outlining methodologies, ",
+        "title": "Emergence Transformer: Dynamical Temporal Attention Matters",
+        "summary": "arXiv:2604.19816v1 Announce Type: new Abstract: The Transformer, a breakthrough architecture in artificial intelligence, owes its success to the attention mechanism, which utilizes long-range interactions in sequential data, enabling the emergent coherence between large language models (LLMs) and data distributions. Ho",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.18838",
+        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.19816",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Explicit Trait Inference for Multi-Agent Coordination",
-        "summary": "arXiv:2604.19278v2 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) show promise on complex tasks but remain prone to coordination failures such as goal drift, error cascades, and misaligned behaviors. We propose Explicit Trait Inference (ETI), a psychologically grounded method for improving coordinatio",
+        "title": "Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data",
+        "summary": "arXiv:2604.20261v1 Announce Type: new Abstract: Automated feature generation extracts informative features from raw tabular data without manual intervention and is crucial for accurate, generalizable machine learning. Traditional methods rely on predefined operator libraries and cannot leverage task semantics, limiting",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.19278",
+        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.20261",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Large Language Models Exhibit Normative Conformity",
-        "summary": "arXiv:2604.19301v1 Announce Type: new Abstract: The conformity bias exhibited by large language models (LLMs) can pose a significant challenge to decision-making in LLM-based multi-agent systems (LLM-MAS). While many prior studies have treated \"conformity\" simply as a matter of opinion change, this study introduces the",
+        "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
+        "summary": "arXiv:2604.19761v1 Announce Type: new Abstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its weights. Although highly successful, this paradigm is too narrow for many structured prediction problems, where the main bottleneck is not param",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.19301",
+        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.19761",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture The Flag Challenges",
-        "summary": "arXiv:2604.19354v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly proposed for autonomous cybersecurity tasks, but their capabilities in realistic offensive settings remain poorly understood. We present DeepRed, an open-source benchmark for evaluating LLM-based agents on realistic Captu",
+        "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
+        "summary": "arXiv:2604.19775v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed as autonomous agents capable of reasoning, planning, and acting within interactive environments. Despite their growing capability to perform multi-step reasoning and decision-making tasks, internal mechanisms guiding ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.19354",
+        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.19775",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
