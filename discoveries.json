@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-24",
-  "last_updated": "2026-04-24 23:38 UTC",
+  "date": "2026-04-25",
+  "last_updated": "2026-04-25 23:36 UTC",
   "categories": {
     "science": [
       {
@@ -26,17 +26,6 @@
         "impact": 5
       },
       {
-        "title": "Simplifying clean hydrogen production with a new all-in-one photocatalytic cocatalyst",
-        "summary": "Researchers have demonstrated the first \"all-in-one\" cocatalyst for photocatalytic overall water splitting, a breakthrough that could simplify the production of clean hydrogen fuel. The discovery marks an important step toward practical technologies that use sunlight and water to generate hydrogen, a key energy carrier",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Fri, 24 Apr 2026 16:20:01 EDT",
-        "source_url": "https://phys.org/news/2026-04-hydrogen-production-photocatalytic-cocatalyst.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/simplifying-clean-hydr.jpg",
-        "impact": 5
-      },
-      {
         "title": "This new camera captures what happens in a trillionth of a second",
         "summary": "Scientists have unveiled a breakthrough imaging method that can capture the hidden details of events unfolding in trillionths of a second. This new technique doesn’t just track how bright something is—it also reveals subtle structural changes that were previously invisible, all in a single shot. By effectively turning ",
         "category": "Science",
@@ -48,18 +37,51 @@
         "impact": 5
       },
       {
-        "title": "These tiny dinosaur fossils fooled scientists for 20 years",
-        "summary": "Tiny dinosaur fossils that puzzled scientists for over 20 years have finally revealed their true identity. Rather than belonging to a miniature species, they are actually baby ankylosaurs—some less than a year old, including a possible hatchling. By studying bone growth patterns, researchers confirmed these young dinos",
+        "title": "Scientists Stunned After Finding Plant Thought Extinct for 60 Years",
+        "summary": "Citizen science platforms, including iNaturalist, are driving major discoveries and becoming essential tools for researchers. How can we improve them further? A plant missing for nearly 60 years has been found again in one of Australia’s most remote landscapes, and the rediscovery started with a sharp-eyed bird bander,",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 21 Apr 2026 10:17:47 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260417224501.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/liaoningosaurus-paradoxus-fossils.webp",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sat, 25 Apr 2026 13:05:19 +0000",
+        "source_url": "https://scitechdaily.com/scientists-stunned-after-finding-plant-thought-extinct-for-60-years/",
+        "image_url": "https://scitechdaily.com/images/Biologist-Photographing-Rare-Plants-Tropical-Forest-Smartphone-777x518.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Scientists Discover Tiny New Spider That Hunts Prey 6x Its Size",
+        "summary": "Scientists discovered a tiny wall-dwelling spider that preys on common urban pests and may aid natural pest control. Its resemblance to a distant Galapagos species suggests a possible evolutionary link. Researchers from several South American institutions have expanded understanding of the Pikelinia spider genus with t",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 24 Apr 2026 18:26:00 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-tiny-new-spider-that-hunts-prey-6x-its-size/",
+        "image_url": "https://scitechdaily.com/images/Pikelinia-Floydmuraria-Male-Paratype-777x457.jpg",
         "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "Why Tokyo is the most important tech destination of 2026",
+        "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 25 Apr 2026 15:03:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/sushitech-3-hero.webp?resize=1200,835",
+        "impact": 3
+      },
+      {
+        "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+        "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 25 Apr 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264522469.jpg?resize=1200,800",
+        "impact": 3
+      },
       {
         "title": "Palantir is reportedly helping the IRS investigate financial crimes",
         "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
@@ -72,93 +94,38 @@
         "impact": 3
       },
       {
-        "title": "Another spyware maker caught distributing fake Android snooping apps",
-        "summary": "Researchers have found a new case where government authorities used a fake Android app to plant spyware on a target’s phone. The company that allegedly developed the spyware was not previously known to sell this type of software.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 24 Apr 2026 14:17:55 +0000",
-        "source_url": "https://techcrunch.com/2026/04/24/another-spyware-maker-caught-distributing-fake-android-snooping-apps/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2021/09/android-spyware-malloc.jpg?resize=1200,751",
-        "impact": 3
-      },
-      {
-        "title": "Nothing introduces an AI-powered dictation tool",
-        "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 24 Apr 2026 13:41:42 +0000",
-        "source_url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200",
-        "impact": 3
-      },
-      {
-        "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-        "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 24 Apr 2026 12:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-        "impact": 3
-      },
-      {
-        "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
-        "summary": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10 Pro to the Pixel Buds Pro 2, as well as the wearables like the Pixel Watch 4. In fact, [&#8230;]",
+        "title": "The US gets the worst phones",
+        "summary": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing the boundaries of mobile photography, software, and processing power. But over the last few years, they've sat back, content to iterate rather",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-04-24T13:25:49-04:00",
-        "source_url": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Pixel-Watch-4-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-04-25T07:00:00-04:00",
+        "source_url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268491_The_US_gets_the_worst_phones_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+        "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sat, 25 Apr 2026 09:30:00 +0000",
+        "source_url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+        "image_url": "https://media.wired.com/photos/69ea3dfba5897da10992cdf4/191:100/w_1280,c_limit/178826162",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Phage therapy case reveals hidden antibodies can block treatment of drug-resistant infections",
-        "summary": "A new treatment for patients with life-threatening infectious diseases is being pioneered in Melbourne by researchers at The Alfred and Monash University. VICPhage, a clinical partnership between The Alfred and Monash, is one of the first in Australia to offer end-to-end capacity in phage therapy to treat some of the m",
+        "title": "Next-generation KRAS G12C inhibitor elisrasib elicited promising response rates in patients with advanced lung cancer",
+        "summary": "Treatment with the investigational next-generation KRAS-G12C inhibitor elisrasib led to clinical benefit in patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) whose tumors harbored a KRAS G12C mutation and whose disease progressed after prior therapies, according to results presented at the",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 24 Apr 2026 19:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-phage-therapy-case-reveals-hidden.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-use-phage.jpg",
-        "impact": 5
-      },
-      {
-        "title": "New plan could speed Medicare coverage for innovative devices",
-        "summary": "A new proposal could make it easier for patients to access breakthrough medical devices through Medicare.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 24 Apr 2026 15:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-medicare-coverage-devices.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-plan-could-speed-m.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Gene therapy targets untreatable cystic fibrosis mutation affecting about 10% of patients",
-        "summary": "Cystic fibrosis is among the most common, known and studied genetic diseases. It affects over 100,000 people worldwide and reduces life expectancy mainly as it causes lung and respiratory problems. Over the years, scientific research has led to the development of several pharmacological therapies for this disease.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 24 Apr 2026 14:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-gene-therapy-untreatable-cystic-fibrosis.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/gene-mutation.jpg",
-        "impact": 4
-      },
-      {
-        "title": "In myasthenia gravis, surgical removal of the thymus gland proves to be effective and economical",
-        "summary": "In patients with myasthenia gravis, the surgical removal of the thymus gland, called thymectomy, added \"quality adjusted life years\" to patients and was also cost-effective in comparison to pharmacological treatment alone, according to a study published April 13 in JAMA Network Open. \"Quality adjusted life years\" are a",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 24 Apr 2026 13:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-myasthenia-gravis-surgical-thymus-gland.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/in-myasthenia-gravis-s.jpg",
+        "published_at": "Sat, 25 Apr 2026 16:30:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-generation-kras-g12c-inhibitor-elisrasib.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/patient-1.jpg",
         "impact": 4
       },
       {
@@ -170,6 +137,39 @@
         "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
+        "impact": 4
+      },
+      {
+        "title": "Hidden virus in your gut may be linked to colon cancer",
+        "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to ",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
+        "impact": 4
+      },
+      {
+        "title": "Two common drugs may reverse fatty liver disease, study finds",
+        "summary": "Scientists have discovered that combining two existing drugs can dramatically reduce liver fat linked to a common and often silent disease. The treatment not only improved liver health in animal models but also showed potential to lower heart-related risks. Interestingly, using lower doses of both drugs together worked",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 22 Apr 2026 00:51:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422003024.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
+        "impact": 4
+      },
+      {
+        "title": "This cheap drug could help people with type 1 diabetes use less insulin",
+        "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12% less insulin while",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 15 Apr 2026 23:50:27 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043628.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/metformin-pill.webp",
         "impact": 4
       }
     ],
@@ -289,15 +289,15 @@
     ],
     "astronomy": [
       {
-        "title": "NASA’s SPHEREx Telescope Just Mapped the Cosmic Ices That Will Someday Build Planets",
-        "summary": "New missions mean new capabilities - and one particularly interesting new mission is finally up and running. Data is starting to come in from SPHEREx, the medium-class surveyor that is mapping the entire sky every six months. A paper based on some of that early data was recently published in The Astrophysical Journal, ",
+        "title": "JWST Hunts for an 'Earth-Moon' Twin in a Habitable Zone, But the Star Has Other Plans",
+        "summary": "The Moon has played a huge role in the development of Earth. It stabilizes the planet, tempered dramatic climate swings, and possibly even provided the tidal heating that might have led to the first life forms. So it’s natural we would want to find a similar Earth/Luna system somewhere else in the cosmos. But astronome",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Mon, 20 Apr 2026 14:59:51 +0000",
-        "source_url": "https://www.universetoday.com/articles/nasas-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets",
-        "image_url": "https://www.universetoday.com/article_images/noao-cyg_x1_20260420_145949.jpg",
-        "impact": 5
+        "published_at": "Sat, 25 Apr 2026 02:08:51 +0000",
+        "source_url": "https://www.universetoday.com/articles/jwst-hunts-for-an-earth-moon-twin-in-a-habitable-zone-but-the-star-has-other-plans",
+        "image_url": "https://www.universetoday.com/article_images/TOI_700_System_Still_E_20260422_145346.jpg",
+        "impact": 4
       },
       {
         "title": "Two Worlds Where the Sun Never Moves",
@@ -346,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "Ecosystème D / Snøhetta + Santer Vanhoof",
+        "summary": "Rooted in the port landscape of Dunkirk, Écosystème D is an energy-positive building designed to serve as a catalyst for energy transition. Dedicated to innovation in renewable energy, it brings together an incubator, a technology hall, a training center, and a showroom under one roof. The entire structure is part of a",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 25 Apr 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040586/ecosysteme-d-snohetta-plus-santer-vanhoof",
+        "image_url": "https://images.adsttc.com/media/images/69dc/5525/adbb/f701/8b64/5198/large_jpg/ecosysteme-d-snohetta-plus-santer-vanhoof_6.jpg?1776047413",
+        "impact": 5
+      },
+      {
         "title": "The Bass Museum of Art Commissions Johnston Marklee for Campus Expansion in Collins Park, Miami Beach",
         "summary": "The Bass Museum of Art has appointed the Los Angeles-based architecture practice Johnston Marklee to lead the expansion of its campus in Collins Park, Miami Beach, advancing a long-term vision that integrates architecture, landscape, and contemporary art. Founded in 1964 following the donation of the John and Johanna B",
         "category": "Architecture",
@@ -387,17 +398,6 @@
         "published_at": "Thu, 16 Apr 2026 16:00:24 +0000",
         "source_url": "https://www.dezeen.com/2026/04/16/texas-convention-centres-urban-development-mazade/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/texas-convention-center-architecture-renderings-feature_dezeen_2364_sq1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Flower-covered theatre forms centrepiece of Denise Scott Brown's photography exhibition",
-        "summary": "A flower-covered theatre has been installed at the centre of an exhibition dedicated to architect Denise Scott Brown's photographs at the brutalist Yale architecture school building in New Haven, USA. Set within the Paul Rudolph-designed architecture school, Encounters: Denise Scott Brown Photographs aims to draw atten",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 15 Apr 2026 19:00:52 +0000",
-        "source_url": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
-        "image_url": "https://static.dezeen.com/uploads/2026/04/encounters-denise-scott-brown-exhibition-yale-architecture-gallery_dezeen_2364_hero_18.jpg",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "The AI Telco Engineer: Toward Autonomous Discovery of Wireless Communications Algorithms",
-        "summary": "arXiv:2604.19803v1 Announce Type: new Abstract: Agentic AI is rapidly transforming the way research is conducted, from prototyping ideas to reproducing results found in the literature. In this paper, we explore the ability of agentic AI to autonomously design wireless communication algorithms. To that end, we implement",
+        "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+        "summary": "arXiv:2604.20987v1 Announce Type: new Abstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.19803",
+        "published_at": "Sat, 25 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.20987",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Emergence Transformer: Dynamical Temporal Attention Matters",
-        "summary": "arXiv:2604.19816v1 Announce Type: new Abstract: The Transformer, a breakthrough architecture in artificial intelligence, owes its success to the attention mechanism, which utilizes long-range interactions in sequential data, enabling the emergent coherence between large language models (LLMs) and data distributions. Ho",
+        "title": "FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation",
+        "summary": "arXiv:2604.21420v1 Announce Type: new Abstract: Quality Estimation (QE) aims to assess machine translation quality without reference translations, but recent studies have shown that existing QE models exhibit systematic gender bias. In particular, they tend to favor masculine realizations in gender-ambiguous contexts a",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.19816",
+        "published_at": "Sat, 25 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.21420",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data",
-        "summary": "arXiv:2604.20261v1 Announce Type: new Abstract: Automated feature generation extracts informative features from raw tabular data without manual intervention and is crucial for accurate, generalizable machine learning. Traditional methods rely on predefined operator libraries and cannot leverage task semantics, limiting",
+        "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
+        "summary": "arXiv:2604.21480v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as customer-facing agents, yet evaluating their reliability remains challenging due to stochastic, multi-turn interactions. Current evaluation protocols rely on linear Monte Carlo rollouts of complete agent-user conve",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.20261",
+        "published_at": "Sat, 25 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.21480",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
-        "summary": "arXiv:2604.19761v1 Announce Type: new Abstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its weights. Although highly successful, this paradigm is too narrow for many structured prediction problems, where the main bottleneck is not param",
+        "title": "The next evolution of the Agents SDK",
+        "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.19761",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 15 Apr 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
+        "impact": 4
       },
       {
-        "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
-        "summary": "arXiv:2604.19775v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed as autonomous agents capable of reasoning, planning, and acting within interactive environments. Despite their growing capability to perform multi-step reasoning and decision-making tasks, internal mechanisms guiding ",
+        "title": "Agent orchestration",
+        "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs&#8230;",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.19775",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Tue, 21 Apr 2026 20:45:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/orchestrationC-thumb.jpg?resize=1200,600",
+        "impact": 4
       }
     ]
   }
