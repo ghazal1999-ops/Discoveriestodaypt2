@@ -1,19 +1,8 @@
 {
-  "date": "2026-04-25",
-  "last_updated": "2026-04-25 23:36 UTC",
+  "date": "2026-04-26",
+  "last_updated": "2026-04-26 23:36 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Breakthrough discovery reveals hidden oxygen flow deep inside catalysts",
-        "summary": "A major discovery is reshaping how scientists think about catalysts. Researchers have, for the first time, captured oxygen atoms moving through the interior of a catalyst—not just along its surface. This reveals that the bulk material can actively participate in reactions, opening a new frontier in catalyst design. The",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 21 Apr 2026 04:13:24 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260420014736.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/interface-controlled-bulk-oxygen-spillover.webp",
-        "impact": 5
-      },
       {
         "title": "This donut-shaped discovery just shattered a 150-year math rule",
         "summary": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured locally but are actually different overall. For decades, researchers suspected this might be possible but couldn’t prove it—until now. The breakthrough reshapes how mathem",
@@ -34,6 +23,17 @@
         "published_at": "Tue, 21 Apr 2026 08:39:12 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042808.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/femtosecond-imaging-illustration.webp",
+        "impact": 5
+      },
+      {
+        "title": "Mezcal worm in a bottle DNA test reveals a surprise",
+        "summary": "The famous mezcal “worm” has long puzzled scientists, but DNA testing has finally cracked the case. Researchers found that all sampled larvae were actually agave redworm moth caterpillars—not a mix of species as once believed. While the discovery clears up a long-standing mystery, it also raises concerns about sustaina",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 26 Apr 2026 09:34:14 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012250.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/mezcal-worm-bottle-mexico.webp",
         "impact": 5
       },
       {
@@ -60,6 +60,28 @@
       }
     ],
     "tech": [
+      {
+        "title": "New robotic control software avoids jamming their joints",
+        "summary": "Software lets robots learn from each other even if they have different hardware.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Sun, 26 Apr 2026 11:09:29 +0000",
+        "source_url": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-1152x648.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpeakOn’s dictation device is a good idea marred by platform limitations",
+        "summary": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 26 Apr 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/SpeakOn-feat.jpg?resize=1200,675",
+        "impact": 3
+      },
       {
         "title": "Why Tokyo is the most important tech destination of 2026",
         "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
@@ -92,31 +114,20 @@
         "source_url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266940912.jpg?resize=1200,800",
         "impact": 3
-      },
-      {
-        "title": "The US gets the worst phones",
-        "summary": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing the boundaries of mobile photography, software, and processing power. But over the last few years, they've sat back, content to iterate rather",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-04-25T07:00:00-04:00",
-        "source_url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268491_The_US_gets_the_worst_phones_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
-        "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Sat, 25 Apr 2026 09:30:00 +0000",
-        "source_url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
-        "image_url": "https://media.wired.com/photos/69ea3dfba5897da10992cdf4/191:100/w_1280,c_limit/178826162",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Weight-loss drugs could tackle Alzheimer's—study",
+        "summary": "A new study has found comprehensive evidence that \"weight-loss\" GLP-1 receptor agonists such as semaglutide are effective in tackling the biological drivers of Alzheimer's disease. The study, published in the journal Molecular and Cellular Neuroscience, examined 30 preclinical studies investigating the effects of four ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 26 Apr 2026 12:30:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-weight-loss-drugs-tackle-alzheimer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/weight-loss-drugs-coul.jpg",
+        "impact": 4
+      },
       {
         "title": "Next-generation KRAS G12C inhibitor elisrasib elicited promising response rates in patients with advanced lung cancer",
         "summary": "Treatment with the investigational next-generation KRAS-G12C inhibitor elisrasib led to clinical benefit in patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) whose tumors harbored a KRAS G12C mutation and whose disease progressed after prior therapies, according to results presented at the",
@@ -159,17 +170,6 @@
         "published_at": "Wed, 22 Apr 2026 00:51:12 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260422003024.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
-        "impact": 4
-      },
-      {
-        "title": "This cheap drug could help people with type 1 diabetes use less insulin",
-        "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12% less insulin while",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 15 Apr 2026 23:50:27 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043628.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/metformin-pill.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 4
       },
       {
+        "title": "The 'Oscars of Science': Breakthrough Prize 2026 awards over $18 million for discoveries across space, physics and more",
+        "summary": "The 2026 Breakthrough Prize honored advances in dark matter, quantum physics, gene editing and nonlinear mathematics.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 26 Apr 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/technology/the-oscars-of-science-breakthrough-prize-2026-awards-over-usd18-million-for-discoveries-across-space-physics-and-more",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/NJDws8rLJ9tQv5PYEDXxSi-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Ice melts in the springtime on Mars | Space photo of the day for April 24, 2026",
         "summary": "Springtime has arrived at the Red Planet's Chasma Boreale, as this photo by NASA's Mars Reconnaissance Orbiter shows.",
         "category": "Space",
@@ -274,20 +285,20 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-eight-japanese-satellites-kakushin-rising-mission",
         "image_url": "https://cdn.mos.cms.futurecdn.net/tsV2CYKLAGQVAGJpzNMftS-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "Celebrate Earth Day with this Artemis 2 shot | Space photo of the day for April 22, 2026",
-        "summary": "Celebrating Earth Day with an image of Earth captured by NASA's Artemis 2 mission around the moon.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 22 Apr 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/earth/celebrate-earth-day-with-this-artemis-2-shot-space-photo-of-the-day-for-april-22-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/eMKcvfQDeH9sSfiyVWHoV9-1280-80.webp",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "The Planet Haul That Changes Everything.",
+        "summary": "NASA's planet hunting telescope has been busy. A new study has just sifted through the light of over 83 million stars and emerged with more than 11,000 potential worlds, including a confirmed giant planet orbiting a distant star. The results don't just add to our catalogue of planets. They fundamentally change where we",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sun, 26 Apr 2026 21:43:29 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-planet-haul-that-changes-everything",
+        "image_url": "https://www.universetoday.com/article_images/1280px-TESS_alone_high_res_20260426_213943.jpg",
+        "impact": 4
+      },
       {
         "title": "JWST Hunts for an 'Earth-Moon' Twin in a Habitable Zone, But the Star Has Other Plans",
         "summary": "The Moon has played a huge role in the development of Earth. It stabilizes the planet, tempered dramatic climate swings, and possibly even provided the tidal heating that might have led to the first life forms. So it’s natural we would want to find a similar Earth/Luna system somewhere else in the cosmos. But astronome",
@@ -331,17 +342,6 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/catching-the-earliest-stars-in-the-universe/",
         "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Astronomers Find the Edge of the Milky Way",
-        "summary": "Astronomers have located the edge of the Milky Way’s star-forming disk for the first time, showing that star formation is focused within 40,000 light-years of our galactic center. The post Astronomers Find the Edge of the Milky Way appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 21 Apr 2026 16:12:02 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
-        "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
-        "impact": 4
       }
     ],
     "architecture": [
@@ -355,17 +355,6 @@
         "source_url": "https://www.archdaily.com/1040586/ecosysteme-d-snohetta-plus-santer-vanhoof",
         "image_url": "https://images.adsttc.com/media/images/69dc/5525/adbb/f701/8b64/5198/large_jpg/ecosysteme-d-snohetta-plus-santer-vanhoof_6.jpg?1776047413",
         "impact": 5
-      },
-      {
-        "title": "The Bass Museum of Art Commissions Johnston Marklee for Campus Expansion in Collins Park, Miami Beach",
-        "summary": "The Bass Museum of Art has appointed the Los Angeles-based architecture practice Johnston Marklee to lead the expansion of its campus in Collins Park, Miami Beach, advancing a long-term vision that integrates architecture, landscape, and contemporary art. Founded in 1964 following the donation of the John and Johanna B",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 24 Apr 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1040912/the-bass-museum-of-art-commissions-johnston-marklee-for-campus-expansion-in-collins-park-miami-beach",
-        "image_url": "https://images.adsttc.com/media/images/69ea/2cd5/ab8e/1901/89cf/6aa8/large_jpg/the-bass-museum-of-art-commissions-johnston-marklee-for-campus-expansion-in-collins-park_4.jpg?1776954631",
-        "impact": 4
       },
       {
         "title": "Diamond Schmitt and MVRDV reveal design of terraced research building for University of Toronto",
@@ -398,6 +387,17 @@
         "published_at": "Thu, 16 Apr 2026 16:00:24 +0000",
         "source_url": "https://www.dezeen.com/2026/04/16/texas-convention-centres-urban-development-mazade/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/texas-convention-center-architecture-renderings-feature_dezeen_2364_sq1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "rammed earth finned facade wraps adjaye associates’ studio in accra, ghana",
+        "summary": "a monolithic structure of rammed earth and low-carbon concrete defines the building. The post rammed earth finned facade wraps adjaye associates’ studio in accra, ghana appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 23 Apr 2026 13:00:31 +0000",
+        "source_url": "https://www.designboom.com/architecture/rammed-earth-finned-facade-david-adjaye-associates-studio-accra-ghana/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/accra-studio-david-adjaye-associates-monolithic-rammed-earth-concrete-facade-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -436,17 +436,6 @@
         "impact": 4
       },
       {
-        "title": "Thousands of engineers receiving pay rise after industrial action threat",
-        "summary": "Thousands of engineering construction workers will receive a 4.5% pay increase from May. The post Thousands of engineers receiving pay rise after industrial action threat appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 24 Apr 2026 11:39:43 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/thousands-of-engineers-receiving-pay-rise-after-industrial-action-threat-24-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2016/02/energy_nuclear_power_sizewell_b_power_station_bcia_01_070628.jpg",
-        "impact": 4
-      },
-      {
         "title": "Water, sewer contractor and major homebuilder make ‘Dirty Dozen’ list",
         "summary": "Revoli Construction and D.R. Horton were among major safety offenders highlighted in a list by the National Council for Occupational Safety and Health.",
         "category": "Construction",
@@ -456,42 +445,20 @@
         "source_url": "https://www.constructiondive.com/news/contractor-major-homebuilder-dirty-dozen-safety/818465/",
         "image_url": "https://imgproxy.divecdn.com/28W7MmO0I40JRUNtdgLB4Q0p7qlyQzciSmfQVoi7NHw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04OTg4Nzk3MS5qcGc=.webp",
         "impact": 3
+      },
+      {
+        "title": "Messer Construction breaks ground on $280M university health building",
+        "summary": "The six-story, 257,000-square-foot health education facility will feature modular teaching spaces for multiple professions. Construction will finish in 2029.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 24 Apr 2026 12:04:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/messer-construction-university-louisville-health-building/818435/",
+        "image_url": "https://imgproxy.divecdn.com/lqKGrI9qB4VmW9Grz8_DPyvkr_wkNSjLfDXw-fTN5gU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Vb2ZMX0hTQ18tX1ByaW1hcnlfUmVuZGVyX25vX2xvZ28ud2VicA==.webp",
+        "impact": 3
       }
     ],
     "ai": [
-      {
-        "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-        "summary": "arXiv:2604.20987v1 Announce Type: new Abstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 25 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.20987",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation",
-        "summary": "arXiv:2604.21420v1 Announce Type: new Abstract: Quality Estimation (QE) aims to assess machine translation quality without reference translations, but recent studies have shown that existing QE models exhibit systematic gender bias. In particular, they tend to favor masculine realizations in gender-ambiguous contexts a",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 25 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.21420",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
-        "summary": "arXiv:2604.21480v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as customer-facing agents, yet evaluating their reliability remains challenging due to stochastic, multi-turn interactions. Current evaluation protocols rely on linear Monte Carlo rollouts of complete agent-user conve",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 25 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.21480",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
       {
         "title": "The next evolution of the Agents SDK",
         "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
@@ -512,6 +479,39 @@
         "published_at": "Tue, 21 Apr 2026 20:45:00 +0000",
         "source_url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/orchestrationC-thumb.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+        "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 22 Apr 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "Introducing OpenAI Privacy Filter",
+        "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 22 Apr 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/introducing-openai-privacy-filter",
+        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "Introducing GPT-Rosalind for life sciences research",
+        "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 16 Apr 2026 01:00:00 GMT",
+        "source_url": "https://openai.com/index/introducing-gpt-rosalind",
+        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
         "impact": 4
       }
     ]
