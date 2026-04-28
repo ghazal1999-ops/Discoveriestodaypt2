@@ -1,28 +1,39 @@
 {
-  "date": "2026-04-27",
-  "last_updated": "2026-04-27 23:51 UTC",
+  "date": "2026-04-28",
+  "last_updated": "2026-04-28 23:54 UTC",
   "categories": {
     "science": [
       {
-        "title": "This donut-shaped discovery just shattered a 150-year math rule",
-        "summary": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured locally but are actually different overall. For decades, researchers suspected this might be possible but couldn’t prove it—until now. The breakthrough reshapes how mathem",
+        "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+        "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This br",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 01:49:13 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/breaking-bonnets-rule.webp",
+        "published_at": "Tue, 28 Apr 2026 09:35:37 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/positronium-beam-quantum-matter-wave.webp",
         "impact": 5
       },
       {
-        "title": "Specially designed material combines light and electricity to remove PFAS from water without harmful byproducts",
-        "summary": "Researchers at Clarkson University have reported a breakthrough in tackling per- and polyfluoroalkyl substances (PFAS), a group of widely used \"forever chemicals\" that are difficult to remove from water and have raised growing environmental and public health concerns. The study, published in Nature Communications, was ",
+        "title": "Light can now be shaped in empty space, and it could simplify sensing and boost data links",
+        "summary": "Scientists at the University of East Anglia have uncovered a hidden property of light that allows it to twist, spin and behave differently—without mirrors, materials or special lenses. In a breakthrough that could transform medical testing, data transmission and future quantum technologies, researchers from the UK and ",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Mon, 27 Apr 2026 16:10:01 EDT",
-        "source_url": "https://phys.org/news/2026-04-specially-material-combines-electricity-pfas.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-material-combines.jpg",
+        "published_at": "Tue, 28 Apr 2026 17:50:01 EDT",
+        "source_url": "https://phys.org/news/2026-04-space-boost-links.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-su.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Urban birds fear women more than men, and scientists don't know why",
+        "summary": "An international team of researchers have made the surprising discovery that urban birds—such as great tits, house sparrows and blackbirds—flee sooner when approached by women compared to men. But they don't understand why. Conducted across five European countries, the study involved male and female participants (match",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 28 Apr 2026 17:40:06 EDT",
+        "source_url": "https://phys.org/news/2026-04-urban-birds-women-men-scientists.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-birds-fear-women.jpg",
         "impact": 5
       },
       {
@@ -46,17 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/superconductor-electron-pairs.webp",
         "impact": 5
-      },
-      {
-        "title": "Mezcal worm in a bottle DNA test reveals a surprise",
-        "summary": "The famous mezcal “worm” has long puzzled scientists, but DNA testing has finally cracked the case. Researchers found that all sampled larvae were actually agave redworm moth caterpillars—not a mix of species as once believed. While the discovery clears up a long-standing mystery, it also raises concerns about sustaina",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 26 Apr 2026 09:34:14 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012250.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/mezcal-worm-bottle-mexico.webp",
-        "impact": 5
       }
     ],
     "tech": [
@@ -72,71 +72,60 @@
         "impact": 4
       },
       {
-        "title": "New robotic control software avoids jamming their joints",
-        "summary": "Software lets robots learn from each other even if they have different hardware.",
+        "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
+        "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Sun, 26 Apr 2026 11:09:29 +0000",
-        "source_url": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-1152x648.jpg",
-        "impact": 4
-      },
-      {
-        "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech",
-        "summary": "Governments across Europe are looking to rely less on American tech providers.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 27 Apr 2026 14:17:59 +0000",
-        "source_url": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2232869668.jpg?resize=1200,800",
+        "published_at": "Tue, 28 Apr 2026 18:01:36 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2272048837-2560x1440.jpg",
         "impact": 3
       },
       {
-        "title": "Critical infrastructure giant Itron says it was hacked",
-        "summary": "The American technology giant provides water and energy monitoring and utility meters to hundreds of millions of homes and businesses.",
+        "title": "Start with the sensors, then design the rest: How Zoox built its robotaxi",
+        "summary": "The bidirectional design has some clear advantages for a working taxi.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 27 Apr 2026 13:03:36 +0000",
-        "source_url": "https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/gas-itron-meter-2220610114.jpg?resize=1200,823",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 28 Apr 2026 11:20:49 +0000",
+        "source_url": "https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Zoox-Las-Vegas-6-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "SpeakON’s dictation device is a good idea marred by platform limitations",
-        "summary": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps.",
+        "title": "Taylor Swift is stepping up the legal war on AI copycats",
+        "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 26 Apr 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/SpeakOn-feat.jpg?resize=1200,675",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-04-28T16:30:00-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
+        "summary": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a “flood” of new third-party hardware this year and next.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Tue, 28 Apr 2026 13:00:00 +0000",
+        "source_url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
+        "image_url": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Repurposed cancer drugs may help repair gut barrier in Crohn's disease",
-        "summary": "University of Houston biologists have contributed to a potential breakthrough in treating Crohn's disease by shifting the clinical focus from symptom management to addressing a primary underlying cause of the condition. Crohn's disease, a chronic inflammatory bowel disease affecting approximately a million Americans, i",
+        "title": "From gut to brain: Scientists engineer bacteria to treat severe liver-related brain dysfunction",
+        "summary": "When the liver fails, toxins—such as ammonia—that should be filtered from the blood build up and reach the brain. The result is hepatic encephalopathy (HE), a devastating neurological complication of liver disease that can cause anxiety, confusion, memory loss and, in severe cases, coma. HE is a common endpoint of live",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 27 Apr 2026 15:40:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-repurposed-cancer-drugs-gut-barrier.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-p-2.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Umbilical cord blood transplant with pooled stem cell product shows 96% survival and no GVHD in leukemia patients",
-        "summary": "A new way of using umbilical cord blood for treating blood diseases could make the treatment more accessible to patients who need a stem cell transplant. A Phase II clinical trial of patients undergoing a cord blood transplant plus a stem cell product derived from pooled cord blood units showed that 27 of 28 patients (",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 27 Apr 2026 16:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-umbilical-cord-blood-transplant-pooled.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/umbilical-cord-blood.jpg",
+        "published_at": "Tue, 28 Apr 2026 16:00:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-gut-brain-scientists-bacteria-severe.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-gut-to-brain-scie-1.jpg",
         "impact": 4
       },
       {
@@ -170,6 +159,17 @@
         "published_at": "Wed, 22 Apr 2026 00:51:12 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260422003024.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
+        "impact": 4
+      },
+      {
+        "title": "This cheap drug could help people with type 1 diabetes use less insulin",
+        "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12% less insulin while",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 15 Apr 2026 23:50:27 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043628.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/metformin-pill.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,28 @@
         "impact": 5
       },
       {
+        "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
+        "summary": "A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and at power levels exceeding any previous test in the United States, a team fired up",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 28 Apr 2026 16:18:34 +0000",
+        "source_url": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/",
+        "image_url": "https://www.youtube.com/embed/6XsqSA9tNfY",
+        "impact": 4
+      },
+      {
+        "title": "NASA Laser Terminal Enhances Views During Artemis II Mission",
+        "summary": "Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen ventured farther into space than any human before. Part of the publ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 28 Apr 2026 16:10:25 +0000",
+        "source_url": "https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/o2o.jpg",
+        "impact": 4
+      },
+      {
         "title": "The 'Oscars of Science': Breakthrough Prize 2026 awards over $18 million for discoveries across space, physics and more",
         "summary": "The 2026 Breakthrough Prize honored advances in dark matter, quantum physics, gene editing and nonlinear mathematics.",
         "category": "Space",
@@ -254,40 +276,29 @@
         "impact": 4
       },
       {
-        "title": "Ice melts in the springtime on Mars | Space photo of the day for April 24, 2026",
-        "summary": "Springtime has arrived at the Red Planet's Chasma Boreale, as this photo by NASA's Mars Reconnaissance Orbiter shows.",
+        "title": "Curiosity Captures a 360-Degree View at ‘Nevado Sajama’",
+        "summary": "Description NASA’s Curiosity Mars rover captured this 360-degree view of a region filled with low ridges called boxwork formations between Nov. 9 and Dec. 7, 2025 (the 4,714th to 4,741st Martian days, or sols, of the mission). At 1.5 billion pixels, this is one of the largest panoramas Curiosity has ever taken (the rov",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 24 Apr 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/ice-melts-in-the-springtime-on-mars-space-photo-of-the-day-for-april-24-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/FBpyTzBvporeGS5cmAgGBU-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Watch Atlas V rocket launch 29 Amazon internet satellites to orbit today",
-        "summary": "A United Launch Alliance Atlas V rocket is scheduled to launch 29 of Amazon's internet satellites tonight (April 27), and you can watch it live.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 27 Apr 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-launch-amazon-la-06-satellite-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/QPVFtrqYtEsZYNigLTt26S-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "1st SpaceX Falcon Heavy launch in 18 months delayedby bad weather",
-        "summary": "SpaceX will launch its Falcon Heavy rocket for the first time in 18 months on Wednesday morning (April 29), and you can watch the dramatic action live.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 26 Apr 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/AX8WMXFCRULoURTdX4FrFn-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Tue, 28 Apr 2026 17:08:24 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/curiosity-captures-a-360-degree-view-at-nevado-sajama/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26696/PIA26696.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "Could Light Alone Get Us to Another Star?",
+        "summary": "Using nothing but a laser beam, scientists at Texas A&amp;M University have demonstrated that tiny engineered devices can be lifted and steered in three dimensions without any physical contact. This breakthrough could one day form the basis of a propulsion system capable of reaching our nearest neighbouring stars in de",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 28 Apr 2026 09:43:36 +0000",
+        "source_url": "https://www.universetoday.com/articles/could-light-alone-get-us-to-another-star",
+        "image_url": "https://www.universetoday.com/article_images/Low-Res_News-MEEN-Metajets2-16April2026_20260428_094327.jpg",
+        "impact": 4
+      },
       {
         "title": "The Planet Haul That Changes Everything.",
         "summary": "NASA's planet hunting telescope has been busy. A new study has just sifted through the light of over 83 million stars and emerged with more than 11,000 potential worlds, including a confirmed giant planet orbiting a distant star. The results don't just add to our catalogue of planets. They fundamentally change where we",
@@ -311,51 +322,29 @@
         "impact": 4
       },
       {
-        "title": "Two Worlds Where the Sun Never Moves",
-        "summary": "One side is scorched to over 200 degrees, while the other is plunged into a darkness so cold it falls below minus 200. Welcome to TRAPPIST-1b and 1c, two rocky worlds that have just revealed the first ever climate maps of Earth sized planets beyond our Solar System. The James Webb Space Telescope has been watching, and",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 23 Apr 2026 10:50:09 +0000",
-        "source_url": "https://www.universetoday.com/articles/two-worlds-where-the-sun-never-moves",
-        "image_url": "https://www.universetoday.com/article_images/1280px-PIA21424_-_The_TRAPPIST-1_Habitable_Zone_20260423_104949.jpg",
-        "impact": 4
-      },
-      {
-        "title": "James Webb Space Telescope peers into a dying star surrounded by mysterious buckyballs: 'The structures we're seeing now are breathtaking'",
-        "summary": "The James Webb Space Telescope captured the first detailed images of planetary nebula Tc 1, revealing new details of what happens after a sun-like star dies.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 23 Apr 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/james-webb-space-telescope-peers-into-a-dying-star-surrounded-by-mysterious-buckyballs-the-structures-were-seeing-now-are-breathtaking",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/nK6J9xD4baumF6sCv82Vom-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Voyager 1 Shuts Down Another Instrument",
-        "summary": "Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. On April 17th, controllers turned [&#8230;] The post Voyager 1 Shuts Down Another Instrument appeared first on Sky &amp; Telescope.",
+        "title": "Catching the Earliest Stars in the Universe",
+        "summary": "New observations from the James Webb Space Telescope might have caught the signature of the universe's first stars. The post Catching the Earliest Stars in the Universe appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
         "journal": "skyandtelescope.org",
-        "published_at": "Mon, 27 Apr 2026 17:57:22 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/",
+        "published_at": "Fri, 24 Apr 2026 13:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/catching-the-earliest-stars-in-the-universe/",
+        "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "Astronomers Find the Edge of the Milky Way",
+        "summary": "Astronomers have located the edge of the Milky Way’s star-forming disk for the first time, showing that star formation is focused within 40,000 light-years of our galactic center. The post Astronomers Find the Edge of the Milky Way appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Tue, 21 Apr 2026 16:12:02 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
         "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
         "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "STARTT Designs New Access to the Archaeological Areas Behind the Pantheon in Rome",
-        "summary": "The Pantheon in Rome is globally known as a major tourist and architectural icon, a built testimony to both Greek culture and Roman technique, and a symbol of the Roman Empire. The monument was recently intervened upon by the Italian architecture studio STARTT (Studio of Architecture and Territorial Transformations). T",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 27 Apr 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1040964/startt-designs-new-access-to-the-archaeological-areas-behind-the-pantheon-in-rome",
-        "image_url": "https://images.adsttc.com/media/images/69ee/a342/e2d9/9109/703c/ed27/large_jpg/startt-opens-new-access-into-the-archeological-areas-behind-the-pantheon-in-rome_5.jpg?1777247076",
-        "impact": 4
-      },
       {
         "title": "Diamond Schmitt and MVRDV reveal design of terraced research building for University of Toronto",
         "summary": "Architecture studios Diamond Schmitt, MVRDV and Two Row Architect have revealed the design for the Temerty Building at the University of Toronto, a research building informed by Indigenous design principles. The building will be located on the edge of a campus lawn at the University of Toronto St George campus and host",
@@ -379,38 +368,60 @@
         "impact": 4
       },
       {
-        "title": "Climate and Collective Use: Architectural Permeability in Latin America",
-        "summary": "Architecture is often understood as a matter of enclosure. Walls define space, separating interior from exterior and establishing clear limits. Yet across many projects in Latin America, this distinction becomes less precise. Rather than operating as closed objects, buildings often remain open, allowing air, light, and",
+        "title": "Ameba Branch / BAUEN",
+        "summary": "A bank is not a building: it is an agreement, an ecosystem of trust. The amoeba is born from this idea: roofs that float, made of thousands of bricks that, together, raise something much greater. An open architecture, without hierarchies, honest and accessible from all sides. A living surface that breathes with the cli",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 27 Apr 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040890/climate-and-collective-use-architectural-permeability-in-latin-america",
-        "image_url": "https://images.adsttc.com/media/images/69e9/8994/1afd/706e/415e/4783/large_jpg/how-space-stays-open-architecture-in-latin-america_2.jpg?1776912797",
+        "published_at": "Tue, 28 Apr 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040446/ameba-branch-bauen",
+        "image_url": "https://images.adsttc.com/media/images/69c1/1fb2/015c/4f00/015c/560e/large_jpg/02__Ameba_EEUU___Renato_Duria.jpg?1774264309",
         "impact": 4
       },
       {
-        "title": "Pomona House / Hive Architecture",
-        "summary": "From the outset, the design of this Pomona residence was shaped by a shared appreciation between architect and client for the extraordinary landscape that defines the site. The ambition was straightforward but meaningful — to create a home of careful craft and quiet confidence; one that belongs to its setting rather th",
+        "title": "UIA 2026 Barcelona Announces Full Program, Detailing Formats, Exhibitions, and City-Wide Itineraries",
+        "summary": "The UIA World Congress of Architects 2026 Barcelona has released its full program, outlining the structure, participants, and range of activities scheduled to take place from June 28 to July 2, 2026. Expanding on the previously introduced theme, Becoming. Architectures for a Planet in Transition, the Congress is concei",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 27 Apr 2026 03:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040866/pomona-house-hive-architecture",
-        "image_url": "https://images.adsttc.com/media/images/69e8/c6eb/1afd/706e/415e/44a9/large_jpg/pomona-house-hive-architecture_1.jpg?1776862975",
+        "published_at": "Tue, 28 Apr 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041025/uia-2026-barcelona-announces-full-program-detailing-formats-exhibitions-and-city-wide-itineraries",
+        "image_url": "https://images.adsttc.com/media/images/69f0/7916/e0a7/c201/892c/a428/large_jpg/uia-2026-barcelona-announces-full-program-detailing-formats-exhibitions-and-city-wide-itineraries_1.jpg?1777367326",
+        "impact": 4
+      },
+      {
+        "title": "Bofill Taller de Arquitectura Unveils Landscape-Inspired Resort in Dhërmi, Albania",
+        "summary": "Bofill Taller de Arquitectura has revealed the final images of a new resort in Dhërmi, Albania, currently under construction. The project was first announced in 2024, in the context of the numerous developments proposed across the country over the past decade. This time, the project is neither a skyscraper nor an insti",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 28 Apr 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041015/bofill-taller-de-arquitectura-unveils-landscape-inspired-resort-in-dhermi-albania",
+        "image_url": "https://images.adsttc.com/media/images/69f0/19a4/c748/9401/89fb/8b66/large_jpg/bofill-taller-de-arquitectura-starts-construction-of-landscape-inspired-resort-in-dhermi-albania_11.jpg?1777342967",
         "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Zachry Construction names new president, keeps focus on water projects",
-        "summary": "Travis Mross, who started as an intern at the San Antonio-based builder, takes the role as demand for water infrastructure rises.",
+        "title": "Free entry deadline approaches for BCIA 2026 as last year’s winners set benchmark for excellence",
+        "summary": "Civil engineering and infrastructure teams have just days left to submit entries for the British Construction &amp; Infrastructure Awards (BCIA) 2026, with the free entry deadline closing on Friday 1 May. The post Free entry deadline approaches for BCIA 2026 as last year’s winners set benchmark for excellence appeared ",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 28 Apr 2026 05:30:56 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/free-entry-deadline-approaches-for-bcia-2026-as-last-years-winners-set-benchmark-for-excellence-28-04-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/emap_BCIA2025-26-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Kiewit ‘off-ramped’ from Baltimore’s Key Bridge rebuild",
+        "summary": "The Maryland Transportation Authority informed the firm Tuesday that it would not be retained for the next phase of the project&rsquo;s construction, which has seen its cost balloon.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 24 Apr 2026 08:37:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/zachry-construction-president-water-infrastructure/818317/",
-        "image_url": "https://imgproxy.divecdn.com/GWjAw0eKfIaaN-szJqi470OJNMAXUqinNdhwGjySreE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5sYXBfMjAyMy0wNjc3LmpwZw==.webp",
+        "published_at": "Tue, 28 Apr 2026 16:23:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/kiewit-out-baltimore-key-bridge-rebuild-design-build/818749/",
+        "image_url": "https://imgproxy.divecdn.com/PQW0pN-NKEQxnZRN7fWft8OQXlMbpssJm50qU0NLchw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU3MTQ3MzE2LmpwZw==.webp",
         "impact": 4
       },
       {
@@ -436,25 +447,14 @@
         "impact": 4
       },
       {
-        "title": "TfL signs £99.1M bridges and civil structures maintenance contract with M Group",
-        "summary": "A £99.1m programme to maintain critical civil infrastructure across London’s transport network has been agreed between Transport for London (TfL) and M Group Transport (Rail &amp; Aviation). The post TfL signs £99.1M bridges and civil structures maintenance contract with M Group appeared first on New Civil Engineer.",
+        "title": "Tees Transporter Bridge listed among UK’s most at-risk structures",
+        "summary": "The 1911 Tees Transporter Bridge has been included on this year’s Top 10 Endangered Buildings list published by the Victorian Society, highlighting the scale of repair challenges facing ageing infrastructure assets. The post Tees Transporter Bridge listed among UK’s most at-risk structures appeared first on New Civil E",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Mon, 27 Apr 2026 14:18:23 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/tfl-signs-99-1m-bridges-and-civil-structures-maintenance-contract-with-m-group-27-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2016/10/London-Bridge-New-tracks-laid-at-the-BDU.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Deadline extension: Inspiring Women in Construction and Engineering Awards 2026",
-        "summary": "The deadline for entries for the 2026 Inspiring Women in Construction and Engineering Awards has been extended by two weeks. The post Deadline extension: Inspiring Women in Construction and Engineering Awards 2026 appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Mon, 27 Apr 2026 10:55:31 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/deadline-extension-inspiring-women-in-construction-and-engineering-awards-2026-27-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/03/inspiring-women-in-construction-and-engineering-2024-company-of-the-year-iwice-560x315.jpg",
+        "published_at": "Tue, 28 Apr 2026 13:27:52 +0000",
+        "source_url": "https://www.newcivilengineer.com/ageing-assets/tees-transporter-bridge-listed-among-uks-most-at-risk-structures-28-04-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2024/01/tees-transporter-bridge-rsz-560x315.jpg",
         "impact": 4
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+        "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.21965",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+        "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.22119",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,10 +487,21 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+        "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.22273",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
+      },
+      {
+        "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+        "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/openai-on-aws",
+        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
+        "impact": 4
       },
       {
         "title": "The next evolution of the Agents SDK",
@@ -501,17 +512,6 @@
         "published_at": "Wed, 15 Apr 2026 10:00:00 GMT",
         "source_url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
         "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
-        "summary": "arXiv:2604.21935v1 Announce Type: new Abstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reasoning or statistical pattern matching over learning formal syntax. Most existing evaluations rely on symbolic problems gr",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.21935",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 4
       }
     ]
