@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-28",
-  "last_updated": "2026-04-28 23:54 UTC",
+  "date": "2026-04-29",
+  "last_updated": "2026-04-29 23:53 UTC",
   "categories": {
     "science": [
       {
@@ -15,39 +15,6 @@
         "impact": 5
       },
       {
-        "title": "Light can now be shaped in empty space, and it could simplify sensing and boost data links",
-        "summary": "Scientists at the University of East Anglia have uncovered a hidden property of light that allows it to twist, spin and behave differently—without mirrors, materials or special lenses. In a breakthrough that could transform medical testing, data transmission and future quantum technologies, researchers from the UK and ",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Tue, 28 Apr 2026 17:50:01 EDT",
-        "source_url": "https://phys.org/news/2026-04-space-boost-links.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-su.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Urban birds fear women more than men, and scientists don't know why",
-        "summary": "An international team of researchers have made the surprising discovery that urban birds—such as great tits, house sparrows and blackbirds—flee sooner when approached by women compared to men. But they don't understand why. Conducted across five European countries, the study involved male and female participants (match",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Tue, 28 Apr 2026 17:40:06 EDT",
-        "source_url": "https://phys.org/news/2026-04-urban-birds-women-men-scientists.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-birds-fear-women.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Breakthrough Crystal Lets Scientists “Write” Nanoscale Patterns With Light",
-        "summary": "A team of scientists has uncovered a crystal that can be reshaped and programmed using ordinary light, opening a new path for building optical technology. Researchers at the XPANCEO Emerging Technologies Research Center, working alongside Nobel Laureate Prof. Konstantin Novoselov (University of Manchester and the Natio",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Mon, 27 Apr 2026 13:03:30 +0000",
-        "source_url": "https://scitechdaily.com/breakthrough-crystal-lets-scientists-write-nanoscale-patterns-with-light/",
-        "image_url": "https://scitechdaily.com/images/Laser-Written-Portrait-As2S3-777x437.jpg",
-        "impact": 5
-      },
-      {
         "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
         "summary": "In a breakthrough experiment, scientists directly imaged how particles pair up in a system that mimics superconductors. Instead of behaving independently, the pairs moved in a synchronized, dance-like pattern—something never predicted before. This suggests a major gap in the classic theory of superconductivity.",
         "category": "Science",
@@ -56,6 +23,39 @@
         "published_at": "Mon, 27 Apr 2026 09:16:00 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/superconductor-electron-pairs.webp",
+        "impact": 5
+      },
+      {
+        "title": "Mezcal worm in a bottle DNA test reveals a surprise",
+        "summary": "The famous mezcal “worm” has long puzzled scientists, but DNA testing has finally cracked the case. Researchers found that all sampled larvae were actually agave redworm moth caterpillars—not a mix of species as once believed. While the discovery clears up a long-standing mystery, it also raises concerns about sustaina",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 26 Apr 2026 09:34:14 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012250.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/mezcal-worm-bottle-mexico.webp",
+        "impact": 5
+      },
+      {
+        "title": "Microscopic sensors uncover how liquids turn glassy without structural change",
+        "summary": "A scientific discovery by researchers at Tel Aviv University's School of Chemistry offers a new perspective on a long-standing scientific mystery: how does a flowing liquid suddenly become a rigid, almost frozen material, without changing its structure? This phenomenon, known as the \"glass transition,\" has puzzled phys",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Wed, 29 Apr 2026 17:30:01 EDT",
+        "source_url": "https://phys.org/news/2026-04-microscopic-sensors-uncover-liquids-glassy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-does-liquid-becom.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Breakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years",
+        "summary": "A new approach to treating certain bowel cancers is showing long-lasting effects. Patients with a particular form of bowel cancer have remained cancer-free for nearly three years after receiving a short course of immunotherapy before surgery, rather than chemotherapy afterward. These findings come from the NEOPRISM-CRC",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Wed, 29 Apr 2026 05:34:47 +0000",
+        "source_url": "https://scitechdaily.com/breakthrough-bowel-cancer-trial-leaves-patients-cancer-free-for-nearly-3-years/",
+        "image_url": "https://scitechdaily.com/images/Male-Anatomy-Cancer-Small-Intestine-777x518.jpg",
         "impact": 5
       }
     ],
@@ -83,49 +83,82 @@
         "impact": 3
       },
       {
-        "title": "Start with the sensors, then design the rest: How Zoox built its robotaxi",
-        "summary": "The bidirectional design has some clear advantages for a working taxi.",
+        "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
+        "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 28 Apr 2026 11:20:49 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Zoox-Las-Vegas-6-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 29 Apr 2026 20:53:56 +0000",
+        "source_url": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/Zap-Energy-Century-reaction-chamber.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Taylor Swift is stepping up the legal war on AI copycats",
-        "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark",
+        "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+        "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-04-28T16:30:00-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 29 Apr 2026 16:42:33 +0000",
+        "source_url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
         "impact": 3
       },
       {
-        "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
-        "summary": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a “flood” of new third-party hardware this year and next.",
+        "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
+        "summary": "BMW i Ventures is interested in startups working on agentic AI and physical AI, as well as industrial software, advanced materials, and manufacturing and supply chain technologies.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Tue, 28 Apr 2026 13:00:00 +0000",
-        "source_url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
-        "image_url": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 29 Apr 2026 13:10:00 +0000",
+        "source_url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/BMW-Portraits-BMW-i-Ventures-2026-03102660-copy.jpeg?resize=1200,800",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "From gut to brain: Scientists engineer bacteria to treat severe liver-related brain dysfunction",
-        "summary": "When the liver fails, toxins—such as ammonia—that should be filtered from the blood build up and reach the brain. The result is hepatic encephalopathy (HE), a devastating neurological complication of liver disease that can cause anxiety, confusion, memory loss and, in severe cases, coma. HE is a common endpoint of live",
+        "title": "Preclinical efficacy of experimental peptide therapy suggests a new target for metastatic breast cancer treatments",
+        "summary": "A peptide that successfully targeted and killed metastatic cancer cells in mice may open the door to developing more efficient ways to detect and treat metastatic breast cancer in humans, UTHealth Houston researchers have discovered. The research was published in Molecular Therapy Oncology and led by Mikhail Kolonin, P",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 28 Apr 2026 16:00:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-gut-brain-scientists-bacteria-severe.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-gut-to-brain-scie-1.jpg",
+        "published_at": "Wed, 29 Apr 2026 16:20:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-preclinical-efficacy-experimental-peptide-therapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/preclinical-efficacy-o.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Why CAR T therapy works for some patients but fails for others may be getting clearer",
+        "summary": "Chimeric antigen receptor (CAR) T-cell therapy is one of oncology's most powerful ideas: Harvest a cancer patient's own immune cells, genetically engineer them to recognize tumor cells, multiply them in a laboratory and reinject them as a living drug. For some patients, the treatment produces extraordinary, durable rem",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 29 Apr 2026 19:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-car-therapy-patients-clearer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-cell-therapy-cance.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Integrating pharmacists into kidney disease care team can provide better outcomes for patients",
+        "summary": "Approximately 35 million adults in the United States suffer from chronic kidney disease (CKD), and that number is growing. Meanwhile, there's a critical shortage of nephrologists to manage these patients, according to Calvin Meaney, PharmD, clinical associate professor of pharmacy practice who specializes in nephrology",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 29 Apr 2026 18:40:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-pharmacists-kidney-disease-team-outcomes.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/integrating-pharmacist-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A forgotten drug is giving new hope to kids with a rare disease",
+        "summary": "A decades-old drug once used to treat sleeping sickness is now showing surprising promise against an ultra-rare and life-threatening genetic disorder called Bachmann-Bupp syndrome (BABS). Early patient treatments suggest the drug, DFMO, may ease severe symptoms by targeting the underlying genetic malfunction. Researche",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 29 Apr 2026 01:28:38 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260428045556.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/marley-and-dr-bupp.webp",
         "impact": 4
       },
       {
@@ -137,39 +170,6 @@
         "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
-        "impact": 4
-      },
-      {
-        "title": "Hidden virus in your gut may be linked to colon cancer",
-        "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to ",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
-        "impact": 4
-      },
-      {
-        "title": "Two common drugs may reverse fatty liver disease, study finds",
-        "summary": "Scientists have discovered that combining two existing drugs can dramatically reduce liver fat linked to a common and often silent disease. The treatment not only improved liver health in animal models but also showed potential to lower heart-related risks. Interestingly, using lower doses of both drugs together worked",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 00:51:12 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422003024.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
-        "impact": 4
-      },
-      {
-        "title": "This cheap drug could help people with type 1 diabetes use less insulin",
-        "summary": "A surprising new clinical trial has revealed that metformin—a cheap, century-old drug widely used for type 2 diabetes—may help people with type 1 diabetes in an unexpected way. While researchers initially hoped it would reduce insulin resistance, they instead found it allows patients to use about 12% less insulin while",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 15 Apr 2026 23:50:27 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043628.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/metformin-pill.webp",
         "impact": 4
       }
     ],
@@ -197,17 +197,6 @@
         "impact": 4
       },
       {
-        "title": "The Math That Explains Why Bell Curves Are Everywhere",
-        "summary": "The central limit theorem started as a bar trick for 18th-century gamblers. Now scientists rely on it every day. The post The Math That Explains Why Bell Curves Are Everywhere first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Mon, 16 Mar 2026 13:51:37 +0000",
-        "source_url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Central-Limit-Theorem-cr.Irene-Perez-Social.jpg",
-        "impact": 3
-      },
-      {
         "title": "School of Science welcomed new faculty in 2024",
         "summary": "Eleven new professors join the departments of Biology; Brain and Cognitive Sciences; Earth, Atmospheric and Planetary Sciences; Mathematics; and Physics.",
         "category": "Mathematics",
@@ -228,6 +217,17 @@
         "source_url": "https://news.mit.edu/2025/laurent-demanet-co-director-center-computational-science-engineering-1007",
         "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202510/laurent-demanet-mit-00_0.jpg?itok=UKBXCtvx",
         "impact": 3
+      },
+      {
+        "title": "Why Math’s Final Axiom Proved So Controversial",
+        "summary": "Zermelo-Fraenkel set theory is so widely accepted that modern mathematicians hardly think about it. But believing in its core principles didn’t come easily. The post Why Math’s Final Axiom Proved So Controversial first appeared on Quanta Magazine",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Wed, 29 Apr 2026 14:54:31 +0000",
+        "source_url": "https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controversial-20260429/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/04/ZFCExplainer-crKristinaArmitage-Social.jpg",
+        "impact": 3
       }
     ],
     "space": [
@@ -243,25 +243,25 @@
         "impact": 5
       },
       {
-        "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
-        "summary": "A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and at power levels exceeding any previous test in the United States, a team fired up",
+        "title": "SpaceX rocket debris could slam into the moon: Here's what you need to know",
+        "summary": "Earth's moon is to be on the receiving end of a spent rocket stage in early August - the leftovers from a SpaceX Falcon 9 launch last year.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 28 Apr 2026 16:18:34 +0000",
-        "source_url": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/",
-        "image_url": "https://www.youtube.com/embed/6XsqSA9tNfY",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 29 Apr 2026 13:05:40 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/a-stray-spacex-rocket-stage-could-slam-into-the-moon-this-august-amateur-astronomer-says",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/EZHuoLnUz5YYd2ABXs9s2S-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "NASA Laser Terminal Enhances Views During Artemis II Mission",
-        "summary": "Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen ventured farther into space than any human before. Part of the publ",
+        "title": "SpaceX Falcon Heavy rocket lifts off on 1st launch in 18 months",
+        "summary": "SpaceX launched its Falcon Heavy rocket for the first time in 18 months on Wednesday morning (April 29), delivering the ViaSat-3 F3 communications satellite into geostationary orbit.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 28 Apr 2026 16:10:25 +0000",
-        "source_url": "https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/o2o.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 26 Apr 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/UnssExHnv6S4pfw2qhR4Rn-1280-80.jpg",
         "impact": 4
       },
       {
@@ -276,18 +276,29 @@
         "impact": 4
       },
       {
-        "title": "Curiosity Captures a 360-Degree View at ‘Nevado Sajama’",
-        "summary": "Description NASA’s Curiosity Mars rover captured this 360-degree view of a region filled with low ridges called boxwork formations between Nov. 9 and Dec. 7, 2025 (the 4,714th to 4,741st Martian days, or sols, of the mission). At 1.5 billion pixels, this is one of the largest panoramas Curiosity has ever taken (the rov",
+        "title": "Trump invited the Artemis 2 moon astronauts to the Oval Office. Here's what happened",
+        "summary": "President Trump hosted the Artemis 2 moon astronauts at the White House today (April 29), congratulating the quartet and musing about the possibility of going to space himself.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Tue, 28 Apr 2026 17:08:24 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/curiosity-captures-a-360-degree-view-at-nevado-sajama/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26696/PIA26696.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 29 Apr 2026 20:23:23 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/trump-invited-the-artemis-2-moon-astronauts-to-the-oval-office-heres-what-happened",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/i95ATCrFMSNbUY3zff4RiU-1280-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "Binary Stars Form Lots Of Exoplanets, But Many Of Them Are Ejected As Rogue Planets",
+        "summary": "Binary stars are common, but for a long time astronomers have thought that exoplanets would have trouble forming around them. In recent years, powerful telescopes have detected about 50 of these planets. Now, new simulations show that their formation isn't actually rare, it's just that they tend to be on wide orbits, w",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 29 Apr 2026 20:26:36 +0000",
+        "source_url": "https://www.universetoday.com/articles/binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets",
+        "image_url": "https://www.universetoday.com/article_images/main-qimg-a231546b8a3369ba260078cce40d4f99-c_20260429_175537.jpg",
+        "impact": 4
+      },
       {
         "title": "Could Light Alone Get Us to Another Star?",
         "summary": "Using nothing but a laser beam, scientists at Texas A&amp;M University have demonstrated that tiny engineered devices can be lifted and steered in three dimensions without any physical contact. This breakthrough could one day form the basis of a propulsion system capable of reaching our nearest neighbouring stars in de",
@@ -300,28 +311,6 @@
         "impact": 4
       },
       {
-        "title": "The Planet Haul That Changes Everything.",
-        "summary": "NASA's planet hunting telescope has been busy. A new study has just sifted through the light of over 83 million stars and emerged with more than 11,000 potential worlds, including a confirmed giant planet orbiting a distant star. The results don't just add to our catalogue of planets. They fundamentally change where we",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Sun, 26 Apr 2026 21:43:29 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-planet-haul-that-changes-everything",
-        "image_url": "https://www.universetoday.com/article_images/1280px-TESS_alone_high_res_20260426_213943.jpg",
-        "impact": 4
-      },
-      {
-        "title": "JWST Hunts for an 'Earth-Moon' Twin in a Habitable Zone, But the Star Has Other Plans",
-        "summary": "The Moon has played a huge role in the development of Earth. It stabilizes the planet, tempered dramatic climate swings, and possibly even provided the tidal heating that might have led to the first life forms. So it’s natural we would want to find a similar Earth/Luna system somewhere else in the cosmos. But astronome",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Sat, 25 Apr 2026 02:08:51 +0000",
-        "source_url": "https://www.universetoday.com/articles/jwst-hunts-for-an-earth-moon-twin-in-a-habitable-zone-but-the-star-has-other-plans",
-        "image_url": "https://www.universetoday.com/article_images/TOI_700_System_Still_E_20260422_145346.jpg",
-        "impact": 4
-      },
-      {
         "title": "Catching the Earliest Stars in the Universe",
         "summary": "New observations from the James Webb Space Telescope might have caught the signature of the universe's first stars. The post Catching the Earliest Stars in the Universe appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -329,7 +318,7 @@
         "journal": "skyandtelescope.org",
         "published_at": "Fri, 24 Apr 2026 13:00:00 +0000",
         "source_url": "https://skyandtelescope.org/astronomy-news/catching-the-earliest-stars-in-the-universe/",
-        "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/first-stars-ANU-600px.jpg",
         "impact": 4
       },
       {
@@ -340,11 +329,33 @@
         "journal": "skyandtelescope.org",
         "published_at": "Tue, 21 Apr 2026 16:12:02 +0000",
         "source_url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
-        "image_url": "https://picsum.photos/seed/astronomyfallback/1200/800",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Milky_Way_warp_pillars-MC-1000px.webp",
+        "impact": 4
+      },
+      {
+        "title": "Canada Proposes POET Mission to Hunt Earth-Sized Planets",
+        "summary": "Exoplanet science and the search for life beyond Earth continue to advance at break-neck speeds, with the number of confirmed exoplanets by NASA rapidly approaching 6,300, with 223 of those exoplanets being designated as terrestrial (rocky) exoplanets. With the promise of discovering an increasing number of Earth-sized",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 29 Apr 2026 06:50:08 +0000",
+        "source_url": "https://www.universetoday.com/articles/canada-proposes-poet-mission-to-hunt-earth-sized-planets",
+        "image_url": "https://www.universetoday.com/article_images/ezgif-53139c0321d86fb1_750_20260429_064958.jpg",
         "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "SOM \"preserves the soul\" of 1960s modernist office complex in Milan",
+        "summary": "Global studio SOM has renewed Corso Italia 23, a 1960s office complex in Milan, retrofitting its modernist structure and fractured interiors to align with modern standards. Occupying an entire urban block, the Corso Italia 23 building comprises three distinct volumes originally designed by Italian architects Gio Ponti ",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 29 Apr 2026 10:04:58 +0000",
+        "source_url": "https://www.dezeen.com/2026/04/29/som-corso-italia-23-office-milan-architecture/",
+        "image_url": "https://static.dezeen.com/uploads/2026/04/som-corso-italia-23-modernist-office-complex-milan-hero_dezeen_2364_col_0.jpg",
+        "impact": 4
+      },
       {
         "title": "Diamond Schmitt and MVRDV reveal design of terraced research building for University of Toronto",
         "summary": "Architecture studios Diamond Schmitt, MVRDV and Two Row Architect have revealed the design for the Temerty Building at the University of Toronto, a research building informed by Indigenous design principles. The building will be located on the edge of a campus lawn at the University of Toronto St George campus and host",
@@ -368,49 +379,38 @@
         "impact": 4
       },
       {
-        "title": "Ameba Branch / BAUEN",
-        "summary": "A bank is not a building: it is an agreement, an ecosystem of trust. The amoeba is born from this idea: roofs that float, made of thousands of bricks that, together, raise something much greater. An open architecture, without hierarchies, honest and accessible from all sides. A living surface that breathes with the cli",
+        "title": "the city as a controlled hallucination: from amusement parks to urban space",
+        "summary": "before it is built, space is tested through illusion and movement, shaping how it is navigated and understood. The post the city as a controlled hallucination: from amusement parks to urban space appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 28 Apr 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040446/ameba-branch-bauen",
-        "image_url": "https://images.adsttc.com/media/images/69c1/1fb2/015c/4f00/015c/560e/large_jpg/02__Ameba_EEUU___Renato_Duria.jpg?1774264309",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Wed, 29 Apr 2026 09:30:33 +0000",
+        "source_url": "https://www.designboom.com/architecture/city-controlled-hallucination-amusement-parks-urban-space/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/city-controlled-hallucination-amusement-parks-urban-space-designboom-1200.jpg",
         "impact": 4
       },
       {
-        "title": "UIA 2026 Barcelona Announces Full Program, Detailing Formats, Exhibitions, and City-Wide Itineraries",
-        "summary": "The UIA World Congress of Architects 2026 Barcelona has released its full program, outlining the structure, participants, and range of activities scheduled to take place from June 28 to July 2, 2026. Expanding on the previously introduced theme, Becoming. Architectures for a Planet in Transition, the Congress is concei",
+        "title": "Minoru Yamasaki's Northwestern National Life Building in Minneapolis to Be Converted Into Hotel",
+        "summary": "A building designed by Minoru Yamasaki in downtown Minneapolis is set to be converted into a hotel, marking a new phase in the life of the former headquarters of the Northwestern National Life Insurance Company, one of the architect's lesser-known yet formally distinctive works. Vacant since 2023, the building at 20 Wa",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 28 Apr 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041025/uia-2026-barcelona-announces-full-program-detailing-formats-exhibitions-and-city-wide-itineraries",
-        "image_url": "https://images.adsttc.com/media/images/69f0/7916/e0a7/c201/892c/a428/large_jpg/uia-2026-barcelona-announces-full-program-detailing-formats-exhibitions-and-city-wide-itineraries_1.jpg?1777367326",
-        "impact": 4
-      },
-      {
-        "title": "Bofill Taller de Arquitectura Unveils Landscape-Inspired Resort in Dhërmi, Albania",
-        "summary": "Bofill Taller de Arquitectura has revealed the final images of a new resort in Dhërmi, Albania, currently under construction. The project was first announced in 2024, in the context of the numerous developments proposed across the country over the past decade. This time, the project is neither a skyscraper nor an insti",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 28 Apr 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041015/bofill-taller-de-arquitectura-unveils-landscape-inspired-resort-in-dhermi-albania",
-        "image_url": "https://images.adsttc.com/media/images/69f0/19a4/c748/9401/89fb/8b66/large_jpg/bofill-taller-de-arquitectura-starts-construction-of-landscape-inspired-resort-in-dhermi-albania_11.jpg?1777342967",
+        "published_at": "Wed, 29 Apr 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041070/minoru-yamasakis-northwestern-national-life-building-in-minneapolis-to-be-converted-into-hotel",
+        "image_url": "https://images.adsttc.com/media/images/69f1/ca4f/c748/9401/89fb/9169/large_jpg/minoru-yamasaki-designed-the-northwestern-national-life-building-in-minneapolis-to-be-converted-into-hotel_1.jpg?1777453674",
         "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Free entry deadline approaches for BCIA 2026 as last year’s winners set benchmark for excellence",
-        "summary": "Civil engineering and infrastructure teams have just days left to submit entries for the British Construction &amp; Infrastructure Awards (BCIA) 2026, with the free entry deadline closing on Friday 1 May. The post Free entry deadline approaches for BCIA 2026 as last year’s winners set benchmark for excellence appeared ",
+        "title": "Granite scoops up Utah infrastructure contractor",
+        "summary": "The California-based firm bought Kenny Seng Construction, which focuses on earthwork and site preparation as well as managing a gravel pit and recycling yard.&nbsp;",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 28 Apr 2026 05:30:56 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/free-entry-deadline-approaches-for-bcia-2026-as-last-years-winners-set-benchmark-for-excellence-28-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/emap_BCIA2025-26-560x315.jpg",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 29 Apr 2026 10:18:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/granite-buys-Kenny-Seng-utah-infrastructure-contractor/818777/",
+        "image_url": "https://imgproxy.divecdn.com/0kkzjPCvc8WOJeO62JngaDp3tUE5s7mFl5YT42BpPfE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MDA1ODA4MDguanBn.webp",
         "impact": 4
       },
       {
@@ -447,72 +447,72 @@
         "impact": 4
       },
       {
-        "title": "Tees Transporter Bridge listed among UK’s most at-risk structures",
-        "summary": "The 1911 Tees Transporter Bridge has been included on this year’s Top 10 Endangered Buildings list published by the Victorian Society, highlighting the scale of repair challenges facing ageing infrastructure assets. The post Tees Transporter Bridge listed among UK’s most at-risk structures appeared first on New Civil E",
+        "title": "US hotel construction pipeline down roughly 5% YOY in Q1 2026",
+        "summary": "Despite the decline, the luxury segment reached a record 102 projects in the quarter, up 16% year over year, per a Lodging Econometrics report.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 28 Apr 2026 13:27:52 +0000",
-        "source_url": "https://www.newcivilengineer.com/ageing-assets/tees-transporter-bridge-listed-among-uks-most-at-risk-structures-28-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2024/01/tees-transporter-bridge-rsz-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 29 Apr 2026 10:20:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/hotel-construction-pipeline-q1-2026/818805/",
+        "image_url": "https://imgproxy.divecdn.com/ErKYdvaeKseRyM-wFnUCyQQr04vQ_cuCypRQQfBxBKA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc2NDM2NjIuanBn.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
-        "summary": "arXiv:2604.21965v1 Announce Type: new Abstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's methods description and original data? We develop an agentic reproduction ",
+        "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+        "summary": "arXiv:2604.23002v1 Announce Type: new Abstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.21965",
+        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.23002",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
-        "summary": "arXiv:2604.22119v1 Announce Type: new Abstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strategic Reasoning Risks (ESRRs). These include, but are not limited to, de",
+        "title": "A Systematic Approach for Large Language Models Debugging",
+        "summary": "arXiv:2604.23027v1 Announce Type: new Abstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and probabilistic nature and",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.22119",
+        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.23027",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
-        "summary": "arXiv:2604.22273v1 Announce Type: new Abstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correction as a cybernetic feedback loop in which the same language model serves as both controller and plant, and use a two-sta",
+        "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+        "summary": "arXiv:2604.23057v1 Announce Type: new Abstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ controlled trials across four LLM families in the cooperative card game Hanabi, we establish four findings. First, integration architecture determine",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.22273",
+        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.23057",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-        "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+        "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+        "summary": "arXiv:2604.23072v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scientific discovery), yet their reasoning suffers from stochastic instability and lacks a verifiable, compositional structure. To address this, we ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/openai-on-aws",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.23072",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "The next evolution of the Agents SDK",
-        "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+        "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
+        "summary": "arXiv:2604.23090v1 Announce Type: new Abstract: Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineering. While large language models (LLMs) show promise, it remains unclear which architectural design choices drive generation quality and why curr",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 15 Apr 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.23090",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
