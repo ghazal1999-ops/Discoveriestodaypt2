@@ -1,8 +1,19 @@
 {
-  "date": "2026-04-29",
-  "last_updated": "2026-04-29 23:53 UTC",
+  "date": "2026-04-30",
+  "last_updated": "2026-04-30 23:50 UTC",
   "categories": {
     "science": [
+      {
+        "title": "DAMPE satellite reveals cosmic rays share spectral break near 15 teravolts",
+        "summary": "A century after their discovery, cosmic rays—particles of extreme energy originating from the far reaches of the universe—remain a mystery to scientists. The DAMPE (Dark Matter Particle Explorer) space telescope is tackling this phenomenon, particularly investigating the role that dark matter may play in their formatio",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Thu, 30 Apr 2026 18:40:03 EDT",
+        "source_url": "https://phys.org/news/2026-04-dampe-satellite-reveals-cosmic-rays.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-dampe-satellite-sh.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
         "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This br",
@@ -15,47 +26,36 @@
         "impact": 5
       },
       {
-        "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
-        "summary": "In a breakthrough experiment, scientists directly imaged how particles pair up in a system that mimics superconductors. Instead of behaving independently, the pairs moved in a synchronized, dance-like pattern—something never predicted before. This suggests a major gap in the classic theory of superconductivity.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 27 Apr 2026 09:16:00 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/superconductor-electron-pairs.webp",
-        "impact": 5
-      },
-      {
-        "title": "Mezcal worm in a bottle DNA test reveals a surprise",
-        "summary": "The famous mezcal “worm” has long puzzled scientists, but DNA testing has finally cracked the case. Researchers found that all sampled larvae were actually agave redworm moth caterpillars—not a mix of species as once believed. While the discovery clears up a long-standing mystery, it also raises concerns about sustaina",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 26 Apr 2026 09:34:14 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012250.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/mezcal-worm-bottle-mexico.webp",
-        "impact": 5
-      },
-      {
-        "title": "Microscopic sensors uncover how liquids turn glassy without structural change",
-        "summary": "A scientific discovery by researchers at Tel Aviv University's School of Chemistry offers a new perspective on a long-standing scientific mystery: how does a flowing liquid suddenly become a rigid, almost frozen material, without changing its structure? This phenomenon, known as the \"glass transition,\" has puzzled phys",
+        "title": "Chemists unlock two-step alkene alkylation using stable acids and polar coupling",
+        "summary": "Chemists at the Max-Planck-Institut für Kohlenforschung have developed a practical two-step method for alkylating alkenes via thianthrenation, addressing a long-standing synthetic challenge. This breakthrough simplifies complex molecule synthesis with applications in drug discovery, agrochemicals, and materials science",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Wed, 29 Apr 2026 17:30:01 EDT",
-        "source_url": "https://phys.org/news/2026-04-microscopic-sensors-uncover-liquids-glassy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-does-liquid-becom.jpg",
+        "published_at": "Thu, 30 Apr 2026 15:40:01 EDT",
+        "source_url": "https://phys.org/news/2026-04-chemists-alkene-alkylation-stable-acids.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-solution-to-alkene-a.jpg",
         "impact": 5
       },
       {
-        "title": "Breakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years",
-        "summary": "A new approach to treating certain bowel cancers is showing long-lasting effects. Patients with a particular form of bowel cancer have remained cancer-free for nearly three years after receiving a short course of immunotherapy before surgery, rather than chemotherapy afterward. These findings come from the NEOPRISM-CRC",
+        "title": "Harvard Breakthrough Brings Powerful UV Light Sources Onto a Chip",
+        "summary": "Scientists have achieved a major step toward chip-scale ultraviolet light by converting red light into powerful UV within a tiny photonic device. Ultraviolet light, beyond what comes naturally from the sun, plays a central role in modern technology, including sterilization, biological imaging, and chip manufacturing. R",
         "category": "Science",
         "source": "scitechdaily.com",
         "journal": "scitechdaily.com",
-        "published_at": "Wed, 29 Apr 2026 05:34:47 +0000",
-        "source_url": "https://scitechdaily.com/breakthrough-bowel-cancer-trial-leaves-patients-cancer-free-for-nearly-3-years/",
-        "image_url": "https://scitechdaily.com/images/Male-Anatomy-Cancer-Small-Intestine-777x518.jpg",
+        "published_at": "Thu, 30 Apr 2026 11:41:07 +0000",
+        "source_url": "https://scitechdaily.com/harvard-breakthrough-brings-powerful-uv-light-sources-onto-a-chip/",
+        "image_url": "https://scitechdaily.com/images/Camera-Image-of-the-Sidewall-Poled-Lithium-Niobate-Chip-During-UV-Generation-777x334.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Scientists Make Breakthrough in Turning Plastic Trash Into Clean Fuel Using Sunlight",
+        "summary": "Scientists are exploring a method to convert plastic waste into fuels and valuable chemicals using sunlight, potentially addressing both pollution and energy challenges. Scientists are developing a potential solution to two major global problems, plastic pollution and clean energy, by using sunlight to turn discarded p",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 30 Apr 2026 10:31:43 +0000",
+        "source_url": "https://scitechdaily.com/scientists-make-breakthrough-in-turning-plastic-trash-into-clean-fuel-using-sunlight/",
+        "image_url": "https://scitechdaily.com/images/Plastic-Bottle-Sunlight-777x437.jpg",
         "impact": 5
       }
     ],
@@ -72,82 +72,60 @@
         "impact": 4
       },
       {
-        "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
-        "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport.",
+        "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
+        "summary": "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. In an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was off the charts,\" but there's \"a little less flexibility at the moment for getting more parts.\" Cook add",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 28 Apr 2026 18:01:36 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2272048837-2560x1440.jpg",
-        "impact": 3
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-04-30T16:58:22-04:00",
+        "source_url": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC_5479.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
       },
       {
-        "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
-        "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
+        "title": "Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis",
+        "summary": "Hertz is creating a new affiliate company called \"Oro Mobility\" to provide fleet management solutions \"across a range of mobility segments.\"",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 29 Apr 2026 20:53:56 +0000",
-        "source_url": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/Zap-Energy-Century-reaction-chamber.jpg?resize=1200,800",
+        "published_at": "Thu, 30 Apr 2026 15:55:28 +0000",
+        "source_url": "https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/uber-lucid.jpg?resize=1200,801",
         "impact": 3
       },
       {
-        "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-        "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+        "title": "Dental practice software maker fixes bug that exposed patients’ medical records",
+        "summary": "The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 29 Apr 2026 16:42:33 +0000",
-        "source_url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
+        "published_at": "Thu, 30 Apr 2026 15:15:41 +0000",
+        "source_url": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/dentist-office-1252046775.jpg?resize=1200,798",
         "impact": 3
       },
       {
-        "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
-        "summary": "BMW i Ventures is interested in startups working on agentic AI and physical AI, as well as industrial software, advanced materials, and manufacturing and supply chain technologies.",
+        "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
+        "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices. \"Some players in select markets will be able [&#8230;]",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 29 Apr 2026 13:10:00 +0000",
-        "source_url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/BMW-Portraits-BMW-i-Ventures-2026-03102660-copy.jpeg?resize=1200,800",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-04-30T15:14:23-04:00",
+        "source_url": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmode_d8bb69.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Preclinical efficacy of experimental peptide therapy suggests a new target for metastatic breast cancer treatments",
-        "summary": "A peptide that successfully targeted and killed metastatic cancer cells in mice may open the door to developing more efficient ways to detect and treat metastatic breast cancer in humans, UTHealth Houston researchers have discovered. The research was published in Molecular Therapy Oncology and led by Mikhail Kolonin, P",
+        "title": "Novel theranostic approach for radioimmunotherapy achieves curative responses in colorectal cancer tumors",
+        "summary": "A new pretargeted radioimmunotherapy (PRIT) technique has been shown to be safe and effective in eradicating tumors from a preclinical colorectal cancer model. The multi-step theranostic approach delivers alpha-emitting radiation directly to tumors while limiting exposure to healthy tissues. This research is published ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 29 Apr 2026 16:20:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-preclinical-efficacy-experimental-peptide-therapy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/preclinical-efficacy-o.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Why CAR T therapy works for some patients but fails for others may be getting clearer",
-        "summary": "Chimeric antigen receptor (CAR) T-cell therapy is one of oncology's most powerful ideas: Harvest a cancer patient's own immune cells, genetically engineer them to recognize tumor cells, multiply them in a laboratory and reinject them as a living drug. For some patients, the treatment produces extraordinary, durable rem",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 29 Apr 2026 19:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-car-therapy-patients-clearer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-cell-therapy-cance.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Integrating pharmacists into kidney disease care team can provide better outcomes for patients",
-        "summary": "Approximately 35 million adults in the United States suffer from chronic kidney disease (CKD), and that number is growing. Meanwhile, there's a critical shortage of nephrologists to manage these patients, according to Calvin Meaney, PharmD, clinical associate professor of pharmacy practice who specializes in nephrology",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 29 Apr 2026 18:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-pharmacists-kidney-disease-team-outcomes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/integrating-pharmacist-1.jpg",
+        "published_at": "Thu, 30 Apr 2026 17:30:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-theranostic-approach-radioimmunotherapy-curative-responses.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-theranostic-appr.jpg",
         "impact": 4
       },
       {
@@ -170,6 +148,28 @@
         "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
+        "impact": 4
+      },
+      {
+        "title": "Hidden virus in your gut may be linked to colon cancer",
+        "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to ",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
+        "impact": 4
+      },
+      {
+        "title": "Two common drugs may reverse fatty liver disease, study finds",
+        "summary": "Scientists have discovered that combining two existing drugs can dramatically reduce liver fat linked to a common and often silent disease. The treatment not only improved liver health in animal models but also showed potential to lower heart-related risks. Interestingly, using lower doses of both drugs together worked",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 22 Apr 2026 00:51:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422003024.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
         "impact": 4
       }
     ],
@@ -254,40 +254,51 @@
         "impact": 4
       },
       {
-        "title": "SpaceX Falcon Heavy rocket lifts off on 1st launch in 18 months",
-        "summary": "SpaceX launched its Falcon Heavy rocket for the first time in 18 months on Wednesday morning (April 29), delivering the ViaSat-3 F3 communications satellite into geostationary orbit.",
+        "title": "This SpaceX Falcon Heavy rocket launch looks amazing from space in these wild satellite photos",
+        "summary": "SpaceX's Falcon Heavy rocket flew for the first time in 18 months Wednesday (April 29), and a sharp-eyed satellite was watching.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sun, 26 Apr 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/UnssExHnv6S4pfw2qhR4Rn-1280-80.jpg",
+        "published_at": "Thu, 30 Apr 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-launch-seen-from-space-satellite-photos",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/tngnP2iAQCUanhkNs6rAXa-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "The 'Oscars of Science': Breakthrough Prize 2026 awards over $18 million for discoveries across space, physics and more",
-        "summary": "The 2026 Breakthrough Prize honored advances in dark matter, quantum physics, gene editing and nonlinear mathematics.",
+        "title": "Welcome home! Artemis 2's Orion capsule returns to Florida after epic moon mission (photo)",
+        "summary": "Artemis 2's Orion capsule has returned to its Florida launch site, just three weeks after carrying four astronauts on a historic journey around the moon's far side.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sun, 26 Apr 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/technology/the-oscars-of-science-breakthrough-prize-2026-awards-over-usd18-million-for-discoveries-across-space-physics-and-more",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/NJDws8rLJ9tQv5PYEDXxSi-1280-80.jpg",
+        "published_at": "Thu, 30 Apr 2026 15:29:32 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/welcome-home-artemis-2s-orion-capsule-returns-to-florida-after-epic-moon-mission-photo",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/28PWxjJcgedyNqvkzf9KCJ-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "Trump invited the Artemis 2 moon astronauts to the Oval Office. Here's what happened",
-        "summary": "President Trump hosted the Artemis 2 moon astronauts at the White House today (April 29), congratulating the quartet and musing about the possibility of going to space himself.",
+        "title": "'This is going to be what makes the Earth secure.' How one California company plans to protect us from dangerous asteroids",
+        "summary": "Exploration Labs has proposed the first commercial deep space ride share mission, known as Apophis EX, to rendezvous with potentially hazardous asteroid Apophis.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 29 Apr 2026 20:23:23 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/trump-invited-the-artemis-2-moon-astronauts-to-the-oval-office-heres-what-happened",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/i95ATCrFMSNbUY3zff4RiU-1280-80.jpg",
+        "published_at": "Thu, 30 Apr 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/asteroid-comet-missions/this-is-going-to-be-what-makes-the-earth-secure-how-one-california-company-plans-to-protect-us-from-dangerous-asteroids",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/dHPxx99gj7BHXU5aTQjKqY-1280-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "What is the Most Common Type of Planet in the Galaxy?",
+        "summary": "Astronomers now believe there is at least one planet for every star in the Milky Way but new research has revealed a deeply unsettling twist in that picture. The most common planets in our Galaxy, it turns out, are almost entirely absent around the most common stars. Using data from NASA's TESS satellite, researchers f",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 30 Apr 2026 20:41:51 +0000",
+        "source_url": "https://www.universetoday.com/articles/what-is-the-most-common-type-of-planet-in-the-galaxy",
+        "image_url": "https://www.universetoday.com/article_images/1280px-TESS_alone_high_res_2_20260430_204133.jpg",
+        "impact": 4
+      },
       {
         "title": "Binary Stars Form Lots Of Exoplanets, But Many Of Them Are Ejected As Rogue Planets",
         "summary": "Binary stars are common, but for a long time astronomers have thought that exoplanets would have trouble forming around them. In recent years, powerful telescopes have detected about 50 of these planets. Now, new simulations show that their formation isn't actually rare, it's just that they tend to be on wide orbits, w",
@@ -300,14 +311,25 @@
         "impact": 4
       },
       {
-        "title": "Could Light Alone Get Us to Another Star?",
-        "summary": "Using nothing but a laser beam, scientists at Texas A&amp;M University have demonstrated that tiny engineered devices can be lifted and steered in three dimensions without any physical contact. This breakthrough could one day form the basis of a propulsion system capable of reaching our nearest neighbouring stars in de",
+        "title": "Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins",
+        "summary": "The most recent interstellar visitor was crisscrossing our galaxy for some 10 to 12 billion years before it came near the Sun. The post Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 28 Apr 2026 09:43:36 +0000",
-        "source_url": "https://www.universetoday.com/articles/could-light-alone-get-us-to-another-star",
-        "image_url": "https://www.universetoday.com/article_images/Low-Res_News-MEEN-Metajets2-16April2026_20260428_094327.jpg",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Thu, 30 Apr 2026 15:18:05 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-is-ancient/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/3I-ATLAS-Gemini-North-Aug-27-2025-S.webp",
+        "impact": 4
+      },
+      {
+        "title": "May Podcast: The Delightful Dippers",
+        "summary": "This month’s episode showcases the Big and Little Dippers, now placed high in the northern evening sky. We'll also track down all five bright planets and watch for meteors from Halley's Comet. So grab your curiosity, and come along on this month’s Sky Tour. The post May Podcast: The Delightful Dippers appeared first on",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Thu, 30 Apr 2026 07:11:00 +0000",
+        "source_url": "https://skyandtelescope.org/stargazing-and-observing/astronomy-podcasts/sky-tour-podcast-may-2026/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Dippers-highlight-web.jpg",
         "impact": 4
       },
       {
@@ -319,28 +341,6 @@
         "published_at": "Fri, 24 Apr 2026 13:00:00 +0000",
         "source_url": "https://skyandtelescope.org/astronomy-news/catching-the-earliest-stars-in-the-universe/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/first-stars-ANU-600px.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Astronomers Find the Edge of the Milky Way",
-        "summary": "Astronomers have located the edge of the Milky Way’s star-forming disk for the first time, showing that star formation is focused within 40,000 light-years of our galactic center. The post Astronomers Find the Edge of the Milky Way appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 21 Apr 2026 16:12:02 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Milky_Way_warp_pillars-MC-1000px.webp",
-        "impact": 4
-      },
-      {
-        "title": "Canada Proposes POET Mission to Hunt Earth-Sized Planets",
-        "summary": "Exoplanet science and the search for life beyond Earth continue to advance at break-neck speeds, with the number of confirmed exoplanets by NASA rapidly approaching 6,300, with 223 of those exoplanets being designated as terrestrial (rocky) exoplanets. With the promise of discovering an increasing number of Earth-sized",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 29 Apr 2026 06:50:08 +0000",
-        "source_url": "https://www.universetoday.com/articles/canada-proposes-poet-mission-to-hunt-earth-sized-planets",
-        "image_url": "https://www.universetoday.com/article_images/ezgif-53139c0321d86fb1_750_20260429_064958.jpg",
         "impact": 4
       }
     ],
@@ -379,29 +379,40 @@
         "impact": 4
       },
       {
-        "title": "the city as a controlled hallucination: from amusement parks to urban space",
-        "summary": "before it is built, space is tested through illusion and movement, shaping how it is navigated and understood. The post the city as a controlled hallucination: from amusement parks to urban space appeared first on designboom | architecture &amp; design magazine.",
+        "title": "zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza",
+        "summary": "zU-studio embeds traditional basque symbols into the spatial design. The post zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
         "source": "designboom.com",
         "journal": "designboom.com",
-        "published_at": "Wed, 29 Apr 2026 09:30:33 +0000",
-        "source_url": "https://www.designboom.com/architecture/city-controlled-hallucination-amusement-parks-urban-space/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/city-controlled-hallucination-amusement-parks-urban-space-designboom-1200.jpg",
+        "published_at": "Thu, 30 Apr 2026 13:30:37 +0000",
+        "source_url": "https://www.designboom.com/architecture/zu-studio-sunflower-sculptural-bench-san-sebastian-urban-plaza-la-bretxa/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/la-bretxa-public-space-zu-studio-san-sebastian-spain-designboom-1200-1.jpg",
         "impact": 4
       },
       {
-        "title": "Minoru Yamasaki's Northwestern National Life Building in Minneapolis to Be Converted Into Hotel",
-        "summary": "A building designed by Minoru Yamasaki in downtown Minneapolis is set to be converted into a hotel, marking a new phase in the life of the former headquarters of the Northwestern National Life Insurance Company, one of the architect's lesser-known yet formally distinctive works. Vacant since 2023, the building at 20 Wa",
+        "title": "three-toned marble facades clad floating kiosk in beijing’s urban fabric",
+        "summary": "a triangular volume defines the overall architectural form, while a circular opening disrupts the continuity of the mass. The post three-toned marble facades clad floating kiosk in beijing’s urban fabric appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 29 Apr 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041070/minoru-yamasakis-northwestern-national-life-building-in-minneapolis-to-be-converted-into-hotel",
-        "image_url": "https://images.adsttc.com/media/images/69f1/ca4f/c748/9401/89fb/9169/large_jpg/minoru-yamasaki-designed-the-northwestern-national-life-building-in-minneapolis-to-be-converted-into-hotel_1.jpg?1777453674",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 30 Apr 2026 09:00:59 +0000",
+        "source_url": "https://www.designboom.com/architecture/three-toned-marble-facades-floating-kiosk-beijing-urban-fabric-bufen-atelier/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/floating-kiosk-bufen-atelier-beijing-designboom-1200.jpg",
         "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "‘Unique engineering challenge’ as mid-century bridge is lifted clear of River Hull",
+        "summary": "The 73-year-old Weel Bridge in East Yorkshire has been removed by Esh Construction, marking a key stage in its £1M refurbishment. The post ‘Unique engineering challenge’ as mid-century bridge is lifted clear of River Hull appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 30 Apr 2026 10:41:05 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/unique-engineering-challenge-as-mid-century-bridge-is-lifted-clear-of-river-hull-30-04-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/ESH-Weel-Bridge-Lift-Out-18_04_2026-560x315.jpg",
+        "impact": 4
+      },
       {
         "title": "Granite scoops up Utah infrastructure contractor",
         "summary": "The California-based firm bought Kenny Seng Construction, which focuses on earthwork and site preparation as well as managing a gravel pit and recycling yard.&nbsp;",
@@ -445,74 +456,63 @@
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/04/02/commerce_enr_ph_article1_cash-is-king_image.webp?crop=true&height=257&t=1775138429&width=420",
         "impact": 4
-      },
-      {
-        "title": "US hotel construction pipeline down roughly 5% YOY in Q1 2026",
-        "summary": "Despite the decline, the luxury segment reached a record 102 projects in the quarter, up 16% year over year, per a Lodging Econometrics report.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 29 Apr 2026 10:20:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/hotel-construction-pipeline-q1-2026/818805/",
-        "image_url": "https://imgproxy.divecdn.com/ErKYdvaeKseRyM-wFnUCyQQr04vQ_cuCypRQQfBxBKA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc2NDM2NjIuanBn.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
-        "summary": "arXiv:2604.23002v1 Announce Type: new Abstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation",
+        "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+        "summary": "arXiv:2604.26522v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this challenge by grounding",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.23002",
+        "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.26522",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "A Systematic Approach for Large Language Models Debugging",
-        "summary": "arXiv:2604.23027v1 Announce Type: new Abstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and probabilistic nature and",
+        "title": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data",
+        "summary": "arXiv:2604.26645v1 Announce Type: new Abstract: AI-for-Science (AI4Science) is increasingly transforming scientific discovery by embedding machine learning models into prediction, simulation, and hypothesis generation workflows across domains. However, the effectiveness of these models is fundamentally constrained by t",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.23027",
+        "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.26645",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
-        "summary": "arXiv:2604.23057v1 Announce Type: new Abstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ controlled trials across four LLM families in the cooperative card game Hanabi, we establish four findings. First, integration architecture determine",
+        "title": "LLM Psychosis: A Theoretical and Diagnostic Framework for Reality-Boundary Failures in Large Language Models",
+        "summary": "arXiv:2604.25934v1 Announce Type: cross Abstract: The deployment of large language models (LLMs) as interactive agents has exposed a category of behavioral failure that prevailing terminology, principally hallucination, fails to adequately characterize. This paper introduces LLM Psychosis as a structured theoretical fr",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.23057",
+        "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.25934",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
-        "summary": "arXiv:2604.23072v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scientific discovery), yet their reasoning suffers from stochastic instability and lacks a verifiable, compositional structure. To address this, we ",
+        "title": "Training Computer Use Agents to Assess the Usability of Graphical User Interfaces",
+        "summary": "arXiv:2604.26020v1 Announce Type: cross Abstract: Usability testing with experts and potential users can assess the effectiveness, efficiency, and user satisfaction of graphical user interfaces (GUIs) but doing so remains a costly and time-intensive process. Prior work has used computer use agents (CUAs) and other gene",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.23072",
+        "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.26020",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
-        "summary": "arXiv:2604.23090v1 Announce Type: new Abstract: Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineering. While large language models (LLMs) show promise, it remains unclear which architectural design choices drive generation quality and why curr",
+        "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+        "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Wed, 29 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.23090",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/openai-on-aws",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6Qdod1sP2lAXzlwaRnglBQ/95090ca1ad0eeca76034c16cb451106d/oai-aws-16x9.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
