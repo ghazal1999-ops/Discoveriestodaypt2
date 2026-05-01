@@ -1,19 +1,8 @@
 {
-  "date": "2026-04-30",
-  "last_updated": "2026-04-30 23:50 UTC",
+  "date": "2026-05-01",
+  "last_updated": "2026-05-01 23:49 UTC",
   "categories": {
     "science": [
-      {
-        "title": "DAMPE satellite reveals cosmic rays share spectral break near 15 teravolts",
-        "summary": "A century after their discovery, cosmic rays—particles of extreme energy originating from the far reaches of the universe—remain a mystery to scientists. The DAMPE (Dark Matter Particle Explorer) space telescope is tackling this phenomenon, particularly investigating the role that dark matter may play in their formatio",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 30 Apr 2026 18:40:03 EDT",
-        "source_url": "https://phys.org/news/2026-04-dampe-satellite-reveals-cosmic-rays.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-dampe-satellite-sh.jpg",
-        "impact": 5
-      },
       {
         "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
         "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This br",
@@ -26,14 +15,14 @@
         "impact": 5
       },
       {
-        "title": "Chemists unlock two-step alkene alkylation using stable acids and polar coupling",
-        "summary": "Chemists at the Max-Planck-Institut für Kohlenforschung have developed a practical two-step method for alkylating alkenes via thianthrenation, addressing a long-standing synthetic challenge. This breakthrough simplifies complex molecule synthesis with applications in drug discovery, agrochemicals, and materials science",
+        "title": "MIT Laser Breakthrough Lets Scientists Watch Drugs Enter the Brain in Real Time",
+        "summary": "MIT researchers found that chaotic laser light can transform into a precise, stable beam. This breakthrough enables much faster, high-resolution imaging of how drugs move into the brain. Researchers at MIT have identified an unexpected effect in optical physics that could lead to a new kind of bioimaging technology wit",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 30 Apr 2026 15:40:01 EDT",
-        "source_url": "https://phys.org/news/2026-04-chemists-alkene-alkylation-stable-acids.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-solution-to-alkene-a.jpg",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 01 May 2026 04:43:30 +0000",
+        "source_url": "https://scitechdaily.com/mit-laser-breakthrough-lets-scientists-watch-drugs-enter-the-brain-in-real-time/",
+        "image_url": "https://scitechdaily.com/images/Pencil-Beam-777x518.jpg",
         "impact": 5
       },
       {
@@ -57,76 +46,87 @@
         "source_url": "https://scitechdaily.com/scientists-make-breakthrough-in-turning-plastic-trash-into-clean-fuel-using-sunlight/",
         "image_url": "https://scitechdaily.com/images/Plastic-Bottle-Sunlight-777x437.jpg",
         "impact": 5
+      },
+      {
+        "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
+        "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration of quadsqueezing—an elusive fourth-order quantum effect. By combining simple forces in a clever way, they made previously hidden quantum behaviors visible and usable, opening new frontiers for quantum technolog",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 01 May 2026 07:54:52 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/experimental-trapped-ion-setup.webp",
+        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can p",
+        "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+        "summary": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\"",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 27 Apr 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260424_deepseek.jpg?resize=1200,600",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 01 May 2026 15:32:27 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2234175849-1152x648.jpg",
         "impact": 4
       },
       {
-        "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
-        "summary": "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. In an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was off the charts,\" but there's \"a little less flexibility at the moment for getting more parts.\" Cook add",
+        "title": "The Next Alzheimer’s Breakthrough Will Take More Than Just Science",
+        "summary": "At WIRED Health, pioneering Alzheimer's researcher John Hardy outlined the stakes—and next steps—of where treatment is headed next.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-04-30T16:58:22-04:00",
-        "source_url": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC_5479.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 01 May 2026 18:55:56 +0000",
+        "source_url": "https://www.wired.com/story/john-hardy-dementia-wired-health/",
+        "image_url": "https://media.wired.com/photos/69ef96652b90f51c24b3be50/191:100/w_1280,c_limit/John-Hardy-WIRED-Health-Science-XT503136.jpg",
         "impact": 4
       },
       {
-        "title": "Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis",
-        "summary": "Hertz is creating a new affiliate company called \"Oro Mobility\" to provide fleet management solutions \"across a range of mobility segments.\"",
+        "title": "Apple may take \"several months\" to catch up to Mac mini and Studio demand",
+        "summary": "Chip shortages and demand from AI enthusiasts are both playing a part.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 30 Apr 2026 15:55:28 +0000",
-        "source_url": "https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/uber-lucid.jpg?resize=1200,801",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 01 May 2026 14:10:48 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-1152x648.jpeg",
         "impact": 3
       },
       {
-        "title": "Dental practice software maker fixes bug that exposed patients’ medical records",
-        "summary": "The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue.",
+        "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+        "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 30 Apr 2026 15:15:41 +0000",
-        "source_url": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/dentist-office-1252046775.jpg?resize=1200,798",
+        "published_at": "Fri, 01 May 2026 22:13:27 +0000",
+        "source_url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
-        "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices. \"Some players in select markets will be able [&#8230;]",
+        "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+        "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-04-30T15:14:23-04:00",
-        "source_url": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmode_d8bb69.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 30 Apr 2026 23:59:15 +0000",
+        "source_url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Novel theranostic approach for radioimmunotherapy achieves curative responses in colorectal cancer tumors",
-        "summary": "A new pretargeted radioimmunotherapy (PRIT) technique has been shown to be safe and effective in eradicating tumors from a preclinical colorectal cancer model. The multi-step theranostic approach delivers alpha-emitting radiation directly to tumors while limiting exposure to healthy tissues. This research is published ",
+        "title": "New treatment cuts bad cholesterol by nearly 50% without statins",
+        "summary": "A new breakthrough could change how high cholesterol is treated, offering a powerful alternative to traditional drugs. Researchers have developed tiny DNA-based molecules that shut down PCSK9—a key protein that keeps “bad” LDL cholesterol circulating in the blood. By blocking this protein, cells can absorb more cholest",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 30 Apr 2026 17:30:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-04-theranostic-approach-radioimmunotherapy-curative-responses.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-theranostic-appr.jpg",
-        "impact": 4
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 01 May 2026 04:50:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260501013525.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/coronary-artery-disease.webp",
+        "impact": 5
       },
       {
         "title": "A forgotten drug is giving new hope to kids with a rare disease",
@@ -232,17 +232,6 @@
     ],
     "space": [
       {
-        "title": "SpaceX launches its 50th mission of the year, sends 25 Starlink satellites to orbit (video)",
-        "summary": "A SpaceX Falcon 9 rocket launched 25 Starlink internet satellites to orbit from California on Sunday (April 26). It was the company's 50th liftoff of the year already.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 27 Apr 2026 18:30:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-1280-80.jpg",
-        "impact": 5
-      },
-      {
         "title": "SpaceX rocket debris could slam into the moon: Here's what you need to know",
         "summary": "Earth's moon is to be on the receiving end of a spent rocket stage in early August - the leftovers from a SpaceX Falcon 9 launch last year.",
         "category": "Space",
@@ -251,6 +240,28 @@
         "published_at": "Wed, 29 Apr 2026 13:05:40 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/a-stray-spacex-rocket-stage-could-slam-into-the-moon-this-august-amateur-astronomer-says",
         "image_url": "https://cdn.mos.cms.futurecdn.net/EZHuoLnUz5YYd2ABXs9s2S-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Drone radar could help spacecraft pinpoint where to drill for water on Mars, scientists say",
+        "summary": "Drone-mounted radar flown over glaciers on Earth show how the technology can map buried ice in detail, helping future Mars spacecraft choose exactly where to drill.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 01 May 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/drone-radar-could-help-spacecraft-pinpoint-where-to-drill-for-water-on-mars-scientists-say",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/iXjxXwNvddkxLiPMz9yveQ-1280-80.png",
+        "impact": 4
+      },
+      {
+        "title": "Is it cake? No, it's a parachute! | Space photo of the day for May 1, 2026",
+        "summary": "In this donut-shaped bag is a massive parachute. Next stop? Mars.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 01 May 2026 14:30:47 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/is-it-cake-no-its-a-parachute-space-photo-of-the-day-for-may-1-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ybixMgsS2yNrVURLpL5dLe-1280-80.jpg",
         "impact": 4
       },
       {
@@ -273,17 +284,6 @@
         "published_at": "Thu, 30 Apr 2026 15:29:32 +0000",
         "source_url": "https://www.space.com/space-exploration/artemis/welcome-home-artemis-2s-orion-capsule-returns-to-florida-after-epic-moon-mission-photo",
         "image_url": "https://cdn.mos.cms.futurecdn.net/28PWxjJcgedyNqvkzf9KCJ-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "'This is going to be what makes the Earth secure.' How one California company plans to protect us from dangerous asteroids",
-        "summary": "Exploration Labs has proposed the first commercial deep space ride share mission, known as Apophis EX, to rendezvous with potentially hazardous asteroid Apophis.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 30 Apr 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/asteroid-comet-missions/this-is-going-to-be-what-makes-the-earth-secure-how-one-california-company-plans-to-protect-us-from-dangerous-asteroids",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/dHPxx99gj7BHXU5aTQjKqY-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "This Week's Sky at a Glance, May 1 – 9",
+        "summary": "Venus hangs in place in the western twilight while Aldebaran and the Pleiades continue their downward slide behind it. And if Venus is the Evening Star, then bright Jupiter, high to its upper left, counts as the False Evening Star. The post This Week&#039;s Sky at a Glance, May 1 – 9 appeared first on Sky &amp; Telesco",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Fri, 01 May 2026 08:59:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-1-9-3/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May01_ev_NORM_FEATURED.jpg",
+        "impact": 4
+      },
+      {
         "title": "Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins",
         "summary": "The most recent interstellar visitor was crisscrossing our galaxy for some 10 to 12 billion years before it came near the Sun. The post Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -331,20 +342,42 @@
         "source_url": "https://skyandtelescope.org/stargazing-and-observing/astronomy-podcasts/sky-tour-podcast-may-2026/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Dippers-highlight-web.jpg",
         "impact": 4
-      },
-      {
-        "title": "Catching the Earliest Stars in the Universe",
-        "summary": "New observations from the James Webb Space Telescope might have caught the signature of the universe's first stars. The post Catching the Earliest Stars in the Universe appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Fri, 24 Apr 2026 13:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/catching-the-earliest-stars-in-the-universe/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/first-stars-ANU-600px.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "House Among The Trees / Wrzeszcz Architekci + mode:lina",
+        "summary": "House Among the Trees is the result of a collaboration between two studios: Wrzeszcz Architekci, responsible for the architectural design, and mode:lina™, which developed the interior concept and design. The shared ambition was to create a cohesive environment where architecture, interior space, and the surrounding lan",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 01 May 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040519/house-among-the-trees-wrzeszcz-architekci-plus-mode-lina",
+        "image_url": "https://images.adsttc.com/media/images/69d8/6dad/92c0/7a01/883e/7dc1/large_jpg/house-among-the-trees-wrzeszcz-architekci-plus-mode-lina_1.jpg?1775791550",
+        "impact": 4
+      },
+      {
+        "title": "Henning Larsen Reveals Designs for Residential Tower Adjacent to Daan Park in Taipei",
+        "summary": "Henning Larsen, in collaboration with KHL Architects &amp; Planners, Arup, and Flaviano Capriotti Architetti, has proposed the design for a 14-story residential building in Taipei for Continental Development Corporation. The project, titled Northern Lights, has a gross floor area of 3,464 square meters and is scheduled",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 01 May 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041114/henning-larsen-reveals-designs-for-residential-tower-adjacent-to-daan-park-in-taipei",
+        "image_url": "https://images.adsttc.com/media/images/69f3/5b58/e0a7/c201/892c/b15e/large_jpg/henning-larsen-designs-northern-lights-residential-tower-adjacent-to-daan-park-in-taipei_3.jpg?1777556372",
+        "impact": 4
+      },
+      {
+        "title": "\"Beauty in Itself Is Dangerous:\" Xu Tiantian on Moving Beyond Starchitecture in Louisiana Channel Interview",
+        "summary": "Xu Tiantian is the founding principal of DnA_Design and Architecture, an interdisciplinary practice that addresses both the physical and social dimensions of the contemporary living environment, across scales. Born in 1975 in Fujian, China, she received a Master of Architecture in Urban Design from the Harvard Graduate",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 01 May 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041129/beauty-in-itself-is-dangerous-xu-tiantian-on-moving-beyond-starchitecture-in-louisiana-channel-interview",
+        "image_url": "https://images.adsttc.com/media/images/69f3/e069/e0a7/c201/892c/b37e/large_jpg/beauty-in-itself-is-dangerous-xu-tiantian-in-louisiana-channel-interview_8.jpg?1777590389",
+        "impact": 4
+      },
       {
         "title": "SOM \"preserves the soul\" of 1960s modernist office complex in Milan",
         "summary": "Global studio SOM has renewed Corso Italia 23, a 1960s office complex in Milan, retrofitting its modernist structure and fractured interiors to align with modern standards. Occupying an entire urban block, the Corso Italia 23 building comprises three distinct volumes originally designed by Italian architects Gio Ponti ",
@@ -366,53 +399,9 @@
         "source_url": "https://www.dezeen.com/2026/04/24/diamond-schmitt-mvrdv-terraced-temerty-research-building-university-of-toronto/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/temerty-building-toronto-diamond-schmitt-mvrdv_dezeen_2364_sq-1.jpg",
         "impact": 4
-      },
-      {
-        "title": "Gensler set to design Trump Tower Tbilisi as country's tallest building",
-        "summary": "The Trump Organization has announced plans to build a 70-storey skyscraper in Tbilisi, Georgia, which would be the tallest building in the country. Planned in collaboration with Biograpi Living, Archi Group, The Sapir Organization, Blox Group and Finvest Georgia, the skyscraper is set to be designed by US architecture ",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 20 Apr 2026 19:00:33 +0000",
-        "source_url": "https://www.dezeen.com/2026/04/20/trump-tower-tbilisi-gensler-georgia-tallest-building/",
-        "image_url": "https://static.dezeen.com/uploads/2026/04/trump-tower-tbilisi-gensler-georgia-tallest-building_dezeen_2364_col_1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza",
-        "summary": "zU-studio embeds traditional basque symbols into the spatial design. The post zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 30 Apr 2026 13:30:37 +0000",
-        "source_url": "https://www.designboom.com/architecture/zu-studio-sunflower-sculptural-bench-san-sebastian-urban-plaza-la-bretxa/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/la-bretxa-public-space-zu-studio-san-sebastian-spain-designboom-1200-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "three-toned marble facades clad floating kiosk in beijing’s urban fabric",
-        "summary": "a triangular volume defines the overall architectural form, while a circular opening disrupts the continuity of the mass. The post three-toned marble facades clad floating kiosk in beijing’s urban fabric appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 30 Apr 2026 09:00:59 +0000",
-        "source_url": "https://www.designboom.com/architecture/three-toned-marble-facades-floating-kiosk-beijing-urban-fabric-bufen-atelier/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/floating-kiosk-bufen-atelier-beijing-designboom-1200.jpg",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "‘Unique engineering challenge’ as mid-century bridge is lifted clear of River Hull",
-        "summary": "The 73-year-old Weel Bridge in East Yorkshire has been removed by Esh Construction, marking a key stage in its £1M refurbishment. The post ‘Unique engineering challenge’ as mid-century bridge is lifted clear of River Hull appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 30 Apr 2026 10:41:05 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/unique-engineering-challenge-as-mid-century-bridge-is-lifted-clear-of-river-hull-30-04-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/ESH-Weel-Bridge-Lift-Out-18_04_2026-560x315.jpg",
-        "impact": 4
-      },
       {
         "title": "Granite scoops up Utah infrastructure contractor",
         "summary": "The California-based firm bought Kenny Seng Construction, which focuses on earthwork and site preparation as well as managing a gravel pit and recycling yard.&nbsp;",
@@ -422,17 +411,6 @@
         "published_at": "Wed, 29 Apr 2026 10:18:00 -0400",
         "source_url": "https://www.constructiondive.com/news/granite-buys-Kenny-Seng-utah-infrastructure-contractor/818777/",
         "image_url": "https://imgproxy.divecdn.com/0kkzjPCvc8WOJeO62JngaDp3tUE5s7mFl5YT42BpPfE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MDA1ODA4MDguanBn.webp",
-        "impact": 4
-      },
-      {
-        "title": "Kiewit ‘off-ramped’ from Baltimore’s Key Bridge rebuild",
-        "summary": "The Maryland Transportation Authority informed the firm Tuesday that it would not be retained for the next phase of the project&rsquo;s construction, which has seen its cost balloon.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 28 Apr 2026 16:23:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/kiewit-out-baltimore-key-bridge-rebuild-design-build/818749/",
-        "image_url": "https://imgproxy.divecdn.com/PQW0pN-NKEQxnZRN7fWft8OQXlMbpssJm50qU0NLchw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU3MTQ3MzE2LmpwZw==.webp",
         "impact": 4
       },
       {
@@ -456,63 +434,85 @@
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/04/02/commerce_enr_ph_article1_cash-is-king_image.webp?crop=true&height=257&t=1775138429&width=420",
         "impact": 4
+      },
+      {
+        "title": "New online marketplace launches to facilitate steel reuse in bridge works",
+        "summary": "A new online platform aimed at increasing the reuse of structural steel in bridge work has been launched by engineering practices Expedition Engineering and Format Engineers. The post New online marketplace launches to facilitate steel reuse in bridge works appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 01 May 2026 13:03:52 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/expedition-engineering-and-format-engineers-launch-tool-to-increase-steel-reuse-in-bridge-works-01-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2024/02/hs2-east-link-viaduct-84-metre-steel-viaduct-section-moving-over-the-westbound-link-road-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Movers and shakers: Biggest construction and engineering appointments April 2026",
+        "summary": "With the first quarter of the 2026/27 financial year underway, a number of civil engineering and construction firms have seen new faces join their organisations. The post Movers and shakers: Biggest construction and engineering appointments April 2026 appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 01 May 2026 05:30:41 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-april-2026-01-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/MixCollage-24-Apr-2026-01-25-PM-6792-560x315.jpg",
+        "impact": 4
       }
     ],
     "ai": [
       {
-        "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
-        "summary": "arXiv:2604.26522v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this challenge by grounding",
+        "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+        "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is propose",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.26522",
+        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.27096",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data",
-        "summary": "arXiv:2604.26645v1 Announce Type: new Abstract: AI-for-Science (AI4Science) is increasingly transforming scientific discovery by embedding machine learning models into prediction, simulation, and hypothesis generation workflows across domains. However, the effectiveness of these models is fundamentally constrained by t",
+        "title": "End-to-end autonomous scientific discovery on a real optical platform",
+        "summary": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assist",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.26645",
+        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.27092",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "LLM Psychosis: A Theoretical and Diagnostic Framework for Reality-Boundary Failures in Large Language Models",
-        "summary": "arXiv:2604.25934v1 Announce Type: cross Abstract: The deployment of large language models (LLMs) as interactive agents has exposed a category of behavioral failure that prevailing terminology, principally hallucination, fails to adequately characterize. This paper introduces LLM Psychosis as a structured theoretical fr",
+        "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
+        "summary": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points of failure vulnerable to attacks and bias; (2) Scalability, as reasoning",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.25934",
+        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.27132",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Training Computer Use Agents to Assess the Usability of Graphical User Interfaces",
-        "summary": "arXiv:2604.26020v1 Announce Type: cross Abstract: Usability testing with experts and potential users can assess the effectiveness, efficiency, and user satisfaction of graphical user interfaces (GUIs) but doing so remains a costly and time-intensive process. Prior work has used computer use agents (CUAs) and other gene",
+        "title": "When Roles Fail: Epistemic Constraints on Advocate Role Fidelity in LLM-Based Political Statement Analysis",
+        "summary": "arXiv:2604.27228v1 Announce Type: new Abstract: Democratic discourse analysis systems increasingly rely on multi-agent LLM pipelines in which distinct evaluator models are assigned adversarial roles to generate structured, multi-perspective assessments of political statements. A core assumption is that models will reli",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.26020",
+        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.27228",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-        "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+        "title": "Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents",
+        "summary": "arXiv:2604.27233v1 Announce Type: new Abstract: Tool-calling agents are evaluated on tool selection, parameter accuracy, and scope recognition, yet LLM trajectory assessments remain inherently post-hoc. Disconnected from the active execution loop, such assessments identify errors that are usually addressed through prom",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/openai-on-aws",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6Qdod1sP2lAXzlwaRnglBQ/95090ca1ad0eeca76034c16cb451106d/oai-aws-16x9.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2604.27233",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
