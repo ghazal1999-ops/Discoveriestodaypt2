@@ -1,8 +1,19 @@
 {
-  "date": "2026-05-01",
-  "last_updated": "2026-05-01 23:49 UTC",
+  "date": "2026-05-02",
+  "last_updated": "2026-05-02 23:40 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
+        "summary": "A decades-old cosmic mystery has finally been cracked: the strange X-rays coming from the bright star gamma-Cas are caused by a hidden stellar companion feeding off it. Using cutting-edge observations from the XRISM space mission, astronomers discovered that an unseen white dwarf star is siphoning material from gamma-C",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 01 May 2026 23:43:17 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260501052856.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/gamma-cas-and-its-hungry-white-dwarf-companion.webp",
+        "impact": 5
+      },
       {
         "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
         "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This br",
@@ -26,28 +37,6 @@
         "impact": 5
       },
       {
-        "title": "Harvard Breakthrough Brings Powerful UV Light Sources Onto a Chip",
-        "summary": "Scientists have achieved a major step toward chip-scale ultraviolet light by converting red light into powerful UV within a tiny photonic device. Ultraviolet light, beyond what comes naturally from the sun, plays a central role in modern technology, including sterilization, biological imaging, and chip manufacturing. R",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Thu, 30 Apr 2026 11:41:07 +0000",
-        "source_url": "https://scitechdaily.com/harvard-breakthrough-brings-powerful-uv-light-sources-onto-a-chip/",
-        "image_url": "https://scitechdaily.com/images/Camera-Image-of-the-Sidewall-Poled-Lithium-Niobate-Chip-During-UV-Generation-777x334.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Make Breakthrough in Turning Plastic Trash Into Clean Fuel Using Sunlight",
-        "summary": "Scientists are exploring a method to convert plastic waste into fuels and valuable chemicals using sunlight, potentially addressing both pollution and energy challenges. Scientists are developing a potential solution to two major global problems, plastic pollution and clean energy, by using sunlight to turn discarded p",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Thu, 30 Apr 2026 10:31:43 +0000",
-        "source_url": "https://scitechdaily.com/scientists-make-breakthrough-in-turning-plastic-trash-into-clean-fuel-using-sunlight/",
-        "image_url": "https://scitechdaily.com/images/Plastic-Bottle-Sunlight-777x437.jpg",
-        "impact": 5
-      },
-      {
         "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
         "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration of quadsqueezing—an elusive fourth-order quantum effect. By combining simple forces in a clever way, they made previously hidden quantum behaviors visible and usable, opening new frontiers for quantum technolog",
         "category": "Science",
@@ -56,6 +45,17 @@
         "published_at": "Fri, 01 May 2026 07:54:52 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/experimental-trapped-ion-setup.webp",
+        "impact": 5
+      },
+      {
+        "title": "Surprising obesity discovery rewrites decades of fat metabolism science",
+        "summary": "A key protein involved in fat metabolism has been found to do more than scientists once thought. Instead of just releasing fat, it helps maintain healthy fat tissue and balance in the body. When it’s missing or disrupted, the results can be surprisingly harmful. This finding reshapes how researchers think about obesity",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 30 Apr 2026 21:40:07 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260430213503.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
         "impact": 5
       }
     ],
@@ -94,6 +94,17 @@
         "impact": 3
       },
       {
+        "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+        "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 02 May 2026 06:36:28 +0000",
+        "source_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259104536.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
         "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
         "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
         "category": "Tech",
@@ -103,20 +114,31 @@
         "source_url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
         "impact": 3
-      },
-      {
-        "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
-        "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 30 Apr 2026 23:59:15 +0000",
-        "source_url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Physicians benefit from AI when making nuanced clinical decisions, study shows",
+        "summary": "Artificial intelligence-powered chatbots are getting pretty good at diagnosing some diseases, even when they are complex. But how do chatbots do when guiding treatment and care after the diagnosis? For example, how long before surgery should a patient stop taking prescribed blood thinners? Should a patient's treatment ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 02 May 2026 12:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-physicians-benefit-ai-nuanced-clinical.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/physician-2.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Experimental KRAS G12D drug slows cancer growth, shrinks tumors in early test",
+        "summary": "A first-in-human clinical trial led by an international team of researchers and published in the New England Journal of Medicine found that setidegrasib, an investigational targeted therapy drug designed to eliminate a key cancer-driving protein called KRAS G12D, shows encouraging early activity in patients with advanc",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 02 May 2026 10:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-04-experimental-kras-g12d-drug-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/6-patient.jpg",
+        "impact": 5
+      },
       {
         "title": "New treatment cuts bad cholesterol by nearly 50% without statins",
         "summary": "A new breakthrough could change how high cholesterol is treated, offering a powerful alternative to traditional drugs. Researchers have developed tiny DNA-based molecules that shut down PCSK9—a key protein that keeps “bad” LDL cholesterol circulating in the blood. By blocking this protein, cells can absorb more cholest",
@@ -148,28 +170,6 @@
         "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
-        "impact": 4
-      },
-      {
-        "title": "Hidden virus in your gut may be linked to colon cancer",
-        "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to ",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
-        "impact": 4
-      },
-      {
-        "title": "Two common drugs may reverse fatty liver disease, study finds",
-        "summary": "Scientists have discovered that combining two existing drugs can dramatically reduce liver fat linked to a common and often silent disease. The treatment not only improved liver health in animal models but also showed potential to lower heart-related risks. Interestingly, using lower doses of both drugs together worked",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 00:51:12 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422003024.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,28 @@
         "impact": 4
       },
       {
+        "title": "SpaceX launching 45 satellites to orbit early May 3: Watch it live",
+        "summary": "SpaceX will launch 45 satellites to orbit from California early Sunday morning (May 3), and you can watch the action live.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 02 May 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "This Week In Space podcast: Episode 208 — Lander, Lander, Who's Got a Lander",
+        "summary": "On Episode 208 of This Week In Space, Rod Pyle and Tariq Malik talk with Space.com's Mike Wall about the risks and realities of the new space race to the moon.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 02 May 2026 15:55:33 +0000",
+        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-208-lander-lander-whos-got-a-lander",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/hMmjqhBisBgv9NyK6DUCsa-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Drone radar could help spacecraft pinpoint where to drill for water on Mars, scientists say",
         "summary": "Drone-mounted radar flown over glaciers on Earth show how the technology can map buried ice in detail, helping future Mars spacecraft choose exactly where to drill.",
         "category": "Space",
@@ -262,28 +284,6 @@
         "published_at": "Fri, 01 May 2026 14:30:47 +0000",
         "source_url": "https://www.space.com/astronomy/mars/is-it-cake-no-its-a-parachute-space-photo-of-the-day-for-may-1-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/ybixMgsS2yNrVURLpL5dLe-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "This SpaceX Falcon Heavy rocket launch looks amazing from space in these wild satellite photos",
-        "summary": "SpaceX's Falcon Heavy rocket flew for the first time in 18 months Wednesday (April 29), and a sharp-eyed satellite was watching.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 30 Apr 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-launch-seen-from-space-satellite-photos",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/tngnP2iAQCUanhkNs6rAXa-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Welcome home! Artemis 2's Orion capsule returns to Florida after epic moon mission (photo)",
-        "summary": "Artemis 2's Orion capsule has returned to its Florida launch site, just three weeks after carrying four astronauts on a historic journey around the moon's far side.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 30 Apr 2026 15:29:32 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/welcome-home-artemis-2s-orion-capsule-returns-to-florida-after-epic-moon-mission-photo",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/28PWxjJcgedyNqvkzf9KCJ-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -436,26 +436,26 @@
         "impact": 4
       },
       {
-        "title": "New online marketplace launches to facilitate steel reuse in bridge works",
-        "summary": "A new online platform aimed at increasing the reuse of structural steel in bridge work has been launched by engineering practices Expedition Engineering and Format Engineers. The post New online marketplace launches to facilitate steel reuse in bridge works appeared first on New Civil Engineer.",
+        "title": "Lessons from Maine’s data center moratorium debate for construction",
+        "summary": "Data center partners at K&amp;L Gates, a Pittsburgh-based law firm, discuss statewide limits, the 20-megawatt cap and construction activity.&nbsp;",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 01 May 2026 13:03:52 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/expedition-engineering-and-format-engineers-launch-tool-to-increase-steel-reuse-in-bridge-works-01-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2024/02/hs2-east-link-viaduct-84-metre-steel-viaduct-section-moving-over-the-westbound-link-road-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 01 May 2026 11:12:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/maine-data-center-moratorium-debate-construction/819063/",
+        "image_url": "https://imgproxy.divecdn.com/YLqsQpZ_jcqm16paqUvQFO6HGcAm_O70UCZF9lbhxE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxNDAwNTcxX2YyaEZnTjQuanBn.webp",
+        "impact": 3
       },
       {
-        "title": "Movers and shakers: Biggest construction and engineering appointments April 2026",
-        "summary": "With the first quarter of the 2026/27 financial year underway, a number of civil engineering and construction firms have seen new faces join their organisations. The post Movers and shakers: Biggest construction and engineering appointments April 2026 appeared first on New Civil Engineer.",
+        "title": "Multifamily housing starts rose in March, but permits fell",
+        "summary": "The Northeast region showed the greatest strength in overall new residential construction, per a new report from HUD and the U.S. Census Bureau.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 01 May 2026 05:30:41 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-april-2026-01-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/MixCollage-24-Apr-2026-01-25-PM-6792-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 01 May 2026 09:42:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/multifamily-housing-starts-february-march-construction/819054/",
+        "image_url": "https://imgproxy.divecdn.com/G7bUNo7kbJPoB707Ogn6rUfiK9cRNGRK6OL9g8CwAEM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTI0MDcyNzYxLmpwZw==.webp",
+        "impact": 3
       }
     ],
     "ai": [
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.27096",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.27092",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.27132",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.27228",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2604.27233",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
