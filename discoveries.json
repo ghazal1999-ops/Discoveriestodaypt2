@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-02",
-  "last_updated": "2026-05-02 23:40 UTC",
+  "date": "2026-05-03",
+  "last_updated": "2026-05-03 23:41 UTC",
   "categories": {
     "science": [
       {
@@ -26,17 +26,6 @@
         "impact": 5
       },
       {
-        "title": "MIT Laser Breakthrough Lets Scientists Watch Drugs Enter the Brain in Real Time",
-        "summary": "MIT researchers found that chaotic laser light can transform into a precise, stable beam. This breakthrough enables much faster, high-resolution imaging of how drugs move into the brain. Researchers at MIT have identified an unexpected effect in optical physics that could lead to a new kind of bioimaging technology wit",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 01 May 2026 04:43:30 +0000",
-        "source_url": "https://scitechdaily.com/mit-laser-breakthrough-lets-scientists-watch-drugs-enter-the-brain-in-real-time/",
-        "image_url": "https://scitechdaily.com/images/Pencil-Beam-777x518.jpg",
-        "impact": 5
-      },
-      {
         "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
         "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration of quadsqueezing—an elusive fourth-order quantum effect. By combining simple forces in a clever way, they made previously hidden quantum behaviors visible and usable, opening new frontiers for quantum technolog",
         "category": "Science",
@@ -56,6 +45,17 @@
         "published_at": "Thu, 30 Apr 2026 21:40:07 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260430213503.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+        "impact": 5
+      },
+      {
+        "title": "This AI knew the answers but didn’t understand the questions",
+        "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new res",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 30 Apr 2026 02:44:03 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
         "impact": 5
       }
     ],
@@ -94,6 +94,17 @@
         "impact": 3
       },
       {
+        "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 03 May 2026 16:05:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801",
+        "impact": 3
+      },
+      {
         "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
         "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
         "category": "Tech",
@@ -102,17 +113,6 @@
         "published_at": "Sat, 02 May 2026 06:36:28 +0000",
         "source_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259104536.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-        "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 01 May 2026 22:13:27 +0000",
-        "source_url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
         "impact": 3
       }
     ],
@@ -232,25 +232,47 @@
     ],
     "space": [
       {
-        "title": "SpaceX rocket debris could slam into the moon: Here's what you need to know",
-        "summary": "Earth's moon is to be on the receiving end of a spent rocket stage in early August - the leftovers from a SpaceX Falcon 9 launch last year.",
+        "title": "Odyssey Team Celebrates on a Global Map of Mars",
+        "summary": "Description Team members past and present from NASA’s 2001 Mars Odyssey orbiter mission gathered on April 15, 2026, to celebrate 25 years since the spacecraft’s launch, which took place April 7, 2001. For the occasion, the team rolled out a giant global map of Mars created using imagery from Odyssey’s THEMIS (Thermal E",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 29 Apr 2026 13:05:40 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/a-stray-spacex-rocket-stage-could-slam-into-the-moon-this-august-amateur-astronomer-says",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/EZHuoLnUz5YYd2ABXs9s2S-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Thu, 30 Apr 2026 18:19:29 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26722/PIA26722.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
+        "summary": "Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA’s Artemis II crewmembers CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman, right, ring the closing bell of the Nasdaq market session, Thursday, April 30, 2026. NASA’s Artemi",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 01 May 2026 16:08:05 +0000",
+        "source_url": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/55241093118-d474b58236-o.jpg",
         "impact": 4
       },
       {
-        "title": "SpaceX launching 45 satellites to orbit early May 3: Watch it live",
-        "summary": "SpaceX will launch 45 satellites to orbit from California early Sunday morning (May 3), and you can watch the action live.",
+        "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
+        "summary": "Earth’s magnetic field is like a powerful trap. It lures electrically charged particles in space, near our planet, and snares them in an invisible, doughnut-shaped pen around Earth known as the ring current. This captive swarm of charged particles plays an important role in how Earth reacts to changing conditions in sp",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 01 May 2026 15:31:08 +0000",
+        "source_url": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/hpd/STORIE_pallet_IMG_3227.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX sends 45 satellites to orbit in nighttime launch from California (video)",
+        "summary": "SpaceX launched 45 satellites to orbit from California early Sunday morning (May 3), including a South Korean spacecraft that was originally supposed to fly in 2022.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
         "published_at": "Sat, 02 May 2026 16:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-1280-80.jpg",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/s7d6tYjEiT2BPP7EvfnRDc-1280-80.jpg",
         "impact": 4
       },
       {
@@ -262,28 +284,6 @@
         "published_at": "Sat, 02 May 2026 15:55:33 +0000",
         "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-208-lander-lander-whos-got-a-lander",
         "image_url": "https://cdn.mos.cms.futurecdn.net/hMmjqhBisBgv9NyK6DUCsa-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Drone radar could help spacecraft pinpoint where to drill for water on Mars, scientists say",
-        "summary": "Drone-mounted radar flown over glaciers on Earth show how the technology can map buried ice in detail, helping future Mars spacecraft choose exactly where to drill.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 01 May 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/drone-radar-could-help-spacecraft-pinpoint-where-to-drill-for-water-on-mars-scientists-say",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/iXjxXwNvddkxLiPMz9yveQ-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Is it cake? No, it's a parachute! | Space photo of the day for May 1, 2026",
-        "summary": "In this donut-shaped bag is a massive parachute. Next stop? Mars.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 01 May 2026 14:30:47 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/is-it-cake-no-its-a-parachute-space-photo-of-the-day-for-may-1-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ybixMgsS2yNrVURLpL5dLe-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -346,39 +346,6 @@
     ],
     "architecture": [
       {
-        "title": "House Among The Trees / Wrzeszcz Architekci + mode:lina",
-        "summary": "House Among the Trees is the result of a collaboration between two studios: Wrzeszcz Architekci, responsible for the architectural design, and mode:lina™, which developed the interior concept and design. The shared ambition was to create a cohesive environment where architecture, interior space, and the surrounding lan",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 01 May 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1040519/house-among-the-trees-wrzeszcz-architekci-plus-mode-lina",
-        "image_url": "https://images.adsttc.com/media/images/69d8/6dad/92c0/7a01/883e/7dc1/large_jpg/house-among-the-trees-wrzeszcz-architekci-plus-mode-lina_1.jpg?1775791550",
-        "impact": 4
-      },
-      {
-        "title": "Henning Larsen Reveals Designs for Residential Tower Adjacent to Daan Park in Taipei",
-        "summary": "Henning Larsen, in collaboration with KHL Architects &amp; Planners, Arup, and Flaviano Capriotti Architetti, has proposed the design for a 14-story residential building in Taipei for Continental Development Corporation. The project, titled Northern Lights, has a gross floor area of 3,464 square meters and is scheduled",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 01 May 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041114/henning-larsen-reveals-designs-for-residential-tower-adjacent-to-daan-park-in-taipei",
-        "image_url": "https://images.adsttc.com/media/images/69f3/5b58/e0a7/c201/892c/b15e/large_jpg/henning-larsen-designs-northern-lights-residential-tower-adjacent-to-daan-park-in-taipei_3.jpg?1777556372",
-        "impact": 4
-      },
-      {
-        "title": "\"Beauty in Itself Is Dangerous:\" Xu Tiantian on Moving Beyond Starchitecture in Louisiana Channel Interview",
-        "summary": "Xu Tiantian is the founding principal of DnA_Design and Architecture, an interdisciplinary practice that addresses both the physical and social dimensions of the contemporary living environment, across scales. Born in 1975 in Fujian, China, she received a Master of Architecture in Urban Design from the Harvard Graduate",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 01 May 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041129/beauty-in-itself-is-dangerous-xu-tiantian-on-moving-beyond-starchitecture-in-louisiana-channel-interview",
-        "image_url": "https://images.adsttc.com/media/images/69f3/e069/e0a7/c201/892c/b37e/large_jpg/beauty-in-itself-is-dangerous-xu-tiantian-in-louisiana-channel-interview_8.jpg?1777590389",
-        "impact": 4
-      },
-      {
         "title": "SOM \"preserves the soul\" of 1960s modernist office complex in Milan",
         "summary": "Global studio SOM has renewed Corso Italia 23, a 1960s office complex in Milan, retrofitting its modernist structure and fractured interiors to align with modern standards. Occupying an entire urban block, the Corso Italia 23 building comprises three distinct volumes originally designed by Italian architects Gio Ponti ",
         "category": "Architecture",
@@ -398,6 +365,39 @@
         "published_at": "Fri, 24 Apr 2026 20:03:36 +0000",
         "source_url": "https://www.dezeen.com/2026/04/24/diamond-schmitt-mvrdv-terraced-temerty-research-building-university-of-toronto/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/temerty-building-toronto-diamond-schmitt-mvrdv_dezeen_2364_sq-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "a compact timber tower house rises from a triangular site in switzerland",
+        "summary": "vertical living strategy defines the narrow building footprint. The post a compact timber tower house rises from a triangular site in switzerland appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 01 May 2026 20:00:13 +0000",
+        "source_url": "https://www.designboom.com/architecture/compact-timber-tower-house-triangular-site-switzerland-kit-architects/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/switzerland-tower-house-kit-architects-vertical-living-prefabricated-timber-designboom-1200-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza",
+        "summary": "zU-studio embeds traditional basque symbols into the spatial design. The post zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 30 Apr 2026 13:30:37 +0000",
+        "source_url": "https://www.designboom.com/architecture/zu-studio-sunflower-sculptural-bench-san-sebastian-urban-plaza-la-bretxa/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/la-bretxa-public-space-zu-studio-san-sebastian-spain-designboom-1200-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "three-toned marble facades clad floating kiosk in beijing’s urban fabric",
+        "summary": "a triangular volume defines the overall architectural form, while a circular opening disrupts the continuity of the mass. The post three-toned marble facades clad floating kiosk in beijing’s urban fabric appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 30 Apr 2026 09:00:59 +0000",
+        "source_url": "https://www.designboom.com/architecture/three-toned-marble-facades-floating-kiosk-beijing-urban-fabric-bufen-atelier/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/floating-kiosk-bufen-atelier-beijing-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -436,83 +436,83 @@
         "impact": 4
       },
       {
-        "title": "Lessons from Maine’s data center moratorium debate for construction",
-        "summary": "Data center partners at K&amp;L Gates, a Pittsburgh-based law firm, discuss statewide limits, the 20-megawatt cap and construction activity.&nbsp;",
+        "title": "New online marketplace launches to facilitate steel reuse in bridge works",
+        "summary": "A new online platform aimed at increasing the reuse of structural steel in bridge work has been launched by engineering practices Expedition Engineering and Format Engineers. The post New online marketplace launches to facilitate steel reuse in bridge works appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 01 May 2026 11:12:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/maine-data-center-moratorium-debate-construction/819063/",
-        "image_url": "https://imgproxy.divecdn.com/YLqsQpZ_jcqm16paqUvQFO6HGcAm_O70UCZF9lbhxE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxNDAwNTcxX2YyaEZnTjQuanBn.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 01 May 2026 13:03:52 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/expedition-engineering-and-format-engineers-launch-tool-to-increase-steel-reuse-in-bridge-works-01-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/jpg-Lucy-Breard-EA_PASSERELLE-SAINT-DENIS_1024_15_MAX-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "Multifamily housing starts rose in March, but permits fell",
-        "summary": "The Northeast region showed the greatest strength in overall new residential construction, per a new report from HUD and the U.S. Census Bureau.",
+        "title": "Movers and shakers: Biggest construction and engineering appointments April 2026",
+        "summary": "With the first quarter of the 2026/27 financial year underway, a number of civil engineering and construction firms have seen new faces join their organisations. The post Movers and shakers: Biggest construction and engineering appointments April 2026 appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 01 May 2026 09:42:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/multifamily-housing-starts-february-march-construction/819054/",
-        "image_url": "https://imgproxy.divecdn.com/G7bUNo7kbJPoB707Ogn6rUfiK9cRNGRK6OL9g8CwAEM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTI0MDcyNzYxLmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 01 May 2026 05:30:41 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-april-2026-01-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/MixCollage-24-Apr-2026-01-25-PM-6792-560x315.jpg",
+        "impact": 4
       }
     ],
     "ai": [
       {
-        "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-        "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is propose",
+        "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+        "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.27096",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/openai-on-aws",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6Qdod1sP2lAXzlwaRnglBQ/95090ca1ad0eeca76034c16cb451106d/oai-aws-16x9.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "End-to-end autonomous scientific discovery on a real optical platform",
-        "summary": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assist",
+        "title": "The next evolution of the Agents SDK",
+        "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.27092",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 15 Apr 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/41RxFM3sjs7BInenm8rsOt/f65ac2f0bce5b701dc61051ca7e58453/Agents_SDK__SEO_Card.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
-        "summary": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points of failure vulnerable to attacks and bias; (2) Scalability, as reasoning",
+        "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+        "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.27132",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 30 Apr 2026 15:59:41 +0000",
+        "source_url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/maintenance-ai.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "When Roles Fail: Epistemic Constraints on Advocate Role Fidelity in LLM-Based Political Statement Analysis",
-        "summary": "arXiv:2604.27228v1 Announce Type: new Abstract: Democratic discourse analysis systems increasingly rely on multi-agent LLM pipelines in which distinct evaluator models are assigned adversarial roles to generate structured, multi-perspective assessments of political statements. A core assumption is that models will reli",
+        "title": "Where the goblins came from",
+        "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.27228",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 29 Apr 2026 20:00:00 GMT",
+        "source_url": "https://openai.com/index/where-the-goblins-came-from",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4VaLYtAwgfUg82VF32O2gz/29e25c539c638b135a2d5d080f92c76f/Goblins-SEO__1_.jpg?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents",
-        "summary": "arXiv:2604.27233v1 Announce Type: new Abstract: Tool-calling agents are evaluated on tool selection, parameter accuracy, and scope recognition, yet LLM trajectory assessments remain inherently post-hoc. Disconnected from the active execution loop, such assessments identify errors that are usually addressed through prom",
+        "title": "Our commitment to community safety",
+        "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 02 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2604.27233",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/our-commitment-to-community-safety",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4LxnvjduXTJ8PvsFyOinqE/cd764864719bfa914c88e34d6e9f1002/Frame-1.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
