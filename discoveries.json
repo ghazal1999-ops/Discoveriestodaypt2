@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "last_updated": "2026-05-05 18:35 UTC",
+  "last_updated": "2026-05-05 23:45 UTC",
   "categories": {
     "science": [
       {
@@ -37,17 +37,6 @@
         "impact": 5
       },
       {
-        "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
-        "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This br",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 28 Apr 2026 09:35:37 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/positronium-beam-quantum-matter-wave.webp",
-        "impact": 5
-      },
-      {
         "title": "Quantum Breakthrough: New Algorithm Solves “Impossible” Materials in Seconds",
         "summary": "A new quantum-inspired algorithm is reshaping how scientists approach some of the most complex materials known, enabling rapid analysis of structures that were previously beyond computational reach. Quantum technologies, including quantum computers, rely on materials that display unusual quantum effects under specific ",
         "category": "Science",
@@ -56,6 +45,17 @@
         "published_at": "Mon, 04 May 2026 19:02:46 +0000",
         "source_url": "https://scitechdaily.com/quantum-breakthrough-new-algorithm-solves-impossible-materials-in-seconds/",
         "image_url": "https://scitechdaily.com/images/Quantum-Computing-Materials-777x555.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
+        "summary": "Scientists are using sunlight to turn plastic waste into clean fuels like hydrogen, offering a breakthrough solution to both pollution and energy challenges. While still in development, the approach could transform trash into a valuable resource for a low-carbon future.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 04 May 2026 09:48:17 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023841.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/plastic-recycling-sunlight-energy.webp",
         "impact": 5
       }
     ],
@@ -105,29 +105,18 @@
         "impact": 3
       },
       {
-        "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-        "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+        "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
+        "summary": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 04 May 2026 21:53:21 +0000",
-        "source_url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Tue, 05 May 2026 15:10:19 +0000",
+        "source_url": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
+        "image_url": "https://media.wired.com/photos/69f9fa912a43b29d6acd5f32/191:100/w_1280,c_limit/GettyImages-2258090216.jpg",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Study surveys dysfunctional gene splicing in metastatic kidney disease",
-        "summary": "Researchers at City of Hope and TGen (part of City of Hope) have identified a significant correlation between a tumor's \"splicing burden\" and its clinical response to treatment for metastatic renal cell carcinoma (mRCC). In a study published in the Journal for ImmunoTherapy of Cancer, researchers demonstrate that patie",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 05 May 2026 11:00:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-surveys-dysfunctional-gene-splicing-metastatic.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-genes.jpg",
-        "impact": 5
-      },
       {
         "title": "New treatment cuts bad cholesterol by nearly 50% without statins",
         "summary": "A new breakthrough could change how high cholesterol is treated, offering a powerful alternative to traditional drugs. Researchers have developed tiny DNA-based molecules that shut down PCSK9—a key protein that keeps “bad” LDL cholesterol circulating in the blood. By blocking this protein, cells can absorb more cholest",
@@ -138,6 +127,28 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260501013525.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/coronary-artery-disease.webp",
         "impact": 5
+      },
+      {
+        "title": "Brain-based index may reveal Alzheimer's risk patterns in adults as young as 30",
+        "summary": "Over the past few decades, neuroscientists and medical researchers worldwide have been trying to leverage available health records, brain scans and other medical data to uncover biological markers associated with the onset of specific diseases or neuropsychiatric disorders. The identification of these biomarkers could ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 05 May 2026 15:20:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-brain-based-index-reveal-alzheimer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-biomarker-based-me-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Breakthrough biomaterial heals tissue from the inside out",
+        "summary": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal studies, it successfully treated heart attack damage and even showed promise for conditions like traumatic brain injury and",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 05 May 2026 14:20:47 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504211842.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/biomaterial-manufacturing.webp",
+        "impact": 4
       },
       {
         "title": "A forgotten drug is giving new hope to kids with a rare disease",
@@ -159,17 +170,6 @@
         "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
-        "impact": 4
-      },
-      {
-        "title": "Hidden virus in your gut may be linked to colon cancer",
-        "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to ",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
         "impact": 4
       }
     ],
@@ -232,14 +232,14 @@
     ],
     "space": [
       {
-        "title": "NASA Fosters Development of Lunar Resource-Seeking Technologies",
-        "summary": "To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3 from lunar soil, known as regolith. This capability, known as in-situ resource utilization (ISRU), allows explorers to use what is already available on other pla",
+        "title": "NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’",
+        "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera system to capture this 360-degree panorama of a region nicknamed “Crocodile Bridge” on Jezero Crater’s rim. The panorama is made up of 980 images, 971 of which were taken on Dec. 18, 2025, the 1,717th Martian day, or sol, of the mission. An additional",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 04 May 2026 20:32:47 +0000",
-        "source_url": "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/",
-        "image_url": "https://images-assets.nasa.gov/image/art002e009287/art002e009287~large.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Tue, 05 May 2026 20:10:02 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26699/PIA26699.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       },
       {
@@ -251,6 +251,17 @@
         "published_at": "Tue, 05 May 2026 15:35:29 +0000",
         "source_url": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/",
         "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26751/PIA26751.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "NASA just released 12,000 photos from Artemis 2. Here are our top picks",
+        "summary": "You could spend hours scrolling through the thousands of photos just released by NASA from the Artemis 2 moon mission.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 05 May 2026 20:14:49 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/nasa-just-released-12-000-photos-from-artemis-2-here-are-our-top-picks",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/LWpngtKEusbTrRF5ReesV6-1280-80.jpg",
         "impact": 4
       },
       {
@@ -273,17 +284,6 @@
         "published_at": "Tue, 05 May 2026 17:00:00 +0000",
         "source_url": "https://www.space.com/entertainment/space-games/sol-shogunate-is-a-samurai-space-opera-set-on-the-moon-but-with-an-aerospace-engineer-making-sure-its-getting-the-science-right",
         "image_url": "https://cdn.mos.cms.futurecdn.net/Nnq6q4ctKuH55yqBuXnTCc-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "These 2 companies want to start removing space junk from orbit in 2027",
-        "summary": "Two private companies are partnering up to establish a repeatable debris removal service for low Earth orbit, and they want to debut it in 2027.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 05 May 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/satellites/these-2-companies-want-to-start-removing-space-junk-from-orbit-in-2027",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/AcFkE7cCeQTuszimyjkCKi-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -379,17 +379,6 @@
         "impact": 4
       },
       {
-        "title": "Architecture that Empowers Communities: The Stories Behind Francis Kéré’s Projects",
-        "summary": "\"My only concern is that my work must have a positive impact on the communities in which it is embedded,\" states Francis Kéré in his book Francis Kéré: Building Stories. His own life story, the context in which he was raised, and the experiences he has lived through all shape his approach to architecture. It is a commi",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 04 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041094/architecture-that-empowers-communities-the-stories-behind-francis-keres-projects",
-        "image_url": "https://images.adsttc.com/media/images/69f2/69f5/e0a7/c201/892c/ae9e/large_jpg/architecture-that-empowers-communities-the-stories-behind-francis-keres-projects_17.jpg?1777494545",
-        "impact": 4
-      },
-      {
         "title": "SOM \"preserves the soul\" of 1960s modernist office complex in Milan",
         "summary": "Global studio SOM has renewed Corso Italia 23, a 1960s office complex in Milan, retrofitting its modernist structure and fractured interiors to align with modern standards. Occupying an entire urban block, the Corso Italia 23 building comprises three distinct volumes originally designed by Italian architects Gio Ponti ",
         "category": "Architecture",
@@ -398,6 +387,17 @@
         "published_at": "Wed, 29 Apr 2026 10:04:58 +0000",
         "source_url": "https://www.dezeen.com/2026/04/29/som-corso-italia-23-office-milan-architecture/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/som-corso-italia-23-modernist-office-complex-milan-hero_dezeen_2364_col_0.jpg",
+        "impact": 4
+      },
+      {
+        "title": "a compact timber tower house rises from a triangular site in switzerland",
+        "summary": "vertical living strategy defines the narrow building footprint. The post a compact timber tower house rises from a triangular site in switzerland appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 01 May 2026 20:00:13 +0000",
+        "source_url": "https://www.designboom.com/architecture/compact-timber-tower-house-triangular-site-switzerland-kit-architects/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/switzerland-tower-house-kit-architects-vertical-living-prefabricated-timber-designboom-1200-1.jpg",
         "impact": 4
       }
     ],
@@ -432,7 +432,7 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/04/02/commerce_enr_ph_article1_cash-is-king_image.webp?crop=true&height=257&t=1775138429&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/04/22/commerce_enr_ph_article2_trends_image_final.webp?crop=true&height=257&t=1776866100&width=420",
         "impact": 4
       },
       {
