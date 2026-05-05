@@ -1,8 +1,19 @@
 {
-  "date": "2026-05-04",
-  "last_updated": "2026-05-04 23:53 UTC",
+  "date": "2026-05-05",
+  "last_updated": "2026-05-05 18:35 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
+        "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable and resistant to erro",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 04 May 2026 22:48:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/exotic-form-of-matter-quantum-material.webp",
+        "impact": 5
+      },
       {
         "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
         "summary": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet their inner atomic structure remained a mystery—until now. Researchers have finally mapped their three-dimensional structure in unprecedented detail, uncovering hidden patterns in how electric charges are arranged",
@@ -46,17 +57,6 @@
         "source_url": "https://scitechdaily.com/quantum-breakthrough-new-algorithm-solves-impossible-materials-in-seconds/",
         "image_url": "https://scitechdaily.com/images/Quantum-Computing-Materials-777x555.jpg",
         "impact": 5
-      },
-      {
-        "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
-        "summary": "Scientists are using sunlight to turn plastic waste into clean fuels like hydrogen, offering a breakthrough solution to both pollution and energy challenges. While still in development, the approach could transform trash into a valuable resource for a low-carbon future.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 04 May 2026 09:48:17 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023841.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/plastic-recycling-sunlight-energy.webp",
-        "impact": 5
       }
     ],
     "tech": [
@@ -83,6 +83,28 @@
         "impact": 3
       },
       {
+        "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+        "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 05 May 2026 15:49:55 +0000",
+        "source_url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2018/11/paypal.jpg?resize=1200,799",
+        "impact": 3
+      },
+      {
+        "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
+        "summary": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 05 May 2026 15:20:24 +0000",
+        "source_url": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
+        "impact": 3
+      },
+      {
         "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
         "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
         "category": "Tech",
@@ -92,31 +114,20 @@
         "source_url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
         "impact": 3
-      },
-      {
-        "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
-        "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 04 May 2026 18:02:18 +0000",
-        "source_url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2022/02/scanning-computer-group.jpg?resize=1200,675",
-        "impact": 3
-      },
-      {
-        "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
-        "summary": "Barocal might have discovered a cheap, nonpolluting material that could dethrone today's refrigeration technology.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 04 May 2026 13:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1371981344.jpg?resize=1200,800",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Study surveys dysfunctional gene splicing in metastatic kidney disease",
+        "summary": "Researchers at City of Hope and TGen (part of City of Hope) have identified a significant correlation between a tumor's \"splicing burden\" and its clinical response to treatment for metastatic renal cell carcinoma (mRCC). In a study published in the Journal for ImmunoTherapy of Cancer, researchers demonstrate that patie",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 05 May 2026 11:00:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-surveys-dysfunctional-gene-splicing-metastatic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-genes.jpg",
+        "impact": 5
+      },
       {
         "title": "New treatment cuts bad cholesterol by nearly 50% without statins",
         "summary": "A new breakthrough could change how high cholesterol is treated, offering a powerful alternative to traditional drugs. Researchers have developed tiny DNA-based molecules that shut down PCSK9—a key protein that keeps “bad” LDL cholesterol circulating in the blood. By blocking this protein, cells can absorb more cholest",
@@ -127,28 +138,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260501013525.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/coronary-artery-disease.webp",
         "impact": 5
-      },
-      {
-        "title": "Two drug strategies boost myelin repair in MS models, cutting neuroinflammation",
-        "summary": "Multiple sclerosis (MS) is most prevalent in Northern Europe and Canada, and more common in the northernmost latitudes. In recent years, the number of cases has grown, particularly among women. The disease causes the patient's own immune system to attack a protective coating known as myelin that surrounds nerve cells. ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 04 May 2026 16:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-drug-strategies-boost-myelin-ms.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-methods-unveiled-t.jpg",
-        "impact": 4
-      },
-      {
-        "title": "The GLP-1 paradox: Weight loss drugs may lead to stigma",
-        "summary": "Glucagonlike peptide-1 (GLP-1) medications have taken over the national conversation around weight loss. From celebrity headlines to everyday conversations, GLP-1 drugs like Ozempic and Wegovy are often framed as breakthroughs and seen as powerful new tools that can help people lose significant weight. But new research",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 04 May 2026 15:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-glp-paradox-weight-loss-drugs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/weight-loss-drugs.jpg",
-        "impact": 4
       },
       {
         "title": "A forgotten drug is giving new hope to kids with a rare disease",
@@ -170,6 +159,17 @@
         "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
+        "impact": 4
+      },
+      {
+        "title": "Hidden virus in your gut may be linked to colon cancer",
+        "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to ",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 22 Apr 2026 09:02:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/colorectal-cancer.webp",
         "impact": 4
       }
     ],
@@ -243,47 +243,47 @@
         "impact": 4
       },
       {
-        "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
-        "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimburs",
+        "title": "NASA’S Juno Misson Captures Jupiter Moon Thebe",
+        "summary": "Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026. The spacecraft’s Stellar Reference Unit (SRU) captured this image from a distance of approximately 3,100 miles (5,000 kilometers) at a resolution of about 1.9 miles (3 kilomet",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 04 May 2026 16:31:01 +0000",
-        "source_url": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Tue, 05 May 2026 15:35:29 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26751/PIA26751.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       },
       {
-        "title": "LAGEOS: An Earth Science Mission Built for Enduring Precision",
-        "summary": "On May 4, 1976, a spacecraft resembling a disco ball entered orbit almost 3,700 miles (6,000 kilometers) above Earth. This shiny, two‑foot‑wide (60‑centimeter) sphere called the Laser Geodynamics Satellite, or LAGEOS, is covered with 426 retroreflectors—small mirrored prisms designed to bounce laser light directly back",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 04 May 2026 13:15:00 +0000",
-        "source_url": "https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2016/05/lageos_1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX sends 45 satellites to orbit in nighttime launch from California (video)",
-        "summary": "SpaceX launched 45 satellites to orbit from California early Sunday morning (May 3), including a South Korean spacecraft that was originally supposed to fly in 2022.",
+        "title": "Moon lander preps for the lunar surface | Space photo of the day for May 6, 2026",
+        "summary": "Blue Origin's MK1 moon lander has passed its tests in the vacuum chamber as NASA continues to develop the hardware needed to return astronauts to the moon.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sat, 02 May 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/s7d6tYjEiT2BPP7EvfnRDc-1280-80.jpg",
+        "published_at": "Tue, 05 May 2026 17:13:26 +0000",
+        "source_url": "https://www.space.com/space-exploration/private-spaceflight/moon-lander-preps-for-the-lunar-surface-space-photo-of-the-day-for-may-6-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ubfP5Nkt9wSGbJGpfqqXAk-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "This Week In Space podcast: Episode 208 — Lander, Lander, Who's Got a Lander",
-        "summary": "On Episode 208 of This Week In Space, Rod Pyle and Tariq Malik talk with Space.com's Mike Wall about the risks and realities of the new space race to the moon.",
+        "title": "'SOL Shogunate' is a samurai space opera set on the moon, but with an aerospace engineer making sure it's 'getting the science right'",
+        "summary": "Chaos Manufacturing CEO Guy Costantini and aerospace engineer Taylore McClurg tell us about the process of creating a believable but striking lunar adventure.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sat, 02 May 2026 15:55:33 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-208-lander-lander-whos-got-a-lander",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/hMmjqhBisBgv9NyK6DUCsa-1280-80.jpg",
+        "published_at": "Tue, 05 May 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/entertainment/space-games/sol-shogunate-is-a-samurai-space-opera-set-on-the-moon-but-with-an-aerospace-engineer-making-sure-its-getting-the-science-right",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Nnq6q4ctKuH55yqBuXnTCc-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "These 2 companies want to start removing space junk from orbit in 2027",
+        "summary": "Two private companies are partnering up to establish a repeatable debris removal service for low Earth orbit, and they want to debut it in 2027.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 05 May 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/these-2-companies-want-to-start-removing-space-junk-from-orbit-in-2027",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/AcFkE7cCeQTuszimyjkCKi-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -333,18 +333,51 @@
         "impact": 4
       },
       {
-        "title": "This Week's Sky at a Glance, May 1 – 9",
-        "summary": "Venus hangs in place in the western twilight while Aldebaran and the Pleiades continue their downward slide behind it. And if Venus is the Evening Star, then bright Jupiter, high to its upper left, counts as the False Evening Star. The post This Week&#039;s Sky at a Glance, May 1 – 9 appeared first on Sky &amp; Telesco",
+        "title": "Meet the Constellations: Leo, the Lion",
+        "summary": "Leo, the Lion, is one of the most recognizable of the spring constellations, with its large size, distinctive shape, and plentiful bright stars. The post Meet the Constellations: Leo, the Lion appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
         "journal": "skyandtelescope.org",
-        "published_at": "Fri, 01 May 2026 08:59:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-1-9-3/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May01_ev_NORM_FEATURED.jpg",
+        "published_at": "Tue, 05 May 2026 17:56:11 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/meet-the-constellations-leo-the-lion/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Leo_Fujii.jpg",
         "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "Cobe to Transform Former IKEA Warehouse into a New Site for the Museum of Furniture Studies in Älmhult, Sweden",
+        "summary": "The Museum of Furniture Studies was founded in 2017 in Stockholm, showcasing a collection of more than 1,300 furniture pieces by over 44 international designers. The museum's physical location closed in 2022, maintaining its visibility through its Digital Archive for Design Furniture until it was acquired by IKEA in 20",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 05 May 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041166/cobe-to-transform-former-ikea-warehouse-into-a-new-site-for-the-museum-of-furniture-studies-in-almhult-sweden",
+        "image_url": "https://images.adsttc.com/media/images/69f9/125e/c748/943e/0771/a3dd/large_jpg/cobe-to-transform-a-former-ikea-warehouse-into-a-furniture-museum-in-almhult-sweden_4.jpg?1777930873",
+        "impact": 4
+      },
+      {
+        "title": "Rockpool House / Architecture Saville Isaacs",
+        "summary": "Rockpool is a coastal retreat nestled between bush and beach in Avoca Beach, NSW. Designed for a multi-generational family, the building cascades down a sloping hillside, offering panoramic ocean views. Crafted with solid forms and natural materials, it seamlessly connects interior and exterior spaces, embracing the la",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 05 May 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041073/rockpool-architecture-saville-isaacs",
+        "image_url": "https://images.adsttc.com/media/images/69f1/f4aa/c748/9401/89fb/92a7/large_jpg/rockpool-architecture-saville-isaacs_12.jpg?1777464512",
+        "impact": 4
+      },
+      {
+        "title": "Villa 68 / MAS Architecture Workshop",
+        "summary": "The Villa 68 is located in a new urban area in Ho Chi Minh City, Vietnam. It originated from the needs of a young family wishing to settle in the city while ensuring privacy, convenience, and an open living environment. The 500m² plot of land is situated at a road intersection, surrounded by planned large apartment bui",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 04 May 2026 19:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041138/villa-68-mas-architecture-workshop",
+        "image_url": "https://images.adsttc.com/media/images/69f7/a371/20d6/d800/0166/4070/large_jpg/THE_VILLA_68_-_MAS_-_Wuyhoang_Studio_-_3.jpg?1777836946",
+        "impact": 4
+      },
       {
         "title": "Architecture that Empowers Communities: The Stories Behind Francis Kéré’s Projects",
         "summary": "\"My only concern is that my work must have a positive impact on the communities in which it is embedded,\" states Francis Kéré in his book Francis Kéré: Building Stories. His own life story, the context in which he was raised, and the experiences he has lived through all shape his approach to architecture. It is a commi",
@@ -366,42 +399,20 @@
         "source_url": "https://www.dezeen.com/2026/04/29/som-corso-italia-23-office-milan-architecture/",
         "image_url": "https://static.dezeen.com/uploads/2026/04/som-corso-italia-23-modernist-office-complex-milan-hero_dezeen_2364_col_0.jpg",
         "impact": 4
-      },
-      {
-        "title": "Diamond Schmitt and MVRDV reveal design of terraced research building for University of Toronto",
-        "summary": "Architecture studios Diamond Schmitt, MVRDV and Two Row Architect have revealed the design for the Temerty Building at the University of Toronto, a research building informed by Indigenous design principles. The building will be located on the edge of a campus lawn at the University of Toronto St George campus and host",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 24 Apr 2026 20:03:36 +0000",
-        "source_url": "https://www.dezeen.com/2026/04/24/diamond-schmitt-mvrdv-terraced-temerty-research-building-university-of-toronto/",
-        "image_url": "https://static.dezeen.com/uploads/2026/04/temerty-building-toronto-diamond-schmitt-mvrdv_dezeen_2364_sq-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "a compact timber tower house rises from a triangular site in switzerland",
-        "summary": "vertical living strategy defines the narrow building footprint. The post a compact timber tower house rises from a triangular site in switzerland appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Fri, 01 May 2026 20:00:13 +0000",
-        "source_url": "https://www.designboom.com/architecture/compact-timber-tower-house-triangular-site-switzerland-kit-architects/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/switzerland-tower-house-kit-architects-vertical-living-prefabricated-timber-designboom-1200-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza",
-        "summary": "zU-studio embeds traditional basque symbols into the spatial design. The post zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 30 Apr 2026 13:30:37 +0000",
-        "source_url": "https://www.designboom.com/architecture/zu-studio-sunflower-sculptural-bench-san-sebastian-urban-plaza-la-bretxa/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/la-bretxa-public-space-zu-studio-san-sebastian-spain-designboom-1200-1.jpg",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "The hidden cost of rapid infrastructure growth in Texas",
+        "summary": "As billions flow into transportation, water and public works, the push to build faster may be putting construction quality at risk, an infrastructure builder writes.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 05 May 2026 12:57:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/hidden-cost-rapid-infrastructure-growth-texas/819342/",
+        "image_url": "https://imgproxy.divecdn.com/RzFDVsqWW88vY1F3OfuXa2NVpLtJAaYlb4npije9eXk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxMzMwNzk5LmpwZw==.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
@@ -425,37 +436,26 @@
         "impact": 4
       },
       {
-        "title": "New online marketplace launches to facilitate steel reuse in bridge works",
-        "summary": "A new online platform aimed at increasing the reuse of structural steel in bridge work has been launched by engineering practices Expedition Engineering and Format Engineers. The post New online marketplace launches to facilitate steel reuse in bridge works appeared first on New Civil Engineer.",
+        "title": "Jackson Civil Engineering secures £14M Hampshire coastal flood and erosion contract",
+        "summary": "Suffolk-based Jackson Civil Engineering has been named the construction contractor for the delivery of a flood and coastal erosion risk management (FCERM) scheme at Langstone in Havant, south Hampshire. The post Jackson Civil Engineering secures £14M Hampshire coastal flood and erosion contract appeared first on New Ci",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Fri, 01 May 2026 13:03:52 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/expedition-engineering-and-format-engineers-launch-tool-to-increase-steel-reuse-in-bridge-works-01-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/jpg-Lucy-Breard-EA_PASSERELLE-SAINT-DENIS_1024_15_MAX-560x315.jpg",
+        "published_at": "Tue, 05 May 2026 10:52:33 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/jackson-civil-engineering-secures-14m-hampshire-coastal-flood-and-erosion-contract-05-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/02/shutterstock_343476845-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "Movers and shakers: Biggest construction and engineering appointments April 2026",
-        "summary": "With the first quarter of the 2026/27 financial year underway, a number of civil engineering and construction firms have seen new faces join their organisations. The post Movers and shakers: Biggest construction and engineering appointments April 2026 appeared first on New Civil Engineer.",
+        "title": "Construction is overdue a culture shift on error and it must begin with training",
+        "summary": "The stakes couldn’t be higher for firms working in the infrastructure sector. Pressure is on from the government to deliver an ambitious £718bn pipeline which includes major social schemes like the New Hospital Programme and economic infrastructure across the rail, energy and water sectors. The post Construction is ove",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Fri, 01 May 2026 05:30:41 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-april-2026-01-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/MixCollage-24-Apr-2026-01-25-PM-6792-560x315.jpg",
+        "published_at": "Tue, 05 May 2026 08:22:27 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/construction-is-overdue-a-culture-shift-on-error-and-it-must-begin-with-training-05-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/engineers-shutterstock_2291640397-scaled_upscaling-560x315.jpg",
         "impact": 4
-      },
-      {
-        "title": "Senators introduce bill to enforce Buy America compliance",
-        "summary": "The legislation follows an Office of Inspector General audit that found the FAA failed to include required Buy American-related clauses in contracts funded through the Infrastructure Investment and Jobs Act.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 04 May 2026 10:25:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/senate-buy-america-build-america-compliance-act-bill-iija-oig-dot-faa/819181/",
-        "image_url": "https://imgproxy.divecdn.com/I-oY5kk8E-_MxCYfLSN0hScN8RkYWBldnBVYyJXMYa4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjY5MzkwNDMzLmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.00060",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.00136",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.00425",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.00737",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.00742",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
