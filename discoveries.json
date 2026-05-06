@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-05",
-  "last_updated": "2026-05-05 23:45 UTC",
+  "date": "2026-05-06",
+  "last_updated": "2026-05-06 23:50 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Mon, 04 May 2026 22:48:12 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/exotic-form-of-matter-quantum-material.webp",
+        "impact": 5
+      },
+      {
+        "title": "Magnetic 'super lenses' open new window on high-temperature superconductors",
+        "summary": "An international research team, including scientists from the Helmholtz-Zentrum Dresden-Rossendorf (HZDR), has achieved a methodological breakthrough in the study of superhydrides, a promising class of superconductors. For the first time, the team succeeded in analyzing lanthanum superhydrides under extreme pressure us",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Wed, 06 May 2026 19:40:03 EDT",
+        "source_url": "https://phys.org/news/2026-05-magnetic-super-lenses-window-high.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-super-lenses.jpg",
         "impact": 5
       },
       {
@@ -37,17 +48,6 @@
         "impact": 5
       },
       {
-        "title": "Quantum Breakthrough: New Algorithm Solves “Impossible” Materials in Seconds",
-        "summary": "A new quantum-inspired algorithm is reshaping how scientists approach some of the most complex materials known, enabling rapid analysis of structures that were previously beyond computational reach. Quantum technologies, including quantum computers, rely on materials that display unusual quantum effects under specific ",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Mon, 04 May 2026 19:02:46 +0000",
-        "source_url": "https://scitechdaily.com/quantum-breakthrough-new-algorithm-solves-impossible-materials-in-seconds/",
-        "image_url": "https://scitechdaily.com/images/Quantum-Computing-Materials-777x555.jpg",
-        "impact": 5
-      },
-      {
         "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
         "summary": "Scientists are using sunlight to turn plastic waste into clean fuels like hydrogen, offering a breakthrough solution to both pollution and energy challenges. While still in development, the approach could transform trash into a valuable resource for a low-carbon future.",
         "category": "Science",
@@ -61,62 +61,73 @@
     ],
     "tech": [
       {
-        "title": "Welcome to the Great American Satellite Age",
-        "summary": "A new generation of satellite startups in San Francisco is racing to capitalize on recent technological breakthroughs in space-based data collection and communications.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Mon, 04 May 2026 09:00:00 +0000",
-        "source_url": "https://www.wired.com/story/welcome-to-the-great-american-satellite-age/",
-        "image_url": "https://media.wired.com/photos/69f53cc81b39f18829e39352/191:100/w_1280,c_limit/Welcome-to-the-Great-American-Satellite-Age-Business.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Mac mini starting price goes up to $799, may be hard to get for \"months\"",
-        "summary": "Chip shortages and demand from AI enthusiasts are both playing a part.",
+        "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+        "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Mon, 04 May 2026 14:55:48 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-1152x648.jpeg",
+        "published_at": "Wed, 06 May 2026 21:47:27 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Hai-Long-wind-turbine-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-        "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+        "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+        "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 05 May 2026 15:49:55 +0000",
-        "source_url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2018/11/paypal.jpg?resize=1200,799",
+        "published_at": "Wed, 06 May 2026 18:05:41 +0000",
+        "source_url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/09/BraintrustTeamPhoto.jpg?resize=1200,900",
         "impact": 3
       },
       {
-        "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
-        "summary": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
+        "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+        "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 05 May 2026 15:20:24 +0000",
-        "source_url": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
+        "published_at": "Wed, 06 May 2026 17:23:08 +0000",
+        "source_url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1240619050.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
-        "summary": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
+        "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+        "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Tue, 05 May 2026 15:10:19 +0000",
-        "source_url": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
-        "image_url": "https://media.wired.com/photos/69f9fa912a43b29d6acd5f32/191:100/w_1280,c_limit/GettyImages-2258090216.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 06 May 2026 15:46:38 +0000",
+        "source_url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Genesis-AI-Rubiks-Cube-Solve-A-Cam.jpg?resize=1200,675",
+        "impact": 3
+      },
+      {
+        "title": "Google shuts down Project Mariner",
+        "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technol",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-05-06T17:21:45-04:00",
+        "source_url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/project-mariner-logo.png?quality=90&strip=all&crop=0%2C12.533882885894%2C100%2C74.932234228213&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years",
+        "summary": "A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab prior to surgery have remained cancer-free nearly three years later—an outcome that challenges the standard approac",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 06 May 2026 02:20:17 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234618.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/colon-cancer.webp",
+        "impact": 5
+      },
       {
         "title": "New treatment cuts bad cholesterol by nearly 50% without statins",
         "summary": "A new breakthrough could change how high cholesterol is treated, offering a powerful alternative to traditional drugs. Researchers have developed tiny DNA-based molecules that shut down PCSK9—a key protein that keeps “bad” LDL cholesterol circulating in the blood. By blocking this protein, cells can absorb more cholest",
@@ -129,47 +140,36 @@
         "impact": 5
       },
       {
-        "title": "Brain-based index may reveal Alzheimer's risk patterns in adults as young as 30",
-        "summary": "Over the past few decades, neuroscientists and medical researchers worldwide have been trying to leverage available health records, brain scans and other medical data to uncover biological markers associated with the onset of specific diseases or neuropsychiatric disorders. The identification of these biomarkers could ",
+        "title": "Direct-to-proteasome strategy degrades two cancer proteins and may curb drug resistance",
+        "summary": "A preclinical study has developed a strategy that enables the forced elimination of proteins that help tumors survive chemotherapy. This finding opens a new avenue to tackle resistance to cancer treatments, one of the major challenges in oncology. The research, published in Nature Communications, provides a proof of co",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 05 May 2026 15:20:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-brain-based-index-reveal-alzheimer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-biomarker-based-me-1.jpg",
+        "published_at": "Wed, 06 May 2026 18:20:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-proteasome-strategy-degrades-cancer-proteins.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-experimental-str.jpg",
         "impact": 4
       },
       {
-        "title": "Breakthrough biomaterial heals tissue from the inside out",
-        "summary": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal studies, it successfully treated heart attack damage and even showed promise for conditions like traumatic brain injury and",
+        "title": "Clinical trials that are actually marketing ploys targeting doctors: How seeding trials put profit over patients",
+        "summary": "Some clinical trials aren't designed to answer scientific questions. They're designed to market drugs. In our recently published research, my team and I analyzed over 34,000 industry-funded trials and found that hundreds of studies across seven medical fields were likely designed to promote a drug to physicians rather ",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 05 May 2026 14:20:47 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504211842.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/biomaterial-manufacturing.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 06 May 2026 18:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-clinical-trials-ploys-doctors-seeding.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/clinical-trials.jpg",
         "impact": 4
       },
       {
-        "title": "A forgotten drug is giving new hope to kids with a rare disease",
-        "summary": "A decades-old drug once used to treat sleeping sickness is now showing surprising promise against an ultra-rare and life-threatening genetic disorder called Bachmann-Bupp syndrome (BABS). Early patient treatments suggest the drug, DFMO, may ease severe symptoms by targeting the underlying genetic malfunction. Researche",
+        "title": "Blood protein study of 78,000 people uncovers disease mechanisms and drug repurposing leads",
+        "summary": "Involving a collaboration with 118 investigators contributing from 89 institutions, scientists from Queen Mary University of London's Precision Healthcare University Research Institute and Berlin Institute of Health (BIH) at Charité have led the world's largest study on the genetic regulation of blood proteins.",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 29 Apr 2026 01:28:38 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260428045556.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/marley-and-dr-bupp.webp",
-        "impact": 4
-      },
-      {
-        "title": "Simple “gut reset” may stop weight gain after Ozempic or Wegovy",
-        "summary": "A new minimally invasive procedure may help people keep weight off after stopping popular drugs like Ozempic and semaglutide—something most patients struggle with. In a clinical trial, those who underwent a technique called duodenal mucosal resurfacing regained far less weight compared to others after discontinuing the",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 23 Apr 2026 02:45:11 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 06 May 2026 15:20:27 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-blood-protein-people-uncovers-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/largest-study-on-genet.jpg",
         "impact": 4
       }
     ],
@@ -232,25 +232,25 @@
     ],
     "space": [
       {
-        "title": "NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’",
-        "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera system to capture this 360-degree panorama of a region nicknamed “Crocodile Bridge” on Jezero Crater’s rim. The panorama is made up of 980 images, 971 of which were taken on Dec. 18, 2025, the 1,717th Martian day, or sol, of the mission. An additional",
+        "title": "Why does NASA's Curiosity rover have a 'lucky penny' on Mars? | Space photo of the day for May 6, 2026",
+        "summary": "Providing good luck to the first Martian to find it.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Tue, 05 May 2026 20:10:02 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26699/PIA26699.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 06 May 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/a-penny-on-mars-space-photo-of-the-day-for-may-6-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/3Uc8XQb4tpHFkhAGuv2wR3-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "NASA’S Juno Misson Captures Jupiter Moon Thebe",
-        "summary": "Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026. The spacecraft’s Stellar Reference Unit (SRU) captured this image from a distance of approximately 3,100 miles (5,000 kilometers) at a resolution of about 1.9 miles (3 kilomet",
+        "title": "Solar activity makes space junk crash to Earth faster",
+        "summary": "Scientists studied how space junk moved in orbit over a 36-year span, finding that increased solar activity caused it to fall to Earth faster.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Tue, 05 May 2026 15:35:29 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26751/PIA26751.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 06 May 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/solar-activity-space-junk-crash-earth-faster",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/xLm3mjEChvHvivbhTfQyiW-1280-80.jpg",
         "impact": 4
       },
       {
@@ -311,14 +311,14 @@
         "impact": 4
       },
       {
-        "title": "Binary Stars Form Lots Of Exoplanets, But Many Of Them Are Ejected As Rogue Planets",
-        "summary": "Binary stars are common, but for a long time astronomers have thought that exoplanets would have trouble forming around them. In recent years, powerful telescopes have detected about 50 of these planets. Now, new simulations show that their formation isn't actually rare, it's just that they tend to be on wide orbits, w",
+        "title": "How an exoplanet odd couple survived by traveling in from the cold together",
+        "summary": "By probing the atmosphere of a mini-Neptune exoplanet, the James Webb Space Telescope has found that it formed much farther from its star than it is today, possibly explaining the origin of many other mini-Neptunes in the process.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 29 Apr 2026 20:26:36 +0000",
-        "source_url": "https://www.universetoday.com/articles/binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets",
-        "image_url": "https://www.universetoday.com/article_images/main-qimg-a231546b8a3369ba260078cce40d4f99-c_20260429_175537.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 06 May 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/exoplanets/how-an-exoplanet-odd-couple-survived-by-traveling-in-from-the-cold-together",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/q55jjVDiw3t5UcmD6e8apV-1280-80.jpg",
         "impact": 4
       },
       {
@@ -333,49 +333,38 @@
         "impact": 4
       },
       {
-        "title": "Meet the Constellations: Leo, the Lion",
-        "summary": "Leo, the Lion, is one of the most recognizable of the spring constellations, with its large size, distinctive shape, and plentiful bright stars. The post Meet the Constellations: Leo, the Lion appeared first on Sky &amp; Telescope.",
+        "title": "Questar Ceases Operations",
+        "summary": "The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The post Questar Ceases Operations appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
         "journal": "skyandtelescope.org",
-        "published_at": "Tue, 05 May 2026 17:56:11 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/meet-the-constellations-leo-the-lion/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Leo_Fujii.jpg",
+        "published_at": "Wed, 06 May 2026 19:37:54 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/questar-ceases-operations/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Questar.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Cobe to Transform Former IKEA Warehouse into a New Site for the Museum of Furniture Studies in Älmhult, Sweden",
-        "summary": "The Museum of Furniture Studies was founded in 2017 in Stockholm, showcasing a collection of more than 1,300 furniture pieces by over 44 international designers. The museum's physical location closed in 2022, maintaining its visibility through its Digital Archive for Design Furniture until it was acquired by IKEA in 20",
+        "title": "Alternate Futures: Five Modernist Landmarks Reimagined for the 21st Century",
+        "summary": "Modernism in architecture was perhaps the first truly global building design philosophy. Established at the beginning of the twentieth century, its early proponents were heavyweights from Europe, such as Le Corbusier, Walter Gropius, and Mies van der Rohe. In 1923, Le Corbusier published his seminal written work, usual",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 05 May 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041166/cobe-to-transform-former-ikea-warehouse-into-a-new-site-for-the-museum-of-furniture-studies-in-almhult-sweden",
-        "image_url": "https://images.adsttc.com/media/images/69f9/125e/c748/943e/0771/a3dd/large_jpg/cobe-to-transform-a-former-ikea-warehouse-into-a-furniture-museum-in-almhult-sweden_4.jpg?1777930873",
+        "published_at": "Wed, 06 May 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041097/alternate-futures-five-modernist-landmarks-reimagined-for-the-21st-century",
+        "image_url": "https://images.adsttc.com/media/images/69f2/f181/e0a7/c201/892c/af69/large_jpg/alternate-futures-five-adaptations-of-modernist-monuments-for-a-changing-world_1.jpg?1777529225",
         "impact": 4
       },
       {
-        "title": "Rockpool House / Architecture Saville Isaacs",
-        "summary": "Rockpool is a coastal retreat nestled between bush and beach in Avoca Beach, NSW. Designed for a multi-generational family, the building cascades down a sloping hillside, offering panoramic ocean views. Crafted with solid forms and natural materials, it seamlessly connects interior and exterior spaces, embracing the la",
+        "title": "Rocket-like skyscraper becomes Morocco's tallest building",
+        "summary": "The 250-metre-tall Mohammed VI Tower designed by architecture studios Rafael de La‑Hoz and Hakim Benjelloun has opened in Morocco as the country's tallest building and the third tallest in Africa. Named after Mohammed VI, who has reigned as King of Morocco since 1999, the skyscraper is situated along the Bou Regreg riv",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 05 May 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041073/rockpool-architecture-saville-isaacs",
-        "image_url": "https://images.adsttc.com/media/images/69f1/f4aa/c748/9401/89fb/92a7/large_jpg/rockpool-architecture-saville-isaacs_12.jpg?1777464512",
-        "impact": 4
-      },
-      {
-        "title": "Villa 68 / MAS Architecture Workshop",
-        "summary": "The Villa 68 is located in a new urban area in Ho Chi Minh City, Vietnam. It originated from the needs of a young family wishing to settle in the city while ensuring privacy, convenience, and an open living environment. The 500m² plot of land is situated at a road intersection, surrounded by planned large apartment bui",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 04 May 2026 19:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041138/villa-68-mas-architecture-workshop",
-        "image_url": "https://images.adsttc.com/media/images/69f7/a371/20d6/d800/0166/4070/large_jpg/THE_VILLA_68_-_MAS_-_Wuyhoang_Studio_-_3.jpg?1777836946",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 06 May 2026 09:55:01 +0000",
+        "source_url": "https://www.dezeen.com/2026/05/06/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun/",
+        "image_url": "https://static.dezeen.com/uploads/2026/05/mohammed-vi-tower-morocco-tallest-building_dezeen_2364_hero_1.jpg",
         "impact": 4
       },
       {
@@ -399,9 +388,31 @@
         "source_url": "https://www.designboom.com/architecture/compact-timber-tower-house-triangular-site-switzerland-kit-architects/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/switzerland-tower-house-kit-architects-vertical-living-prefabricated-timber-designboom-1200-1.jpg",
         "impact": 4
+      },
+      {
+        "title": "zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza",
+        "summary": "zU-studio embeds traditional basque symbols into the spatial design. The post zU-studio installs sunflower sculptural bench into san sebastián’s urban plaza appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 30 Apr 2026 13:30:37 +0000",
+        "source_url": "https://www.designboom.com/architecture/zu-studio-sunflower-sculptural-bench-san-sebastian-urban-plaza-la-bretxa/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/04/la-bretxa-public-space-zu-studio-san-sebastian-spain-designboom-1200-1.jpg",
+        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Sisk completes York Central bridge installation after ‘meticulous engineering and planning’",
+        "summary": "Sisk Infrastructure has completed a major project milestone at its York Central project for Homes England, with the successful installation of the main beams for a new bridge over the Network Rail East Coast Main Line. The post Sisk completes York Central bridge installation after &#8216;meticulous engineering and plan",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Wed, 06 May 2026 09:52:00 +0000",
+        "source_url": "https://www.newcivilengineer.com/uncategorized/sisk-completes-york-central-bridge-instillation-after-meticulous-engineering-and-planning-06-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/26_05_02_Sisk_York_011-Chris-Winter-560x315.jpg",
+        "impact": 4
+      },
       {
         "title": "The hidden cost of rapid infrastructure growth in Texas",
         "summary": "As billions flow into transportation, water and public works, the push to build faster may be putting construction quality at risk, an infrastructure builder writes.",
@@ -436,81 +447,70 @@
         "impact": 4
       },
       {
-        "title": "Jackson Civil Engineering secures £14M Hampshire coastal flood and erosion contract",
-        "summary": "Suffolk-based Jackson Civil Engineering has been named the construction contractor for the delivery of a flood and coastal erosion risk management (FCERM) scheme at Langstone in Havant, south Hampshire. The post Jackson Civil Engineering secures £14M Hampshire coastal flood and erosion contract appeared first on New Ci",
+        "title": "Construction Safety Week signs new OSHA alliance at DC event",
+        "summary": "About 1,000 construction pros gathered on the National Mall Wednesday as part of Safety Week to show they were &ldquo;All in Together.&rdquo;",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 05 May 2026 10:52:33 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/jackson-civil-engineering-secures-14m-hampshire-coastal-flood-and-erosion-contract-05-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/02/shutterstock_343476845-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Construction is overdue a culture shift on error and it must begin with training",
-        "summary": "The stakes couldn’t be higher for firms working in the infrastructure sector. Pressure is on from the government to deliver an ambitious £718bn pipeline which includes major social schemes like the New Hospital Programme and economic infrastructure across the rail, energy and water sectors. The post Construction is ove",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 05 May 2026 08:22:27 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/construction-is-overdue-a-culture-shift-on-error-and-it-must-begin-with-training-05-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/engineers-shutterstock_2291640397-scaled_upscaling-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 06 May 2026 17:23:26 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-safety-week-osha-alliance/819531/",
+        "image_url": "https://imgproxy.divecdn.com/_mfWRSB5Jk-o3mVVkOfJEMFU-knYfMUpqIzCNIX5S5k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNTg0OS5qcGVn.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
-        "summary": "arXiv:2605.00060v1 Announce Type: new Abstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports, selected WITSML re",
+        "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
+        "summary": "arXiv:2605.00839v1 Announce Type: new Abstract: The evolution of artificial intelligence (AI) and machine learning (ML) is reshaping smart manufacturing by providing new capabilities for efficiency, adaptability, and autonomy across industrial value chains. However, the deployment of AI and ML in industrial settings st",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.00060",
+        "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.00839",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
-        "summary": "arXiv:2605.00136v1 Announce Type: new Abstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, tool-augmented reasoning",
+        "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
+        "summary": "arXiv:2605.00841v1 Announce Type: new Abstract: This study presents a novel, AI-driven framework for assessing Environmental, Social, and Governance (ESG) performance in European small and medium-sized enterprises (SMEs). An initial phase established expert-validated ESG baseline scores from a subset of the Flash Eurob",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.00136",
+        "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.00841",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
-        "summary": "arXiv:2605.00425v1 Announce Type: new Abstract: Reinforcement learning (RL) has significantly advanced the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. Yet effective training remains challenging, as sparse, outcome-only rewards make it difficult to assign credit",
+        "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
+        "summary": "arXiv:2605.01101v1 Announce Type: new Abstract: This paper develops Virtual Speech Therapist (VST), an intelligent agent-based platform that streamlines stuttering assessment and delivers customized therapy planning through automated and adaptive AI-driven workflows. VST integrates state-of-the-art deep learning-based ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.00425",
+        "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.01101",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
-        "summary": "arXiv:2605.00737v1 Announce Type: new Abstract: Agentic AI architectures augment LLMs with external tools, unlocking strong capabilities. However, tool use is not always beneficial; some calls may be redundant or even harmful. Effective tool use, therefore, hinges on a core LLM decision: whether to call or not call a t",
+        "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
+        "summary": "arXiv:2605.01102v1 Announce Type: new Abstract: Single-agent systems (SAS) have become the default pattern for LLM-driven scientific workflows, but routing planning, tool use, and synthesis through a single context window comes with a well-known cost: as tool specifications and observational traces accumulate, the effe",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.00737",
+        "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.01102",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Position: agentic AI orchestration should be Bayes-consistent",
-        "summary": "arXiv:2605.00742v1 Announce Type: new Abstract: LLMs excel at predictive tasks and complex reasoning tasks, but many high-value deployments rely on decisions under uncertainty, for example, which tool to call, which expert to consult, or how many resources to invest. While the usefulness and feasibility of Bayesian app",
+        "title": "A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents",
+        "summary": "arXiv:2605.01143v1 Announce Type: new Abstract: Large Language Model (LLM)-powered agents demonstrate strong capabilities in autonomous task execution, tool use, and multi-step reasoning. However, their increasing autonomy also introduces a new attack surface: adversarial interactions can manipulate agent behavior thro",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 05 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.00742",
+        "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.01143",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
