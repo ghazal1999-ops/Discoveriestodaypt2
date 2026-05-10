@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-09",
-  "last_updated": "2026-05-09 23:44 UTC",
+  "date": "2026-05-10",
+  "last_updated": "2026-05-10 23:48 UTC",
   "categories": {
     "science": [
       {
@@ -12,17 +12,6 @@
         "published_at": "Mon, 04 May 2026 22:48:12 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/exotic-form-of-matter-quantum-material.webp",
-        "impact": 5
-      },
-      {
-        "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
-        "summary": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet their inner atomic structure remained a mystery—until now. Researchers have finally mapped their three-dimensional structure in unprecedented detail, uncovering hidden patterns in how electric charges are arranged",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 04 May 2026 09:14:10 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/polar-domains-multi-slice-electron-ptychography.webp",
         "impact": 5
       },
       {
@@ -48,14 +37,25 @@
         "impact": 5
       },
       {
-        "title": "Quantum Breakthrough Turns Simple Forces Into Powerful New Interactions",
-        "summary": "Scientists have created a new way to generate powerful quantum interactions, achieving the first-ever demonstration of quadsqueezing. This breakthrough makes previously hidden quantum effects visible and usable for advanced technologies. Oxford Scientists Demonstrate First-Ever Quadsqueezing Quantum Interaction Researc",
+        "title": "Scientists make stunning discovery that could change our understanding of the Universe",
+        "summary": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow properly inside living",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 08 May 2026 20:03:00 +0000",
-        "source_url": "https://scitechdaily.com/quantum-breakthrough-turns-simple-forces-into-powerful-new-interactions/",
-        "image_url": "https://scitechdaily.com/images/Nonlinear-Interactions-777x656.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 08 May 2026 03:40:08 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508022653.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/universe-laws-liquids.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists found the “holy grail” gene that could one day help humans regrow limbs",
+        "summary": "Scientists studying axolotls, zebrafish, and mice have uncovered a shared set of genes that may one day help humans regrow lost limbs. By identifying powerful “SP genes” involved in regeneration, researchers discovered that disabling these genes stopped proper bone regrowth in salamanders and mice. They then used a gen",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 09 May 2026 01:04:19 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508003121.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/mexican-axolotl.webp",
         "impact": 5
       }
     ],
@@ -105,14 +105,14 @@
         "impact": 3
       },
       {
-        "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
-        "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an RGB LED - [&#8230;]",
+        "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+        "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-09T08:00:00-04:00",
-        "source_url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268335_TCL_X11L_TV_JHiggins_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sat, 09 May 2026 10:30:00 +0000",
+        "source_url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+        "image_url": "https://media.wired.com/photos/69fe6f189caafa670d32bc82/191:100/w_1280,c_limit/security_mower_GettyImages-1454488331.jpg",
         "impact": 3
       }
     ],
@@ -151,17 +151,6 @@
         "impact": 5
       },
       {
-        "title": "Allergy treatment shifts toward precision medicine with tailored immunotherapy, new guidance shows",
-        "summary": "Until recently, allergy treatment was largely based on average treatment schemes. A patient with pollen allergy would receive a similar therapy to others with the same diagnosis. Today, this model is beginning to change. The latest recommendations published by the European Academy of Allergy and Clinical Immunology in ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 08 May 2026 15:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-allergy-treatment-shifts-precision-medicine.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/allergy-under-the-micr.jpg",
-        "impact": 4
-      },
-      {
         "title": "Breakthrough biomaterial heals tissue from the inside out",
         "summary": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal studies, it successfully treated heart attack damage and even showed promise for conditions like traumatic brain injury and",
         "category": "Medicine",
@@ -170,6 +159,17 @@
         "published_at": "Tue, 05 May 2026 14:20:47 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260504211842.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/biomaterial-manufacturing.webp",
+        "impact": 4
+      },
+      {
+        "title": "New obesity discovery rewrites decades of fat science",
+        "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those c",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 08 May 2026 17:21:20 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
         "impact": 4
       }
     ],
@@ -300,6 +300,17 @@
         "impact": 5
       },
       {
+        "title": "Hubble Capture a Starry Spiral Cosmic Neighbor",
+        "summary": "A spiral galaxy seen close up and tilted at an angle, so that its disc fills the view from corner to corner. Its disc is yellow near to the centre and pale blue farther out, showing cooler and hotter stars, respectively. Thin brown clouds of dust, glowing pink spots of star formation, and sparkling blue patches filled ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sun, 10 May 2026 17:41:41 +0000",
+        "source_url": "https://www.universetoday.com/articles/hubble-capture-a-starry-spiral-cosmic-neighbor",
+        "image_url": "https://www.universetoday.com/article_images/Starry_spiral_in_a_familiar_neighbourhood_20260510_173951.jpg",
+        "impact": 4
+      },
+      {
         "title": "How an exoplanet odd couple survived by traveling in from the cold together",
         "summary": "By probing the atmosphere of a mini-Neptune exoplanet, the James Webb Space Telescope has found that it formed much farther from its star than it is today, possibly explaining the origin of many other mini-Neptunes in the process.",
         "category": "Astronomy",
@@ -331,17 +342,6 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Exoplanet_viz.webp",
         "impact": 4
-      },
-      {
-        "title": "Questar Ceases Operations",
-        "summary": "The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The post Questar Ceases Operations appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 06 May 2026 19:37:54 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/questar-ceases-operations/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Questar.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
@@ -354,28 +354,6 @@
         "published_at": "Sat, 09 May 2026 07:30:00 +0000",
         "source_url": "https://www.archdaily.com/1041094/architecture-that-empowers-communities-the-stories-behind-francis-keres-projects",
         "image_url": "https://images.adsttc.com/media/images/69f2/69f5/e0a7/c201/892c/ae9e/large_jpg/architecture-that-empowers-communities-the-stories-behind-francis-keres-projects_17.jpg?1777494545",
-        "impact": 4
-      },
-      {
-        "title": "From Tradition to Modern Living: The Versatility and Elegance of Timber in 12 Japanese Interiors",
-        "summary": "Contemporary Japanese architecture continues to demonstrate how to adapt the evolving needs of modern residents to a rich building tradition and artisanal legacy. Wood has always been the soul of Japanese architecture. In many recent residential projects, this material transcends its structural role to become the prima",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 08 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041255/from-tradition-to-modern-living-the-versatility-and-elegance-of-timber-in-12-japanese-interiors",
-        "image_url": "https://images.adsttc.com/media/images/69fb/796c/ad4f/9c01/898d/376d/large_jpg/from-tradition-to-modern-living-the-versatility-and-elegance-of-timber-in-12-japanese-interiors_2.jpg?1778088310",
-        "impact": 4
-      },
-      {
-        "title": "Beyond the Shell: Félix Candela’s Palacio de los Deportes for the 1968 Mexico Olympics",
-        "summary": "When Mexico City hosted the Olympics in 1968, it was the first time the Games had been awarded to a Latin American country as well as the first time for a Spanish-speaking nation to host them. This made the games a good opportunity to project Mexico and its culture internationally, thus prompting the government to cons",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 08 May 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041169/beyond-the-shell-felix-candelas-palacio-de-los-deportes-for-the-1968-mexico-olympics",
-        "image_url": "https://images.adsttc.com/media/images/69f9/62ba/c748/943e/0771/a45f/large_jpg/the-mexico-1968-olympics-felix-candelas-structural-shift-at-the-palacio-de-los-deportes_11.jpg?1777951439",
         "impact": 4
       },
       {
@@ -398,6 +376,28 @@
         "published_at": "Wed, 06 May 2026 09:55:01 +0000",
         "source_url": "https://www.dezeen.com/2026/05/06/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun/",
         "image_url": "https://static.dezeen.com/uploads/2026/05/mohammed-vi-tower-morocco-tallest-building_dezeen_2364_hero_1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "bamboo, rattan, and seagrass solutions by caneplexus for climate-responsive architecture",
+        "summary": "caneplexus adapts natural building materials for contemporary applications, using natural fibers for artisanal woven systems. The post bamboo, rattan, and seagrass solutions by caneplexus for climate-responsive architecture appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 07 May 2026 10:00:14 +0000",
+        "source_url": "https://www.designboom.com/architecture/bamboo-rattan-seagrass-caneplexus-climate-responsive-architecture/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/caneplexus_designboom_Facebook.jpg",
+        "impact": 4
+      },
+      {
+        "title": "MOM Apartment / J.MAYER H.",
+        "summary": "MOM transforms a home set within a historic, stately apartment building in Berlin dating from around 1900. At the time of its construction, the building represented a remarkable example of innovative residential design. Each apartment features an individual floor plan, distinguishing it clearly from the standardized ho",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 10 May 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041322/mom-apartment-jmayer-h",
+        "image_url": "https://images.adsttc.com/media/images/69fd/22c3/bbf1/cd01/885b/aef4/large_jpg/mom-apartment-jmayer-h_12.jpg?1778197201",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
-        "summary": "arXiv:2605.05386v1 Announce Type: new Abstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. However, most current systems treat dialogue reactively and lack a principled mechanism to reason about what information i",
+        "title": "Parloa builds service agents customers want to talk to",
+        "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 09 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.05386",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 07 May 2026 11:00:00 GMT",
+        "source_url": "https://openai.com/index/parloa",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
-        "summary": "arXiv:2605.05407v1 Announce Type: new Abstract: Scaling LLM-based embodied agents from text-only environments to complex multimodal settings remains a major challenge. Recent work identifies a perception-reasoning-decision gap in standalone Vision-Language Models (VLMs), which often overlook task-critical information. ",
+        "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+        "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 09 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.05407",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/openai-on-aws",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6Qdod1sP2lAXzlwaRnglBQ/95090ca1ad0eeca76034c16cb451106d/oai-aws-16x9.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
-        "summary": "arXiv:2605.05413v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used to operate browsers, files, code and tools, making personal assistants a natural deployment target. Yet personal agents face a privacy-cost-capability tension: cloud models execute multi-step workflows well but expos",
+        "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+        "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 09 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.05413",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 30 Apr 2026 15:59:41 +0000",
+        "source_url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/maintenance-ai.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Agentic Discovery of Exchange-Correlation Density Functionals",
-        "summary": "arXiv:2605.05460v1 Announce Type: new Abstract: The development of accurate exchange-correlation (XC) functionals remains a longstanding challenge in density functional theory (DFT). The vast majority of XC functionals have been hand designed by human researchers combining physical insight, exact constraints, and empir",
+        "title": "Running Codex safely at OpenAI",
+        "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 09 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.05460",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 08 May 2026 12:30:00 GMT",
+        "source_url": "https://openai.com/index/running-codex-safely",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6Z5UXg0cKSYxr2RGkNkMCl/3087a1569ea42e3aab6b3e4decd1b140/Frame4.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "FoodCHA: Multi-Modal LLM Agent for Fine-Grained Food Analysis",
-        "summary": "arXiv:2605.05499v1 Announce Type: new Abstract: The widespread adoption of camera-equipped mobile devices and wearables has enabled convenient capture of meal images, making food recognition a key component for real time dietary monitoring. However, real-world food images present challenges due to high intra-class simi",
+        "title": "Advancing voice intelligence with new models in the API",
+        "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 09 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.05499",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 07 May 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/CtzMayHtxIkcMPAo8BpqJ/966285cf3802995841337122190ec2fd/OAI_GPT-Realtime-2_Art_Card_16x9.png.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
