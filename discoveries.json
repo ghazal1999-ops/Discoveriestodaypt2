@@ -1,41 +1,8 @@
 {
-  "date": "2026-05-10",
-  "last_updated": "2026-05-10 23:48 UTC",
+  "date": "2026-05-11",
+  "last_updated": "2026-05-11 23:57 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
-        "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable and resistant to erro",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 04 May 2026 22:48:12 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/exotic-form-of-matter-quantum-material.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Discover a New Way To Control Metals at the Atomic Scale",
-        "summary": "The discovery could help make electronics faster and more energy efficient. Researchers at the University of Minnesota Twin Cities have found a new way to change how a metal behaves electronically by controlling atomic-level interactions at the boundary where two materials meet. The study, published in Nature Communica",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sat, 09 May 2026 22:46:13 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-a-new-way-to-control-metals-at-the-atomic-scale/",
-        "image_url": "https://scitechdaily.com/images/Strange-Metal-Technology-Concept-777x518.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Turn Cancer’s Own Bacteria Against It in Breakthrough Therapy",
-        "summary": "A newly developed therapy inspired by bacteria residing within tumors offers a different way to combat cancer by targeting how tumor cells produce energy. Researchers at the University of Illinois Chicago have designed a new cancer treatment by borrowing a strategy from bacteria that live inside tumors. Instead of atta",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sat, 09 May 2026 00:26:42 +0000",
-        "source_url": "https://scitechdaily.com/scientists-turn-cancers-own-bacteria-against-it-in-breakthrough-therapy/",
-        "image_url": "https://scitechdaily.com/images/Malignant-Cancerous-Growth-Cancer-Cell-Spreading-777x518.jpg",
-        "impact": 5
-      },
       {
         "title": "Scientists make stunning discovery that could change our understanding of the Universe",
         "summary": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow properly inside living",
@@ -57,62 +24,95 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260508003121.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/mexican-axolotl.webp",
         "impact": 5
+      },
+      {
+        "title": "Ice age humans in China crafted surprisingly advanced stone tools 146,000 years ago",
+        "summary": "Scientists in China discovered that ancient humans were making surprisingly advanced stone tools during a harsh ice age 146,000 years ago. The tools, created by Homo juluensis, show careful planning and complex thinking rather than simple stone-chipping. Researchers dated the site using tiny calcite crystals inside ani",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 09 May 2026 06:22:50 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508003113.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/ancient-stone-tools-lingjing.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists accidentally discover DNA that breaks the rules of life",
+        "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes signal their end. Th",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 07 May 2026 03:01:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/dna-genetic-coding.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
+        "summary": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 06 May 2026 20:28:28 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/kpz-universality-in-two-dimensional-system-in-space-and-time.webp",
+        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
-        "summary": "Testing shows rotor blades won't disintegrate when they spin at supersonic speed.",
+        "title": "Fostering breakthrough AI innovation through customer-back engineering",
+        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward ",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 08 May 2026 15:46:27 +0000",
-        "source_url": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skyfall1-1152x648-1778251181.jpg",
-        "impact": 4
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 11 May 2026 13:33:06 +0000",
+        "source_url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Capital-One-iStock-2208464815.jpg?resize=1200,600",
+        "impact": 5
       },
       {
-        "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
-        "summary": "More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. \"This is the indispensable foundation for a successful strategic realignment. This forces us to make painful cuts — including our subsidiaries.\"",
+        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+        "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Fri, 08 May 2026 18:25:29 +0000",
-        "source_url": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/Porsche-electric-macan-Getty.jpg?resize=1200,801",
+        "published_at": "Mon, 11 May 2026 23:04:10 +0000",
+        "source_url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
         "impact": 3
       },
       {
-        "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
-        "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently available, and now through May 11th (or while supplies last), it&#8217;s on sale at Woot [&#8230;]",
+        "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+        "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 11 May 2026 21:59:34 +0000",
+        "source_url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2194681867.jpg?resize=1200,700",
+        "impact": 3
+      },
+      {
+        "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
+        "summary": "Instead of building robots themselves, the team is focused on a simpler goal — providing data that robots need to learn and operate. They believe that better data will be key to making robots more useful.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 11 May 2026 10:58:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
+        "impact": 3
+      },
+      {
+        "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+        "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-foun",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-05-09T12:00:00-04:00",
-        "source_url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25333816/Untitled_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Let it snow",
-        "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the world around them thanks to ray tracing. But there's something special about snow. It might not be as ",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-09T09:00:00-04:00",
-        "source_url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/MarketingVideo_MAIN21.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-        "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Sat, 09 May 2026 10:30:00 +0000",
-        "source_url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-        "image_url": "https://media.wired.com/photos/69fe6f189caafa670d32bc82/191:100/w_1280,c_limit/security_mower_GettyImages-1454488331.jpg",
+        "published_at": "2026-05-11T18:40:20-04:00",
+        "source_url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0%2C3.4797855362992%2C100%2C93.040428927402&w=1200",
         "impact": 3
       }
     ],
@@ -162,14 +162,14 @@
         "impact": 4
       },
       {
-        "title": "New obesity discovery rewrites decades of fat science",
-        "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those c",
+        "title": "Reconnecting body and brain: Europe's breakthrough in reversing paralysis",
+        "summary": "Spinal cord injury (SCI) remains one of the most devastating neurological conditions, severing communication between the brain and the body and leaving millions worldwide with permanent paralysis. Despite decades of research, restoring movement after spinal cord injury has remained one of neuroscience's most intractabl",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 08 May 2026 17:21:20 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 11 May 2026 19:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-reconnecting-body-brain-europe-breakthrough.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/reconnecting-body-and.jpg",
         "impact": 4
       }
     ],
@@ -197,6 +197,17 @@
         "impact": 4
       },
       {
+        "title": "How Unknowable Math Can Help Hide Secrets",
+        "summary": "A graduate student recently harnessed the complexity of mathematical proofs to create a powerful new tool in cryptography. The post How Unknowable Math Can Help Hide Secrets first appeared on Quanta Magazine",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Mon, 11 May 2026 14:15:13 +0000",
+        "source_url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/GodelCryptography-crKristinaArmitage-Social.jpg",
+        "impact": 3
+      },
+      {
         "title": "School of Science welcomed new faculty in 2024",
         "summary": "Eleven new professors join the departments of Biology; Brain and Cognitive Sciences; Earth, Atmospheric and Planetary Sciences; Mathematics; and Physics.",
         "category": "Mathematics",
@@ -217,17 +228,6 @@
         "source_url": "https://news.mit.edu/2025/laurent-demanet-co-director-center-computational-science-engineering-1007",
         "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202510/laurent-demanet-mit-00_0.jpg?itok=UKBXCtvx",
         "impact": 3
-      },
-      {
-        "title": "What Can We Gain by Losing Infinity?",
-        "summary": "Ultrafinitism, a philosophy that rejects the infinite, has long been dismissed as mathematical heresy. But it is also producing new insights in math and beyond. The post What Can We Gain by Losing Infinity? first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Wed, 29 Apr 2026 14:54:04 +0000",
-        "source_url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Anti-Infinity-cr-Kristina-Armitage-Social.jpg",
-        "impact": 3
       }
     ],
     "space": [
@@ -241,6 +241,17 @@
         "source_url": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
         "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nasa-spacex-crs-34-mission-overview.png",
         "impact": 5
+      },
+      {
+        "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
+        "summary": "Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton&#160;later&#160;became",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 11 May 2026 20:51:53 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg",
+        "impact": 4
       },
       {
         "title": "NASA’s Psyche Mission Captures Mars During Gravity Assist Approach",
@@ -273,17 +284,6 @@
         "published_at": "Fri, 08 May 2026 16:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo",
         "image_url": "https://cdn.mos.cms.futurecdn.net/8Jf22mwpbN3sR7wTAdyXga-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "I Am Artemis: Anton Kiriwas",
-        "summary": "Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA’s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 08 May 2026 17:36:13 +0000",
-        "source_url": "https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260508-ph-csh01-0032-e1778260308717.jpg",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "A Black Hole’s Puzzling X-Ray Bursts",
+        "summary": "In 2019, a supermassive black hole in a galaxy 300 million light-years away woke up. Now, it’s puzzling astronomers with an unexpected slowdown in its X-ray bursts. The post A Black Hole’s Puzzling X-Ray Bursts appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Mon, 11 May 2026 13:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/a-black-holes-puzzling-x-ray-bursts/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Giant_black_hole_awakens_with_repetitive_X-ray_bursts.jpeg",
+        "impact": 4
+      },
+      {
         "title": "This Week's Sky at a Glance, May 8 – 17",
         "summary": "Jupiter, shining high the western dusk, inches down day toward brighter Venus. Venus, meanwhile, creeps toward the horntip stars of Taurus and stands between them on May 13th. The post This Week&#039;s Sky at a Glance, May 8 – 17 appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -331,31 +342,9 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May08_ev_DARKblu_FEATURED.jpg",
         "impact": 4
-      },
-      {
-        "title": "Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface",
-        "summary": "The James Webb Space Telescope has observed the surface of a bare rocky exoplanet, revealing old, dark rock akin to that on our Moon. The post Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Thu, 07 May 2026 13:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Exoplanet_viz.webp",
-        "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "Architecture that Empowers Communities: The Stories Behind Francis Kéré’s Projects",
-        "summary": "\"My only concern is that my work must have a positive impact on the communities in which it is embedded,\" states Francis Kéré in his book Francis Kéré: Building Stories. His own life story, the context in which he was raised, and the experiences he has lived through all shape his approach to architecture. It is a commi",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sat, 09 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041094/architecture-that-empowers-communities-the-stories-behind-francis-keres-projects",
-        "image_url": "https://images.adsttc.com/media/images/69f2/69f5/e0a7/c201/892c/ae9e/large_jpg/architecture-that-empowers-communities-the-stories-behind-francis-keres-projects_17.jpg?1777494545",
-        "impact": 4
-      },
       {
         "title": "Ten Australian houses ideal for living out the suburban dream",
         "summary": "Car-borne urban sprawl justifiably draws a lot of criticism, but as this roundup of Australian houses with plenty of living space and leafy gardens shows, the appeal of the suburbs can be hard to deny. Moon House, Sydney, by James Garvan Architecture Located in the Sydney suburb of Waverley, this all-white house was de",
@@ -390,14 +379,25 @@
         "impact": 4
       },
       {
-        "title": "MOM Apartment / J.MAYER H.",
-        "summary": "MOM transforms a home set within a historic, stately apartment building in Berlin dating from around 1900. At the time of its construction, the building represented a remarkable example of innovative residential design. Each apartment features an individual floor plan, distinguishing it clearly from the standardized ho",
+        "title": "15 Khartoum Road MPark / Choi Studio",
+        "summary": "15 Khartoum Road by Choi Studio is a new workplace destination for Stockland's MPark precinct that sets a benchmark for the evolving urban character of Macquarie Park. MPark is one of Australia's largest innovation precincts for life sciences and technology, leading the way for the future of work. Master planned by 3XN",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 10 May 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041322/mom-apartment-jmayer-h",
-        "image_url": "https://images.adsttc.com/media/images/69fd/22c3/bbf1/cd01/885b/aef4/large_jpg/mom-apartment-jmayer-h_12.jpg?1778197201",
+        "published_at": "Mon, 11 May 2026 19:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041421/15-khartoum-road-mpark-choi-studio",
+        "image_url": "https://images.adsttc.com/media/images/6a01/9c2a/fda2/da01/89bd/ccb3/large_jpg/15-khartoum-road-mpark-choi-studio_1.jpg?1778490464",
+        "impact": 4
+      },
+      {
+        "title": "Iporanga House / Nati Minas & Studio",
+        "summary": "Located in an environmentally protected area within the Atlantic Forest, Casa Iporanga was designed as a refuge in dialogue with the landscape. The project adopts a careful approach, respecting the original architecture of the house, marked by a modernist language that was decisive in the clients' choice of property, a",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 11 May 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041368/iporanga-house-nati-minas-and-studio",
+        "image_url": "https://images.adsttc.com/media/images/69f9/6a1a/20d6/d800/0166/4149/large_jpg/25-NatiMinas-ResIporanga-MitiSameshima-37.jpg?1777953365",
         "impact": 4
       }
     ],
@@ -425,19 +425,30 @@
         "impact": 4
       },
       {
-        "title": "Bam Nuttall wins £9.5M Upper Thurne flood risk contract",
-        "summary": "Civil engineering and construction Bam Nuttall has secured the £9.5M contract to deliver three new pumping stations in the Norfolk Broads as part of a major flood risk management upgrade for the Upper Thurne catchment, near to Great Yarmouth. The post Bam Nuttall wins £9.5M Upper Thurne flood risk contract appeared fir",
+        "title": "Data centers remain ‘largest driver behind growth’ in construction planning",
+        "summary": "Nonresidential planning accelerated in April after a slow start to the year, according to Dodge Construction Network.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 08 May 2026 09:23:21 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/bam-nuttall-wins-9-5m-upper-thurne-flood-risk-contract-08-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2022/07/Bam-Nuttall.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 11 May 2026 13:22:04 -0400",
+        "source_url": "https://www.constructiondive.com/news/data-center-largest-driver-growth-construction-planning/819879/",
+        "image_url": "https://imgproxy.divecdn.com/2TliusUIeFXDoff0ISR3B_vmw7maw7D8_gky6Si-2lc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNDM2MjMwLTIuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "How trust is built in AI-assisted preconstruction workflows",
+        "summary": "Estimators don&rsquo;t adopt AI overnight. Trust grows through consistency, review and measured outcomes.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 11 May 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/how-trust-is-built-in-ai-assisted-preconstruction-workflows/819406/",
+        "image_url": "https://imgproxy.divecdn.com/MbmZ54iu76KwJTuEzRuiA6c1PJ5Ly_GQq6fa0HJa-O0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDQweDYxNl9oVW45ajFaLnBuZw==.webp",
+        "impact": 3
       },
       {
         "title": "Skanska says its work unimpacted by major economic headwinds",
-        "summary": "The firm continues to manage risk and deliver profits on the back of U.S. construction work, the contractor reported in its first quarter earnings Thursday.",
+        "summary": "The firm continues to manage risk and deliver profits on the back of U.S. construction work, the contractor reported in its first-quarter earnings.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -445,74 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/skanska-risk-economy-earnings-q1-data-centers/819732/",
         "image_url": "https://imgproxy.divecdn.com/x-v9jgXI8KDfZoealamiwzUsxTrGgKDguvO_zCVs5EE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS85M2VkMDA4MS1iMzU3LTRkNzctODFmYS02YmQwMzI4Y2QwMGEuMi5qcGc=.webp",
         "impact": 3
-      },
-      {
-        "title": "Punch List: Adaptive reuse and Safety Week in the Big Apple",
-        "summary": "Plus, the Empire State will invest $78 million across four infrastructure projects and other news builders should know about.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 08 May 2026 10:07:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/new-york-city-construction-safety-church-refurbish-highway/819623/",
-        "image_url": "https://imgproxy.divecdn.com/mQPgmLnB8GOVUvEkS2MfZRg_SMMwxx4NIkTk8X8rCqo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yNjAwNl9DTU9NX1BoYXNlXzJfVmlld18yLUZYQy1FZGl0cy0yMDAwcHgtMTAyNHgxMDI0LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Parloa builds service agents customers want to talk to",
-        "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+        "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+        "summary": "arXiv:2605.06696v1 Announce Type: new Abstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI safety and alignment. However, observing agent behavior alone is often insufficient to distinguish genuine informational coupling from spurious sim",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 07 May 2026 11:00:00 GMT",
-        "source_url": "https://openai.com/index/parloa",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.06696",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-        "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+        "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+        "summary": "arXiv:2605.06702v1 Announce Type: new Abstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains constrained by a rigid separation between training and deployment, after which learning effectively ceases. This limitation contrasts with natural ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/openai-on-aws",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6Qdod1sP2lAXzlwaRnglBQ/95090ca1ad0eeca76034c16cb451106d/oai-aws-16x9.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.06702",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-        "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built",
+        "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+        "summary": "arXiv:2605.06716v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and planning capabilities. While memory mechanisms have emerged as the architectural cornerstone of these systems, current research remains fragmented",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 30 Apr 2026 15:59:41 +0000",
-        "source_url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/maintenance-ai.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.06716",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Running Codex safely at OpenAI",
-        "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+        "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+        "summary": "arXiv:2605.06761v1 Announce Type: new Abstract: The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Existing data collection attempts remain limited to offline trajectories for supervised fine-tuning or a handful of simulated environments for RL t",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 08 May 2026 12:30:00 GMT",
-        "source_url": "https://openai.com/index/running-codex-safely",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6Z5UXg0cKSYxr2RGkNkMCl/3087a1569ea42e3aab6b3e4decd1b140/Frame4.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.06761",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Advancing voice intelligence with new models in the API",
-        "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+        "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+        "summary": "arXiv:2605.06772v1 Announce Type: new Abstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study this using SCALAR (Stru",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 07 May 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/CtzMayHtxIkcMPAo8BpqJ/966285cf3802995841337122190ec2fd/OAI_GPT-Realtime-2_Art_Card_16x9.png.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.06772",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
