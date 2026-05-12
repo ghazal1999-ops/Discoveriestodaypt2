@@ -1,8 +1,19 @@
 {
-  "date": "2026-05-11",
-  "last_updated": "2026-05-11 23:57 UTC",
+  "date": "2026-05-12",
+  "last_updated": "2026-05-12 23:58 UTC",
   "categories": {
     "science": [
+      {
+        "title": "AI Learns To Work Backward and Reveal Hidden Forces in Nature",
+        "summary": "A new AI breakthrough helps scientists uncover the hidden forces shaping the world around us. Engineers at the University of Pennsylvania have developed a new AI-based technique that could help scientists solve some of the most difficult mathematical problems used to study the natural world. The approach, called “Molli",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Tue, 12 May 2026 13:25:59 +0000",
+        "source_url": "https://scitechdaily.com/ai-learns-to-work-backward-and-reveal-hidden-forces-in-nature/",
+        "image_url": "https://scitechdaily.com/images/Humanoid-AI-Robot-Hologram-Screen-Math-Formulas-Physics-Problems-777x518.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists make stunning discovery that could change our understanding of the Universe",
         "summary": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow properly inside living",
@@ -46,17 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/dna-genetic-coding.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
-        "summary": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 06 May 2026 20:28:28 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/kpz-universality-in-two-dimensional-system-in-space-and-time.webp",
-        "impact": 5
       }
     ],
     "tech": [
@@ -72,47 +72,47 @@
         "impact": 5
       },
       {
-        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-        "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+        "title": "Waymo issues recall to deal with a flooding problem",
+        "summary": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 11 May 2026 23:04:10 +0000",
-        "source_url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-        "impact": 3
+        "published_at": "Tue, 12 May 2026 14:47:17 +0000",
+        "source_url": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+        "impact": 4
       },
       {
-        "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-        "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
+        "title": "Google launches new Android security feature to help uncover spyware attacks",
+        "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 11 May 2026 21:59:34 +0000",
-        "source_url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2194681867.jpg?resize=1200,700",
+        "published_at": "Tue, 12 May 2026 17:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2016/07/android-unlocked1.png?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
-        "summary": "Instead of building robots themselves, the team is focused on a simpler goal — providing data that robots need to learn and operate. They believe that better data will be key to making robots more useful.",
+        "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+        "summary": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 11 May 2026 10:58:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
+        "published_at": "Tue, 12 May 2026 15:07:37 +0000",
+        "source_url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Team-Photo-1.jpeg?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-        "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-foun",
+        "title": "Instructure strikes deal with hackers who breached it twice",
+        "summary": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-11T18:40:20-04:00",
-        "source_url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0%2C3.4797855362992%2C100%2C93.040428927402&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 12 May 2026 13:34:04 +0000",
+        "source_url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/shiny-extortion.jpg?resize=1200,849",
         "impact": 3
       }
     ],
@@ -129,6 +129,17 @@
         "impact": 5
       },
       {
+        "title": "First-in-human trial demonstrates promise of implantable cytokine factories for ovarian cancer",
+        "summary": "Implantable cytokine factories designed to deliver immunotherapy directly at the site of disease have taken an important step toward clinical reality. Researchers at Rice University, in collaboration with The University of Texas MD Anderson Cancer Center and clinical partners, have reported results from a first-in-huma",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 12 May 2026 17:20:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-human-trial-implantable-cytokine-factories.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-in-human-trial-d.jpg",
+        "impact": 5
+      },
+      {
         "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years",
         "summary": "A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab prior to surgery have remained cancer-free nearly three years later—an outcome that challenges the standard approac",
         "category": "Medicine",
@@ -140,36 +151,25 @@
         "impact": 5
       },
       {
-        "title": "New treatment cuts bad cholesterol by nearly 50% without statins",
-        "summary": "A new breakthrough could change how high cholesterol is treated, offering a powerful alternative to traditional drugs. Researchers have developed tiny DNA-based molecules that shut down PCSK9—a key protein that keeps “bad” LDL cholesterol circulating in the blood. By blocking this protein, cells can absorb more cholest",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 01 May 2026 04:50:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260501013525.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/coronary-artery-disease.webp",
-        "impact": 5
-      },
-      {
-        "title": "Breakthrough biomaterial heals tissue from the inside out",
-        "summary": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal studies, it successfully treated heart attack damage and even showed promise for conditions like traumatic brain injury and",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 05 May 2026 14:20:47 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504211842.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/biomaterial-manufacturing.webp",
-        "impact": 4
-      },
-      {
-        "title": "Reconnecting body and brain: Europe's breakthrough in reversing paralysis",
-        "summary": "Spinal cord injury (SCI) remains one of the most devastating neurological conditions, severing communication between the brain and the body and leaving millions worldwide with permanent paralysis. Despite decades of research, restoring movement after spinal cord injury has remained one of neuroscience's most intractabl",
+        "title": "Successfully treated acute myeloid leukemia patients may hold the key to new CAR T cell therapy",
+        "summary": "Developing effective immunotherapies for acute myeloid leukemia (AML) has long been hampered by a critical challenge: Therapy directed at killing the leukemia cells may also harm the body's ability to make new, healthy blood cells. This happens because most of the proteins that can be targeted on the surface of the blo",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 11 May 2026 19:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-reconnecting-body-brain-europe-breakthrough.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/reconnecting-body-and.jpg",
+        "published_at": "Tue, 12 May 2026 19:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-successfully-acute-myeloid-leukemia-patients.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/car-t-cell.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Existing drug shows promise for memory and decision-making issues affecting most schizophrenia patients",
+        "summary": "Schizophrenia is a serious brain disorder that causes confused thinking, severe memory problems, and hallucinations. It affects about 23 million people worldwide, with cognitive dysfunction present in over 80% of patients. A research group led by scientists from Nagoya University in Japan has tested a drug used to trea",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 12 May 2026 18:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-drug-memory-decision-issues-affecting.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/existing-drug-shows-pr-1.jpg",
         "impact": 4
       }
     ],
@@ -232,47 +232,25 @@
     ],
     "space": [
       {
-        "title": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
-        "summary": "NASA and SpaceX are targeting&#160;a&#160;mid-May&#160;launch&#160;to deliver scientific investigations, supplies, and equipment to the International Space Station.&#160; Loaded&#160;with&#160;about 6,500&#160;pounds of supplies, the SpaceX Dragon spacecraft&#160;will lift off aboard&#160;the company’s Falcon 9 rocket&",
+        "title": "SpaceX's Starship V3 megarocket finally has a debut launch date. Here's when it will fly",
+        "summary": "SpaceX is officially targeting May 19 for the debut of Starship Version 3, an advanced new vehicle that could help humanity take its first steps on the moon and Mars.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 08 May 2026 22:50:03 +0000",
-        "source_url": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nasa-spacex-crs-34-mission-overview.png",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 12 May 2026 22:34:50 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-finally-has-a-debut-launch-date-heres-when-it-will-fly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/iAHzx5idBfCE7bcvxncqJ3-1280-80.jpg",
         "impact": 5
       },
       {
-        "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
-        "summary": "Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton&#160;later&#160;became",
+        "title": "Cowboy Space raises $275 million to launch AI data centers on brand-new rocket",
+        "summary": "The newly rebranded Cowboy Space Corp. will use the money to develop and operate AI data centers in orbit, which it will launch on a homegrown rocket.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 11 May 2026 20:51:53 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s Psyche Mission Captures Mars During Gravity Assist Approach",
-        "summary": "Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for [",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 08 May 2026 18:11:39 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26750/PIA26750.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "NASA, Industry Advance High Performance Spaceflight Computing",
-        "summary": "For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA’s first Moon m",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 08 May 2026 17:05:21 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/d2026-0227-rl0028902.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 12 May 2026 19:05:26 +0000",
+        "source_url": "https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/LTxGrH8CfPbJFU2FxBLNRC-1280-80.jpg",
         "impact": 4
       },
       {
@@ -285,20 +263,31 @@
         "source_url": "https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo",
         "image_url": "https://cdn.mos.cms.futurecdn.net/8Jf22mwpbN3sR7wTAdyXga-1280-80.jpg",
         "impact": 4
+      },
+      {
+        "title": "NASA’s Perseverance Captures Panorama at ‘Arbot’",
+        "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vi",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Tue, 12 May 2026 16:46:56 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26753/PIA26753.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "impact": 4
+      },
+      {
+        "title": "NASA’s Perseverance Rover Snaps Westernmost Selfie",
+        "summary": "Description NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Tue, 12 May 2026 16:45:58 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26752/PIA26752.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "impact": 4
       }
     ],
     "astronomy": [
-      {
-        "title": "How Massive Star Clusters Shape Galaxy Evolution",
-        "summary": "A team of researchers used the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope to observe almost 9,000 star clusters in four nearby galaxies. They studied younger clusters that were still embedded in their natal gas clouds, and older ones that had dissipated that gas. Their res",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 07 May 2026 18:15:38 +0000",
-        "source_url": "https://www.universetoday.com/articles/how-massive-star-clusters-shape-galaxy-evolution",
-        "image_url": "https://www.universetoday.com/article_images/weic2608a_20260507_142932.jpg",
-        "impact": 5
-      },
       {
         "title": "Hubble Capture a Starry Spiral Cosmic Neighbor",
         "summary": "A spiral galaxy seen close up and tilted at an angle, so that its disc fills the view from corner to corner. Its disc is yellow near to the centre and pale blue farther out, showing cooler and hotter stars, respectively. Thin brown clouds of dust, glowing pink spots of star formation, and sparkling blue patches filled ",
@@ -308,17 +297,6 @@
         "published_at": "Sun, 10 May 2026 17:41:41 +0000",
         "source_url": "https://www.universetoday.com/articles/hubble-capture-a-starry-spiral-cosmic-neighbor",
         "image_url": "https://www.universetoday.com/article_images/Starry_spiral_in_a_familiar_neighbourhood_20260510_173951.jpg",
-        "impact": 4
-      },
-      {
-        "title": "How an exoplanet odd couple survived by traveling in from the cold together",
-        "summary": "By probing the atmosphere of a mini-Neptune exoplanet, the James Webb Space Telescope has found that it formed much farther from its star than it is today, possibly explaining the origin of many other mini-Neptunes in the process.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 06 May 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/exoplanets/how-an-exoplanet-odd-couple-survived-by-traveling-in-from-the-cold-together",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/q55jjVDiw3t5UcmD6e8apV-1280-80.jpg",
         "impact": 4
       },
       {
@@ -342,9 +320,42 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May08_ev_DARKblu_FEATURED.jpg",
         "impact": 4
+      },
+      {
+        "title": "Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface",
+        "summary": "The James Webb Space Telescope has observed the surface of a bare rocky exoplanet, revealing old, dark rock akin to that on our Moon. The post Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Thu, 07 May 2026 13:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Exoplanet_viz.webp",
+        "impact": 4
+      },
+      {
+        "title": "Questar Ceases Operations",
+        "summary": "The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The post Questar Ceases Operations appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Wed, 06 May 2026 19:37:54 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/questar-ceases-operations/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Questar.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "Dezeen Debate features Morocco's \"proper sci-fi\" tallest building",
+        "summary": "The latest edition of our Dezeen Debate newsletter features the opening of Morocco's tallest building. Subscribe to Dezeen Debate now. Architecture studios Rafael de La‑Hoz and Hakim Benjelloun recently unveiled designed the 250-metre-tall Mohammed VI Tower, which is now Morocco's tallest building. Readers discussed th",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 12 May 2026 18:00:38 +0000",
+        "source_url": "https://www.dezeen.com/2026/05/12/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun-dezeen-debate/",
+        "image_url": "https://static.dezeen.com/uploads/2026/05/mohammed-vi-tower-morocco-tallest-building_dezeen_2364_col_0.jpg",
+        "impact": 4
+      },
       {
         "title": "Ten Australian houses ideal for living out the suburban dream",
         "summary": "Car-borne urban sprawl justifiably draws a lot of criticism, but as this roundup of Australian houses with plenty of living space and leafy gardens shows, the appeal of the suburbs can be hard to deny. Moon House, Sydney, by James Garvan Architecture Located in the Sydney suburb of Waverley, this all-white house was de",
@@ -379,29 +390,40 @@
         "impact": 4
       },
       {
-        "title": "15 Khartoum Road MPark / Choi Studio",
-        "summary": "15 Khartoum Road by Choi Studio is a new workplace destination for Stockland's MPark precinct that sets a benchmark for the evolving urban character of Macquarie Park. MPark is one of Australia's largest innovation precincts for life sciences and technology, leading the way for the future of work. Master planned by 3XN",
+        "title": "How Waterways and Memory Shape Bathroom Design",
+        "summary": "Water has always occupied a unique position in architecture: elemental yet elusive, functional yet symbolic. It is both a material and a medium that shapes cities, structures rituals, and influences how space is perceived. Across cultures, water is understood not only as a source of life but as a carrier of meaning, as",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 11 May 2026 19:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041421/15-khartoum-road-mpark-choi-studio",
-        "image_url": "https://images.adsttc.com/media/images/6a01/9c2a/fda2/da01/89bd/ccb3/large_jpg/15-khartoum-road-mpark-choi-studio_1.jpg?1778490464",
-        "impact": 4
-      },
-      {
-        "title": "Iporanga House / Nati Minas & Studio",
-        "summary": "Located in an environmentally protected area within the Atlantic Forest, Casa Iporanga was designed as a refuge in dialogue with the landscape. The project adopts a careful approach, respecting the original architecture of the house, marked by a modernist language that was decisive in the clients' choice of property, a",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 11 May 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041368/iporanga-house-nati-minas-and-studio",
-        "image_url": "https://images.adsttc.com/media/images/69f9/6a1a/20d6/d800/0166/4149/large_jpg/25-NatiMinas-ResIporanga-MitiSameshima-37.jpg?1777953365",
+        "published_at": "Tue, 12 May 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1041109/how-waterways-and-memory-shape-bathroom-design",
+        "image_url": "https://images.adsttc.com/media/images/69fc/b091/ad4f/9c01/898d/3e26/large_jpg/how-waterways-and-memory-shape-bathroom-design_9.jpg?1778167987",
         "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Zachry Construction breaks ground on $108M Dallas water project",
+        "summary": "The infrastructure builder has been bullish on water projects in the Lone Star State and aims to finish work in 2029.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 12 May 2026 13:24:32 -0400",
+        "source_url": "https://www.constructiondive.com/news/zachry-construction-breaks-ground-on-108m-texas-water-project/819877/",
+        "image_url": "https://imgproxy.divecdn.com/Odyvm8V41QPOluHkvm7F3TJ3qWjzlMzMH585cWJ19uw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MjM1MTk3NzhfSGJCOTFwRy5qcGc=.webp",
+        "impact": 4
+      },
+      {
+        "title": "Chicago’s construction market buoyed by infrastructure, entertainment builds",
+        "summary": "Large expansions on the Red Line and at O&rsquo;Hare International Airport are capturing attention. A stadium, a casino and an M&amp;A deal mark other Windy City building news.&nbsp;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 12 May 2026 10:12:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/Chicago-construction-projects-May-2026/819881/",
+        "image_url": "https://imgproxy.divecdn.com/baBvj5uX9crwHR8f1ThYNJe24QVke0msToMGFz8dSuc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA0MzMxNTk0X3U5T2tXN1EuanBn.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
@@ -425,92 +447,70 @@
         "impact": 4
       },
       {
-        "title": "Data centers remain ‘largest driver behind growth’ in construction planning",
-        "summary": "Nonresidential planning accelerated in April after a slow start to the year, according to Dodge Construction Network.",
+        "title": "AECOM sees profit boost from data centers, defense spending",
+        "summary": "The Dallas-based infrastructure firm&rsquo;s high-tech business is now one of its fastest-growing sectors in the U.S., according to its second-quarter earnings call Tuesday.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 11 May 2026 13:22:04 -0400",
-        "source_url": "https://www.constructiondive.com/news/data-center-largest-driver-growth-construction-planning/819879/",
-        "image_url": "https://imgproxy.divecdn.com/2TliusUIeFXDoff0ISR3B_vmw7maw7D8_gky6Si-2lc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNDM2MjMwLTIuanBn.webp",
-        "impact": 3
-      },
-      {
-        "title": "How trust is built in AI-assisted preconstruction workflows",
-        "summary": "Estimators don&rsquo;t adopt AI overnight. Trust grows through consistency, review and measured outcomes.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 11 May 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/how-trust-is-built-in-ai-assisted-preconstruction-workflows/819406/",
-        "image_url": "https://imgproxy.divecdn.com/MbmZ54iu76KwJTuEzRuiA6c1PJ5Ly_GQq6fa0HJa-O0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDQweDYxNl9oVW45ajFaLnBuZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Skanska says its work unimpacted by major economic headwinds",
-        "summary": "The firm continues to manage risk and deliver profits on the back of U.S. construction work, the contractor reported in its first-quarter earnings.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 08 May 2026 12:54:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/skanska-risk-economy-earnings-q1-data-centers/819732/",
-        "image_url": "https://imgproxy.divecdn.com/x-v9jgXI8KDfZoealamiwzUsxTrGgKDguvO_zCVs5EE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS85M2VkMDA4MS1iMzU3LTRkNzctODFmYS02YmQwMzI4Y2QwMGEuMi5qcGc=.webp",
+        "published_at": "Tue, 12 May 2026 15:53:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/aecom-profit-boost-data-center-defense-spending/820031/",
+        "image_url": "https://imgproxy.divecdn.com/hsmIE69Weifv7Yt0-PtHvW5FUixICfZ6ZEOLyCA8EcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUyNDgyMTM2LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
-        "summary": "arXiv:2605.06696v1 Announce Type: new Abstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI safety and alignment. However, observing agent behavior alone is often insufficient to distinguish genuine informational coupling from spurious sim",
+        "title": "What Parameter Golf taught us about AI-assisted research",
+        "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 12 May 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/what-parameter-golf-taught-us",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6PRLQARXtH3sfsTBcHlufc/ac545b82a82009609194d64e34538e62/SEO.png?w=1600&h=900&fit=fill",
+        "impact": 5
+      },
+      {
+        "title": "Behavioral Determinants of Deployed AI Agents in Social Networks: A Multi-Factor Study of Personality, Model, and Guardrail Specification",
+        "summary": "arXiv:2605.08463v1 Announce Type: new Abstract: Autonomous AI agents are increasingly deployed in open social environments, yet the relationship between their configuration specifications and their emergent social behavior remains poorly understood. We present a controlled, multi-factor empirical study in which thirtee",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.06696",
+        "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.08463",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
-        "summary": "arXiv:2605.06702v1 Announce Type: new Abstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains constrained by a rigid separation between training and deployment, after which learning effectively ceases. This limitation contrasts with natural ",
+        "title": "Why Retrying Fails: Context Contamination in LLM Agent Pipelines",
+        "summary": "arXiv:2605.08563v1 Announce Type: new Abstract: When an LLM agent fails a multi-step tool-augmented task and retries, the failed attempt typically remains in its context window -- contaminating the next attempt and elevating the per-step error rate beyond the base level. This context-contaminated restart phenomenon is ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.06702",
+        "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.08563",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
-        "summary": "arXiv:2605.06716v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and planning capabilities. While memory mechanisms have emerged as the architectural cornerstone of these systems, current research remains fragmented",
+        "title": "MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction",
+        "summary": "arXiv:2605.08670v1 Announce Type: new Abstract: Large language model (LLM) powered AI agents have emerged as a promising paradigm for autonomous problem-solving, yet they continue to struggle with complex, multi-step real-world tasks that demand domain-specific procedural knowledge. Reusable agent skills, which encapsu",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.06716",
+        "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.08670",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
-        "summary": "arXiv:2605.06761v1 Announce Type: new Abstract: The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Existing data collection attempts remain limited to offline trajectories for supervised fine-tuning or a handful of simulated environments for RL t",
+        "title": "Iterative Critique-and-Routing Controller for Multi-Agent Systems with Heterogeneous LLMs",
+        "summary": "arXiv:2605.08686v1 Announce Type: new Abstract: Multi-agent large language model (LLM) systems often rely on a controller to coordinate a pool of heterogeneous models, yet existing controllers are typically limited to one-shot routing: they select a model once and return its output directly. Such routing-only designs p",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.06761",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
-        "summary": "arXiv:2605.06772v1 Announce Type: new Abstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study this using SCALAR (Stru",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 11 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.06772",
+        "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.08686",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
