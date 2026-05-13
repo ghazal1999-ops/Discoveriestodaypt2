@@ -1,8 +1,30 @@
 {
-  "date": "2026-05-12",
-  "last_updated": "2026-05-12 23:58 UTC",
+  "date": "2026-05-13",
+  "last_updated": "2026-05-13 23:56 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
+        "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the stem cells’ youthful function, dramatically boosting their ability to regenerate a",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 12 May 2026 19:30:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/flow-of-red-blood-cells.webp",
+        "impact": 5
+      },
+      {
+        "title": "Analytical framework tracks response diversity over time, linking it to ecosystem stability",
+        "summary": "An international research team led by National Taiwan University has developed a new analytical framework based on Empirical Dynamic Modeling. This framework can quantify how response diversity varies over time using time-series data. Published in Nature Communications, the study offers the first direct empirical evide",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Wed, 13 May 2026 16:33:37 EDT",
+        "source_url": "https://phys.org/news/2026-05-analytical-framework-tracks-response-diversity.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/analytical-method-extr.jpg",
+        "impact": 5
+      },
       {
         "title": "AI Learns To Work Backward and Reveal Hidden Forces in Nature",
         "summary": "A new AI breakthrough helps scientists uncover the hidden forces shaping the world around us. Engineers at the University of Pennsylvania have developed a new AI-based technique that could help scientists solve some of the most difficult mathematical problems used to study the natural world. The approach, called “Molli",
@@ -15,47 +37,25 @@
         "impact": 5
       },
       {
-        "title": "Scientists make stunning discovery that could change our understanding of the Universe",
-        "summary": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow properly inside living",
+        "title": "Quantum breakthrough could revolutionize teleportation and computing",
+        "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Fri, 08 May 2026 03:40:08 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508022653.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/universe-laws-liquids.webp",
+        "published_at": "Wed, 13 May 2026 03:55:23 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/measuring-the-quantum-w-state.webp",
         "impact": 5
       },
       {
-        "title": "Scientists found the “holy grail” gene that could one day help humans regrow limbs",
-        "summary": "Scientists studying axolotls, zebrafish, and mice have uncovered a shared set of genes that may one day help humans regrow lost limbs. By identifying powerful “SP genes” involved in regeneration, researchers discovered that disabling these genes stopped proper bone regrowth in salamanders and mice. They then used a gen",
+        "title": "A rare cancer-fighting plant compound has been decoded",
+        "summary": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery that had puzzled researchers for years. Because mitraphylline ",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sat, 09 May 2026 01:04:19 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508003121.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/mexican-axolotl.webp",
-        "impact": 5
-      },
-      {
-        "title": "Ice age humans in China crafted surprisingly advanced stone tools 146,000 years ago",
-        "summary": "Scientists in China discovered that ancient humans were making surprisingly advanced stone tools during a harsh ice age 146,000 years ago. The tools, created by Homo juluensis, show careful planning and complex thinking rather than simple stone-chipping. Researchers dated the site using tiny calcite crystals inside ani",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 09 May 2026 06:22:50 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508003113.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/ancient-stone-tools-lingjing.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists accidentally discover DNA that breaks the rules of life",
-        "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes signal their end. Th",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 07 May 2026 03:01:21 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/dna-genetic-coding.webp",
+        "published_at": "Tue, 12 May 2026 21:45:40 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cancer-cell-self-destructing.webp",
         "impact": 5
       }
     ],
@@ -72,47 +72,47 @@
         "impact": 5
       },
       {
-        "title": "Waymo issues recall to deal with a flooding problem",
-        "summary": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
+        "title": "Amazon devices chief says a new smartphone is “just not the goal”",
+        "summary": "\"We know what customers need right now.”",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 12 May 2026 14:47:17 +0000",
-        "source_url": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
-        "impact": 4
-      },
-      {
-        "title": "Google launches new Android security feature to help uncover spyware attacks",
-        "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 12 May 2026 17:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2016/07/android-unlocked1.png?resize=1200,675",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 13 May 2026 17:06:57 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/05/amazon-exec-downplays-new-fire-phone-rumors-no-clear-path-that-makes-sense/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2014/07/IMG_9877-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-        "summary": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
+        "title": "Rivian adds a new onboard AI assistant to its latest software update",
+        "summary": "The Rivian Assistant is available for both Gen1 and Gen2 hardware.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 12 May 2026 15:07:37 +0000",
-        "source_url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Team-Photo-1.jpeg?resize=1200,675",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 13 May 2026 12:45:30 +0000",
+        "source_url": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/RivianAssistantStatic-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Instructure strikes deal with hackers who breached it twice",
-        "summary": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 12 May 2026 13:34:04 +0000",
-        "source_url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/shiny-extortion.jpg?resize=1200,849",
+        "published_at": "Wed, 13 May 2026 21:45:09 +0000",
+        "source_url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Notion-Developer-Platform.jpg?w=686",
+        "impact": 3
+      },
+      {
+        "title": "Rivian spinoff Mind Robotics raises another $400M",
+        "summary": "Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 13 May 2026 16:34:21 +0000",
+        "source_url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-529.jpg?resize=1200,800",
         "impact": 3
       }
     ],
@@ -129,17 +129,6 @@
         "impact": 5
       },
       {
-        "title": "First-in-human trial demonstrates promise of implantable cytokine factories for ovarian cancer",
-        "summary": "Implantable cytokine factories designed to deliver immunotherapy directly at the site of disease have taken an important step toward clinical reality. Researchers at Rice University, in collaboration with The University of Texas MD Anderson Cancer Center and clinical partners, have reported results from a first-in-huma",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 12 May 2026 17:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-human-trial-implantable-cytokine-factories.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-in-human-trial-d.jpg",
-        "impact": 5
-      },
-      {
         "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years",
         "summary": "A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab prior to surgery have remained cancer-free nearly three years later—an outcome that challenges the standard approac",
         "category": "Medicine",
@@ -151,25 +140,36 @@
         "impact": 5
       },
       {
-        "title": "Successfully treated acute myeloid leukemia patients may hold the key to new CAR T cell therapy",
-        "summary": "Developing effective immunotherapies for acute myeloid leukemia (AML) has long been hampered by a critical challenge: Therapy directed at killing the leukemia cells may also harm the body's ability to make new, healthy blood cells. This happens because most of the proteins that can be targeted on the surface of the blo",
+        "title": "Personalized mRNA vaccine targets osteosarcoma relapse in first human use",
+        "summary": "In a breakthrough poised to reshape cancer treatment, Houston Methodist has developed the first personalized mRNA cancer vaccine designed to prevent recurrence of osteosarcoma, a rare and aggressive type of bone cancer. This first-of-its-kind treatment was made possible through a compassionate use allowance from the U.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 12 May 2026 19:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-successfully-acute-myeloid-leukemia-patients.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/car-t-cell.jpg",
+        "published_at": "Wed, 13 May 2026 19:40:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-personalized-mrna-vaccine-osteosarcoma-relapse.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/vaccine.jpg",
         "impact": 4
       },
       {
-        "title": "Existing drug shows promise for memory and decision-making issues affecting most schizophrenia patients",
-        "summary": "Schizophrenia is a serious brain disorder that causes confused thinking, severe memory problems, and hallucinations. It affects about 23 million people worldwide, with cognitive dysfunction present in over 80% of patients. A research group led by scientists from Nagoya University in Japan has tested a drug used to trea",
+        "title": "New UK drug approval pathway benefits industry over patients, argues expert",
+        "summary": "A new UK drug approval pathway, designed to speed up the availability of new medicines, benefits industry over patients and the NHS, argues an expert in The BMJ. The pathway aligns regulatory review by the Medicines and Healthcare products Regulatory Agency (MHRA) with the National Institute for Health and Care Excelle",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 12 May 2026 18:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-drug-memory-decision-issues-affecting.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/existing-drug-shows-pr-1.jpg",
+        "published_at": "Wed, 13 May 2026 18:30:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-uk-drug-pathway-benefits-industry.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/medicine-4.jpg",
+        "impact": 4
+      },
+      {
+        "title": "New drug candidate that reprograms the immune system shows promise as a brain cancer treatment",
+        "summary": "A next-generation cancer therapy being developed at McMaster University has shown early promise as a treatment candidate for glioblastoma, the most aggressive and most common type of primary brain cancer in adults. In preclinical research, published in Science Translational Medicine, scientists have shown that the newl",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 13 May 2026 15:45:50 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-drug-candidate-reprograms-immune-brain.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drug-candidate-tha.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "NASA Outlines Preliminary Artemis III Mission Plans",
+        "summary": "NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a&#160;February announcement adding an Artemis mission ahead of crewed landi",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 13 May 2026 15:33:56 +0000",
+        "source_url": "https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/pad.jpg",
+        "impact": 5
+      },
+      {
         "title": "SpaceX's Starship V3 megarocket finally has a debut launch date. Here's when it will fly",
         "summary": "SpaceX is officially targeting May 19 for the debut of Starship Version 3, an advanced new vehicle that could help humanity take its first steps on the moon and Mars.",
         "category": "Space",
@@ -254,14 +265,14 @@
         "impact": 4
       },
       {
-        "title": "Blue Origin tests 1st moon lander ahead of lunar launch later this year (photo)",
-        "summary": "Blue Origin continues putting its first lunar lander through its paces, testing the spacecraft at NASA centers across the nation to prepare it for its upcoming mission to the moon.",
+        "title": "Rise Goes to Washington",
+        "summary": "“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koc",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 08 May 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/8Jf22mwpbN3sR7wTAdyXga-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 13 May 2026 19:17:12 +0000",
+        "source_url": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
+        "image_url": "https://www.youtube.com/embed/QquPhtSOxas",
         "impact": 4
       },
       {
@@ -274,29 +285,18 @@
         "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
         "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26753/PIA26753.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "impact": 4
-      },
-      {
-        "title": "NASA’s Perseverance Rover Snaps Westernmost Selfie",
-        "summary": "Description NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Tue, 12 May 2026 16:45:58 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26752/PIA26752.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "impact": 4
       }
     ],
     "astronomy": [
       {
-        "title": "Hubble Capture a Starry Spiral Cosmic Neighbor",
-        "summary": "A spiral galaxy seen close up and tilted at an angle, so that its disc fills the view from corner to corner. Its disc is yellow near to the centre and pale blue farther out, showing cooler and hotter stars, respectively. Thin brown clouds of dust, glowing pink spots of star formation, and sparkling blue patches filled ",
+        "title": "Moon and Planets to Gather in Twilight Spectacle on May 18–20",
+        "summary": "Watch the crescent Moon dance with the planets when it returns next week. The post Moon and Planets to Gather in Twilight Spectacle on May 18–20 appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Sun, 10 May 2026 17:41:41 +0000",
-        "source_url": "https://www.universetoday.com/articles/hubble-capture-a-starry-spiral-cosmic-neighbor",
-        "image_url": "https://www.universetoday.com/article_images/Starry_spiral_in_a_familiar_neighbourhood_20260510_173951.jpg",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Wed, 13 May 2026 17:48:46 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/moon-planets-gather-in-a-twilight-spectacle-may-18-20/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Venus-crescent-moon-conjunction-July-15_2018-cirrus-clouds-B-ST-900px.webp",
         "impact": 4
       },
       {
@@ -346,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "P81 House / wiercinski-studio",
+        "summary": "Located in Poznań's historic Grunwald district, an area renowned for its pre-war villa architecture, P81 House is a meticulous restoration of a 1932 residence. What began as an interior commission for wiercinski-studio evolved into a holistic transformation encompassing the building's facade, custom landscaping, and be",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 13 May 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041517/p81-house-wiercinski-studio",
+        "image_url": "https://images.adsttc.com/media/images/6a04/3d6f/a59b/8300/01a7/f69b/large_jpg/P81_House_-_wiercinski-studio_1.jpg?1778662787",
+        "impact": 4
+      },
+      {
         "title": "Dezeen Debate features Morocco's \"proper sci-fi\" tallest building",
         "summary": "The latest edition of our Dezeen Debate newsletter features the opening of Morocco's tallest building. Subscribe to Dezeen Debate now. Architecture studios Rafael de La‑Hoz and Hakim Benjelloun recently unveiled designed the 250-metre-tall Mohammed VI Tower, which is now Morocco's tallest building. Readers discussed th",
         "category": "Architecture",
@@ -379,25 +390,14 @@
         "impact": 4
       },
       {
-        "title": "bamboo, rattan, and seagrass solutions by caneplexus for climate-responsive architecture",
-        "summary": "caneplexus adapts natural building materials for contemporary applications, using natural fibers for artisanal woven systems. The post bamboo, rattan, and seagrass solutions by caneplexus for climate-responsive architecture appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 07 May 2026 10:00:14 +0000",
-        "source_url": "https://www.designboom.com/architecture/bamboo-rattan-seagrass-caneplexus-climate-responsive-architecture/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/caneplexus_designboom_Facebook.jpg",
-        "impact": 4
-      },
-      {
-        "title": "How Waterways and Memory Shape Bathroom Design",
-        "summary": "Water has always occupied a unique position in architecture: elemental yet elusive, functional yet symbolic. It is both a material and a medium that shapes cities, structures rituals, and influences how space is perceived. Across cultures, water is understood not only as a source of life but as a carrier of meaning, as",
+        "title": "Land Of Wells / Le laboratoire d'architecture + A4 Architecture + Bled El Abar Collective",
+        "summary": "The modest well, built using traditional masonry, is located in the dunes of the Grand Erg Oriental, over 30 kilometers from the nearest inhabited village, along routes used for millennia by North African pastoral nomads. Before it was silted up and collapsed, it was still used as a watering point for camels, goats, an",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 12 May 2026 06:45:00 +0000",
-        "source_url": "https://www.archdaily.com/1041109/how-waterways-and-memory-shape-bathroom-design",
-        "image_url": "https://images.adsttc.com/media/images/69fc/b091/ad4f/9c01/898d/3e26/large_jpg/how-waterways-and-memory-shape-bathroom-design_9.jpg?1778167987",
+        "published_at": "Wed, 13 May 2026 12:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041437/land-of-wells-le-laboratoire-darchitecture-plus-a4-architecture-plus-bled-el-abar-collective",
+        "image_url": "https://images.adsttc.com/media/images/6a02/3c2d/bbf1/cd01/885b/bd2c/large_jpg/land-of-wells-le-laboratoire-darchitecture-plus-a4-architecture-plus-bled-el-abar-collective_7.jpg?1778531428",
         "impact": 4
       }
     ],
@@ -447,15 +447,15 @@
         "impact": 4
       },
       {
-        "title": "AECOM sees profit boost from data centers, defense spending",
-        "summary": "The Dallas-based infrastructure firm&rsquo;s high-tech business is now one of its fastest-growing sectors in the U.S., according to its second-quarter earnings call Tuesday.",
+        "title": "King’s Speech: Bills put forward to unlock airport expansion and infrastructure construction",
+        "summary": "King Charles has given his annual speech for 2026 in which several bills have been put forward to support both airport expansion and the construction of transport infrastructure. The post King’s Speech: Bills put forward to unlock airport expansion and infrastructure construction appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 12 May 2026 15:53:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/aecom-profit-boost-data-center-defense-spending/820031/",
-        "image_url": "https://imgproxy.divecdn.com/hsmIE69Weifv7Yt0-PtHvW5FUixICfZ6ZEOLyCA8EcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUyNDgyMTM2LmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Wed, 13 May 2026 15:23:14 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/kings-speech-bills-put-forward-to-unlock-airport-expansion-and-infrastructure-construction-13-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/LTC-southern-tunnel-entrance-web-scaled-1-560x315.jpg",
+        "impact": 4
       }
     ],
     "ai": [
@@ -471,46 +471,46 @@
         "impact": 5
       },
       {
-        "title": "Behavioral Determinants of Deployed AI Agents in Social Networks: A Multi-Factor Study of Personality, Model, and Guardrail Specification",
-        "summary": "arXiv:2605.08463v1 Announce Type: new Abstract: Autonomous AI agents are increasingly deployed in open social environments, yet the relationship between their configuration specifications and their emergent social behavior remains poorly understood. We present a controlled, multi-factor empirical study in which thirtee",
+        "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents",
+        "summary": "arXiv:2605.11169v1 Announce Type: new Abstract: Large language model agents interleave reasoning, action selection, and observation to solve sequential decision-making tasks. In deployed settings where agents repeatedly handle related multi-step tasks, small action-selection errors can accumulate into wasted tool calls",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 12 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.08463",
+        "published_at": "Wed, 13 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.11169",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Why Retrying Fails: Context Contamination in LLM Agent Pipelines",
-        "summary": "arXiv:2605.08563v1 Announce Type: new Abstract: When an LLM agent fails a multi-step tool-augmented task and retries, the failed attempt typically remains in its context window -- contaminating the next attempt and elevating the per-step error rate beyond the base level. This context-contaminated restart phenomenon is ",
+        "title": "PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement",
+        "summary": "arXiv:2605.11225v1 Announce Type: new Abstract: Large language model (LLM)-based agents frequently generate seemingly coherent plans that fail upon execution due to infeasible actions, constraint violations, and compounding errors over extended horizons. PIVOT (Plan-Inspect-eVOlve Trajectories) addresses this plan-exec",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 12 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.08563",
+        "published_at": "Wed, 13 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.11225",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction",
-        "summary": "arXiv:2605.08670v1 Announce Type: new Abstract: Large language model (LLM) powered AI agents have emerged as a promising paradigm for autonomous problem-solving, yet they continue to struggle with complex, multi-step real-world tasks that demand domain-specific procedural knowledge. Reusable agent skills, which encapsu",
+        "title": "The Semantic Training Gap: Ontology-Grounded Tool Architectures for Industrial AI Agent Systems",
+        "summary": "arXiv:2605.11234v1 Announce Type: new Abstract: Large language model (LLM)-based AI agents are increasingly deployed in manufacturing environments for analytics, quality management, and decision support. These agents demonstrate statistical fluency with domain terminology but lack grounded understanding of operational ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 12 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.08670",
+        "published_at": "Wed, 13 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.11234",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Iterative Critique-and-Routing Controller for Multi-Agent Systems with Heterogeneous LLMs",
-        "summary": "arXiv:2605.08686v1 Announce Type: new Abstract: Multi-agent large language model (LLM) systems often rely on a controller to coordinate a pool of heterogeneous models, yet existing controllers are typically limited to one-shot routing: they select a model once and return its output directly. Such routing-only designs p",
+        "title": "Template-as-Ontology: Configurable Synthetic Data Infrastructure for Cross-Domain Manufacturing AI Validation",
+        "summary": "arXiv:2605.11259v1 Announce Type: new Abstract: LLarge language model (LLM)-based AI agents deployed in manufacturing environments require populated, schema-correct data for validation, yet production MES data is proprietary, privacy-encumbered, and vendor-specific. This paper introduces the Template-as-Ontology princi",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 12 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.08686",
+        "published_at": "Wed, 13 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.11259",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
