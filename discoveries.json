@@ -1,8 +1,30 @@
 {
-  "date": "2026-05-13",
-  "last_updated": "2026-05-13 23:56 UTC",
+  "date": "2026-05-14",
+  "last_updated": "2026-05-14 23:55 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Scientists Reverse Stroke Damage Using Stem Cells in Breakthrough Study",
+        "summary": "Scientists have discovered that transplanted stem cell-derived brain cells may do far more than simply survive after a stroke. A stem cell treatment helped mice recover from strokes by rebuilding damaged brain connections, restoring blood vessels, and improving movement, according to new research from the University of",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 14 May 2026 11:09:28 +0000",
+        "source_url": "https://scitechdaily.com/scientists-reverse-stroke-damage-using-stem-cells-in-breakthrough-study/",
+        "image_url": "https://scitechdaily.com/images/Brain-Disease-Stroke-Headache-Migraine-777x518.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Earth is flying through ancient supernova debris and scientists found the evidence in Antarctic ice",
+        "summary": "Earth is quietly collecting radioactive debris from an ancient stellar explosion as our Solar System drifts through a giant cloud of gas and dust between the stars. Scientists analyzing Antarctic ice up to 80,000 years old discovered traces of iron-60 — a rare isotope forged in supernova explosions — and found evidence",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 13 May 2026 23:16:18 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221751.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/solar-system-path-through-local-interstellar-cloud.webp",
+        "impact": 5
+      },
       {
         "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
         "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the stem cells’ youthful function, dramatically boosting their ability to regenerate a",
@@ -15,104 +37,82 @@
         "impact": 5
       },
       {
-        "title": "Analytical framework tracks response diversity over time, linking it to ecosystem stability",
-        "summary": "An international research team led by National Taiwan University has developed a new analytical framework based on Empirical Dynamic Modeling. This framework can quantify how response diversity varies over time using time-series data. Published in Nature Communications, the study offers the first direct empirical evide",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 13 May 2026 16:33:37 EDT",
-        "source_url": "https://phys.org/news/2026-05-analytical-framework-tracks-response-diversity.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/analytical-method-extr.jpg",
-        "impact": 5
-      },
-      {
-        "title": "AI Learns To Work Backward and Reveal Hidden Forces in Nature",
-        "summary": "A new AI breakthrough helps scientists uncover the hidden forces shaping the world around us. Engineers at the University of Pennsylvania have developed a new AI-based technique that could help scientists solve some of the most difficult mathematical problems used to study the natural world. The approach, called “Molli",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Tue, 12 May 2026 13:25:59 +0000",
-        "source_url": "https://scitechdaily.com/ai-learns-to-work-backward-and-reveal-hidden-forces-in-nature/",
-        "image_url": "https://scitechdaily.com/images/Humanoid-AI-Robot-Hologram-Screen-Math-Formulas-Physics-Problems-777x518.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Quantum breakthrough could revolutionize teleportation and computing",
-        "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems.",
+        "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
+        "summary": "Scientists have uncovered compelling evidence that dinosaur fossils may still contain traces of their original proteins, overturning a long-standing belief that fossilization destroys all organic material. In a remarkably well-preserved Edmontosaurus fossil from South Dakota, researchers detected remnants of collagen —",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 13 May 2026 03:55:23 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/measuring-the-quantum-w-state.webp",
+        "published_at": "Thu, 14 May 2026 09:02:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260514084421.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/edmontosaurus-hip-bone.webp",
         "impact": 5
       },
       {
-        "title": "A rare cancer-fighting plant compound has been decoded",
-        "summary": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery that had puzzled researchers for years. Because mitraphylline ",
+        "title": "Who are the Japanese? Huge DNA discovery rewrites history",
+        "summary": "Scientists analyzing the genomes of thousands of people across Japan discovered evidence for a previously overlooked third ancestral group, challenging the long-accepted “dual origins” theory. The newly identified ancestry appears linked to the ancient Emishi people of northeastern Japan. Researchers also uncovered inh",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Tue, 12 May 2026 21:45:40 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cancer-cell-self-destructing.webp",
+        "published_at": "Thu, 14 May 2026 01:00:37 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/japanese-wood-mask.webp",
         "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Fostering breakthrough AI innovation through customer-back engineering",
-        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward ",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 11 May 2026 13:33:06 +0000",
-        "source_url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Capital-One-iStock-2208464815.jpg?resize=1200,600",
-        "impact": 5
-      },
-      {
-        "title": "Amazon devices chief says a new smartphone is “just not the goal”",
-        "summary": "\"We know what customers need right now.”",
+        "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
+        "summary": "Xi meeting may force Trump to pivot on chip restrictions and Taiwan.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Wed, 13 May 2026 17:06:57 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/05/amazon-exec-downplays-new-fire-phone-rumors-no-clear-path-that-makes-sense/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2014/07/IMG_9877-1152x648.jpg",
+        "published_at": "Thu, 14 May 2026 11:00:58 +0000",
+        "source_url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2243556893-1024x648.jpg",
         "impact": 3
       },
       {
-        "title": "Rivian adds a new onboard AI assistant to its latest software update",
-        "summary": "The Rivian Assistant is available for both Gen1 and Gen2 hardware.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 13 May 2026 12:45:30 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/RivianAssistantStatic-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Notion just turned its workspace into a hub for AI agents",
-        "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+        "title": "OpenAI says hackers stole some data after latest code security issue",
+        "summary": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 13 May 2026 21:45:09 +0000",
-        "source_url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Notion-Developer-Platform.jpg?w=686",
+        "published_at": "Thu, 14 May 2026 16:25:20 +0000",
+        "source_url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
         "impact": 3
       },
       {
-        "title": "Rivian spinoff Mind Robotics raises another $400M",
-        "summary": "Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.",
+        "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
+        "summary": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 13 May 2026 16:34:21 +0000",
-        "source_url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-529.jpg?resize=1200,800",
+        "published_at": "Thu, 14 May 2026 15:42:18 +0000",
+        "source_url": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/blog-header.jpg?resize=1200,683",
+        "impact": 3
+      },
+      {
+        "title": "Linux devs are fighting the new age-gated internet",
+        "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Android - one of numerous plans to age-gate the internet through users' devices. It was intended to prov",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-05-14T14:58:00-04:00",
+        "source_url": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268521_Age_verification_bills_have_a_Linux_issue_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+        "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 14 May 2026 20:27:34 +0000",
+        "source_url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+        "image_url": "https://media.wired.com/photos/6a060ca601885d55b1a59854/191:100/w_1280,c_limit/Viral-Meta-Employee-Note-Business-2196627075.jpg",
         "impact": 3
       }
     ],
@@ -129,6 +129,17 @@
         "impact": 5
       },
       {
+        "title": "Experimental drug shrinks advanced kidney tumors, clears cancer in one patient",
+        "summary": "A new Phase I clinical trial provides proof of concept for a potential therapy for treatment-resistant cancers, particularly kidney cancer. In the new study, published in Cell Reports Medicine, researchers tested a novel kind of immunotherapy in individuals with different types of cancer.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 14 May 2026 13:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-experimental-drug-advanced-kidney-tumors.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-drug-shows-promi.jpg",
+        "impact": 5
+      },
+      {
         "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years",
         "summary": "A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab prior to surgery have remained cancer-free nearly three years later—an outcome that challenges the standard approac",
         "category": "Medicine",
@@ -140,36 +151,25 @@
         "impact": 5
       },
       {
-        "title": "Personalized mRNA vaccine targets osteosarcoma relapse in first human use",
-        "summary": "In a breakthrough poised to reshape cancer treatment, Houston Methodist has developed the first personalized mRNA cancer vaccine designed to prevent recurrence of osteosarcoma, a rare and aggressive type of bone cancer. This first-of-its-kind treatment was made possible through a compassionate use allowance from the U.",
+        "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
+        "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the stem cells’ youthful function, dramatically boosting their ability to regenerate a",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 13 May 2026 19:40:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-personalized-mrna-vaccine-osteosarcoma-relapse.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/vaccine.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 12 May 2026 19:30:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/flow-of-red-blood-cells.webp",
         "impact": 4
       },
       {
-        "title": "New UK drug approval pathway benefits industry over patients, argues expert",
-        "summary": "A new UK drug approval pathway, designed to speed up the availability of new medicines, benefits industry over patients and the NHS, argues an expert in The BMJ. The pathway aligns regulatory review by the Medicines and Healthcare products Regulatory Agency (MHRA) with the National Institute for Health and Care Excelle",
+        "title": "Breakthrough biomaterial heals tissue from the inside out",
+        "summary": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal studies, it successfully treated heart attack damage and even showed promise for conditions like traumatic brain injury and",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 13 May 2026 18:30:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-uk-drug-pathway-benefits-industry.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/medicine-4.jpg",
-        "impact": 4
-      },
-      {
-        "title": "New drug candidate that reprograms the immune system shows promise as a brain cancer treatment",
-        "summary": "A next-generation cancer therapy being developed at McMaster University has shown early promise as a treatment candidate for glioblastoma, the most aggressive and most common type of primary brain cancer in adults. In preclinical research, published in Science Translational Medicine, scientists have shown that the newl",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 13 May 2026 15:45:50 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-drug-candidate-reprograms-immune-brain.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drug-candidate-tha.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 05 May 2026 14:20:47 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260504211842.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/biomaterial-manufacturing.webp",
         "impact": 4
       }
     ],
@@ -254,40 +254,73 @@
         "impact": 5
       },
       {
-        "title": "Cowboy Space raises $275 million to launch AI data centers on brand-new rocket",
-        "summary": "The newly rebranded Cowboy Space Corp. will use the money to develop and operate AI data centers in orbit, which it will launch on a homegrown rocket.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 12 May 2026 19:05:26 +0000",
-        "source_url": "https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/LTxGrH8CfPbJFU2FxBLNRC-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Rise Goes to Washington",
-        "summary": "“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koc",
+        "title": "NASA Draws on Industry for Mars Telecommunications Network",
+        "summary": "On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars te",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 13 May 2026 19:17:12 +0000",
-        "source_url": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
-        "image_url": "https://www.youtube.com/embed/QquPhtSOxas",
+        "published_at": "Thu, 14 May 2026 20:53:24 +0000",
+        "source_url": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/mars.jpg",
         "impact": 4
       },
       {
-        "title": "NASA’s Perseverance Captures Panorama at ‘Arbot’",
-        "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vi",
+        "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
+        "summary": "NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentia",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Tue, 12 May 2026 16:46:56 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26753/PIA26753.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 14 May 2026 16:32:09 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/csn-1518-rotated.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX's Starship V3 megarocket will do something completely new on Flight 12 — take a good look at itself",
+        "summary": "SpaceX's advanced new \"V3\" Starship megarocket is set to fly for the first time ever next week. The debut will feature some in-space action never seen before on a Starship mission.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 14 May 2026 17:36:27 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-will-do-something-completely-new-on-flight-12-take-a-good-look-at-itself",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/h9yQVnSUKKvtemwQY2XGJB-1280-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "We've Been Listening for Ten Years. Here's What We Heard",
+        "summary": "For ten years, astronomers at UCLA have been pointing one of the world's most powerful radio telescopes at the stars and listening. Not for pulsars or gas clouds, or the hiss of the cosmic microwave background, but for something far more extraordinary. A signal from another civilisation. The result of a decade's work, ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 14 May 2026 22:49:53 +0000",
+        "source_url": "https://www.universetoday.com/articles/weve-been-listening-for-ten-years-heres-what-we-heard",
+        "image_url": "https://www.universetoday.com/article_images/1280px-ESO-VLT-Laser-phot-33a-07_1_20260514_224946.jpg",
+        "impact": 4
+      },
+      {
+        "title": "The Roman Space Telescope is Ahead of Schedule, and the Hubble is Giving it a Jump Start",
+        "summary": "One of the core community surveys of NASA’s Nancy Grace Roman Space Telescope, the Galactic Bulge Time-Domain Survey, is expected to locate over a thousand exoplanets that orbit far away from their stars, beyond the orbital distance of Earth from the Sun. Although Roman hasn’t launched yet, astronomers already are gath",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 14 May 2026 17:28:40 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-roman-space-telescope-is-ahead-of-schedule-and-the-hubble-is-giving-it-a-jump-start",
+        "image_url": "https://www.universetoday.com/article_images/2000x1125_20260514_153609.jpg",
+        "impact": 4
+      },
+      {
+        "title": "We've Been Wasting 99% of Our Supernova Data",
+        "summary": "Every time an astronomer points a telescope at a distant supernova, they're trying to measure how far away it is. But the light from these stellar explosions arrives tangled up with interference from dust, the age of the host galaxy and the chemical make up of the original star . Unpicking it all has always been a pain",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 14 May 2026 10:48:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/weve-been-wasting-99-of-our-supernova-data",
+        "image_url": "https://www.universetoday.com/article_images/SN1994D_1_20260514_104747.jpg",
+        "impact": 4
+      },
       {
         "title": "Moon and Planets to Gather in Twilight Spectacle on May 18–20",
         "summary": "Watch the crescent Moon dance with the planets when it returns next week. The post Moon and Planets to Gather in Twilight Spectacle on May 18–20 appeared first on Sky &amp; Telescope.",
@@ -309,51 +342,18 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/a-black-holes-puzzling-x-ray-bursts/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Giant_black_hole_awakens_with_repetitive_X-ray_bursts.jpeg",
         "impact": 4
-      },
-      {
-        "title": "This Week's Sky at a Glance, May 8 – 17",
-        "summary": "Jupiter, shining high the western dusk, inches down day toward brighter Venus. Venus, meanwhile, creeps toward the horntip stars of Taurus and stands between them on May 13th. The post This Week&#039;s Sky at a Glance, May 8 – 17 appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Fri, 08 May 2026 09:13:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May08_ev_DARKblu_FEATURED.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface",
-        "summary": "The James Webb Space Telescope has observed the surface of a bare rocky exoplanet, revealing old, dark rock akin to that on our Moon. The post Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Thu, 07 May 2026 13:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Exoplanet_viz.webp",
-        "impact": 4
-      },
-      {
-        "title": "Questar Ceases Operations",
-        "summary": "The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The post Questar Ceases Operations appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 06 May 2026 19:37:54 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/questar-ceases-operations/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Questar.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "P81 House / wiercinski-studio",
-        "summary": "Located in Poznań's historic Grunwald district, an area renowned for its pre-war villa architecture, P81 House is a meticulous restoration of a 1932 residence. What began as an interior commission for wiercinski-studio evolved into a holistic transformation encompassing the building's facade, custom landscaping, and be",
+        "title": "Flexible Dormitory / Atelier Kaiser Shen",
+        "summary": "In the small municipality of Schönaich in Baden-Württemberg, a model building for affordable and refugee housing demonstrates how architecture can combine flexibility, sustainability, and social quality. Designed by Atelier Kaiser Shen, a clearly structured layout with load-bearing cross-laminated timber walls and an e",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 13 May 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041517/p81-house-wiercinski-studio",
-        "image_url": "https://images.adsttc.com/media/images/6a04/3d6f/a59b/8300/01a7/f69b/large_jpg/P81_House_-_wiercinski-studio_1.jpg?1778662787",
+        "published_at": "Thu, 14 May 2026 03:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041521/flexible-dormitory-atelier-kaiser-shen",
+        "image_url": "https://images.adsttc.com/media/images/6a04/4f1a/a59b/8300/01a7/f6e9/large_jpg/AtelierKaiserShen_Fluechtlingsheim_Schoenaich_023_pic.jpg?1778667354",
         "impact": 4
       },
       {
@@ -379,25 +379,25 @@
         "impact": 4
       },
       {
-        "title": "Rocket-like skyscraper becomes Morocco's tallest building",
-        "summary": "The 250-metre-tall Mohammed VI Tower designed by architecture studios Rafael de La‑Hoz and Hakim Benjelloun has opened in Morocco as the country's tallest building and the third tallest in Africa. Named after Mohammed VI, who has reigned as King of Morocco since 1999, the skyscraper is situated along the Bou Regreg riv",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 06 May 2026 09:55:01 +0000",
-        "source_url": "https://www.dezeen.com/2026/05/06/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun/",
-        "image_url": "https://static.dezeen.com/uploads/2026/05/mohammed-vi-tower-morocco-tallest-building_dezeen_2364_hero_1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Land Of Wells / Le laboratoire d'architecture + A4 Architecture + Bled El Abar Collective",
-        "summary": "The modest well, built using traditional masonry, is located in the dunes of the Grand Erg Oriental, over 30 kilometers from the nearest inhabited village, along routes used for millennia by North African pastoral nomads. Before it was silted up and collapsed, it was still used as a watering point for camels, goats, an",
+        "title": "WUF13 in Baku and Stefano Boeri’s Ambrosian Monastery in Milan: This Week’s Review",
+        "summary": "As global urban challenges intensify alongside growing environmental, social, and cultural pressures, this week's news reflects how institutions, exhibitions, and restoration projects are highlighting the relationship between the built environment and collective experience. From international forums addressing housing ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 13 May 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041437/land-of-wells-le-laboratoire-darchitecture-plus-a4-architecture-plus-bled-el-abar-collective",
-        "image_url": "https://images.adsttc.com/media/images/6a02/3c2d/bbf1/cd01/885b/bd2c/large_jpg/land-of-wells-le-laboratoire-darchitecture-plus-a4-architecture-plus-bled-el-abar-collective_7.jpg?1778531428",
+        "published_at": "Thu, 14 May 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041545/wuf13-in-baku-and-stefano-boeris-ambrosian-monastery-in-milan-this-weeks-review",
+        "image_url": "https://images.adsttc.com/media/images/6a04/ee57/fda2/da01/89bd/db99/large_jpg/wuf13-in-baku-and-stefano-boeris-ambrosian-monastery-in-milan-this-weeks-review_9.jpg?1778708072",
+        "impact": 4
+      },
+      {
+        "title": "The Productive Clash: Heritage Interiors, Contemporary Projects, and the Value of Imperfection",
+        "summary": "Heritage, in interiors, is increasingly rarer to be only a matter of preservation alone. More often it arrives as friction: the encounter between what a building already is—its plan logic, its scars, its structural inconsistencies—and what contemporary life demands of it.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 14 May 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041461/the-productive-clash-heritage-interiors-contemporary-projects-and-the-value-of-imperfection",
+        "image_url": "https://images.adsttc.com/media/images/6a02/e9bc/fda2/da01/89bd/d244/large_jpg/the-productive-clash-heritage-interiors-contemporary-inserts-and-the-value-of-imperfection_1.jpg?1778575810",
         "impact": 4
       }
     ],
@@ -411,17 +411,6 @@
         "published_at": "Tue, 12 May 2026 13:24:32 -0400",
         "source_url": "https://www.constructiondive.com/news/zachry-construction-breaks-ground-on-108m-texas-water-project/819877/",
         "image_url": "https://imgproxy.divecdn.com/Odyvm8V41QPOluHkvm7F3TJ3qWjzlMzMH585cWJ19uw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MjM1MTk3NzhfSGJCOTFwRy5qcGc=.webp",
-        "impact": 4
-      },
-      {
-        "title": "Chicago’s construction market buoyed by infrastructure, entertainment builds",
-        "summary": "Large expansions on the Red Line and at O&rsquo;Hare International Airport are capturing attention. A stadium, a casino and an M&amp;A deal mark other Windy City building news.&nbsp;",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 12 May 2026 10:12:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/Chicago-construction-projects-May-2026/819881/",
-        "image_url": "https://imgproxy.divecdn.com/baBvj5uX9crwHR8f1ThYNJe24QVke0msToMGFz8dSuc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA0MzMxNTk0X3U5T2tXN1EuanBn.webp",
         "impact": 4
       },
       {
@@ -444,6 +433,17 @@
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/04/22/commerce_enr_ph_article2_trends_image_final.webp?crop=true&height=257&t=1776866100&width=420",
+        "impact": 4
+      },
+      {
+        "title": "Mott MacDonald enters agreement to acquire Australian civil contractor",
+        "summary": "Global engineering consultancy Mott MacDonald has entered into an agreement to acquire Leed Engineering &amp; Construction, which has delivered projects in metropolitan, regional and remote areas of Australia. The post Mott MacDonald enters agreement to acquire Australian civil contractor appeared first on New Civil En",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 14 May 2026 10:08:03 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/mott-macdonald-enters-agreement-to-acquire-australian-civil-contractor-14-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2019/06/mottsstockimage.jpg",
         "impact": 4
       },
       {
@@ -471,46 +471,46 @@
         "impact": 5
       },
       {
-        "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents",
-        "summary": "arXiv:2605.11169v1 Announce Type: new Abstract: Large language model agents interleave reasoning, action selection, and observation to solve sequential decision-making tasks. In deployed settings where agents repeatedly handle related multi-step tasks, small action-selection errors can accumulate into wasted tool calls",
+        "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+        "summary": "arXiv:2605.12620v1 Announce Type: new Abstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision-language knowledge a",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 13 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.11169",
+        "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.12620",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement",
-        "summary": "arXiv:2605.11225v1 Announce Type: new Abstract: Large language model (LLM)-based agents frequently generate seemingly coherent plans that fail upon execution due to infeasible actions, constraint violations, and compounding errors over extended horizons. PIVOT (Plan-Inspect-eVOlve Trajectories) addresses this plan-exec",
+        "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
+        "summary": "arXiv:2605.12730v1 Announce Type: new Abstract: Existing AI systems for modeling human behavior operate at the level of individuals or detect events after they occur. As a result, they systematically fail to capture the collective dynamics that determine whether a group remains stable or transitions into escalation or ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 13 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.11225",
+        "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.12730",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The Semantic Training Gap: Ontology-Grounded Tool Architectures for Industrial AI Agent Systems",
-        "summary": "arXiv:2605.11234v1 Announce Type: new Abstract: Large language model (LLM)-based AI agents are increasingly deployed in manufacturing environments for analytics, quality management, and decision support. These agents demonstrate statistical fluency with domain terminology but lack grounded understanding of operational ",
+        "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
+        "summary": "arXiv:2605.12894v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information. However, collecting real interaction data at scale remains expensive. ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 13 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.11234",
+        "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.12894",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Template-as-Ontology: Configurable Synthetic Data Infrastructure for Cross-Domain Manufacturing AI Validation",
-        "summary": "arXiv:2605.11259v1 Announce Type: new Abstract: LLarge language model (LLM)-based AI agents deployed in manufacturing environments require populated, schema-correct data for validation, yet production MES data is proprietary, privacy-encumbered, and vendor-specific. This paper introduces the Template-as-Ontology princi",
+        "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
+        "summary": "arXiv:2605.13037v1 Announce Type: new Abstract: Current interactive LLM agents rely on goal-conditioned stepwise planning, where environmental understanding is acquired reactively during execution rather than established beforehand. This temporal inversion leads to Delayed Environmental Perception: agents must infer en",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 13 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.11259",
+        "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.13037",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
