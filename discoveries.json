@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-16",
-  "last_updated": "2026-05-16 23:49 UTC",
+  "date": "2026-05-17",
+  "last_updated": "2026-05-17 23:57 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Fri, 15 May 2026 00:50:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/aptamers-zombie-cells.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists Discover Hidden “Switch” That Burns Fat and Could Treat Bone Disease",
+        "summary": "A newly discovered fat-burning “switch” could pave the way for future treatments that strengthen fragile bones. Scientists have discovered a molecular “switch” in mice that activates a hidden energy-burning system in brown fat, a breakthrough that could eventually lead to new treatments for bone disease. The research, ",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sun, 17 May 2026 04:15:12 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-hidden-switch-that-burns-fat-and-could-treat-bone-disease/",
+        "image_url": "https://scitechdaily.com/images/Burning-Fat-Fire-Flame-Paper-Sign-777x518.jpg",
         "impact": 5
       },
       {
@@ -45,17 +56,6 @@
         "published_at": "Sat, 16 May 2026 17:00:01 EDT",
         "source_url": "https://phys.org/news/2026-05-hidden-small-rna-cholera-bacterium.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-small-rna-deter.jpg",
-        "impact": 5
-      },
-      {
-        "title": "After 50 Years of Mystery, Researchers Identify New Human Blood Group",
-        "summary": "A decades-long search to identify a mysterious blood antigen has led researchers to a hidden genetic difference found in a tiny number of people. A rare blood type mystery that has puzzled scientists for over 50 years has finally been solved, and the breakthrough could make blood transfusions safer for patients around ",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sat, 16 May 2026 21:21:13 +0000",
-        "source_url": "https://scitechdaily.com/after-50-years-of-mystery-researchers-identify-new-human-blood-group/",
-        "image_url": "https://scitechdaily.com/images/Red-Blood-Cells-Artery-Blood-Flow-777x518.jpg",
         "impact": 5
       }
     ],
@@ -94,14 +94,14 @@
         "impact": 3
       },
       {
-        "title": "Meridian Ventures launched a $35M fund with a focus on MBA-deferred founders",
-        "summary": "This new fund will back founders building enterprise technology in the United States. Meridian is agnostic, co-founder Devon Gethers said, noting that the firm has already invested in companies in fintech, logistics, healthcare, and of course, AI.",
+        "title": "ElliQ is a surprisingly helpful companion robot for older adults",
+        "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, socializing, and enga",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 15 May 2026 13:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Devon-Gethers-and-Karlton-Haney-.jpeg?resize=1200,900",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-05-17T09:00:00-04:00",
+        "source_url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268525_ElliQ_companion_robot_SVasani_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       },
       {
@@ -118,26 +118,15 @@
     ],
     "medicine": [
       {
-        "title": "A common constipation drug shows surprising power to protect kidneys",
-        "summary": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 patients, researchers found that lubiprostone, a medication normally used to treat constipation, helped preserve kidney fu",
+        "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+        "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s environment. In one striki",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Fri, 08 May 2026 06:44:49 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/human-kidney-cross-section-glow.webp",
+        "published_at": "Sun, 17 May 2026 07:11:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/digital-nanotechnology-neural-network.webp",
         "impact": 5
-      },
-      {
-        "title": "Japan pharmaceutical firm warns against rare diseases drug after deaths",
-        "summary": "A Japanese pharmaceutical firm has warned doctors against prescribing a drug for rare autoimmune diseases to new patients following the deaths of 20 people who took it.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 16 May 2026 05:13:38 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-japan-pharmaceutical-firm-rare-diseases.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/doctor.jpg",
-        "impact": 4
       },
       {
         "title": "A grad student’s wild idea sparks a major aging breakthrough",
@@ -162,14 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Meeting an AI doctor before a real-life consultation can improve cancer patients' understanding and reduce stress",
-        "summary": "Cancer patients who interact with an artificial intelligence (AI) avatar doctor before they meet their real-life consultant feel more knowledgeable and less stressed, according to research presented at the Congress of the European Society for Radiotherapy and Oncology (ESTRO 2026).",
+        "title": "Grape consumption linked to changes in gene expression and improved skin health",
+        "summary": "Clinical trials have shown that consumption of grapes can increase the resilience of skin to UV irradiation in about 30%–50% of the subject population. A new study published in the current issue of the journal ACS Nutrition Science suggests the effect of consuming grapes on human skin health is much broader—most likely",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 16 May 2026 18:10:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-ai-doctor-real-life-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-patient.jpg",
+        "published_at": "Sun, 17 May 2026 17:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-grape-consumption-linked-gene-skin.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/grape-consumption-link.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Weight-loss drugs tied to lower death, recurrence risk after breast cancer",
+        "summary": "New research published in JAMA Network Open suggests that there is a positive association between GLP-1 agonists—drugs commonly used to treat obesity and diabetes—and better outcomes among breast cancer patients.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 17 May 2026 17:00:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-weight-loss-drugs-death-recurrence.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/breast-cancer-1.jpg",
         "impact": 4
       }
     ],
@@ -232,17 +232,6 @@
     ],
     "space": [
       {
-        "title": "SpaceX's Starship V3 megarocket finally has a debut launch date. Here's when it will fly",
-        "summary": "SpaceX is officially targeting May 19 for the debut of Starship Version 3, an advanced new vehicle that could help humanity take its first steps on the moon and Mars.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 12 May 2026 22:34:50 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-finally-has-a-debut-launch-date-heres-when-it-will-fly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/iAHzx5idBfCE7bcvxncqJ3-1280-80.jpg",
-        "impact": 5
-      },
-      {
         "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
         "summary": "The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after lifting off at 6:05 p.m. EDT Friday on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The SpaceX spacecraft, loaded wi",
         "category": "Space",
@@ -273,6 +262,17 @@
         "published_at": "Thu, 14 May 2026 16:32:09 +0000",
         "source_url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
         "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/csn-1518-rotated.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Giant radio telescope sees Artemis 2 astronauts on Orion flying around the moon. 'There are 4 people in those pixels.'",
+        "summary": "A giant radio telescope in West Virginia tracked Artemis 2's Orion spacecraft around the moon for five days, gathering precise observations on its movements during the historic mission.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 17 May 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/giant-radio-telescope-sees-artemis-2-astronauts-on-orion-flying-around-the-moon-there-are-4-people-in-those-pixels",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/2bn2v2Kjts8upe87VTEcRk-1280-80.jpg",
         "impact": 4
       },
       {
@@ -346,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "Xintiandi Dongtaili Mall / Kokaistudios",
+        "summary": "XINTIANDI DONGTAILI: Revitalizing Urban Memory Through Contemporary Design. XINTIANDI DONGTAILI marks a new chapter in the evolution of one of Shanghai's most iconic neighborhoods. More than a commercial development, it is a reimagining of urban space: socially engaged, architecturally contextual, and rooted in the vis",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 17 May 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041122/xintiandi-dongtaili-mall-kokaistudios",
+        "image_url": "https://images.adsttc.com/media/images/69f3/78bf/e0a7/c201/892c/b273/large_jpg/xintiandi-dongtaili-kokaistudios_16.jpg?1777563900",
+        "impact": 4
+      },
+      {
         "title": "Forestry Station / Roland Baldi Architects",
         "summary": "Wood as a way of being: The forestry station in the centre of Nova Ponente/Deutschnofen is a highly functional administrative building designed to combine purpose and surroundings. Home to the local forestry office of the Autonomous Province of Bolzano/Bozen, the building represents a responsible use of resources and i",
         "category": "Architecture",
@@ -387,17 +398,6 @@
         "published_at": "Tue, 12 May 2026 18:00:38 +0000",
         "source_url": "https://www.dezeen.com/2026/05/12/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun-dezeen-debate/",
         "image_url": "https://static.dezeen.com/uploads/2026/05/mohammed-vi-tower-morocco-tallest-building_dezeen_2364_col_0.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Ten Australian houses ideal for living out the suburban dream",
-        "summary": "Car-borne urban sprawl justifiably draws a lot of criticism, but as this roundup of Australian houses with plenty of living space and leafy gardens shows, the appeal of the suburbs can be hard to deny. Moon House, Sydney, by James Garvan Architecture Located in the Sydney suburb of Waverley, this all-white house was de",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Sat, 09 May 2026 09:00:13 +0000",
-        "source_url": "https://www.dezeen.com/2026/05/09/australian-suburban-houses/",
-        "image_url": "https://static.dezeen.com/uploads/2025/01/anthony-gill-architects-clifton-house-sydney_dezeen_2364_sq.jpg",
         "impact": 4
       }
     ],
@@ -471,48 +471,48 @@
         "impact": 5
       },
       {
-        "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-        "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines",
+        "title": "Parloa builds service agents customers want to talk to",
+        "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 16 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.13848",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 07 May 2026 11:00:00 GMT",
+        "source_url": "https://openai.com/index/parloa",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-        "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent ",
+        "title": "Fostering breakthrough AI innovation through customer-back engineering",
+        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward ",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 16 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.13850",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 11 May 2026 13:33:06 +0000",
+        "source_url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Capital-One-iStock-2208464815.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-        "summary": "arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a p",
+        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+        "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 16 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.13851",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 15 May 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/databricks",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4QntwWTKj3ZZzB1IY3llsp/3b10f6ca5dc53144f8a6a7da26c27cd1/oai_Databricks_SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
-        "summary": "arXiv:2605.14038v1 Announce Type: new Abstract: Large language models (LLMs) increasingly act as autonomous agents that must decide when to answer directly vs. when to invoke external tools. Prior work studying adaptive tool use has largely treated tool necessity as a model-agnostic property, annotated by human or LLM ",
+        "title": "Sea's View on the Future of Agentic Software Development with Codex",
+        "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 16 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.14038",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 14 May 2026 20:30:00 GMT",
+        "source_url": "https://openai.com/index/sea-david-chen",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3GtC4ObJd8RLwLe2OIIsyb/06f9c687583df8c348fa7c9ceac493ab/EF_Ep20_16.9.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
