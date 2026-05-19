@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-17",
-  "last_updated": "2026-05-17 23:57 UTC",
+  "date": "2026-05-19",
+  "last_updated": "2026-05-19 00:04 UTC",
   "categories": {
     "science": [
       {
@@ -12,17 +12,6 @@
         "published_at": "Fri, 15 May 2026 00:50:11 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/aptamers-zombie-cells.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Discover Hidden “Switch” That Burns Fat and Could Treat Bone Disease",
-        "summary": "A newly discovered fat-burning “switch” could pave the way for future treatments that strengthen fragile bones. Scientists have discovered a molecular “switch” in mice that activates a hidden energy-burning system in brown fat, a breakthrough that could eventually lead to new treatments for bone disease. The research, ",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sun, 17 May 2026 04:15:12 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-hidden-switch-that-burns-fat-and-could-treat-bone-disease/",
-        "image_url": "https://scitechdaily.com/images/Burning-Fat-Fire-Flame-Paper-Sign-777x518.jpg",
         "impact": 5
       },
       {
@@ -48,21 +37,43 @@
         "impact": 5
       },
       {
-        "title": "Hidden small RNA in cholera bacterium helps determine whether it can infect humans",
-        "summary": "Scientists from St. Jude Children's Research Hospital have uncovered what gives Vibrio cholerae, the bacterium that causes cholera, the ability to colonize the human gut. The researchers found that a small RNA embedded within another gene controls where cholera thrives, a discovery that could improve prediction and pre",
+        "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+        "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s environment. In one striki",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Sat, 16 May 2026 17:00:01 EDT",
-        "source_url": "https://phys.org/news/2026-05-hidden-small-rna-cholera-bacterium.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-small-rna-deter.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 17 May 2026 07:11:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/digital-nanotechnology-neural-network.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
+        "summary": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of de",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 16 May 2026 09:30:59 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/blue-light-glowing-mitochondria.webp",
         "impact": 5
       }
     ],
     "tech": [
       {
+        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+        "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 18 May 2026 19:27:52 +0000",
+        "source_url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+        "impact": 3
+      },
+      {
         "title": "The offline desk gadget that actually got me to sit up straight",
-        "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
+        "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
@@ -83,40 +94,62 @@
         "impact": 3
       },
       {
-        "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
-        "summary": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
+        "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
+        "summary": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 15 May 2026 17:13:26 +0000",
-        "source_url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 15 May 2026 19:51:16 +0000",
+        "source_url": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/",
+        "image_url": "https://media.wired.com/photos/6a0765d467132e88ffa72f17/191:100/w_1280,c_limit/GettyImages-2220743976.jpg",
         "impact": 3
       },
       {
-        "title": "ElliQ is a surprisingly helpful companion robot for older adults",
-        "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, socializing, and enga",
+        "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,&#8230;",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-17T09:00:00-04:00",
-        "source_url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268525_ElliQ_companion_robot_SVasani_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
-        "summary": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her first title, Bored and Brilliant, left off. ",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-16T11:00:00-04:00",
-        "source_url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ManoushZomorodi4.jpg?quality=90&strip=all&crop=0%2C3.3074516883655%2C100%2C34.921056937173&w=1200",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 18 May 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/GettyImages-2273247036.jpg?resize=1200,600",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Scientists develop first-in-class drug candidate for chronic itch",
+        "summary": "Chronic itch is often described as an \"invisible torment.\" It can persist for weeks or months, severely affecting sleep, mental health, and quality of life. In patients with cholestatic liver disease, chronic itch remains a major clinical challenge, and current treatments often provide limited relief.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 18 May 2026 18:40:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-scientists-class-drug-candidate-chronic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-fir-7.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Family-donor stem cells show safe symptom relief for 'butterfly skin' patients, trial suggests",
+        "summary": "The intravenous infusion of mesenchymal stem cells from family donors is safe and improves symptoms such as pruritus (itching), sleep disturbances, and fatigue associated with Recessive Dystrophic Epidermolysis Bullosa (RDEB), popularly known as \"butterfly skin.\" This is one of the primary conclusions of a clinical tri",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 18 May 2026 19:20:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-family-donor-stem-cells-safe.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/spanish-clinical-trial.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Automation cuts prostate cancer drug candidate production from 6 hours to 38 minutes",
+        "summary": "A proof-of-concept study has created a blueprint for producing prostate cancer treatment more efficiently. Researchers at the University of Missouri, Cancer Targeted Technology (CTT) and Isotherapeutics Group (ITG) discovered an innovative method to speed production of a cancer-fighting drug candidate. The breakthrough",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 18 May 2026 18:40:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-automation-prostate-cancer-drug-candidate.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-a-5.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
         "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s environment. In one striki",
@@ -129,62 +162,18 @@
         "impact": 5
       },
       {
-        "title": "A grad student’s wild idea sparks a major aging breakthrough",
-        "summary": "A casual conversation between graduate students helped spark a breakthrough in aging research at Mayo Clinic. Researchers discovered that tiny synthetic DNA molecules called aptamers can selectively attach to senescent “zombie cells,” which are linked to aging, cancer, and neurodegenerative disease. The method could ev",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 15 May 2026 00:50:11 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/aptamers-zombie-cells.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
-        "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the stem cells’ youthful function, dramatically boosting their ability to regenerate a",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 12 May 2026 19:30:12 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/flow-of-red-blood-cells.webp",
-        "impact": 4
-      },
-      {
-        "title": "Grape consumption linked to changes in gene expression and improved skin health",
-        "summary": "Clinical trials have shown that consumption of grapes can increase the resilience of skin to UV irradiation in about 30%–50% of the subject population. A new study published in the current issue of the journal ACS Nutrition Science suggests the effect of consuming grapes on human skin health is much broader—most likely",
+        "title": "FDA blocked melanoma drug as confusion reigned under Makary",
+        "summary": "The U.S. Food and Drug Administration's decision to withhold approval of a new skin cancer treatment fell like a hammer on doctors who treat melanoma and patients who saw that the drug had prolonged the lives of a third of the participants in a clinical trial.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 17 May 2026 17:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-grape-consumption-linked-gene-skin.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/grape-consumption-link.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Weight-loss drugs tied to lower death, recurrence risk after breast cancer",
-        "summary": "New research published in JAMA Network Open suggests that there is a positive association between GLP-1 agonists—drugs commonly used to treat obesity and diabetes—and better outcomes among breast cancer patients.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 17 May 2026 17:00:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-weight-loss-drugs-death-recurrence.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/breast-cancer-1.jpg",
+        "published_at": "Mon, 18 May 2026 19:40:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-fda-blocked-melanoma-drug-makary.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fda-blocked-melanoma-d.jpg",
         "impact": 4
       }
     ],
     "mathematics": [
-      {
-        "title": "In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?",
-        "summary": "The quest to make mathematics rigorous has a long and spotty history — one mathematicians can learn from as they push to formalize everything in the computer program Lean. The post In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far? first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Wed, 25 Mar 2026 14:53:34 +0000",
-        "source_url": "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/03/FormalMess-crKristinaArmitage-Social.jpg",
-        "impact": 4
-      },
       {
         "title": "MIT affiliates win AI for Math grants to accelerate mathematical discovery",
         "summary": "Department of Mathematics researchers David Roe and Andrew Sutherland seek to advance automated theorem proving; four additional MIT alumni also awarded.",
@@ -195,6 +184,17 @@
         "source_url": "https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922",
         "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202509/mit-mathematics-roe-sutherland.jpg?itok=GaIs7BPh",
         "impact": 4
+      },
+      {
+        "title": "What Do Gödel’s Incompleteness Theorems Truly Mean?",
+        "summary": "At 25, Kurt Gödel proved there can never be a mathematical “theory of everything.” Columnist Natalie Wolchover explores the implications. The post What Do Gödel’s Incompleteness Theorems Truly Mean? first appeared on Quanta Magazine",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Mon, 18 May 2026 15:14:42 +0000",
+        "source_url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Qualia-Incompleteness-cr-Kurt-Godel-Papers-the-Shelby-White-and-Leon-Levy-Achives-Center-Institute-for-Advanced-Study-Samuel-Velasco-and-Michael-Kanyongolo-Social.jpg",
+        "impact": 3
       },
       {
         "title": "How Unknowable Math Can Help Hide Secrets",
@@ -231,6 +231,17 @@
       }
     ],
     "space": [
+      {
+        "title": "Watch Vega C rocket launch European-Chinese space weather satellite to orbit tonight",
+        "summary": "A Vega C rocket will launch the European-Chinese SMILE space weather mission to orbit tonight (May 18), and you can watch the action live.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 18 May 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/DJgZ9tXoDeggrS7uU7baKh-1280-80.jpg",
+        "impact": 5
+      },
       {
         "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
         "summary": "The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after lifting off at 6:05 p.m. EDT Friday on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The SpaceX spacecraft, loaded wi",
@@ -272,18 +283,7 @@
         "journal": "space.com",
         "published_at": "Sun, 17 May 2026 12:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/artemis/giant-radio-telescope-sees-artemis-2-astronauts-on-orion-flying-around-the-moon-there-are-4-people-in-those-pixels",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/2bn2v2Kjts8upe87VTEcRk-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "This Week In Space podcast: Episode 210 — ESCAPADES at Mars",
-        "summary": "On Episode 210 of This Week In Space, Rod Pyle and Tariq Malik talk with Dr. Robert Lillis of the Mars ESCAPADE mission.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 16 May 2026 14:43:45 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-210-escapades-at-mars",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/yugkQL394aABWXALKGN3-1280-80.jpg",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/8R96998WaFqPoFiR5DUREj-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,28 +311,6 @@
         "impact": 4
       },
       {
-        "title": "The Roman Space Telescope is Ahead of Schedule, and the Hubble is Giving it a Jump Start",
-        "summary": "One of the core community surveys of NASA’s Nancy Grace Roman Space Telescope, the Galactic Bulge Time-Domain Survey, is expected to locate over a thousand exoplanets that orbit far away from their stars, beyond the orbital distance of Earth from the Sun. Although Roman hasn’t launched yet, astronomers already are gath",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 14 May 2026 17:28:40 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-roman-space-telescope-is-ahead-of-schedule-and-the-hubble-is-giving-it-a-jump-start",
-        "image_url": "https://www.universetoday.com/article_images/2000x1125_20260514_153609.jpg",
-        "impact": 4
-      },
-      {
-        "title": "We've Been Wasting 99% of Our Supernova Data",
-        "summary": "Every time an astronomer points a telescope at a distant supernova, they're trying to measure how far away it is. But the light from these stellar explosions arrives tangled up with interference from dust, the age of the host galaxy and the chemical make up of the original star . Unpicking it all has always been a pain",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 14 May 2026 10:48:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/weve-been-wasting-99-of-our-supernova-data",
-        "image_url": "https://www.universetoday.com/article_images/SN1994D_1_20260514_104747.jpg",
-        "impact": 4
-      },
-      {
         "title": "Moon and Planets to Gather in Twilight Spectacle on May 18–20",
         "summary": "Watch the crescent Moon dance with the planets when it returns next week. The post Moon and Planets to Gather in Twilight Spectacle on May 18–20 appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -342,31 +320,31 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/moon-planets-gather-in-a-twilight-spectacle-may-18-20/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Venus-crescent-moon-conjunction-July-15_2018-cirrus-clouds-B-ST-900px.webp",
         "impact": 4
+      },
+      {
+        "title": "A Black Hole’s Puzzling X-Ray Bursts",
+        "summary": "In 2019, a supermassive black hole in a galaxy 300 million light-years away woke up. Now, it’s puzzling astronomers with an unexpected slowdown in its X-ray bursts. The post A Black Hole’s Puzzling X-Ray Bursts appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Mon, 11 May 2026 13:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/a-black-holes-puzzling-x-ray-bursts/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Giant_black_hole_awakens_with_repetitive_X-ray_bursts.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "This Week's Sky at a Glance, May 8 – 17",
+        "summary": "Jupiter, shining high the western dusk, inches down day toward brighter Venus. Venus, meanwhile, creeps toward the horntip stars of Taurus and stands between them on May 13th. The post This Week&#039;s Sky at a Glance, May 8 – 17 appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Fri, 08 May 2026 09:13:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May08_ev_DARKblu_FEATURED.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "Xintiandi Dongtaili Mall / Kokaistudios",
-        "summary": "XINTIANDI DONGTAILI: Revitalizing Urban Memory Through Contemporary Design. XINTIANDI DONGTAILI marks a new chapter in the evolution of one of Shanghai's most iconic neighborhoods. More than a commercial development, it is a reimagining of urban space: socially engaged, architecturally contextual, and rooted in the vis",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 17 May 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041122/xintiandi-dongtaili-mall-kokaistudios",
-        "image_url": "https://images.adsttc.com/media/images/69f3/78bf/e0a7/c201/892c/b273/large_jpg/xintiandi-dongtaili-kokaistudios_16.jpg?1777563900",
-        "impact": 4
-      },
-      {
-        "title": "Forestry Station / Roland Baldi Architects",
-        "summary": "Wood as a way of being: The forestry station in the centre of Nova Ponente/Deutschnofen is a highly functional administrative building designed to combine purpose and surroundings. Home to the local forestry office of the Autonomous Province of Bolzano/Bozen, the building represents a responsible use of resources and i",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sat, 16 May 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041535/forestry-station-roland-baldi-architects",
-        "image_url": "https://images.adsttc.com/media/images/6a04/92ca/a59b/8300/01a7/f783/large_jpg/_DR67296B.jpg?1778684636",
-        "impact": 4
-      },
       {
         "title": "First images of Gensler-designed 60-building data centre development in Utah revealed",
         "summary": "Infrastructure firm O'Leary Digital has exclusively revealed the first images of the Stratos Hyperscale Data Center in Box Elder County, Utah, which is being designed by architecture studio Gensler as one of the largest data centres in the world. The 7.5-gigawatt Stratos Hyperscale Data Center is part of the Wonder Val",
@@ -399,6 +377,28 @@
         "source_url": "https://www.dezeen.com/2026/05/12/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun-dezeen-debate/",
         "image_url": "https://static.dezeen.com/uploads/2026/05/mohammed-vi-tower-morocco-tallest-building_dezeen_2364_col_0.jpg",
         "impact": 4
+      },
+      {
+        "title": "Ten Australian houses ideal for living out the suburban dream",
+        "summary": "Car-borne urban sprawl justifiably draws a lot of criticism, but as this roundup of Australian houses with plenty of living space and leafy gardens shows, the appeal of the suburbs can be hard to deny. Moon House, Sydney, by James Garvan Architecture Located in the Sydney suburb of Waverley, this all-white house was de",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sat, 09 May 2026 09:00:13 +0000",
+        "source_url": "https://www.dezeen.com/2026/05/09/australian-suburban-houses/",
+        "image_url": "https://static.dezeen.com/uploads/2025/01/anthony-gill-architects-clifton-house-sydney_dezeen_2364_sq.jpg",
+        "impact": 4
+      },
+      {
+        "title": "The Soft Control of Space: Design for Decision-Making",
+        "summary": "\"There is no space without event, no architecture without action.\" When Bernard Tschumi wrote these words, he was articulating a fundamental principle of the architect's practice. Architecture is about behavior. Every stroke of a pen on a floor plan is a proposition about how occupants will move or what actions become ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 18 May 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1040960/the-soft-control-of-space-design-for-decision-making",
+        "image_url": "https://images.adsttc.com/media/images/69ed/9687/e2d9/9109/703c/ec46/large_jpg/the-soft-control-of-space-design-for-decision-making_1.jpg?1777178255",
+        "impact": 4
       }
     ],
     "construction": [
@@ -425,40 +425,62 @@
         "impact": 4
       },
       {
-        "title": "Mott MacDonald enters agreement to acquire Australian civil contractor",
-        "summary": "Global engineering consultancy Mott MacDonald has entered into an agreement to acquire Leed Engineering &amp; Construction, which has delivered projects in metropolitan, regional and remote areas of Australia. The post Mott MacDonald enters agreement to acquire Australian civil contractor appeared first on New Civil En",
+        "title": "What could a Reform UK government mean for the infrastructure sector?",
+        "summary": "Senior infrastructure and civil engineering spokespeople have told NCE they would work with Reform UK if it formed the next government in Westminster, to enable the delivery of a pipeline of ‘investable’ large projects. The post What could a Reform UK government mean for the infrastructure sector? appeared first on New",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Thu, 14 May 2026 10:08:03 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/mott-macdonald-enters-agreement-to-acquire-australian-civil-contractor-14-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2019/06/mottsstockimage.jpg",
+        "published_at": "Mon, 18 May 2026 11:01:54 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/what-could-a-reform-uk-government-mean-for-the-infrastructure-sector-18-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/shutterstock_2757636367-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "FlatironDragados advances $518M Virginia floodwater project",
-        "summary": "The start of construction follows a two-year preconstruction phase with the City of Virginia Beach under a progressive design-build contract.&nbsp;",
+        "title": "How data integration drives construction business growth",
+        "summary": "As construction businesses expand their operations, a lack of integrated data can slow them down.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 15 May 2026 15:29:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/flatirondragados-virginia-floodwater-project/820403/",
-        "image_url": "https://imgproxy.divecdn.com/Zc-H6xGwTmuWX011Vmn6gyLEX5wrMwD5uFweEUnzIaI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yZXNpbGllbmN5LS1mbGF0aXJvbmRyYWdhZG9zLXZpcmdpbmlhLWJlYWNoLXJlc2lsaWVuY3ktcHJvamVjdC0tODAuanBn.webp",
+        "published_at": "Mon, 18 May 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/how-data-integration-drives-construction-business-growth/820070/",
+        "image_url": "https://imgproxy.divecdn.com/Lb6IZo2K0foWfJAnAX8CeBvHmhYq2RqdGCUWuDKJpGY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25zdHJ1Y3Rpb24taGVhZGVyLWltYWdlLnBuZw==.webp",
         "impact": 3
       },
       {
-        "title": "Punch List: Shawmut names new Florida exec, Warfel turns 115",
-        "summary": "Plus,&nbsp;DeWalt highlights $200,000 in trade scholarships, a Tutor Perini subsidiary wins a healthcare job in California and other construction news from the week.",
+        "title": "How construction teams are moving AI from pilot to the field",
+        "summary": "The reason most construction AI pilots stall has little to do with the model itself.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 15 May 2026 08:42:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/shawmut-new-florida-exec-warfel-dewalt-tutor-perini/820277/",
-        "image_url": "https://imgproxy.divecdn.com/tA0tfI-mlJ53gVj4wS6zgTnY6yAEc9qATItUaMe-46U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZW5kZXJpbmdfb2ZfU3V0dGVyX0hlYWx0aF9BZHZhbmNlZF9PcnRob3BlZGljc19hbmRfU3BvcnRzX01lZGljaW5lX0NhcmVfQ29tcGxleC5qcGc=.webp",
+        "published_at": "Mon, 18 May 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/how-construction-teams-are-moving-ai-from-pilot-to-the-field/820245/",
+        "image_url": "https://imgproxy.divecdn.com/cfo4d_ZnmOHw5URitmOB34NzPYFDf9d5EIwCNHl-pw8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMS0xMDE0WDYxNl80Y3FPdzBsLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
+      {
+        "title": "ALSO: Adversarial Online Strategy Optimization for Social Agents",
+        "summary": "arXiv:2605.15768v1 Announce Type: new Abstract: Social simulation provides a compelling testbed for studying social intelligence, where agents interact through multi-turn dialogues under evolving contexts and strategically adapting opponents. Such environments are inherently non-stationary, requiring agents to dynamica",
+        "category": "AI",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.15768",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
+      },
+      {
+        "title": "Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design",
+        "summary": "arXiv:2605.15871v1 Announce Type: new Abstract: Toward recursive self-improvement, we investigate LLM agents autonomously designing foundation models beyond standard Transformers. We introduce a dual-framework approach: AIRA-Compose for high-level architecture search, and AIRA-Design for low-level mechanistic implement",
+        "category": "AI",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.15871",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
+      },
       {
         "title": "What Parameter Golf taught us about AI-assisted research",
         "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
@@ -471,48 +493,26 @@
         "impact": 5
       },
       {
-        "title": "Parloa builds service agents customers want to talk to",
-        "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+        "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+        "summary": "arXiv:2605.15215v1 Announce Type: new Abstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime task, enabling speciali",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 07 May 2026 11:00:00 GMT",
-        "source_url": "https://openai.com/index/parloa",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.15215",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Fostering breakthrough AI innovation through customer-back engineering",
-        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward ",
+        "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
+        "summary": "arXiv:2605.15218v1 Announce Type: new Abstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool encapsulation, and fault recovery, outputs may be inconsistent and task failures are common. The Agent Harness paradigm add",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 11 May 2026 13:33:06 +0000",
-        "source_url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Capital-One-iStock-2208464815.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-        "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-        "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 15 May 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/databricks",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4QntwWTKj3ZZzB1IY3llsp/3b10f6ca5dc53144f8a6a7da26c27cd1/oai_Databricks_SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
-      },
-      {
-        "title": "Sea's View on the Future of Agentic Software Development with Codex",
-        "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-        "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 14 May 2026 20:30:00 GMT",
-        "source_url": "https://openai.com/index/sea-david-chen",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3GtC4ObJd8RLwLe2OIIsyb/06f9c687583df8c348fa7c9ceac493ab/EF_Ep20_16.9.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.15218",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
