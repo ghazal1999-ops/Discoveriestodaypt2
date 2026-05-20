@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-19",
-  "last_updated": "2026-05-19 00:04 UTC",
+  "date": "2026-05-20",
+  "last_updated": "2026-05-20 00:02 UTC",
   "categories": {
     "science": [
       {
@@ -26,14 +26,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
-        "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the stem cells’ youthful function, dramatically boosting their ability to regenerate a",
+        "title": "Chemists use sea sponge bacteria to create new molecules for drug discovery",
+        "summary": "Florida State University chemists have synthesized new molecules derived from bacteria found in a Pacific Ocean sea sponge, a breakthrough for the future of drug development, particularly for rare forms of cancer.",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 12 May 2026 19:30:12 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/flow-of-red-blood-cells.webp",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 19 May 2026 16:20:05 EDT",
+        "source_url": "https://phys.org/news/2026-05-chemists-sea-sponge-bacteria-molecules.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-use-sea-spong.jpg",
         "impact": 5
       },
       {
@@ -61,95 +61,62 @@
     ],
     "tech": [
       {
-        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-        "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+        "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+        "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 18 May 2026 19:27:52 +0000",
-        "source_url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+        "published_at": "Tue, 19 May 2026 19:15:31 +0000",
+        "source_url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1421.jpg?resize=1200,900",
         "impact": 3
       },
       {
-        "title": "The offline desk gadget that actually got me to sit up straight",
-        "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits.",
+        "title": "Google’s Genie world model can now simulate real streets with Street View",
+        "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sat, 16 May 2026 16:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Deepcare-feat.jpg?resize=1200,675",
+        "published_at": "Tue, 19 May 2026 17:51:39 +0000",
+        "source_url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662",
         "impact": 3
       },
       {
-        "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-        "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
+        "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+        "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sat, 16 May 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+        "published_at": "Tue, 19 May 2026 17:51:30 +0000",
+        "source_url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900",
         "impact": 3
       },
       {
-        "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
-        "summary": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
+        "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+        "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 15 May 2026 19:51:16 +0000",
-        "source_url": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/",
-        "image_url": "https://media.wired.com/photos/6a0765d467132e88ffa72f17/191:100/w_1280,c_limit/GettyImages-2220743976.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 19 May 2026 17:45:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Pixel-10-Pro-feat-.jpg?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,&#8230;",
+        "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+        "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 18 May 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/GettyImages-2273247036.jpg?resize=1200,600",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 19 May 2026 17:45:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/1_Price_insights___Wayfair_examp.width-1000.format-webp.webp?w=1000",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Scientists develop first-in-class drug candidate for chronic itch",
-        "summary": "Chronic itch is often described as an \"invisible torment.\" It can persist for weeks or months, severely affecting sleep, mental health, and quality of life. In patients with cholestatic liver disease, chronic itch remains a major clinical challenge, and current treatments often provide limited relief.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 18 May 2026 18:40:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-scientists-class-drug-candidate-chronic.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-fir-7.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Family-donor stem cells show safe symptom relief for 'butterfly skin' patients, trial suggests",
-        "summary": "The intravenous infusion of mesenchymal stem cells from family donors is safe and improves symptoms such as pruritus (itching), sleep disturbances, and fatigue associated with Recessive Dystrophic Epidermolysis Bullosa (RDEB), popularly known as \"butterfly skin.\" This is one of the primary conclusions of a clinical tri",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 18 May 2026 19:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-family-donor-stem-cells-safe.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/spanish-clinical-trial.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Automation cuts prostate cancer drug candidate production from 6 hours to 38 minutes",
-        "summary": "A proof-of-concept study has created a blueprint for producing prostate cancer treatment more efficiently. Researchers at the University of Missouri, Cancer Targeted Technology (CTT) and Isotherapeutics Group (ITG) discovered an innovative method to speed production of a cancer-fighting drug candidate. The breakthrough",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 18 May 2026 18:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-automation-prostate-cancer-drug-candidate.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-a-5.jpg",
-        "impact": 5
-      },
       {
         "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
         "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s environment. In one striki",
@@ -162,14 +129,47 @@
         "impact": 5
       },
       {
-        "title": "FDA blocked melanoma drug as confusion reigned under Makary",
-        "summary": "The U.S. Food and Drug Administration's decision to withhold approval of a new skin cancer treatment fell like a hammer on doctors who treat melanoma and patients who saw that the drug had prolonged the lives of a third of the participants in a clinical trial.",
+        "title": "People who lost the most weight on Ozempic saw huge health benefits",
+        "summary": "People who lost significant weight while taking Ozempic, Wegovy, Mounjaro, or Saxenda had sharply lower risks of major obesity-related health problems, including sleep apnea and kidney disease. Those who gained weight instead faced higher risks — especially for heart failure — even though many patients discontinued the",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 19 May 2026 09:05:57 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260518041432.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
+        "impact": 4
+      },
+      {
+        "title": "A grad student’s wild idea sparks a major aging breakthrough",
+        "summary": "A casual conversation between graduate students helped spark a breakthrough in aging research at Mayo Clinic. Researchers discovered that tiny synthetic DNA molecules called aptamers can selectively attach to senescent “zombie cells,” which are linked to aging, cancer, and neurodegenerative disease. The method could ev",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 15 May 2026 00:50:11 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/aptamers-zombie-cells.webp",
+        "impact": 4
+      },
+      {
+        "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
+        "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the stem cells’ youthful function, dramatically boosting their ability to regenerate a",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 12 May 2026 19:30:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/flow-of-red-blood-cells.webp",
+        "impact": 4
+      },
+      {
+        "title": "Severe asthma links to three recurring illness clusters across 2,700 patients in 11 countries",
+        "summary": "Most people living with severe asthma are also battling other health conditions that go under the radar, a major new study has found. Researchers analyzing data from thousands of patients discovered that the additional illnesses—which range from obesity to osteoporosis—tend to appear in clusters.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 18 May 2026 19:40:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-fda-blocked-melanoma-drug-makary.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fda-blocked-melanoma-d.jpg",
+        "published_at": "Tue, 19 May 2026 19:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-severe-asthma-links-recurring-illness.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/severe-asthma-patients.jpg",
         "impact": 4
       }
     ],
@@ -232,58 +232,58 @@
     ],
     "space": [
       {
-        "title": "Watch Vega C rocket launch European-Chinese space weather satellite to orbit tonight",
-        "summary": "A Vega C rocket will launch the European-Chinese SMILE space weather mission to orbit tonight (May 18), and you can watch the action live.",
+        "title": "NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid",
+        "summary": "NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without using any onboard propellant, sending it on ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 19 May 2026 19:49:33 +0000",
+        "source_url": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/1-pia26771-mars-crescent-pydenxfs.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA satellite will test orbital 'gas station' tech to help astronauts reach the moon and Mars",
+        "summary": "The Liquid Oxygen Flight demonstration (LOXSAT) will help NASA test and develop technologies to support in-space transfer and storage of cryogenic propellants, critical abilities for the Artemis program to return astronauts to the moon.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 19 May 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/nasa-satellite-will-test-cryogenic-technologies-for-orbital-gas-stations-to-help-astronauts-reach-the-moon-and-mars",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/KBFywMq3L4hikNBSxc8Ni3-1280-80.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Vega C rocket launches European-Chinese space weather satellite to orbit",
+        "summary": "A Vega C rocket launched the European-Chinese SMILE space weather mission to orbit on Monday night (May 18).",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
         "published_at": "Mon, 18 May 2026 17:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/DJgZ9tXoDeggrS7uU7baKh-1280-80.jpg",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/mVsskqFLu2652jg4eGW6FU-1280-80.jpg",
         "impact": 5
       },
       {
-        "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
-        "summary": "The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after lifting off at 6:05 p.m. EDT Friday on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The SpaceX spacecraft, loaded wi",
+        "title": "NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach",
+        "summary": "Description This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks extend to about 30 miles (50 kilometers) lo",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 15 May 2026 22:52:14 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/crs-34-mission-dragon-liftoff-image-2.png",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Tue, 19 May 2026 20:43:20 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26774/PIA26774.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "impact": 4
       },
       {
-        "title": "NASA Draws on Industry for Mars Telecommunications Network",
-        "summary": "On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars te",
+        "title": "NASA’s Psyche Mission Sees Mars’ South Pole After Flyby",
+        "summary": "Description This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026. The view extends from the south polar cap northwards to the Valles Marineris canyon system and beyond. With Mars in the rearview mirror, the spacecraft will soon resume use",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 14 May 2026 20:53:24 +0000",
-        "source_url": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/mars.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
-        "summary": "NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentia",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 14 May 2026 16:32:09 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/csn-1518-rotated.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Giant radio telescope sees Artemis 2 astronauts on Orion flying around the moon. 'There are 4 people in those pixels.'",
-        "summary": "A giant radio telescope in West Virginia tracked Artemis 2's Orion spacecraft around the moon for five days, gathering precise observations on its movements during the historic mission.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 17 May 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/giant-radio-telescope-sees-artemis-2-astronauts-on-orion-flying-around-the-moon-there-are-4-people-in-those-pixels",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/8R96998WaFqPoFiR5DUREj-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Tue, 19 May 2026 20:34:02 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26772/PIA26772.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "impact": 4
       }
     ],
@@ -300,14 +300,14 @@
         "impact": 4
       },
       {
-        "title": "We've Been Listening for Ten Years. Here's What We Heard",
-        "summary": "For ten years, astronomers at UCLA have been pointing one of the world's most powerful radio telescopes at the stars and listening. Not for pulsars or gas clouds, or the hiss of the cosmic microwave background, but for something far more extraordinary. A signal from another civilisation. The result of a decade's work, ",
+        "title": "Galactic starlight will take your breath away | Space photo of the day for May 19, 2026",
+        "summary": "The galaxy M77 looks truly out-of-this-world in a new image by the James Webb Space Telescope.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 14 May 2026 22:49:53 +0000",
-        "source_url": "https://www.universetoday.com/articles/weve-been-listening-for-ten-years-heres-what-we-heard",
-        "image_url": "https://www.universetoday.com/article_images/1280px-ESO-VLT-Laser-phot-33a-07_1_20260514_224946.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 19 May 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/galactic-starlight-will-take-your-breath-away-space-photo-of-the-day-for-may-19-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/BvjKspAZe7ExpL7phKK88F-1280-80.jpg",
         "impact": 4
       },
       {
@@ -346,6 +346,39 @@
     ],
     "architecture": [
       {
+        "title": "roma continua: building on its ancient layers, OMA reveals 25-year vision for rome",
+        "summary": "as a city of historic layers, rome will see its landscape and infrastructural framework recalibrated with a masterplan by OMA and IT's. The post roma continua: building on its ancient layers, OMA reveals 25-year vision for rome appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Tue, 19 May 2026 15:21:23 +0000",
+        "source_url": "https://www.designboom.com/architecture/roma-continua-ancient-layers-oma-reveals-25-year-vision-rome-italy/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/oma-roma-continua-masterplan-rome-italy-designboom-FB.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Samuel H. Scripps Theater Center / Studio Gang",
+        "summary": "Led by the renowned architecture and urban design practice Studio Gang, the design of the Scripps Theater extends the theater's year-round functionality, improves circulation across the campus, and enables a wider range of programming. Featuring a curved, timber-framed grid shell, the new theater provides improved rehe",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 19 May 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041582/samuel-h-scripps-theater-center-studio-gang",
+        "image_url": "https://images.adsttc.com/media/images/6a07/202b/093e/9201/8986/4123/large_jpg/samuel-h-scripps-theater-center-studio-gang_9.jpg?1778851898",
+        "impact": 4
+      },
+      {
+        "title": "Architecture and Ideology: How Political Systems Shaped 20th-Century Design",
+        "summary": "Architecture is often presented as the visible expression of its time, its desires, its faith in progress, its idea of order. Yet this reading tends to flatten the conditions under which buildings are produced. It suggests that architecture follows history when, in many cases, it actively participates in it. Few period",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 19 May 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040931/architecture-and-ideology-how-political-systems-shaped-20th-century-design",
+        "image_url": "https://images.adsttc.com/media/images/69eb/2650/0542/8c01/8a8b/9c92/large_jpg/architecture-and-ideology-how-political-systems-shaped-20th-century-design_1.jpg?1777018455",
+        "impact": 4
+      },
+      {
         "title": "First images of Gensler-designed 60-building data centre development in Utah revealed",
         "summary": "Infrastructure firm O'Leary Digital has exclusively revealed the first images of the Stratos Hyperscale Data Center in Box Elder County, Utah, which is being designed by architecture studio Gensler as one of the largest data centres in the world. The 7.5-gigawatt Stratos Hyperscale Data Center is part of the Wonder Val",
         "category": "Architecture",
@@ -365,39 +398,6 @@
         "published_at": "Fri, 15 May 2026 09:00:23 +0000",
         "source_url": "https://www.dezeen.com/2026/05/15/johnston-marklee-ray-phoenix-arizona-comments/",
         "image_url": "https://static.dezeen.com/uploads/2026/05/ray-phoneix-arizona-johnston-marklee-associates-lamar-johnson-collaborative_dezeen_2364_col_27-scaled_square.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Dezeen Debate features Morocco's \"proper sci-fi\" tallest building",
-        "summary": "The latest edition of our Dezeen Debate newsletter features the opening of Morocco's tallest building. Subscribe to Dezeen Debate now. Architecture studios Rafael de La‑Hoz and Hakim Benjelloun recently unveiled designed the 250-metre-tall Mohammed VI Tower, which is now Morocco's tallest building. Readers discussed th",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 12 May 2026 18:00:38 +0000",
-        "source_url": "https://www.dezeen.com/2026/05/12/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun-dezeen-debate/",
-        "image_url": "https://static.dezeen.com/uploads/2026/05/mohammed-vi-tower-morocco-tallest-building_dezeen_2364_col_0.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Ten Australian houses ideal for living out the suburban dream",
-        "summary": "Car-borne urban sprawl justifiably draws a lot of criticism, but as this roundup of Australian houses with plenty of living space and leafy gardens shows, the appeal of the suburbs can be hard to deny. Moon House, Sydney, by James Garvan Architecture Located in the Sydney suburb of Waverley, this all-white house was de",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Sat, 09 May 2026 09:00:13 +0000",
-        "source_url": "https://www.dezeen.com/2026/05/09/australian-suburban-houses/",
-        "image_url": "https://static.dezeen.com/uploads/2025/01/anthony-gill-architects-clifton-house-sydney_dezeen_2364_sq.jpg",
-        "impact": 4
-      },
-      {
-        "title": "The Soft Control of Space: Design for Decision-Making",
-        "summary": "\"There is no space without event, no architecture without action.\" When Bernard Tschumi wrote these words, he was articulating a fundamental principle of the architect's practice. Architecture is about behavior. Every stroke of a pen on a floor plan is a proposition about how occupants will move or what actions become ",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 18 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1040960/the-soft-control-of-space-design-for-decision-making",
-        "image_url": "https://images.adsttc.com/media/images/69ed/9687/e2d9/9109/703c/ec46/large_jpg/the-soft-control-of-space-design-for-decision-making_1.jpg?1777178255",
         "impact": 4
       }
     ],
@@ -425,36 +425,36 @@
         "impact": 4
       },
       {
-        "title": "What could a Reform UK government mean for the infrastructure sector?",
-        "summary": "Senior infrastructure and civil engineering spokespeople have told NCE they would work with Reform UK if it formed the next government in Westminster, to enable the delivery of a pipeline of ‘investable’ large projects. The post What could a Reform UK government mean for the infrastructure sector? appeared first on New",
+        "title": "NRW launches pipeline notice for £50m civil engineering framework",
+        "summary": "Natural Resources Wales (NRW) has published advance notice of a major new civil engineering and infrastructure framework worth an estimated £50M over eight years. The post NRW launches pipeline notice for £50m civil engineering framework appeared first on New Civil Engineer.",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Mon, 18 May 2026 11:01:54 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/what-could-a-reform-uk-government-mean-for-the-infrastructure-sector-18-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/shutterstock_2757636367-560x315.jpg",
+        "published_at": "Tue, 19 May 2026 10:23:55 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/nrs-launches-pipeline-notice-for-50m-civil-engineering-framework-19-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/shutterstock_2725834795-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "How data integration drives construction business growth",
-        "summary": "As construction businesses expand their operations, a lack of integrated data can slow them down.",
+        "title": "STV-Turner JV to manage construction of $10B NYC bus terminal",
+        "summary": "The pair will oversee Phase 1 of the Midtown Bus Terminal Replacement project. Other builders on the job include Tutor Perini, AECOM Tishman and MLJ Contracting.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 18 May 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/how-data-integration-drives-construction-business-growth/820070/",
-        "image_url": "https://imgproxy.divecdn.com/Lb6IZo2K0foWfJAnAX8CeBvHmhYq2RqdGCUWuDKJpGY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25zdHJ1Y3Rpb24taGVhZGVyLWltYWdlLnBuZw==.webp",
+        "published_at": "Tue, 19 May 2026 12:58:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/stv-turner-midtown-bus-terminal-new-york-city/820626/",
+        "image_url": "https://imgproxy.divecdn.com/hhttLTNnoP4lDbVeLR4D1QS8WBWwTRVlWgp5b5vT4Co/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzMyX0M3QWRyVVcucG5n.webp",
         "impact": 3
       },
       {
-        "title": "How construction teams are moving AI from pilot to the field",
-        "summary": "The reason most construction AI pilots stall has little to do with the model itself.",
+        "title": "How construction owners should evaluate executive hires",
+        "summary": "The level of responsibility at the top of the org chart requires a lengthy, thoughtful and even personal evaluation, writes a construction consultant.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 18 May 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/how-construction-teams-are-moving-ai-from-pilot-to-the-field/820245/",
-        "image_url": "https://imgproxy.divecdn.com/cfo4d_ZnmOHw5URitmOB34NzPYFDf9d5EIwCNHl-pw8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMS0xMDE0WDYxNl80Y3FPdzBsLmpwZw==.webp",
+        "published_at": "Tue, 19 May 2026 10:22:21 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-owners-evaluate-executive-hires/820570/",
+        "image_url": "https://imgproxy.divecdn.com/-SQrSc6STjgbINNBC_FTu1aQ04a8eoFNc7EErlwN_cM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA0Mjg4NDc4LmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 19 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.15768",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 19 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.15871",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 19 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.15215",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+        "published_at": "Tue, 19 May 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2605.15218",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
