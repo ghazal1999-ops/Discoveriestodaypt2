@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-22",
-  "last_updated": "2026-05-22 00:01 UTC",
+  "date": "2026-05-23",
+  "last_updated": "2026-05-23 00:05 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "Rediscovering science: New knowledge hidden in old data",
+        "summary": "What if the knowledge that could fuel the next scientific breakthrough has simply been forgotten in an old graph or table? Valuable scientific insights may already exist across decades of published experiments, yet remain buried in old research papers, waiting to be rediscovered.",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Fri, 22 May 2026 14:20:05 EDT",
+        "source_url": "https://phys.org/news/2026-05-rediscovering-science-knowledge-hidden.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rediscovering-science-2.jpg",
+        "impact": 5
+      },
+      {
         "title": "MIT scientists discover amino acid that helps the gut heal itself",
         "summary": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researc",
         "category": "Science",
@@ -46,20 +57,53 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
-        "summary": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing Alzheimer’s risk.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 20 May 2026 09:04:32 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/senior-woman-aging-memory-loss-dementia-brain-puzzle-pieces.webp",
-        "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "First-generation Chromecast users stressed by devices suddenly failing",
+        "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 22 May 2026 21:42:59 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
+        "summary": "Two additional marketing companies will also pay $25,000 each.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 22 May 2026 17:48:03 +0000",
+        "source_url": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1344903607-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "A hacker group is poisoning open source code at an unprecedented scale",
+        "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 22 May 2026 10:30:14 +0000",
+        "source_url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-2560x1440.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+        "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 22 May 2026 00:37:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-interior.jpg?resize=1200,802",
+        "impact": 3
+      },
       {
         "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
         "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
@@ -70,62 +114,18 @@
         "source_url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801",
         "impact": 3
-      },
-      {
-        "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-        "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 21 May 2026 14:27:46 +0000",
-        "source_url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-interior.jpg?resize=1200,802",
-        "impact": 3
-      },
-      {
-        "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-        "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 21 May 2026 14:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
-        "impact": 3
-      },
-      {
-        "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
-        "summary": "Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, here being used to bolster noise reduction capabilities and help ensure the user's voice can be clearly heard during calls, ev",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-21T19:00:00-04:00",
-        "source_url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ankerliberty2.jpg?quality=90&strip=all&crop=0%2C10.745251402131%2C100%2C78.509497195739&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
-        "summary": "Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Liberty 5 Pro Max - use Anker's new Thus chip, which has more processing power than previous Soundcore earbuds to [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-21T19:00:00-04:00",
-        "source_url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Oral drug proves highly effective against chemotherapy-related low platelets in GI cancer trial",
-        "summary": "An oral medication already approved for thrombocytopenia in patients with liver disease significantly improved platelet recovery and helped patients with gastrointestinal cancers maintain platelet counts needed to continue chemotherapy as scheduled, according to results from a Phase II clinical trial led by researchers",
+        "title": "A once-daily pill takes aim at measles, croup and other dangerous viruses",
+        "summary": "A new oral antiviral drug candidate has been developed for the treatment of diseases caused by orthoparamyxoviruses, such as measles and croup syndrome, according to a study published by researchers in the Center for Translational Antiviral Research at Georgia State University. The paper in Science Advances identifies ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 21 May 2026 17:00:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-oral-drug-highly-effective-chemotherapy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/chemotherapy-2.jpg",
+        "published_at": "Fri, 22 May 2026 14:00:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-daily-pill-aim-measles-croup.html",
+        "image_url": "https://picsum.photos/seed/medicinefallback/1200/800",
         "impact": 5
       },
       {
@@ -140,36 +140,36 @@
         "impact": 5
       },
       {
-        "title": "Molecular pathways behind inflammation in alcohol-associated liver disease mapped",
-        "summary": "Cedars-Sinai Health Sciences University investigators have identified molecular mechanisms that drive inflammation in alcohol-associated liver disease. Their preclinical discoveries could one day provide targets for therapies to treat the potentially fatal condition.",
+        "title": "New indicator for response to therapy in pediatric cancers identified",
+        "summary": "A study by researchers at the University of Birmingham has identified a new biomarker for response to a specific cancer therapy, treating children with Ewing Sarcoma and other tumor types. The study, which is a Phase I/II treatment arm within the eSMART Trial, was carried out at the Cancer Research UK Clinical Trials U",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 21 May 2026 19:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-molecular-pathways-inflammation-alcohol-liver.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cedars-sinai-research.jpg",
+        "published_at": "Fri, 22 May 2026 18:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-indicator-response-therapy-pediatric-cancers.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-cancer-1.jpg",
         "impact": 4
       },
       {
-        "title": "Novel combination therapy could reduce leukemia relapse rate, extending window for bone marrow transplants",
-        "summary": "A research team from the Department of Medicine, School of Clinical Medicine, LKS Faculty of Medicine, the University of Hong Kong (HKUMed), has developed a novel combination therapy that significantly improves treatment outcomes and survival in patients with acute myeloid leukemia (AML) with FLT3 gene mutations. The s",
+        "title": "Weight loss drug semaglutide helps patients who do not respond to bariatric surgery, research finds",
+        "summary": "Metabolic/bariatric surgery is a highly effective treatment for people living with severe obesity and/or metabolic health conditions, which works through changing the anatomy of the digestive system and thereby changing the way it functions and the hormones it produces. Procedures include the sleeve gastrectomy and gas",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 21 May 2026 17:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-combination-therapy-leukemia-relapse-window.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-combination-ther-1.jpg",
+        "published_at": "Fri, 22 May 2026 12:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-weight-loss-drug-semaglutide-patients.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/semaglutide.jpg",
         "impact": 4
       },
       {
-        "title": "Implantable tech could cast new light on bladder cancer treatment",
-        "summary": "A new implantable device which aims to maximize the effectiveness of light-sensitive drugs could improve outcomes for bladder cancer patients in the future. Engineers and cancer scientists from the University of Glasgow are behind the development of the device, which uses wirelessly powered micro-LEDs to boost the deli",
+        "title": "Scientists discover the nutrient that can supercharge cellular energy",
+        "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 21 May 2026 14:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-implantable-tech-bladder-cancer-treatment.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/implantable-tech-could-2.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 21 May 2026 01:34:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
         "impact": 4
       }
     ],
@@ -232,58 +232,58 @@
     ],
     "space": [
       {
-        "title": "NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit",
-        "summary": "Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will launch on ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 21 May 2026 21:36:15 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/testing-link-vibration-tests-2-4000x2600-1.jpg",
-        "impact": 5
-      },
-      {
-        "title": "NASA satellite will test orbital 'gas station' tech to help astronauts reach the moon and Mars",
-        "summary": "The Liquid Oxygen Flight demonstration (LOXSAT) will help NASA test and develop technologies to support in-space transfer and storage of cryogenic propellants, critical abilities for the Artemis program to return astronauts to the moon.",
+        "title": "This cryptocurrency billionaire will fly SpaceX's 1st private Starship to Mars, but when?",
+        "summary": "SpaceX says it will launch a private flyby mission to Mars that will be led by cryptocurrency billionaire Chun Wang, but when it will fly is unclear.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Tue, 19 May 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/nasa-satellite-will-test-cryogenic-technologies-for-orbital-gas-stations-to-help-astronauts-reach-the-moon-and-mars",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/KBFywMq3L4hikNBSxc8Ni3-1280-80.jpg",
-        "impact": 5
-      },
-      {
-        "title": "NASA Seeks Interest for Artemis Mission CubeSats",
-        "summary": "Organizations interested in launching CubeSats&#160;on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration. “The SLS (Space Launch System) rocket and the Artemis missions provide great opportunities for teams to conduct important, science and techn",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 21 May 2026 20:11:17 +0000",
-        "source_url": "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/artemisiispls.jpg",
+        "published_at": "Fri, 22 May 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/private-spaceflight/this-cryptocurrency-billionaire-will-fly-spacexs-1st-private-starship-to-mars-but-when",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/RjPYAykC2kS6KnaLFZvZ9d-1280-80.png",
         "impact": 4
       },
       {
-        "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
-        "summary": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. “President Trump’s leadership in establishing the Artemis program reignited Ameri",
+        "title": "Starship V3 from space: Satellite snaps amazing photo of SpaceX megarocket on the pad",
+        "summary": "A sharp-eyed satellite captured an amazing photo of SpaceX's first Starship V3 megarocket on the pad Thursday (May 21), just before it was supposed to lift off.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 21 May 2026 18:06:52 +0000",
-        "source_url": "https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/",
-        "image_url": "https://images-assets.nasa.gov/image/NHQ202604010226/NHQ202604010226~large.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 22 May 2026 18:30:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/starship-v3-from-space-satellite-snaps-amazing-photo-of-spacex-megarocket-on-the-pad",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/hC8xiqNQXoXiC4qw8tqpnn-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "NASA Joins Artemis Accords Workshop as Global Signings Rise",
-        "summary": "The United States participated in an Artemis Accords workshop in Lima, Peru, last week, following a new wave of nations committing to safe and responsible exploration of the Moon, Mars, and beyond. Leading up to the event, six countries, including Latvia, Jordan, Morocco, Malta, Ireland, and Paraguay, joined the growin",
+        "title": "SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj",
+        "summary": "SpaceX's new \"V3\" Starship megarocket was supposed to fly for the first time ever on Thursday (May 21), but technical issues nixed that plan.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 21 May 2026 21:03:31 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/workshop-peruvian-space-agency-jpg.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 22 May 2026 00:47:01 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PzGGCs2bLavhjcaSM4sWAE-1280-80.png",
+        "impact": 4
+      },
+      {
+        "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
+        "summary": "Rocket Lab launched an Earth-observing radar satellite for the Japanese company Synspective early Friday morning (May 22).",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 21 May 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/snHbj7XVN7ZjKB2pLXLjJM-1280-80.png",
+        "impact": 4
+      },
+      {
+        "title": "'Stop lying!' Conspiracy theorist confronts Artemis 2 astronauts, accuses them of faking their moon mission",
+        "summary": "A conspiracy theorist confronted the Artemis 2 astronauts on Capitol Hill recently, accusing them of faking their moon mission. They showed more restraint than Buzz Aldrin did in a similar situation.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 21 May 2026 17:07:57 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/stop-lying-conspiracy-theorist-confronts-artemis-2-astronauts-accuses-them-of-faking-their-moon-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/jmr4zTm3P5Pf6V8UsV69NU-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -300,14 +300,14 @@
         "impact": 4
       },
       {
-        "title": "Galactic starlight will take your breath away | Space photo of the day for May 19, 2026",
-        "summary": "The galaxy M77 looks truly out-of-this-world in a new image by the James Webb Space Telescope.",
+        "title": "This Week's Sky at a Glance, May 22 – 31",
+        "summary": "Venus and Jupiter — the Evening Star and the False Evening Star — draw closer together in the western twilight and point down to Mercury. The waxing Moon shows off its rich telescopic detail. The post This Week&#039;s Sky at a Glance, May 22 – 31 appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 19 May 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/galactic-starlight-will-take-your-breath-away-space-photo-of-the-day-for-may-19-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/BvjKspAZe7ExpL7phKK88F-1280-80.jpg",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Fri, 22 May 2026 09:11:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-22-31/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Moon_first-quarter_10-pm-EDT-May-23-2026_NASA-Visualization_FEATURED.jpg",
         "impact": 4
       },
       {
@@ -322,50 +322,50 @@
         "impact": 4
       },
       {
-        "title": "A Black Hole’s Puzzling X-Ray Bursts",
-        "summary": "In 2019, a supermassive black hole in a galaxy 300 million light-years away woke up. Now, it’s puzzling astronomers with an unexpected slowdown in its X-ray bursts. The post A Black Hole’s Puzzling X-Ray Bursts appeared first on Sky &amp; Telescope.",
+        "title": "A Beautiful Death: How a Dying Star Created the Crystal Ball Nebula",
+        "summary": "Planetary nebula are created when a dying star sheds it outer layers. The gas is lit up by the star and all the gorgeous, changing detail is exposed. NGC 1514, the Crystal Ball Nebula, is about 1500 light years away and contains a binary pair in its center. The orbits and winds from the stars create the Crystal Ball's ",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Mon, 11 May 2026 13:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/a-black-holes-puzzling-x-ray-bursts/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Giant_black_hole_awakens_with_repetitive_X-ray_bursts.jpeg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 22 May 2026 19:06:26 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-beautiful-death-how-a-dying-star-created-the-crystal-ball-nebula",
+        "image_url": "https://www.universetoday.com/article_images/noirlab2613a_20260522_175732.jpg",
         "impact": 4
       },
       {
-        "title": "This Week's Sky at a Glance, May 8 – 17",
-        "summary": "Jupiter, shining high the western dusk, inches down day toward brighter Venus. Venus, meanwhile, creeps toward the horntip stars of Taurus and stands between them on May 13th. The post This Week&#039;s Sky at a Glance, May 8 – 17 appeared first on Sky &amp; Telescope.",
+        "title": "Supermassive Black Holes Can Render Exoplanets Uninhabitable at Great Distances",
+        "summary": "Life on Earth relies on energy from astrophysical sources. But what if the astrophysical source isn't a star, but a supermassive black hole and its active galactic nuclei? Life needs shelter from their powerful energy, and the only shelter is distance. New research shows that SMBH and their AGN could strip away exoplan",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Fri, 08 May 2026 09:13:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May08_ev_DARKblu_FEATURED.jpg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 22 May 2026 15:19:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/supermassive-black-holes-can-render-exoplanets-uninhabitable-at-great-distances",
+        "image_url": "https://www.universetoday.com/article_images/An-artists-illustration-of-our-concept-of-an-AGN-A-spinning-SMBH-is-situated-in-the_20260522_173749.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Inhabited Landscapes: 22 Cultural and Community Centers in Rural Areas",
-        "summary": "The architecture of cultural and community centers in rural areas around the world has become a rich field for experimentation, where tradition and innovation intersect. Rather than replicating standardized urban models, these projects embrace contemporary approaches tailored to local realities, blending bold design, s",
+        "title": "How the Christo and Jeanne-Claude Center is Breathing New Life into Gabrovo’s Cultural Identity",
+        "summary": "Large factories are being transformed into museums, former administrative buildings are becoming co-working spaces, and even churches are being converted into homes. In this century, the rise of adaptive reuse in cities reflects a growing interest in preserving the memory and identity of historic structures. At the sam",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 21 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1029733/inhabited-landscapes-20-cultural-and-community-centers-in-rural-areas",
-        "image_url": "https://images.adsttc.com/media/images/6813/e938/4ea2/d901/8b37/1679/large_jpg/paisagens-habitadas-21-centros-culturais-e-comunitarios-em-areas-rurais_4.jpg?1746135365",
-        "impact": 5
+        "published_at": "Fri, 22 May 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1041561/how-the-christo-and-jeanne-claude-center-is-breathing-new-life-into-gabrovos-cultural-identity",
+        "image_url": "https://images.adsttc.com/media/images/6a05/b2c1/4a40/2e01/7ff6/6932/large_jpg/how-the-christo-and-jeanne-claude-center-is-breathing-new-life-into-gabrovos-cultural-identity_4.jpg?1778758370",
+        "impact": 4
       },
       {
-        "title": "The Technical Reality of Mass Timber Housing: Five European Case Studies",
-        "summary": "Recent years have seen a shifting paradigm in multi-family residential architecture, as more and more new projects are being built with engineered wood, specifically Cross-Laminated Timber (CLT) and glued-laminated timber (glulam). Because timber is lightweight, these systems can reduce dead load and ease foundation de",
+        "title": "O4 House / studiokian",
+        "summary": "In dense suburban environments, the need for privacy often comes into conflict with the desire for openness and natural light. Located in Alam Sutera, Tangerang, this house explores how spatial sequencing can create a sense of retreat without completely isolating itself from its surroundings. The house is conceived thr",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 20 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041598/the-technical-reality-of-mass-timber-housing-five-european-case-studies",
-        "image_url": "https://images.adsttc.com/media/images/6a0a/5865/093e/9201/8986/439b/large_jpg/mass-timber-apartments-five-case-studies-in-the-technical-reality-of-multi-story-wood-construction_3.jpg?1779062898",
-        "impact": 5
+        "published_at": "Fri, 22 May 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041713/o4-house",
+        "image_url": "https://images.adsttc.com/media/images/6a0e/27c2/35eb/2400/01f0/4066/large_jpg/7._O4_House.jpg?1779312682",
+        "impact": 4
       },
       {
         "title": "Westlake Dermatology Georgetown / Matt Fajkus Architecture",
@@ -379,29 +379,40 @@
         "impact": 4
       },
       {
-        "title": "Venice Biennale 2027's \"Do Architecture\" and an Earth-Built Cinema in Ghana: This Week’s Review",
-        "summary": "This week's stories reveal a growing focus on reconnecting design with physical reality, whether through construction, landscape, public space, or collective participation. From the curatorial direction of the upcoming Venice Architecture Biennale 2027 to internationally recognized projects addressing flood resilience,",
+        "title": "Translucent Centre Pompidou Hanwha set to open in Seoul",
+        "summary": "The Centre Pompidou Hanwha designed by French architecture studio Wilmotte &#38; Associés has been revealed ahead of its opening in Seoul, South Korea, next month. Set to open in Seoul's financial district on 4 June, the four-storey building contains two large galleries alongside a cafe, shop, restaurant and auditorium",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 21 May 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041723/venice-biennale-2027-s-do-architecture-and-an-earth-built-cinema-in-ghana-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6a0e/c1f9/093e/9201/8986/550e/large_jpg/venice-biennale-2027-s-do-architecture-and-an-earth-built-cinema-in-ghana-this-weeks-review_4.jpg?1779352066",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Thu, 21 May 2026 10:00:15 +0000",
+        "source_url": "https://www.dezeen.com/2026/05/21/centre-pompidou-hanwha-seoul-wilmotte-associes/",
+        "image_url": "https://static.dezeen.com/uploads/2026/05/centre-pompidou-hanwha-seoul-wilmotte-associes-sq_dezeen_2364_col_0.jpg",
         "impact": 4
       },
       {
-        "title": "KAAP - Residential District and Circular Pavilion / Powerhouse Company + Orange Architects + NEXT architects",
-        "summary": "Where Grasweg meets the Amsterdam-Noord waterfront, KAAP occupies a prominent position on the IJ. Once an industrial harbor area, this part of the city is being reworked into a new district as part of Cityplot Buiksloterham, the urban plan by Studioninedots and DELVA Landscape Architects &amp; Urbanism. Commissioned by",
+        "title": "Kengo Kuma & Associates designs its first museum building in the US for Pennsylvania",
+        "summary": "Architecture studio Kengo Kuma &#38; Associates and landscape design office Field Operations have released designs for a vernacular expansion to the Brandywine Conservancy &#38; Museum of Art outside of Philadelphia, USA. The project, designed in association with Schwartz/Silver Architects Inc, will consist of adding a",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 21 May 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041661/kaap-powerhouse-company-plus-orange-architects",
-        "image_url": "https://images.adsttc.com/media/images/6a0c/6dd9/fd52/9201/89f2/0eba/large_jpg/kaap-powerhouse-company-plus-orange-architects-plus-next-architects_5.jpg?1779199467",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 20 May 2026 18:59:45 +0000",
+        "source_url": "https://www.dezeen.com/2026/05/20/kengo-kuma-associates-pennsylvania-brandywine-conservancy-museum-of-art/",
+        "image_url": "https://static.dezeen.com/uploads/2026/05/brandywine-conservancy-museum-of-art-pennsylvania-kengo-kuma_dezeen_2364_hero.jpg",
         "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "The top commercial contractors of 2026: ENR",
+        "summary": "Turner Construction remained No. 1 for another year, while Mortenson leapt 12 spots to crack the top 10 on Engineering News-Record&rsquo;s Top 400 list.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 22 May 2026 11:30:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/top-commercial-contractors-revenue-2026-enr/820930/",
+        "image_url": "https://imgproxy.divecdn.com/cIbJxbAJaZM_NIm1h758hO993naQZMEpuFfUWolr0GM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMTIwMjUtVGl0YW5zLXByLmpwZw==.webp",
+        "impact": 4
+      },
       {
         "title": "Maryland unveils 4 Key Bridge contracts totaling over $4B",
         "summary": "On Tuesday, the Maryland Transportation Authority outlined the four separate procurements for various aspects of the Baltimore bridge&rsquo;s reconstruction.",
@@ -436,25 +447,14 @@
         "impact": 4
       },
       {
-        "title": "Bechtel, HITT among largest family-owned businesses in US: Forbes",
-        "summary": "Construction, cement and material supply firms landed on the inaugural list from Forbes.",
+        "title": "Construction starts jumped in April as more project types broke ground",
+        "summary": "Unlike recent months, groundbreakings stretched beyond a handful of data center and energy megaprojects, according to Dodge Construction Network.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 21 May 2026 10:17:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/bechtel-hitt-family-owned-large-construction-firms/820693/",
-        "image_url": "https://imgproxy.divecdn.com/IIiJrhex9S70fbM-d6kDsBxZIfmdetErMb3_oDB_TxE/g:nowe:0:0/c:1879:1061/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZWNodGVsX09mZmljZV9SZXN0b24uanBn.webp",
-        "impact": 3
-      },
-      {
-        "title": "Burns & McDonnell taps tradesworkers for preconstruction, AI vetting",
-        "summary": "Brett Poulos, national director of preconstruction and estimating at the firm said jobsite pros know when to push back on AI-generated suggestions.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 20 May 2026 13:08:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/burns-mcdonnell-tradesworkers-preconstruction-ai/820742/",
-        "image_url": "https://imgproxy.divecdn.com/26cRAKGoa_MtOiVEAJ3zDGlZYHpCzHQugXNFeeK_P_8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMxODc0ODUxX0t1c2NVN1YuanBn.webp",
+        "published_at": "Fri, 22 May 2026 10:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-starts-jumped-april-more-project-types-broke-ground/820960/",
+        "image_url": "https://imgproxy.divecdn.com/kqvxtTwFF8vnLy_asx1nIAXIZliSsx-98DUSg_n41dA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNjUxNzc2LmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -471,46 +471,46 @@
         "impact": 5
       },
       {
-        "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
-        "summary": "arXiv:2605.19035v1 Announce Type: new Abstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Agent-to-Agent (A2A) ne",
+        "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+        "summary": "arXiv:2605.20189v1 Announce Type: new Abstract: Despite the remarkable success of large language models (LLMs), they still face bottlenecks while deploying in dynamic, real-world settings with primary challenges being concept drift and the high cost of gradient-based adaptation. Traditional fine-tuning (FT) struggles t",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 21 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.19035",
+        "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.20189",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents",
-        "summary": "arXiv:2605.19127v1 Announce Type: new Abstract: LLM agents increasingly have access to private user data and act on the user's behalf when interacting with third-party systems. The user defines what may and must not be shared, and the agent must robustly follow that intent even when third-party systems behave adversari",
+        "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+        "summary": "arXiv:2605.20190v1 Announce Type: new Abstract: Iterative industrial design-simulation optimization is bottlenecked by the CAD-CAE semantic gap: translating simulation feedback into valid geometric edits under diverse, coupled constraints. To fill this gap, we propose COSMO-Agent (Closed-loop Optimization, Simulation, ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 21 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.19127",
+        "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.20190",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
-        "summary": "arXiv:2605.19140v1 Announce Type: new Abstract: We study workflow learning in a setting where specialized agents hand off control through a shared artifact, each agent observes only a local function of that artifact and its own private state, and no centralized learner accesses joint trajectories -- the operating regim",
+        "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
+        "summary": "arXiv:2605.20423v1 Announce Type: new Abstract: Large Language Models (LLMs) perform well on many language tasks, but their Theory of Mind (ToM) reasoning is still uneven in complex social settings. Existing benchmarks, including ExploreToM, do not always test the recursive beliefs and information asymmetries that make",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 21 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.19140",
+        "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.20423",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Hallucination as Exploit: Evidence-Carrying Multimodal Agents",
-        "summary": "arXiv:2605.19192v1 Announce Type: new Abstract: Multimodal agents use screenshots, documents, and webpages to choose tool calls. When a false visual claim triggers a click, email, extraction, or transfer, hallucination becomes an authorization failure rather than an answer-quality error. We formalize this failure mode ",
+        "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+        "summary": "arXiv:2605.20530v1 Announce Type: new Abstract: Large language model agents now act on codebases, browsers, operating systems, calendars, files, and tool ecosystems, but the benchmarks used to evaluate them are fragmented: each emphasizes a different unit of measurement (final task success, tool-call validity, repeated",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 21 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.19192",
+        "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.20530",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
