@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "last_updated": "2026-05-23 00:05 UTC",
+  "last_updated": "2026-05-23 23:56 UTC",
   "categories": {
     "science": [
       {
@@ -26,17 +26,6 @@
         "impact": 5
       },
       {
-        "title": "Rediscovering science: New knowledge hidden in old data",
-        "summary": "What if the knowledge that could fuel the next scientific breakthrough has simply been forgotten in an old graph or table? Valuable scientific insights may already exist across decades of published experiments, yet remain buried in old research papers, waiting to be rediscovered.",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Fri, 22 May 2026 14:20:05 EDT",
-        "source_url": "https://phys.org/news/2026-05-rediscovering-science-knowledge-hidden.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rediscovering-science-2.jpg",
-        "impact": 5
-      },
-      {
         "title": "MIT scientists discover amino acid that helps the gut heal itself",
         "summary": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researc",
         "category": "Science",
@@ -56,6 +45,17 @@
         "published_at": "Wed, 20 May 2026 08:54:32 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
+        "summary": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing Alzheimer’s risk.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 20 May 2026 09:04:32 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/senior-woman-aging-memory-loss-dementia-brain-puzzle-pieces.webp",
         "impact": 5
       }
     ],
@@ -83,36 +83,36 @@
         "impact": 3
       },
       {
-        "title": "A hacker group is poisoning open source code at an unprecedented scale",
-        "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 22 May 2026 10:30:14 +0000",
-        "source_url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-2560x1440.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
-        "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+        "title": "These special phone and app features can help protect you from spyware",
+        "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Fri, 22 May 2026 00:37:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-interior.jpg?resize=1200,802",
+        "published_at": "Sat, 23 May 2026 16:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/dark-phone-person-spyware.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
-        "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
+        "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
+        "summary": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They were used on countless records [&#8230;]",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 21 May 2026 21:13:23 +0000",
-        "source_url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-05-23T11:00:00-04:00",
+        "source_url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Roger-Linn-headshot.jpg?quality=90&strip=all&crop=0%2C27.725467242494%2C100%2C34.909858572115&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Here are 38 Memorial Day deals we recommend for $50 or less",
+        "summary": "Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much. In fact, some of the best discounts we’re seeing are on gadgets that retail for $50 or less, from portable chargers and 4K streaming devices to [&#8230;]",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-05-23T10:00:00-04:00",
+        "source_url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Amazon_Fire_TV_Stick_4K_Max_2023_Press_Lifestyle_Image.webp?quality=90&strip=all&crop=0,10.386364986828,100,79.227270026343",
         "impact": 3
       }
     ],
@@ -232,6 +232,39 @@
     ],
     "space": [
       {
+        "title": "NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit",
+        "summary": "Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will launch on ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 21 May 2026 21:36:15 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/testing-link-vibration-tests-2-4000x2600-1.jpg",
+        "impact": 5
+      },
+      {
+        "title": "SpaceX Starship Flight 12: Don't miss these stunning photos from the launch of the most powerful Starship yet",
+        "summary": "Starship V3 led to some stunning launch photography after it lifted off from Starbase on SpaceX's 12th flight of the rocket that aims to land astronauts on the moon.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 23 May 2026 13:52:26 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-12-dont-miss-these-stunning-photos-from-the-launch-of-the-most-powerful-starship-yet",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/rJfDYZCkZHCgsNTJQ3cjs5-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Watch China launch Shenzhou 23 astronauts to its Tiangong space station on May 24",
+        "summary": "China's Shenzhou 23 mission to Tiangong will relieve an overdue crew and could see the beginning of the country's first year-long stay in orbit. Watch it live on Sunday (May 24).",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 23 May 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/HkVxm2cKCwLVkrHkRJM8JA-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "This cryptocurrency billionaire will fly SpaceX's 1st private Starship to Mars, but when?",
         "summary": "SpaceX says it will launch a private flyby mission to Mars that will be led by cryptocurrency billionaire Chun Wang, but when it will fly is unclear.",
         "category": "Space",
@@ -243,47 +276,14 @@
         "impact": 4
       },
       {
-        "title": "Starship V3 from space: Satellite snaps amazing photo of SpaceX megarocket on the pad",
-        "summary": "A sharp-eyed satellite captured an amazing photo of SpaceX's first Starship V3 megarocket on the pad Thursday (May 21), just before it was supposed to lift off.",
+        "title": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
+        "summary": "As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more. NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwr",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 22 May 2026 18:30:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/starship-v3-from-space-satellite-snaps-amazing-photo-of-spacex-megarocket-on-the-pad",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/hC8xiqNQXoXiC4qw8tqpnn-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj",
-        "summary": "SpaceX's new \"V3\" Starship megarocket was supposed to fly for the first time ever on Thursday (May 21), but technical issues nixed that plan.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 22 May 2026 00:47:01 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/PzGGCs2bLavhjcaSM4sWAE-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
-        "summary": "Rocket Lab launched an Earth-observing radar satellite for the Japanese company Synspective early Friday morning (May 22).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 21 May 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/snHbj7XVN7ZjKB2pLXLjJM-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "'Stop lying!' Conspiracy theorist confronts Artemis 2 astronauts, accuses them of faking their moon mission",
-        "summary": "A conspiracy theorist confronted the Artemis 2 astronauts on Capitol Hill recently, accusing them of faking their moon mission. They showed more restraint than Buzz Aldrin did in a similar situation.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 21 May 2026 17:07:57 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/stop-lying-conspiracy-theorist-confronts-artemis-2-astronauts-accuses-them-of-faking-their-moon-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/jmr4zTm3P5Pf6V8UsV69NU-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 22 May 2026 22:12:40 +0000",
+        "source_url": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "Is Dust the Best Thing in the Universe? Part 4: We Owe Dust Our Lives",
+        "summary": "No dust, no way to cool a collapsing gas cloud. No way to cool it, no stars. No dust, no first rung on the ladder from grain to pebble to planet. The substance I spent two articles complaining about turns out to be the substance that makes me possible.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 22 May 2026 23:16:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/is-dust-the-best-thing-in-the-universe-part-4-we-owe-dust-our-lives",
+        "image_url": "https://www.universetoday.com/article_images/hl_tau_20260515_110517.jpg",
+        "impact": 4
+      },
+      {
         "title": "A Beautiful Death: How a Dying Star Created the Crystal Ball Nebula",
         "summary": "Planetary nebula are created when a dying star sheds it outer layers. The gas is lit up by the star and all the gorgeous, changing detail is exposed. NGC 1514, the Crystal Ball Nebula, is about 1500 light years away and contains a binary pair in its center. The orbits and winds from the stars create the Crystal Ball's ",
         "category": "Astronomy",
@@ -330,17 +341,6 @@
         "published_at": "Fri, 22 May 2026 19:06:26 +0000",
         "source_url": "https://www.universetoday.com/articles/a-beautiful-death-how-a-dying-star-created-the-crystal-ball-nebula",
         "image_url": "https://www.universetoday.com/article_images/noirlab2613a_20260522_175732.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Supermassive Black Holes Can Render Exoplanets Uninhabitable at Great Distances",
-        "summary": "Life on Earth relies on energy from astrophysical sources. But what if the astrophysical source isn't a star, but a supermassive black hole and its active galactic nuclei? Life needs shelter from their powerful energy, and the only shelter is distance. New research shows that SMBH and their AGN could strip away exoplan",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 22 May 2026 15:19:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/supermassive-black-holes-can-render-exoplanets-uninhabitable-at-great-distances",
-        "image_url": "https://www.universetoday.com/article_images/An-artists-illustration-of-our-concept-of-an-AGN-A-spinning-SMBH-is-situated-in-the_20260522_173749.jpg",
         "impact": 4
       }
     ],
@@ -354,28 +354,6 @@
         "published_at": "Fri, 22 May 2026 06:45:00 +0000",
         "source_url": "https://www.archdaily.com/1041561/how-the-christo-and-jeanne-claude-center-is-breathing-new-life-into-gabrovos-cultural-identity",
         "image_url": "https://images.adsttc.com/media/images/6a05/b2c1/4a40/2e01/7ff6/6932/large_jpg/how-the-christo-and-jeanne-claude-center-is-breathing-new-life-into-gabrovos-cultural-identity_4.jpg?1778758370",
-        "impact": 4
-      },
-      {
-        "title": "O4 House / studiokian",
-        "summary": "In dense suburban environments, the need for privacy often comes into conflict with the desire for openness and natural light. Located in Alam Sutera, Tangerang, this house explores how spatial sequencing can create a sense of retreat without completely isolating itself from its surroundings. The house is conceived thr",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 22 May 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041713/o4-house",
-        "image_url": "https://images.adsttc.com/media/images/6a0e/27c2/35eb/2400/01f0/4066/large_jpg/7._O4_House.jpg?1779312682",
-        "impact": 4
-      },
-      {
-        "title": "Westlake Dermatology Georgetown / Matt Fajkus Architecture",
-        "summary": "This medical office building was designed to be an embodiment of the Westlake Dermatology brand, \"the gold standard for cosmetic dermatology\". With its prominent location on Williams Drive, the building's crisp modern form and clean, well detailed materials serves as a billboard for the WD brand aesthetic and quality.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 21 May 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041581/westlake-dermatology-georgetown-matt-fajkus-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6a07/0f5d/35eb/2400/01f0/3c6e/large_jpg/Westlake_Dermatology_Georgetown_Matt_Fajkus_Architecture_photo_Leonid_Furmansky1c.jpg?1778847618",
         "impact": 4
       },
       {
@@ -398,6 +376,28 @@
         "published_at": "Wed, 20 May 2026 18:59:45 +0000",
         "source_url": "https://www.dezeen.com/2026/05/20/kengo-kuma-associates-pennsylvania-brandywine-conservancy-museum-of-art/",
         "image_url": "https://static.dezeen.com/uploads/2026/05/brandywine-conservancy-museum-of-art-pennsylvania-kengo-kuma_dezeen_2364_hero.jpg",
+        "impact": 4
+      },
+      {
+        "title": "First images of Gensler-designed 60-building data centre development in Utah revealed",
+        "summary": "Infrastructure firm O'Leary Digital has exclusively revealed the first images of the Stratos Hyperscale Data Center in Box Elder County, Utah, which is being designed by architecture studio Gensler as one of the largest data centres in the world. The 7.5-gigawatt Stratos Hyperscale Data Center is part of the Wonder Val",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 15 May 2026 16:35:36 +0000",
+        "source_url": "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/",
+        "image_url": "https://static.dezeen.com/uploads/2026/05/gensler-stratos-data-center-utah_dezeen_2364_sq.jpg",
+        "impact": 4
+      },
+      {
+        "title": "building with air: soft architectures and atmospheric worlds from warhol to A.A. murakami",
+        "summary": "artists and architects transform air into a medium of instability, participation, and collective care through inflatables, fog structures, and suspended worlds. The post building with air: soft architectures and atmospheric worlds from warhol to A.A. murakami appeared first on designboom | architecture &amp; design mag",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Wed, 20 May 2026 10:50:04 +0000",
+        "source_url": "https://www.designboom.com/architecture/air-soft-architectures-atmospheric-worlds-warhol-aa-murakami/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/air-warhol-inflatables-aa-murakamis-bubble-dress-designboom-1200-1.jpg",
         "impact": 4
       }
     ],
@@ -460,6 +460,17 @@
     ],
     "ai": [
       {
+        "title": "Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents",
+        "summary": "arXiv:2605.21810v1 Announce Type: new Abstract: Complex Verilog Design Problems (CVDP) challenge hardware LLM agents because solving them requires localizing verifier-relevant RTL, testbenches, include paths, and build dependencies inside large repository snapshots, making precise edits, and recovering from sparse hidd",
+        "category": "AI",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Sat, 23 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.21810",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
+      },
+      {
         "title": "What Parameter Golf taught us about AI-assisted research",
         "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
         "category": "AI",
@@ -471,46 +482,35 @@
         "impact": 5
       },
       {
-        "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
-        "summary": "arXiv:2605.20189v1 Announce Type: new Abstract: Despite the remarkable success of large language models (LLMs), they still face bottlenecks while deploying in dynamic, real-world settings with primary challenges being concept drift and the high cost of gradient-based adaptation. Traditional fine-tuning (FT) struggles t",
+        "title": "Implicit Safety Alignment from Crowd Preferences",
+        "summary": "arXiv:2605.21822v1 Announce Type: new Abstract: Reinforcement Learning from Human Feedback (RLHF) can reveal implicit objectives such as safety considerations that go beyond task completion. In this work, we focus on the common safety criteria embedded in crowd preference datasets, where different users may express dis",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 22 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.20189",
+        "published_at": "Sat, 23 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.21822",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
-        "summary": "arXiv:2605.20190v1 Announce Type: new Abstract: Iterative industrial design-simulation optimization is bottlenecked by the CAD-CAE semantic gap: translating simulation feedback into valid geometric edits under diverse, coupled constraints. To fill this gap, we propose COSMO-Agent (Closed-loop Optimization, Simulation, ",
+        "title": "Planning in the LLM Era: Building for Reliability and Efficiency",
+        "summary": "arXiv:2605.21902v1 Announce Type: new Abstract: Growing attention to intelligent agents has put a spotlight on one of their central capabilities: planning. Early attempts to leverage large language models (LLMs) for planning relied on single-shot plan generation, followed by hybrid approaches that coupled LLMs with lim",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 22 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.20190",
+        "published_at": "Sat, 23 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.21902",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
-        "summary": "arXiv:2605.20423v1 Announce Type: new Abstract: Large Language Models (LLMs) perform well on many language tasks, but their Theory of Mind (ToM) reasoning is still uneven in complex social settings. Existing benchmarks, including ExploreToM, do not always test the recursive beliefs and information asymmetries that make",
+        "title": "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems",
+        "summary": "arXiv:2605.21962v1 Announce Type: new Abstract: Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bottlenecks, limited learner modeling, and difficulty implementing meaning",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 22 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.20423",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
-        "summary": "arXiv:2605.20530v1 Announce Type: new Abstract: Large language model agents now act on codebases, browsers, operating systems, calendars, files, and tool ecosystems, but the benchmarks used to evaluate them are fragmented: each emphasizes a different unit of measurement (final task success, tool-call validity, repeated",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 22 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.20530",
+        "published_at": "Sat, 23 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.21962",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
