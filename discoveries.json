@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-23",
-  "last_updated": "2026-05-23 23:56 UTC",
+  "date": "2026-05-24",
+  "last_updated": "2026-05-24 23:58 UTC",
   "categories": {
     "science": [
       {
@@ -83,6 +83,28 @@
         "impact": 3
       },
       {
+        "title": "6 kitchen gadgets that make adulting feel easier",
+        "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 24 May 2026 17:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2015/04/lego-chef.jpg?resize=1200,686",
+        "impact": 3
+      },
+      {
+        "title": "TechCrunch Mobility: Robotaxi reality check",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 24 May 2026 16:05:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-back-getty.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
         "title": "These special phone and app features can help protect you from spyware",
         "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
         "category": "Tech",
@@ -91,28 +113,6 @@
         "published_at": "Sat, 23 May 2026 16:00:00 +0000",
         "source_url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/dark-phone-person-spyware.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
-        "summary": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They were used on countless records [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-23T11:00:00-04:00",
-        "source_url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Roger-Linn-headshot.jpg?quality=90&strip=all&crop=0%2C27.725467242494%2C100%2C34.909858572115&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Here are 38 Memorial Day deals we recommend for $50 or less",
-        "summary": "Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much. In fact, some of the best discounts we’re seeing are on gadgets that retail for $50 or less, from portable chargers and 4K streaming devices to [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-23T10:00:00-04:00",
-        "source_url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Amazon_Fire_TV_Stick_4K_Max_2023_Press_Lifestyle_Image.webp?quality=90&strip=all&crop=0,10.386364986828,100,79.227270026343",
         "impact": 3
       }
     ],
@@ -151,17 +151,6 @@
         "impact": 4
       },
       {
-        "title": "Weight loss drug semaglutide helps patients who do not respond to bariatric surgery, research finds",
-        "summary": "Metabolic/bariatric surgery is a highly effective treatment for people living with severe obesity and/or metabolic health conditions, which works through changing the anatomy of the digestive system and thereby changing the way it functions and the hormones it produces. Procedures include the sleeve gastrectomy and gas",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 22 May 2026 12:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-weight-loss-drug-semaglutide-patients.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/semaglutide.jpg",
-        "impact": 4
-      },
-      {
         "title": "Scientists discover the nutrient that can supercharge cellular energy",
         "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
         "category": "Medicine",
@@ -170,6 +159,17 @@
         "published_at": "Thu, 21 May 2026 01:34:34 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
+        "impact": 4
+      },
+      {
+        "title": "Breakthrough drug reverses aging in skin and dramatically speeds healing",
+        "summary": "Scientists have discovered that a topical anti-aging drug called ABT-263 can dramatically improve wound healing in older skin. The treatment works by removing damaged “senescent” cells that accumulate with age and slow the body’s repair process. In aged mice, wounds healed much faster after treatment, while the drug al",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 19 May 2026 21:13:26 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260519003215.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/applying-cream-or-ointment.webp",
         "impact": 4
       }
     ],
@@ -254,17 +254,6 @@
         "impact": 4
       },
       {
-        "title": "Watch China launch Shenzhou 23 astronauts to its Tiangong space station on May 24",
-        "summary": "China's Shenzhou 23 mission to Tiangong will relieve an overdue crew and could see the beginning of the country's first year-long stay in orbit. Watch it live on Sunday (May 24).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 23 May 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/HkVxm2cKCwLVkrHkRJM8JA-1280-80.jpg",
-        "impact": 4
-      },
-      {
         "title": "This cryptocurrency billionaire will fly SpaceX's 1st private Starship to Mars, but when?",
         "summary": "SpaceX says it will launch a private flyby mission to Mars that will be led by cryptocurrency billionaire Chun Wang, but when it will fly is unclear.",
         "category": "Space",
@@ -283,6 +272,17 @@
         "journal": "nasa.gov",
         "published_at": "Fri, 22 May 2026 22:12:40 +0000",
         "source_url": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+        "impact": 4
+      },
+      {
+        "title": "NASA Announces Realignment to Accelerate Mission Delivery",
+        "summary": "Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. D",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 22 May 2026 14:01:35 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
         "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
         "impact": 4
       }
@@ -346,14 +346,14 @@
     ],
     "architecture": [
       {
-        "title": "How the Christo and Jeanne-Claude Center is Breathing New Life into Gabrovo’s Cultural Identity",
-        "summary": "Large factories are being transformed into museums, former administrative buildings are becoming co-working spaces, and even churches are being converted into homes. In this century, the rise of adaptive reuse in cities reflects a growing interest in preserving the memory and identity of historic structures. At the sam",
+        "title": "Qinghe INNNG International Talent Community / Zhu Xiaodi Architects + BIAD",
+        "summary": "On the urban landscape, architecture is never an isolated entity, but rather a spatial vehicle that engages in a profound dialogue with its site, its people, and the spirit of the city. It has long transcended its physical functions to become a vessel containing the city's soul. Located in Qinghe Town, Haidian District",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 22 May 2026 06:45:00 +0000",
-        "source_url": "https://www.archdaily.com/1041561/how-the-christo-and-jeanne-claude-center-is-breathing-new-life-into-gabrovos-cultural-identity",
-        "image_url": "https://images.adsttc.com/media/images/6a05/b2c1/4a40/2e01/7ff6/6932/large_jpg/how-the-christo-and-jeanne-claude-center-is-breathing-new-life-into-gabrovos-cultural-identity_4.jpg?1778758370",
+        "published_at": "Sun, 24 May 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1036817/qinghe-innng-international-talent-community-zxd-architects-plus-biad",
+        "image_url": "https://images.adsttc.com/media/images/6939/a208/d7d6/cc49/d4e3/091f/large_jpg/qinghe-innng-international-talent-community-zxd-architects-plus-biad_22.jpg?1765384743",
         "impact": 4
       },
       {
@@ -379,25 +379,25 @@
         "impact": 4
       },
       {
-        "title": "First images of Gensler-designed 60-building data centre development in Utah revealed",
-        "summary": "Infrastructure firm O'Leary Digital has exclusively revealed the first images of the Stratos Hyperscale Data Center in Box Elder County, Utah, which is being designed by architecture studio Gensler as one of the largest data centres in the world. The 7.5-gigawatt Stratos Hyperscale Data Center is part of the Wonder Val",
+        "title": "Human Haus TN / Minuspluse Design",
+        "summary": "Human Haus TN transforms a traditional townhouse in Tainan into a contemporary retail space driven by architectural sequence. Responding to the existing structure through minimal intervention, the design preserves exposed brick walls, timber roof framing, and the original proportions of the townhouse while inserting a ",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 15 May 2026 16:35:36 +0000",
-        "source_url": "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/",
-        "image_url": "https://static.dezeen.com/uploads/2026/05/gensler-stratos-data-center-utah_dezeen_2364_sq.jpg",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 23 May 2026 17:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041763/human-haus-tn-minuspluse-design",
+        "image_url": "https://images.adsttc.com/media/images/6a10/2bab/35eb/2400/01f0/42dc/large_jpg/2-HUMAN_HAUS__-s-10.jpg?1779444685",
         "impact": 4
       },
       {
-        "title": "building with air: soft architectures and atmospheric worlds from warhol to A.A. murakami",
-        "summary": "artists and architects transform air into a medium of instability, participation, and collective care through inflatables, fog structures, and suspended worlds. The post building with air: soft architectures and atmospheric worlds from warhol to A.A. murakami appeared first on designboom | architecture &amp; design mag",
+        "title": "Case Study Houses and the Myth of a Universal Domestic Ideal",
+        "summary": "Sitting on low benches, casually talking, dressed in comfortable clothes, and surrounded by books, design objects, and works of art, Charles and Ray Eames appear in one of the most emblematic images of postwar modern domesticity in the United States. The house does not appear as an explicit architectural manifesto, but",
         "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Wed, 20 May 2026 10:50:04 +0000",
-        "source_url": "https://www.designboom.com/architecture/air-soft-architectures-atmospheric-worlds-warhol-aa-murakami/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/05/air-warhol-inflatables-aa-murakamis-bubble-dress-designboom-1200-1.jpg",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 23 May 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041599/case-study-houses-and-the-myth-of-a-universal-domestic-ideal",
+        "image_url": "https://images.adsttc.com/media/images/6a0a/5a18/093e/9201/8986/43b1/large_jpg/case-study-houses-and-the-limits-of-a-universal-domestic-ideal_1.jpg?1779063339",
         "impact": 4
       }
     ],
@@ -460,17 +460,6 @@
     ],
     "ai": [
       {
-        "title": "Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents",
-        "summary": "arXiv:2605.21810v1 Announce Type: new Abstract: Complex Verilog Design Problems (CVDP) challenge hardware LLM agents because solving them requires localizing verifier-relevant RTL, testbenches, include paths, and build dependencies inside large repository snapshots, making precise edits, and recovering from sparse hidd",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 23 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.21810",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
         "title": "What Parameter Golf taught us about AI-assisted research",
         "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
         "category": "AI",
@@ -482,37 +471,48 @@
         "impact": 5
       },
       {
-        "title": "Implicit Safety Alignment from Crowd Preferences",
-        "summary": "arXiv:2605.21822v1 Announce Type: new Abstract: Reinforcement Learning from Human Feedback (RLHF) can reveal implicit objectives such as safety considerations that go beyond task completion. In this work, we focus on the common safety criteria embedded in crowd preference datasets, where different users may express dis",
+        "title": "Parloa builds service agents customers want to talk to",
+        "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 23 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.21822",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 07 May 2026 11:00:00 GMT",
+        "source_url": "https://openai.com/index/parloa",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Planning in the LLM Era: Building for Reliability and Efficiency",
-        "summary": "arXiv:2605.21902v1 Announce Type: new Abstract: Growing attention to intelligent agents has put a spotlight on one of their central capabilities: planning. Early attempts to leverage large language models (LLMs) for planning relied on single-shot plan generation, followed by hybrid approaches that coupled LLMs with lim",
+        "title": "Roundtables: Can AI Learn to Understand the World?",
+        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven,",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 23 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.21902",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 21 May 2026 20:41:05 +0000",
+        "source_url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/thumbnail-Test.png?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems",
-        "summary": "arXiv:2605.21962v1 Announce Type: new Abstract: Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bottlenecks, limited learner modeling, and difficulty implementing meaning",
+        "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+        "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 23 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.21962",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 22 May 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/hr58rtMzlkB728iDsV145/66097583e92664b8009d3f9f9d106c05/Gartner-MQ-SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 20 May 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6WJOhxvdNpC5hDvpiSAqE0/8a11ba6abdabb6a5a674de733cfa710d/SEO-Polynomial-Construction-16x9.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
