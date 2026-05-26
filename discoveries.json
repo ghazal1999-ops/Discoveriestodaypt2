@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-24",
-  "last_updated": "2026-05-24 23:58 UTC",
+  "date": "2026-05-26",
+  "last_updated": "2026-05-26 00:04 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "100-million-year-old bug had crab-like claws unlike any known insect",
+        "summary": "Deep inside 100-million-year-old amber from Myanmar, scientists uncovered a bizarre ancient bug with clawed front legs that look more like a crab’s pincers than anything seen in modern insects. The discovery is so unusual that researchers say these crab-like “chelae” evolved independently in this lineage, making it onl",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 25 May 2026 08:53:59 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260525000457.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/insect-with-giant-claws.webp",
+        "impact": 5
+      },
+      {
         "title": "MIT scientists discover amino acid that helps the gut heal itself",
         "summary": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researc",
         "category": "Science",
@@ -45,17 +56,6 @@
         "published_at": "Wed, 20 May 2026 08:54:32 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
-        "summary": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing Alzheimer’s risk.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 20 May 2026 09:04:32 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/senior-woman-aging-memory-loss-dementia-brain-puzzle-pieces.webp",
         "impact": 5
       }
     ],
@@ -118,37 +118,15 @@
     ],
     "medicine": [
       {
-        "title": "A once-daily pill takes aim at measles, croup and other dangerous viruses",
-        "summary": "A new oral antiviral drug candidate has been developed for the treatment of diseases caused by orthoparamyxoviruses, such as measles and croup syndrome, according to a study published by researchers in the Center for Translational Antiviral Research at Georgia State University. The paper in Science Advances identifies ",
+        "title": "Macrophage cell therapy boosts four-year transplant-free survival in advanced cirrhosis",
+        "summary": "A new type of cell therapy shows promise as the first treatment for advanced liver disease, following results from a clinical trial. Patients with the condition who were treated with the cell therapy had a significantly lower risk of death or need for a liver transplant after four years compared with those who received",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 22 May 2026 14:00:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-daily-pill-aim-measles-croup.html",
-        "image_url": "https://picsum.photos/seed/medicinefallback/1200/800",
+        "published_at": "Mon, 25 May 2026 11:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-macrophage-cell-therapy-boosts-year.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/liver-cirrhosis.jpg",
         "impact": 5
-      },
-      {
-        "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
-        "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s environment. In one striki",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 17 May 2026 07:11:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/digital-nanotechnology-neural-network.webp",
-        "impact": 5
-      },
-      {
-        "title": "New indicator for response to therapy in pediatric cancers identified",
-        "summary": "A study by researchers at the University of Birmingham has identified a new biomarker for response to a specific cancer therapy, treating children with Ewing Sarcoma and other tumor types. The study, which is a Phase I/II treatment arm within the eSMART Trial, was carried out at the Cancer Research UK Clinical Trials U",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 22 May 2026 18:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-indicator-response-therapy-pediatric-cancers.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-cancer-1.jpg",
-        "impact": 4
       },
       {
         "title": "Scientists discover the nutrient that can supercharge cellular energy",
@@ -170,6 +148,28 @@
         "published_at": "Tue, 19 May 2026 21:13:26 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260519003215.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/applying-cream-or-ointment.webp",
+        "impact": 4
+      },
+      {
+        "title": "People who lost the most weight on Ozempic saw huge health benefits",
+        "summary": "People who lost significant weight while taking Ozempic, Wegovy, Mounjaro, or Saxenda had sharply lower risks of major obesity-related health problems, including sleep apnea and kidney disease. Those who gained weight instead faced higher risks — especially for heart failure — even though many patients discontinued the",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 19 May 2026 09:05:57 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260518041432.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
+        "impact": 4
+      },
+      {
+        "title": "Chronic liver disease in Europe: A preventable crisis going undetected",
+        "summary": "Europe is facing a growing chronic liver disease threat, according to a new series published in The Lancet Regional Health—Europe, that engaged more than 75 co-authors from 30 countries and was led by the Barcelona Institute for Global Health (ISGlobal). The Series, \"Ending the chronic liver disease public health threa",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 25 May 2026 18:30:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-chronic-liver-disease-europe-crisis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/liver-disease.jpg",
         "impact": 4
       }
     ],
@@ -346,14 +346,25 @@
     ],
     "architecture": [
       {
-        "title": "Qinghe INNNG International Talent Community / Zhu Xiaodi Architects + BIAD",
-        "summary": "On the urban landscape, architecture is never an isolated entity, but rather a spatial vehicle that engages in a profound dialogue with its site, its people, and the spirit of the city. It has long transcended its physical functions to become a vessel containing the city's soul. Located in Qinghe Town, Haidian District",
+        "title": "On Africa Day 2026: Revisiting Architecture’s Role in Identity and Collective Memory",
+        "summary": "Observed annually on May 25, Africa Day commemorates the founding of the Organization of African Unity in 1963, now the African Union. Established during a period marked by independence movements across the continent, the day recognizes not only political solidarity but also the cultural, social, and intellectual histo",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 24 May 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1036817/qinghe-innng-international-talent-community-zxd-architects-plus-biad",
-        "image_url": "https://images.adsttc.com/media/images/6939/a208/d7d6/cc49/d4e3/091f/large_jpg/qinghe-innng-international-talent-community-zxd-architects-plus-biad_22.jpg?1765384743",
+        "published_at": "Mon, 25 May 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041817/on-africa-day-2026-revisiting-architectures-role-in-identity-and-collective-memory",
+        "image_url": "https://images.adsttc.com/media/images/6a14/0938/c171/3c01/7e87/a355/large_jpg/on-africa-day-2026-revisiting-architectures-role-in-identity-and-collective-memory_10.jpg?1779697986",
+        "impact": 5
+      },
+      {
+        "title": "St Raphael's Health and Wellbeing Center / Adam Richards Architects",
+        "summary": "Adam Richards Architects has completed St. Raphael's Health &amp; Wellbeing Center at Mayfield School, East Sussex. The purpose-built facility establishes a new typology for school healthcare in the UK, integrating medical treatment, counselling, and teaching within a single, sustainable building. Reflecting the practi",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 25 May 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041665/st-raphaels-health-and-wellbeing-center-adam-richards-architects",
+        "image_url": "https://images.adsttc.com/media/images/6a0c/bb75/093e/9201/8986/4d68/large_jpg/st-raphaels-health-and-wellbeing-center-adam-richards-architects_4.jpg?1779219394",
         "impact": 4
       },
       {
@@ -379,25 +390,14 @@
         "impact": 4
       },
       {
-        "title": "Human Haus TN / Minuspluse Design",
-        "summary": "Human Haus TN transforms a traditional townhouse in Tainan into a contemporary retail space driven by architectural sequence. Responding to the existing structure through minimal intervention, the design preserves exposed brick walls, timber roof framing, and the original proportions of the townhouse while inserting a ",
+        "title": "Captain's House / Miguel Marcelino",
+        "summary": "Casa Capit&atilde;o is a cultural space located in the Beato neighborhood of Lisbon, focusing on music, gastronomy, art, and critical thinking. The existing building, featuring typical late 19th-century architecture, now stands out thanks to its new exposed concrete crown, transforming the unique program into an archit",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sat, 23 May 2026 17:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041763/human-haus-tn-minuspluse-design",
-        "image_url": "https://images.adsttc.com/media/images/6a10/2bab/35eb/2400/01f0/42dc/large_jpg/2-HUMAN_HAUS__-s-10.jpg?1779444685",
-        "impact": 4
-      },
-      {
-        "title": "Case Study Houses and the Myth of a Universal Domestic Ideal",
-        "summary": "Sitting on low benches, casually talking, dressed in comfortable clothes, and surrounded by books, design objects, and works of art, Charles and Ray Eames appear in one of the most emblematic images of postwar modern domesticity in the United States. The house does not appear as an explicit architectural manifesto, but",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sat, 23 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041599/case-study-houses-and-the-myth-of-a-universal-domestic-ideal",
-        "image_url": "https://images.adsttc.com/media/images/6a0a/5a18/093e/9201/8986/43b1/large_jpg/case-study-houses-and-the-limits-of-a-universal-domestic-ideal_1.jpg?1779063339",
+        "published_at": "Mon, 25 May 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041590/captains-house-miguel-marcelino",
+        "image_url": "https://images.adsttc.com/media/images/6a07/9b19/fd52/9201/89f2/03f9/large_jpg/casa-capitao-miguel-marcelino_11.jpg?1778883390",
         "impact": 4
       }
     ],
@@ -471,48 +471,48 @@
         "impact": 5
       },
       {
-        "title": "Parloa builds service agents customers want to talk to",
-        "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+        "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+        "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool call",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 07 May 2026 11:00:00 GMT",
-        "source_url": "https://openai.com/index/parloa",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.22883",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Roundtables: Can AI Learn to Understand the World?",
-        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven,",
+        "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+        "summary": "arXiv:2605.23024v1 Announce Type: new Abstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Free Lunch theorems, shape what computation can do. This thesis turns such impossibility results from curiosities into desi",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 21 May 2026 20:41:05 +0000",
-        "source_url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/thumbnail-Test.png?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.23024",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-        "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+        "title": "GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models",
+        "summary": "arXiv:2605.23238v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed canonical games. The",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 22 May 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/hr58rtMzlkB728iDsV145/66097583e92664b8009d3f9f9d106c05/Gartner-MQ-SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.23238",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+        "title": "Parallel Context Compaction for Long-Horizon LLM Agent Serving",
+        "summary": "arXiv:2605.23296v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate growing conversation histories that eventually exceed the model's context window. Context compaction via LLM-based summarization keeps the conversation bounded, but summarization is inherently lossy and the blocking call stalls agent inf",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 20 May 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6WJOhxvdNpC5hDvpiSAqE0/8a11ba6abdabb6a5a674de733cfa710d/SEO-Polynomial-Construction-16x9.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.23296",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
