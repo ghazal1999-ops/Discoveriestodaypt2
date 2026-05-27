@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-26",
-  "last_updated": "2026-05-26 00:04 UTC",
+  "date": "2026-05-27",
+  "last_updated": "2026-05-27 00:03 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Thu, 21 May 2026 01:34:34 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists Discover Genetic “Off Switch” That Supercharges CAR T Cells Against Cancer",
+        "summary": "A new study reveals a possible way to make CAR T-cell therapy more durable and effective by targeting a single gene-regulating protein. CAR T-cell therapy is widely seen as a breakthrough in personalized cancer care. The treatment works by modifying a patient’s own immune cells so they can identify and attack cancer ce",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Tue, 26 May 2026 19:21:17 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-genetic-off-switch-that-supercharges-car-t-cells-against-cancer/",
+        "image_url": "https://scitechdaily.com/images/White-Blood-Cells-Attacking-Cancer-Cell-Immunology-777x518.jpg",
         "impact": 5
       },
       {
@@ -46,88 +57,66 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/human-intestine-holographic-scan-projection.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-        "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatmen",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 20 May 2026 08:54:32 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "First-generation Chromecast users stressed by devices suddenly failing",
-        "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
+        "title": "This startup is betting India’s gig economy can train the world’s robots",
+        "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 26 May 2026 16:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800",
+        "impact": 4
+      },
+      {
+        "title": "3D-printable humanoid legs let robotics experiments run wild",
+        "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Fri, 22 May 2026 21:42:59 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg",
+        "published_at": "Tue, 26 May 2026 17:16:07 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Hugging-Face-LeHumanoid-Robot-legs-1152x648.png",
         "impact": 3
       },
       {
-        "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
-        "summary": "Two additional marketing companies will also pay $25,000 each.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 22 May 2026 17:48:03 +0000",
-        "source_url": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1344903607-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "6 kitchen gadgets that make adulting feel easier",
-        "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+        "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
+        "summary": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sun, 24 May 2026 17:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2015/04/lego-chef.jpg?resize=1200,686",
+        "published_at": "Tue, 26 May 2026 15:44:23 +0000",
+        "source_url": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/passport-fake-KYC.jpg?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "TechCrunch Mobility: Robotaxi reality check",
-        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+        "summary": "Stord offers a network of physical warehouses and inventory management software for e-commerce. It bills itself as a sort of anti-Amazon, giving brands \"the speed to compete\" while still owning their customer relationships.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sun, 24 May 2026 16:05:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-back-getty.jpg?resize=1200,800",
+        "published_at": "Tue, 26 May 2026 12:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Sean-Henry-CEO-Co-founder-of-Stord-.jpg?w=1181",
         "impact": 3
       },
       {
-        "title": "These special phone and app features can help protect you from spyware",
-        "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+        "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+        "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 23 May 2026 16:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/dark-phone-person-spyware.jpg?resize=1200,800",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Tue, 26 May 2026 10:00:00 +0000",
+        "source_url": "https://www.wired.com/story/household-chores-training-robots/",
+        "image_url": "https://media.wired.com/photos/6a077b4e67132e88ffa730a4/191:100/w_1280,c_limit/AIPanic_TrainingRobots_v2.1.jpg",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Macrophage cell therapy boosts four-year transplant-free survival in advanced cirrhosis",
-        "summary": "A new type of cell therapy shows promise as the first treatment for advanced liver disease, following results from a clinical trial. Patients with the condition who were treated with the cell therapy had a significantly lower risk of death or need for a liver transplant after four years compared with those who received",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 25 May 2026 11:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-macrophage-cell-therapy-boosts-year.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/liver-cirrhosis.jpg",
-        "impact": 5
-      },
       {
         "title": "Scientists discover the nutrient that can supercharge cellular energy",
         "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
@@ -162,14 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Chronic liver disease in Europe: A preventable crisis going undetected",
-        "summary": "Europe is facing a growing chronic liver disease threat, according to a new series published in The Lancet Regional Health—Europe, that engaged more than 75 co-authors from 30 countries and was led by the Barcelona Institute for Global Health (ISGlobal). The Series, \"Ending the chronic liver disease public health threa",
+        "title": "Blocking two cancer pathways may curb medulloblastoma relapse, preclinical study suggests",
+        "summary": "For most children diagnosed with medulloblastoma, the most common malignant pediatric brain tumor, survival rates are encouraging. But for a subset, remission is not the end of the story. Roughly 30% of patients will see their cancer return, and once it does, outcomes are often devastating.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 25 May 2026 18:30:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-chronic-liver-disease-europe-crisis.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/liver-disease.jpg",
+        "published_at": "Tue, 26 May 2026 16:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-blocking-cancer-pathways-curb-medulloblastoma.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/targeting-tumor-relaps.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Vitamin D analog shuts down pancreatic cancer's shield in a clinical trial",
+        "summary": "A small clinical trial led by Dana-Farber Cancer Institute researchers has put a Salk Institute idea to the test in patients: that activating the vitamin D receptor can help reshape the protective environment surrounding pancreatic tumors in ways that could make the notoriously difficult-to-treat cancer more vulnerable",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 26 May 2026 15:52:42 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-vitamin-d-analog-pancreatic-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-salk-institute-di.jpg",
         "impact": 4
       }
     ],
@@ -232,17 +232,6 @@
     ],
     "space": [
       {
-        "title": "NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit",
-        "summary": "Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will launch on ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 21 May 2026 21:36:15 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/testing-link-vibration-tests-2-4000x2600-1.jpg",
-        "impact": 5
-      },
-      {
         "title": "SpaceX Starship Flight 12: Don't miss these stunning photos from the launch of the most powerful Starship yet",
         "summary": "Starship V3 led to some stunning launch photography after it lifted off from Starbase on SpaceX's 12th flight of the rocket that aims to land astronauts on the moon.",
         "category": "Space",
@@ -265,25 +254,36 @@
         "impact": 4
       },
       {
-        "title": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
-        "summary": "As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more. NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwr",
+        "title": "Seeing double with the Artemis 2 rocket boosters | Space photo of the day for May 26, 2026",
+        "summary": "The two boosters hang out mid-air after separation.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 22 May 2026 22:12:40 +0000",
-        "source_url": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 26 May 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/human-spaceflight/seeing-double-with-the-artemis-2-rocket-boosters-space-photo-of-the-day-for-25-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/vcrp9qamLbfPJxey9NSp5n-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "NASA Announces Realignment to Accelerate Mission Delivery",
-        "summary": "Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. D",
+        "title": "'Very interesting wiggles' in data from silent NASA Mars spacecraft lead to unexpected solar wind discovery",
+        "summary": "Data from NASA's MAVEN spacecraft revealed a never-before-seen atmospheric effect on Mars, revealing how solar storms may shape planets without strong magnetic fields.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 22 May 2026 14:01:35 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 26 May 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/very-interesting-wiggles-in-data-from-silent-nasa-mars-spacecraft-lead-to-unexpected-solar-wind-discovery",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/6seRYX6LCckEBjkME2kYAg-1280-80.png",
+        "impact": 4
+      },
+      {
+        "title": "DARPA readies robotic deep-space repair satellite for 2026 launch",
+        "summary": "DARPA has a plan to keep geosynchronous satellites going for years beyond their expiration date. The agency aims to test it with a mission launching as soon as this summer.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 25 May 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/darpa-readies-robotic-deep-space-repair-satellite-for-2026-launch",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/zjS2J8fH4jqmz9BCkrst9U-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,14 +311,14 @@
         "impact": 4
       },
       {
-        "title": "Moon and Planets to Gather in Twilight Spectacle on May 18–20",
-        "summary": "Watch the crescent Moon dance with the planets when it returns next week. The post Moon and Planets to Gather in Twilight Spectacle on May 18–20 appeared first on Sky &amp; Telescope.",
+        "title": "The Definitive Census of Multiple Star Systems Within 10 Parsecs",
+        "summary": "Our Sun is a loner. It lacks a stellar companion hurtling through interstellar space with it. But we’ve known for a long time that’s actually relatively rare - most stars have at least one gravitationally bound partner. Understanding how exactly those stars are related to each other is critical for observational campai",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 13 May 2026 17:48:46 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/moon-planets-gather-in-a-twilight-spectacle-may-18-20/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Venus-crescent-moon-conjunction-July-15_2018-cirrus-clouds-B-ST-900px.webp",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 26 May 2026 19:09:43 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-definitive-census-of-multiple-star-systems-within-10-parsecs",
+        "image_url": "https://www.universetoday.com/article_images/circumbinary_planet_AC_20260526_190935.png",
         "impact": 4
       },
       {
@@ -346,25 +346,36 @@
     ],
     "architecture": [
       {
-        "title": "On Africa Day 2026: Revisiting Architecture’s Role in Identity and Collective Memory",
-        "summary": "Observed annually on May 25, Africa Day commemorates the founding of the Organization of African Unity in 1963, now the African Union. Established during a period marked by independence movements across the continent, the day recognizes not only political solidarity but also the cultural, social, and intellectual histo",
+        "title": "Municipal Environmental School 15 October Mayor Firmino Filho / Rômulo Marques-Carvalho + Ana Lucia Ribeiro Camillo da Silveira",
+        "summary": "The Municipal Environmental School 15 de Outubro Mayor Firmino Filho, established in the Northern Zone of Teresina (PI), is integrated into the João Mendes Olímpio de Melo City Park and serves as an educational facility closely linked to the territory. Developed in partnership between the Federal University of Piauí an",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 25 May 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041817/on-africa-day-2026-revisiting-architectures-role-in-identity-and-collective-memory",
-        "image_url": "https://images.adsttc.com/media/images/6a14/0938/c171/3c01/7e87/a355/large_jpg/on-africa-day-2026-revisiting-architectures-role-in-identity-and-collective-memory_10.jpg?1779697986",
+        "published_at": "Tue, 26 May 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041689/municipal-environmental-school-15-october-mayor-firmino-filho-romulo-marques-carvalho-plus-ana-lucia-ribeiro-camillo-da-silveira",
+        "image_url": "https://images.adsttc.com/media/images/69e1/464a/8471/2000/01f8/ea23/large_jpg/Cortesia_de_LucasFerreira_13.jpg?1776371338",
         "impact": 5
       },
       {
-        "title": "St Raphael's Health and Wellbeing Center / Adam Richards Architects",
-        "summary": "Adam Richards Architects has completed St. Raphael's Health &amp; Wellbeing Center at Mayfield School, East Sussex. The purpose-built facility establishes a new typology for school healthcare in the UK, integrating medical treatment, counselling, and teaching within a single, sustainable building. Reflecting the practi",
+        "title": "MAC Panamá Selects Palma + Taller TO to Design Its New Museum Building",
+        "summary": "Following an international design competition launched in January 2026, the Museum of Contemporary Art of Panama (MAC Panamá) announced the selection of Mexican architects Palma + Taller TO to design its new building. The museum is described as \"a new cultural infrastructure open to the city, conceived from the identit",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 25 May 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041665/st-raphaels-health-and-wellbeing-center-adam-richards-architects",
-        "image_url": "https://images.adsttc.com/media/images/6a0c/bb75/093e/9201/8986/4d68/large_jpg/st-raphaels-health-and-wellbeing-center-adam-richards-architects_4.jpg?1779219394",
+        "published_at": "Tue, 26 May 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041838/mac-panama-selects-palma-plus-taller-to-to-design-its-new-museum-building",
+        "image_url": "https://images.adsttc.com/media/images/6a14/af0a/fd52/9207/909d/2302/large_jpg/mac-panama-selects-palma-plus-taller-to-to-design-its-new-museum-building_1.jpg?1779740501",
+        "impact": 4
+      },
+      {
+        "title": "Dezeen Debate features \"proper dystopian\" Prairie Ark Gallery",
+        "summary": "The latest edition of our Dezeen Debate newsletter features the Prairie Ark gallery by Chinese architecture studio Büro Ziyu Zhuang, which resembles a flying saucer. Subscribe to Dezeen Debate now. Located on the shores of Laoli Lake in Inner Mongolia, the futuristic design was intended to get people to escape their ro",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 26 May 2026 18:00:01 +0000",
+        "source_url": "https://www.dezeen.com/2026/05/26/buro-ziyu-zhuang-prairie-ark-dezeen-debate/",
+        "image_url": "https://static.dezeen.com/uploads/2026/05/buro-ziyu-zhuang-prairie-ark-nomads-beacon-tower-china_dezeen_2364_col_18_square.jpg",
         "impact": 4
       },
       {
@@ -388,17 +399,6 @@
         "source_url": "https://www.dezeen.com/2026/05/20/kengo-kuma-associates-pennsylvania-brandywine-conservancy-museum-of-art/",
         "image_url": "https://static.dezeen.com/uploads/2026/05/brandywine-conservancy-museum-of-art-pennsylvania-kengo-kuma_dezeen_2364_hero.jpg",
         "impact": 4
-      },
-      {
-        "title": "Captain's House / Miguel Marcelino",
-        "summary": "Casa Capit&atilde;o is a cultural space located in the Beato neighborhood of Lisbon, focusing on music, gastronomy, art, and critical thinking. The existing building, featuring typical late 19th-century architecture, now stands out thanks to its new exposed concrete crown, transforming the unique program into an archit",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 25 May 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041590/captains-house-miguel-marcelino",
-        "image_url": "https://images.adsttc.com/media/images/6a07/9b19/fd52/9201/89f2/03f9/large_jpg/casa-capitao-miguel-marcelino_11.jpg?1778883390",
-        "impact": 4
       }
     ],
     "construction": [
@@ -411,17 +411,6 @@
         "published_at": "Fri, 22 May 2026 11:30:00 -0400",
         "source_url": "https://www.constructiondive.com/news/top-commercial-contractors-revenue-2026-enr/820930/",
         "image_url": "https://imgproxy.divecdn.com/cIbJxbAJaZM_NIm1h758hO993naQZMEpuFfUWolr0GM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMTIwMjUtVGl0YW5zLXByLmpwZw==.webp",
-        "impact": 4
-      },
-      {
-        "title": "Maryland unveils 4 Key Bridge contracts totaling over $4B",
-        "summary": "On Tuesday, the Maryland Transportation Authority outlined the four separate procurements for various aspects of the Baltimore bridge&rsquo;s reconstruction.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 20 May 2026 16:22:12 -0400",
-        "source_url": "https://www.constructiondive.com/news/maryland-key-bridge-contracts-may-2026/820788/",
-        "image_url": "https://imgproxy.divecdn.com/qp1X3L1Jw1GModEjPRvS7k_4JqG4SzDyBsrOixP8jCk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UcmVzdGxlLTc2OHg1MTIuanBn.webp",
         "impact": 4
       },
       {
@@ -447,18 +436,40 @@
         "impact": 4
       },
       {
-        "title": "Construction starts jumped in April as more project types broke ground",
-        "summary": "Unlike recent months, groundbreakings stretched beyond a handful of data center and energy megaprojects, according to Dodge Construction Network.",
+        "title": "Oldham Council set to launch £20M highways framework",
+        "summary": "Oldham Metropolitan Borough Council has issued a pipeline notice for a potential £20M highways improvement framework covering civil engineering construction works across north east Greater Manchester. The post Oldham Council set to launch £20M highways framework appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 22 May 2026 10:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-starts-jumped-april-more-project-types-broke-ground/820960/",
-        "image_url": "https://imgproxy.divecdn.com/kqvxtTwFF8vnLy_asx1nIAXIZliSsx-98DUSg_n41dA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNjUxNzc2LmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 26 May 2026 13:56:16 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/oldham-council-set-to-launch-20m-highways-framework-26-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/Oldham-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "CCS launches £120bn construction and infrastructure framework",
+        "summary": "The Crown Commercial Service (CCS) - the trading fund and executive agency of the Cabinet Office - has launched procurement for a major new construction and infrastructure framework, with an estimated value of £120bn excluding VAT (£144bn including VAT). The post CCS launches £120bn construction and infrastructure fram",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 26 May 2026 12:01:04 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/ccs-launches-120bn-construction-and-infrastructure-framework-26-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/shutterstock_2567541221-560x315.jpg",
+        "impact": 4
       }
     ],
     "ai": [
+      {
+        "title": "From Accuracy to Auditability: A Survey of Determinism in Financial AI Systems",
+        "summary": "arXiv:2605.23955v1 Announce Type: new Abstract: Deploying machine learning in regulated financial environments -- credit risk, fraud detection, and anti-money laundering -- exposes critical vulnerabilities in algorithmic reproducibility. While early financial ML addressed statistical challenges such as backtest overfit",
+        "category": "AI",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.23955",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
+      },
       {
         "title": "What Parameter Golf taught us about AI-assisted research",
         "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
@@ -471,46 +482,35 @@
         "impact": 5
       },
       {
-        "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
-        "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool call",
+        "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+        "summary": "arXiv:2605.23908v1 Announce Type: new Abstract: We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production through AI-driven assistants. Historically, a fundamental property of these processes in their human form has been their open-",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 25 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.22883",
+        "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.23908",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
-        "summary": "arXiv:2605.23024v1 Announce Type: new Abstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Free Lunch theorems, shape what computation can do. This thesis turns such impossibility results from curiosities into desi",
+        "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
+        "summary": "arXiv:2605.23929v1 Announce Type: new Abstract: Modern AI systems increasingly rely on workflows composed of multiple interacting agents, some powered by large language models (LLMs) and others by conventional computational modules. This paper analyzes the fundamental tradeoffs between latency, reliability, and cost in",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 25 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.23024",
+        "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.23929",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models",
-        "summary": "arXiv:2605.23238v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed canonical games. The",
+        "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
+        "summary": "arXiv:2605.23934v1 Announce Type: new Abstract: Quantum computing devices are recognized as powerful tools for solving NP-complete problems. However, the intricacy of their modeling presents notable barriers for non-specialists, while the tedious iteration of constraint weights and modeling methodologies also consumes ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 25 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.23238",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "Parallel Context Compaction for Long-Horizon LLM Agent Serving",
-        "summary": "arXiv:2605.23296v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate growing conversation histories that eventually exceed the model's context window. Context compaction via LLM-based summarization keeps the conversation bounded, but summarization is inherently lossy and the blocking call stalls agent inf",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 25 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.23296",
+        "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.23934",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
