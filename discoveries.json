@@ -1,30 +1,8 @@
 {
-  "date": "2026-05-28",
-  "last_updated": "2026-05-28 00:00 UTC",
+  "date": "2026-05-29",
+  "last_updated": "2026-05-29 00:09 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Scientists discover the nutrient that can supercharge cellular energy",
-        "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 21 May 2026 01:34:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Discover Genetic “Off Switch” That Supercharges CAR T Cells Against Cancer",
-        "summary": "A new study reveals a possible way to make CAR T-cell therapy more durable and effective by targeting a single gene-regulating protein. CAR T-cell therapy is widely seen as a breakthrough in personalized cancer care. The treatment works by modifying a patient’s own immune cells so they can identify and attack cancer ce",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Tue, 26 May 2026 19:21:17 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-genetic-off-switch-that-supercharges-car-t-cells-against-cancer/",
-        "image_url": "https://scitechdaily.com/images/White-Blood-Cells-Attacking-Cancer-Cell-Immunology-777x518.jpg",
-        "impact": 5
-      },
       {
         "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
         "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining vitamin K with components related to vitamin A, the researchers developed compounds t",
@@ -34,6 +12,17 @@
         "published_at": "Wed, 27 May 2026 00:02:46 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/glowing-human-brain-signals.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scottish wrens may be evolving into new species through island gigantism",
+        "summary": "Tiny birds on remote Scottish islands are undergoing a dramatic evolutionary transformation. Scientists studying four isolated populations of British Wrens discovered that some island birds have grown astonishingly large — with the biggest St Kilda Wrens weighing more than twice as much as the smallest mainland birds. ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 28 May 2026 08:49:31 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260528082453.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/juvenile-st-kilda-wren.webp",
         "impact": 5
       },
       {
@@ -57,62 +46,73 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/human-intestine-holographic-scan-projection.webp",
         "impact": 5
+      },
+      {
+        "title": "Magnon Breakthrough Could Shrink Quantum Computers to the Size of a Penny",
+        "summary": "Physicists at the University of Vienna have discovered magnons with lifespans that are one hundred times longer. Magnons are tiny waves of magnetization that move through solid magnetic materials, similar to ripples spreading across water after a stone falls in. Unlike photons, which can move through empty space or opt",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 28 May 2026 18:25:03 +0000",
+        "source_url": "https://scitechdaily.com/magnon-breakthrough-could-shrink-quantum-computers-to-the-size-of-a-penny/",
+        "image_url": "https://scitechdaily.com/images/Quantum-Computer-Data-Technology-777x453.jpg",
+        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-        "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 27 May 2026 20:10:00 +0000",
-        "source_url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-        "impact": 3
-      },
-      {
-        "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
-        "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 27 May 2026 16:59:19 +0000",
-        "source_url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/source-code-on-screen.jpg?resize=1200,704",
-        "impact": 3
-      },
-      {
-        "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
-        "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
+        "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+        "summary": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
         "category": "Tech",
         "source": "wired.com",
         "journal": "wired.com",
-        "published_at": "Wed, 27 May 2026 18:00:00 +0000",
-        "source_url": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
-        "image_url": "https://media.wired.com/photos/6a1615f55f7c39896f97f413/191:100/w_1280,c_limit/AI-Lab-Huawei-Chip-Queen-Says-No-More-Moores-Law-Business.jpg",
+        "published_at": "Thu, 28 May 2026 10:30:00 +0000",
+        "source_url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+        "image_url": "https://media.wired.com/photos/6a173c117ababccb510cce19/191:100/w_1280,c_limit/Amazon-AI-Future-Business-Ratul-Giacomo-Sesh-in-front-of-RNG-racks3.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
+        "summary": "The launch of the Ojai minivan robotaxi comes after years of development and testing, but arrives amid a challenging time for Waymo.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 28 May 2026 16:52:48 +0000",
+        "source_url": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-zeekr-robotaxi.jpg?resize=1200,900",
         "impact": 3
       },
       {
-        "title": "Litter-Robot Promo Codes and Deals: Up to $150 Off",
-        "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
+        "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+        "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across deskto",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-05-28T16:14:07-04:00",
+        "source_url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "The $6 Billion Chinese Startup Trying to Build Hands for Every Robot",
+        "summary": "LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories—and eventually replace human labor altogether.",
         "category": "Tech",
         "source": "wired.com",
         "journal": "wired.com",
-        "published_at": "Wed, 27 May 2026 05:00:00 +0000",
-        "source_url": "https://www.wired.com/story/litter-robot-promo-code/",
-        "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/191:100/w_1280,c_limit/WIRED-Coupons-R2_15.png",
+        "published_at": "Thu, 28 May 2026 19:14:31 +0000",
+        "source_url": "https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/",
+        "image_url": "https://media.wired.com/photos/6a173a47faa2148b4ab454f6/191:100/w_1280,c_limit/Made-In-China-6-Billion-Chinese-Startup-Making-Hands-for-Humanoids-Business-1480052903.jpg",
         "impact": 3
       },
       {
-        "title": "The Download: keeping up with AI, and the future of IVF",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelli",
+        "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+        "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 27 May 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-12.49.53.png?resize=1200,600",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 28 May 2026 15:00:00 +0000",
+        "source_url": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+        "image_url": "https://media.wired.com/photos/6a1765da6f62ca56a1fdfc3c/191:100/w_1280,c_limit/OJAI_EXT_Rider_3.jpg",
         "impact": 3
       }
     ],
@@ -129,14 +129,14 @@
         "impact": 5
       },
       {
-        "title": "Patients show strong response to at-home cancer test",
-        "summary": "A new analysis of clinical trial data led by Anisha P. Ganguly, MD, MPH, a general internist at UNC Health and member of UNC Lineberger Comprehensive Cancer Center, has proven that mailed fecal immunochemical tests can drastically increase colorectal cancer screening by 18% across multiple racial/ethnic groups. Results",
+        "title": "Ocrelizumab cuts disability progression in primary progressive MS trial",
+        "summary": "A major international Phase III clinical trial, led by Queen Mary University of London, has found that ocrelizumab—a medication already prescribed to some patients with MS—significantly slows disability progression in people with primary progressive multiple sclerosis (PPMS), including older patients and those with mor",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 27 May 2026 16:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-patients-strong-response-home-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/package.jpg",
+        "published_at": "Thu, 28 May 2026 18:30:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-ocrelizumab-disability-primary-ms-trial.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/wheelchair-user.jpg",
         "impact": 4
       },
       {
@@ -162,14 +162,14 @@
         "impact": 4
       },
       {
-        "title": "Study: AI may help identify cancer survivors at risk for emergency visits, worsening symptoms",
-        "summary": "Artificial intelligence models using electronic health records and patient-reported outcomes may help identify cancer survivors at increased risk for emergency department visits, hospitalizations and worsening symptoms after treatment, according to a new study from Sylvester Comprehensive Cancer Center, part of the Uni",
+        "title": "Common anemia medication shows unexpected potential in cancer treatment",
+        "summary": "Common medications used to treat anemia may also slow down cancer cell growth, according to new research from Finland. Researchers from the University of Oulu and the University of Eastern Finland discovered that these drugs affect cell metabolism and growth in ways previously unknown. The findings, published in Redox ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 27 May 2026 19:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-ai-cancer-survivors-emergency-worsening.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/emergency-1.jpg",
+        "published_at": "Thu, 28 May 2026 18:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-common-anemia-medication-unexpected-potential.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/common-anemia-medicati.jpg",
         "impact": 4
       }
     ],
@@ -232,71 +232,82 @@
     ],
     "space": [
       {
-        "title": "SpaceX Starship Flight 12: Don't miss these stunning photos from the launch of the most powerful Starship yet",
-        "summary": "Starship V3 led to some stunning launch photography after it lifted off from Starbase on SpaceX's 12th flight of the rocket that aims to land astronauts on the moon.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 23 May 2026 13:52:26 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-12-dont-miss-these-stunning-photos-from-the-launch-of-the-most-powerful-starship-yet",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/rJfDYZCkZHCgsNTJQ3cjs5-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge",
-        "summary": "Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida. Forty-seven teams from around the U.S. designed and built re",
+        "title": "I Am Artemis: Daniel Stubbs",
+        "summary": "Listen to this audio excerpt from Daniel Stubbs, NASA aerospace engineer: If you’ve driven through a cloud of dust and dirt that temporarily obscured your view, you’ve gotten a partial picture of a potential problem that NASA’s human landing systems for Artemis will face when they land on the Moon. Daniel Stubbs, an ae",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 27 May 2026 15:42:44 +0000",
-        "source_url": "https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260519-ph-jbs01-0032orig.jpg",
+        "published_at": "Thu, 28 May 2026 21:58:20 +0000",
+        "source_url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/ceb-4607b.jpg",
         "impact": 4
       },
       {
-        "title": "China shakes up its space programs to land astronauts on the moon by 2030: 'We will spare no effort'",
-        "summary": "China is melding its robotic Chang'e lunar probe activities with the country's human spaceflight program in an effort to land astronauts on the moon by 2030.",
+        "title": "NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds",
+        "summary": "NASA’s Nancy Grace Roman Space Telescope is poised to make a major leap in the hunt for worlds outside our solar system, known as exoplanets. Scientists expect the mission to reveal around 100,000 worlds — a staggering leap compared to the nearly 6,300 found so far thanks to NASA missions working in tandem with other [",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 27 May 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/china-shakes-up-its-space-programs-to-land-astronauts-on-the-moon-by-2030-we-will-spare-no-effort",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/fWFyEhTb84KHAq4hiTLmZM-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 28 May 2026 14:40:33 +0000",
+        "source_url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/milky-way-zones-mkv.jpg",
         "impact": 4
       },
       {
-        "title": "FAA grounds SpaceX's Starship V3 megarocket after Flight 12 'mishap'",
-        "summary": "The U.S. Federal Aviation Administration has declared the debut flight of SpaceX's Starship V3 vehicle a mishap and is requiring an investigation before the megarocket can fly again.",
+        "title": "Companies like SpaceX want electromagnetic catapults on the moon. Could they be used as weapons?",
+        "summary": "A new report stresses the strategic and security implications of placing mass drivers on the moon by arguing that these launchers could serve as valuable first strike weapons systems.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 27 May 2026 17:28:09 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-spacexs-starship-v3-megarocket-after-flight-12-mishap",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/WD2Rmreoor9FWTASiZPhy5-1280-80.jpg",
+        "published_at": "Thu, 28 May 2026 22:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/companies-like-spacex-want-electromagnetic-catapults-on-the-moon-could-they-be-used-as-weapons",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/XNwvSrEftRirmPLypnYqDQ-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "NASA will reveal the Artemis 3 astronauts on June 9",
-        "summary": "On June 9, NASA will reveal the astronauts who will fly on the Artemis 3 docking mission in Earth orbit next year.",
+        "title": "NASA is hatching a 'fast-paced plan' to boost this space telescope. But first, they'll have to find it",
+        "summary": "NASA is working hard to predict where in Earth orbit its Swift space telescope will be this fall, so that a private spacecraft can meet up with the observatory and boost its altitude.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 27 May 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/nasa-will-reveal-the-artemis-3-astronauts-on-june-9",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/HSnwfcYuKykh9jEDYo8BJM-1280-80.jpg",
+        "published_at": "Thu, 28 May 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/nqSn3Y5w4Nfuj7pfjQgaSa-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "What's next for SpaceX's Starship V3 megarocket after its historic debut flight?",
+        "summary": "SpaceX's \"V3\" Starship megarocket did pretty well on its debut flight last week. What's next for the powerful next-gen vehicle?",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 28 May 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-v3-megarocket-after-its-historic-debut-flight",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/rJfDYZCkZHCgsNTJQ3cjs5-1280-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
       {
-        "title": "How Did This Peculiar Planet Pair Form?",
-        "summary": "A planetary odd couple — a mini-Neptune and a hot Jupiter — probably formed much farther away from their star before migrating closer in. The post How Did This Peculiar Planet Pair Form? appeared first on Sky &amp; Telescope.",
+        "title": "JWST Studies a Dark and Airless Super-Earth",
+        "summary": "There's a planet out there called LHS 3844 b, orbiting a star about 48 light-years away. The Transiting Exoplanet Survey Satellite (TESS) found it in 2018 when the planet transited across the face of its star. The James Webb Space Telescope zxeroed in on the planet and found it to be a barren, rocky place with no atmos",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 28 May 2026 22:06:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/jwst-studies-a-dark-and-airless-super-earth",
+        "image_url": "https://www.universetoday.com/article_images/1280px-PIA23130-Exoplanet-LHS3844b-ArtistConcept-20190819_20260528_201726.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Close Encounter: Jupiter and Venus",
+        "summary": "The two brightest planets in our sky will be less than 2 degrees apart on June 9th at sunset. The post Close Encounter: Jupiter and Venus appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
         "journal": "skyandtelescope.org",
-        "published_at": "Fri, 15 May 2026 06:48:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/how-did-this-peculiar-planet-pair-form/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/sub-Neptune.webp",
+        "published_at": "Thu, 28 May 2026 19:20:28 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-press-releases/close-encounter-jupiter-and-venus/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/2026_J2.jpg",
         "impact": 4
       },
       {
@@ -322,60 +333,38 @@
         "impact": 4
       },
       {
-        "title": "NASA TESS Reveals Epic All-Sky Map of Distant Worlds",
-        "summary": "You’re on a camping trip with your family and your parents tell you to turn off all the lights. But, of course, your little brother wants to shine his flashlight directly at the sky saying aliens will see it. You finally get him to shut off his flashlight, and you give your eyes a few minutes to adjust to the darkness.",
+        "title": "Earthly Hors d'oeuvres For Hungry Red Dwarfs",
+        "summary": "We know that stars can engulf planets because stars that swell up to become red giants overwhelm any close-in planets. The Sun will do this to Venus, Mercury, and possibly Earth in a few billion years. But research shows that it can happen when low-mass stars first enter the main sequence. Lithium gives it away.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 27 May 2026 07:10:15 +0000",
-        "source_url": "https://www.universetoday.com/articles/nasa-tess-reveals-epic-all-sky-map-of-distant-worlds",
-        "image_url": "https://www.universetoday.com/article_images/TESS_both_bin4_planets_3870x1950_750_20260527_070806.png",
-        "impact": 4
-      },
-      {
-        "title": "Astronomers Observe the Most Chemically Primitive Galaxy in the Early Universe",
-        "summary": "An international team led by Associate Professor Kimihiko Nakajima of Kanazawa University has captured a rare look at the early universe. Using the James Webb Space Telescope (JWST) and the power of gravitational lensing, the team achieved a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion y",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 27 May 2026 01:08:32 +0000",
-        "source_url": "https://www.universetoday.com/articles/astronomers-observe-the-most-chemically-primitive-galaxy-in-the-early-universe",
-        "image_url": "https://www.universetoday.com/article_images/fig1_v2_20260522_003209.png",
+        "published_at": "Thu, 28 May 2026 21:46:28 +0000",
+        "source_url": "https://www.universetoday.com/articles/earthly-hors-doeuvres-for-hungry-red-dwarfs",
+        "image_url": "https://www.universetoday.com/article_images/Red_dwarf_20260528_193757.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Municipal Environmental School 15 October Mayor Firmino Filho / Rômulo Marques-Carvalho + Ana Lucia Ribeiro Camillo da Silveira",
-        "summary": "The Municipal Environmental School 15 de Outubro Mayor Firmino Filho, established in the Northern Zone of Teresina (PI), is integrated into the João Mendes Olímpio de Melo City Park and serves as an educational facility closely linked to the territory. Developed in partnership between the Federal University of Piauí an",
+        "title": "Herzog & de Meuron's Nearly Completed Triangle Tower and OMA's Urban Vision for Rome: This Week's Review",
+        "summary": "This week, we revisited the ideas currently shaping the design of 21st-century cities, with a view toward a longer timeframe than that which characterised modern design. These examples of today's urban design point toward the cities of tomorrow, seeking to reflect collective memory and social identity while addressing ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 26 May 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041689/municipal-environmental-school-15-october-mayor-firmino-filho-romulo-marques-carvalho-plus-ana-lucia-ribeiro-camillo-da-silveira",
-        "image_url": "https://images.adsttc.com/media/images/69e1/464a/8471/2000/01f8/ea23/large_jpg/Cortesia_de_LucasFerreira_13.jpg?1776371338",
-        "impact": 5
-      },
-      {
-        "title": "Anatomy of a Maya City: The Urban Structure of Copán in Honduras",
-        "summary": "Deep in western Honduras, within a valley near the Guatemalan border, lies the ancient Maya city of Copán. Flourishing during the Classic period between the fifth and ninth centuries CE, the city developed as a regional epicenter through trade networks, dynastic politics, and monumental architecture. Today, the site is",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 27 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041806/anatomy-of-a-maya-city-the-urban-structure-of-copan-in-honduras",
-        "image_url": "https://images.adsttc.com/media/images/6a11/fb85/fd52/9201/89f2/21b2/large_jpg/the-anatomy-of-a-mayan-city-copan-honduras-through-the-lens-of-contemporary-urban-theory_1.jpg?1779563403",
+        "published_at": "Thu, 28 May 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041936/herzog-and-de-meurons-nearly-completed-triangle-tower-and-omas-urban-vision-for-rome-this-weeks-review",
+        "image_url": "https://images.adsttc.com/media/images/6a17/9234/fd52/9207/909d/2e57/large_jpg/herzog-and-de-meurons-nearly-completed-triangle-tower-and-omas-urban-vision-for-rome-this-weeks-review_1.jpg?1779929659",
         "impact": 4
       },
       {
-        "title": "When Architecture Moves: Kinetic Design and the Rituals of Space",
-        "summary": "For centuries, architecture has been defined by unmoving permanence. A building is assumed to be fixed, its walls and foundation immobile in space. A growing number of architects are now challenging this assumption by incorporating movement into the very fabric and tectonic structures of buildings.",
+        "title": "\"The Frustration Became a Design Brief\": Why an Architect Left 20 Years of Practice to Map the World",
+        "summary": "Karl van Es spent twenty years as a practicing architect before walking away to solve a problem every architect faces: the resources to travel like a professional simply do not exist. Mainstream guidebooks and travel apps rarely highlight the buildings that truly matter to the architectural community. Åvontuura was bor",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 27 May 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041693/when-architecture-moves-kinetic-design-and-the-rituals-of-space",
-        "image_url": "https://images.adsttc.com/media/images/6a0d/9893/fd52/9279/59be/b030/large_jpg/kinetic-architecture-rituals-of-motion_3.jpg?1779275929",
+        "published_at": "Thu, 28 May 2026 01:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041463/the-frustration-became-a-design-brief-why-an-architect-left-20-years-of-practice-to-map-the-world",
+        "image_url": "https://images.adsttc.com/media/images/6a02/eb48/fda2/da01/89bd/d25a/large_jpg/the-frustration-became-a-design-brief-why-an-architect-left-20-years-of-practice-to-map-the-world_9.jpg?1778576207",
         "impact": 4
       },
       {
@@ -399,9 +388,31 @@
         "source_url": "https://www.dezeen.com/2026/05/21/centre-pompidou-hanwha-seoul-wilmotte-associes/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
+      },
+      {
+        "title": "Kengo Kuma & Associates designs its first museum building in the US for Pennsylvania",
+        "summary": "Architecture studio Kengo Kuma &#38; Associates and landscape design office Field Operations have released designs for a vernacular expansion to the Brandywine Conservancy &#38; Museum of Art outside of Philadelphia, USA. The project, designed in association with Schwartz/Silver Architects Inc, will consist of adding a",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 20 May 2026 18:59:45 +0000",
+        "source_url": "https://www.dezeen.com/2026/05/20/kengo-kuma-associates-pennsylvania-brandywine-conservancy-museum-of-art/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Complexity, trust and the growing demand for bridge launches",
+        "summary": "Bridge launches are highly technical engineering operations that involve moving a pre-assembled bridge structure into its final position, often over obstacles like rivers, motorways or operational railways. While this method can reduce on-site construction time and minimise disruption to existing infrastructure, it int",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 28 May 2026 03:00:45 +0000",
+        "source_url": "https://www.newcivilengineer.com/in-depth/complexity-trust-and-the-growing-demand-for-bridge-launches-28-05-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/260512_CuzonNo2Completion_Drone_007-4032x2268-09749dd-scaled-1-2-1024x683.webp",
+        "impact": 5
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
@@ -425,36 +436,25 @@
         "impact": 4
       },
       {
-        "title": "Oldham Council set to launch £20M highways framework",
-        "summary": "Oldham Metropolitan Borough Council has issued a pipeline notice for a potential £20M highways improvement framework covering civil engineering construction works across north east Greater Manchester. The post Oldham Council set to launch £20M highways framework appeared first on New Civil Engineer.",
+        "title": "Signs of life outside data centers in latest construction data",
+        "summary": "Rising fuel prices will take a toll on other materials&rsquo; costs in the second half of the year, according to construction data provider Gordian.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 26 May 2026 13:56:16 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/oldham-council-set-to-launch-20m-highways-framework-26-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/Oldham-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 28 May 2026 10:47:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-economic-report-data-centers-takeaways/821347/",
+        "image_url": "https://imgproxy.divecdn.com/nmDFfpHXOKVgNF05jXUnteg0jZombGM1ViF4VbQzxOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzI2NTc3MTk1LmpwZw==.webp",
+        "impact": 3
       },
       {
         "title": "Gilbane breaks ground on $450M Philadelphia cancer lab",
-        "summary": "Bill Gates-backed TerraPower Isotopes tapped the Providence, Rhode Island-based contractor to head up preconstruction and construction of the core and shell building.",
+        "summary": "Bill Gates-backed TerraPower Isotopes tapped the contractor to head up preconstruction and construction of the core and shell building.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
         "published_at": "Wed, 27 May 2026 17:14:19 -0400",
         "source_url": "https://www.constructiondive.com/news/gilbane-breaks-ground-philadelphia-cancer-lab/821306/",
         "image_url": "https://imgproxy.divecdn.com/zNo6fTTZ6Dxk9CGI6BsD2-WLISqhpGh4C4kPhcLLp2c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UUElfQmVsbHdldGhlcl9EaXN0cmljdF9SZW5kZXJpbmcuanBn.webp",
-        "impact": 3
-      },
-      {
-        "title": "C-suite construction execs stay bullish on data center boom",
-        "summary": "Leaders at publicly traded companies reported the market continues to grow their bottom lines even as risks and challenges begin to emerge.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 27 May 2026 12:56:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-execs-bullish-data-center-boom-earnings/821238/",
-        "image_url": "https://imgproxy.divecdn.com/sIkfPI2lPKoysec1cS7Oi5e6FycV9vcNZMM57VS_UEo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc1ODc2MjE4LmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -471,46 +471,46 @@
         "impact": 5
       },
       {
-        "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
-        "summary": "arXiv:2605.26256v1 Announce Type: new Abstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than following generic instruction or recognizing object categories. In real-world s",
+        "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+        "summary": "arXiv:2605.27566v1 Announce Type: new Abstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tension: static benchmarks encourage benchmark overfitting, while uncalibrated generators obscure algorithmic capability with s",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 27 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.26256",
+        "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.27566",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Experiments in Agentic AI for Science",
-        "summary": "arXiv:2605.26305v1 Announce Type: new Abstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing Python-based local orchestrators to invoke large language model (LLM) cl",
+        "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+        "summary": "arXiv:2605.27567v1 Announce Type: new Abstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models plateau on simple causal graphs and degrade as complexity grows, but why they ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 27 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.26305",
+        "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.27567",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "UnityMAS-O: A General RL Optimization Framework for LLM-Based Multi-Agent Systems",
-        "summary": "arXiv:2605.26646v1 Announce Type: new Abstract: LLM-based multi-agent systems decompose complex tasks into interacting roles, but most remain manually orchestrated by prompts, tools, and control rules, while agents are rarely optimized through a unified reinforcement learning interface. Existing RL post-training framew",
+        "title": "Voluntary Collusion with Secret Tools in Competing LLM Agents",
+        "summary": "arXiv:2605.27593v1 Announce Type: new Abstract: Even when a tool is explicitly described as unfair and harmful to others, ostensibly safety-aligned LLM agents still voluntarily engage in secret collusion whenever doing so confers a strategic advantage. To investigate this phenomenon, we introduce an empirical framework",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 27 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.26646",
+        "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.27593",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MemFail: Stress-Testing Failure Modes of LLM Memory Systems",
-        "summary": "arXiv:2605.26667v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on external memory systems to remain consistent across long-horizon interactions, but little empirical work has been done to understand the specific failure modes and design choices that these systems present. Existing b",
+        "title": "Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems",
+        "summary": "arXiv:2605.27766v1 Announce Type: new Abstract: LLM safety evaluations predominantly test models in isolation, yet deployed AI agents increasingly operate within persistent social environments alongside other agents. We introduce a Moltbook-style simulation platform where thousands of LLM agents interact across communi",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 27 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.26667",
+        "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.27766",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
