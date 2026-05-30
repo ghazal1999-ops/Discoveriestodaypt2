@@ -1,8 +1,19 @@
 {
   "date": "2026-05-30",
-  "last_updated": "2026-05-30 00:07 UTC",
+  "last_updated": "2026-05-30 23:59 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Breakthrough Technique Reveals Atomic Secrets of Record-Breaking Superconductors",
+        "summary": "Scientists have achieved a first in studying lanthanum superhydrides, a class of materials that could help unlock superconductivity at much higher temperatures. The dream of transmitting electricity without energy loss has driven decades of superconductivity research. Some of the most promising candidates yet are super",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sat, 30 May 2026 12:17:21 +0000",
+        "source_url": "https://scitechdaily.com/breakthrough-technique-reveals-atomic-secrets-of-record-breaking-superconductors/",
+        "image_url": "https://scitechdaily.com/images/Artistic-Representation-of-the-Interior-of-a-Diamond-Anvil-Cell-777x518.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
         "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining vitamin K with components related to vitamin A, the researchers developed compounds t",
@@ -12,6 +23,17 @@
         "published_at": "Wed, 27 May 2026 00:02:46 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/glowing-human-brain-signals.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists Challenge a 70-Year-Old Theory of Language With a Surprising Discovery",
+        "summary": "A new study challenges the widely accepted idea that word meanings are organized around emotion. After analyzing billions of words, scientists found that language may be shaped by something more basic: the need for safety. Researchers at the University of Vermont have found a new way to understand language, challenging",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sat, 30 May 2026 11:07:15 +0000",
+        "source_url": "https://scitechdaily.com/scientists-challenge-a-70-year-old-theory-of-language-with-a-surprising-discovery/",
+        "image_url": "https://scitechdaily.com/images/Man-Speaking-Language-Letters-777x518.jpg",
         "impact": 5
       },
       {
@@ -35,42 +57,9 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260525000457.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/insect-with-giant-claws.webp",
         "impact": 5
-      },
-      {
-        "title": "It’s Alive? Surprising Discovery Changes What We Know About Fog",
-        "summary": "Scientists discovered that fog droplets can host living bacteria that grow and help remove harmful pollutants from the atmosphere, revealing fog as a surprisingly active microbial environment. Every breath you take may contain microscopic hitchhikers floating through the atmosphere. Scientists have known for years that",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 29 May 2026 22:38:14 +0000",
-        "source_url": "https://scitechdaily.com/its-alive-surprising-discovery-changes-what-we-know-about-fog/",
-        "image_url": "https://scitechdaily.com/images/Foggy-Weather-Field-Outside-777x518.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Brain Study Overturns Long-Held Beliefs About How Humans Learn Speech",
-        "summary": "Scientists have discovered that the brain’s sensory systems play a much larger role in speech learning than previously believed. New research suggests that learning to speak a new language, or recovering speech after injury, relies more heavily on the brain’s sensory systems than on regions responsible for controlling ",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 29 May 2026 19:23:25 +0000",
-        "source_url": "https://scitechdaily.com/brain-study-overturns-long-held-beliefs-about-how-humans-learn-speech/",
-        "image_url": "https://scitechdaily.com/images/Lip-and-Tongue-Position-During-the-Production-of-Vowels-777x823.jpg",
-        "impact": 5
       }
     ],
     "tech": [
-      {
-        "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
-        "summary": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 28 May 2026 10:30:00 +0000",
-        "source_url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
-        "image_url": "https://media.wired.com/photos/6a173c117ababccb510cce19/191:100/w_1280,c_limit/Amazon-AI-Future-Business-Ratul-Giacomo-Sesh-in-front-of-RNG-racks3.jpg",
-        "impact": 4
-      },
       {
         "title": "Botnet of more than 17 million devices dismantled",
         "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
@@ -114,6 +103,17 @@
         "source_url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
         "impact": 3
+      },
+      {
+        "title": "Do You Actually Need to Pay for Transcription Software?",
+        "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sat, 30 May 2026 09:30:00 +0000",
+        "source_url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+        "image_url": "https://media.wired.com/photos/6a16ee1164b9036ecc8e9699/191:100/w_1280,c_limit/GettyImages-1241968547.jpg",
+        "impact": 3
       }
     ],
     "medicine": [
@@ -127,6 +127,17 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260526233632.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
         "impact": 5
+      },
+      {
+        "title": "New AI approach aims to predict radiation dose before therapy in advanced prostate cancer",
+        "summary": "A new machine-learning approach for prostate-specific membrane antigen (PSMA) treatment of metastatic castration-resistant prostate cancer (mCRPC) could estimate radiation dose to tumors and healthy organs before therapy begins. Using data already available from pre-therapy PET/CT scans, this novel prediction tool coul",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 30 May 2026 18:10:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-ai-approach-aims-dose-therapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-approach-aims-t.jpg",
+        "impact": 4
       },
       {
         "title": "Teclistamab extends remission in relapsed myeloma, with 70% progression-free at 18 months",
@@ -159,17 +170,6 @@
         "published_at": "Fri, 29 May 2026 14:40:09 EDT",
         "source_url": "https://medicalxpress.com/news/2026-05-patients-functional-hepatitis-weeks-bepirovirsen.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/liver-genes.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Analysis reveals consumer wearables emerge as the new health care gatekeepers",
-        "summary": "A News and Perspectives expert analysis on consumer wearable platforms' forays into the clinical health care space. Authored by MedTech expert Blythe Karow, MBA, \"Meet the New Health Care Gatekeeper: Your Wearable\" lays out the implications of wearable tech companies owning the first conversation about a patient's heal",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 29 May 2026 11:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-analysis-reveals-consumer-wearables-emerge.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/wearable-sensor.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "This Week In Space podcast: Episode 212 — Kabooms, Starship, and a Moon Base",
+        "summary": "On Episode 212 of This Week In Space, Rod Pyle and Tariq Malik are joined by Space.com's Mike Wall to discuss the loss of Blue Origin's New Glenn rocket.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 30 May 2026 15:24:33 +0000",
+        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-212-kabooms-starship-and-a-moon-base",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/fSnAKsewzd88ETkQxHmxLY-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
         "summary": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across",
         "category": "Space",
@@ -273,17 +284,6 @@
         "published_at": "Fri, 29 May 2026 18:29:54 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-shenzhou-21-astronauts-return-to-earth-in-borrowed-spacecraft-video",
         "image_url": "https://cdn.mos.cms.futurecdn.net/Mph77DJiA8YyPKRgpUWoVM-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit",
-        "summary": "A United Launch Alliance Atlas V rocket launched 29 Amazon Leo internet satellites to orbit on Friday night (May 28).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 29 May 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3hJRRYE8kdzy7c5kWKuJyL-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -368,28 +368,6 @@
         "impact": 4
       },
       {
-        "title": "Concéntrico Festival 2026 Unveils 24 Urban Installations Across Logroño, Spain",
-        "summary": "Concéntrico Festival 2026 will take place in Logroño, Spain, from June 18 to 23, transforming the city into a large-scale laboratory for architecture, design, and urban experimentation. Over six days, more than twenty interventions will be distributed across squares, vacant plots, streets, bridges, and emblematic space",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 29 May 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041979/concentrico-festival-2026-unveils-24-urban-installations-across-logrono-spain",
-        "image_url": "https://images.adsttc.com/media/images/6a18/c92a/fd52/922d/0b0b/9034/large_jpg/concentrico-festival-2026-unveils-24-urban-installations-across-logrono-spain_34.jpg?1780009272",
-        "impact": 4
-      },
-      {
-        "title": "AD Classics: Palmas 555 / Sordo Madaleno Arquitectos",
-        "summary": "Palmas 555 is a building that stands out in the urban landscape of Mexico City due to its special volumetry and innovative design. This corporate office building was designed and constructed by Juan Sordo Madaleno together with José Adolfo Wiechers and José Ignacio de Abiega as Associate Architects in 1975.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 29 May 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041834/ad-classics-palmas-555-sordo-madaleno-arquitectos",
-        "image_url": "https://images.adsttc.com/media/images/551a/9eb8/e58e/ce72/dc00/00d3/large_jpg/1975_PALMAS_JUAN_SORDO_MADALENO_WEB_B_W_PHOTO_by_Guillermo_Zamora_01.jpg?1427807904",
-        "impact": 4
-      },
-      {
         "title": "Dezeen Debate features \"proper dystopian\" Prairie Ark Gallery",
         "summary": "The latest edition of our Dezeen Debate newsletter features the Prairie Ark gallery by Chinese architecture studio Büro Ziyu Zhuang, which resembles a flying saucer. Subscribe to Dezeen Debate now. Located on the shores of Laoli Lake in Inner Mongolia, the futuristic design was intended to get people to escape their ro",
         "category": "Architecture",
@@ -398,6 +376,28 @@
         "published_at": "Tue, 26 May 2026 18:00:01 +0000",
         "source_url": "https://www.dezeen.com/2026/05/26/buro-ziyu-zhuang-prairie-ark-dezeen-debate/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "When Modernism Meets Local Resistance: Housing and Urban Friction in Latin America",
+        "summary": "Modern housing was one of the places where modernism made its boldest promise: that architecture could reshape not only the city, but the way people lived within it. As Argentine architectural historian Ramón Gutiérrez has argued, popular housing is \"the great unresolved subject, one that usually does not appear in his",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 30 May 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041759/when-modernism-meets-local-resistance-housing-and-urban-friction-in-latin-america",
+        "image_url": "https://images.adsttc.com/media/images/6a14/897b/fd52/9201/89f2/2447/large_jpg/when-modernism-meets-local-resistance-housing-and-urban-friction-in-latin-america_23.jpg?1779730820",
+        "impact": 4
+      },
+      {
+        "title": "UNStudio Reveals River-Oriented Master Plan for Former Industrial Site in Cluj-Napoca, Romania",
+        "summary": "A former industrial site along the Someș River in Cluj-Napoca, Romania, is being transformed into a large-scale mixed-use district that reconnects the city with its waterfront. Designed by UNStudio in collaboration with Felixx Landscape Architects and Planners for developers IULIUS and Atterbury Europe, the RIVUS proje",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 29 May 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041996/unstudio-reveals-river-oriented-master-plan-for-former-industrial-site-in-cluj-napoca-romania",
+        "image_url": "https://images.adsttc.com/media/images/6a19/4a56/03af/2a01/7dde/71a4/large_jpg/unstudio-reveals-river-oriented-master-plan-for-former-industrial-site-in-cluj-napoca-romania_8.jpg?1780042336",
         "impact": 4
       }
     ],
@@ -471,48 +471,48 @@
         "impact": 5
       },
       {
-        "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
-        "summary": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a ",
+        "title": "Warp’s big bet on building open source with GPT-5.5",
+        "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 29 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.28855",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 27 May 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/warp",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7H0xxotNq29rPNCbEeOmXP/13f456fbb5b2c39b6cea84ce6647dafc/oai_Warp_SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
-        "summary": "arXiv:2605.28978v1 Announce Type: new Abstract: Finite Element Analysis (FEA) serves as the cornerstone of modern engineering design. However, its workflow is inherently complex and relies heavily on domain expertise. Although recent efforts have integrated Large Language Models (LLMs) into FEA, existing approaches fac",
+        "title": "Roundtables: Can AI Learn to Understand the World?",
+        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven,",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 29 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.28978",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 21 May 2026 20:41:05 +0000",
+        "source_url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/thumbnail-Test.png?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching",
-        "summary": "arXiv:2605.29055v1 Announce Type: new Abstract: Hallucination remains a major reliability barrier for production LLM systems, particularly in multi-agent pipelines where unsupported claims can propagate unchecked across stages. This paper adapts a HOPE-inspired Nested Learning architecture with Continuum Memory Systems",
+        "title": "A shared playbook for trustworthy third party evaluations",
+        "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 29 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.29055",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 29 May 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3iGaglpVIr4csE6CvQuo7Q/61c51a8c408555907d6b0588f8d40172/SEO-shared-playbook-for-trustworthy-third-party-evaluations.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Beyond Consensus: Trace-Level Synthesis in Mixture of Agents",
-        "summary": "arXiv:2605.29116v1 Announce Type: new Abstract: When multiple LLM agents solve the same problem, standard practice compresses each agent's reasoning into a majority vote or layered synthesis, treating agreement as the finish line. We show this is unnecessarily lossy: an LLM aggregator that reads complete reasoning trac",
+        "title": "Building self-improving tax agents with Codex",
+        "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 29 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.29116",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 27 May 2026 07:00:00 GMT",
+        "source_url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3upo248JfOrgp0fahNLrkt/10f9e23a8be06e38fb21d29faf5e320d/SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
