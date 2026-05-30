@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-29",
-  "last_updated": "2026-05-29 00:09 UTC",
+  "date": "2026-05-30",
+  "last_updated": "2026-05-30 00:07 UTC",
   "categories": {
     "science": [
       {
@@ -37,25 +37,25 @@
         "impact": 5
       },
       {
-        "title": "MIT scientists discover amino acid that helps the gut heal itself",
-        "summary": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researc",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 21 May 2026 00:40:33 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/human-intestine-holographic-scan-projection.webp",
-        "impact": 5
-      },
-      {
-        "title": "Magnon Breakthrough Could Shrink Quantum Computers to the Size of a Penny",
-        "summary": "Physicists at the University of Vienna have discovered magnons with lifespans that are one hundred times longer. Magnons are tiny waves of magnetization that move through solid magnetic materials, similar to ripples spreading across water after a stone falls in. Unlike photons, which can move through empty space or opt",
+        "title": "It’s Alive? Surprising Discovery Changes What We Know About Fog",
+        "summary": "Scientists discovered that fog droplets can host living bacteria that grow and help remove harmful pollutants from the atmosphere, revealing fog as a surprisingly active microbial environment. Every breath you take may contain microscopic hitchhikers floating through the atmosphere. Scientists have known for years that",
         "category": "Science",
         "source": "scitechdaily.com",
         "journal": "scitechdaily.com",
-        "published_at": "Thu, 28 May 2026 18:25:03 +0000",
-        "source_url": "https://scitechdaily.com/magnon-breakthrough-could-shrink-quantum-computers-to-the-size-of-a-penny/",
-        "image_url": "https://scitechdaily.com/images/Quantum-Computer-Data-Technology-777x453.jpg",
+        "published_at": "Fri, 29 May 2026 22:38:14 +0000",
+        "source_url": "https://scitechdaily.com/its-alive-surprising-discovery-changes-what-we-know-about-fog/",
+        "image_url": "https://scitechdaily.com/images/Foggy-Weather-Field-Outside-777x518.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Brain Study Overturns Long-Held Beliefs About How Humans Learn Speech",
+        "summary": "Scientists have discovered that the brain’s sensory systems play a much larger role in speech learning than previously believed. New research suggests that learning to speak a new language, or recovering speech after injury, relies more heavily on the brain’s sensory systems than on regions responsible for controlling ",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 29 May 2026 19:23:25 +0000",
+        "source_url": "https://scitechdaily.com/brain-study-overturns-long-held-beliefs-about-how-humans-learn-speech/",
+        "image_url": "https://scitechdaily.com/images/Lip-and-Tongue-Position-During-the-Production-of-Vowels-777x823.jpg",
         "impact": 5
       }
     ],
@@ -72,47 +72,47 @@
         "impact": 4
       },
       {
-        "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
-        "summary": "The launch of the Ojai minivan robotaxi comes after years of development and testing, but arrives amid a challenging time for Waymo.",
+        "title": "Botnet of more than 17 million devices dismantled",
+        "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 29 May 2026 18:46:33 +0000",
+        "source_url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Startup offers free home cleaning—if it can record it all for robot training",
+        "summary": "The latest twist in paying humans to wear head cameras for robot training data.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 29 May 2026 16:16:14 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-9.24.24-AM-1152x648.png",
+        "impact": 3
+      },
+      {
+        "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+        "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 28 May 2026 16:52:48 +0000",
-        "source_url": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-zeekr-robotaxi.jpg?resize=1200,900",
+        "published_at": "Fri, 29 May 2026 17:27:13 +0000",
+        "source_url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-        "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across deskto",
+        "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+        "summary": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-05-28T16:14:07-04:00",
-        "source_url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "The $6 Billion Chinese Startup Trying to Build Hands for Every Robot",
-        "summary": "LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories—and eventually replace human labor altogether.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 28 May 2026 19:14:31 +0000",
-        "source_url": "https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/",
-        "image_url": "https://media.wired.com/photos/6a173a47faa2148b4ab454f6/191:100/w_1280,c_limit/Made-In-China-6-Billion-Chinese-Startup-Making-Hands-for-Humanoids-Business-1480052903.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
-        "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 28 May 2026 15:00:00 +0000",
-        "source_url": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
-        "image_url": "https://media.wired.com/photos/6a1765da6f62ca56a1fdfc3c/191:100/w_1280,c_limit/OJAI_EXT_Rider_3.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 29 May 2026 17:03:39 +0000",
+        "source_url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
         "impact": 3
       }
     ],
@@ -129,47 +129,47 @@
         "impact": 5
       },
       {
-        "title": "Ocrelizumab cuts disability progression in primary progressive MS trial",
-        "summary": "A major international Phase III clinical trial, led by Queen Mary University of London, has found that ocrelizumab—a medication already prescribed to some patients with MS—significantly slows disability progression in people with primary progressive multiple sclerosis (PPMS), including older patients and those with mor",
+        "title": "Teclistamab extends remission in relapsed myeloma, with 70% progression-free at 18 months",
+        "summary": "Patients with relapsed multiple myeloma treated with the immunotherapy teclistamab lived significantly longer and remained in remission far longer than those receiving standard therapies, according to results from a major international Phase III clinical trial published in The New England Journal of Medicine and presen",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 28 May 2026 18:30:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-ocrelizumab-disability-primary-ms-trial.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/wheelchair-user.jpg",
+        "published_at": "Fri, 29 May 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-teclistamab-remission-relapsed-myeloma-free.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2015/multiplemyel.jpg",
         "impact": 4
       },
       {
-        "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
-        "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining vitamin K with components related to vitamin A, the researchers developed compounds t",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 27 May 2026 00:02:46 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/glowing-human-brain-signals.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists discover the nutrient that can supercharge cellular energy",
-        "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 21 May 2026 01:34:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
-        "impact": 4
-      },
-      {
-        "title": "Common anemia medication shows unexpected potential in cancer treatment",
-        "summary": "Common medications used to treat anemia may also slow down cancer cell growth, according to new research from Finland. Researchers from the University of Oulu and the University of Eastern Finland discovered that these drugs affect cell metabolism and growth in ways previously unknown. The findings, published in Redox ",
+        "title": "RNA therapy for genetic heart failure moves closer to patients after lab gains",
+        "summary": "Using patient-derived cardiac tissue and stem cell-based models, the team of translational researchers demonstrated that targeting the genetic cause of disease improved cellular abnormalities and identified the biological pathways involved. The results of this study were published in Signal Transduction and Targeted Th",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 28 May 2026 18:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-common-anemia-medication-unexpected-potential.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/common-anemia-medicati.jpg",
+        "published_at": "Fri, 29 May 2026 15:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-rna-therapy-genetic-heart-failure.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-as-a-novel.jpg",
+        "impact": 4
+      },
+      {
+        "title": "One in five patients achieve functional hepatitis B cure after 24 weeks of bepirovirsen",
+        "summary": "In an editorial published in the New England Journal of Medicine, University of Michigan Health hepatologist Anna S. Lok, M.D., hails newly announced results of the B-Well clinical trials as \"a major step toward a functional cure for hepatitis B virus infection.\"",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 29 May 2026 14:40:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-patients-functional-hepatitis-weeks-bepirovirsen.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/liver-genes.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Analysis reveals consumer wearables emerge as the new health care gatekeepers",
+        "summary": "A News and Perspectives expert analysis on consumer wearable platforms' forays into the clinical health care space. Authored by MedTech expert Blythe Karow, MBA, \"Meet the New Health Care Gatekeeper: Your Wearable\" lays out the implications of wearable tech companies owning the first conversation about a patient's heal",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 29 May 2026 11:20:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-analysis-reveals-consumer-wearables-emerge.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/wearable-sensor.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
+        "summary": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 29 May 2026 21:24:11 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+        "impact": 4
+      },
+      {
+        "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
+        "summary": "NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in [&#82",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 29 May 2026 20:49:43 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/crew-11-hq-visit-advisory-may-29.jpg",
+        "impact": 4
+      },
+      {
         "title": "I Am Artemis: Daniel Stubbs",
         "summary": "Listen to this audio excerpt from Daniel Stubbs, NASA aerospace engineer: If you’ve driven through a cloud of dust and dirt that temporarily obscured your view, you’ve gotten a partial picture of a potential problem that NASA’s human landing systems for Artemis will face when they land on the Moon. Daniel Stubbs, an ae",
         "category": "Space",
@@ -243,47 +265,25 @@
         "impact": 4
       },
       {
-        "title": "NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds",
-        "summary": "NASA’s Nancy Grace Roman Space Telescope is poised to make a major leap in the hunt for worlds outside our solar system, known as exoplanets. Scientists expect the mission to reveal around 100,000 worlds — a staggering leap compared to the nearly 6,300 found so far thanks to NASA missions working in tandem with other [",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 28 May 2026 14:40:33 +0000",
-        "source_url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/milky-way-zones-mkv.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Companies like SpaceX want electromagnetic catapults on the moon. Could they be used as weapons?",
-        "summary": "A new report stresses the strategic and security implications of placing mass drivers on the moon by arguing that these launchers could serve as valuable first strike weapons systems.",
+        "title": "China's Shenzhou 21 astronauts return to Earth after being briefly 'stranded', wrapping up record-breaking mission (video)",
+        "summary": "China's Shenzhou 21 astronauts returned to Earth on Friday (May 29), wrapping up a record-breaking, and very eventful, space mission.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 28 May 2026 22:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/satellites/companies-like-spacex-want-electromagnetic-catapults-on-the-moon-could-they-be-used-as-weapons",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/XNwvSrEftRirmPLypnYqDQ-1280-80.jpg",
+        "published_at": "Fri, 29 May 2026 18:29:54 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-shenzhou-21-astronauts-return-to-earth-in-borrowed-spacecraft-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Mph77DJiA8YyPKRgpUWoVM-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "NASA is hatching a 'fast-paced plan' to boost this space telescope. But first, they'll have to find it",
-        "summary": "NASA is working hard to predict where in Earth orbit its Swift space telescope will be this fall, so that a private spacecraft can meet up with the observatory and boost its altitude.",
+        "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit",
+        "summary": "A United Launch Alliance Atlas V rocket launched 29 Amazon Leo internet satellites to orbit on Friday night (May 28).",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 28 May 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/nqSn3Y5w4Nfuj7pfjQgaSa-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "What's next for SpaceX's Starship V3 megarocket after its historic debut flight?",
-        "summary": "SpaceX's \"V3\" Starship megarocket did pretty well on its debut flight last week. What's next for the powerful next-gen vehicle?",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 28 May 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-v3-megarocket-after-its-historic-debut-flight",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/rJfDYZCkZHCgsNTJQ3cjs5-1280-80.jpg",
+        "published_at": "Fri, 29 May 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/3hJRRYE8kdzy7c5kWKuJyL-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -297,6 +297,17 @@
         "published_at": "Thu, 28 May 2026 22:06:00 +0000",
         "source_url": "https://www.universetoday.com/articles/jwst-studies-a-dark-and-airless-super-earth",
         "image_url": "https://www.universetoday.com/article_images/1280px-PIA23130-Exoplanet-LHS3844b-ArtistConcept-20190819_20260528_201726.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Red dwarf stars are cosmic killers that eat their own planets",
+        "summary": "Astronomers have discovered the first evidence that tiny red dwarf stars can devour their own planets.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 29 May 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/stars/red-dwarf-stars-are-cosmic-killers-that-eat-their-own-planets",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Koq2z4nWjEQkTUWGeb6LER-1280-80.png",
         "impact": 4
       },
       {
@@ -331,40 +342,51 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-22-31/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Moon_first-quarter_10-pm-EDT-May-23-2026_NASA-Visualization_FEATURED.jpg",
         "impact": 4
-      },
-      {
-        "title": "Earthly Hors d'oeuvres For Hungry Red Dwarfs",
-        "summary": "We know that stars can engulf planets because stars that swell up to become red giants overwhelm any close-in planets. The Sun will do this to Venus, Mercury, and possibly Earth in a few billion years. But research shows that it can happen when low-mass stars first enter the main sequence. Lithium gives it away.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 28 May 2026 21:46:28 +0000",
-        "source_url": "https://www.universetoday.com/articles/earthly-hors-doeuvres-for-hungry-red-dwarfs",
-        "image_url": "https://www.universetoday.com/article_images/Red_dwarf_20260528_193757.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Herzog & de Meuron's Nearly Completed Triangle Tower and OMA's Urban Vision for Rome: This Week's Review",
-        "summary": "This week, we revisited the ideas currently shaping the design of 21st-century cities, with a view toward a longer timeframe than that which characterised modern design. These examples of today's urban design point toward the cities of tomorrow, seeking to reflect collective memory and social identity while addressing ",
+        "title": "Why Smart Lockers Are Architecture’s New Micro-Infrastructure",
+        "summary": "How can the most structured elements in architecture give rise to unplanned forms of everyday life? \"Spontaneous order\" describes how structured systems can generate unplanned but coherent patterns of behavior. In urban discourse, it is often used to describe cities: frameworks of streets, plots, and buildings that are",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 28 May 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041936/herzog-and-de-meurons-nearly-completed-triangle-tower-and-omas-urban-vision-for-rome-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6a17/9234/fd52/9207/909d/2e57/large_jpg/herzog-and-de-meurons-nearly-completed-triangle-tower-and-omas-urban-vision-for-rome-this-weeks-review_1.jpg?1779929659",
+        "published_at": "Fri, 29 May 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1041781/why-smart-lockers-are-architectures-new-micro-infrastructure",
+        "image_url": "https://images.adsttc.com/media/images/6a10/5f85/093e/9201/8986/5c23/large_jpg/why-smart-lockers-are-architectures-new-micro-infrastructure_8.jpg?1779457934",
+        "impact": 5
+      },
+      {
+        "title": "More Architecture for Less: SSdH and the Latent Potential of Existing Buildings",
+        "summary": "Amid growing recognition of architecture's responsibility toward environmental and planetary ecologies, contemporary practice is increasingly oriented toward working with what already exists—its material, spatial, and historical conditions. Within this shift, architecture and design aesthetics are increasingly about re",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 29 May 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041710/more-architecture-for-less-ssdh-and-the-latent-potential-of-existing-buildings",
+        "image_url": "https://images.adsttc.com/media/images/6a0d/fda8/093e/9201/8986/5297/large_jpg/more-architecture-for-less-works-of-ssdh_5.jpg?1779301818",
         "impact": 4
       },
       {
-        "title": "\"The Frustration Became a Design Brief\": Why an Architect Left 20 Years of Practice to Map the World",
-        "summary": "Karl van Es spent twenty years as a practicing architect before walking away to solve a problem every architect faces: the resources to travel like a professional simply do not exist. Mainstream guidebooks and travel apps rarely highlight the buildings that truly matter to the architectural community. Åvontuura was bor",
+        "title": "Concéntrico Festival 2026 Unveils 24 Urban Installations Across Logroño, Spain",
+        "summary": "Concéntrico Festival 2026 will take place in Logroño, Spain, from June 18 to 23, transforming the city into a large-scale laboratory for architecture, design, and urban experimentation. Over six days, more than twenty interventions will be distributed across squares, vacant plots, streets, bridges, and emblematic space",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 28 May 2026 01:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041463/the-frustration-became-a-design-brief-why-an-architect-left-20-years-of-practice-to-map-the-world",
-        "image_url": "https://images.adsttc.com/media/images/6a02/eb48/fda2/da01/89bd/d25a/large_jpg/the-frustration-became-a-design-brief-why-an-architect-left-20-years-of-practice-to-map-the-world_9.jpg?1778576207",
+        "published_at": "Fri, 29 May 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041979/concentrico-festival-2026-unveils-24-urban-installations-across-logrono-spain",
+        "image_url": "https://images.adsttc.com/media/images/6a18/c92a/fd52/922d/0b0b/9034/large_jpg/concentrico-festival-2026-unveils-24-urban-installations-across-logrono-spain_34.jpg?1780009272",
+        "impact": 4
+      },
+      {
+        "title": "AD Classics: Palmas 555 / Sordo Madaleno Arquitectos",
+        "summary": "Palmas 555 is a building that stands out in the urban landscape of Mexico City due to its special volumetry and innovative design. This corporate office building was designed and constructed by Juan Sordo Madaleno together with José Adolfo Wiechers and José Ignacio de Abiega as Associate Architects in 1975.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 29 May 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041834/ad-classics-palmas-555-sordo-madaleno-arquitectos",
+        "image_url": "https://images.adsttc.com/media/images/551a/9eb8/e58e/ce72/dc00/00d3/large_jpg/1975_PALMAS_JUAN_SORDO_MADALENO_WEB_B_W_PHOTO_by_Guillermo_Zamora_01.jpg?1427807904",
         "impact": 4
       },
       {
@@ -377,42 +399,9 @@
         "source_url": "https://www.dezeen.com/2026/05/26/buro-ziyu-zhuang-prairie-ark-dezeen-debate/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Translucent Centre Pompidou Hanwha set to open in Seoul",
-        "summary": "The Centre Pompidou Hanwha designed by French architecture studio Wilmotte &#38; Associés has been revealed ahead of its opening in Seoul, South Korea, next month. Set to open in Seoul's financial district on 4 June, the four-storey building contains two large galleries alongside a cafe, shop, restaurant and auditorium",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Thu, 21 May 2026 10:00:15 +0000",
-        "source_url": "https://www.dezeen.com/2026/05/21/centre-pompidou-hanwha-seoul-wilmotte-associes/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Kengo Kuma & Associates designs its first museum building in the US for Pennsylvania",
-        "summary": "Architecture studio Kengo Kuma &#38; Associates and landscape design office Field Operations have released designs for a vernacular expansion to the Brandywine Conservancy &#38; Museum of Art outside of Philadelphia, USA. The project, designed in association with Schwartz/Silver Architects Inc, will consist of adding a",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 20 May 2026 18:59:45 +0000",
-        "source_url": "https://www.dezeen.com/2026/05/20/kengo-kuma-associates-pennsylvania-brandywine-conservancy-museum-of-art/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Complexity, trust and the growing demand for bridge launches",
-        "summary": "Bridge launches are highly technical engineering operations that involve moving a pre-assembled bridge structure into its final position, often over obstacles like rivers, motorways or operational railways. While this method can reduce on-site construction time and minimise disruption to existing infrastructure, it int",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 28 May 2026 03:00:45 +0000",
-        "source_url": "https://www.newcivilengineer.com/in-depth/complexity-trust-and-the-growing-demand-for-bridge-launches-28-05-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/260512_CuzonNo2Completion_Drone_007-4032x2268-09749dd-scaled-1-2-1024x683.webp",
-        "impact": 5
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
@@ -432,29 +421,40 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/04/22/commerce_enr_ph_article2_trends_image_final.webp?crop=true&height=257&t=1776866100&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/05/21/zurich_enr_ph_fp2_image.webp?crop=true&height=257&t=1779383555&width=420",
         "impact": 4
       },
       {
-        "title": "Signs of life outside data centers in latest construction data",
-        "summary": "Rising fuel prices will take a toll on other materials&rsquo; costs in the second half of the year, according to construction data provider Gordian.",
+        "title": "Illinois starts critical $164M I-80 bridge project",
+        "summary": "The spans over the Des Plaines River are the final phase of the $1.3 billion multi-year plan to overhaul Interstate 80 through Illinois.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 28 May 2026 10:47:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-economic-report-data-centers-takeaways/821347/",
-        "image_url": "https://imgproxy.divecdn.com/nmDFfpHXOKVgNF05jXUnteg0jZombGM1ViF4VbQzxOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzI2NTc3MTk1LmpwZw==.webp",
+        "published_at": "Fri, 29 May 2026 14:40:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/illinois-i-80-bridge-des-plaines/821527/",
+        "image_url": "https://imgproxy.divecdn.com/gur24_ALF3bc3Xnszwc6Ulj-AsoNq_IYIzqphORGJ3o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmlkZ2VfUmVuZGVyaW5nLnBkZi5qcGc=.webp",
         "impact": 3
       },
       {
-        "title": "Gilbane breaks ground on $450M Philadelphia cancer lab",
-        "summary": "Bill Gates-backed TerraPower Isotopes tapped the contractor to head up preconstruction and construction of the core and shell building.",
+        "title": "‘Be a sponge’: How one project executive brings education and construction together",
+        "summary": "Erin Kenney, a project executive for Suffolk in West Palm Beach, Florida, emphasized the power of mentorship and finding your niche.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 27 May 2026 17:14:19 -0400",
-        "source_url": "https://www.constructiondive.com/news/gilbane-breaks-ground-philadelphia-cancer-lab/821306/",
-        "image_url": "https://imgproxy.divecdn.com/zNo6fTTZ6Dxk9CGI6BsD2-WLISqhpGh4C4kPhcLLp2c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UUElfQmVsbHdldGhlcl9EaXN0cmljdF9SZW5kZXJpbmcuanBn.webp",
+        "published_at": "Fri, 29 May 2026 14:21:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/be-a-sponge-women-in-construction/821511/",
+        "image_url": "https://imgproxy.divecdn.com/ebASckhTMEKoAmsc-Ag0hlorriqsMhfAn2P2pV5f4pI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80ODkwMTguanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "Transit, Amtrak cuts advance in House appropriations bill",
+        "summary": "The one-year bill cuts public transit funding by 22%, Amtrak by 69% and Capital Investment Grants by 78% for fiscal year 2027&nbsp;but puts &ldquo;a historic amount of funding&rdquo; into bridges.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 29 May 2026 10:06:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/transportation-funding-bill-house-appropriations/821469/",
+        "image_url": "https://imgproxy.divecdn.com/68-6E3lqUoVp8ymNJKHwhzEOL-iI36UyqICsjVz7ZIw/g:nowe:59:0/c:1772:1001/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDUtMjdfYXRfMTAuNDQuNTRBTS5wbmc=.webp",
         "impact": 3
       }
     ],
@@ -471,46 +471,46 @@
         "impact": 5
       },
       {
-        "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
-        "summary": "arXiv:2605.27566v1 Announce Type: new Abstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tension: static benchmarks encourage benchmark overfitting, while uncalibrated generators obscure algorithmic capability with s",
+        "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+        "summary": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 28 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.27566",
+        "published_at": "Fri, 29 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.28855",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
-        "summary": "arXiv:2605.27567v1 Announce Type: new Abstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models plateau on simple causal graphs and degrade as complexity grows, but why they ",
+        "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
+        "summary": "arXiv:2605.28978v1 Announce Type: new Abstract: Finite Element Analysis (FEA) serves as the cornerstone of modern engineering design. However, its workflow is inherently complex and relies heavily on domain expertise. Although recent efforts have integrated Large Language Models (LLMs) into FEA, existing approaches fac",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 28 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.27567",
+        "published_at": "Fri, 29 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.28978",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Voluntary Collusion with Secret Tools in Competing LLM Agents",
-        "summary": "arXiv:2605.27593v1 Announce Type: new Abstract: Even when a tool is explicitly described as unfair and harmful to others, ostensibly safety-aligned LLM agents still voluntarily engage in secret collusion whenever doing so confers a strategic advantage. To investigate this phenomenon, we introduce an empirical framework",
+        "title": "Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching",
+        "summary": "arXiv:2605.29055v1 Announce Type: new Abstract: Hallucination remains a major reliability barrier for production LLM systems, particularly in multi-agent pipelines where unsupported claims can propagate unchecked across stages. This paper adapts a HOPE-inspired Nested Learning architecture with Continuum Memory Systems",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 28 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.27593",
+        "published_at": "Fri, 29 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.29055",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems",
-        "summary": "arXiv:2605.27766v1 Announce Type: new Abstract: LLM safety evaluations predominantly test models in isolation, yet deployed AI agents increasingly operate within persistent social environments alongside other agents. We introduce a Moltbook-style simulation platform where thousands of LLM agents interact across communi",
+        "title": "Beyond Consensus: Trace-Level Synthesis in Mixture of Agents",
+        "summary": "arXiv:2605.29116v1 Announce Type: new Abstract: When multiple LLM agents solve the same problem, standard practice compresses each agent's reasoning into a majority vote or layered synthesis, treating agreement as the finish line. We show this is unnecessarily lossy: an LLM aggregator that reads complete reasoning trac",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 28 May 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.27766",
+        "published_at": "Fri, 29 May 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2605.29116",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
