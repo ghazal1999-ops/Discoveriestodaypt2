@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-30",
-  "last_updated": "2026-05-30 23:59 UTC",
+  "date": "2026-06-01",
+  "last_updated": "2026-06-01 00:05 UTC",
   "categories": {
     "science": [
       {
@@ -37,25 +37,25 @@
         "impact": 5
       },
       {
-        "title": "Scottish wrens may be evolving into new species through island gigantism",
-        "summary": "Tiny birds on remote Scottish islands are undergoing a dramatic evolutionary transformation. Scientists studying four isolated populations of British Wrens discovered that some island birds have grown astonishingly large — with the biggest St Kilda Wrens weighing more than twice as much as the smallest mainland birds. ",
+        "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+        "summary": "Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing clogging. The process was ",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 28 May 2026 08:49:31 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260528082453.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/juvenile-st-kilda-wren.webp",
+        "published_at": "Sun, 31 May 2026 10:22:38 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp",
         "impact": 5
       },
       {
-        "title": "100-million-year-old bug had crab-like claws unlike any known insect",
-        "summary": "Deep inside 100-million-year-old amber from Myanmar, scientists uncovered a bizarre ancient bug with clawed front legs that look more like a crab’s pincers than anything seen in modern insects. The discovery is so unusual that researchers say these crab-like “chelae” evolved independently in this lineage, making it onl",
+        "title": "The ocean's health may depend on a tiny microbe inside fish",
+        "summary": "A surprising new discovery suggests that tiny microbes living inside fish may be helping shape the chemistry of the world’s oceans. Scientists found evidence that bacteria in the guts of marine fish work alongside their hosts to produce calcium carbonate, a mineral that plays an important role in ocean health and carbo",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Mon, 25 May 2026 08:53:59 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260525000457.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/insect-with-giant-claws.webp",
+        "published_at": "Sun, 31 May 2026 07:52:17 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/gulf-toadfish-opsanus-beta.webp",
         "impact": 5
       }
     ],
@@ -83,28 +83,6 @@
         "impact": 3
       },
       {
-        "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-        "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 29 May 2026 17:27:13 +0000",
-        "source_url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Microsoft under fire for threatening security researcher with criminal investigation",
-        "summary": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 29 May 2026 17:03:39 +0000",
-        "source_url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
         "title": "Do You Actually Need to Pay for Transcription Software?",
         "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
         "category": "Tech",
@@ -113,6 +91,28 @@
         "published_at": "Sat, 30 May 2026 09:30:00 +0000",
         "source_url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
         "image_url": "https://media.wired.com/photos/6a16ee1164b9036ecc8e9699/191:100/w_1280,c_limit/GettyImages-1241968547.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+        "summary": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 29 May 2026 17:39:04 +0000",
+        "source_url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+        "image_url": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/191:100/w_1280,c_limit/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The $6 Billion Chinese Startup Trying to Build Hands for Every Robot",
+        "summary": "LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories—and eventually replace human labor altogether.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 28 May 2026 19:14:31 +0000",
+        "source_url": "https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/",
+        "image_url": "https://media.wired.com/photos/6a173a47faa2148b4ab454f6/191:100/w_1280,c_limit/Made-In-China-6-Billion-Chinese-Startup-Making-Hands-for-Humanoids-Business-1480052903.jpg",
         "impact": 3
       }
     ],
@@ -129,6 +129,39 @@
         "impact": 5
       },
       {
+        "title": "Long-term leukemia trial reveals MRD-triggered treatment may slow or prevent relapse",
+        "summary": "With the publication of the long-term data from the RELAZA2 study, a research program developed over many years by Dresden University Medicine for the treatment of leukemia patients, has reached an important milestone. The results demonstrate the potential of early, minimal residual disease (MRD)-guided therapy to dela",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 31 May 2026 11:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-term-leukemia-trial-reveals-mrd.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-cancer.jpg",
+        "impact": 4
+      },
+      {
+        "title": "New T-cell engager shows promise for advanced solid tumors",
+        "summary": "As part of a clinical study, the Early Clinical Trial Unit (ECTU) at NCT/UCC Dresden tested the cancer immunotherapy IMA401 for the first time in patients with advanced solid tumors. IMA401 is a so-called bispecific T-cell engager (TCER) that specifically links cancer cells with T cells, thereby directly activating the",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 31 May 2026 10:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-cell-engager-advanced-solid-tumors.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/tumor.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Gene test can safely spare many breast cancer patients of chemotherapy",
+        "summary": "Many people with breast cancer can safely avoid chemotherapy with the use of a gene test, potentially sparing them unnecessary side effects without increasing the risk of the cancer returning, a large international clinical trial led by UCL has found.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 31 May 2026 08:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-05-gene-safely-breast-cancer-patients.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-test-can-safely-s.jpg",
+        "impact": 4
+      },
+      {
         "title": "New AI approach aims to predict radiation dose before therapy in advanced prostate cancer",
         "summary": "A new machine-learning approach for prostate-specific membrane antigen (PSMA) treatment of metastatic castration-resistant prostate cancer (mCRPC) could estimate radiation dose to tumors and healthy organs before therapy begins. Using data already available from pre-therapy PET/CT scans, this novel prediction tool coul",
         "category": "Medicine",
@@ -137,39 +170,6 @@
         "published_at": "Sat, 30 May 2026 18:10:01 EDT",
         "source_url": "https://medicalxpress.com/news/2026-05-ai-approach-aims-dose-therapy.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-approach-aims-t.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Teclistamab extends remission in relapsed myeloma, with 70% progression-free at 18 months",
-        "summary": "Patients with relapsed multiple myeloma treated with the immunotherapy teclistamab lived significantly longer and remained in remission far longer than those receiving standard therapies, according to results from a major international Phase III clinical trial published in The New England Journal of Medicine and presen",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 29 May 2026 17:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-teclistamab-remission-relapsed-myeloma-free.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2015/multiplemyel.jpg",
-        "impact": 4
-      },
-      {
-        "title": "RNA therapy for genetic heart failure moves closer to patients after lab gains",
-        "summary": "Using patient-derived cardiac tissue and stem cell-based models, the team of translational researchers demonstrated that targeting the genetic cause of disease improved cellular abnormalities and identified the biological pathways involved. The results of this study were published in Signal Transduction and Targeted Th",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 29 May 2026 15:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-rna-therapy-genetic-heart-failure.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-as-a-novel.jpg",
-        "impact": 4
-      },
-      {
-        "title": "One in five patients achieve functional hepatitis B cure after 24 weeks of bepirovirsen",
-        "summary": "In an editorial published in the New England Journal of Medicine, University of Michigan Health hepatologist Anna S. Lok, M.D., hails newly announced results of the B-Well clinical trials as \"a major step toward a functional cure for hepatitis B virus infection.\"",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 29 May 2026 14:40:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-05-patients-functional-hepatitis-weeks-bepirovirsen.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/liver-genes.jpg",
         "impact": 4
       }
     ],
@@ -289,6 +289,17 @@
     ],
     "astronomy": [
       {
+        "title": "It Took a Cosmic Village to Shape Early Galaxies",
+        "summary": "An early galaxy cluster named after an Indian lake is teaching astronomers about influences on galaxy evolution in the infant Universe. Astronomer Ronaldo Laishram of the National Astronomical Observatory of Japan (NAOJ) used the Subaru Telescope’s wide-field camera, Hyper Suprime-Cam (HSC), to conduct a large sky surv",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sun, 31 May 2026 17:20:56 +0000",
+        "source_url": "https://www.universetoday.com/articles/it-took-a-cosmic-village-to-shape-early-galaxies",
+        "image_url": "https://www.universetoday.com/article_images/fig1e-20260525-science_20260530_210424.jpg",
+        "impact": 5
+      },
+      {
         "title": "JWST Studies a Dark and Airless Super-Earth",
         "summary": "There's a planet out there called LHS 3844 b, orbiting a star about 48 light-years away. The Transiting Exoplanet Survey Satellite (TESS) found it in 2018 when the planet transited across the face of its star. The James Webb Space Telescope zxeroed in on the planet and found it to be a barren, rocky place with no atmos",
         "category": "Astronomy",
@@ -331,40 +342,18 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/lost-in-the-star-clouds-a-milky-way-odyssey/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Star-clouds-Milky-Way-l-r-Sct-Gamma-Sct-Small-Sgr-May-14-2026-ST.webp",
         "impact": 4
-      },
-      {
-        "title": "This Week's Sky at a Glance, May 22 – 31",
-        "summary": "Venus and Jupiter — the Evening Star and the False Evening Star — draw closer together in the western twilight and point down to Mercury. The waxing Moon shows off its rich telescopic detail. The post This Week&#039;s Sky at a Glance, May 22 – 31 appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Fri, 22 May 2026 09:11:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-22-31/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Moon_first-quarter_10-pm-EDT-May-23-2026_NASA-Visualization_FEATURED.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Why Smart Lockers Are Architecture’s New Micro-Infrastructure",
-        "summary": "How can the most structured elements in architecture give rise to unplanned forms of everyday life? \"Spontaneous order\" describes how structured systems can generate unplanned but coherent patterns of behavior. In urban discourse, it is often used to describe cities: frameworks of streets, plots, and buildings that are",
+        "title": "Anatomy of a Maya City: The Urban Structure of Copán in Honduras",
+        "summary": "Deep in western Honduras, within a valley near the Guatemalan border, lies the ancient Maya city of Copán. Flourishing during the Classic period between the fifth and ninth centuries CE, the city developed as a regional epicenter through trade networks, dynastic politics, and monumental architecture. Today, the site is",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 29 May 2026 06:45:00 +0000",
-        "source_url": "https://www.archdaily.com/1041781/why-smart-lockers-are-architectures-new-micro-infrastructure",
-        "image_url": "https://images.adsttc.com/media/images/6a10/5f85/093e/9201/8986/5c23/large_jpg/why-smart-lockers-are-architectures-new-micro-infrastructure_8.jpg?1779457934",
-        "impact": 5
-      },
-      {
-        "title": "More Architecture for Less: SSdH and the Latent Potential of Existing Buildings",
-        "summary": "Amid growing recognition of architecture's responsibility toward environmental and planetary ecologies, contemporary practice is increasingly oriented toward working with what already exists—its material, spatial, and historical conditions. Within this shift, architecture and design aesthetics are increasingly about re",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 29 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041710/more-architecture-for-less-ssdh-and-the-latent-potential-of-existing-buildings",
-        "image_url": "https://images.adsttc.com/media/images/6a0d/fda8/093e/9201/8986/5297/large_jpg/more-architecture-for-less-works-of-ssdh_5.jpg?1779301818",
+        "published_at": "Sun, 31 May 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041806/anatomy-of-a-maya-city-the-urban-structure-of-copan-in-honduras",
+        "image_url": "https://images.adsttc.com/media/images/6a11/fb85/fd52/9201/89f2/21b2/large_jpg/the-anatomy-of-a-mayan-city-copan-honduras-through-the-lens-of-contemporary-urban-theory_1.jpg?1779563403",
         "impact": 4
       },
       {
@@ -379,25 +368,36 @@
         "impact": 4
       },
       {
-        "title": "When Modernism Meets Local Resistance: Housing and Urban Friction in Latin America",
-        "summary": "Modern housing was one of the places where modernism made its boldest promise: that architecture could reshape not only the city, but the way people lived within it. As Argentine architectural historian Ramón Gutiérrez has argued, popular housing is \"the great unresolved subject, one that usually does not appear in his",
+        "title": "SMK Thy and The Nature Village / Reiulf Ramstad Arkitekter",
+        "summary": "At the edge of the Limfjord in Northern Jutland, Denmark, Doverodde Købmandsgård is being transformed into a new cultural and landscape destination. Reiulf Ramstad Arkitekter has designed two closely intertwined projects for the site: SMK Thy and the Nature Village, together forming a new meeting point between art, lan",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sat, 30 May 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041759/when-modernism-meets-local-resistance-housing-and-urban-friction-in-latin-america",
-        "image_url": "https://images.adsttc.com/media/images/6a14/897b/fd52/9201/89f2/2447/large_jpg/when-modernism-meets-local-resistance-housing-and-urban-friction-in-latin-america_23.jpg?1779730820",
+        "published_at": "Sun, 31 May 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041961/smk-thy-and-the-nature-village-reiulf-ramstad-arkitekter",
+        "image_url": "https://images.adsttc.com/media/images/6a18/4cfc/35eb/2400/01f0/487e/large_jpg/Rasmus_Hjortshoj__SMK_Thy_WEB-245.jpg?1779977703",
         "impact": 4
       },
       {
-        "title": "UNStudio Reveals River-Oriented Master Plan for Former Industrial Site in Cluj-Napoca, Romania",
-        "summary": "A former industrial site along the Someș River in Cluj-Napoca, Romania, is being transformed into a large-scale mixed-use district that reconnects the city with its waterfront. Designed by UNStudio in collaboration with Felixx Landscape Architects and Planners for developers IULIUS and Atterbury Europe, the RIVUS proje",
+        "title": "Timber Temple - Cabin in Sirdal / Arkitekt Folstad Knut",
+        "summary": "Tømmertempelet/Timber Temple sits on a sloping site in Sinnes, Sirdal — a mountain settlement in Agder, Norway. At the time of the project, readymade cabins in an artificially traditional style were being erected throughout the area. The cabin was designed in response: a contemporary reinterpretation of the heavy, sedi",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 29 May 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041996/unstudio-reveals-river-oriented-master-plan-for-former-industrial-site-in-cluj-napoca-romania",
-        "image_url": "https://images.adsttc.com/media/images/6a19/4a56/03af/2a01/7dde/71a4/large_jpg/unstudio-reveals-river-oriented-master-plan-for-former-industrial-site-in-cluj-napoca-romania_8.jpg?1780042336",
+        "published_at": "Sun, 31 May 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041705/timber-temple-cabin-in-sirdal-arkitekt-folstad-knut",
+        "image_url": "https://images.adsttc.com/media/images/6a0d/cfd5/fd52/9201/89f2/1466/large_jpg/tommertempelet-timber-cabin-in-sirdal-arkitekt-folstad-plus-knut-as_18.jpg?1779290089",
+        "impact": 4
+      },
+      {
+        "title": "Metal Curtain Building / Hyunjoon Yoo + Partners",
+        "summary": "One big problem seen in cities today is the complete separation of private and public space. This was not the case in the past. If we look at traditional Korean architecture, a linear space of a flooring deck (like a balcony) can be found under the eaves. This liminal space can neither strictly be seen as an interior n",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 30 May 2026 21:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041924/metal-curtain-building-hyunjoon-yoo-plus-partners",
+        "image_url": "https://images.adsttc.com/media/images/6a19/8fed/093e/927a/6386/dd2c/large_jpg/metal-curtain-building-hyunjoon-yoo-plus-partners_17.jpg?1780060152",
         "impact": 4
       }
     ],
