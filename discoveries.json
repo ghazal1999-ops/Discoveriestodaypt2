@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-02",
-  "last_updated": "2026-06-02 00:11 UTC",
+  "date": "2026-06-03",
+  "last_updated": "2026-06-03 00:27 UTC",
   "categories": {
     "science": [
       {
@@ -61,6 +61,17 @@
     ],
     "tech": [
       {
+        "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
+        "summary": "Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately skeptical of Microsoft's claims, the software giant is announcing Majorana 2 today, the next generation of its topological quantum chip. Majorana",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-06-02T14:15:00-04:00",
+        "source_url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Majorana-2-full-size_6.jpg?quality=90&strip=all&crop=0%2C10.753143377165%2C100%2C78.49371324567&w=1200",
+        "impact": 5
+      },
+      {
         "title": "The Download: China’s brain implant ambitions",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October, Dong Hu",
         "category": "Tech",
@@ -72,62 +83,40 @@
         "impact": 4
       },
       {
-        "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
-        "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
+        "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+        "summary": "One hardware announcement and several software highlights from Microsoft Build.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Mon, 01 Jun 2026 17:17:55 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2248542588-1152x648.jpg",
+        "published_at": "Tue, 02 Jun 2026 22:51:10 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SRSDB-Desktop-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
-        "summary": "Nvidia's new chips will power laptop workstations and mini desktop PCs at first.",
+        "title": "In a surprise launch, China debuts another big rocket designed for reusability",
+        "summary": "There are sound engineering reasons to use the same approach SpaceX uses with the Falcon 9.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Mon, 01 Jun 2026 14:47:22 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/nvidia-rtx-spark-1152x648.jpeg",
+        "published_at": "Tue, 02 Jun 2026 16:05:48 +0000",
+        "source_url": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279200144-2560x1440.jpg",
         "impact": 3
       },
       {
-        "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
-        "summary": "Crescent Island is an air-cooled chip that uses LPDDR5 memory.",
+        "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+        "summary": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Mon, 01 Jun 2026 13:32:16 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/intel-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50",
-        "summary": "If you&#8217;re planning to travel this summer, both a Bluetooth tracker and a personal safety device can come in handy, especially if you&#8217;ll be exploring on your own. The Pebblebee Halo combines those two gadgets into one, and it&#8217;s currently on sale for $49.99 ($10 off) at Amazon, which is the best price w",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-06-01T16:30:06-04:00",
-        "source_url": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pebblebee_halo2.jpg?quality=90&strip=all&crop=0%2C10.747740781622%2C100%2C78.504518436757&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 02 Jun 2026 23:25:20 +0000",
+        "source_url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Uber-Lost-Found-Lifestyle-Imagery-2.jpg?resize=1200,800",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Targeted therapy reduces risk of lung cancer recurrence by 83% in rare genetic subtype",
-        "summary": "A new study co-led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center shows that the targeted cancer drug selpercatinib can significantly reduce the risk of lung cancer returning in patients with a rare genetic subtype of early-stage non-small cell lung cancer (NSCLC), potentially offering a new tr",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 01 Jun 2026 17:10:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-therapy-lung-cancer-recurrence-rare.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/lung-cancer.jpg",
-        "impact": 5
-      },
       {
         "title": "New drug could finally stop deadly fatty liver disease",
         "summary": "Scientists at UC San Diego have unveiled a potentially game-changing treatment for MASH, a severe fatty liver disease affecting millions worldwide. The experimental drug, ION224, blocks a liver enzyme that drives fat buildup and inflammation, two key forces behind liver damage. In clinical trials, patients showed strik",
@@ -140,25 +129,25 @@
         "impact": 5
       },
       {
-        "title": "Patients find help with therapy donkeys at psychiatric hospital near Paris",
-        "summary": "Therapy donkeys are helping patients with mental health conditions recover in a psychiatric hospital unit outside Paris that's unique to France.",
+        "title": "Immunotherapy added to radiation therapy boosts survival in localized prostate cancer",
+        "summary": "Results of a multicenter clinical trial found that adding the investigational adenoviral-based viral immunotherapy aglatimagene besadenovec (alglatimagene, CAN-2409) to standard radiation therapy improved disease-free survival for patients with intermediate- or high-risk localized prostate cancer. The study was led by ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 01 Jun 2026 19:40:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-patients-therapy-donkeys-psychiatric-hospital.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/patients-find-help-wit.jpg",
-        "impact": 4
+        "published_at": "Tue, 02 Jun 2026 16:40:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-immunotherapy-added-therapy-boosts-survival.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/radiation-therapy.jpg",
+        "impact": 5
       },
       {
-        "title": "Addition of immunotherapy shows survival benefit in follow-up trial for primary advanced or recurrent endometrial cancer",
-        "summary": "Previously, immature overall survival results of the NRG Oncology GY018 (NRG-GY018) trial suggested that the use of the immunotherapy drug pembrolizumab in combination with chemotherapy improved overall survival for patients with advanced stage or recurrent endometrial cancer when compared to chemotherapy alone. Notabl",
+        "title": "PET imaging reveals synaptic loss in multiple sclerosis across preclinical and human studies",
+        "summary": "A new PET imaging approach that measures synaptic density in the spinal cord provides a quantitative way to assess the brain's functional wiring in patients with multiple sclerosis. With this personalized information, physicians can monitor disease progression and evaluate whether new treatments are working to protect ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 01 Jun 2026 16:00:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-addition-immunotherapy-survival-benefit-trial.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/uterus.jpg",
+        "published_at": "Tue, 02 Jun 2026 17:10:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-pet-imaging-reveals-synaptic-loss.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-imaging-reveals-sy.jpg",
         "impact": 4
       },
       {
@@ -170,6 +159,17 @@
         "published_at": "Wed, 27 May 2026 00:02:46 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/glowing-human-brain-signals.webp",
+        "impact": 4
+      },
+      {
+        "title": "Guide contains quality standards for routinely collected health data in research",
+        "summary": "International guidelines on the use of routinely collected data set new quality standards—The increasing availability of routinely collected health data, which is increasingly being used for research purposes, opens up numerous opportunities to answer more questions about health and disease—and to do so in less time. H",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 02 Jun 2026 20:20:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-quality-standards-routinely-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/opportunities-and-risk.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,39 @@
     ],
     "space": [
       {
+        "title": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
+        "summary": "A mobile wastewater treatment system built at NASA&#8217;s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. Graduate students at the university will test the technology under conditi",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 02 Jun 2026 14:31:18 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
+        "image_url": "https://images-assets.nasa.gov/image/KSC-20260421-PH-KLS01_0041/KSC-20260421-PH-KLS01_0041~large.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Space Roboticist Challenge",
+        "summary": "The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qualified graduate students — who have a co",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 02 Jun 2026 20:56:53 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/ffr-graphic-update.jpg",
+        "impact": 4
+      },
+      {
+        "title": "China launches debut mission of Falcon 9-like rocket with no advance notice (video)",
+        "summary": "China launched its partially reusable Long March 12B rocket for the first time ever on Monday (June 1), sending it up without issuing airspace closure notices ahead of time.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 02 Jun 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/c8PE8aSG2Qdn65VBhzY5kP-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Rocket goes boom, satellite cameras zoom: Explosive Blue Origin damage is visible from space",
         "summary": "Satellites zoomed-in on the aftermath of the New Glenn rocket explosion at Blue Origin's LC-36 launchpad, and the extent of the damage is visible from orbit.",
         "category": "Space",
@@ -252,53 +285,9 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans",
         "image_url": "https://cdn.mos.cms.futurecdn.net/hwu4zbe5DktGbeggPo2Ne5-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "This Week In Space podcast: Episode 212 — Kabooms, Starship, and a Moon Base",
-        "summary": "On Episode 212 of This Week In Space, Rod Pyle and Tariq Malik are joined by Space.com's Mike Wall to discuss the loss of Blue Origin's New Glenn rocket.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 30 May 2026 15:24:33 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-212-kabooms-starship-and-a-moon-base",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/fSnAKsewzd88ETkQxHmxLY-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
-        "summary": "NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is a firm-fixed-price contract and will be",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 01 Jun 2026 23:45:59 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
-        "impact": 4
-      },
-      {
-        "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
-        "summary": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 29 May 2026 21:24:11 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
-        "impact": 4
       }
     ],
     "astronomy": [
-      {
-        "title": "It Took a Cosmic Village to Shape Early Galaxies",
-        "summary": "An early galaxy cluster named after an Indian lake is teaching astronomers about influences on galaxy evolution in the infant Universe. Astronomer Ronaldo Laishram of the National Astronomical Observatory of Japan (NAOJ) used the Subaru Telescope’s wide-field camera, Hyper Suprime-Cam (HSC), to conduct a large sky surv",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Sun, 31 May 2026 17:20:56 +0000",
-        "source_url": "https://www.universetoday.com/articles/it-took-a-cosmic-village-to-shape-early-galaxies",
-        "image_url": "https://www.universetoday.com/article_images/fig1e-20260525-science_20260530_210424.jpg",
-        "impact": 5
-      },
       {
         "title": "June Podcast: Dance of the Planets",
         "summary": "This month’s episode highlights the close pairing of Venus and Jupiter under way in the western sky after sunset. You'll also learn why astronomers are fixated on a star in Corona Borealis — and how to find a huge but dim constellation that will likely be new to you. So grab curiosity and come along on this month’s Sky",
@@ -322,17 +311,6 @@
         "impact": 4
       },
       {
-        "title": "Red dwarf stars are cosmic killers that eat their own planets",
-        "summary": "Astronomers have discovered the first evidence that tiny red dwarf stars can devour their own planets.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 29 May 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/red-dwarf-stars-are-cosmic-killers-that-eat-their-own-planets",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Koq2z4nWjEQkTUWGeb6LER-1280-80.png",
-        "impact": 4
-      },
-      {
         "title": "Close Encounter: Jupiter and Venus",
         "summary": "The two brightest planets in our sky will be less than 2 degrees apart on June 9th at sunset. The post Close Encounter: Jupiter and Venus appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -342,18 +320,62 @@
         "source_url": "https://skyandtelescope.org/astronomy-press-releases/close-encounter-jupiter-and-venus/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/2026_J2.jpg",
         "impact": 4
+      },
+      {
+        "title": "Lost in the Star Clouds — A Milky Way Odyssey",
+        "summary": "I share my \"discovery\" of a new Milky Way star cloud that's been staring at me for ages. The post Lost in the Star Clouds — A Milky Way Odyssey appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Wed, 27 May 2026 15:31:30 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/lost-in-the-star-clouds-a-milky-way-odyssey/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Star-clouds-Milky-Way-l-r-Sct-Gamma-Sct-Small-Sgr-May-14-2026-ST.webp",
+        "impact": 4
+      },
+      {
+        "title": "This Week's Sky at a Glance, May 22 – 31",
+        "summary": "Venus and Jupiter — the Evening Star and the False Evening Star — draw closer together in the western twilight and point down to Mercury. The waxing Moon shows off its rich telescopic detail. The post This Week&#039;s Sky at a Glance, May 22 – 31 appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Fri, 22 May 2026 09:11:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-22-31/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Moon_first-quarter_10-pm-EDT-May-23-2026_NASA-Visualization_FEATURED.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Prairie Ark and Nomads' Beacon Tower / BUZZ/ Büro Ziyu Zhuang",
-        "summary": "Ulanqab Grassland belongs to a cultural context that is, by tradition, nomadic. No building is native here. The design challenge is threefold: avoid reducing the project to a cultural costume through symbolic copying; avoid the intrusion of imported urban architectural language; and on completely flat terrain, produce ",
+        "title": "How Buildner’s Concrete Pavilion Winners Are Rethinking Architecture's Most Common Material",
+        "summary": "Buildner has announced the results of its competition, the Concrete Pavilion. Part of Buildner's Material Studies series, the competition invited architects and designers to explore the architectural potential of concrete through the design of an experimental pavilion. Participants were challenged to reconsider the mat",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 01 Jun 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041939/prairie-ark-and-nomads-beacon-tower-buzz-buro-ziyu-zhuang",
-        "image_url": "https://images.adsttc.com/media/images/6a17/b640/35eb/2400/01f0/47b6/large_jpg/_________-2.jpg?1779938900",
+        "published_at": "Tue, 02 Jun 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1041618/how-buildners-concrete-pavilion-winners-are-rethinking-architectures-most-common-material",
+        "image_url": "https://images.adsttc.com/media/images/6a0b/0195/093e/9201/8986/46fe/large_jpg/how-buildners-concrete-pavilion-winners-are-rethinking-architectures-most-common-material_13.jpg?1779106213",
+        "impact": 4
+      },
+      {
+        "title": "Rue de l'Eglise - Office Building Transformation / Vincent Lavergne Architecture Urbanisme + COVE Architectes",
+        "summary": "Completed in December 2025, the \"Rue de l'Église\" project redevelops a 1970s office building in Neuilly-sur-Seine to meet 21st-century standards of well-being, working comfort, and urban integration. Rather than demolishing and rebuilding, the architects chose a more resilient path: transforming and densifying the exis",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 02 Jun 2026 03:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041965/rue-de-leglise-office-building-transformation-vincent-lavergne-architecture-urbanisme-plus-cove-architectes",
+        "image_url": "https://images.adsttc.com/media/images/6a18/4d9d/35eb/2400/01f0/48dd/large_jpg/Charles_Bouchaib_VLAU_1.jpg?1779977655",
+        "impact": 4
+      },
+      {
+        "title": "Houm Yoga / Dhanie & Sal",
+        "summary": "An existing house is repurposed into a new communal home for Houm Yoga and Houm Coffee. The project begins with a simple approach: working with what is already there while introducing only the necessary interventions. Rather than fully transforming the building, the design focuses on balancing control and restraint—dec",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 01 Jun 2026 19:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041998/houm-yoga-dhanie-and-sal",
+        "image_url": "https://images.adsttc.com/media/images/6a19/547b/35eb/2400/01f0/49e8/large_jpg/Ernest_Theofilus_-_6.jpg?1780044941",
         "impact": 4
       },
       {
@@ -377,42 +399,9 @@
         "source_url": "https://www.dezeen.com/2026/05/26/buro-ziyu-zhuang-prairie-ark-dezeen-debate/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Eclipse House / Etea + Ghostframe",
-        "summary": "Casa Eclipse was born as a dreamlike idea in the north of the city of M&eacute;rida, Mexico. The clients commissioned a sculptural architectural space that is open to the outside, where vegetation takes center stage and evokes surreal forms. On the site, where existing trees were considered in the design, an unconventi",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 01 Jun 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041477/eclipse-house-etea-plus-ghostframe",
-        "image_url": "https://images.adsttc.com/media/images/69f8/99a4/20d6/d800/0166/40c8/large_jpg/CASA_ECLIPSE_16_Manolo_R._Sol_s.jpg?1777900033",
-        "impact": 4
-      },
-      {
-        "title": "Designed to Repeat, Forced to Adapt: The Parallel Architecture of Socialist Housing",
-        "summary": "A housing block in New Belgrade appears orderly from a distance. Concrete slabs repeat with disciplined consistency, windows align into measured grids, and balconies stack with the confidence of a system certain of itself. However, proximity changes the reading. One balcony is enclosed in aluminum glazing, another soft",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 01 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041867/designed-to-repeat-forced-to-adapt-the-parallel-architecture-of-socialist-housing",
-        "image_url": "https://images.adsttc.com/media/images/6a15/a869/fd52/9207/909d/278e/large_jpg/designed-to-repeat-forced-to-adapt-the-parallel-architecture-of-socialist-housing_13.jpg?1779804278",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Movers and shakers: The biggest construction and engineering appointments May 2026",
-        "summary": "The infrastructure and civil engineering sector has seen a flurry of appointments, departures and the creation of new roles as we reach the halfway point of 2026. The post Movers and shakers: The biggest construction and engineering appointments May 2026 appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Mon, 01 Jun 2026 05:30:49 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-the-biggest-construction-and-engineering-appointments-in-may-2026-01-06-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/MixCollage-29-May-2026-03-10-PM-7555-560x315.jpg",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
@@ -436,81 +425,92 @@
         "impact": 4
       },
       {
-        "title": "What Nextel got right about construction communication",
-        "summary": "Sprint killed iDEN in 2013. Here's what construction crews lost&mdash;and what's replacing it.",
+        "title": "Seattle’s Sound Transit adopts new ST3 plan despite $34.5B funding gap",
+        "summary": "The revised plan fully funds construction of several major transit projects in Washington state, though other projects now face deferral.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 01 Jun 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/what-nextel-got-right-about-construction-communication/820625/",
-        "image_url": "https://imgproxy.divecdn.com/lgKMEhi8QiMOrqz6IhjCWbS35NCx6n2zFpOiS2XCdzM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25zdHJ1Y3Rpb24tc2l0ZS1oZXJvLWltYWdlLTFfMV8yLmpwZw==.webp",
+        "published_at": "Tue, 02 Jun 2026 12:57:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/seattle-sound-transit-new-st3-plan-funding-gap/821747/",
+        "image_url": "https://imgproxy.divecdn.com/W9nJBo2Uen0ok3O11bCqviSbH3_zcGAPVvA2SbX7_ZA/g:nowe:0:566/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDk1Mjc0NDQ0LmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "Illinois starts critical $164M I-80 bridge project",
-        "summary": "The spans over the Des Plaines River are the final phase of the $1.3 billion multiyear plan to overhaul Interstate 80 through Illinois.",
+        "title": "GDC awards $711M Hudson Tunnel Project contract",
+        "summary": "A Skanska Creamer Sanzari NJSA joint venture expects to begin construction on the seventh of the Hudson Tunnel Project&rsquo;s 10 construction packages later this year.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 29 May 2026 14:40:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/illinois-i-80-bridge-des-plaines/821527/",
-        "image_url": "https://imgproxy.divecdn.com/gur24_ALF3bc3Xnszwc6Ulj-AsoNq_IYIzqphORGJ3o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmlkZ2VfUmVuZGVyaW5nLnBkZi5qcGc=.webp",
+        "published_at": "Tue, 02 Jun 2026 12:13:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/gdc-awards-hudson-tunnel-project-contract/821742/",
+        "image_url": "https://imgproxy.divecdn.com/OFPUnEiLAWxAKo2MN2KV04eVKhu33t3o8v6v6GL3oIQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxNjg3MjQzLTIuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "Cities push Congress to avert water infrastructure funding cliff",
+        "summary": "With enhanced funding from the Biden-era infrastructure law set to expire and proposed federal cuts on the table, local government and water groups are urging lawmakers to reauthorize key drinking water and wastewater programs.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 02 Jun 2026 10:11:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/cities-push-congress-avert-water-infrastructure-funding-cliff-nlc/821708/",
+        "image_url": "https://imgproxy.divecdn.com/d8n5hZ-hvFLqPkNySrrAVUIHGDPU1wkgpjDHfbx3EsM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTI3MDYwLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "What Parameter Golf taught us about AI-assisted research",
-        "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-        "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 12 May 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/what-parameter-golf-taught-us",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6PRLQARXtH3sfsTBcHlufc/ac545b82a82009609194d64e34538e62/SEO.png?w=1600&h=900&fit=fill",
-        "impact": 5
-      },
-      {
-        "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
-        "summary": "arXiv:2605.30621v1 Announce Type: new Abstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating these harnesses from",
+        "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+        "summary": "arXiv:2606.00017v1 Announce Type: new Abstract: Training language model agents for multi-agent strategic interaction presents a core difficulty: the quality of any action may depend on future events that never materialize, on moves that violate game rules, or on decisions made by other players. Standard reinforcement l",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.30621",
+        "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.00017",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
-        "summary": "arXiv:2605.30680v1 Announce Type: new Abstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold this response fixed and so cannot evaluate mechanisms by the equilibrium they produce. We recast hospital mechanism design as program synthesis f",
+        "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems",
+        "summary": "arXiv:2606.00138v1 Announce Type: new Abstract: Finite element analysis (FEA) is the most important numerical approach for solid mechanics. Challenges of FEA include a steep learning curve for entry-level users and potential false simulations due to incorrect definitions of key simulation components, such as boundary c",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.30680",
+        "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.00138",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
-        "summary": "arXiv:2605.31264v1 Announce Type: new Abstract: LLM agents are increasingly expected not only to complete isolated tasks, but also to carry bounded representations of human expertise, judgment, and interaction style. Building such person-grounded agents remains difficult because actionable knowledge associated with a p",
+        "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+        "summary": "arXiv:2606.00240v1 Announce Type: new Abstract: Effective real-world assistance requires AI agents with robust Theory of Mind (ToM): inferring human mental states from their behavior. Despite recent advances, several key challenges remain, including (1) online inference with robust uncertainty updates over multiple hyp",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.31264",
+        "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.00240",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration",
-        "summary": "arXiv:2605.31365v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have led to promising progress in web agents. However, existing web agents often rely on handcrafted execution pipelines or expensive expert trajectories, limiting their adaptability to complex, dynamic environme",
+        "title": "Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture",
+        "summary": "arXiv:2606.00288v1 Announce Type: new Abstract: Large language models are undergoing a transition from model technology to system technology. As developers use Codex, Claude Code, AutoGPT, and related agents to write code, manage projects, and execute multi-step tasks, recurring engineering problems such as cache reuse",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2605.31365",
+        "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.00288",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
+      },
+      {
+        "title": "Coupling Language Models with Physics-based Simulation for Synthesis of Inorganic Materials",
+        "summary": "arXiv:2606.00315v1 Announce Type: new Abstract: Modern generative machine learning (ML) models can propose novel inorganic crystalline materials with targeted properties; however, synthesis planning of these materials remains difficult due to the complexity of the associated physical processes and limited availability ",
+        "category": "AI",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.00315",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
