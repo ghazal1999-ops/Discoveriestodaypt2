@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-04",
-  "last_updated": "2026-06-04 00:30 UTC",
+  "date": "2026-06-05",
+  "last_updated": "2026-06-05 00:04 UTC",
   "categories": {
     "science": [
       {
@@ -31,7 +31,7 @@
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sun, 31 May 2026 10:22:38 EDT",
+        "published_at": "Sat, 30 May 2026 05:34:18 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp",
         "impact": 5
@@ -48,14 +48,14 @@
         "impact": 5
       },
       {
-        "title": "Scottish wrens may be evolving into new species through island gigantism",
-        "summary": "Tiny birds on remote Scottish islands are undergoing a dramatic evolutionary transformation. Scientists studying four isolated populations of British Wrens discovered that some island birds have grown astonishingly large — with the biggest St Kilda Wrens weighing more than twice as much as the smallest mainland birds. ",
+        "title": "Scientists Turn Seawater Into Drinking Water Without Toxic Brine",
+        "summary": "A new solar desalination breakthrough turns seawater into drinking water while eliminating brine waste and recovering valuable minerals. Billions of people around the world still do not have reliable access to safe drinking water. According to the United Nations, about 2.2 billion people lack safely managed drinking wa",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 28 May 2026 08:49:31 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260528082453.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/juvenile-st-kilda-wren.webp",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 04 Jun 2026 10:29:10 +0000",
+        "source_url": "https://scitechdaily.com/scientists-turn-seawater-into-drinking-water-without-toxic-brine/",
+        "image_url": "https://scitechdaily.com/images/Solar-Desalination-Device-Laser-Etched-Superwicking-777x518.jpg",
         "impact": 5
       }
     ],
@@ -72,6 +72,28 @@
         "impact": 4
       },
       {
+        "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+        "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 04 Jun 2026 22:23:36 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279229514-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Used Waymo robotaxi batteries become backup storage for power grids",
+        "summary": "Used Waymo batteries will bolster California and Texas energy storage projects.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 04 Jun 2026 11:00:45 +0000",
+        "source_url": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Rachel-Harper-inspecting-B24-at-Lancaster-1152x648.jpg",
+        "impact": 3
+      },
+      {
         "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
         "summary": "Data shows Waymo's robotaxis are empty for almost half of the miles they drive.",
         "category": "Tech",
@@ -83,36 +105,14 @@
         "impact": 3
       },
       {
-        "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-        "summary": "One hardware announcement and several software highlights from Microsoft Build.",
+        "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+        "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 02 Jun 2026 22:51:10 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SRSDB-Desktop-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
-        "summary": "Just in case you were wondering, Nvidia's RTX Spark isn't supposed to be a one-off. The company is not just flirting with becoming the fifth high-profile vendor of consumer laptop chips to see if people bite. At Computex 2026 in Taipei, Nvidia CEO Jensen Huang confirmed at least two additional generations of RTX Spark ",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-06-03T16:03:50-04:00",
-        "source_url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2278662353.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-        "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Wed, 03 Jun 2026 18:00:00 +0000",
-        "source_url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-        "image_url": "https://media.wired.com/photos/6a1f67f31c7b696a4249008a/191:100/w_1280,c_limit/AI-Lab-Nvidia-Unitree-Frankenstein-Humanoid-Robot-Business.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 04 Jun 2026 21:44:09 +0000",
+        "source_url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/ad-blocker-1609310276.jpg?resize=1200,766",
         "impact": 3
       }
     ],
@@ -129,47 +129,47 @@
         "impact": 5
       },
       {
-        "title": "FDA-approved oral AML therapy could let older patients avoid monthly infusion visits",
-        "summary": "The ASCERTAIN V clinical trial demonstrated that an all-oral drug combination for older patients with acute myeloid leukemia (AML) is an effective alternative to the current standard, which requires repeated hospital or office visits for intravenous treatment. In the international Phase I/Phase II trial led by research",
+        "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
+        "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nearly doubled survival fo",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 03 Jun 2026 17:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-fda-oral-aml-therapy-older.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/taking-a-pill.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 04 Jun 2026 09:18:44 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell-destruction.webp",
         "impact": 5
       },
       {
-        "title": "Retraining the immune system to treat type 1 diabetes",
-        "summary": "Type 1 diabetes (T1D) is a lifelong autoimmune disorder where the immune system attacks islets, certain areas of the pancreas, and destroys cells that would otherwise produce insulin, a hormone crucial for regulating blood sugar levels. One emerging treatment is transplantation—replacing islets with healthy cells—but p",
+        "title": "New targeted combination in people with relapsed acute myeloid leukemia shows promise",
+        "summary": "New research co-led by a Roswell Park Comprehensive Cancer Center leukemia expert highlights a promising investigational treatment approach using the targeted therapy ziftomenib for patients with a difficult-to-treat form of acute myeloid leukemia (AML). The findings, published in the journal Blood, show encouraging re",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 03 Jun 2026 19:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-retraining-immune-diabetes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/retraining-the-immune.jpg",
+        "published_at": "Thu, 04 Jun 2026 15:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-combination-people-relapsed-acute-myeloid.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/leukemia.jpg",
         "impact": 4
       },
       {
-        "title": "New CAR T treatment opens door for patients in need of kidney transplant",
-        "summary": "A pioneering clinical trial has successfully enabled two patients with end-stage kidney disease to receive previously improbable kidney transplants. These individuals were considered among the most difficult in the nation to match with a compatible donor kidney due to harmful antibodies they had developed (\"sensitized\"",
+        "title": "New drug cuts relapse risk by half in rare immune disorder trial",
+        "summary": "Stanford Medicine researchers and their colleagues found that a new drug, obexelimab, significantly reduces the risk of relapse in patients with IgG4-related disease, a rare chronic immune condition often misdiagnosed as cancer.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 03 Jun 2026 17:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-car-treatment-door-patients-kidney.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/transplant.jpg",
+        "published_at": "Thu, 04 Jun 2026 15:20:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-drug-relapse-rare-immune-disorder.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drug-cuts-relapse.jpg",
         "impact": 4
       },
       {
-        "title": "Potential gene therapy for late-stage Parkinson's side-effects uncovered",
-        "summary": "Northwestern Medicine scientists have discovered that suppressing excitatory synaptic transmission in a small group of neurons in the brain may reverse levodopa-induced dyskinesia in patients with late-stage Parkinson's disease without reducing the symptomatic benefits of levodopa treatment, according to a recent study",
+        "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
+        "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining vitamin K with components related to vitamin A, the researchers developed compounds t",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 03 Jun 2026 16:40:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-potential-gene-therapy-late-stage.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-uncovers-potenti-2.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 27 May 2026 00:02:46 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/glowing-human-brain-signals.webp",
         "impact": 4
       }
     ],
@@ -243,25 +243,14 @@
         "impact": 5
       },
       {
-        "title": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-        "summary": "A mobile wastewater treatment system built at NASA&#8217;s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. Graduate students at the university will test the technology under conditi",
+        "title": "SpaceX launches back-to-back Starlink missions from both coasts 19 hours apart (photos)",
+        "summary": "More than 50 new Starlink satellites are now in orbit after launches from California and Florida.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 02 Jun 2026 14:31:18 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-        "image_url": "https://images-assets.nasa.gov/image/KSC-20260421-PH-KLS01_0041/KSC-20260421-PH-KLS01_0041~large.jpg",
-        "impact": 5
-      },
-      {
-        "title": "NASA Space Roboticist Challenge",
-        "summary": "The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qualified graduate students — who have a co",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 02 Jun 2026 20:56:53 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/ffr-graphic-update.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 04 Jun 2026 18:06:08 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-47-b1108-vsfb-ocisly-10-43-b1090-ccsfs-asog",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/qzkchhPpgFpaUTyYLqwjNg-1280-80.jpg",
         "impact": 4
       },
       {
@@ -276,14 +265,25 @@
         "impact": 4
       },
       {
-        "title": "Rocket goes boom, satellite cameras zoom: Explosive Blue Origin damage is visible from space",
-        "summary": "Satellites zoomed-in on the aftermath of the New Glenn rocket explosion at Blue Origin's LC-36 launchpad, and the extent of the damage is visible from orbit.",
+        "title": "A Moonlit Earth as Seen From Artemis II",
+        "summary": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 01 Jun 2026 18:30:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-goes-boom-satellite-cameras-zoom-explosive-blue-origin-damage-is-visible-from-space",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/tMh6dHb8kGZwaSHGWXLAL-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Thu, 04 Jun 2026 04:01:00 +0000",
+        "source_url": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System",
+        "summary": "A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 03 Jun 2026 13:50:10 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/",
+        "image_url": "https://www.youtube.com/embed/ZhliQAmHrfs",
         "impact": 4
       }
     ],
@@ -322,39 +322,39 @@
         "impact": 4
       },
       {
-        "title": "This Week's Sky at a Glance, May 22 – 31",
-        "summary": "Venus and Jupiter — the Evening Star and the False Evening Star — draw closer together in the western twilight and point down to Mercury. The waxing Moon shows off its rich telescopic detail. The post This Week&#039;s Sky at a Glance, May 22 – 31 appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Fri, 22 May 2026 09:11:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-22-31/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Moon_first-quarter_10-pm-EDT-May-23-2026_NASA-Visualization_FEATURED.jpg",
-        "impact": 4
-      },
-      {
-        "title": "A New Map of Stars Shows That the Small Magellanic Cloud is Expanding",
-        "summary": "A multi-year survey of millions of stars in the Small Magellanic Cloud shows that the dwarf galaxy is expanding rather than rotating. This is due to the influence of its larger neighbour, the Large Magellanic Cloud.",
+        "title": "New Cloud-Detecting Method Will Help Astronomers Characterize Exoplanets",
+        "summary": "Astronomers have developed a technique that allows them to detect cloud cycles on distant exoplanets. Using data from the James Webb Sapce Telescope (JWST), the astronomers found that mornings and evenings on the gas giant WASP-94A b have extremely different weather patterns: mornings are riddled with sand clouds, whil",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 03 Jun 2026 17:44:25 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-new-map-of-stars-shows-that-the-small-magellanic-cloud-is-expanding",
-        "image_url": "https://www.universetoday.com/article_images/smc_expansion_image.original_20260603_160001.jpg",
+        "published_at": "Thu, 04 Jun 2026 22:54:42 +0000",
+        "source_url": "https://www.universetoday.com/articles/new-cloud-detecting-method-will-help-astronomers-characterize-exoplanets",
+        "image_url": "https://www.universetoday.com/article_images/WASP94Ab_20260602_170536.jpg",
+        "impact": 4
+      },
+      {
+        "title": "The Unexpected Brightness 'Gap' in an Ancient Globular Cluster",
+        "summary": "Scientists using the Euclid space telescope found a red-dwarf brightness “gap” in the population of a globular cluster—an ancient, crowded collection of stars. A similar gap was detected by the Gaia observatory in nearby stellar populations, but it has never before been seen in a globular cluster.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 04 Jun 2026 17:23:11 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-unexpected-brightness-gap-in-an-ancient-globular-cluster",
+        "image_url": "https://www.universetoday.com/article_images/Euclid-ERO-NGC6397_20260603_193744.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Bread & Heart Festival 2026 Gathers International Architects in Tirana to Explore Albania's \"Landscapes of Abundance\"",
-        "summary": "The second edition of The Bread &amp; Heart Festival will be held in Tirana, Albania, from June 3 to 5, 2026. The annual event is organised by The Bread &amp; Heart Foundation and co-curated with the NEWROPE Chair of Architecture and Urban Transformation at ETH Zürich. The Foundation's objective is to offer an open pla",
+        "title": "three timber rejuvenation halls by JK-AR surround a series of traditional korean courtyards",
+        "summary": "curved structural elements reference historic buildings in gyeongju. The post three timber rejuvenation halls by JK-AR surround a series of traditional korean courtyards appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 03 Jun 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042142/bread-and-heart-festival-2026-gathers-international-architects-in-tirana-to-explore-albanias-landscapes-of-abundance",
-        "image_url": "https://images.adsttc.com/media/images/6a1f/6211/3dfc/fd01/89f9/cf23/large_jpg/bread-and-heart-architecture-festival-second-edition-opens-in-tirana-albania-under-the-theme-landscapes-of-abundance_6.jpg?1780441630",
-        "impact": 4
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 04 Jun 2026 10:00:02 +0000",
+        "source_url": "https://www.designboom.com/architecture/three-timber-rejuvenation-halls-jk-ar-traditional-korean-courtyards/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/three-timber-halls-house-for-rejuvenation-traditional-korean-courtyards-jk-ar-designboom-1200-1.jpg",
+        "impact": 5
       },
       {
         "title": "OMA designs pyramidal building in China as \"three-dimensional village\"",
@@ -379,6 +379,17 @@
         "impact": 4
       },
       {
+        "title": "herzog & de meuron to revitalize tirana’s palace of congresses with cultural hub and tower",
+        "summary": "the project opens the historic complex to the city through expanded public space, upgraded cultural facilities, and new urban connections. The post herzog &#038; de meuron to revitalize tirana&#8217;s palace of congresses with cultural hub and tower appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 04 Jun 2026 08:00:34 +0000",
+        "source_url": "https://www.designboom.com/architecture/herzogdemeuron-tirana-palace-congresses-cultural-hub-tower/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/herzogdemeuron-tirana-palace-congresses-cultural-hub-tower-designboom-1200.jpg",
+        "impact": 4
+      },
+      {
         "title": "recycled materials sculpt kindergarten play structures inspired by the mexican landscape",
         "summary": "nómada estudio urbano redefines kindergartens through adaptive reuse, participation, and local identity. The post recycled materials sculpt kindergarten play structures inspired by the mexican landscape appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
@@ -387,17 +398,6 @@
         "published_at": "Wed, 03 Jun 2026 10:30:45 +0000",
         "source_url": "https://www.designboom.com/architecture/recycled-materials-kindergarten-play-structures-mexican-landscape-nomada-estudio-urbano/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/nomada-estudio-urbano-kindergarten-mexico-child-friendly-spaces-desert-adaptive-reuse-community-participation-designboom-1200.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Paul Albrechtsen Visitor Centre / Stantec Architecture",
-        "summary": "Buffalo Crossing Paul Albrechtsen Visitor Centre redefines the gateway to Winnipeg's FortWhyte Alive, a 660-acre nature preserve dedicated to environmental education and recreation. Positioned along the south shore of Muir Lake within a reclaimed industrial landscape, the project transforms a site shaped by extraction ",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 03 Jun 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042058/paul-albrechtsen-visitor-centre-stantec-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6a1d/99d8/35eb/2400/01f0/4b51/large_jpg/2.jpg?1780324844",
         "impact": 4
       }
     ],
@@ -436,81 +436,81 @@
         "impact": 4
       },
       {
-        "title": "ACE Group and EIC launch plan to embed nature in infrastructure policy",
-        "summary": "The Environmental Industries Commission (EIC), part of the Association for Consultancy and Engineering (ACE Group), has launched a new policy roadmap calling for nature-based solutions to be treated as core infrastructure alongside roads, rail and flood defences. The post ACE Group and EIC launch plan to embed nature i",
+        "title": "Walbridge breaks ground on $16B Stargate data center",
+        "summary": "Around 700 union tradespeople will work under a project labor agreement on OpenAI and Oracle&rsquo;s 250-acre campus, according to the project announcement.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 03 Jun 2026 06:01:54 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/ace-group-and-eic-launch-plan-to-embed-nature-in-infrastructure-policy-03-06-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/06/Urban-Biodiversity-in-Greenwich-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 04 Jun 2026 10:15:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/walbridge-breaks-ground-stargate-data-center-openai-oracle/821972/",
+        "image_url": "https://imgproxy.divecdn.com/fco0QPCNtIQI1SgE5KN7FuaWx2Np_xFG__eMSyOz0Uw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZWxhdGVkX0RpZ2l0YWxfU2FsaW5lX1Rvd25zaGlwX29mX1JlbGF0ZWRfRGlnaXRhbC5qcGcuanBn.webp",
+        "impact": 3
       },
       {
-        "title": "New bridge to be installed at Cathays station as part of infrastructure upgrade",
-        "summary": "Major work is due to begin on Saturday 13 June at Cathays station, on the Merthyr and Rhondda line, north of Cardiff Central. The post New bridge to be installed at Cathays station as part of infrastructure upgrade appeared first on New Civil Engineer.",
+        "title": "Data center construction spending rocketed 28% in the last year",
+        "summary": "Overall nonresidential construction spending, however, ticked up 0.1% month over month in April, with momentum elsewhere &ldquo;difficult to find,&rdquo; said ABC Chief Economist Anirban Basu.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 03 Jun 2026 05:30:23 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/new-bridge-to-be-installed-at-cathays-station-as-part-of-infrastructure-upgrade-03-06-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/06/6bb4a3dd19a54ff5aee4e28eb079fa2d-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 03 Jun 2026 14:47:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/data-center-construction-spending-april/821894/",
+        "image_url": "https://imgproxy.divecdn.com/ZbQaFcWbUI4OOEwRrGy71_wmR-S-1HarPEQXKay-XNg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNjE1OTI3LmpwZw==.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
-        "summary": "arXiv:2606.02862v1 Announce Type: new Abstract: The rise of Large Language Models (LLMs) has enabled agentic AI capable of complex reasoning and tool use; however, deploying such autonomy in pervasive computing environments remains challenging due to the strict memory and energy constraints of embedded microcontrollers",
+        "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+        "summary": "arXiv:2606.04037v1 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails o",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 03 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.02862",
+        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.04037",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks",
-        "summary": "arXiv:2606.03303v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit strong informal mathematical reasoning but struggle to generate mechanically verifiable proofs in formal languages like Lean. We present LEAP, an agentic framework that enables general-purpose foundation models to achieve state-of-the-",
+        "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+        "summary": "arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We in",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 03 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.03303",
+        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.04202",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
-        "summary": "arXiv:2606.02812v1 Announce Type: new Abstract: Modeling patient trajectories from longitudinal electronic health records (EHRs) requires reasoning over sparse, noisy, and long-context multimodal sequences. Existing LLM-based multi-agent systems address context length but process patients in isolation, failing to mirro",
+        "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
+        "summary": "arXiv:2606.04296v1 Announce Type: new Abstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide when to interrupt an agent have become essential. We study this timing problem using a continuous 18-dimensional affective-dynamics engine (HEART",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 03 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.02812",
+        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.04296",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "RelGT-AC: A Relational Graph Transformer for Autocomplete Tasks in Relational Databases",
-        "summary": "arXiv:2606.03040v1 Announce Type: new Abstract: Relational databases underpin modern enterprise, scientific, and healthcare systems, yet predictive machine learning on such data remains challenging due to their multi-table, heterogeneous, and temporal structure. Relational Deep Learning (RDL) addresses this by represen",
+        "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
+        "summary": "arXiv:2606.04421v1 Announce Type: new Abstract: Many current agentic systems and LLM pipelines correct mistakes by optimizing outcome reward. This addresses only the what of failure: when an outcome diverges from prediction, the why and when of the mismatch are not systematically logged, reviewed, or corrected, so the ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 03 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.03040",
+        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.04421",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SkillDAG: Self-Evolving Typed Skill Graphs for LLM Skill Selection at Scale",
-        "summary": "arXiv:2606.03056v1 Announce Type: new Abstract: As LLM agents adopt large skill libraries, selecting the right subset becomes a structural problem rather than a similarity-matching one: skills depend on, conflict with, specialize, or duplicate one another, a structure invisible to both full enumeration and embedding si",
+        "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
+        "summary": "arXiv:2606.04484v1 Announce Type: new Abstract: We present AgentJet, a distributed swarm training framework for large language model (LLM) agent reinforcement learning. Unlike centralized frameworks that tightly couple agent rollouts with model optimization, AgentJet adopts a decoupled multi-node architecture in which ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 03 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.03056",
+        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.04484",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
