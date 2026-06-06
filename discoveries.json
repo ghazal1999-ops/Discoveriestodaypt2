@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-05",
-  "last_updated": "2026-06-05 00:04 UTC",
+  "date": "2026-06-06",
+  "last_updated": "2026-06-06 00:05 UTC",
   "categories": {
     "science": [
       {
@@ -48,29 +48,18 @@
         "impact": 5
       },
       {
-        "title": "Scientists Turn Seawater Into Drinking Water Without Toxic Brine",
-        "summary": "A new solar desalination breakthrough turns seawater into drinking water while eliminating brine waste and recovering valuable minerals. Billions of people around the world still do not have reliable access to safe drinking water. According to the United Nations, about 2.2 billion people lack safely managed drinking wa",
+        "title": "A Surprising Discovery Inside Fish Could Change What We Know About the Ocean",
+        "summary": "Scientists have uncovered evidence that tiny microbes living inside fish may be helping shape the chemistry of the world&#8217;s oceans. The new study, led by former graduate student Anthony Bonacolta at the University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science, suggests that bacteria in fish ",
         "category": "Science",
         "source": "scitechdaily.com",
         "journal": "scitechdaily.com",
-        "published_at": "Thu, 04 Jun 2026 10:29:10 +0000",
-        "source_url": "https://scitechdaily.com/scientists-turn-seawater-into-drinking-water-without-toxic-brine/",
-        "image_url": "https://scitechdaily.com/images/Solar-Desalination-Device-Laser-Etched-Superwicking-777x518.jpg",
+        "published_at": "Fri, 05 Jun 2026 04:37:53 +0000",
+        "source_url": "https://scitechdaily.com/a-surprising-discovery-inside-fish-could-change-what-we-know-about-the-ocean/",
+        "image_url": "https://scitechdaily.com/images/Gulf-Toadfish-Opsanus-beta-777x583.jpg",
         "impact": 5
       }
     ],
     "tech": [
-      {
-        "title": "The Download: China’s brain implant ambitions",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October, Dong Hu",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 01 Jun 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/china-bci.jpg?resize=1200,600",
-        "impact": 4
-      },
       {
         "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
         "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
@@ -83,28 +72,6 @@
         "impact": 3
       },
       {
-        "title": "Used Waymo robotaxi batteries become backup storage for power grids",
-        "summary": "Used Waymo batteries will bolster California and Texas energy storage projects.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Thu, 04 Jun 2026 11:00:45 +0000",
-        "source_url": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Rachel-Harper-inspecting-B24-at-Lancaster-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
-        "summary": "Data shows Waymo's robotaxis are empty for almost half of the miles they drive.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 03 Jun 2026 15:13:03 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2267133850-2560x1440.jpg",
-        "impact": 3
-      },
-      {
         "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
         "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
         "category": "Tech",
@@ -113,6 +80,39 @@
         "published_at": "Thu, 04 Jun 2026 21:44:09 +0000",
         "source_url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/ad-blocker-1609310276.jpg?resize=1200,766",
+        "impact": 3
+      },
+      {
+        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+        "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 04 Jun 2026 21:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here",
+        "summary": "From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 05 Jun 2026 16:00:00 +0000",
+        "source_url": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
+        "image_url": "https://media.wired.com/photos/6a1db888f03599b1fa9a34dc/191:100/w_1280,c_limit/Wired%20Ferrynoia%20FINAL.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The Best Pool Accessories to Upgrade Your Summer (2026)",
+        "summary": "These are the cleaning robots, water monitors, and toys actually worth buying for pool season.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 05 Jun 2026 09:33:00 +0000",
+        "source_url": "https://www.wired.com/story/best-pool-accessories/",
+        "image_url": "https://media.wired.com/photos/6a21d98fe718dcf460b03639/191:100/w_1280,c_limit/The-Best-Pool-Accessories-to-Upgrade-Your-Summer.jpg",
         "impact": 3
       }
     ],
@@ -129,6 +129,17 @@
         "impact": 5
       },
       {
+        "title": "Flu drugs show promise against cognitive decline",
+        "summary": "A class of flu drugs may reduce cognitive decline and premature aging in people living with chronic viral infection, reports a new study led by Northwestern University that began with blood samples from people with HIV and extended into preclinical drug trials. The findings point to a potential new therapy for cognitiv",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 05 Jun 2026 11:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-flu-drugs-cognitive-decline.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/flu-drugs-show-promise-1.jpg",
+        "impact": 5
+      },
+      {
         "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
         "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nearly doubled survival fo",
         "category": "Medicine",
@@ -140,36 +151,25 @@
         "impact": 5
       },
       {
-        "title": "New targeted combination in people with relapsed acute myeloid leukemia shows promise",
-        "summary": "New research co-led by a Roswell Park Comprehensive Cancer Center leukemia expert highlights a promising investigational treatment approach using the targeted therapy ziftomenib for patients with a difficult-to-treat form of acute myeloid leukemia (AML). The findings, published in the journal Blood, show encouraging re",
+        "title": "Early immunotherapy aids in treating potentially fatal fungal pneumonias in preclinical models",
+        "summary": "A new study led by researchers at The University of Texas MD Anderson Cancer Center has shown that early administration of immunotherapy with standard antifungal treatment improved outcomes and largely alleviated immune system paralysis caused by fungal lung infections in preclinical models. These findings could herald",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 04 Jun 2026 15:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-combination-people-relapsed-acute-myeloid.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/leukemia.jpg",
+        "published_at": "Fri, 05 Jun 2026 11:20:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-early-immunotherapy-aids-potentially-fatal.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/early-immunotherapy-ai.jpg",
         "impact": 4
       },
       {
-        "title": "New drug cuts relapse risk by half in rare immune disorder trial",
-        "summary": "Stanford Medicine researchers and their colleagues found that a new drug, obexelimab, significantly reduces the risk of relapse in patients with IgG4-related disease, a rare chronic immune condition often misdiagnosed as cancer.",
+        "title": "We've been testing therapy like it's a pill—and some patients are paying the price",
+        "summary": "If you've had therapy, particularly if you got it through a public health care system like the NHS in the UK or Medicare in Australia, there's a good chance it was cognitive behavioral therapy (CBT). Even with private health insurance, if you want therapy, the one you are most likely to be recommended is CBT.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 04 Jun 2026 15:20:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-drug-relapse-rare-immune-disorder.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drug-cuts-relapse.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
-        "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining vitamin K with components related to vitamin A, the researchers developed compounds t",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 27 May 2026 00:02:46 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/glowing-human-brain-signals.webp",
+        "published_at": "Fri, 05 Jun 2026 10:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-weve-therapy-pill-patients-paying.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapy-1.jpg",
         "impact": 4
       }
     ],
@@ -232,15 +232,15 @@
     ],
     "space": [
       {
-        "title": "NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today",
-        "summary": "The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. 6, when it experienced an unexpected loss o",
+        "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
+        "summary": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 03 Jun 2026 13:12:05 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/c-original.jpg",
-        "impact": 5
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 05 Jun 2026 19:16:48 +0000",
+        "source_url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
+        "image_url": "https://images-assets.nasa.gov/image/jsc2026e001967/jsc2026e001967~large.jpg",
+        "impact": 4
       },
       {
         "title": "SpaceX launches back-to-back Starlink missions from both coasts 19 hours apart (photos)",
@@ -265,29 +265,40 @@
         "impact": 4
       },
       {
-        "title": "A Moonlit Earth as Seen From Artemis II",
-        "summary": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Thu, 04 Jun 2026 04:01:00 +0000",
-        "source_url": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System",
-        "summary": "A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping",
+        "title": "NASA Announces Winners of 2026 University Innovation Competition",
+        "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new ",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 03 Jun 2026 13:50:10 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/",
-        "image_url": "https://www.youtube.com/embed/ZhliQAmHrfs",
+        "published_at": "Fri, 05 Jun 2026 20:17:11 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/2026-rasc-al-photo-first-place-massachusetts-institute-of-technology-eclipse.jpg",
+        "impact": 4
+      },
+      {
+        "title": "First Steps: America’s Grueling Second Spacewalk",
+        "summary": "One year after Gemini IV astronaut Edward H. White completed NASA’s first spacewalk the agency prepared for a demanding second excursion. Originally scheduled for Gemini VIII, the extravehicular activity (EVA) was reassigned to Gemini IX-A after that mission ended early, with Gene Cernan taking on the task. On June 5, ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 05 Jun 2026 15:47:27 +0000",
+        "source_url": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/s66-38515orig.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "Astronomers Make \"Live\" Observation of a Nearby Protoplanetary Disk's Rotation",
+        "summary": "Ever since the first protoplanetary disk was discovered in 1984 around the star Beta Pictoris, these objects have presented astronomers with laboratories to study the births and evolution of worlds around distant stars. A team at France's National Center for Scientific Research (CNRS) and the University of Bordeaux, ma",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 05 Jun 2026 20:22:24 +0000",
+        "source_url": "https://www.universetoday.com/articles/astronomers-make-live-observation-of-a-nearby-protoplanetary-disks-rotation",
+        "image_url": "https://www.universetoday.com/article_images/images_ABAur_P112H_filtered_rsq_20260605_200259.jpeg",
+        "impact": 5
+      },
       {
         "title": "June Podcast: Dance of the Planets",
         "summary": "This month’s episode highlights the close pairing of Venus and Jupiter under way in the western sky after sunset. You'll also learn why astronomers are fixated on a star in Corona Borealis — and how to find a huge but dim constellation that will likely be new to you. So grab curiosity and come along on this month’s Sky",
@@ -300,25 +311,14 @@
         "impact": 4
       },
       {
-        "title": "Close Encounter: Jupiter and Venus",
-        "summary": "The two brightest planets in our sky will be less than 2 degrees apart on June 9th at sunset. The post Close Encounter: Jupiter and Venus appeared first on Sky &amp; Telescope.",
+        "title": "The Cosmic Web Like You've Never Seen it Before",
+        "summary": "Using data from NASA’s James Webb Space Telescope, astronomers led by researchers at the University of California, Riverside have produced the most detailed map of the cosmic web ever made, tracing the network of galaxies all the way back to when the universe was one billion years old.",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Thu, 28 May 2026 19:20:28 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-press-releases/close-encounter-jupiter-and-venus/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/2026_J2.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Lost in the Star Clouds — A Milky Way Odyssey",
-        "summary": "I share my \"discovery\" of a new Milky Way star cloud that's been staring at me for ages. The post Lost in the Star Clouds — A Milky Way Odyssey appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 27 May 2026 15:31:30 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/lost-in-the-star-clouds-a-milky-way-odyssey/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Star-clouds-Milky-Way-l-r-Sct-Gamma-Sct-Small-Sgr-May-14-2026-ST.webp",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 05 Jun 2026 18:55:22 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-cosmic-web-like-youve-never-seen-it-before",
+        "image_url": "https://www.universetoday.com/article_images/Screenshot_2026-06-05_at_11-54-06_COSMOS-Web_20260605_185520.png",
         "impact": 4
       },
       {
@@ -368,14 +368,14 @@
         "impact": 4
       },
       {
-        "title": "Dezeen Debate features \"proper dystopian\" Prairie Ark Gallery",
-        "summary": "The latest edition of our Dezeen Debate newsletter features the Prairie Ark gallery by Chinese architecture studio Büro Ziyu Zhuang, which resembles a flying saucer. Subscribe to Dezeen Debate now. Located on the shores of Laoli Lake in Inner Mongolia, the futuristic design was intended to get people to escape their ro",
+        "title": "line+ embeds a cluster of sculptural roofed volumes within red-earth valley in china",
+        "summary": "red-toned walls and locally sourced volcanic stone allow the buildings to settle into the terrain. The post line+ embeds a cluster of sculptural roofed volumes within red-earth valley in china appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 26 May 2026 18:00:01 +0000",
-        "source_url": "https://www.dezeen.com/2026/05/26/buro-ziyu-zhuang-prairie-ark-dezeen-debate/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 05 Jun 2026 21:45:22 +0000",
+        "source_url": "https://www.designboom.com/architecture/line-plus-cluster-sculptural-roofed-volumes-red-earth-valley-china/",
+        "image_url": "https://www.designboom.com/twitterimages/dbsub/449427/2026-06-04/red-valley-dwellings-3-6a213b55847a1.jpg",
         "impact": 4
       },
       {
@@ -402,17 +402,6 @@
       }
     ],
     "construction": [
-      {
-        "title": "AtkinsRéalis to deliver engineering services for Belfast Rapid Transit Phase 2",
-        "summary": "The Northern Ireland Department for Infrastructure (DfI) has appointed engineering firm AtkinsRéalis to provide design and construction supervision services for the second phase of Belfast’s Rapid Transit (BRT) programme. The post AtkinsRéalis to deliver engineering services for Belfast Rapid Transit Phase 2 appeared f",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 03 Jun 2026 09:50:26 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/atkinsrealis-to-deliver-engineering-services-for-belfast-rapid-transit-phase-2-03-06-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/AdobeStock_290778330-560x315.jpeg",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
@@ -456,61 +445,72 @@
         "source_url": "https://www.constructiondive.com/news/data-center-construction-spending-april/821894/",
         "image_url": "https://imgproxy.divecdn.com/ZbQaFcWbUI4OOEwRrGy71_wmR-S-1HarPEQXKay-XNg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNjE1OTI3LmpwZw==.webp",
         "impact": 3
+      },
+      {
+        "title": "Getting the Story Straight on Top-Down Construction",
+        "summary": "This letter is a rebuttal to online comments posted by Michael McNally and Robert T. Williams in response to the cover story, “From the Top Down” (ENR 10/31-11/7/22, p. 18), and its associated sidebar about TGE Top Down LLC, where I am chairman.",
+        "category": "Construction",
+        "source": "enr.com",
+        "journal": "enr.com",
+        "published_at": "Wed, 21 Dec 2022 16:00:00 -0500",
+        "source_url": "https://www.enr.com/articles/55647-getting-the-story-straight-on-top-down-construction",
+        "image_url": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-Letters.png?height=635&t=1542393215&width=1200",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-        "summary": "arXiv:2606.04037v1 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails o",
+        "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+        "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users i",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.04037",
+        "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.05256",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-        "summary": "arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We in",
+        "title": "Harnessing Generalist Agents for Contextualized Time Series",
+        "summary": "arXiv:2606.05404v1 Announce Type: new Abstract: Time series are often embedded in rich contexts that are essential for holistic modeling. Moreover, real-world practitioners often require end-to-end workflows for analyzing temporal dynamics, where widely studied tasks such as forecasting are only one step in a broader s",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.04202",
+        "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.05404",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
-        "summary": "arXiv:2606.04296v1 Announce Type: new Abstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide when to interrupt an agent have become essential. We study this timing problem using a continuous 18-dimensional affective-dynamics engine (HEART",
+        "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
+        "summary": "arXiv:2606.05436v1 Announce Type: new Abstract: Summarizing the latest medical literature to guide clinical decision-making is essential for evidence-based medicine and high-quality patient care. Yet clinicians face increasing challenges due to limited time with patients and a rapidly growing volume of published articl",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.04296",
+        "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.05436",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
-        "summary": "arXiv:2606.04421v1 Announce Type: new Abstract: Many current agentic systems and LLM pipelines correct mistakes by optimizing outcome reward. This addresses only the what of failure: when an outcome diverges from prediction, the why and when of the mismatch are not systematically logged, reviewed, or corrected, so the ",
+        "title": "Brick-Composer: Using MLLMs for Assembly with Diverse Bricks",
+        "summary": "arXiv:2606.05445v1 Announce Type: new Abstract: We dream of AI agents that can read arbitrary designs and construct real-world objects from reusable building blocks. As a first step toward this vision, we study whether multimodal large language models (MLLMs) possess the visual grounding and spatial reasoning capabilit",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.04421",
+        "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.05445",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
-        "summary": "arXiv:2606.04484v1 Announce Type: new Abstract: We present AgentJet, a distributed swarm training framework for large language model (LLM) agent reinforcement learning. Unlike centralized frameworks that tightly couple agent rollouts with model optimization, AgentJet adopts a decoupled multi-node architecture in which ",
+        "title": "EpiEvolve: Self-Evolving Agents for Streaming Pandemic Forecasting under Regime Shifts",
+        "summary": "arXiv:2606.05513v1 Announce Type: new Abstract: Epidemic LLM forecasters are usually trained and evaluated as static supervised models, whereas operational pandemic forecasting is a streaming process in which labels arrive after predictions and disease regimes shift over time. We study this mismatch in weekly COVID-19 ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 04 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.04484",
+        "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.05513",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
