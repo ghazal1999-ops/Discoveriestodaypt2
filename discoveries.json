@@ -1,8 +1,30 @@
 {
-  "date": "2026-06-07",
-  "last_updated": "2026-06-07 00:02 UTC",
+  "date": "2026-06-08",
+  "last_updated": "2026-06-08 00:04 UTC",
   "categories": {
     "science": [
+      {
+        "title": "The Probiotic Breakthrough for Natural Anxiety Relief and Better Mental Health",
+        "summary": "A surprising gut-brain discovery suggests that anxiety could one day be treated with specially designed probiotics. Could anxiety be shaped, at least in part, by tiny organisms living in the gut? Research from Duke-NUS Medical School and the National Neuroscience Institute of Singapore points to a striking connection b",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sun, 07 Jun 2026 21:35:57 +0000",
+        "source_url": "https://scitechdaily.com/the-probiotic-breakthrough-for-natural-anxiety-relief-and-better-mental-health/",
+        "image_url": "https://scitechdaily.com/images/Holding-Supplement-Capsule-777x518.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+        "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. The discovery sharpens our understanding of human vision and could lead to more precise color technologies and visualizations.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 07 Jun 2026 03:55:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/color-perception-experiment.webp",
+        "impact": 5
+      },
       {
         "title": "Scientists discovered something surprising about french fries and diabetes",
         "summary": "French fries may be the real potato problem. A large study tracking more than 205,000 people for nearly 40 years found that eating three servings of fries per week was linked to a 20% higher risk of developing type 2 diabetes, while baked, boiled, or mashed potatoes showed no significant increase in risk. The research ",
@@ -35,28 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp",
         "impact": 5
-      },
-      {
-        "title": "The ocean's health may depend on a tiny microbe inside fish",
-        "summary": "A surprising new discovery suggests that tiny microbes living inside fish may be helping shape the chemistry of the world’s oceans. Scientists found evidence that bacteria in the guts of marine fish work alongside their hosts to produce calcium carbonate, a mineral that plays an important role in ocean health and carbo",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 31 May 2026 07:52:17 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/gulf-toadfish-opsanus-beta.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Discover Key Alzheimer’s “Tipping Point” That May Decide Who Gets Dementia",
-        "summary": "A new study suggests that subtle changes in the brain’s immune cells could help explain why some people remain mentally sharp despite Alzheimer’s pathology. For decades, Alzheimer’s research has focused on the buildup of amyloid plaques and tau tangles, the two hallmark features of the disease. Yet a puzzling reality h",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sat, 06 Jun 2026 16:04:11 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-key-alzheimers-tipping-point-that-may-decide-who-gets-dementia/",
-        "image_url": "https://scitechdaily.com/images/Amyloid-Plaques-Neurons-Alzheimers-Dementia-777x583.jpg",
-        "impact": 5
       }
     ],
     "tech": [
@@ -68,7 +68,18 @@
         "journal": "arstechnica.com",
         "published_at": "Thu, 04 Jun 2026 22:23:36 +0000",
         "source_url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
-        "image_url": "https://picsum.photos/seed/techfallback/1200/800",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279229514-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Best Red-Light Therapy for Hair Restoration and Regrowth (2026)",
+        "summary": "After 16 weeks of daily use, our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sun, 07 Jun 2026 10:02:00 +0000",
+        "source_url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+        "image_url": "https://media.wired.com/photos/6a236c81923e8b4d30970aa7/191:100/w_1280,c_limit/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg",
         "impact": 3
       },
       {
@@ -94,17 +105,6 @@
         "impact": 3
       },
       {
-        "title": "Therabody Promo Codes: 15% Off June 2026",
-        "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 05 Jun 2026 05:00:00 +0000",
-        "source_url": "https://www.wired.com/story/therabody-promo-code/",
-        "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/191:100/w_1280,c_limit/WIRED-Coupons-15.jpg",
-        "impact": 3
-      },
-      {
         "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram account",
         "category": "Tech",
@@ -118,14 +118,14 @@
     ],
     "medicine": [
       {
-        "title": "New drug could finally stop deadly fatty liver disease",
-        "summary": "Scientists at UC San Diego have unveiled a potentially game-changing treatment for MASH, a severe fatty liver disease affecting millions worldwide. The experimental drug, ION224, blocks a liver enzyme that drives fat buildup and inflammation, two key forces behind liver damage. In clinical trials, patients showed strik",
+        "title": "Therapy may be judged by the wrong standards, argues new analysis",
+        "summary": "Psychological therapies may be evaluated using research methods designed for drugs rather than talking treatments—potentially limiting patient choice and shaping mental health services in the wrong way—according to a new academic analysis from The University of Manchester.",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 27 May 2026 08:49:37 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260526233632.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 07 Jun 2026 05:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-therapy-wrong-standards-analysis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cognitive-therapy.jpg",
         "impact": 5
       },
       {
@@ -162,14 +162,14 @@
         "impact": 4
       },
       {
-        "title": "Antibody fragment prevents hemorrhages associated with new Alzheimer's treatments",
-        "summary": "In 2025, the European Medicines Agency approved two antibodies for Alzheimer's disease: lecanemab (LeqembiTM, from Biogen) and donanemab (Kisunla, from Eli Lilly and Co.), both based on immunotherapy (the use of molecules from the immune system to treat diseases). These antibodies, obtained in the laboratory, act again",
+        "title": "Scientists discover why ozempic may not work for some people",
+        "summary": "Scientists have identified genetic variants that may make some people less responsive to GLP-1 drugs used to treat Type 2 diabetes. Roughly 10% of the population carries these variants, which appear to cause a mysterious form of \"GLP-1 resistance.\" In several clinical trials, carriers were significantly less likely to ",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 06 Jun 2026 08:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-antibody-fragment-hemorrhages-alzheimer-treatments.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/antibody-fragment-prev.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 05 Jun 2026 11:13:02 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260605023417.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/woman-holding-semaglutide-ozempic-weight-loss-diabetes-pen.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 4
       },
       {
+        "title": "Could meteor storms harm NASA's future moon missions?",
+        "summary": "\"If a major meteor shower outburst or storm is forecast during a mission or crew activity, the mission would be delayed or the crew kept inside until the outburst or storm is over.\"",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 07 Jun 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Wbpwmd52hamKFkhV2QLWye-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak",
         "summary": "ISS astronauts briefly sheltered aboard an attached SpaceX Dragon capsule today (June 5) while cosmonauts tried to fix a persistent leak on the Russian side of the orbiting lab.",
         "category": "Space",
@@ -273,17 +284,6 @@
         "published_at": "Thu, 04 Jun 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/earth/a-rainbow-patchwork-quilt-shows-agriculture-from-space-space-photo-of-the-day-for-june-4-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/DzdB8ruo3osE6C7mqyLupg-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Like 'the loss of a loved one': NASA's Mars orbiter MAVEN is officially dead after months of radio silence",
-        "summary": "NASA has declared its MAVEN Mars orbiter dead after Red Planet anomaly led to months of lost contact.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 03 Jun 2026 15:32:16 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/28oCLxYZR7P9vjnUXG6fUH-1280-80.png",
         "impact": 4
       }
     ],
@@ -357,6 +357,17 @@
         "impact": 5
       },
       {
+        "title": "MACH designs red town hall in Spain to have \"warm and welcoming presence\"",
+        "summary": "Local architecture studio MACH has completed Calasparra Town Hall in Spain, using red textured render and pink-toned concrete to give the building a welcoming feel. Designed for Calasparra City Council, the 1,120-square-metre building provides private and public spaces on a site adjacent to the city's municipal theatre",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sun, 07 Jun 2026 10:00:36 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/07/mach-calasparra-town-hall-spain/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
         "title": "OMA designs pyramidal building in China as \"three-dimensional village\"",
         "summary": "Architecture studio OMA has completed Hangzhou Prism, a mixed-use building in southeastern China with a pyramidal form that incorporates a public square at its base. Located in an emerging central business district in Hangzhou, the asymmetric building functions as a mixed-use complex with a hotel, homes, offices and a ",
         "category": "Architecture",
@@ -387,17 +398,6 @@
         "published_at": "Thu, 04 Jun 2026 08:00:34 +0000",
         "source_url": "https://www.designboom.com/architecture/herzogdemeuron-tirana-palace-congresses-cultural-hub-tower/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/herzogdemeuron-tirana-palace-congresses-cultural-hub-tower-designboom-1200.jpg",
-        "impact": 4
-      },
-      {
-        "title": "recycled materials sculpt kindergarten play structures inspired by the mexican landscape",
-        "summary": "nómada estudio urbano redefines kindergartens through adaptive reuse, participation, and local identity. The post recycled materials sculpt kindergarten play structures inspired by the mexican landscape appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Wed, 03 Jun 2026 10:30:45 +0000",
-        "source_url": "https://www.designboom.com/architecture/recycled-materials-kindergarten-play-structures-mexican-landscape-nomada-estudio-urbano/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/nomada-estudio-urbano-kindergarten-mexico-child-friendly-spaces-desert-adaptive-reuse-community-participation-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-        "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users i",
+        "title": "Warp’s big bet on building open source with GPT-5.5",
+        "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.05256",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 27 May 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/warp",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7H0xxotNq29rPNCbEeOmXP/13f456fbb5b2c39b6cea84ce6647dafc/oai_Warp_SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Harnessing Generalist Agents for Contextualized Time Series",
-        "summary": "arXiv:2606.05404v1 Announce Type: new Abstract: Time series are often embedded in rich contexts that are essential for holistic modeling. Moreover, real-world practitioners often require end-to-end workflows for analyzing temporal dynamics, where widely studied tasks such as forecasting are only one step in a broader s",
+        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+        "summary": "",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.05404",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "huggingface.co",
+        "journal": "huggingface.co",
+        "published_at": "Mon, 01 Jun 2026 13:51:18 GMT",
+        "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+        "image_url": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
+        "impact": 4
       },
       {
-        "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
-        "summary": "arXiv:2606.05436v1 Announce Type: new Abstract: Summarizing the latest medical literature to guide clinical decision-making is essential for evidence-based medicine and high-quality patient care. Yet clinicians face increasing challenges due to limited time with patients and a rapidly growing volume of published articl",
+        "title": "How Endava is redesigning software delivery around AI agents",
+        "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.05436",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 04 Jun 2026 12:00:00 GMT",
+        "source_url": "https://openai.com/index/endava-frontiers",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Brick-Composer: Using MLLMs for Assembly with Diverse Bricks",
-        "summary": "arXiv:2606.05445v1 Announce Type: new Abstract: We dream of AI agents that can read arbitrary designs and construct real-world objects from reusable building blocks. As a first step toward this vision, we study whether multimodal large language models (MLLMs) possess the visual grounding and spatial reasoning capabilit",
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.05445",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Mon, 01 Jun 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2Tbsus4QAtPDAlsIM3vYO2/87f4c6894832d7937e54ecb3c245fdbe/OAI_AWS_Partnership_16x9_Art_Card.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "EpiEvolve: Self-Evolving Agents for Streaming Pandemic Forecasting under Regime Shifts",
-        "summary": "arXiv:2606.05513v1 Announce Type: new Abstract: Epidemic LLM forecasters are usually trained and evaluated as static supervised models, whereas operational pandemic forecasting is a streaming process in which labels arrive after predictions and disease regimes shift over time. We study this mismatch in weekly COVID-19 ",
+        "title": "A shared playbook for trustworthy third party evaluations",
+        "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.05513",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 29 May 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3iGaglpVIr4csE6CvQuo7Q/61c51a8c408555907d6b0588f8d40172/SEO-shared-playbook-for-trustworthy-third-party-evaluations.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
