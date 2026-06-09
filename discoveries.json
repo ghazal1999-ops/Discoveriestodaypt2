@@ -1,8 +1,19 @@
 {
-  "date": "2026-06-08",
-  "last_updated": "2026-06-08 00:04 UTC",
+  "date": "2026-06-09",
+  "last_updated": "2026-06-09 00:03 UTC",
   "categories": {
     "science": [
+      {
+        "title": "New cryogenic silicon carbide hardware addresses quantum computing bottleneck",
+        "summary": "Researchers from the Department of Electrical and Computer Engineering in the Faculty of Engineering at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC) have achieved a major breakthrough in cryogenic electronics. The team has developed a programmable neuromor",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Mon, 08 Jun 2026 17:10:06 EDT",
+        "source_url": "https://phys.org/news/2026-06-cryogenic-silicon-carbide-hardware-quantum.html",
+        "image_url": "https://picsum.photos/seed/sciencefallback/1200/800",
+        "impact": 5
+      },
       {
         "title": "The Probiotic Breakthrough for Natural Anxiety Relief and Better Mental Health",
         "summary": "A surprising gut-brain discovery suggests that anxiety could one day be treated with specially designed probiotics. Could anxiety be shaped, at least in part, by tiny organisms living in the gut? Research from Duke-NUS Medical School and the National Neuroscience Institute of Singapore points to a striking connection b",
@@ -12,6 +23,17 @@
         "published_at": "Sun, 07 Jun 2026 21:35:57 +0000",
         "source_url": "https://scitechdaily.com/the-probiotic-breakthrough-for-natural-anxiety-relief-and-better-mental-health/",
         "image_url": "https://scitechdaily.com/images/Holding-Supplement-Capsule-777x518.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
+        "summary": "Researchers have solved a decades-old mystery by showing that a cache of 43 helmets found off the Spanish coast is medieval, not Roman. The remarkable discovery exposes a thriving weapons trade network that connected Mediterranean powers during a time of piracy, warfare, and growing demand for military equipment.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 08 Jun 2026 05:42:36 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075515.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/helmets-recovered-off-coast-of-benicarlo.webp",
         "impact": 5
       },
       {
@@ -35,110 +57,66 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260603015218.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/french-fries-flying.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists discover inherited traits that break Mendel’s Laws of genetics",
-        "summary": "A major mouse study found that some inherited traits are passed down through epigenetic changes that break the classic rules of genetics. Researchers discovered hundreds of cases where these chemical DNA marks behaved unexpectedly, including some that seemed to emerge out of nowhere. They also identified the first know",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 01 Jun 2026 08:58:04 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053420.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/dna-genetic-heredity.webp",
-        "impact": 5
-      },
-      {
-        "title": "New solar desalination breakthrough makes fresh water without toxic brine",
-        "summary": "Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing clogging. The process was ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 30 May 2026 05:34:18 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
-        "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
+        "title": "Apple drops support for a long list of Apple Watches with latest OS updates",
+        "summary": "I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before. Apple is dropping support for at least three generati",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Thu, 04 Jun 2026 22:23:36 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279229514-1152x648.jpg",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-06-08T15:45:00-04:00",
+        "source_url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24023358/226266_APPLE_WATCH_8_SE_PHO_akrales_0350.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
+      },
+      {
+        "title": "Apple plays catch-up at WWDC",
+        "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 08 Jun 2026 21:15:42 +0000",
+        "source_url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/tim-cook-wwdc-2026.jpeg?resize=1200,677",
         "impact": 3
       },
       {
-        "title": "Best Red-Light Therapy for Hair Restoration and Regrowth (2026)",
-        "summary": "After 16 weeks of daily use, our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+        "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+        "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 08 Jun 2026 18:23:04 +0000",
+        "source_url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?resize=1200,666",
+        "impact": 3
+      },
+      {
+        "title": "44 things coming to your Apple devices that you might have missed",
+        "summary": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've rounded up a bunch of them right here. The new operating systems are available in [&#8230;]",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-06-08T16:26:52-04:00",
+        "source_url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_470238.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+        "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
         "category": "Tech",
         "source": "wired.com",
         "journal": "wired.com",
-        "published_at": "Sun, 07 Jun 2026 10:02:00 +0000",
-        "source_url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-        "image_url": "https://media.wired.com/photos/6a236c81923e8b4d30970aa7/191:100/w_1280,c_limit/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg",
-        "impact": 3
-      },
-      {
-        "title": "So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here",
-        "summary": "From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 05 Jun 2026 16:00:00 +0000",
-        "source_url": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
-        "image_url": "https://media.wired.com/photos/6a1db888f03599b1fa9a34dc/191:100/w_1280,c_limit/Wired%20Ferrynoia%20FINAL.jpg",
-        "impact": 3
-      },
-      {
-        "title": "The Best Pool Accessories to Upgrade Your Summer (2026)",
-        "summary": "These are the cleaning robots, water monitors, and toys actually worth buying for pool season.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 05 Jun 2026 09:33:00 +0000",
-        "source_url": "https://www.wired.com/story/best-pool-accessories/",
-        "image_url": "https://media.wired.com/photos/6a21d98fe718dcf460b03639/191:100/w_1280,c_limit/The-Best-Pool-Accessories-to-Upgrade-Your-Summer.jpg",
-        "impact": 3
-      },
-      {
-        "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram account",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 05 Jun 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/hand-keys1.jpg?resize=1200,600",
+        "published_at": "Mon, 08 Jun 2026 17:44:28 +0000",
+        "source_url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+        "image_url": "https://media.wired.com/photos/6a26d742255fdba4ebd668f3/191:100/w_1280,c_limit/GettyImages-2267728396.jpg",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Therapy may be judged by the wrong standards, argues new analysis",
-        "summary": "Psychological therapies may be evaluated using research methods designed for drugs rather than talking treatments—potentially limiting patient choice and shaping mental health services in the wrong way—according to a new academic analysis from The University of Manchester.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 07 Jun 2026 05:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-therapy-wrong-standards-analysis.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cognitive-therapy.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Common arthritis drugs reduce systemic Sjögren's disease activity in 24 weeks",
-        "summary": "A combination of two widely available anti-rheumatic drugs offers the first effective and affordable treatment for patients with Sjögren's disease with systemic disease activity, according to new results from a clinical trial coordinated by UMC Utrecht. The study showed that treatment with leflunomide and hydroxychloro",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 06 Jun 2026 15:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-common-arthritis-drugs-sjgren-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/widely-available-drug.jpg",
-        "impact": 5
-      },
       {
         "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
         "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nearly doubled survival fo",
@@ -151,14 +129,25 @@
         "impact": 5
       },
       {
-        "title": "Drug nearly doubles survival in advanced pancreatic cancer—how daraxonrasib overcame an 'undruggable' disease",
-        "summary": "For a long time, the likelihood of surviving pancreatic cancer has been extremely low. For patients who were diagnosed with metastatic pancreatic cancer between 2015 and 2021, about 97% died within five years of their diagnosis.",
+        "title": "Blood test may predict immunotherapy response in head and neck cancer",
+        "summary": "A new Northwestern Medicine study suggests that a simple blood test could help identify which patients with head and neck cancer will be most likely to benefit from immunotherapy, according to a study published in the Journal of Clinical Investigation.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 06 Jun 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-drug-survival-advanced-pancreatic-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drug-nearly-double.jpg",
+        "published_at": "Mon, 08 Jun 2026 17:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-blood-immunotherapy-response-neck-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood-test-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Doctors thought this kidney drug helped some patients. It may help millions more.",
+        "summary": "A trio of major studies found that finerenone may protect the kidneys and heart in far more people than previously thought. The drug significantly slowed kidney disease progression and reduced the risks of kidney failure, heart failure, cardiovascular death, and overall mortality. Researchers saw benefits not only in p",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 08 Jun 2026 00:20:03 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075513.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/doctor-supports-kidney-health.webp",
         "impact": 4
       },
       {
@@ -171,9 +160,31 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260605023417.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/woman-holding-semaglutide-ozempic-weight-loss-diabetes-pen.webp",
         "impact": 4
+      },
+      {
+        "title": "South and Southeast Asia lead the world on taxing sugary drinks, analysis reveals",
+        "summary": "One of the challenges public health officials face in reducing diet-related disease is the relatively easy and inexpensive access to sugar-sweetened beverages globally. To help address this burden, public health organizations like the World Health Organization and American Heart Association have recommended that govern",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 08 Jun 2026 18:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-south-southeast-asia-world-taxing.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/south-and-southeast-as.jpg",
+        "impact": 4
       }
     ],
     "mathematics": [
+      {
+        "title": "MIT affiliates win 2026 Breakthrough, New Horizons prizes",
+        "summary": "Faculty member Shu-Heng Shao, in addition to four MIT alumni, are honored by the Breakthrough Prize Foundation.",
+        "category": "Mathematics",
+        "source": "news.mit.edu",
+        "journal": "news.mit.edu",
+        "published_at": "Mon, 08 Jun 2026 16:40:00 -0400",
+        "source_url": "https://news.mit.edu/2026/mit-affiliates-win-breakthrough-new-horizons-prizes-0608",
+        "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/breakthrough-26.png?itok=tdxQiGtl",
+        "impact": 4
+      },
       {
         "title": "MIT affiliates win AI for Math grants to accelerate mathematical discovery",
         "summary": "Department of Mathematics researchers David Roe and Andrew Sutherland seek to advance automated theorem proving; four additional MIT alumni also awarded.",
@@ -184,6 +195,17 @@
         "source_url": "https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922",
         "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202509/mit-mathematics-roe-sutherland.jpg?itok=GaIs7BPh",
         "impact": 4
+      },
+      {
+        "title": "How Terry Tao Became an Evangelist for AI in Math",
+        "summary": "With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research. The post How Terry Tao Became an Evangelist for AI in Math first appeared on Quanta Magazine",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Mon, 08 Jun 2026 15:17:08 +0000",
+        "source_url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg",
+        "impact": 3
       },
       {
         "title": "Two Researchers Are Rebuilding Mathematics From the Ground Up",
@@ -206,31 +228,31 @@
         "source_url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
         "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Grothendieck-cr-Mercedes-deBellard-Social.jpg",
         "impact": 3
-      },
-      {
-        "title": "What Do Gödel’s Incompleteness Theorems Truly Mean?",
-        "summary": "At 25, Kurt Gödel proved there can never be a mathematical “theory of everything.” Columnist Natalie Wolchover explores the implications. The post What Do Gödel’s Incompleteness Theorems Truly Mean? first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Mon, 18 May 2026 15:14:42 +0000",
-        "source_url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Qualia-Incompleteness-cr-Kurt-Godel-Papers-the-Shelby-White-and-Leon-Levy-Achives-Center-Institute-for-Advanced-Study-Samuel-Velasco-and-Michael-Kanyongolo-Social.jpg",
-        "impact": 3
-      },
-      {
-        "title": "How Unknowable Math Can Help Hide Secrets",
-        "summary": "A graduate student recently harnessed the complexity of mathematical proofs to create a powerful new tool in cryptography. The post How Unknowable Math Can Help Hide Secrets first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Mon, 11 May 2026 14:15:13 +0000",
-        "source_url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/GodelCryptography-crKristinaArmitage-Social.jpg",
-        "impact": 3
       }
     ],
     "space": [
+      {
+        "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup",
+        "summary": "As&#160;the FIFA World Cup&#160;approaches, NASA is bringing&#160;space science and&#160;engineering&#160;to soccer fans&#160;worldwide.&#160;From&#160;June 11&#160;to July 19,&#160;2026,&#160;NASA will&#160;host an&#160;exhibit&#160;at FIFA Fan Festival™&#160;Houston where visitors can learn how research aboard the In",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 08 Jun 2026 19:36:08 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
+        "image_url": "https://www.youtube.com/embed/g8zVn14wg38",
+        "impact": 5
+      },
+      {
+        "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
+        "summary": "Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there.",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 05 Jun 2026 19:16:48 +0000",
+        "source_url": "https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
+        "image_url": "https://images-assets.nasa.gov/image/jsc2026e001967/jsc2026e001967~large.jpg",
+        "impact": 4
+      },
       {
         "title": "SpaceX launches back-to-back Starlink missions from both coasts 19 hours apart (photos)",
         "summary": "More than 50 new Starlink satellites are now in orbit after launches from California and Florida.",
@@ -243,47 +265,25 @@
         "impact": 4
       },
       {
-        "title": "Could meteor storms harm NASA's future moon missions?",
-        "summary": "\"If a major meteor shower outburst or storm is forecast during a mission or crew activity, the mission would be delayed or the crew kept inside until the outburst or storm is over.\"",
+        "title": "NASA’s INCUS Satellites Progress Toward Launch",
+        "summary": "Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 07 Jun 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Wbpwmd52hamKFkhV2QLWye-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Mon, 08 Jun 2026 15:22:07 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26614/PIA26614.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       },
       {
-        "title": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak",
-        "summary": "ISS astronauts briefly sheltered aboard an attached SpaceX Dragon capsule today (June 5) while cosmonauts tried to fix a persistent leak on the Russian side of the orbiting lab.",
+        "title": "NASA Announces Winners of 2026 University Innovation Competition",
+        "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new ",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 05 Jun 2026 15:30:32 +0000",
-        "source_url": "https://www.space.com/space-exploration/international-space-station/astronauts-on-international-space-station-take-shelter-in-spacex-dragon-as-cosmonauts-try-to-fix-air-leak",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3gfjeM7iRcKjtB3AdJHJwE-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA's dead Mars orbiter MAVEN will crash into the Red Planet in the next 100 years. It's not the only probe in the Mars morgue",
-        "summary": "NASA just declared its MAVEN Mars orbiter dead after a dozen productive years circling the Red Planet. Here's the fate that awaits the probe.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 04 Jun 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasas-dead-mars-orbiter-maven-will-crash-into-the-red-planet-in-the-next-100-years-its-not-the-only-probe-in-the-mars-morgue",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/GE9DTTt4iHNbxzjYsR4C94-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "A rainbow patchwork quilt shows agriculture from space | Space photo of the day for June 4, 2026",
-        "summary": "A rainbow blanket of patchwork colors sprawls across South Africa in this new composite image created using data from NASA's latest Earth-observing mission.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 04 Jun 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/earth/a-rainbow-patchwork-quilt-shows-agriculture-from-space-space-photo-of-the-day-for-june-4-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/DzdB8ruo3osE6C7mqyLupg-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 05 Jun 2026 20:17:11 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/2026-rasc-al-photo-first-place-massachusetts-institute-of-technology-eclipse.jpg",
         "impact": 4
       }
     ],
@@ -346,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "KOPA / Ivy Studio",
+        "summary": "Located in the heart of Pointe-Saint-Charles, a historic industrial neighborhood in Montreal, Kopa establishes itself as a premier destination for community and indoor racket sports. Occupying a freestanding, single-story industrial building of roughly 20,000 square feet, the project required a significant structural i",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 08 Jun 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042236/kopa-ivy-studio",
+        "image_url": "https://images.adsttc.com/media/images/6a26/1c36/54de/fb01/89c8/f6e3/large_jpg/kopa-ivy-studio_5.jpg?1780882546",
+        "impact": 5
+      },
+      {
         "title": "three timber rejuvenation halls by JK-AR surround a series of traditional korean courtyards",
         "summary": "curved structural elements reference historic buildings in gyeongju. The post three timber rejuvenation halls by JK-AR surround a series of traditional korean courtyards appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
@@ -357,47 +368,36 @@
         "impact": 5
       },
       {
-        "title": "MACH designs red town hall in Spain to have \"warm and welcoming presence\"",
-        "summary": "Local architecture studio MACH has completed Calasparra Town Hall in Spain, using red textured render and pink-toned concrete to give the building a welcoming feel. Designed for Calasparra City Council, the 1,120-square-metre building provides private and public spaces on a site adjacent to the city's municipal theatre",
+        "title": "\"My Solutions Are Not Polite:\" Liam Young on Architecture in the Age of Polycrisis in Louisiana Channel Interview",
+        "summary": "Australian artist, director, and BAFTA-nominated producer Liam Young creates imaginary worlds as a way of thinking through the futures we fear, desire, and are already making. As a creator and designer of atmospheres, he proposes speculative landscapes reflecting the possibilities of a world to come, whether ideal or t",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 08 Jun 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042237/my-solutions-are-not-polite-liam-young-on-architecture-in-the-age-of-polycrisis-in-louisiana-channel-interview",
+        "image_url": "https://images.adsttc.com/media/images/6a26/1a8f/54de/fb01/89c8/f6bd/large_jpg/my-solutions-are-not-polite-liam-young-on-architecture-in-the-age-of-polycrisis-in-louisiana-channel-interview_1.jpg?1780882070",
+        "impact": 4
+      },
+      {
+        "title": "Gong’s House / Various Associates",
+        "summary": "Gong's House, designed by Various Associates, prioritizes functionality and comfort to address the real needs of the family. The design team has developed and incorporated localized building materials, integrating the urban lifestyle with the natural environment of the countryside, and offering a comfortable gathering ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 07 Jun 2026 21:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1018074/gongs-house-various-associates",
+        "image_url": "https://images.adsttc.com/media/images/667a/0b62/f15c/cd3c/a6a2/a40b/large_jpg/gongs-house-various-associates_36.jpg?1719274357",
+        "impact": 4
+      },
+      {
+        "title": "Wadhal subverts suburban architecture for home in west London",
+        "summary": "Architecture studio Wadhal has completed Wade House in London, using textured brickwork, pared-back fenestration and concealed guttering to put a subtly contemporary spin on typical suburban architecture. Replacing a pair of dilapidated garages in Ruislip, strict planning regulations required the new detached home to m",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
-        "published_at": "Sun, 07 Jun 2026 10:00:36 +0000",
-        "source_url": "https://www.dezeen.com/2026/06/07/mach-calasparra-town-hall-spain/",
+        "published_at": "Mon, 08 Jun 2026 10:30:23 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/08/wadhal-wade-house-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "OMA designs pyramidal building in China as \"three-dimensional village\"",
-        "summary": "Architecture studio OMA has completed Hangzhou Prism, a mixed-use building in southeastern China with a pyramidal form that incorporates a public square at its base. Located in an emerging central business district in Hangzhou, the asymmetric building functions as a mixed-use complex with a hotel, homes, offices and a ",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 01 Jun 2026 10:25:10 +0000",
-        "source_url": "https://www.dezeen.com/2026/06/01/oma-hangzhou-prism/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "line+ embeds a cluster of sculptural roofed volumes within red-earth valley in china",
-        "summary": "red-toned walls and locally sourced volcanic stone allow the buildings to settle into the terrain. The post line+ embeds a cluster of sculptural roofed volumes within red-earth valley in china appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Fri, 05 Jun 2026 21:45:22 +0000",
-        "source_url": "https://www.designboom.com/architecture/line-plus-cluster-sculptural-roofed-volumes-red-earth-valley-china/",
-        "image_url": "https://www.designboom.com/twitterimages/dbsub/449427/2026-06-04/red-valley-dwellings-3-6a213b55847a1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "herzog & de meuron to revitalize tirana’s palace of congresses with cultural hub and tower",
-        "summary": "the project opens the historic complex to the city through expanded public space, upgraded cultural facilities, and new urban connections. The post herzog &#038; de meuron to revitalize tirana&#8217;s palace of congresses with cultural hub and tower appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 04 Jun 2026 08:00:34 +0000",
-        "source_url": "https://www.designboom.com/architecture/herzogdemeuron-tirana-palace-congresses-cultural-hub-tower/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/herzogdemeuron-tirana-palace-congresses-cultural-hub-tower-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -425,94 +425,94 @@
         "impact": 4
       },
       {
-        "title": "Walbridge breaks ground on $16B Stargate data center",
-        "summary": "Around 700 union tradespeople will work under a project labor agreement on OpenAI and Oracle&rsquo;s 250-acre campus, according to the project announcement.",
+        "title": "Tutor Perini unit grabs $48M data center manufacturing job",
+        "summary": "Fisk Electric will work on a facility in Houston that fabricates data center infrastructure components and artificial intelligence-related hardware, according to the contractor.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 04 Jun 2026 10:15:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/walbridge-breaks-ground-stargate-data-center-openai-oracle/821972/",
-        "image_url": "https://imgproxy.divecdn.com/fco0QPCNtIQI1SgE5KN7FuaWx2Np_xFG__eMSyOz0Uw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZWxhdGVkX0RpZ2l0YWxfU2FsaW5lX1Rvd25zaGlwX29mX1JlbGF0ZWRfRGlnaXRhbC5qcGcuanBn.webp",
+        "published_at": "Mon, 08 Jun 2026 16:31:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/tutor-perini-fisk-electric-data-center-job/822292/",
+        "image_url": "https://imgproxy.divecdn.com/hqSWgAsH_Oiegr8aI77L0gtbeJsIgCYXXu8t2BrBlg8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTY1MDE4LmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "Data center construction spending rocketed 28% in the last year",
-        "summary": "Overall nonresidential construction spending, however, ticked up 0.1% month over month in April, with momentum elsewhere &ldquo;difficult to find,&rdquo; said ABC Chief Economist Anirban Basu.",
+        "title": "Before you buy AI: A readiness scorecard for construction",
+        "summary": "Five questions to ask before buying AI for construction program management.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 03 Jun 2026 14:47:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/data-center-construction-spending-april/821894/",
-        "image_url": "https://imgproxy.divecdn.com/ZbQaFcWbUI4OOEwRrGy71_wmR-S-1HarPEQXKay-XNg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNjE1OTI3LmpwZw==.webp",
+        "published_at": "Mon, 08 Jun 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/before-you-buy-ai-a-readiness-scorecard-for-construction/821964/",
+        "image_url": "https://imgproxy.divecdn.com/HzADE7Vd9OioIRQZ_Iy6xWd8nGKQN0giUiPVZn6-sJY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LYWh1YWhlYWRlci1KdW5lOC5qcGc=.webp",
         "impact": 3
       },
       {
-        "title": "Getting the Story Straight on Top-Down Construction",
-        "summary": "This letter is a rebuttal to online comments posted by Michael McNally and Robert T. Williams in response to the cover story, “From the Top Down” (ENR 10/31-11/7/22, p. 18), and its associated sidebar about TGE Top Down LLC, where I am chairman.",
+        "title": "The hidden bottleneck slowing down construction projects",
+        "summary": "The hidden bottleneck slowing construction: getting workers to the jobsite.",
         "category": "Construction",
-        "source": "enr.com",
-        "journal": "enr.com",
-        "published_at": "Wed, 21 Dec 2022 16:00:00 -0500",
-        "source_url": "https://www.enr.com/articles/55647-getting-the-story-straight-on-top-down-construction",
-        "image_url": "https://www.enr.com/ext/resources/custom-content/Default-Images/National/ENR-900x550-Letters.png?height=635&t=1542393215&width=1200",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 08 Jun 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/the-hidden-bottleneck-slowing-down-construction-projects/821965/",
+        "image_url": "https://imgproxy.divecdn.com/rW9HZ12W2IxPzUCGE2eW8Lfs9niJEGu3Y-zkfDn4bTE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaGFydGVydXAtY29uc3RydWN0aW9uLWJ1cy13b3JrZm9yY2Utc3VwcG9ydC5qcGc=.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Warp’s big bet on building open source with GPT-5.5",
-        "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+        "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+        "summary": "arXiv:2606.06523v1 Announce Type: new Abstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most agent systems still lack formal methods for specifying, verifying, and de",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 27 May 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/warp",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7H0xxotNq29rPNCbEeOmXP/13f456fbb5b2c39b6cea84ce6647dafc/oai_Warp_SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.06523",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-        "summary": "",
+        "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+        "summary": "arXiv:2606.06741v1 Announce Type: new Abstract: Self-evolving agents requires adaptation after deployment, but existing approaches assume a usable learning loop, such as curated skills, successful trajectories, or verifier signals. Real open-world deployments may provide none of these, offering only a task prompt. In t",
         "category": "AI",
-        "source": "huggingface.co",
-        "journal": "huggingface.co",
-        "published_at": "Mon, 01 Jun 2026 13:51:18 GMT",
-        "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-        "image_url": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.06741",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "How Endava is redesigning software delivery around AI agents",
-        "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+        "title": "AdMem: Advanced Memory for Task-solving Agents",
+        "summary": "arXiv:2606.06787v1 Announce Type: new Abstract: Large Language Models (LLMs) show promise as tool-using agents but remain limited in long-horizon tasks that require remembering, organizing, and reusing knowledge. Prior memory approaches aim to resolve the situation, but mainly focus on storing factual information. Rece",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 04 Jun 2026 12:00:00 GMT",
-        "source_url": "https://openai.com/index/endava-frontiers",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.06787",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "OpenAI frontier models and Codex are now available on AWS",
-        "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+        "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
+        "summary": "arXiv:2606.06976v1 Announce Type: new Abstract: Large language model (LLM)-based agents often make suboptimal tool-use decisions, including unsupported tool invocation and hallucinated direct responses, which may accumulate errors throughout multi-step interactions. Existing approaches mainly improve these behaviors th",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Mon, 01 Jun 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2Tbsus4QAtPDAlsIM3vYO2/87f4c6894832d7937e54ecb3c245fdbe/OAI_AWS_Partnership_16x9_Art_Card.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.06976",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "A shared playbook for trustworthy third party evaluations",
-        "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+        "title": "Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle",
+        "summary": "arXiv:2606.07462v1 Announce Type: new Abstract: As foundation models advance and agent scaffolding becomes increasingly sophisticated, agents have demonstrated remarkable proficiency in complex, long-horizon coding tasks and even autonomous experiment execution. Despite their evolution from research assistants into aut",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 29 May 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3iGaglpVIr4csE6CvQuo7Q/61c51a8c408555907d6b0588f8d40172/SEO-shared-playbook-for-trustworthy-third-party-evaluations.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.07462",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
