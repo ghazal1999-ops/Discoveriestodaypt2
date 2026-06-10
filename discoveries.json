@@ -1,19 +1,8 @@
 {
-  "date": "2026-06-09",
-  "last_updated": "2026-06-09 00:03 UTC",
+  "date": "2026-06-10",
+  "last_updated": "2026-06-10 00:10 UTC",
   "categories": {
     "science": [
-      {
-        "title": "New cryogenic silicon carbide hardware addresses quantum computing bottleneck",
-        "summary": "Researchers from the Department of Electrical and Computer Engineering in the Faculty of Engineering at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC) have achieved a major breakthrough in cryogenic electronics. The team has developed a programmable neuromor",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Mon, 08 Jun 2026 17:10:06 EDT",
-        "source_url": "https://phys.org/news/2026-06-cryogenic-silicon-carbide-hardware-quantum.html",
-        "image_url": "https://picsum.photos/seed/sciencefallback/1200/800",
-        "impact": 5
-      },
       {
         "title": "The Probiotic Breakthrough for Natural Anxiety Relief and Better Mental Health",
         "summary": "A surprising gut-brain discovery suggests that anxiety could one day be treated with specially designed probiotics. Could anxiety be shaped, at least in part, by tiny organisms living in the gut? Research from Duke-NUS Medical School and the National Neuroscience Institute of Singapore points to a striking connection b",
@@ -23,6 +12,17 @@
         "published_at": "Sun, 07 Jun 2026 21:35:57 +0000",
         "source_url": "https://scitechdaily.com/the-probiotic-breakthrough-for-natural-anxiety-relief-and-better-mental-health/",
         "image_url": "https://scitechdaily.com/images/Holding-Supplement-Capsule-777x518.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Hidden Solar Storms May Be Lighting Japan’s Skies With Massive Red Auroras",
+        "summary": "Unusually tall red auroras over Japan may be revealing that some solar storms are stronger than scientists realize. A study published in the Journal of Space Weather and Space Climate reports that red auroras observed over Japan extended to altitudes of roughly 500-800 kilometers above Earth. The discovery was made by ",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Tue, 09 Jun 2026 13:14:57 +0000",
+        "source_url": "https://scitechdaily.com/hidden-solar-storms-may-be-lighting-japans-skies-with-massive-red-auroras/",
+        "image_url": "https://scitechdaily.com/images/Low-Latitude-Aurora-777x583.jpg",
         "impact": 5
       },
       {
@@ -61,47 +61,47 @@
     ],
     "tech": [
       {
-        "title": "Apple drops support for a long list of Apple Watches with latest OS updates",
-        "summary": "I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before. Apple is dropping support for at least three generati",
+        "title": "Anthropic releases its first Mythos-class model Claude Fable",
+        "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more com",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-06-08T15:45:00-04:00",
-        "source_url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24023358/226266_APPLE_WATCH_8_SE_PHO_akrales_0350.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-06-09T13:00:00-04:00",
+        "source_url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 4
       },
       {
-        "title": "Apple plays catch-up at WWDC",
-        "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+        "title": "Hey, Siri, here’s what I actually want from AI",
+        "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 08 Jun 2026 21:15:42 +0000",
-        "source_url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/tim-cook-wwdc-2026.jpeg?resize=1200,677",
+        "published_at": "Tue, 09 Jun 2026 20:50:17 +0000",
+        "source_url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1139080118.jpg?resize=1200,801",
         "impact": 3
       },
       {
-        "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
-        "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+        "title": "Apple’s foldable iPhone could be just around the corner",
+        "summary": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 08 Jun 2026 18:23:04 +0000",
-        "source_url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?resize=1200,666",
+        "published_at": "Tue, 09 Jun 2026 16:22:56 +0000",
+        "source_url": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/CMC_2923.jpg?resize=1200,893",
         "impact": 3
       },
       {
-        "title": "44 things coming to your Apple devices that you might have missed",
-        "summary": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've rounded up a bunch of them right here. The new operating systems are available in [&#8230;]",
+        "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+        "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-06-08T16:26:52-04:00",
-        "source_url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_470238.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 09 Jun 2026 13:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
         "impact": 3
       },
       {
@@ -129,17 +129,6 @@
         "impact": 5
       },
       {
-        "title": "Blood test may predict immunotherapy response in head and neck cancer",
-        "summary": "A new Northwestern Medicine study suggests that a simple blood test could help identify which patients with head and neck cancer will be most likely to benefit from immunotherapy, according to a study published in the Journal of Clinical Investigation.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 08 Jun 2026 17:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-blood-immunotherapy-response-neck-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood-test-1.jpg",
-        "impact": 4
-      },
-      {
         "title": "Doctors thought this kidney drug helped some patients. It may help millions more.",
         "summary": "A trio of major studies found that finerenone may protect the kidneys and heart in far more people than previously thought. The drug significantly slowed kidney disease progression and reduced the risks of kidney failure, heart failure, cardiovascular death, and overall mortality. Researchers saw benefits not only in p",
         "category": "Medicine",
@@ -162,14 +151,25 @@
         "impact": 4
       },
       {
-        "title": "South and Southeast Asia lead the world on taxing sugary drinks, analysis reveals",
-        "summary": "One of the challenges public health officials face in reducing diet-related disease is the relatively easy and inexpensive access to sugar-sweetened beverages globally. To help address this burden, public health organizations like the World Health Organization and American Heart Association have recommended that govern",
+        "title": "Fear-based messaging in anti-smoking campaigns can drive behavioral change, study finds",
+        "summary": "Fear can be used strategically in public health messaging to encourage people to quit smoking and avoid tobacco use, according to a joint study by researchers from the University of Sharjah and the University of Jordan. The study examines how the U.S.-based public health agency Centers for Disease Control and Preventio",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 08 Jun 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-south-southeast-asia-world-taxing.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/south-and-southeast-as.jpg",
+        "published_at": "Tue, 09 Jun 2026 18:20:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-based-messaging-anti-campaigns-behavioral.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fear-based-messaging-i.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
+        "summary": "Researchers have identified a new Alzheimer’s target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer’s-related changes, and even appeared to promote healthier aging.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 08 Jun 2026 19:23:33 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/dementia-memory-loss-head-brain-pencil-eraser.webp",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test",
+        "summary": "A new propulsion system feeds the same \"monopropellant\" fuel into electrical and chemical thrusters, potentially saving on mass and complications for future missions to Mars.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 09 Jun 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/QD83bgj3KDq9qWZuwYLdRe-1280-80.jpg",
+        "impact": 5
+      },
+      {
         "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup",
         "summary": "As&#160;the FIFA World Cup&#160;approaches, NASA is bringing&#160;space science and&#160;engineering&#160;to soccer fans&#160;worldwide.&#160;From&#160;June 11&#160;to July 19,&#160;2026,&#160;NASA will&#160;host an&#160;exhibit&#160;at FIFA Fan Festival™&#160;Houston where visitors can learn how research aboard the In",
         "category": "Space",
@@ -243,47 +254,36 @@
         "impact": 5
       },
       {
-        "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
-        "summary": "Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there.",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 05 Jun 2026 19:16:48 +0000",
-        "source_url": "https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
-        "image_url": "https://images-assets.nasa.gov/image/jsc2026e001967/jsc2026e001967~large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX launches back-to-back Starlink missions from both coasts 19 hours apart (photos)",
-        "summary": "More than 50 new Starlink satellites are now in orbit after launches from California and Florida.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 04 Jun 2026 18:06:08 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-47-b1108-vsfb-ocisly-10-43-b1090-ccsfs-asog",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/qzkchhPpgFpaUTyYLqwjNg-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s INCUS Satellites Progress Toward Launch",
-        "summary": "Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Mon, 08 Jun 2026 15:22:07 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26614/PIA26614.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Announces Winners of 2026 University Innovation Competition",
-        "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new ",
+        "title": "Artemis III Crew Announced",
+        "summary": "NASA astronaut Andre Douglas, ESA (European Space Agency) astronaut Luca Parmitano, and NASA astronauts Randy Bresnik and Frank Rubio take a photo together on June 9, 2026. The four were announced as the Artemis III crew. NASA&#8217;s Artemis III mission in low Earth orbit will test integrated operations between the Or",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Fri, 05 Jun 2026 20:17:11 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/2026-rasc-al-photo-first-place-massachusetts-institute-of-technology-eclipse.jpg",
+        "published_at": "Tue, 09 Jun 2026 19:32:29 +0000",
+        "source_url": "https://www.nasa.gov/image-article/artemis-iii-crew-announced/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e392659.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA Marches Toward Artemis III Mission in 2027, Names Crew Members",
+        "summary": "Taking another step toward one of the most complex human spaceflight missions in recent history, NASA on Tuesday provided new Artemis&#160;III details and announced the four prime crew members and a backup for the test flight. The mission will undertake a series of challenging tests in Earth orbit in 2027, essential fo",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 09 Jun 2026 16:12:02 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/artemis-iii-crew.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA reveals Artemis 3 astronaut crew",
+        "summary": "NASA named the astronauts who will launch on its Artemis 3 mission next year to test docking procedures in Earth orbit ahead of a planned moon landing in 2028.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 09 Jun 2026 17:03:39 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/oransJUVisuwEYUwWfyFA-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "Orbiting Stars Give Clues to a Quiescent Black Hole's Mass",
+        "summary": "How do you measure the mass of a dormant black hole in the early Universe? That's a question astronomers at University College London (UCL) and Carnegie scientists wanted to answer about a distant object that is invisible. So, they turned to James Webb Space Telescope (JWST) studies of the region around the black hole ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 09 Jun 2026 18:52:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/orbiting-stars-give-clues-to-a-quiescent-black-holes-mass",
+        "image_url": "https://www.universetoday.com/article_images/image_14820e-MRG-M0138_20260609_195545.jpg",
+        "impact": 4
+      },
+      {
         "title": "The Cosmic Web Like You've Never Seen it Before",
         "summary": "Using data from NASA’s James Webb Space Telescope, astronomers led by researchers at the University of California, Riverside have produced the most detailed map of the cosmic web ever made, tracing the network of galaxies all the way back to when the universe was one billion years old.",
         "category": "Astronomy",
@@ -322,25 +333,14 @@
         "impact": 4
       },
       {
-        "title": "New Cloud-Detecting Method Will Help Astronomers Characterize Exoplanets",
-        "summary": "Astronomers have developed a technique that allows them to detect cloud cycles on distant exoplanets. Using data from the James Webb Sapce Telescope (JWST), the astronomers found that mornings and evenings on the gas giant WASP-94A b have extremely different weather patterns: mornings are riddled with sand clouds, whil",
+        "title": "Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test",
+        "summary": "A new propulsion system feeds the same \"monopropellant\" fuel into electrical and chemical thrusters, potentially saving on mass and complications for future missions to Mars.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 04 Jun 2026 22:54:42 +0000",
-        "source_url": "https://www.universetoday.com/articles/new-cloud-detecting-method-will-help-astronomers-characterize-exoplanets",
-        "image_url": "https://www.universetoday.com/article_images/WASP94Ab_20260602_170536.jpg",
-        "impact": 4
-      },
-      {
-        "title": "The Unexpected Brightness 'Gap' in an Ancient Globular Cluster",
-        "summary": "Scientists using the Euclid space telescope found a red-dwarf brightness “gap” in the population of a globular cluster—an ancient, crowded collection of stars. A similar gap was detected by the Gaia observatory in nearby stellar populations, but it has never before been seen in a globular cluster.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 04 Jun 2026 17:23:11 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-unexpected-brightness-gap-in-an-ancient-globular-cluster",
-        "image_url": "https://www.universetoday.com/article_images/Euclid-ERO-NGC6397_20260603_193744.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 09 Jun 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/QD83bgj3KDq9qWZuwYLdRe-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -357,36 +357,36 @@
         "impact": 5
       },
       {
-        "title": "three timber rejuvenation halls by JK-AR surround a series of traditional korean courtyards",
-        "summary": "curved structural elements reference historic buildings in gyeongju. The post three timber rejuvenation halls by JK-AR surround a series of traditional korean courtyards appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 04 Jun 2026 10:00:02 +0000",
-        "source_url": "https://www.designboom.com/architecture/three-timber-rejuvenation-halls-jk-ar-traditional-korean-courtyards/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/three-timber-halls-house-for-rejuvenation-traditional-korean-courtyards-jk-ar-designboom-1200-1.jpg",
-        "impact": 5
-      },
-      {
-        "title": "\"My Solutions Are Not Polite:\" Liam Young on Architecture in the Age of Polycrisis in Louisiana Channel Interview",
-        "summary": "Australian artist, director, and BAFTA-nominated producer Liam Young creates imaginary worlds as a way of thinking through the futures we fear, desire, and are already making. As a creator and designer of atmospheres, he proposes speculative landscapes reflecting the possibilities of a world to come, whether ideal or t",
+        "title": "The Lasting Impact of Architectural Education: Training Professionals to Question Convention",
+        "summary": "Architectural schools usually leave lasting marks on their students, shaping their style and critical inquiry long after formal education has ended. For example, SCI-Arc, founded in 1972 and based in downtown Los Angeles, is an institution recognized for its culture of experimentation, critical investigation, and creat",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 08 Jun 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042237/my-solutions-are-not-polite-liam-young-on-architecture-in-the-age-of-polycrisis-in-louisiana-channel-interview",
-        "image_url": "https://images.adsttc.com/media/images/6a26/1a8f/54de/fb01/89c8/f6bd/large_jpg/my-solutions-are-not-polite-liam-young-on-architecture-in-the-age-of-polycrisis-in-louisiana-channel-interview_1.jpg?1780882070",
+        "published_at": "Tue, 09 Jun 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1042070/the-lasting-impact-of-architectural-education-training-professionals-to-question-convention",
+        "image_url": "https://images.adsttc.com/media/images/6a1e/1c46/093e/927a/6386/e4b0/large_jpg/designing-across-disciplines-the-practice-of-ben-warwas_3.jpg?1780358222",
         "impact": 4
       },
       {
-        "title": "Gong’s House / Various Associates",
-        "summary": "Gong's House, designed by Various Associates, prioritizes functionality and comfort to address the real needs of the family. The design team has developed and incorporated localized building materials, integrating the urban lifestyle with the natural environment of the countryside, and offering a comfortable gathering ",
+        "title": "\"The Century of Gehry\": Frank Gehry Retrospective Opens at the Serralves Museum in Porto",
+        "summary": "From June 12 to December 20, 2026, the Serralves Museum of Contemporary Art in Porto, Portugal, will be hosting a retrospective exhibition dedicated to the career of Frank Gehry (1929-2025). Titled The Century of Gehry, the exhibition presents to the public original large-scale models, sculptures, drawings, furniture, ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 07 Jun 2026 21:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1018074/gongs-house-various-associates",
-        "image_url": "https://images.adsttc.com/media/images/667a/0b62/f15c/cd3c/a6a2/a40b/large_jpg/gongs-house-various-associates_36.jpg?1719274357",
+        "published_at": "Tue, 09 Jun 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042273/the-century-of-gehry-frank-gehry-retrospective-opens-at-the-serralves-museum-in-porto",
+        "image_url": "https://images.adsttc.com/media/images/6a26/e572/325f/9301/8751/0576/large_jpg/the-century-of-gehry-retrospective-exhibition-opens-at-the-serralves-museum-of-contemporary-art-in-porto_8.jpg?1780934031",
+        "impact": 4
+      },
+      {
+        "title": "Ara Manor / Reincarnation",
+        "summary": "Emerging from the green landscape of Narsingdi, Ara Manor is conceived as a retreat where architecture dissolves into climate, vegetation, water, and light. Designed as a three-storied vacation residence for the owner of Crony Group, the project explores how contemporary domestic architecture in Bangladesh can remain d",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 09 Jun 2026 03:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042246/ara-manor-reincarnation",
+        "image_url": "https://images.adsttc.com/media/images/6a26/9467/d2d3/6e00/0102/f373/large_jpg/__Mehedi_Hasan_Junaid___27_.jpg?1780913339",
         "impact": 4
       },
       {
@@ -425,92 +425,92 @@
         "impact": 4
       },
       {
-        "title": "Tutor Perini unit grabs $48M data center manufacturing job",
-        "summary": "Fisk Electric will work on a facility in Houston that fabricates data center infrastructure components and artificial intelligence-related hardware, according to the contractor.",
+        "title": "Yorkshire Water appoints Jacobs to £32M AI framework",
+        "summary": "Engineering and construction services firm Jacobs has been appointed to Yorkshire Water’s artificial intelligence (AI) services framework. The post Yorkshire Water appoints Jacobs to £32M AI framework appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 09 Jun 2026 11:39:23 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/yorkshire-water-appoints-jacobs-to-32m-ai-framework-09-06-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2023/05/shutterstock_1229297656-Jacobs-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Healthcare joined data centers in boost to May construction planning",
+        "summary": "The increase builds on last month&rsquo;s growth after a slow start to the year, according to Dodge Construction Network.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 08 Jun 2026 16:31:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/tutor-perini-fisk-electric-data-center-job/822292/",
-        "image_url": "https://imgproxy.divecdn.com/hqSWgAsH_Oiegr8aI77L0gtbeJsIgCYXXu8t2BrBlg8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTY1MDE4LmpwZw==.webp",
+        "published_at": "Tue, 09 Jun 2026 13:15:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/healthcare-data-centers-boost-may-construction-planning/822389/",
+        "image_url": "https://imgproxy.divecdn.com/6Zbj5CPCjh1pefSlfoQgqu_7glzscQISLKCEyAcXiig/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk4NzYzNjM2LTMuanBn.webp",
         "impact": 3
       },
       {
-        "title": "Before you buy AI: A readiness scorecard for construction",
-        "summary": "Five questions to ask before buying AI for construction program management.",
+        "title": "Data center construction boom driving historic manufacturing opportunities",
+        "summary": "From multinationals like ABB and Siemens to small, family-owned businesses, manufacturers are staking their claim in this lucrative new vertical through investments and acquisitions. The question now is how long it will last.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 08 Jun 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/before-you-buy-ai-a-readiness-scorecard-for-construction/821964/",
-        "image_url": "https://imgproxy.divecdn.com/HzADE7Vd9OioIRQZ_Iy6xWd8nGKQN0giUiPVZn6-sJY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LYWh1YWhlYWRlci1KdW5lOC5qcGc=.webp",
-        "impact": 3
-      },
-      {
-        "title": "The hidden bottleneck slowing down construction projects",
-        "summary": "The hidden bottleneck slowing construction: getting workers to the jobsite.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 08 Jun 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/the-hidden-bottleneck-slowing-down-construction-projects/821965/",
-        "image_url": "https://imgproxy.divecdn.com/rW9HZ12W2IxPzUCGE2eW8Lfs9niJEGu3Y-zkfDn4bTE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaGFydGVydXAtY29uc3RydWN0aW9uLWJ1cy13b3JrZm9yY2Utc3VwcG9ydC5qcGc=.webp",
+        "published_at": "Tue, 09 Jun 2026 09:38:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/data-center-construction-boom-manufacturing-cooling-semiconductors-metal/822334/",
+        "image_url": "https://imgproxy.divecdn.com/xx8Gr4djwypQZrtgcgaS2dYqdhpafGDAKI77aezjAyU/g:nowe:0:0/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxNDAwNjk1LmpwZWc=.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
-        "summary": "arXiv:2606.06523v1 Announce Type: new Abstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most agent systems still lack formal methods for specifying, verifying, and de",
+        "title": "SAGE: An LLM-driven Self Reflective Agentic Framework for Fraud Detection",
+        "summary": "arXiv:2606.08146v1 Announce Type: new Abstract: Fraud detection in payment, e-commerce, and telecommunications systems requires accuracy at the individual level, robustness under severe class imbalance, and ease of understanding for risk managers. Existing methods fall at least one of these requirements: automated mach",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.06523",
+        "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.08146",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
-        "summary": "arXiv:2606.06741v1 Announce Type: new Abstract: Self-evolving agents requires adaptation after deployment, but existing approaches assume a usable learning loop, such as curated skills, successful trajectories, or verifier signals. Real open-world deployments may provide none of these, offering only a task prompt. In t",
+        "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+        "summary": "arXiv:2606.07549v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational pathology, yet reliable patch-level reasoning remains challenging. End-to-end pathology MLLMs often hallucinate morphological features, while recent",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.06741",
+        "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.07549",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AdMem: Advanced Memory for Task-solving Agents",
-        "summary": "arXiv:2606.06787v1 Announce Type: new Abstract: Large Language Models (LLMs) show promise as tool-using agents but remain limited in long-horizon tasks that require remembering, organizing, and reusing knowledge. Prior memory approaches aim to resolve the situation, but mainly focus on storing factual information. Rece",
+        "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
+        "summary": "arXiv:2606.07722v1 Announce Type: new Abstract: This article offers a perspective on the nature of chatbots as genuine conversation partners when discussing problems in relation to their solutions. What can chatbots do and what can't they do, and how can this be explained? Our argument draws on Aggregation Dynamics, Co",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.06787",
+        "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.07722",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
-        "summary": "arXiv:2606.06976v1 Announce Type: new Abstract: Large language model (LLM)-based agents often make suboptimal tool-use decisions, including unsupported tool invocation and hallucinated direct responses, which may accumulate errors throughout multi-step interactions. Existing approaches mainly improve these behaviors th",
+        "title": "Contract2Tool: Learning Preconditions and Effects for Reliable Tool-Augmented LLM Agents",
+        "summary": "arXiv:2606.07904v1 Announce Type: new Abstract: Tool-augmented large language model agents increasingly rely on external APIs, but standard tool schemas describe how to call a tool, not when the tool is causally appropriate or what task state it produces. Causal tool filtering addresses this gap by using lightweight co",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.06976",
+        "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.07904",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle",
-        "summary": "arXiv:2606.07462v1 Announce Type: new Abstract: As foundation models advance and agent scaffolding becomes increasingly sophisticated, agents have demonstrated remarkable proficiency in complex, long-horizon coding tasks and even autonomous experiment execution. Despite their evolution from research assistants into aut",
+        "title": "MemToolAgent overview with a simple restaurant booking scenario where the agent retrieves similar memories, receives feedback on an invalid time format, and generates a reflection to update its memory",
+        "summary": "arXiv:2606.07909v1 Announce Type: new Abstract: Modern large language model (LLM) agents can use external tools to help users solve complex tasks. However, for problems that require learning from long-term historical events or from previous agent-environment interactions, LLM agents are required to use memory mechanism",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.07462",
+        "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.07909",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
