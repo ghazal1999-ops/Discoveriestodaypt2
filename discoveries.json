@@ -1,19 +1,8 @@
 {
-  "date": "2026-06-11",
-  "last_updated": "2026-06-11 00:14 UTC",
+  "date": "2026-06-12",
+  "last_updated": "2026-06-12 00:18 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Antibody-guided nanoparticles target blood cancer cells in bone marrow",
-        "summary": "New research co-led by Indiana University School of Medicine scientists presents a significant step toward more precise and effective cancer treatments by using a breakthrough method to deliver therapies directly to cancer cells. The study was recently published in ACS Nano.",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 10 Jun 2026 18:50:01 EDT",
-        "source_url": "https://phys.org/news/2026-06-antibody-nanoparticles-blood-cancer-cells.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-develop-nan.jpg",
-        "impact": 5
-      },
       {
         "title": "Hidden Solar Storms May Be Lighting Japan’s Skies With Massive Red Auroras",
         "summary": "Unusually tall red auroras over Japan may be revealing that some solar storms are stronger than scientists realize. A study published in the Journal of Space Weather and Space Climate reports that red auroras observed over Japan extended to altitudes of roughly 500-800 kilometers above Earth. The discovery was made by ",
@@ -48,38 +37,60 @@
         "impact": 5
       },
       {
-        "title": "Scientists discovered something surprising about french fries and diabetes",
-        "summary": "French fries may be the real potato problem. A large study tracking more than 205,000 people for nearly 40 years found that eating three servings of fries per week was linked to a 20% higher risk of developing type 2 diabetes, while baked, boiled, or mashed potatoes showed no significant increase in risk. The research ",
+        "title": "The Strange “Spacetime Crystal” That Can Suddenly Turn Into a Black Hole",
+        "summary": "A new mathematical breakthrough sheds light on how tiny black holes could emerge from critical states of spacetime. Black holes are often portrayed as cosmic giants, swallowing stars and shaping entire galaxies. But some of the most intriguing black holes predicted by physics could be far smaller than an atom. For deca",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 03 Jun 2026 02:14:01 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260603015218.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/french-fries-flying.webp",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 11 Jun 2026 19:44:35 +0000",
+        "source_url": "https://scitechdaily.com/the-strange-spacetime-crystal-that-can-suddenly-turn-into-a-black-hole/",
+        "image_url": "https://scitechdaily.com/images/Black-Hole-Accetion-Disc-Illustration-777x437.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Vast Hidden Structure Discovered Under Miles of Ice in East Antarctica",
+        "summary": "Scientists have discovered a colossal hidden structure beneath Antarctica that could reshape our understanding of the continent’s past and present. Scientists have identified a massive hidden geological formation beneath East Antarctica, revealing a continent-scale structure buried under some of the thickest ice on Ear",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 11 Jun 2026 10:34:00 +0000",
+        "source_url": "https://scitechdaily.com/vast-hidden-structure-discovered-under-miles-of-ice-in-east-antarctica/",
+        "image_url": "https://scitechdaily.com/images/EAFBP-East-Antarctica-777x431.jpg",
         "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Apple, Google add support for Thread 1.4",
-        "summary": "Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 developer beta and the Google TV Streamer through a software update. This lays the groundwork for these devices, which serv",
+        "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
+        "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and controls on the [&#8230",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-06-10T16:25:46-04:00",
-        "source_url": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_7137.jpg?quality=90&strip=all&crop=0%2C30.191972076789%2C100%2C69.808027923211&w=1200",
+        "published_at": "2026-06-11T18:06:32-04:00",
+        "source_url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-echo-hub-redesign-wide.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "impact": 4
       },
       {
-        "title": "Litter-Robot Promo Codes: Up to $150 Off",
-        "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
+        "title": "Waymo introduces $30-a-month premium tier for riders who want faster pickups",
+        "summary": "Uber One, meet Waymo Premier. The robotaxi operator announced a new $29.99-a-month premium tier for riders who want a more elevated and exclusive autonomous experience. The invite-only membership service is aimed at Waymo customers who use the service most frequently, offering them a number of perks, including priority",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Wed, 10 Jun 2026 05:00:00 +0000",
-        "source_url": "https://www.wired.com/story/litter-robot-promo-code/",
-        "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/191:100/w_1280,c_limit/WIRED-Coupons-R2_15.png",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-06-11T12:00:00-04:00",
+        "source_url": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/image_b9dbd0.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may ques",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 11 Jun 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GettyImages-2280327837.jpg?resize=1200,600",
         "impact": 3
       },
       {
@@ -103,31 +114,9 @@
         "source_url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/sinclar-pills-b.jpg?resize=1200,600",
         "impact": 3
-      },
-      {
-        "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-        "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral &#8220;reprogramming&#8221; drug as part of a $101 million compe",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Tue, 09 Jun 2026 10:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/sinclar-pills-b.jpg?resize=1200,600",
-        "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Drug reduces the risk of developing rheumatoid arthritis, clinical trial finds",
-        "summary": "A clinical trial led by researchers from Hospital Clínic de Barcelona, the August Pi i Sunyer Biomedical Research Institute (IDIBAPS) and the Institute of Advanced Chemistry of Catalonia (IQAC-CSIC) compared the effectiveness of abatacept and hydroxychloroquine in preventing the development of rheumatoid arthritis in p",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 10 Jun 2026 17:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-drug-rheumatoid-arthritis-clinical-trial.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/arthritis.jpg",
-        "impact": 5
-      },
       {
         "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
         "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nearly doubled survival fo",
@@ -140,36 +129,47 @@
         "impact": 5
       },
       {
-        "title": "Implementing all recommended drug guidelines for heart failure could reduce hospitalizations and cut costs",
-        "summary": "Patients hospitalized with a common form of heart failure could avoid later hospital stays—and dramatically lower health care costs—if they receive the full combination of four medications currently recommended in national treatment guidelines, according to research led by UCLA Health and published in JAMA Cardiology.",
+        "title": "New treatment shows promise for patients with rare blood disorder",
+        "summary": "A new treatment that involves growing a patient's immune cells and then infusing them back into their body has shown promise for people with the rare blood disorder aplastic anemia. Results from the Phase 1 trial, led by Professor Ghulam Mufti, provide the first evidence that autologous regulatory T-cell therapy is fea",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 10 Jun 2026 19:20:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-drug-guidelines-heart-failure-hospitalizations.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/heart-failure-1.jpg",
+        "published_at": "Thu, 11 Jun 2026 20:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-treatment-patients-rare-blood-disorder.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/blood-cell.jpg",
         "impact": 4
       },
       {
-        "title": "Decades-old puzzle solved as scientists uncover cause of inflammatory bowel disease",
-        "summary": "Researchers at the Nuffield Department of Medicine, University of Oxford, together with Newcastle University's Translational and Clinical Research Institute and the Department of Immunology at Cambridge University Hospitals NHS Foundation Trust, have identified an important driver of inflammatory bowel disease (IBD). T",
+        "title": "Home blood pressure tests could prevent heart attack and stroke",
+        "summary": "Allowing patients to measure and record their blood pressure at home has been linked to a drop in the risk of cardiovascular diseases, such as heart attack and stroke, shows a study recently published in the European Heart Journal–Digital Health. Patients who were able to self-monitor their blood pressure, with the dat",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 10 Jun 2026 17:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-decades-puzzle-scientists-uncover-inflammatory.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/inflammatory-bowel-dis.jpg",
+        "published_at": "Thu, 11 Jun 2026 17:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-home-blood-pressure-heart.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-pressure-finger.jpg",
         "impact": 4
       },
       {
-        "title": "Doctors thought this kidney drug helped some patients. It may help millions more.",
-        "summary": "A trio of major studies found that finerenone may protect the kidneys and heart in far more people than previously thought. The drug significantly slowed kidney disease progression and reduced the risks of kidney failure, heart failure, cardiovascular death, and overall mortality. Researchers saw benefits not only in p",
+        "title": "Personalized blood pressure control after thrombectomy boosts 90-day stroke recovery",
+        "summary": "Blood pressure management after thrombectomy for acute ischemic stroke may require a change in approach. The HOPE clinical trial—short for Hemodynamic Optimization of Cerebral Perfusion after Endovascular Therapy—led by the Sant Pau Research Institute (IR Sant Pau), has shown that adapting blood pressure targets to the",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 08 Jun 2026 00:20:03 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075513.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/doctor-supports-kidney-health.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 11 Jun 2026 16:20:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-personalized-blood-pressure-thrombectomy-boosts.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood-pressure.jpg",
+        "impact": 4
+      },
+      {
+        "title": "New antibody may boost KRAS-targeted lung cancer treatment after resistance emerges",
+        "summary": "An experimental antibody treatment that binds to a protein known as PCDH7 shrank tumors in preclinical models of non-small cell lung cancer (NSCLC), including those resistant to a targeted therapy, a study led by UT Southwestern Medical Center researchers showed. The findings, published in Science Advances, could event",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 11 Jun 2026 15:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-antibody-boost-kras-lung-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/antibody-may-improve-t-1.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,28 @@
         "impact": 5
       },
       {
+        "title": "I Am Artemis: Elkin Norena",
+        "summary": "Listen to this audio excerpt from Elkin Norena, resident management officer, NASA&#8217;s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 11 Jun 2026 20:07:33 +0000",
+        "source_url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/0u6a3284.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit",
+        "summary": "NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will attempt to rendezvous with Swift and raise its altitude, extending its scien",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 11 Jun 2026 13:58:17 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/ne201077-2581x1494-1.jpg",
+        "impact": 4
+      },
+      {
         "title": "NASA's ambitious Artemis 3 mission includes 3 giant rocket launches, 2 private moon landers and 1 big question: Can it all work together?",
         "summary": "NASA's Artemis 3 mission in 2027 looks to be one of agency's most complicated missions ever, with three giant rocket launches and two private moon lander prototypes that haven't been built yet.",
         "category": "Space",
@@ -263,31 +285,20 @@
         "source_url": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
         "image_url": "https://cdn.mos.cms.futurecdn.net/oransJUVisuwEYUwWfyFA-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "Astronaut captures snake-like auroras from a SpaceX Dragon | Space photo of the day for June 9, 2026",
-        "summary": "NASA astronaut Jessica Meir captured a breathtaking view of auroras on Earth from orbit while sheltering with her fellow astronauts in a SpaceX Dragon spacecraft.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 09 Jun 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/human-spaceflight/astronaut-captures-snake-like-auroras-from-a-spacex-dragon-space-photo-of-the-day-for-june-9-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/naMfPMg8AiUNnraRPJueHV-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "This former Paralympic athlete could become the 1st person with a physical disability to live in orbit",
-        "summary": "European Space Agency astronaut John McFall could be headed to the private Haven-1 space station as soon as 2027.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 08 Jun 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/human-spaceflight/this-former-paralympic-athlete-could-become-the-1st-person-with-a-physical-disability-to-live-in-orbit",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/2ht6eVdP9JVePWCWQicvH-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "James Webb Space Telescope discovers 'galaxy-killing' wind that may explain why some early galaxies lived fast and died young",
+        "summary": "A “galaxy-killing” wind driven by cosmic mergers may explain why many massive galaxies in the early universe stopped forming stars far earlier than expected, according to new JWST and ALMA observations.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 11 Jun 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-galaxy-killing-wind-that-may-explain-why-some-early-galaxies-lived-fast-and-died-young",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PFveUsfFfvJvpYLJbNm5xB-1280-80.png",
+        "impact": 5
+      },
       {
         "title": "On The Hunt For Cosmic Dawn And The Universe’s Very First Stars",
         "summary": "After decades of searches, cosmologists are within reach of finding cosmic dawn. A longtime observational cosmologist explains.",
@@ -322,49 +333,49 @@
         "impact": 4
       },
       {
-        "title": "James Webb Space Telescope finds evidence the mysterious 'little red dots' are black hole stars",
-        "summary": "Astronomers using the James Webb Space Telescope may be close to solving the mystery of \"little red dots\" in the early universe.",
+        "title": "Grab our best telescope for beginners with $100 off the Celestron NexStar 4SE",
+        "summary": "Celestron's iconic orange NexStar series is on sale on Amazon and includes the smallest of the set, the NexStar 4SE, a perfect first telescope for new stargazers. It has a 4-inch aperture and go-to technology for easily finding night sky objects.",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 10 Jun 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/TvhEyX5sivX8BcczT2tGan-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Swirling spiral galaxy will hypnotize you | Space photo of the day for June 10, 2026",
-        "summary": "A new image captured by the Hubble Space Telescope shows the Messier 88 (M88) galaxy, also known as NGC 4501, in all of its swirling glory.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 10 Jun 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/swirling-spiral-galaxy-will-hypnotize-you-space-photo-of-the-day-for-june-10-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/rr3k2wsamsen2SBAw9dXrX-1280-80.png",
+        "published_at": "Thu, 11 Jun 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/grab-our-best-telescope-for-beginners-with-100-dollars-off-the-celestron-nexstar-4se",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/9nHGtjcQS8ayqBbBSioWxf-1280-80.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Herzog & de Meuron to Redevelop Tirana's Communist-Era Palace of Congresses",
-        "summary": "On June 3, 2026, Herzog &amp; de Meuron was selected to revitalize the Palace of Congresses building in Tirana, Albania. The project was designed along with collaborators Julian Beqiri, Marsela Demaj, Michel Desvigne Paysagistes (MDP), ARUP, LDK, Gentian Shkurti, SUEB Industries sh.p.k., The Space Factory Ltd, MBBM, an",
+        "title": "How Passive Design Strategies Shape Thermal Performance",
+        "summary": "Can architecture shape comfort before mechanical systems enter the equation? As buildings account for nearly 40% of global energy consumption and people spend close to 90% of their time indoors, thermal performance has become one of architecture's most urgent concerns. Yet despite often being associated with insulation",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 10 Jun 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042313/herzog-and-de-meuron-to-revitalize-tiranas-communist-era-palace-of-congresses",
-        "image_url": "https://images.adsttc.com/media/images/6a28/84c7/a0e0/6301/89c9/ee92/large_jpg/herzog-and-de-meuron-to-renovate-tiranas-palace-of-congresses-cultural-venue_13.jpg?1781040388",
+        "published_at": "Thu, 11 Jun 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1042206/how-passive-design-strategies-shape-thermal-performance",
+        "image_url": "https://images.adsttc.com/media/images/6a22/a7a2/54de/fb01/89c8/f1d6/large_jpg/the-fifth-facade-design-decisions-behind-thermal-performance_15.jpg?1780656092",
         "impact": 4
       },
       {
-        "title": "Suzhounan Railway Station / CCTN Design",
-        "summary": "Suzhounan Railway Station: A \"Hexagonal\"Station-city Synergy Multi-level Transportation Hub. On December 26, 2024, Suzhounan Railway Station, the nation's first \"hexagonal\" Multi-level transportation hub complex, officially commenced operations. Located in the Fenhu High-Tech Zone of Wujiang, Suzhounan Railway Station ",
+        "title": "Designs Unveiled for New York City's Penn Station by PAU and HNTB-HOK",
+        "summary": "The Practice for Architecture and Urbanism (PAU), in collaboration with HNTB and HOK, has been selected as the design team for the redevelopment of New York City's Penn Station. The project is part of an ongoing effort to reorganize and expand one of the busiest rail transportation hubs in North America, aiming to impr",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 10 Jun 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1025988/suzhounan-railway-station-cctn-design",
-        "image_url": "https://images.adsttc.com/media/images/678e/c9b4/a704/7901/883c/93fe/large_jpg/suzhounan-railway-station-cctn-design_6.jpg?1737411101",
+        "published_at": "Thu, 11 Jun 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042360/designs-unveiled-for-new-york-citys-penn-station-by-pau-and-hntb-hok",
+        "image_url": "https://images.adsttc.com/media/images/6a2a/8175/6341/4201/8a2c/31b8/large_jpg/designs-unveiled-for-new-york-citys-penn-station-by-pau-and-hntb-hok_2.jpg?1781170584",
+        "impact": 4
+      },
+      {
+        "title": "What Cladding Systems Reveal About Local Production in Architecture",
+        "summary": "Between the moment a material is specified in a project and the moment it is installed, there is an invisible layer that plays a decisive role in the final outcome: fabrication, logistics, and coordination. These factors shape timelines and costs, but more critically, determine whether the original design intent is pre",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 11 Jun 2026 01:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1040954/what-cladding-systems-reveal-about-local-production-in-architecture",
+        "image_url": "https://images.adsttc.com/media/images/69eb/b1ea/e2d9/9109/703c/eb47/large_jpg/what-cladding-systems-reveal-about-local-production-in-architecture_8.jpg?1777054245",
         "impact": 4
       },
       {
@@ -388,20 +399,20 @@
         "source_url": "https://www.dezeen.com/2026/06/07/mach-calasparra-town-hall-spain/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Unearthing the Ground: Architecture and the Politics of Soil",
-        "summary": "What architecture leaves in the ground outlasts what it puts in the air. A demolished building disappears from the skyline in a matter of days, but its foundations remain embedded in the soil for generations. The contamination caused by an industrial complex does not clear when the complex is torn down. The legal bound",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 10 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042057/unearthing-the-ground-architecture-and-the-politics-of-soil",
-        "image_url": "https://images.adsttc.com/media/images/6a26/dad8/54de/fb01/89c8/fa8c/large_jpg/unearthing-the-ground-architecture-and-the-politics-of-soil_25.jpg?1780931296",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Meta earmarks $115M for workforce academy to support data center construction",
+        "summary": "The program will provide free skilled-trades training, industry credentials and guaranteed jobs as the company expands its AI infrastructure footprint.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 11 Jun 2026 15:10:17 -0400",
+        "source_url": "https://www.constructiondive.com/news/meta-workforce-academy-data-center-construction/822698/",
+        "image_url": "https://imgproxy.divecdn.com/lcKcemu_eVa0DDR_0g9NzOJ8nyFHXfX5jh4BPh5u2Z0/g:nowe:0:119/c:1919:1084/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMV9BV0FfQ2Fyb3VzZWwtMDMuanBn.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
@@ -422,17 +433,6 @@
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/05/19/commerce_enr_ph_article3_comp-advantage_image.webp?crop=true&height=257&t=1779200652&width=420",
-        "impact": 4
-      },
-      {
-        "title": "Yorkshire Water appoints Jacobs to £32M AI framework",
-        "summary": "Engineering and construction services firm Jacobs has been appointed to Yorkshire Water’s artificial intelligence (AI) services framework. The post Yorkshire Water appoints Jacobs to £32M AI framework appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 09 Jun 2026 11:39:23 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/yorkshire-water-appoints-jacobs-to-32m-ai-framework-09-06-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2023/05/shutterstock_1229297656-Jacobs-560x315.jpg",
         "impact": 4
       },
       {
@@ -460,57 +460,57 @@
     ],
     "ai": [
       {
-        "title": "Soul Computing: A Theoretical Framework and Technical Architecture for Intelligent Agents with Independent Consciousness",
-        "summary": "arXiv:2606.10413v1 Announce Type: new Abstract: Breakthroughs in large language models and multimodal generation technologies have propelled the digital reconstruction of human mental traits, emotional patterns, and long-term memory from science fiction toward engineering practice. Yet current research and industry pra",
+        "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+        "summary": "arXiv:2606.11440v1 Announce Type: new Abstract: Existing multi-agent LLM orchestration methods, ranging from brute-force ensembles to learned routers, select models and topologies based on task and model features. However, these methods do not consider the runtime state of the serving infrastructure. On shared GPU clus",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.10413",
+        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.11440",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Business World Model",
-        "summary": "arXiv:2606.10044v1 Announce Type: new Abstract: Businesses are increasingly adopting AI-enabled tools to improve productivity, reduce costs, and enhance products and services. However, the transformative potential of AI extends beyond automating predefined tasks: it lies in enabling intelligent systems to plan, optimiz",
+        "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
+        "summary": "arXiv:2606.11543v1 Announce Type: new Abstract: Agent Skills augment large language model (LLM) agents with procedural knowledge at inference time, but current benchmarks rarely distinguish what a Skill says from how it is organized. We study this distinction through Progressive Disclosure, where a concise root file po",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.10044",
+        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.11543",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
-        "summary": "arXiv:2606.10209v1 Announce Type: new Abstract: Large language models deployed as autonomous agents for enterprise workflows face a key challenge: verbose tool responses from enterprise systems can cause context overflow, stale-state errors, and high inference cost. We study this problem in automated expense itemizatio",
+        "title": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
+        "summary": "arXiv:2606.11634v1 Announce Type: new Abstract: The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length. To address this, we study SWARR (Sliding-Window Attention with Reinforced Adapta",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.10209",
+        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.11634",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling",
-        "summary": "arXiv:2606.10286v1 Announce Type: new Abstract: Open-pit mine scheduling is a critical process for maximizing economic return under complex geotechnical and operational constraints. While Mixed-Integer Linear Programming (MILP) provides mathematically optimal baselines, its exponential computational complexity and inab",
+        "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+        "summary": "arXiv:2606.11680v1 Announce Type: new Abstract: Large language model (LLM) agents struggle with long-horizon tasks due to their inherent statelessness, requiring all task-relevant information to be encoded in growing input contexts. The resulting degraded reasoning quality, increased inference cost, and higher latency ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.10286",
+        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.11680",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Mobility Anomaly Generation using LLM-Driven Behavior with Kinematic Constraints",
-        "summary": "arXiv:2606.10314v1 Announce Type: new Abstract: Although the study of human trajectory anomalies is critical for advancing spatial data mining, empirical research remains severely hindered by a pervasive lack of ground-truth datasets. Despite the availability of several real-world and simulated human trajectory collect",
+        "title": "Mind the Perspective: Let's Reason Recursively for Theory of Mind",
+        "summary": "arXiv:2606.11724v1 Announce Type: new Abstract: Theory of Mind (ToM) reasoning requires inferring agents' beliefs from partial and asymmetric observations, which remains an open challenge for LLMs. Existing prompting-based approaches improve ToM reasoning through observable-event filtering or temporal belief chains, wi",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.10314",
+        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.11724",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
