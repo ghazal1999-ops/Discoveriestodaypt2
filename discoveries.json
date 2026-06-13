@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-12",
-  "last_updated": "2026-06-12 00:18 UTC",
+  "date": "2026-06-13",
+  "last_updated": "2026-06-13 00:19 UTC",
   "categories": {
     "science": [
       {
-        "title": "Hidden Solar Storms May Be Lighting Japan’s Skies With Massive Red Auroras",
-        "summary": "Unusually tall red auroras over Japan may be revealing that some solar storms are stronger than scientists realize. A study published in the Journal of Space Weather and Space Climate reports that red auroras observed over Japan extended to altitudes of roughly 500-800 kilometers above Earth. The discovery was made by ",
+        "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
+        "summary": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrinos change as they travel. Using just 59 days of data, researchers sharply improved measurements of key neutrino properti",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Tue, 09 Jun 2026 13:14:57 +0000",
-        "source_url": "https://scitechdaily.com/hidden-solar-storms-may-be-lighting-japans-skies-with-massive-red-auroras/",
-        "image_url": "https://scitechdaily.com/images/Low-Latitude-Aurora-777x583.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 12 Jun 2026 07:57:50 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/juno-central-detector.webp",
         "impact": 5
       },
       {
@@ -37,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "Engineered bacterium turns potato starch into biodegradable plastic in 24 hours",
+        "summary": "Every year, hundreds of millions of tons of petrochemical-based plastics are produced, much of which ends up in the environment or is incinerated. This exacerbates greenhouse gas emissions and the environmental crisis caused by plastic pollution. Now, a study led by the University of Barcelona has produced a biodegrada",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Fri, 12 Jun 2026 12:20:09 EDT",
+        "source_url": "https://phys.org/news/2026-06-bacterium-potato-starch-biodegradable-plastic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/engineered-bacterium-t.jpg",
+        "impact": 5
+      },
+      {
         "title": "The Strange “Spacetime Crystal” That Can Suddenly Turn Into a Black Hole",
         "summary": "A new mathematical breakthrough sheds light on how tiny black holes could emerge from critical states of spacetime. Black holes are often portrayed as cosmic giants, swallowing stars and shaping entire galaxies. But some of the most intriguing black holes predicted by physics could be far smaller than an atom. For deca",
         "category": "Science",
@@ -46,73 +57,62 @@
         "source_url": "https://scitechdaily.com/the-strange-spacetime-crystal-that-can-suddenly-turn-into-a-black-hole/",
         "image_url": "https://scitechdaily.com/images/Black-Hole-Accetion-Disc-Illustration-777x437.jpg",
         "impact": 5
-      },
-      {
-        "title": "Vast Hidden Structure Discovered Under Miles of Ice in East Antarctica",
-        "summary": "Scientists have discovered a colossal hidden structure beneath Antarctica that could reshape our understanding of the continent’s past and present. Scientists have identified a massive hidden geological formation beneath East Antarctica, revealing a continent-scale structure buried under some of the thickest ice on Ear",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Thu, 11 Jun 2026 10:34:00 +0000",
-        "source_url": "https://scitechdaily.com/vast-hidden-structure-discovered-under-miles-of-ice-in-east-antarctica/",
-        "image_url": "https://scitechdaily.com/images/EAFBP-East-Antarctica-777x431.jpg",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
-        "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and controls on the [&#8230",
+        "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+        "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 12 Jun 2026 19:26:47 +0000",
+        "source_url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-2560x1440.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+        "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 12 Jun 2026 18:03:29 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ukraine-drone-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+        "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 12 Jun 2026 01:48:07 +0000",
+        "source_url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/THEKER-photo-seriesA.jpg?resize=1200,799",
+        "impact": 3
+      },
+      {
+        "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+        "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 12 Jun 2026 01:04:38 +0000",
+        "source_url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
+        "impact": 3
+      },
+      {
+        "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+        "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometh",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-06-11T18:06:32-04:00",
-        "source_url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-echo-hub-redesign-wide.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "impact": 4
-      },
-      {
-        "title": "Waymo introduces $30-a-month premium tier for riders who want faster pickups",
-        "summary": "Uber One, meet Waymo Premier. The robotaxi operator announced a new $29.99-a-month premium tier for riders who want a more elevated and exclusive autonomous experience. The invite-only membership service is aimed at Waymo customers who use the service most frequently, offering them a number of perks, including priority",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-06-11T12:00:00-04:00",
-        "source_url": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/image_b9dbd0.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may ques",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 11 Jun 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GettyImages-2280327837.jpg?resize=1200,600",
-        "impact": 3
-      },
-      {
-        "title": "The Download: the “steroid olympics” and a safer Mythos",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las&#8230;",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 10 Jun 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260524_TechnologyReview_EnhancedGames_276-social.jpg?resize=1200,600",
-        "impact": 3
-      },
-      {
-        "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll ",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Tue, 09 Jun 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/sinclar-pills-b.jpg?resize=1200,600",
+        "published_at": "2026-06-12T10:03:39-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
@@ -129,47 +129,47 @@
         "impact": 5
       },
       {
-        "title": "New treatment shows promise for patients with rare blood disorder",
-        "summary": "A new treatment that involves growing a patient's immune cells and then infusing them back into their body has shown promise for people with the rare blood disorder aplastic anemia. Results from the Phase 1 trial, led by Professor Ghulam Mufti, provide the first evidence that autologous regulatory T-cell therapy is fea",
+        "title": "Traditional tertiary teaching models shortchanging neurodivergent students in health care studies",
+        "summary": "Recent Deakin research into the experiences of neurodivergent students studying for future health care careers showed many experience stigma, inadequate help in classroom and clinical settings, and hard-to-navigate support systems. The study, led by Associate Professor Laura Gray from the Damion Drapac Center for Equit",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 11 Jun 2026 20:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-treatment-patients-rare-blood-disorder.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/blood-cell.jpg",
+        "published_at": "Fri, 12 Jun 2026 15:40:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-traditional-tertiary-shortchanging-neurodivergent-students.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/college-class.jpg",
         "impact": 4
       },
       {
-        "title": "Home blood pressure tests could prevent heart attack and stroke",
-        "summary": "Allowing patients to measure and record their blood pressure at home has been linked to a drop in the risk of cardiovascular diseases, such as heart attack and stroke, shows a study recently published in the European Heart Journal–Digital Health. Patients who were able to self-monitor their blood pressure, with the dat",
+        "title": "Metal-free carbon monoxide prodrugs may help prevent cancer's deadly spread",
+        "summary": "A carefully designed metal-free carbon monoxide prodrug—an inactive compound that is converted into its active form in the body—may help prevent some of the deadliest forms of cancer from spreading, according to researchers at Weill Cornell Medicine. Their recent preclinical study, published in Advanced Science, offers",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 11 Jun 2026 17:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-home-blood-pressure-heart.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-pressure-finger.jpg",
+        "published_at": "Fri, 12 Jun 2026 12:40:11 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-metal-free-carbon-monoxide-prodrugs.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/metal-free-carbon-mono.jpg",
         "impact": 4
       },
       {
-        "title": "Personalized blood pressure control after thrombectomy boosts 90-day stroke recovery",
-        "summary": "Blood pressure management after thrombectomy for acute ischemic stroke may require a change in approach. The HOPE clinical trial—short for Hemodynamic Optimization of Cerebral Perfusion after Endovascular Therapy—led by the Sant Pau Research Institute (IR Sant Pau), has shown that adapting blood pressure targets to the",
+        "title": "Early heart changes may predict cancer years before diagnosis, long-term study suggests",
+        "summary": "A new study led by UCLA Health physician-scientists suggests that subtle changes in heart structure and function may signal an increased risk of developing certain cancers years later. The findings, published in the Journal of the American Heart Association, could eventually help physicians identify patients who may be",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 11 Jun 2026 16:20:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-personalized-blood-pressure-thrombectomy-boosts.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood-pressure.jpg",
+        "published_at": "Fri, 12 Jun 2026 11:40:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-early-heart-cancer-years-diagnosis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-suggests-earl-1.jpg",
         "impact": 4
       },
       {
-        "title": "New antibody may boost KRAS-targeted lung cancer treatment after resistance emerges",
-        "summary": "An experimental antibody treatment that binds to a protein known as PCDH7 shrank tumors in preclinical models of non-small cell lung cancer (NSCLC), including those resistant to a targeted therapy, a study led by UT Southwestern Medical Center researchers showed. The findings, published in Science Advances, could event",
+        "title": "Parkinson's medication shows promise in treating treatment-resistant depression",
+        "summary": "For many people who suffer from depression, the condition is not just about feeling down but also about a loss of motivation and difficulty finding pleasure in activities they used to enjoy. A new study conducted in Sweden shows that a medicine used to treat Parkinson's disease can be used as an add-on therapy to allev",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 11 Jun 2026 15:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-antibody-boost-kras-lung-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/antibody-may-improve-t-1.jpg",
+        "published_at": "Fri, 12 Jun 2026 10:20:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-parkinson-medication-treatment-resistant-depression.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/parkinsons-medication.jpg",
         "impact": 4
       }
     ],
@@ -254,14 +254,25 @@
         "impact": 4
       },
       {
-        "title": "NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit",
-        "summary": "NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will attempt to rendezvous with Swift and raise its altitude, extending its scien",
+        "title": "SpaceX's stock wasn't the company's only launch today — It also put 29 Starlink satellites in orbit",
+        "summary": "Liftoff of the Falcon 9 rocket occurred at 8:27 a.m. ET, just over an hour before SpaceX went public on the NASDAQ stock market.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 11 Jun 2026 13:58:17 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/ne201077-2581x1494-1.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 12 Jun 2026 20:19:22 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ttGdiKSwRoyvJ2ud4H23A4-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Why is the US Space Force researching 'orbital warehouses'?",
+        "summary": "As the US military readies for two 2027 missions to test spacecraft maneuvering, a new challenge with orbital warehouses aims to beef up space infrastructure.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 12 Jun 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/M52W25PiXBXgWQurJ849zg-1280-80.jpg",
         "impact": 4
       },
       {
@@ -273,17 +284,6 @@
         "published_at": "Wed, 10 Jun 2026 16:41:30 +0000",
         "source_url": "https://www.space.com/space-exploration/artemis/nasas-ambitious-artemis-3-mission-includes-3-giant-rocket-launches-2-private-moon-landers-and-1-big-question-can-it-all-work-together",
         "image_url": "https://cdn.mos.cms.futurecdn.net/xS6ZmuxKQBf9QHn8c4kUL4-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA reveals Artemis 3 astronauts for critical moon lander test flight",
-        "summary": "NASA named the astronauts who will launch on its Artemis 3 mission next year to test docking procedures in Earth orbit ahead of a planned moon landing in 2028.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 09 Jun 2026 17:03:39 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/oransJUVisuwEYUwWfyFA-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -300,6 +300,39 @@
         "impact": 5
       },
       {
+        "title": "Did A Moon-Size Planet Grow Fast and Die Young in the Early Solar System?",
+        "summary": "A rare meteorite recovered from the Sahara Desert could be a fragment of a Moon-size body that met a violent end in the earliest days of the solar system. The post Did A Moon-Size Planet Grow Fast and Die Young in the Early Solar System? appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Fri, 12 Jun 2026 13:05:33 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/did-a-moon-size-planet-grow-fast-and-die-young-in-the-early-solar-system/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/5-NWA-12774-Angrite-TS1804-Untitled_Panorama3aCroppedFOV8mm.webp",
+        "impact": 4
+      },
+      {
+        "title": "This Week's Sky at a Glance, June 12 – 21",
+        "summary": "The three planets in the western twilight are pulling away from each other now. On Wednesday, the Moon will occult Venus in daylight. The post This Week&#039;s Sky at a Glance, June 12 – 21 appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Fri, 12 Jun 2026 09:01:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-june-12-21/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Jun12_ev_NORM_FEATURED.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Reading the Galaxy's Past",
+        "summary": "Every galaxy you've ever seen in a photograph is hiding something. Beyond the glowing disc of stars and gas that the camera captures lies a vast, ghostly outer region called a halo, too faint to see easily but packed with clues about how that galaxy came to be. ESA has just formally committed to a mission designed to r",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 12 Jun 2026 16:30:49 +0000",
+        "source_url": "https://www.universetoday.com/articles/reading-the-galaxys-past",
+        "image_url": "https://www.universetoday.com/article_images/1280px-Ngc5907_stellar_stream_20260612_162937.jpg",
+        "impact": 4
+      },
+      {
         "title": "On The Hunt For Cosmic Dawn And The Universe’s Very First Stars",
         "summary": "After decades of searches, cosmologists are within reach of finding cosmic dawn. A longtime observational cosmologist explains.",
         "category": "Astronomy",
@@ -309,73 +342,51 @@
         "source_url": "https://www.universetoday.com/articles/on-the-hunt-for-cosmic-dawn-and-the-universes-very-first-stars",
         "image_url": "https://www.universetoday.com/article_images/galaxy_cluster-cropped_20260610_211032.jpg",
         "impact": 4
-      },
-      {
-        "title": "Reading the Moon in X-rays",
-        "summary": "We've walked on the Moon, driven rovers across its surface, and analysed every gram of rock the Apollo astronauts brought home, yet we still don't have a complete picture of what the Moon is actually made of. Now a team of researchers in Japan think they've found the answer, a compact X-ray telescope, small enough to s",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 10 Jun 2026 10:25:46 +0000",
-        "source_url": "https://www.universetoday.com/articles/reading-the-moon-in-x-rays",
-        "image_url": "https://www.universetoday.com/article_images/1280px-AS15-88-11866_-_Apollo_15_flag_rover_LM_Irwin_-_restoration1_20260610_102537.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Orbiting Stars Give Clues to a Quiescent Black Hole's Mass",
-        "summary": "How do you measure the mass of a dormant black hole in the early Universe? That's a question astronomers at University College London (UCL) and Carnegie scientists wanted to answer about a distant object that is invisible. So, they turned to James Webb Space Telescope (JWST) studies of the region around the black hole ",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 09 Jun 2026 18:52:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/orbiting-stars-give-clues-to-a-quiescent-black-holes-mass",
-        "image_url": "https://www.universetoday.com/article_images/image_14820e-MRG-M0138_20260609_195545.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Grab our best telescope for beginners with $100 off the Celestron NexStar 4SE",
-        "summary": "Celestron's iconic orange NexStar series is on sale on Amazon and includes the smallest of the set, the NexStar 4SE, a perfect first telescope for new stargazers. It has a 4-inch aperture and go-to technology for easily finding night sky objects.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 11 Jun 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/grab-our-best-telescope-for-beginners-with-100-dollars-off-the-celestron-nexstar-4se",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/9nHGtjcQS8ayqBbBSioWxf-1280-80.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "How Passive Design Strategies Shape Thermal Performance",
-        "summary": "Can architecture shape comfort before mechanical systems enter the equation? As buildings account for nearly 40% of global energy consumption and people spend close to 90% of their time indoors, thermal performance has become one of architecture's most urgent concerns. Yet despite often being associated with insulation",
+        "title": "Jing'An Investment Center / Nikken Sekkei",
+        "summary": "The JIC Jing'An Center is an urban regeneration project that integrates mixed-use functions (offices, retail, and residential) and is situated adjacent to the Nanjing West Road commercial area in Shanghai's Jing'An District. There, traditional streetscapes coexist alongside large-scale business hubs. The Center compris",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 11 Jun 2026 06:45:00 +0000",
-        "source_url": "https://www.archdaily.com/1042206/how-passive-design-strategies-shape-thermal-performance",
-        "image_url": "https://images.adsttc.com/media/images/6a22/a7a2/54de/fb01/89c8/f1d6/large_jpg/the-fifth-facade-design-decisions-behind-thermal-performance_15.jpg?1780656092",
+        "published_at": "Fri, 12 Jun 2026 19:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042339/jingan-investment-center-nikken-sekkei",
+        "image_url": "https://images.adsttc.com/media/images/6a29/a4c2/ba07/4e00/01cd/a529/large_jpg/04_mintwow.jpg?1781114335",
         "impact": 4
       },
       {
-        "title": "Designs Unveiled for New York City's Penn Station by PAU and HNTB-HOK",
-        "summary": "The Practice for Architecture and Urbanism (PAU), in collaboration with HNTB and HOK, has been selected as the design team for the redevelopment of New York City's Penn Station. The project is part of an ongoing effort to reorganize and expand one of the busiest rail transportation hubs in North America, aiming to impr",
+        "title": "Heat as a Design Partner: Trees, Soil, and Wind Corridors as Cooling Infrastructure",
+        "summary": "\"By 2050, almost every child in the world — nearly 2.2 billion children — will be exposed to frequent heat waves.\" UNICEF's warning is often read as a public health forecast, but it is also a challenge to architecture and the way cities are built. As extreme heat intensifies across Asia, Europe, and beyond, thermal com",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 11 Jun 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042360/designs-unveiled-for-new-york-citys-penn-station-by-pau-and-hntb-hok",
-        "image_url": "https://images.adsttc.com/media/images/6a2a/8175/6341/4201/8a2c/31b8/large_jpg/designs-unveiled-for-new-york-citys-penn-station-by-pau-and-hntb-hok_2.jpg?1781170584",
+        "published_at": "Fri, 12 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042329/heat-as-a-design-partner-trees-soil-and-wind-corridors-as-cooling-infrastructure",
+        "image_url": "https://images.adsttc.com/media/images/6a29/656d/8373/7501/8831/0ca6/large_jpg/heat-as-a-design-partner-toward-more-than-human-cooling-in-apac-cities_2.jpg?1781097843",
         "impact": 4
       },
       {
-        "title": "What Cladding Systems Reveal About Local Production in Architecture",
-        "summary": "Between the moment a material is specified in a project and the moment it is installed, there is an invisible layer that plays a decisive role in the final outcome: fabrication, logistics, and coordination. These factors shape timelines and costs, but more critically, determine whether the original design intent is pre",
+        "title": "Why Information Continuity Matters in Contemporary Architecture",
+        "summary": "Unlike many other activities that now take place entirely in digital environments, the final result of work in the architecture, engineering, and construction industry does not remain on a screen. Files become buildings, models transform into structures, and decisions made during the design process ultimately shape str",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 11 Jun 2026 01:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1040954/what-cladding-systems-reveal-about-local-production-in-architecture",
-        "image_url": "https://images.adsttc.com/media/images/69eb/b1ea/e2d9/9109/703c/eb47/large_jpg/what-cladding-systems-reveal-about-local-production-in-architecture_8.jpg?1777054245",
+        "published_at": "Fri, 12 Jun 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1042266/why-information-continuity-matters-in-contemporary-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a2a/9f26/6341/4201/8a2c/3253/large_jpg/why-information-continuity-matters-in-contemporary-architecture_4.jpg?1781178160",
+        "impact": 4
+      },
+      {
+        "title": "Fondation Beyeler to Open Expanded Campus by Peter Zumthor in 2027",
+        "summary": "The Fondation Beyeler in Riehen, near Basel, will begin opening its expanded campus to the public this autumn, with the full ensemble set to be accessible in January 2027. The project brings together the museum building designed by Renzo Piano Building Workshop and opened in 1997 with a series of new additions by Peter",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 12 Jun 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042400/fondation-beyeler-to-open-expanded-campus-by-peter-zumthor-in-2027",
+        "image_url": "https://images.adsttc.com/media/images/6a2b/d9cf/6341/4201/8a2c/399c/large_jpg/fondation-beyeler-to-open-expanded-campus-by-peter-zumthor-in-2027_1.jpg?1781258754",
         "impact": 4
       },
       {
@@ -388,31 +399,9 @@
         "source_url": "https://www.dezeen.com/2026/06/08/wadhal-wade-house-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "MACH designs red town hall in Spain to have \"warm and welcoming presence\"",
-        "summary": "Local architecture studio MACH has completed Calasparra Town Hall in Spain, using red textured render and pink-toned concrete to give the building a welcoming feel. Designed for Calasparra City Council, the 1,120-square-metre building provides private and public spaces on a site adjacent to the city's municipal theatre",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Sun, 07 Jun 2026 10:00:36 +0000",
-        "source_url": "https://www.dezeen.com/2026/06/07/mach-calasparra-town-hall-spain/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Meta earmarks $115M for workforce academy to support data center construction",
-        "summary": "The program will provide free skilled-trades training, industry credentials and guaranteed jobs as the company expands its AI infrastructure footprint.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 11 Jun 2026 15:10:17 -0400",
-        "source_url": "https://www.constructiondive.com/news/meta-workforce-academy-data-center-construction/822698/",
-        "image_url": "https://imgproxy.divecdn.com/lcKcemu_eVa0DDR_0g9NzOJ8nyFHXfX5jh4BPh5u2Z0/g:nowe:0:119/c:1919:1084/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMV9BV0FfQ2Fyb3VzZWwtMDMuanBn.webp",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on &ldquo;new&rdquo; construction methods for bridges, such as the following one in Ohio.",
@@ -436,81 +425,92 @@
         "impact": 4
       },
       {
-        "title": "Bechtel wins role on $100B Micron New York megafab",
-        "summary": "The general contractor will mobilize immediately at the Clay, New York, site to begin the next phase of construction.",
+        "title": "Kier awarded extension of £140M South West Water contract",
+        "summary": "Construction and infrastructure group Kier is set to continue delivering vital maintenance and improvements across South West Water’s operational region over the next two years, following an extension to its role on the Network Services Alliance (NSA). The post Kier awarded extension of £140M South West Water contract ",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 12 Jun 2026 12:23:41 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/kier-awarded-extension-of-140m-south-west-water-contract-12-06-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2022/03/kier-engineer-2.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Google vows $50M for skilled trades training",
+        "summary": "Within a week of Meta investing $115 million, another major data center owner is looking to supercharge the construction education pipeline.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 10 Jun 2026 15:20:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/bechtel-wins-role-micron-new-york-megafab/822542/",
-        "image_url": "https://imgproxy.divecdn.com/IHkfrEZdsddbKSeI1Z0TySdLkOnhN92OMwjBC5heJ7c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb24taW1hZ2VfYmx1cnJlZC0yLTIuanBn.webp",
+        "published_at": "Fri, 12 Jun 2026 10:51:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/google-skilled-trades-training-investment-construction/822788/",
+        "image_url": "https://imgproxy.divecdn.com/YYzphtfpbv9mKEZRrhEiE51TZPR61rlbzr4YDUA5lus/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3NzUwMjMxLmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "Healthcare joined data centers in boost to May construction planning",
-        "summary": "The increase builds on last month's growth to overall planning after a slow start to the year, according to Dodge Construction Network.",
+        "title": "Ex-Chicago Housing Authority director, builder accused of $4.8M kickback scheme",
+        "summary": "A former property and asset management official fraudulently awarded construction contracts at CHA properties in exchange for funds, a federal court indictment alleges.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Tue, 09 Jun 2026 13:15:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/healthcare-data-centers-boost-may-construction-planning/822389/",
-        "image_url": "https://imgproxy.divecdn.com/6Zbj5CPCjh1pefSlfoQgqu_7glzscQISLKCEyAcXiig/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk4NzYzNjM2LTMuanBn.webp",
+        "published_at": "Fri, 12 Jun 2026 09:42:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/chicago-housing-authority-director-builder-kickbacks/822765/",
+        "image_url": "https://imgproxy.divecdn.com/3PWBfSzDVJc_bZXj5QAp3v0dzEFi3MBeee35cGuzHGk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTQwMTk5NDEwLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
-        "summary": "arXiv:2606.11440v1 Announce Type: new Abstract: Existing multi-agent LLM orchestration methods, ranging from brute-force ensembles to learned routers, select models and topologies based on task and model features. However, these methods do not consider the runtime state of the serving infrastructure. On shared GPU clus",
+        "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+        "summary": "arXiv:2606.12657v1 Announce Type: new Abstract: Human mobility data is important for transportation, urban planning, and epidemic control, but large-scale trajectory collection is often costly and privacy-constrained, motivating realistic synthetic trajectory generation. Existing LLM-based generators typically rely on ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.11440",
+        "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.12657",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
-        "summary": "arXiv:2606.11543v1 Announce Type: new Abstract: Agent Skills augment large language model (LLM) agents with procedural knowledge at inference time, but current benchmarks rarely distinguish what a Skill says from how it is organized. We study this distinction through Progressive Disclosure, where a concise root file po",
+        "title": "Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory",
+        "summary": "arXiv:2606.12945v1 Announce Type: new Abstract: Long-running LLM agents accumulate interaction histories far larger than any context window, forcing a standing decision: what to encode deeply, what to forget, and what to retrieve under a fixed memory budget. Production systems answer with semantic similarity or recency",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.11543",
+        "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.12945",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
-        "summary": "arXiv:2606.11634v1 Announce Type: new Abstract: The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length. To address this, we study SWARR (Sliding-Window Attention with Reinforced Adapta",
+        "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+        "summary": "arXiv:2606.12451v1 Announce Type: new Abstract: Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture specialized tool semantics, parametric tool retrieval addresses this by enc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.11634",
+        "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.12451",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
-        "summary": "arXiv:2606.11680v1 Announce Type: new Abstract: Large language model (LLM) agents struggle with long-horizon tasks due to their inherent statelessness, requiring all task-relevant information to be encoded in growing input contexts. The resulting degraded reasoning quality, increased inference cost, and higher latency ",
+        "title": "Strategic Decision Support for AI Agents",
+        "summary": "arXiv:2606.12587v1 Announce Type: new Abstract: Traditionally, decision support studies how humans use machine learning models to make better decisions. In modern agentic systems, this division of roles is increasingly reversed: AI agents act on behalf of users, while humans and tools becomes support mechanisms around ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.11680",
+        "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.12587",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Mind the Perspective: Let's Reason Recursively for Theory of Mind",
-        "summary": "arXiv:2606.11724v1 Announce Type: new Abstract: Theory of Mind (ToM) reasoning requires inferring agents' beliefs from partial and asymmetric observations, which remains an open challenge for LLMs. Existing prompting-based approaches improve ToM reasoning through observable-event filtering or temporal belief chains, wi",
+        "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+        "summary": "arXiv:2606.12616v1 Announce Type: new Abstract: Closed-loop driving simulators typically populate their environments with non-ego traffic agents that behave largely the same way, produced either by rule-based traffic managers or by learned models trained toward a single behavioral mode. Recent work introduces style var",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.11724",
+        "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.12616",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
