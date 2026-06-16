@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-15",
-  "last_updated": "2026-06-15 00:07 UTC",
+  "date": "2026-06-16",
+  "last_updated": "2026-06-16 00:28 UTC",
   "categories": {
     "science": [
       {
@@ -15,6 +15,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists Finally See How Antibodies Really Attack Viruses",
+        "summary": "A new nanodisc breakthrough lets scientists see viruses more realistically, revealing hidden clues that could lead to better vaccines. Viruses are highly effective at infecting human cells, largely because of specialized proteins that cover their outer surfaces. These proteins are also a key focus for vaccine design. T",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Mon, 15 Jun 2026 11:44:09 +0000",
+        "source_url": "https://scitechdaily.com/scientists-finally-see-how-antibodies-really-attack-viruses/",
+        "image_url": "https://scitechdaily.com/images/Antibodies-Surrounding-Inactivating-Coronavirus-777x518.jpg",
+        "impact": 5
+      },
+      {
         "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
         "summary": "Researchers have solved a decades-old mystery by showing that a cache of 43 helmets found off the Spanish coast is medieval, not Roman. The remarkable discovery exposes a thriving weapons trade network that connected Mediterranean powers during a time of piracy, warfare, and growing demand for military equipment.",
         "category": "Science",
@@ -26,14 +37,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
-        "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. The discovery sharpens our understanding of human vision and could lead to more precise color technologies and visualizations.",
+        "title": "How plants rush energy to injured tissues to help them heal",
+        "summary": "A new study finds that plants respond to injury by actively redirecting sugars to damaged tissues, helping fuel the regeneration process. Using a fluorescent sensor to track sugar movement in living plants, researchers have discovered that wounds trigger a localized shift in energy transport, concentrating glucose arou",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 07 Jun 2026 03:55:21 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/color-perception-experiment.webp",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Mon, 15 Jun 2026 19:40:01 EDT",
+        "source_url": "https://phys.org/news/2026-06-energy-tissues.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plants-rush-energy.jpg",
         "impact": 5
       },
       {
@@ -46,20 +57,20 @@
         "source_url": "https://scitechdaily.com/stanford-scientists-discover-explosive-new-type-of-immune-cell/",
         "image_url": "https://scitechdaily.com/images/Simple-Cells-Biology-777x486.jpg",
         "impact": 5
-      },
-      {
-        "title": "This “Zombie” Sea Creature Keeps Growing After Being Cut Apart",
-        "summary": "Detached sea cucumber tissue survived, healed, and grew for years in natural seawater, revealing a remarkable new model for regeneration and biomedical research. A chance observation has led scientists to a discovery that challenges one of biology’s most basic assumptions: that detached animal tissue eventually dies. I",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sat, 13 Jun 2026 19:18:42 +0000",
-        "source_url": "https://scitechdaily.com/this-zombie-sea-creature-keeps-growing-after-being-cut-apart/",
-        "image_url": "https://scitechdaily.com/images/Man-Holding-Holothuria-scabra-Sea-Cucumber-777x518.jpg",
-        "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+        "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 15 Jun 2026 19:07:02 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/nvidia-chip-1152x648-1754500479.jpg",
+        "impact": 3
+      },
       {
         "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
         "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
@@ -72,61 +83,61 @@
         "impact": 3
       },
       {
-        "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-        "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
+        "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+        "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 12 Jun 2026 18:03:29 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ukraine-drone-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 15 Jun 2026 23:51:44 +0000",
+        "source_url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/sundar-io2026-intro-close.png?w=1191",
         "impact": 3
       },
       {
-        "title": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
-        "summary": "This handheld device combines red light therapy, microcurrents, sonic vibration, warmth, and a serum to support healthy hair growth.",
+        "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+        "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Sun, 14 Jun 2026 09:35:00 +0000",
-        "source_url": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
-        "image_url": "https://media.wired.com/photos/6a2ce34660cf2edb0a4e88d1/191:100/w_1280,c_limit/Review--Laduora-Duo-4-in-1-Pod-Based-Scalp-&-Hair-Care-Device-.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 15 Jun 2026 15:29:51 +0000",
+        "source_url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases",
+        "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+        "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 12 Jun 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/a-pill-life.jpg?resize=1200,600",
-        "impact": 3
-      },
-      {
-        "title": "Inside interoception: The hidden sense of how you feel inside",
-        "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your he",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 12 Jun 2026 09:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/interoception.jpg?resize=1200,600",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 15 Jun 2026 14:34:45 +0000",
+        "source_url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
-        "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nearly doubled survival fo",
+        "title": "CAR T-cell therapy shows early promise in severe lupus",
+        "summary": "Early results from a UCL- and UCLH-led clinical trial suggest that a type of CAR T-cell therapy—developed by Autolus Therapeutics, a UCL spinout—could offer a new treatment approach for people with severe, treatment-resistant lupus. The findings, presented at the EULAR European Congress of Rheumatology (EULAR 2026), co",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 04 Jun 2026 09:18:44 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell-destruction.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 15 Jun 2026 17:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-car-cell-therapy-early-severe.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/car-t-cell-therapy-sho-1.jpg",
         "impact": 5
+      },
+      {
+        "title": "Combo treatment delays multiple myeloma progression and may improve survival, study finds",
+        "summary": "Patients with multiple myeloma who received a new immunotherapy combination lived significantly longer without their cancer worsening and showed early signs of improved survival in a large international clinical trial.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 15 Jun 2026 17:50:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-combo-treatment-delays-multiple-myeloma.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2015/multiplemyel.jpg",
+        "impact": 4
       },
       {
         "title": "Can fasting fight gum disease? Scientists find surprising link",
@@ -159,17 +170,6 @@
         "published_at": "Mon, 08 Jun 2026 00:20:03 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075513.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/doctor-supports-kidney-health.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists discover why ozempic may not work for some people",
-        "summary": "Scientists have identified genetic variants that may make some people less responsive to GLP-1 drugs used to treat Type 2 diabetes. Roughly 10% of the population carries these variants, which appear to cause a mysterious form of \"GLP-1 resistance.\" In several clinical trials, carriers were significantly less likely to ",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 05 Jun 2026 11:13:02 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260605023417.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/woman-holding-semaglutide-ozempic-weight-loss-diabetes-pen.webp",
         "impact": 4
       }
     ],
@@ -232,14 +232,25 @@
     ],
     "space": [
       {
-        "title": "I Am Artemis: Elkin Norena",
-        "summary": "Listen to this audio excerpt from Elkin Norena, resident management officer, NASA&#8217;s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions",
+        "title": "SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video)",
+        "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Monday, June 15, 2026.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 11 Jun 2026 20:07:33 +0000",
-        "source_url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/0u6a3284.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 15 Jun 2026 19:27:41 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/g4jMSi22tFwzRxaGGGr3XS-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
+        "summary": "A laser system, previously tested on board the International Space Station, helped to stream video directly from the Artemis 2 mission on its way around the moon.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 15 Jun 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/3AHo6PCz3x3pRsLVnES9JD-1280-80.jpg",
         "impact": 4
       },
       {
@@ -265,25 +276,14 @@
         "impact": 4
       },
       {
-        "title": "NASA's ambitious Artemis 3 mission includes 3 giant rocket launches, 2 private moon landers and 1 big question: Can it all work together?",
-        "summary": "NASA's Artemis 3 mission in 2027 looks to be one of agency's most complicated missions ever, with three giant rocket launches and two private moon lander prototypes that haven't been built yet.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 10 Jun 2026 16:41:30 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/nasas-ambitious-artemis-3-mission-includes-3-giant-rocket-launches-2-private-moon-landers-and-1-big-question-can-it-all-work-together",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/xS6ZmuxKQBf9QHn8c4kUL4-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-        "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and ",
+        "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
+        "summary": "Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA. Biological and materials samples, along with tested hardware, are heading back to research teams on",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Fri, 12 Jun 2026 15:32:54 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/34-resupply-return-coverage-june-12.jpg",
+        "published_at": "Mon, 15 Jun 2026 17:30:00 +0000",
+        "source_url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
+        "image_url": "https://images-assets.nasa.gov/image/iss074e0591327/iss074e0591327~large.jpg",
         "impact": 4
       }
     ],
@@ -322,38 +322,60 @@
         "impact": 4
       },
       {
-        "title": "Reading the Galaxy's Past",
-        "summary": "Every galaxy you've ever seen in a photograph is hiding something. Beyond the glowing disc of stars and gas that the camera captures lies a vast, ghostly outer region called a halo, too faint to see easily but packed with clues about how that galaxy came to be. ESA has just formally committed to a mission designed to r",
+        "title": "The Little Red Dots That Turned Out to Be Black Holes in Disguise",
+        "summary": "For three years they've been one of the strangest puzzles in astronomy. Tiny, mysterious red dots scattered across the early universe, so abundant and so bright that some researchers wondered if they had \"broken\" cosmology itself. Now the James Webb Space Telescope has captured the most detailed look yet at one of them",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Fri, 12 Jun 2026 16:30:49 +0000",
-        "source_url": "https://www.universetoday.com/articles/reading-the-galaxys-past",
-        "image_url": "https://www.universetoday.com/article_images/1280px-Ngc5907_stellar_stream_20260612_162937.jpg",
+        "published_at": "Mon, 15 Jun 2026 10:40:35 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-little-red-dots-that-turned-out-to-be-black-holes-in-disguise",
+        "image_url": "https://www.universetoday.com/article_images/2000x2000_20260615_103947.jpg",
         "impact": 4
       },
       {
-        "title": "On The Hunt For Cosmic Dawn And The Universe’s Very First Stars",
-        "summary": "After decades of searches, cosmologists are within reach of finding cosmic dawn. A longtime observational cosmologist explains.",
+        "title": "The Galaxy's Spin Is Hiding in the Hum of Gravitational Waves",
+        "summary": "We are used to thinking of gravitational waves as messengers from catastrophes in space, the ringing of spacetime after black holes collide for example. But our own Galaxy hums with a fainter, steadier signal, a chorus of millions of unseen binary stars. A new study has found that this hum carries a hidden fingerprint ",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 10 Jun 2026 21:35:22 +0000",
-        "source_url": "https://www.universetoday.com/articles/on-the-hunt-for-cosmic-dawn-and-the-universes-very-first-stars",
-        "image_url": "https://www.universetoday.com/article_images/galaxy_cluster-cropped_20260610_211032.jpg",
+        "published_at": "Mon, 15 Jun 2026 10:12:11 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-galaxys-spin-is-hiding-in-the-hum-of-gravitational-waves",
+        "image_url": "https://www.universetoday.com/article_images/Milky_Way_Galaxy_20260615_101038.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Jing'An Investment Center / Nikken Sekkei",
-        "summary": "The JIC Jing'An Center is an urban regeneration project that integrates mixed-use functions (offices, retail, and residential) and is situated adjacent to the Nanjing West Road commercial area in Shanghai's Jing'An District. There, traditional streetscapes coexist alongside large-scale business hubs. The Center compris",
+        "title": "Designing for Stray Cities: Architecture Beyond the Human",
+        "summary": "Architecture continues to draw cities as though humans occupy them alone. Plans trace circulation routes, zoning maps assign functions, and buildings are evaluated according to human comfort, safety, and efficiency. Walking through cities across India and Southwest Asia reveals something much more complex. Dogs sleep b",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 12 Jun 2026 19:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042339/jingan-investment-center-nikken-sekkei",
-        "image_url": "https://images.adsttc.com/media/images/6a29/a4c2/ba07/4e00/01cd/a529/large_jpg/04_mintwow.jpg?1781114335",
+        "published_at": "Mon, 15 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042316/designing-for-stray-cities-architecture-beyond-the-human",
+        "image_url": "https://images.adsttc.com/media/images/6a29/bc63/a0e0/6301/89c9/f375/large_jpg/designing-for-stray-cities-architecture-beyond-the-human_15.jpg?1781120116",
+        "impact": 5
+      },
+      {
+        "title": "Hilltop House / W O V E N Architecture and Design",
+        "summary": "Perched atop a steep, rocky slope on a Gulf Island in British Columbia, the angular form of the Hilltop House hugs the contours of the land. Designed as a refuge for a Toronto-based client seeking respite from urban chaos, this home is more than a dwelling—it's a meditation on light, landscape, and longevity.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 15 Jun 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042330/hilltop-house-w-o-v-e-n-architecture-and-design",
+        "image_url": "https://images.adsttc.com/media/images/6a29/67ef/ba07/4e00/01cd/a4cd/large_jpg/SIDE_1.jpg?1781098501",
+        "impact": 4
+      },
+      {
+        "title": "Nieuw Bergen / MVRDV",
+        "summary": "Nieuw Bergen, a residential project comprising seven buildings designed by MVRDV, has been completed in the heart of Eindhoven. The development combines five new buildings with two transformed historic structures, introducing 237 diverse homes to the city that range from apartments for singles to family residences, and",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 15 Jun 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042421/nieuw-bergen-mvrdv",
+        "image_url": "https://images.adsttc.com/media/images/6a2d/e4d4/6341/4201/8a2c/3d7b/large_jpg/nieuw-bergen-mvrdv_2.jpg?1781392622",
         "impact": 4
       },
       {
@@ -376,28 +398,6 @@
         "published_at": "Sun, 07 Jun 2026 10:00:36 +0000",
         "source_url": "https://www.dezeen.com/2026/06/07/mach-calasparra-town-hall-spain/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "peter zumthor’s fondation beyeler extension set to progressively open starting this fall",
-        "summary": "a newly public park and restored historic buildings extend the swiss museum into a broader landscape of art and architecture. The post peter zumthor&#8217;s fondation beyeler extension set to progressively open starting this fall appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 11 Jun 2026 16:57:45 +0000",
-        "source_url": "https://www.designboom.com/architecture/peter-zumthor-fondation-beyeler-extension-progressive-opening-riehen-public-park-switzerland/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/peter-zumthor-fondation-beyeler-extension-riehen-public-park-switzerland-designboom-FB.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Telekom Tower, Konstanz / Sauerbruch Hutton",
-        "summary": "The Telekom Tower, southeast of Konstanz's historic city centre, quite literally stands out from its surroundings. For a long time, this 1970s building stood in stark contrast to its urban fabric, not only for its height but also for its architectural language; it was perceived as an almost alien presence within the ci",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 14 Jun 2026 09:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042385/telekom-tower-konstanz-sauerbruch-hutton",
-        "image_url": "https://images.adsttc.com/media/images/6a2b/61c7/6341/427a/f935/4944/large_jpg/telekom-tower-konstanz-sauerbruch-hutton_6.jpg?1781227995",
         "impact": 4
       }
     ],
@@ -425,94 +425,94 @@
         "impact": 4
       },
       {
-        "title": "Kier awarded extension of £140M South West Water contract",
-        "summary": "Construction and infrastructure group Kier is set to continue delivering vital maintenance and improvements across South West Water’s operational region over the next two years, following an extension to its role on the Network Services Alliance (NSA). The post Kier awarded extension of £140M South West Water contract ",
+        "title": "Amey signs £40M Network Rail eastern region assessments contracts",
+        "summary": "Infrastructure engineering firm Amey has secured two framework contracts for Network Rail’s Eastern Region known as ERAC (Eastern Region Assessment Contract), The post Amey signs £40M Network Rail eastern region assessments contracts appeared first on New Civil Engineer.",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Fri, 12 Jun 2026 12:23:41 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/kier-awarded-extension-of-140m-south-west-water-contract-12-06-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2022/03/kier-engineer-2.jpg",
+        "published_at": "Mon, 15 Jun 2026 10:47:16 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/amey-signs-40m-network-rail-eastern-region-assessments-contracts-15-06-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/06/image-1-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "Google vows $50M for skilled trades training",
-        "summary": "Within a week of Meta investing $115 million, another major data center owner is looking to supercharge the construction education pipeline.",
+        "title": "Tutor Perini lands $652M Guam military base project",
+        "summary": "The contractor will work via a joint venture with subsidiary Black Construction, which is based on the island.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 12 Jun 2026 10:51:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/google-skilled-trades-training-investment-construction/822788/",
-        "image_url": "https://imgproxy.divecdn.com/YYzphtfpbv9mKEZRrhEiE51TZPR61rlbzr4YDUA5lus/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3NzUwMjMxLmpwZw==.webp",
+        "published_at": "Mon, 15 Jun 2026 14:03:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/tutor-perini-guam-military-base-project/822930/",
+        "image_url": "https://imgproxy.divecdn.com/A44vB_FPraJeRQA1HH9GYDy1QN7nmX591W3e5kEQkd0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yNTEyMTktTi1FSDg1NS0xMDEwLmpwZWc=.webp",
         "impact": 3
       },
       {
-        "title": "Ex-Chicago Housing Authority director, builder accused of $4.8M kickback scheme",
-        "summary": "A former property and asset management official fraudulently awarded construction contracts at CHA properties in exchange for funds, a federal court indictment alleges.",
+        "title": "How to build construction teams without hiring a single person",
+        "summary": "Construction execs often wear too many (hard) hats. Sharing responsibilities can help reduce bottlenecks, writes a consultant.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 12 Jun 2026 09:42:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/chicago-housing-authority-director-builder-kickbacks/822765/",
-        "image_url": "https://imgproxy.divecdn.com/3PWBfSzDVJc_bZXj5QAp3v0dzEFi3MBeee35cGuzHGk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTQwMTk5NDEwLmpwZw==.webp",
+        "published_at": "Mon, 15 Jun 2026 08:59:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/build-construction-team-leadership-tips-consultant/822650/",
+        "image_url": "https://imgproxy.divecdn.com/tQIsXR556M0F6VBIsYqYTHoGJuTcoY-ft_dz85IMcJY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUwNTk5MDQwLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Warp’s big bet on building open source with GPT-5.5",
-        "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+        "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+        "summary": "arXiv:2606.14476v1 Announce Type: new Abstract: A growing line of work equips large language model (LLM) agents with graph neural networks (GNNs) as callable tools, assuming the agent exercises judgment over when and how much to rely on such a tool. We test this directly. We expose a frozen GNN to a ReAct-style LLM age",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 27 May 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/warp",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7H0xxotNq29rPNCbEeOmXP/13f456fbb5b2c39b6cea84ce6647dafc/oai_Warp_SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.14476",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-        "summary": "",
+        "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+        "summary": "arXiv:2606.13707v1 Announce Type: new Abstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the importance of agent orchestration for task decomposition and collaboration. However, existing orches",
         "category": "AI",
-        "source": "huggingface.co",
-        "journal": "huggingface.co",
-        "published_at": "Mon, 01 Jun 2026 13:51:18 GMT",
-        "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-        "image_url": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.13707",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "New OpenAI Academy courses for the next era of work",
-        "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+        "title": "Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents",
+        "summary": "arXiv:2606.13884v1 Announce Type: new Abstract: Modern decision systems increasingly rely on learned components whose outputs may be confident yet wrong, exposing downstream actions to costly errors. We introduce Risk-Aware Causal Gating (RACG), a framework that decides whether to act on, defer, or abstain from a model",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 12 Jun 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3uhZVST93Uain15J19fqjF/544b8b12c44fb2035c96b419c5196013/Frame.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.13884",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "OpenAI to acquire Ona",
-        "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+        "title": "When Should Agent Trust Be Conditional? Characterizing and Attacking Skill-Conditional Reputation in Agent Swarms",
+        "summary": "arXiv:2606.14200v1 Announce Type: new Abstract: Open platforms increasingly route tasks among heterogeneous LLM agents--differing in base model, scaffold, and tool stack--whose competence varies sharply by skill: an agent excellent at one skill may be useless at another. The standard reputation approach summarizes each",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/openai-to-acquire-ona",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3vpY0M1x6mrbhiFVcfTF4Y/99dae42f0ed1030d045f56249385ac3a/OAI-Ona-SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.14200",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-        "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+        "title": "Communication Policy Evolution for Proactive LLM Agents",
+        "summary": "arXiv:2606.14314v1 Announce Type: new Abstract: LLM agents have rapidly evolved into autonomous systems, yet a persistent information gap remains between users and agents: communication is costly, while users' identical preferences further limit information exchange. To investigate how agents should communicate across ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 10 Jun 2026 20:00:00 GMT",
-        "source_url": "https://openai.com/index/openai-on-oracle-cloud",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5YxRwes6xIOtUirJPj9Tqq/2897a1a8061bf93e016c0c12385b3f55/OAI_Oracle_Partnership_16x9_Art_Card.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.14314",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
