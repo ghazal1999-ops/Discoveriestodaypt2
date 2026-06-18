@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-17",
-  "last_updated": "2026-06-17 00:16 UTC",
+  "date": "2026-06-18",
+  "last_updated": "2026-06-18 00:15 UTC",
   "categories": {
     "science": [
       {
@@ -26,25 +26,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists Finally See How Antibodies Really Attack Viruses",
-        "summary": "A new nanodisc breakthrough lets scientists see viruses more realistically, revealing hidden clues that could lead to better vaccines. Viruses are highly effective at infecting human cells, largely because of specialized proteins that cover their outer surfaces. These proteins are also a key focus for vaccine design. T",
+        "title": "This AI Learned the Laws of Physics and Could Accelerate Quantum Computing Breakthroughs",
+        "summary": "Researchers in Sweden have developed a machine-learning approach that embeds the laws of physics directly into neural networks. A new study from Chalmers University of Technology in Sweden shows that machine learning can become far more efficient when it starts with a built-in understanding of the laws of physics. Rese",
         "category": "Science",
         "source": "scitechdaily.com",
         "journal": "scitechdaily.com",
-        "published_at": "Mon, 15 Jun 2026 11:44:09 +0000",
-        "source_url": "https://scitechdaily.com/scientists-finally-see-how-antibodies-really-attack-viruses/",
-        "image_url": "https://scitechdaily.com/images/Antibodies-Surrounding-Inactivating-Coronavirus-777x518.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Stanford Scientists Discover Explosive New Type of Immune Cell",
-        "summary": "Scientists studying the remarkable regenerative abilities of planarian flatworms have uncovered a previously unknown type of immune cell with an unusually destructive defense strategy. What if an immune cell could wipe out nearby threats by detonating itself? That is exactly what Stanford researchers have discovered in",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sun, 14 Jun 2026 16:10:22 +0000",
-        "source_url": "https://scitechdaily.com/stanford-scientists-discover-explosive-new-type-of-immune-cell/",
-        "image_url": "https://scitechdaily.com/images/Simple-Cells-Biology-777x486.jpg",
+        "published_at": "Wed, 17 Jun 2026 12:03:03 +0000",
+        "source_url": "https://scitechdaily.com/this-ai-learned-the-laws-of-physics-and-could-accelerate-quantum-computing-breakthroughs/",
+        "image_url": "https://scitechdaily.com/images/Physics-Inspired-AI-Super-Brain-777x785.jpg",
         "impact": 5
       },
       {
@@ -57,30 +46,41 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/two-parrots-talking-kissing.webp",
         "impact": 4
+      },
+      {
+        "title": "Hidden mitochondrial genes emerge as mealybugs encode two genes on one DNA stretch",
+        "summary": "What if a single sentence could carry two completely different meanings, one when read forward and another when read backward? In a new study, researchers at Arizona State University have discovered a biological version of this idea. Working with the mitochondria of a tiny insect called the citrus mealybug, the team fo",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Wed, 17 Jun 2026 19:20:05 EDT",
+        "source_url": "https://phys.org/news/2026-06-hidden-mitochondrial-genes-emerge-mealybugs.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/8-dna.jpg",
+        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-        "summary": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone.",
+        "title": "The Download: a reality check for geoengineering and the science of interoception",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to cou",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 16 Jun 2026 18:22:24 +0000",
-        "source_url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/qualcomm-layoff-san-diego.jpg?resize=1200,800",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 17 Jun 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/TR_Geoengineering_r2_layers.jpg?resize=1200,600",
         "impact": 4
       },
       {
-        "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-        "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the ne",
+        "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+        "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-06-16T13:00:00-04:00",
-        "source_url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/snapdragonreality.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-        "impact": 4
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 17 Jun 2026 19:25:19 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-1152x648.png",
+        "impact": 3
       },
       {
         "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
@@ -94,82 +94,82 @@
         "impact": 3
       },
       {
-        "title": "Mobileye is entering the US robotaxi market with standalone service",
-        "summary": "The service will leverage its Moovit platform to launch in an a US city in 2027.",
+        "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+        "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 16 Jun 2026 14:20:51 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2177874163-2560x1440-1781618466.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 17 Jun 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-        "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
+        "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
+        "summary": "We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon&#8217;s own devices. Several Echo speakers have dropped to new low prices, including the Echo Dot Max, which is on sale for $64.99 ($35 off) at Amazon. Our smart home reviewer Jennifer Pattison",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Mon, 15 Jun 2026 19:07:02 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/nvidia-chip-1152x648-1754500479.jpg",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-06-17T12:47:43-04:00",
+        "source_url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Retinal photographs can help predict Alzheimer's disease risk factors",
-        "summary": "Often called \"the window to the soul,\" the eyes may also offer clues about something less poetic but just as important: the health of the brain. A new study of tens of thousands of patients has revealed that cheap, simple and common photographs of the retina at the back of the eye can accurately predict many of the mos",
+        "title": "Gene therapy shows promise for life-threatening inherited heart disease",
+        "summary": "A new gene therapy appears to be safe in patients diagnosed with Friedreich ataxia cardiomyopathy, a progressive and fatal inherited cardiac disease, according to a phase 1 clinical trial led by Weill Cornell Medicine researchers. The treatment may also reduce heart damage, although further investigation is needed.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 16 Jun 2026 17:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-retinal-alzheimer-disease-factors.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/eye-exam-2.jpg",
+        "published_at": "Wed, 17 Jun 2026 15:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-gene-therapy-life-threatening-inherited.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/heart-1.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Kneecap resurfacing during replacement saves costs for patients and health care systems, study shows",
+        "summary": "The largest and longest clinical trial of its kind has found that resurfacing the kneecap during total knee replacement is likely to be the most cost-effective approach for patients and health care systems over the long term. Researchers from the University of Oxford and the University of Aberdeen followed more than 1,",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 17 Jun 2026 18:30:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-kneecap-resurfacing-patients-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/kneexray.jpg",
         "impact": 4
       },
       {
-        "title": "Developing clinical-grade intestinal organoids for regenerative medicine applications",
-        "summary": "Inflammatory bowel disease (IBD) and other intestinal disorders affect millions of people worldwide, often causing lasting damage to the lining of the gut. In severe cases, this damage can become irreversible, leaving surgery as one of the few remaining treatment options. In recent years, however, regenerative medicine",
+        "title": "FAP-targeted radiopharmaceutical therapy shows broad effectiveness across multiple cancers",
+        "summary": "A novel radiopharmaceutical therapy approach that targets fibroblast activation protein (FAP)—which is highly expressed in many types of cancer—is safe and effective for patients, according to a new study published in the June issue of the Journal of Nuclear Medicine. In a study of nearly 90 patients with 21 different ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 16 Jun 2026 17:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-clinical-grade-intestinal-organoids-regenerative.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/developing-clinical-gr.jpg",
+        "published_at": "Wed, 17 Jun 2026 18:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-fap-radiopharmaceutical-therapy-broad-effectiveness.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fap-targeted-radiophar.jpg",
         "impact": 4
       },
       {
-        "title": "Tirzepatide outperformed semaglutide weight-loss drug results in real world patients, study shows",
-        "summary": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have become popular for weight loss, but results vary from person to person and from drug to drug. Venky Soundararajan and colleagues explored the full range of responses to tirzepatide (e.g., Mounjaro or Zepbound) and semaglutide (e.g., Ozempic, Wegovy or Rybelsus) ",
+        "title": "Multilingual benchmark evaluates how well AI interprets clinical text and health records in nine languages",
+        "summary": "Researchers at Mass General Brigham recently developed BRIDGE, a multilingual benchmark that evaluates how well large language models (LLMs) understand clinical patient care text, including language used in electronic health records (EHRs), across nine languages. The benchmarking tool could help clinicians evaluate and",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 16 Jun 2026 16:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-tirzepatide-outperformed-semaglutide-weight-loss.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/weight-loss-drug-resul.jpg",
+        "published_at": "Wed, 17 Jun 2026 17:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-multilingual-benchmark-ai-clinical-text.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/multilingual-benchmark.jpg",
         "impact": 4
       },
       {
-        "title": "Online CBT eases stress after broken-heart syndrome, especially in women",
-        "summary": "Men are overrepresented when it comes to heart disease, but there are certain conditions that mainly affect women, such as \"broken-heart syndrome.\" Stress and anxiety are common in this group. A new study led by researchers at Uppsala University and Karolinska Institutet shows that internet-based cognitive behavioral t",
+        "title": "Most people who stop GLP-1 drugs like Ozempic eventually return",
+        "summary": "Many people prescribed GLP-1 drugs for type 2 diabetes (such as Victoza, Ozempic, or tirzepatide) stop taking them, but a surprising number later return to treatment. Researchers found that newer medications appear to keep patients on therapy longer, while side effects remain a major reason for discontinuation.",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 16 Jun 2026 14:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-online-cbt-eases-stress-broken.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/upset-man.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Psychologists say patients are turning to chatbots as mental health professionals",
-        "summary": "More than three-quarters of psychologists report their patients are discussing artificial intelligence in therapy, using the technology to seek additional support with their mental health, find a diagnosis, or for friendship and intimate relationships, according to a survey by the American Psychological Association.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 16 Jun 2026 13:20:11 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-psychologists-patients-chatbots-mental-health.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/psychologists-say-pati.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 16 Jun 2026 09:10:09 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260615033838.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/hand-holding-glp-1-semaglutide-ozempic-pen-close-up.webp",
         "impact": 4
       }
     ],
@@ -197,6 +197,17 @@
         "impact": 4
       },
       {
+        "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+        "summary": "A decades-old proof showed that seven shuffles are enough to mix up a deck of cards. But it requires you to cut the deck with the precision of a professional magician. A new proof gets around that obstacle. The post Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones? first appeared on Quanta Mag",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Wed, 17 Jun 2026 14:35:35 +0000",
+        "source_url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Shuffling-Math-cr-XXXXX-Social.jpg",
+        "impact": 3
+      },
+      {
         "title": "How Terry Tao Became an Evangelist for AI in Math",
         "summary": "With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research. The post How Terry Tao Became an Evangelist for AI in Math first appeared on Quanta Magazine",
         "category": "Mathematics",
@@ -217,40 +228,51 @@
         "source_url": "https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/",
         "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/TearInTopology-crKristinaArmitage-Social.jpg",
         "impact": 3
-      },
-      {
-        "title": "How Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-        "summary": "Grothendieck is revered in the world of math; outside of it, he’s known for his unusual life, if he’s known at all. But what were his actual mathematical contributions? The post How Alexander Grothendieck Revolutionized 20th-Century Mathematics first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Wed, 20 May 2026 14:50:37 +0000",
-        "source_url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Grothendieck-cr-Mercedes-deBellard-Social.jpg",
-        "impact": 3
       }
     ],
     "space": [
       {
-        "title": "Explore JPL to Take Place Oct. 10, 11",
-        "summary": "Celebrating&#160;its 90th&#160;anniversary&#160;this year,&#160;NASA’s Jet Propulsion Laboratory&#160;invites&#160;the public to its campus&#160;at&#160;the base of the San Gabriel Mountains&#160;in Southern California&#160;for an&#160;open-house event,&#160;Explore JPL. On Oct. 10 and 11, from&#160;9:30 a.m. to 4 p.m.",
+        "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
+        "summary": "NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise op",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Tue, 16 Jun 2026 00:34:34 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/misc-jpl-space-heros-2-original.png",
+        "published_at": "Wed, 17 Jun 2026 22:29:09 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc00375-002.jpeg",
         "impact": 4
       },
       {
-        "title": "Watch European rocket launch record-breaking mission for Amazon on June 17",
-        "summary": "An Ariane 6 heavy-lift rocket will launch a record-breaking load to orbit early on Wednesday morning (June 17), and you can watch the action live.",
+        "title": "'Best. Mars. Mission. Ever.' Scientists hail MAVEN's legacy as NASA retires Red Planet orbiter",
+        "summary": "NASA's MAVEN Mars mission ended after 11 years, having revealed how the planet lost its atmosphere and served as a key communications relay for surface missions.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 17 Jun 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/best-mars-mission-ever-scientists-hail-mavens-legacy-as-nasa-retires-red-planet-orbiter",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/x2dY7UjdjBXqtEuxdFePnK-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA discussing bold mission to boost Swift space telescope today: Listen live",
+        "summary": "NASA will discuss an ambitious mission to boost the orbit of its Swift space telescope during a press conference today (June 17), and you can listen to it live.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 17 Jun 2026 04:05:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/nqSn3Y5w4Nfuj7pfjQgaSa-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "European rocket launches record-breaking mission with Amazon internet satellites",
+        "summary": "An Ariane 6 heavy-lift rocket launched a record-breaking load to orbit early Wednesday morning (June 17), carrying a batch of Amazon Leo satellites to orbit.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
         "published_at": "Tue, 16 Jun 2026 20:01:58 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-1280-80.jpg",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/gq2GusKg86g6j2Bdiw3ZLC-1280-80.png",
         "impact": 4
       },
       {
@@ -263,31 +285,20 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly",
         "image_url": "https://cdn.mos.cms.futurecdn.net/g4jMSi22tFwzRxaGGGr3XS-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
-        "summary": "A laser system, previously tested on board the International Space Station, helped to stream video directly from the Artemis 2 mission on its way around the moon.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 15 Jun 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3AHo6PCz3x3pRsLVnES9JD-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX's stock wasn't the company's only launch today — It also put 29 Starlink satellites in orbit",
-        "summary": "Liftoff of the Falcon 9 rocket occurred at 8:27 a.m. ET, just over an hour before SpaceX went public on the NASDAQ stock market.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 12 Jun 2026 20:19:22 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ttGdiKSwRoyvJ2ud4H23A4-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "James Webb Space Telescope discovers extreme exoplanet being roasted by its home star",
+        "summary": "Who ordered the roasted exoplanet? Astronomers using the James Webb Space Telescope found a world that really puts the \"hot\" in \"Hot Jupiter.\"",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 17 Jun 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-extreme-exoplanet-being-roasted-by-its-home-star",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/c7o8Faj5dqs7UtTfaHm56m-1280-80.png",
+        "impact": 4
+      },
       {
         "title": "Did A Moon-Size Planet Grow Fast and Die Young in the Early Solar System?",
         "summary": "A rare meteorite recovered from the Sahara Desert could be a fragment of a Moon-size body that met a violent end in the earliest days of the solar system. The post Did A Moon-Size Planet Grow Fast and Die Young in the Early Solar System? appeared first on Sky &amp; Telescope.",
@@ -311,82 +322,38 @@
         "impact": 4
       },
       {
-        "title": "The Little Red Dots That Turned Out to Be Black Holes in Disguise",
-        "summary": "For three years they've been one of the strangest puzzles in astronomy. Tiny, mysterious red dots scattered across the early universe, so abundant and so bright that some researchers wondered if they had \"broken\" cosmology itself. Now the James Webb Space Telescope has captured the most detailed look yet at one of them",
+        "title": "'High-Res' is the Secret to Finding Alien Life with the Next Great Space Telescope",
+        "summary": "We’re still in the definition phase of the Habitable Worlds Observatory (HWO), but it seems like every week a new research group comes out with a paper helping to contribute to what is shaping up to be one of the most important space telescopes of the 2040s. A new paper from a team of researchers led by Daniel Jaffe of",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Mon, 15 Jun 2026 10:40:35 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-little-red-dots-that-turned-out-to-be-black-holes-in-disguise",
-        "image_url": "https://www.universetoday.com/article_images/2000x2000_20260615_103947.jpg",
+        "published_at": "Wed, 17 Jun 2026 13:30:54 +0000",
+        "source_url": "https://www.universetoday.com/articles/high-res-is-the-secret-to-finding-alien-life-with-the-next-great-space-telescope",
+        "image_url": "https://www.universetoday.com/article_images/NesvoldDiskMergeOrtho.brightness_orbit.0000_print_20260616_170948.jpg",
         "impact": 4
       },
       {
-        "title": "The Galaxy's Spin Is Hiding in the Hum of Gravitational Waves",
-        "summary": "We are used to thinking of gravitational waves as messengers from catastrophes in space, the ringing of spacetime after black holes collide for example. But our own Galaxy hums with a fainter, steadier signal, a chorus of millions of unseen binary stars. A new study has found that this hum carries a hidden fingerprint ",
+        "title": "Lava planet has hydrogen-rich, active atmosphere",
+        "summary": "It’s 2158, and you’re chugging away on your PhD in Planetary Volcanology from the University of Utopia Planitia on Mars. Graduate students still get paid a sub-living wage, so you’ve been stuck eating freeze-dried ramen for the past three years. You’ve completed studying Jupiter’s moon, Io, but now you have to leave th",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Mon, 15 Jun 2026 10:12:11 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-galaxys-spin-is-hiding-in-the-hum-of-gravitational-waves",
-        "image_url": "https://www.universetoday.com/article_images/Milky_Way_Galaxy_20260615_101038.jpg",
-        "impact": 4
-      },
-      {
-        "title": "FAST Finds a Pulsar in an Almost Flawless Circular Orbit",
-        "summary": "Somewhere in the plane of the Milky Way, a dead star is spinning 220 times a second, and it's circling its companion in almost the most perfect orbit astronomers have ever measured. China's giant FAST radio telescope has just found it, and the shape of that orbit is a near flawless record of a billion year relationship",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 15 Jun 2026 09:50:34 +0000",
-        "source_url": "https://www.universetoday.com/articles/fast-finds-a-pulsar-in-an-almost-flawless-circular-orbit",
-        "image_url": "https://www.universetoday.com/article_images/1280px-202508_FAST_Five-hundred-meter_Aperture_Spherical_radio_Telescope_20260615_094942.jpg",
+        "published_at": "Wed, 17 Jun 2026 02:11:31 +0000",
+        "source_url": "https://www.universetoday.com/articles/lava-planet-has-hydrogen-rich-active-atmosphere",
+        "image_url": "https://www.universetoday.com/article_images/ezgif-4c375348d6b7b3c9_750_20260617_021118.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Designing for Stray Cities: Architecture Beyond the Human",
-        "summary": "Architecture continues to draw cities as though humans occupy them alone. Plans trace circulation routes, zoning maps assign functions, and buildings are evaluated according to human comfort, safety, and efficiency. Walking through cities across India and Southwest Asia reveals something much more complex. Dogs sleep b",
+        "title": "Bahār Residential Building / DIM Architecture Studio",
+        "summary": "Bahār is a mid-rise infill project built on a 550-sqm site within one of Mashhad's dense urban fabrics. The project challenges the generic organization of contemporary apartment living by reintroducing the spatial hierarchy and openness found in historical Iranian residences—particularly the role of the courtyard and t",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 15 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042316/designing-for-stray-cities-architecture-beyond-the-human",
-        "image_url": "https://images.adsttc.com/media/images/6a29/bc63/a0e0/6301/89c9/f375/large_jpg/designing-for-stray-cities-architecture-beyond-the-human_15.jpg?1781120116",
-        "impact": 5
-      },
-      {
-        "title": "Breathe Lodge Residence / Jérôme Lapierre Architecte",
-        "summary": "Nestled within the natural landscape of Quebec's Eastern Townships, Breathe Lodge Residence offers a thoughtful living experience designed to foster a meaningful relationship between dwelling and nature. Conceived as a family retreat removed from the pace of urban life, the residence integrates into its surroundings wi",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 16 Jun 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042465/breathe-lodge-residence-jerome-lapierre-architecte",
-        "image_url": "https://images.adsttc.com/media/images/6a30/5935/712c/db00/01fb/e429/large_jpg/28_BreatheLodge_JLA.jpg?1781553677",
-        "impact": 4
-      },
-      {
-        "title": "Lego House / Fernanda Marques Arquitetos Associados",
-        "summary": "Casa Lego unfolds as an encounter between nature, light, and architecture across its 1,390 m&sup2;. Designed by architect Fernanda Marques, the project was born from a family&rsquo;s desire to live in an urban, cosmopolitan S&atilde;o Paulo without giving up the feeling of being surrounded by greenery, light, and silen",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 16 Jun 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042328/lego-house-fernanda-marques-arquitetos-associados",
-        "image_url": "https://images.adsttc.com/media/images/6a29/4d84/a0e0/6301/89c9/f0f0/large_jpg/casa-lego-fernanda-marques-arquitetos-associados_8.jpg?1781091728",
-        "impact": 4
-      },
-      {
-        "title": "Hilltop House / W O V E N Architecture and Design",
-        "summary": "Perched atop a steep, rocky slope on a Gulf Island in British Columbia, the angular form of the Hilltop House hugs the contours of the land. Designed as a refuge for a Toronto-based client seeking respite from urban chaos, this home is more than a dwelling—it's a meditation on light, landscape, and longevity.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 15 Jun 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042330/hilltop-house-w-o-v-e-n-architecture-and-design",
-        "image_url": "https://images.adsttc.com/media/images/6a29/67ef/ba07/4e00/01cd/a4cd/large_jpg/SIDE_1.jpg?1781098501",
+        "published_at": "Tue, 16 Jun 2026 19:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042423/bahar-residential-building-dim-architecture-studio",
+        "image_url": "https://images.adsttc.com/media/images/6a2e/8492/712c/db00/01fb/e2e5/large_jpg/IMG_1203-HDR_-1.jpg?1781433581",
         "impact": 4
       },
       {
@@ -398,6 +365,39 @@
         "published_at": "Tue, 16 Jun 2026 08:00:19 +0000",
         "source_url": "https://www.dezeen.com/2026/06/16/nbbj-vivo-headquarters-shenzhen/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "Wadhal subverts suburban architecture for home in west London",
+        "summary": "Architecture studio Wadhal has completed Wade House in London, using textured brickwork, pared-back fenestration and concealed guttering to put a subtly contemporary spin on typical suburban architecture. Replacing a pair of dilapidated garages in Ruislip, strict planning regulations required the new detached home to m",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 08 Jun 2026 10:30:23 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/08/wadhal-wade-house-london/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "archiworkshop reimagines a seoul sports complex as a continuous public roof terrace",
+        "summary": "sports and urban activities programs are distributed across multiple interconnected levels. The post archiworkshop reimagines a seoul sports complex as a continuous public roof terrace appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Tue, 16 Jun 2026 19:30:29 +0000",
+        "source_url": "https://www.designboom.com/architecture/archiworkshop-seoul-sports-complex-continuous-public-roof-terrace-urban-weave/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/urban-weave-archiworkshop-siaplan-multi-sports-complex-gwangnaru-seoul-designboom-1200-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "From Waste to Wall: Sugarcane Bagasse as Low-Carbon Building Material",
+        "summary": "From acoustic and thermal cladding systems to masonry units and textiles made from agricultural waste, experimentation with bio-based materials continues to drive sustainable solutions for the construction industry. Faced with the urgent need to rethink how we conceive of and interact with the materials that shape the ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 17 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042342/from-waste-to-wall-sugarcane-bagasse-as-low-carbon-building-material",
+        "image_url": "https://images.adsttc.com/media/images/6a29/d4cd/aa48/ad01/89b7/becd/large_jpg/towards-a-circular-low-carbon-design-a-collaboration-working-on-the-ecology-of-sugarcane-bagasse_5.jpg?1781126385",
         "impact": 4
       }
     ],
@@ -411,6 +411,17 @@
         "published_at": "Tue, 16 Jun 2026 14:47:08 +0000",
         "source_url": "https://www.newcivilengineer.com/latest/industry-leaders-recognised-in-kings-birthday-honours-16-06-2026/",
         "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/06/Buckingham-Palace-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Amazon plans $10B Missouri data center campus",
+        "summary": "In addition to the construction of the facility, the tech giant will improve nearby roads and water infrastructure in the state.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 17 Jun 2026 16:48:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/amazon-plans-missouri-data-center-campus/823215/",
+        "image_url": "https://imgproxy.divecdn.com/6441MLvnLZyQO9iUakZ2H21NS_tQYCEzGBS219lT158/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEwMTc5NjMxLmpwZw==.webp",
         "impact": 4
       },
       {
@@ -445,72 +456,61 @@
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/06/16/procore_enr_ph_article1_image_3.webp?crop=true&height=257&t=1781640837&width=420",
         "impact": 4
-      },
-      {
-        "title": "Ferrovial US CEO: Infrastructure demand outpacing public budgets",
-        "summary": "Alignment between builder and owner is where alternative delivery creates lasting value, Pepe Baraja said.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 16 Jun 2026 11:44:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/ferrovial-ceo-infrastructure-demand-outpacing-public-budgets/823020/",
-        "image_url": "https://imgproxy.divecdn.com/qvyzik-4WPcC0pZW1wIzFA3CSu0OvnWrjROnqgZvrVU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZS1vZi1zaC05OS10ZXhhcy1iLTEtc2VnbWVudC5qcGc=.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
-        "summary": "arXiv:2606.14935v1 Announce Type: new Abstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through extended internal reasoning scales poorly. Symbolic delegation offers a complementary route: a language model translates the problem, while a solv",
+        "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+        "summary": "arXiv:2606.17220v1 Announce Type: new Abstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that BM25 continues to se",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 16 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.14935",
+        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.17220",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Towards Verifiable Agentic Data Science: Solving Irregular TSQA Via Tool-Grounded Reasoning",
-        "summary": "arXiv:2606.15107v1 Announce Type: new Abstract: Time series data in real-world deployments is overwhelmingly irregular. Observations are asynchronous, missing values are informative rather than random, and sampling frequencies vary across sensors and operational windows. However, existing Time Series Question Answering",
+        "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
+        "summary": "arXiv:2606.17459v1 Announce Type: new Abstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings. These evaluations o",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 16 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.15107",
+        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.17459",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning",
-        "summary": "arXiv:2606.15231v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have demonstrated impressive capabilities in many visual tasks, but they often struggle with factual grounding when confronted with complex, open-world scenarios. While recent multimodal deep search agents attempt to address this i",
+        "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
+        "summary": "arXiv:2606.17546v1 Announce Type: new Abstract: Self-evolving LLM-based agents improve mainly by changing their agent harness: the structured execution layer around a base model, including prompts, memory, tools, middleware, runtime state, and the model-tool interaction loop. Existing evaluations often reduce this proc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 16 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.15231",
+        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.17546",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Towards End-to-End Automation of AI Research",
-        "summary": "arXiv:2606.15497v1 Announce Type: new Abstract: The automation of science is a long-standing ambition in the field of AI. While the community has made significant progress in automating individual components of the scientific process, a system that autonomously navigates the entire research lifecycle -- from conception",
+        "title": "Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns",
+        "summary": "arXiv:2606.17645v1 Announce Type: new Abstract: Large language model (LLM) web agents are usually deployed as tool callers: each turn, the model reads a fresh page observation and emits one structured tool action. When every action is a low-level primitive, horizons grow quickly and so do policy-facing LLM completions,",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 16 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.15497",
+        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.17645",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "ToolMenuBench: Benchmarking Tool-Menu Filtering Strategies for Reliable and Efficient LLM Agents",
-        "summary": "arXiv:2606.15508v1 Announce Type: new Abstract: Tool-augmented large language model agents increasingly operate over large tool libraries, but existing evaluations often focus on whether a model can call a tool correctly rather than how the visible tool menu shapes reliability, efficiency, and safety-relevant risk expo",
+        "title": "EComAgentBench: Benchmarking Shopping Agents on Long-Horizon Tasks with Distributed Hidden Intent",
+        "summary": "arXiv:2606.17698v1 Announce Type: new Abstract: As LLM-based shopping agents enter production, existing benchmarks fail to capture how a shopper's requirements arrive: stated implicitly in the query, recorded in a profile, or revealed only when the right question is asked. Benchmarks that expose full intent upfront and",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 16 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.15508",
+        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.17698",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
