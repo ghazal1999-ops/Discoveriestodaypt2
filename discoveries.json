@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-18",
-  "last_updated": "2026-06-18 00:15 UTC",
+  "date": "2026-06-19",
+  "last_updated": "2026-06-19 00:24 UTC",
   "categories": {
     "science": [
       {
@@ -37,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
+        "summary": "A new study suggests Southern California's major fault system is more stressed than at any point in the last 1,000 years. Researchers found that the Cajon Pass, where the San Andreas and San Jacinto faults meet, could act as an “earthquake gate” that determines whether a future rupture spreads across both faults. Curre",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 18 Jun 2026 12:19:47 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260617032155.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/coulomb-stress-accumulation-of-southern-san-andreas-fault-system-2025.webp",
+        "impact": 5
+      },
+      {
         "title": "Scientists discover parrots may actually use names",
         "summary": "Parrots may be doing more than just repeating words—they may actually use names. By analyzing hundreds of recordings from pet parrots, researchers found evidence that many birds use specific names to identify particular people, animals, and even individual companions. Some parrots appeared to refer to someone who wasn’",
         "category": "Science",
@@ -46,20 +57,20 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/two-parrots-talking-kissing.webp",
         "impact": 4
-      },
-      {
-        "title": "Hidden mitochondrial genes emerge as mealybugs encode two genes on one DNA stretch",
-        "summary": "What if a single sentence could carry two completely different meanings, one when read forward and another when read backward? In a new study, researchers at Arizona State University have discovered a biological version of this idea. Working with the mitochondria of a tiny insect called the citrus mealybug, the team fo",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 17 Jun 2026 19:20:05 EDT",
-        "source_url": "https://phys.org/news/2026-06-hidden-mitochondrial-genes-emerge-mealybugs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/8-dna.jpg",
-        "impact": 4
       }
     ],
     "tech": [
+      {
+        "title": "This robotic self-driving toilet comes to you",
+        "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve accessibility for those de",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-06-18T14:08:17-04:00",
+        "source_url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/toilet1.jpg?quality=90&strip=all&crop=0%2C10.721390843029%2C100%2C78.557218313941&w=1200",
+        "impact": 4
+      },
       {
         "title": "The Download: a reality check for geoengineering and the science of interoception",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to cou",
@@ -79,86 +90,42 @@
         "journal": "arstechnica.com",
         "published_at": "Wed, 17 Jun 2026 19:25:19 +0000",
         "source_url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-1152x648.png",
+        "image_url": "https://picsum.photos/seed/techfallback/1200/800",
         "impact": 3
       },
       {
-        "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
-        "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 16 Jun 2026 22:11:15 +0000",
-        "source_url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-        "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+        "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 17 Jun 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
+        "published_at": "Thu, 18 Jun 2026 18:22:13 +0000",
+        "source_url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
-        "summary": "We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon&#8217;s own devices. Several Echo speakers have dropped to new low prices, including the Echo Dot Max, which is on sale for $64.99 ($35 off) at Amazon. Our smart home reviewer Jennifer Pattison",
+        "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+        "summary": "The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-06-17T12:47:43-04:00",
-        "source_url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 18 Jun 2026 11:59:11 +0000",
+        "source_url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259268884.jpg?resize=1200,800",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Gene therapy shows promise for life-threatening inherited heart disease",
-        "summary": "A new gene therapy appears to be safe in patients diagnosed with Friedreich ataxia cardiomyopathy, a progressive and fatal inherited cardiac disease, according to a phase 1 clinical trial led by Weill Cornell Medicine researchers. The treatment may also reduce heart damage, although further investigation is needed.",
+        "title": "New anticancer vaccine shows early success in targeting neuroblastoma",
+        "summary": "A new study from RCSI University of Medicine and Health Sciences demonstrates a novel approach in anticancer vaccine development. The results, published in Molecular Therapy Oncology, present the first preclinical evidence showing the efficacy of an mRNA vaccine in targeting neuroblastoma, the deadliest childhood cance",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 17 Jun 2026 15:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-gene-therapy-life-threatening-inherited.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/heart-1.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Kneecap resurfacing during replacement saves costs for patients and health care systems, study shows",
-        "summary": "The largest and longest clinical trial of its kind has found that resurfacing the kneecap during total knee replacement is likely to be the most cost-effective approach for patients and health care systems over the long term. Researchers from the University of Oxford and the University of Aberdeen followed more than 1,",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 17 Jun 2026 18:30:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-kneecap-resurfacing-patients-health.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/kneexray.jpg",
-        "impact": 4
-      },
-      {
-        "title": "FAP-targeted radiopharmaceutical therapy shows broad effectiveness across multiple cancers",
-        "summary": "A novel radiopharmaceutical therapy approach that targets fibroblast activation protein (FAP)—which is highly expressed in many types of cancer—is safe and effective for patients, according to a new study published in the June issue of the Journal of Nuclear Medicine. In a study of nearly 90 patients with 21 different ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 17 Jun 2026 18:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-fap-radiopharmaceutical-therapy-broad-effectiveness.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fap-targeted-radiophar.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Multilingual benchmark evaluates how well AI interprets clinical text and health records in nine languages",
-        "summary": "Researchers at Mass General Brigham recently developed BRIDGE, a multilingual benchmark that evaluates how well large language models (LLMs) understand clinical patient care text, including language used in electronic health records (EHRs), across nine languages. The benchmarking tool could help clinicians evaluate and",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 17 Jun 2026 17:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-multilingual-benchmark-ai-clinical-text.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/multilingual-benchmark.jpg",
+        "published_at": "Thu, 18 Jun 2026 19:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-anticancer-vaccine-early-success-neuroblastoma.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-in-anti.jpg",
         "impact": 4
       },
       {
@@ -170,6 +137,39 @@
         "published_at": "Tue, 16 Jun 2026 09:10:09 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260615033838.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/hand-holding-glp-1-semaglutide-ozempic-pen-close-up.webp",
+        "impact": 4
+      },
+      {
+        "title": "Can fasting fight gum disease? Scientists find surprising link",
+        "summary": "A low-calorie fasting-style diet significantly reduced inflammation linked to gum disease in a small clinical study. The findings suggest that what people eat may influence gum health almost as much as what they do with a toothbrush.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 12 Jun 2026 09:05:28 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032032.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/woman-showing-inflamed-gum-disease.webp",
+        "impact": 4
+      },
+      {
+        "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
+        "summary": "A new treatment that blocks an aging-related protein restored lost cartilage in old mice and helped prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for a future drug that could repair joints instead of replacing them.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 12 Jun 2026 08:35:15 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp",
+        "impact": 4
+      },
+      {
+        "title": "Respiratory symptoms in people with COPD worsen when walking in areas with high levels of black carbon",
+        "summary": "Physical activity, particularly walking, is a common recommendation for people with chronic obstructive pulmonary disease (COPD). However, carrying out this activity in polluted areas may increase exposure to airborne contaminants. A study published in the journal Thorax and conducted by the Barcelona Institute for Glo",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 18 Jun 2026 17:40:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-respiratory-symptoms-people-copd-worsen.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/walking-in-city.jpg",
         "impact": 4
       }
     ],
@@ -232,14 +232,14 @@
     ],
     "space": [
       {
-        "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
-        "summary": "NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise op",
+        "title": "These Mars valleys are hiding 30 dust devils | Space photo of the day for June 18, 2026",
+        "summary": "Europe's Mars Express orbiter recently imaged a huge valley system on the Red Planet — and dust devils dot the alien landscape.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 17 Jun 2026 22:29:09 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc00375-002.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 18 Jun 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/earth/these-mars-valleys-are-hiding-30-dust-devils-space-photo-of-the-day-for-june-18-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/mM7MA3Nuz4PD3LhFvbGLUc-1280-80.jpg",
         "impact": 4
       },
       {
@@ -265,7 +265,7 @@
         "impact": 4
       },
       {
-        "title": "European rocket launches record-breaking mission with Amazon internet satellites",
+        "title": "European rocket launches record-breaking mission with Amazon internet satellites (video)",
         "summary": "An Ariane 6 heavy-lift rocket launched a record-breaking load to orbit early Wednesday morning (June 17), carrying a batch of Amazon Leo satellites to orbit.",
         "category": "Space",
         "source": "space.com",
@@ -288,6 +288,17 @@
       }
     ],
     "astronomy": [
+      {
+        "title": "“Shadow Blaster” Galaxy Might Have Sent High-Energy Neutrino to Earth",
+        "summary": "A star-forming galaxy in the early universe might have sent a ghostly particle known as a neutrino crashing into the ice at Earth’s South Pole, after an 11 billion-year journey through space. The post “Shadow Blaster” Galaxy Might Have Sent High-Energy Neutrino to Earth appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Thu, 18 Jun 2026 12:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/shadow-blaster-galaxy-might-have-sent-high-energy-neutrino-to-earth/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/noirlab2615c.jpg",
+        "impact": 4
+      },
       {
         "title": "James Webb Space Telescope discovers extreme exoplanet being roasted by its home star",
         "summary": "Who ordered the roasted exoplanet? Astronomers using the James Webb Space Telescope found a world that really puts the \"hot\" in \"Hot Jupiter.\"",
@@ -322,38 +333,38 @@
         "impact": 4
       },
       {
-        "title": "'High-Res' is the Secret to Finding Alien Life with the Next Great Space Telescope",
-        "summary": "We’re still in the definition phase of the Habitable Worlds Observatory (HWO), but it seems like every week a new research group comes out with a paper helping to contribute to what is shaping up to be one of the most important space telescopes of the 2040s. A new paper from a team of researchers led by Daniel Jaffe of",
+        "title": "Plutonium in Earth Rocks Signals Long-ago Cosmic Collision",
+        "summary": "A small lump of rock pulled up from the Pacific Ocean seafloor in 1976 is giving scientists new clues about an ancient cosmic event. More than a hundred million years ago, two neutron stars collided. The resulting energetic kilonova sent a rain of long-lived elements, such as isotopes of plutonium, through space. Event",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 17 Jun 2026 13:30:54 +0000",
-        "source_url": "https://www.universetoday.com/articles/high-res-is-the-secret-to-finding-alien-life-with-the-next-great-space-telescope",
-        "image_url": "https://www.universetoday.com/article_images/NesvoldDiskMergeOrtho.brightness_orbit.0000_print_20260616_170948.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Lava planet has hydrogen-rich, active atmosphere",
-        "summary": "It’s 2158, and you’re chugging away on your PhD in Planetary Volcanology from the University of Utopia Planitia on Mars. Graduate students still get paid a sub-living wage, so you’ve been stuck eating freeze-dried ramen for the past three years. You’ve completed studying Jupiter’s moon, Io, but now you have to leave th",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 17 Jun 2026 02:11:31 +0000",
-        "source_url": "https://www.universetoday.com/articles/lava-planet-has-hydrogen-rich-active-atmosphere",
-        "image_url": "https://www.universetoday.com/article_images/ezgif-4c375348d6b7b3c9_750_20260617_021118.jpg",
+        "published_at": "Thu, 18 Jun 2026 20:51:50 +0000",
+        "source_url": "https://www.universetoday.com/articles/plutonium-in-earth-rocks-signals-long-ago-cosmic-collision",
+        "image_url": "https://www.universetoday.com/article_images/neutronstarmerger_BNS_20260618_203132.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Bahār Residential Building / DIM Architecture Studio",
-        "summary": "Bahār is a mid-rise infill project built on a 550-sqm site within one of Mashhad's dense urban fabrics. The project challenges the generic organization of contemporary apartment living by reintroducing the spatial hierarchy and openness found in historical Iranian residences—particularly the role of the courtyard and t",
+        "title": "Concéntrico 2026 Opens in Logroño with Six Days of Installations, Workshops, and Urban Experimentation",
+        "summary": "Concéntrico, the large-scale laboratory for architecture, design, and urban experimentation, has officially inaugurated its six-day calendar of activities. The festival is transforming the Spanish city of Logroño from June 18 to 23, 2026, with a series of collective, festive, and performative practices in public space.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 16 Jun 2026 19:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042423/bahar-residential-building-dim-architecture-studio",
-        "image_url": "https://images.adsttc.com/media/images/6a2e/8492/712c/db00/01fb/e2e5/large_jpg/IMG_1203-HDR_-1.jpg?1781433581",
+        "published_at": "Thu, 18 Jun 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042539/concentrico-2026-opens-in-logrono-with-six-days-of-installations-workshops-and-urban-experimentation",
+        "image_url": "https://images.adsttc.com/media/images/6a33/40a8/6c38/4801/88c1/80c5/large_jpg/concentrico-2026-opens-in-logrono-with-six-days-of-installations-workshops-and-urban-experimentation_10.jpg?1781743828",
+        "impact": 4
+      },
+      {
+        "title": "China Resources Wuhan Optics Valley Runjing Park Commercial Renewal / Dachuan Design + WTD Weitu Design",
+        "summary": "The 2025 Wuhan Heye Mountain Bridge-Under Space Renewal project seeks to address three interconnected urban renewal challenges within the context of high-density development through a \"clustered embedding\" approach: ① Multi-stakeholder integration—blurring boundaries among community development, municipal infrastructur",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 18 Jun 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042413/china-resources-wuhan-optics-valley-runjing-park-commercial-renewal-dachuan-design-plus-wtd-weitu-design",
+        "image_url": "https://images.adsttc.com/media/images/6a2c/7271/6341/4201/8a2c/3be6/large_jpg/china-resources-wuhan-optics-valley-runjing-park-commercial-renewal-dachuan-design-plus-wtd-weitu-design_22.jpg?1781297820",
         "impact": 4
       },
       {
@@ -364,17 +375,6 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 16 Jun 2026 08:00:19 +0000",
         "source_url": "https://www.dezeen.com/2026/06/16/nbbj-vivo-headquarters-shenzhen/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Wadhal subverts suburban architecture for home in west London",
-        "summary": "Architecture studio Wadhal has completed Wade House in London, using textured brickwork, pared-back fenestration and concealed guttering to put a subtly contemporary spin on typical suburban architecture. Replacing a pair of dilapidated garages in Ruislip, strict planning regulations required the new detached home to m",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 08 Jun 2026 10:30:23 +0000",
-        "source_url": "https://www.dezeen.com/2026/06/08/wadhal-wade-house-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
@@ -390,27 +390,27 @@
         "impact": 4
       },
       {
-        "title": "From Waste to Wall: Sugarcane Bagasse as Low-Carbon Building Material",
-        "summary": "From acoustic and thermal cladding systems to masonry units and textiles made from agricultural waste, experimentation with bio-based materials continues to drive sustainable solutions for the construction industry. Faced with the urgent need to rethink how we conceive of and interact with the materials that shape the ",
+        "title": "Dialogue with the Code: Calibrating Standards for Adaptive Reuse to Thrive",
+        "summary": "There is growing awareness around sustainability—and the environmental cost of prematurely demolishing safe, structurally sound buildings only to replace them with new construction. In the broader race to reduce carbon emissions, corporations and institutions are placing greater emphasis on ESG performance (environment",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 17 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042342/from-waste-to-wall-sugarcane-bagasse-as-low-carbon-building-material",
-        "image_url": "https://images.adsttc.com/media/images/6a29/d4cd/aa48/ad01/89b7/becd/large_jpg/towards-a-circular-low-carbon-design-a-collaboration-working-on-the-ecology-of-sugarcane-bagasse_5.jpg?1781126385",
+        "published_at": "Thu, 18 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1035639/dialogue-with-the-code-calibrating-standards-for-adaptive-reuse-to-thrive",
+        "image_url": "https://images.adsttc.com/media/images/6906/314e/1072/7b01/8ab6/8317/large_jpg/dialogue-with-the-code-calibrating-standards-for-adaptive-reuse-to-thrive_1.jpg?1762013523",
         "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Industry leaders recognised in King’s Birthday Honours",
-        "summary": "Figures from across the civil engineering, infrastructure, construction, water, energy and transport sectors have been recognised in the King’s Birthday Honours. The post Industry leaders recognised in King’s Birthday Honours appeared first on New Civil Engineer.",
+        "title": "Virginia approves 6-year, $28.5B infrastructure plan",
+        "summary": "The massive plan will fund more than 4,300 construction and infrastructure jobs across the state.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 16 Jun 2026 14:47:08 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/industry-leaders-recognised-in-kings-birthday-honours-16-06-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/06/Buckingham-Palace-560x315.jpg",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 18 Jun 2026 13:51:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/virginia-approves-6-year-infrastructure-plan/823308/",
+        "image_url": "https://imgproxy.divecdn.com/WbWJgENjvKYkUUuF2CzShyTmA_MHBqcjb7OQGxhI2Hk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnRlcnN0YXRlLTgxLWNvbnN0cnVjdGlvbi5qcGVn.webp",
         "impact": 4
       },
       {
@@ -422,17 +422,6 @@
         "published_at": "Wed, 17 Jun 2026 16:48:00 -0400",
         "source_url": "https://www.constructiondive.com/news/amazon-plans-missouri-data-center-campus/823215/",
         "image_url": "https://imgproxy.divecdn.com/6441MLvnLZyQO9iUakZ2H21NS_tQYCEzGBS219lT158/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEwMTc5NjMxLmpwZw==.webp",
-        "impact": 4
-      },
-      {
-        "title": "Latest construction data indicated activity outside data center boom",
-        "summary": "While other sectors showed signs of life in April, much of the momentum still flowed through data center and public infrastructure projects.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 16 Jun 2026 09:17:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/latest-construction-data-showed-activity-outside-data-center-boom/822549/",
-        "image_url": "https://imgproxy.divecdn.com/98MBABuCKEzo4Vm-nXxdT72QoNVyMBePQDKHk59VtzQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc5NTQyNzM0LmpwZw==.webp",
         "impact": 4
       },
       {
@@ -456,6 +445,17 @@
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/06/16/procore_enr_ph_article1_image_3.webp?crop=true&height=257&t=1781640837&width=420",
         "impact": 4
+      },
+      {
+        "title": "Walsh-Turner JV gets green light on $580M utility plant project",
+        "summary": "The two construction firms add the University of Kentucky in Lexington project to the collaboration&rsquo;s growing list of higher-ed jobs.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 18 Jun 2026 12:57:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/walsh-turner-jv-university-kentucky-utility-plant-project/823303/",
+        "image_url": "https://imgproxy.divecdn.com/9-QEOIhsYQ1bs22j3gLODRePqfPZ6juFegSfB-SLFng/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNjExMjYtVUstQ1VQLXByLmpwZw==.webp",
+        "impact": 3
       }
     ],
     "ai": [
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.17220",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.17459",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.17546",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.17645",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.17698",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
