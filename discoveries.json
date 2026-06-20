@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-19",
-  "last_updated": "2026-06-19 00:24 UTC",
+  "date": "2026-06-20",
+  "last_updated": "2026-06-20 00:06 UTC",
   "categories": {
     "science": [
       {
@@ -26,17 +26,6 @@
         "impact": 5
       },
       {
-        "title": "This AI Learned the Laws of Physics and Could Accelerate Quantum Computing Breakthroughs",
-        "summary": "Researchers in Sweden have developed a machine-learning approach that embeds the laws of physics directly into neural networks. A new study from Chalmers University of Technology in Sweden shows that machine learning can become far more efficient when it starts with a built-in understanding of the laws of physics. Rese",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Wed, 17 Jun 2026 12:03:03 +0000",
-        "source_url": "https://scitechdaily.com/this-ai-learned-the-laws-of-physics-and-could-accelerate-quantum-computing-breakthroughs/",
-        "image_url": "https://scitechdaily.com/images/Physics-Inspired-AI-Super-Brain-777x785.jpg",
-        "impact": 5
-      },
-      {
         "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
         "summary": "A new study suggests Southern California's major fault system is more stressed than at any point in the last 1,000 years. Researchers found that the Cajon Pass, where the San Andreas and San Jacinto faults meet, could act as an “earthquake gate” that determines whether a future rupture spreads across both faults. Curre",
         "category": "Science",
@@ -48,29 +37,29 @@
         "impact": 5
       },
       {
-        "title": "Scientists discover parrots may actually use names",
-        "summary": "Parrots may be doing more than just repeating words—they may actually use names. By analyzing hundreds of recordings from pet parrots, researchers found evidence that many birds use specific names to identify particular people, animals, and even individual companions. Some parrots appeared to refer to someone who wasn’",
+        "title": "Near Absolute Zero, This Transistor Starts Acting Like a Brain Cell",
+        "summary": "A single transistor that behaves like a brain cell in the deep freeze could help unlock the next generation of quantum computers and space exploration systems. Researchers at the University of Hong Kong (HKU) have developed a new type of brain-inspired electronic hardware that can operate at temperatures close to absol",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 14 Jun 2026 01:26:16 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/two-parrots-talking-kissing.webp",
-        "impact": 4
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 19 Jun 2026 15:36:36 +0000",
+        "source_url": "https://scitechdaily.com/near-absolute-zero-this-transistor-starts-acting-like-a-brain-cell/",
+        "image_url": "https://scitechdaily.com/images/Brain-AI-Chip-Artificial-Intelligence-Technology-Data-Stream-777x518.jpg",
+        "impact": 5
+      },
+      {
+        "title": "A Surprising Discovery Challenges What Scientists Thought DNA Methylation Was For",
+        "summary": "DNA carries the instructions for life, but additional molecular systems help determine how those instructions are used. New research in a sea anemone reveals an unexpected role for one of these systems. DNA is often described as the blueprint of life, but a blueprint is only useful if someone knows how to read it. Acro",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 19 Jun 2026 11:54:21 +0000",
+        "source_url": "https://scitechdaily.com/a-surprising-discovery-challenges-what-scientists-thought-dna-methylation-was-for/",
+        "image_url": "https://scitechdaily.com/images/DNA-Genetics-Breakthrough-Concept-777x544.jpg",
+        "impact": 5
       }
     ],
     "tech": [
-      {
-        "title": "This robotic self-driving toilet comes to you",
-        "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve accessibility for those de",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-06-18T14:08:17-04:00",
-        "source_url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/toilet1.jpg?quality=90&strip=all&crop=0%2C10.721390843029%2C100%2C78.557218313941&w=1200",
-        "impact": 4
-      },
       {
         "title": "The Download: a reality check for geoengineering and the science of interoception",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to cou",
@@ -83,40 +72,62 @@
         "impact": 4
       },
       {
-        "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-        "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 17 Jun 2026 19:25:19 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-        "image_url": "https://picsum.photos/seed/techfallback/1200/800",
-        "impact": 3
-      },
-      {
-        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-        "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+        "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 18 Jun 2026 18:22:13 +0000",
-        "source_url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?resize=1200,675",
+        "published_at": "Fri, 19 Jun 2026 22:40:14 +0000",
+        "source_url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
-        "summary": "The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.",
+        "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+        "summary": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, which went public Tuesda",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 18 Jun 2026 11:59:11 +0000",
-        "source_url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259268884.jpg?resize=1200,800",
+        "published_at": "Fri, 19 Jun 2026 21:45:00 +0000",
+        "source_url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?resize=1200,785",
+        "impact": 3
+      },
+      {
+        "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+        "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 19 Jun 2026 07:59:12 +0000",
+        "source_url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+        "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 19 Jun 2026 00:51:11 +0000",
+        "source_url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "One gene deletion tears off colon cancer's invisibility cloak, boosting immunotherapy",
+        "summary": "A study from the University of Calgary shows that removing a single gene makes colon cancer cells a target for immunotherapy—a fundamental breakthrough. The research, published in Cell Reports Medicine, was led by Dr. Arshad Ayyaz, Ph.D., an assistant professor in the Department of Biological Sciences and a member of t",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 19 Jun 2026 12:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-gene-deletion-colon-cancer-invisibility.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-gene-deletion-tear.jpg",
+        "impact": 4
+      },
       {
         "title": "New anticancer vaccine shows early success in targeting neuroblastoma",
         "summary": "A new study from RCSI University of Medicine and Health Sciences demonstrates a novel approach in anticancer vaccine development. The results, published in Molecular Therapy Oncology, present the first preclinical evidence showing the efficacy of an mRNA vaccine in targeting neuroblastoma, the deadliest childhood cance",
@@ -159,17 +170,6 @@
         "published_at": "Fri, 12 Jun 2026 08:35:15 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp",
-        "impact": 4
-      },
-      {
-        "title": "Respiratory symptoms in people with COPD worsen when walking in areas with high levels of black carbon",
-        "summary": "Physical activity, particularly walking, is a common recommendation for people with chronic obstructive pulmonary disease (COPD). However, carrying out this activity in polluted areas may increase exposure to airborne contaminants. A study published in the journal Thorax and conducted by the Barcelona Institute for Glo",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 18 Jun 2026 17:40:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-respiratory-symptoms-people-copd-worsen.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/walking-in-city.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "A private company will build and launch NASA's next Mars orbiter in 2028 — and it's not SpaceX",
+        "summary": "A California-based company will design, build and launch a spacecraft for NASA's Aeolus mission to orbit around Mars, where the probe will be the first to provide daily measurements of the planet's global environment.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 19 Jun 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/tGv7Lot9LU6cXC7HKFJ2QF-1280-80.jpg",
+        "impact": 5
+      },
+      {
         "title": "These Mars valleys are hiding 30 dust devils | Space photo of the day for June 18, 2026",
         "summary": "Europe's Mars Express orbiter recently imaged a huge valley system on the Red Planet — and dust devils dot the alien landscape.",
         "category": "Space",
@@ -273,17 +284,6 @@
         "published_at": "Tue, 16 Jun 2026 20:01:58 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
         "image_url": "https://cdn.mos.cms.futurecdn.net/gq2GusKg86g6j2Bdiw3ZLC-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video)",
-        "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Monday, June 15, 2026.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 15 Jun 2026 19:27:41 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/g4jMSi22tFwzRxaGGGr3XS-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -333,38 +333,60 @@
         "impact": 4
       },
       {
-        "title": "Plutonium in Earth Rocks Signals Long-ago Cosmic Collision",
-        "summary": "A small lump of rock pulled up from the Pacific Ocean seafloor in 1976 is giving scientists new clues about an ancient cosmic event. More than a hundred million years ago, two neutron stars collided. The resulting energetic kilonova sent a rain of long-lived elements, such as isotopes of plutonium, through space. Event",
+        "title": "Astronomers Want to Build a Swarm of Telescopes to Find LIFE",
+        "summary": "Current plans for flagship telescopes in the 2040s are focused on answering a simple question - are we alone? Our best telescopes to date, such as the James Webb Space Telescope (JWST) have only given us tantalizing glimpses into the atmospheres or other worlds, but not enough to truly determine whether or not life as ",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 18 Jun 2026 20:51:50 +0000",
-        "source_url": "https://www.universetoday.com/articles/plutonium-in-earth-rocks-signals-long-ago-cosmic-collision",
-        "image_url": "https://www.universetoday.com/article_images/neutronstarmerger_BNS_20260618_203132.jpg",
+        "published_at": "Fri, 19 Jun 2026 14:46:13 +0000",
+        "source_url": "https://www.universetoday.com/articles/astronomers-want-to-build-a-swarm-of-telescopes-to-find-life",
+        "image_url": "https://www.universetoday.com/article_images/eso1736a_20260617_143033.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Concéntrico 2026 Opens in Logroño with Six Days of Installations, Workshops, and Urban Experimentation",
-        "summary": "Concéntrico, the large-scale laboratory for architecture, design, and urban experimentation, has officially inaugurated its six-day calendar of activities. The festival is transforming the Spanish city of Logroño from June 18 to 23, 2026, with a series of collective, festive, and performative practices in public space.",
+        "title": "BIG designs \"new kind of urban university\" for Bentonville",
+        "summary": "Architecture studio BIG has designed a series of buildings for a university being established by the members of the Walton family in Bentonville, Arkansas, USA with three structures that expand on the local vernacular. Members of the Walton family, who are bets known as founders of retail giant Walmart, announced that ",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 19 Jun 2026 17:00:05 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/19/big-stem-university-bentonville-arkansas-renderings/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 5
+      },
+      {
+        "title": "City-Making Through Participation: Lessons from Utopian Hours 2026",
+        "summary": "Who has the right to the city? Henri Lefebvre's writings question the structures that control urban space and, instead, put the citizens at the center of decision-making. His ideas have influenced the way architecture and urban design are practiced, bringing about community participation and co-design. These have been ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 18 Jun 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042539/concentrico-2026-opens-in-logrono-with-six-days-of-installations-workshops-and-urban-experimentation",
-        "image_url": "https://images.adsttc.com/media/images/6a33/40a8/6c38/4801/88c1/80c5/large_jpg/concentrico-2026-opens-in-logrono-with-six-days-of-installations-workshops-and-urban-experimentation_10.jpg?1781743828",
+        "published_at": "Fri, 19 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042568/city-making-through-participation-lessons-from-utopian-hours-2026",
+        "image_url": "https://images.adsttc.com/media/images/6a34/2dfe/8576/0e01/8921/affe/large_jpg/utopian-hours-city-making-through-participation_13.jpg?1781804561",
         "impact": 4
       },
       {
-        "title": "China Resources Wuhan Optics Valley Runjing Park Commercial Renewal / Dachuan Design + WTD Weitu Design",
-        "summary": "The 2025 Wuhan Heye Mountain Bridge-Under Space Renewal project seeks to address three interconnected urban renewal challenges within the context of high-density development through a \"clustered embedding\" approach: ① Multi-stakeholder integration—blurring boundaries among community development, municipal infrastructur",
+        "title": "Schmidt Hammer Lassen Completes ARoS Expansion with James Turrell's As Seen Below – The Dome",
+        "summary": "Denmark's ARoS Aarhus Art Museum has unveiled As Seen Below – The Dome, a new Skyspace by American artist James Turrell that completes The Next Level, the museum's approximately 4,000-square-metre underground expansion designed by Schmidt Hammer Lassen. Opened to the public on 19 June 2026, the project marks the culmin",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 18 Jun 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042413/china-resources-wuhan-optics-valley-runjing-park-commercial-renewal-dachuan-design-plus-wtd-weitu-design",
-        "image_url": "https://images.adsttc.com/media/images/6a2c/7271/6341/4201/8a2c/3be6/large_jpg/china-resources-wuhan-optics-valley-runjing-park-commercial-renewal-dachuan-design-plus-wtd-weitu-design_22.jpg?1781297820",
+        "published_at": "Fri, 19 Jun 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042584/schmidt-hammer-lassen-completes-aros-expansion-with-james-turrells-as-seen-below-the-dome",
+        "image_url": "https://images.adsttc.com/media/images/6a34/fc75/6c38/4801/88c1/8661/large_jpg/schmidt-hammer-lassen-completes-aros-expansion-with-james-turrells-as-seen-below-the-dome_18.jpg?1781857441",
+        "impact": 4
+      },
+      {
+        "title": "Yunxi Valley · Zhouluo / Shuimuyan Space Design",
+        "summary": "Nestled in the wilderness beside Zhouluo Grand Canyon in Liuyang, Yunxi Valley is embraced by mountains, valleys and woods with a mild and inclusive vibe. In modern life, people drift away from nature and lose the perception of authentic life. We hold reverence for nature instead of reshaping the land. The buildings gr",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 19 Jun 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042500/yunxi-valley-star-zhouluo-shuimuyan-space-design",
+        "image_url": "https://images.adsttc.com/media/images/6a32/081d/6c38/481d/a6fa/6343/large_jpg/yunxi-valley-star-zhouluo-shuimuyan-space-design_3.jpg?1781663794",
         "impact": 4
       },
       {
@@ -376,28 +398,6 @@
         "published_at": "Tue, 16 Jun 2026 08:00:19 +0000",
         "source_url": "https://www.dezeen.com/2026/06/16/nbbj-vivo-headquarters-shenzhen/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "archiworkshop reimagines a seoul sports complex as a continuous public roof terrace",
-        "summary": "sports and urban activities programs are distributed across multiple interconnected levels. The post archiworkshop reimagines a seoul sports complex as a continuous public roof terrace appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Tue, 16 Jun 2026 19:30:29 +0000",
-        "source_url": "https://www.designboom.com/architecture/archiworkshop-seoul-sports-complex-continuous-public-roof-terrace-urban-weave/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/urban-weave-archiworkshop-siaplan-multi-sports-complex-gwangnaru-seoul-designboom-1200-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Dialogue with the Code: Calibrating Standards for Adaptive Reuse to Thrive",
-        "summary": "There is growing awareness around sustainability—and the environmental cost of prematurely demolishing safe, structurally sound buildings only to replace them with new construction. In the broader race to reduce carbon emissions, corporations and institutions are placing greater emphasis on ESG performance (environment",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 18 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1035639/dialogue-with-the-code-calibrating-standards-for-adaptive-reuse-to-thrive",
-        "image_url": "https://images.adsttc.com/media/images/6906/314e/1072/7b01/8ab6/8317/large_jpg/dialogue-with-the-code-calibrating-standards-for-adaptive-reuse-to-thrive_1.jpg?1762013523",
         "impact": 4
       }
     ],
@@ -460,57 +460,57 @@
     ],
     "ai": [
       {
-        "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-        "summary": "arXiv:2606.17220v1 Announce Type: new Abstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that BM25 continues to se",
+        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.17220",
+        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.19464",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
-        "summary": "arXiv:2606.17459v1 Announce Type: new Abstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings. These evaluations o",
+        "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+        "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.17459",
+        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.19494",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
-        "summary": "arXiv:2606.17546v1 Announce Type: new Abstract: Self-evolving LLM-based agents improve mainly by changing their agent harness: the structured execution layer around a base model, including prompts, memory, tools, middleware, runtime state, and the model-tool interaction loop. Existing evaluations often reduce this proc",
+        "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+        "summary": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measure",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.17546",
+        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.19501",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns",
-        "summary": "arXiv:2606.17645v1 Announce Type: new Abstract: Large language model (LLM) web agents are usually deployed as tool callers: each turn, the model reads a fresh page observation and emits one structured tool action. When every action is a low-level primitive, horizons grow quickly and so do policy-facing LLM completions,",
+        "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+        "summary": "arXiv:2606.19559v1 Announce Type: new Abstract: Recent position papers argue that the classical aleatoric/epistemic uncertainty framework is insufficient for interactive large language model (LLM) agents and call for underspecification-aware, decomposed, and communicable uncertainty representations that can unlock new ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.17645",
+        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.19559",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "EComAgentBench: Benchmarking Shopping Agents on Long-Horizon Tasks with Distributed Hidden Intent",
-        "summary": "arXiv:2606.17698v1 Announce Type: new Abstract: As LLM-based shopping agents enter production, existing benchmarks fail to capture how a shopper's requirements arrive: stated implicitly in the query, recorded in a profile, or revealed only when the right question is asked. Benchmarks that expose full intent upfront and",
+        "title": "Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks",
+        "summary": "arXiv:2606.19741v1 Announce Type: new Abstract: Neural Combinatorial Optimization (NCO) achieves strong performance, yet its black-box nature remains a key roadblock to deployment and scientific diagnosis. Standard interpretability tools, such as Concept Bottleneck Models (CBMs), are ill-equipped for NCO, whose decisio",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.17698",
+        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.19741",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
