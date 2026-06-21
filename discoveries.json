@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-20",
-  "last_updated": "2026-06-20 00:06 UTC",
+  "date": "2026-06-21",
+  "last_updated": "2026-06-21 00:05 UTC",
   "categories": {
     "science": [
       {
@@ -15,17 +15,6 @@
         "impact": 5
       },
       {
-        "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
-        "summary": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrinos change as they travel. Using just 59 days of data, researchers sharply improved measurements of key neutrino properti",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 12 Jun 2026 07:57:50 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/juno-central-detector.webp",
-        "impact": 5
-      },
-      {
         "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
         "summary": "A new study suggests Southern California's major fault system is more stressed than at any point in the last 1,000 years. Researchers found that the Cajon Pass, where the San Andreas and San Jacinto faults meet, could act as an “earthquake gate” that determines whether a future rupture spreads across both faults. Curre",
         "category": "Science",
@@ -34,6 +23,17 @@
         "published_at": "Thu, 18 Jun 2026 12:19:47 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260617032155.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/coulomb-stress-accumulation-of-southern-san-andreas-fault-system-2025.webp",
+        "impact": 5
+      },
+      {
+        "title": "The first primates may have evolved in the cold, not the tropics",
+        "summary": "A surprising new study suggests the earliest primates didn't originate in tropical forests but in cold, dry parts of North America. Some may have even survived seasonal Arctic conditions by slowing their metabolism or hibernating. Researchers found that dramatic climate shifts, rather than warmth, played a major role i",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 20 Jun 2026 09:28:12 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260616103124.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/snow-macaques-monkeys-japan.webp",
         "impact": 5
       },
       {
@@ -61,6 +61,17 @@
     ],
     "tech": [
       {
+        "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+        "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 20 Jun 2026 00:47:44 +0000",
+        "source_url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2182705840.jpeg?resize=1200,800",
+        "impact": 4
+      },
+      {
         "title": "The Download: a reality check for geoengineering and the science of interoception",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to cou",
         "category": "Tech",
@@ -72,7 +83,29 @@
         "impact": 4
       },
       {
-        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+        "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+        "summary": "Tests of age-verification technology show the risks of life-altering errors.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Sat, 20 Jun 2026 11:15:09 +0000",
+        "source_url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Founders Fund’s outlier bet on humanely killed fish",
+        "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 20 Jun 2026 18:26:02 +0000",
+        "source_url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Delian-Saif-Connie.jpg?w=799",
+        "impact": 3
+      },
+      {
+        "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
         "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
         "category": "Tech",
         "source": "techcrunch.com",
@@ -80,39 +113,6 @@
         "published_at": "Fri, 19 Jun 2026 22:40:14 +0000",
         "source_url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-        "summary": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, which went public Tuesda",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 19 Jun 2026 21:45:00 +0000",
-        "source_url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?resize=1200,785",
-        "impact": 3
-      },
-      {
-        "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
-        "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 19 Jun 2026 07:59:12 +0000",
-        "source_url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-        "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 19 Jun 2026 00:51:11 +0000",
-        "source_url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
         "impact": 3
       }
     ],
@@ -126,17 +126,6 @@
         "published_at": "Fri, 19 Jun 2026 12:00:05 EDT",
         "source_url": "https://medicalxpress.com/news/2026-06-gene-deletion-colon-cancer-invisibility.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-gene-deletion-tear.jpg",
-        "impact": 4
-      },
-      {
-        "title": "New anticancer vaccine shows early success in targeting neuroblastoma",
-        "summary": "A new study from RCSI University of Medicine and Health Sciences demonstrates a novel approach in anticancer vaccine development. The results, published in Molecular Therapy Oncology, present the first preclinical evidence showing the efficacy of an mRNA vaccine in targeting neuroblastoma, the deadliest childhood cance",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 18 Jun 2026 19:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-anticancer-vaccine-early-success-neuroblastoma.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-approach-in-anti.jpg",
         "impact": 4
       },
       {
@@ -170,6 +159,17 @@
         "published_at": "Fri, 12 Jun 2026 08:35:15 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp",
+        "impact": 4
+      },
+      {
+        "title": "Only a third of eligible breast cancer patients receive a gene expression test",
+        "summary": "A gene expression test can help prevent unnecessary chemotherapy in breast cancer patients, yet its use in the Netherlands remains limited. This is shown by new research from the Netherlands Comprehensive Cancer Centre (IKNL), led by Sabine Siesling, principal investigator at IKNL and professor at the University of Twe",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 20 Jun 2026 17:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-eligible-breast-cancer-patients-gene.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/women-cancer-gene.jpg",
         "impact": 4
       }
     ],
@@ -346,8 +346,19 @@
     ],
     "architecture": [
       {
+        "title": "Designing for Stray Cities: Architecture Beyond the Human",
+        "summary": "Architecture continues to draw cities as though humans occupy them alone. Plans trace circulation routes, zoning maps assign functions, and buildings are evaluated according to human comfort, safety, and efficiency. Walking through cities across India and Southwest Asia reveals something much more complex. Dogs sleep b",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 20 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042316/designing-for-stray-cities-architecture-beyond-the-human",
+        "image_url": "https://images.adsttc.com/media/images/6a29/bc63/a0e0/6301/89c9/f375/large_jpg/designing-for-stray-cities-architecture-beyond-the-human_15.jpg?1781120116",
+        "impact": 5
+      },
+      {
         "title": "BIG designs \"new kind of urban university\" for Bentonville",
-        "summary": "Architecture studio BIG has designed a series of buildings for a university being established by the members of the Walton family in Bentonville, Arkansas, USA with three structures that expand on the local vernacular. Members of the Walton family, who are bets known as founders of retail giant Walmart, announced that ",
+        "summary": "Architecture studio BIG has designed a series of buildings for a university being established by the members of the Walton family in Bentonville, Arkansas, USA with three structures that expand on the local vernacular. Members of the Walton family, who are best known as founders of retail giant Walmart, announced that ",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
@@ -387,17 +398,6 @@
         "published_at": "Fri, 19 Jun 2026 00:00:00 +0000",
         "source_url": "https://www.archdaily.com/1042500/yunxi-valley-star-zhouluo-shuimuyan-space-design",
         "image_url": "https://images.adsttc.com/media/images/6a32/081d/6c38/481d/a6fa/6343/large_jpg/yunxi-valley-star-zhouluo-shuimuyan-space-design_3.jpg?1781663794",
-        "impact": 4
-      },
-      {
-        "title": "NBBJ wraps Vivo skyscraper in spiralling terrace",
-        "summary": "Architecture studio NBBJ has completed the headquarters of Chinese phone company Vivo in Shenzhen, China, which includes a terrace wrapped around the exterior of the skyscraper. Located in Qianhai Bay, a new business district in west Shenzhen, Vivo Headquarters is a 150-metre-high building for 6,000 employees. Accordin",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 16 Jun 2026 08:00:19 +0000",
-        "source_url": "https://www.dezeen.com/2026/06/16/nbbj-vivo-headquarters-shenzhen/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.19464",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.19494",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.19501",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.19559",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2606.19741",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
