@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-21",
-  "last_updated": "2026-06-21 00:05 UTC",
+  "date": "2026-06-22",
+  "last_updated": "2026-06-22 00:08 UTC",
   "categories": {
     "science": [
       {
@@ -37,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists Capture Immune Cells Eating Live Cancer Cells for the First Time",
+        "summary": "Scientists discovered and filmed macrophages actively destroying live melanoma cells, a finding that could improve immunotherapy and inspire new cancer treatments. Scientists at the Garvan Institute of Medical Research have, for the first time, recorded immune cells known as the body&#8217;s &#8220;housekeepers&#8221; ",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sun, 21 Jun 2026 14:23:02 +0000",
+        "source_url": "https://scitechdaily.com/scientists-capture-immune-cells-eating-live-cancer-cells-for-the-first-time/",
+        "image_url": "https://scitechdaily.com/images/Biological-Lymphocytes-Cancer-Cell-777x518.jpg",
+        "impact": 5
+      },
+      {
         "title": "Near Absolute Zero, This Transistor Starts Acting Like a Brain Cell",
         "summary": "A single transistor that behaves like a brain cell in the deep freeze could help unlock the next generation of quantum computers and space exploration systems. Researchers at the University of Hong Kong (HKU) have developed a new type of brain-inspired electronic hardware that can operate at temperatures close to absol",
         "category": "Science",
@@ -45,17 +56,6 @@
         "published_at": "Fri, 19 Jun 2026 15:36:36 +0000",
         "source_url": "https://scitechdaily.com/near-absolute-zero-this-transistor-starts-acting-like-a-brain-cell/",
         "image_url": "https://scitechdaily.com/images/Brain-AI-Chip-Artificial-Intelligence-Technology-Data-Stream-777x518.jpg",
-        "impact": 5
-      },
-      {
-        "title": "A Surprising Discovery Challenges What Scientists Thought DNA Methylation Was For",
-        "summary": "DNA carries the instructions for life, but additional molecular systems help determine how those instructions are used. New research in a sea anemone reveals an unexpected role for one of these systems. DNA is often described as the blueprint of life, but a blueprint is only useful if someone knows how to read it. Acro",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 19 Jun 2026 11:54:21 +0000",
-        "source_url": "https://scitechdaily.com/a-surprising-discovery-challenges-what-scientists-thought-dna-methylation-was-for/",
-        "image_url": "https://scitechdaily.com/images/DNA-Genetics-Breakthrough-Concept-777x544.jpg",
         "impact": 5
       }
     ],
@@ -94,6 +94,17 @@
         "impact": 3
       },
       {
+        "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 21 Jun 2026 16:05:00 +0000",
+        "source_url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/baidu-apollo-getty.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
         "title": "Founders Fund’s outlier bet on humanely killed fish",
         "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
         "category": "Tech",
@@ -101,33 +112,11 @@
         "journal": "techcrunch.com",
         "published_at": "Sat, 20 Jun 2026 18:26:02 +0000",
         "source_url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Delian-Saif-Connie.jpg?w=799",
-        "impact": 3
-      },
-      {
-        "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-        "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 19 Jun 2026 22:40:14 +0000",
-        "source_url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-20-at-5.40.30-PM.png?resize=1200,650",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "One gene deletion tears off colon cancer's invisibility cloak, boosting immunotherapy",
-        "summary": "A study from the University of Calgary shows that removing a single gene makes colon cancer cells a target for immunotherapy—a fundamental breakthrough. The research, published in Cell Reports Medicine, was led by Dr. Arshad Ayyaz, Ph.D., an assistant professor in the Department of Biological Sciences and a member of t",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 19 Jun 2026 12:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-gene-deletion-colon-cancer-invisibility.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-gene-deletion-tear.jpg",
-        "impact": 4
-      },
       {
         "title": "Most people who stop GLP-1 drugs like Ozempic eventually return",
         "summary": "Many people prescribed GLP-1 drugs for type 2 diabetes (such as Victoza, Ozempic, or tirzepatide) stop taking them, but a surprising number later return to treatment. Researchers found that newer medications appear to keep patients on therapy longer, while side effects remain a major reason for discontinuation.",
@@ -140,25 +129,14 @@
         "impact": 4
       },
       {
-        "title": "Can fasting fight gum disease? Scientists find surprising link",
-        "summary": "A low-calorie fasting-style diet significantly reduced inflammation linked to gum disease in a small clinical study. The findings suggest that what people eat may influence gum health almost as much as what they do with a toothbrush.",
+        "title": "As patients move through injury care, well-intentioned changes can backfire",
+        "summary": "Global health policymakers should focus on the way entire health care systems work together, argue researchers in new findings. Improving one element does not always create better outcomes if the wider system is not ready.",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 12 Jun 2026 09:05:28 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032032.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/woman-showing-inflamed-gum-disease.webp",
-        "impact": 4
-      },
-      {
-        "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
-        "summary": "A new treatment that blocks an aging-related protein restored lost cartilage in old mice and helped prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for a future drug that could repair joints instead of replacing them.",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 12 Jun 2026 08:35:15 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 21 Jun 2026 18:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-patients-injury-intentioned-backfire.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-hospital.jpg",
         "impact": 4
       },
       {
@@ -170,6 +148,28 @@
         "published_at": "Sat, 20 Jun 2026 17:00:03 EDT",
         "source_url": "https://medicalxpress.com/news/2026-06-eligible-breast-cancer-patients-gene.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/women-cancer-gene.jpg",
+        "impact": 4
+      },
+      {
+        "title": "New study attempts to reconcile conflicting findings on benefits vs. risks of alcohol consumption",
+        "summary": "Studies of alcohol's effects on health have offered contradictory findings, with some suggesting a glass of red wine a day is beneficial and others saying even a drop of booze is too much. A new review attempting to clarify the risks finds more than 60 diseases, based on the World Health Organization's International Cl",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 20 Jun 2026 15:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-conflicting-benefits-alcohol-consumption.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/drinking-alcohol-and-h.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Long-lived families reveal a rare genetic clue to healthy aging",
+        "summary": "A study of long-lived families has identified rare genetic variants that may help people stay healthier for much longer as they age. One standout mutation appears to temper inflammation, potentially delaying disease and extending years of healthy living.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 21 Jun 2026 10:57:42 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260621060301.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/four-generations-of-women.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,28 @@
         "impact": 5
       },
       {
+        "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
+        "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Iono",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 18 Jun 2026 21:33:07 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/daphne-concept-artwork-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California",
+        "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 21, 2026.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 21 Jun 2026 18:38:10 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/epwz7pZ4iUa6UjXSNmpW2B-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "These Mars valleys are hiding 30 dust devils | Space photo of the day for June 18, 2026",
         "summary": "Europe's Mars Express orbiter recently imaged a huge valley system on the Red Planet — and dust devils dot the alien landscape.",
         "category": "Space",
@@ -262,28 +284,6 @@
         "published_at": "Wed, 17 Jun 2026 10:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/mars/best-mars-mission-ever-scientists-hail-mavens-legacy-as-nasa-retires-red-planet-orbiter",
         "image_url": "https://cdn.mos.cms.futurecdn.net/x2dY7UjdjBXqtEuxdFePnK-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA discussing bold mission to boost Swift space telescope today: Listen live",
-        "summary": "NASA will discuss an ambitious mission to boost the orbit of its Swift space telescope during a press conference today (June 17), and you can listen to it live.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 17 Jun 2026 04:05:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/nqSn3Y5w4Nfuj7pfjQgaSa-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "European rocket launches record-breaking mission with Amazon internet satellites (video)",
-        "summary": "An Ariane 6 heavy-lift rocket launched a record-breaking load to orbit early Wednesday morning (June 17), carrying a batch of Amazon Leo satellites to orbit.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 16 Jun 2026 20:01:58 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/gq2GusKg86g6j2Bdiw3ZLC-1280-80.png",
         "impact": 4
       }
     ],
@@ -390,14 +390,14 @@
         "impact": 4
       },
       {
-        "title": "Yunxi Valley · Zhouluo / Shuimuyan Space Design",
-        "summary": "Nestled in the wilderness beside Zhouluo Grand Canyon in Liuyang, Yunxi Valley is embraced by mountains, valleys and woods with a mild and inclusive vibe. In modern life, people drift away from nature and lose the perception of authentic life. We hold reverence for nature instead of reshaping the land. The buildings gr",
+        "title": "Herzog & de Meuron designs own offices in Basel as a \"repository of materials\"",
+        "summary": "Architecture studio Herzog &#38; de Meuron has completed Mailand-Strasse, a headquarters for its own teams in Basel built using a palette of exposed timber, concrete and metal informed by \"logistics and infrastructure\". The 7,259-square-metre building gives Herzog &#38; de Meuron a permanent base in Basel's Dreispitz q",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 19 Jun 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042500/yunxi-valley-star-zhouluo-shuimuyan-space-design",
-        "image_url": "https://images.adsttc.com/media/images/6a32/081d/6c38/481d/a6fa/6343/large_jpg/yunxi-valley-star-zhouluo-shuimuyan-space-design_3.jpg?1781663794",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sat, 20 Jun 2026 10:00:31 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/20/herzog-de-meuron-office-headquarters-basel/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries ",
+        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+        "summary": "",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.19464",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "huggingface.co",
+        "journal": "huggingface.co",
+        "published_at": "Mon, 01 Jun 2026 13:51:18 GMT",
+        "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+        "image_url": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
+        "impact": 4
       },
       {
-        "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-        "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are ",
+        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+        "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the re",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.19494",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 19 Jun 2026 10:40:24 +0000",
+        "source_url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-        "summary": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measure",
+        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+        "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.19501",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 18 Jun 2026 08:00:00 GMT",
+        "source_url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/42SsGr6pOo6F7fcF0VZGGV/25583b98cb667d103adb7bf0476cafc5/SEO_Card_new.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
-        "summary": "arXiv:2606.19559v1 Announce Type: new Abstract: Recent position papers argue that the classical aleatoric/epistemic uncertainty framework is insufficient for interactive large language model (LLM) agents and call for underspecification-aware, decomposed, and communicable uncertainty representations that can unlock new ",
+        "title": "Predicting model behavior before release by simulating deployment",
+        "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.19559",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 16 Jun 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/deployment-simulation",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4nRyRNS5bPvePGSTz5xlQE/ea4b18c80061d14d480d6a20d57a14eb/SEO_Card.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks",
-        "summary": "arXiv:2606.19741v1 Announce Type: new Abstract: Neural Combinatorial Optimization (NCO) achieves strong performance, yet its black-box nature remains a key roadblock to deployment and scientific diagnosis. Standard interpretability tools, such as Concept Bottleneck Models (CBMs), are ill-equipped for NCO, whose decisio",
+        "title": "New OpenAI Academy courses for the next era of work",
+        "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.19741",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 12 Jun 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3uhZVST93Uain15J19fqjF/544b8b12c44fb2035c96b419c5196013/Frame.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
