@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "last_updated": "2026-06-23 00:03 UTC",
+  "last_updated": "2026-06-23 23:54 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,28 @@
         "published_at": "Tue, 16 Jun 2026 06:30:56 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/forever-chemicals-pfas-contamination-magnifying-glass-water-drops.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
+        "summary": "Researchers uncovered why H5N1 bird flu attacks cows’ udders instead of their lungs: the virus’s preferred receptors are concentrated in mammary tissue. The breakthrough could help scientists predict future bird flu jumps and spot unusual infections before they spread widely.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 23 Jun 2026 10:31:51 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/holstein-cow-with-ear-tags-on-pasture-looking.webp",
+        "impact": 5
+      },
+      {
+        "title": "Discovery of how cells maintain their DNA could shield key healthy cells from chemotherapy side effects",
+        "summary": "A new study conducted by scientists at the University of Sheffield in collaboration with researchers from UT Southwestern Medical Center in the U.S. has found a protein that could help guide which cells chemotherapies target. The findings, published in Molecular Cell, open up a promising new avenue for research into tr",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 23 Jun 2026 17:30:01 EDT",
+        "source_url": "https://phys.org/news/2026-06-discovery-cells-dna-shield-key.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-how-cells-1.jpg",
         "impact": 5
       },
       {
@@ -34,28 +56,6 @@
         "published_at": "Sat, 20 Jun 2026 09:28:12 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260616103124.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/snow-macaques-monkeys-japan.webp",
-        "impact": 5
-      },
-      {
-        "title": "Can Time Flow in Reverse? A Quantum Breakthrough Challenges Our Assumptions",
-        "summary": "Researchers investigate how quantum time flow can be stretched, blurred, or even reversed. What if the direction of time isn’t as fixed as it seems? While our everyday experience tells us that time moves relentlessly forward, the microscopic laws governing quantum systems are far less restrictive. In fact, many of the ",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Mon, 22 Jun 2026 16:12:06 +0000",
-        "source_url": "https://scitechdaily.com/can-time-flow-in-reverse-a-quantum-breakthrough-challenges-our-assumptions/",
-        "image_url": "https://scitechdaily.com/images/Physics-Time-Flow-Illustration-777x518.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Capture Immune Cells Eating Live Cancer Cells for the First Time",
-        "summary": "Scientists discovered and filmed macrophages actively destroying live melanoma cells, a finding that could improve immunotherapy and inspire new cancer treatments. Scientists at the Garvan Institute of Medical Research have, for the first time, recorded immune cells known as the body&#8217;s &#8220;housekeepers&#8221; ",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sun, 21 Jun 2026 14:23:02 +0000",
-        "source_url": "https://scitechdaily.com/scientists-capture-immune-cells-eating-live-cancer-cells-for-the-first-time/",
-        "image_url": "https://scitechdaily.com/images/Biological-Lymphocytes-Cancer-Cell-777x518.jpg",
         "impact": 5
       }
     ],
@@ -83,14 +83,25 @@
         "impact": 3
       },
       {
-        "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
-        "summary": "Tests of age-verification technology show the risks of life-altering errors.",
+        "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+        "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Sat, 20 Jun 2026 11:15:09 +0000",
-        "source_url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 23 Jun 2026 23:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+        "summary": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 23 Jun 2026 15:09:38 +0000",
+        "source_url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/HaloBraid.jpg?resize=1200,799",
         "impact": 3
       },
       {
@@ -103,30 +114,52 @@
         "source_url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
         "impact": 3
-      },
-      {
-        "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
-        "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 22 Jun 2026 19:25:00 +0000",
-        "source_url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/tata-electronics.jpg?resize=1200,800",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Formalizing physician-scientist career pathway key to creating 'healthcare of tomorrow'",
-        "summary": "Cholesterol-reducing statin medications to lower the risk of heart attack and stroke; personalized cancer therapies; mRNA technologies that revolutionized vaccine development and are now transforming cancer therapy. These are just a few examples of the countless innovations made possible by physician-scientists—physici",
+        "title": "Promising single-dose malaria treatment advances toward pan-African clinical trial",
+        "summary": "Researchers at the German Center for Infection Research (DZIF) have developed a promising single-dose malaria treatment that could help address growing drug resistance and simplify treatment for patients. The four-drug combination treatment, known as SPAP, is now being prepared for large-scale clinical testing across A",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 22 Jun 2026 14:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-formalizing-physician-scientist-career-pathway.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/healthcare.jpg",
+        "published_at": "Tue, 23 Jun 2026 17:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-dose-malaria-treatment-advances-pan.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/promising-single-dose.jpg",
         "impact": 5
+      },
+      {
+        "title": "Discovery of BIRC3 gene variants in Crohn's disease yields a druggable pathway",
+        "summary": "Researchers from The Hospital for Sick Children (SickKids) in Toronto have found a previously unknown genetic cause of Crohn's disease and uncovered how those changes trigger inflammation through a key immune pathway. The findings, published in Gastroenterology and involving teams from eight countries, will guide more ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 23 Jun 2026 19:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-discovery-birc3-gene-variants-crohn.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/sickkids-led-research.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Testosterone therapy labels and limits may change under FDA proposal",
+        "summary": "The U.S. Food and Drug Administration (FDA) is asking drugmakers to update the prescribing information on testosterone replacement therapy products to reflect newer clinical evidence.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 23 Jun 2026 18:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-testosterone-therapy-limits-fda.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/testosterone-therapy-l.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Faster breast MRI—AI unlocks one image per second and sharper tumor tracking",
+        "summary": "A group of researchers from the Technion and the United States reports a breakthrough in MRI scanning in a paper published in Nature Communications. The researchers developed an innovative method that accelerates and enhances MRI scans for breast cancer imaging, a disease diagnosed in approximately 2.3 million people e",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 23 Jun 2026 16:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-faster-breast-mri-ai-image.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-enables-breakthroug.jpg",
+        "impact": 4
       },
       {
         "title": "Most people who stop GLP-1 drugs like Ozempic eventually return",
@@ -137,39 +170,6 @@
         "published_at": "Tue, 16 Jun 2026 09:10:09 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260615033838.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/hand-holding-glp-1-semaglutide-ozempic-pen-close-up.webp",
-        "impact": 4
-      },
-      {
-        "title": "Biopsy-to-biomarker results still take 27 days for lung cancer, according to study",
-        "summary": "Even as biomarker testing has become increasingly important for selecting the right lung cancer treatment, the time it takes to order these tests hasn't improved. Overall, the time from biopsy to biomarker results is about twice as long as most doctors think it is, and that wait can affect whether patients get started ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 22 Jun 2026 18:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-biopsy-biomarker-results-days-lung.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/biopsy-to-biomarker-re.jpg",
-        "impact": 4
-      },
-      {
-        "title": "How quickly older adults can take a step may predict longevity",
-        "summary": "Researchers from Ben-Gurion University of the Negev (BGU) have found that how quickly an older adult can execute a voluntary step—especially when distracted (concurrently performed cognitive task)—may serve as a valuable clinical predictor of survival. The exploratory study suggests that dynamic balance assessments cap",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 22 Jun 2026 17:40:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-quickly-older-adults-longevity.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-quickly-older-adul-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "AI and 3D-printed tumor organoids could rapidly uncover promising cancer therapies",
-        "summary": "Researchers at the UCLA Health Jonsson Comprehensive Cancer Center have developed a new platform that combines 3D bioprinting, advanced imaging and artificial intelligence to better monitor how cancer responds to treatment. The technology could help researchers identify promising cancer therapies more rapidly and provi",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 22 Jun 2026 17:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-ai-3d-tumor-organoids-rapidly.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-powered-platfor.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,39 @@
         "impact": 5
       },
       {
+        "title": "This is How NASA Flight Tests New Technology",
+        "summary": "Flight tests are a big part of how NASA turns breakthrough ideas into reality. From flying humans faster than the speed of sound to proving designs that helped shape the space shuttle, flight testing transforms bold concepts into safer, more efficient technologies that benefit the public. “Flight tests are a way to saf",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 23 Jun 2026 16:00:00 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/",
+        "image_url": "https://www.youtube.com/embed/rROmLTibG5w",
+        "impact": 4
+      },
+      {
+        "title": "I Am Artemis: Jason Peterson",
+        "summary": "Jason Peterson’s responsibilities for NASA’s Artemis II mission went beyond his usual role as the range operations manager at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Peterson credits his military experience with preparing him for the 12-to-16-hour workdays that helped bring the Artemis II test flig",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 23 Jun 2026 14:27:29 +0000",
+        "source_url": "https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/ssc-20260609-s00589.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Rocket Lab launches US Space Force mission with less than 17 hours' notice — a new record",
+        "summary": "Rocket Lab launched the second satellite for the U.S. Space Force's Victus Haze mission, setting a new launch readiness record in the process. Now, the mission's two spacecraft are in a chase to rendezvous and perform \"dynamic engagements with the other.\"",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 23 Jun 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-us-space-force-mission-with-less-than-17-hours-notice-a-new-record",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/N7zCZnvtwhDuE8s737gBeL-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California (video)",
         "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 21, 2026.",
         "category": "Space",
@@ -252,42 +285,20 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
         "image_url": "https://cdn.mos.cms.futurecdn.net/epwz7pZ4iUa6UjXSNmpW2B-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "These Mars valleys are hiding 30 dust devils | Space photo of the day for June 18, 2026",
-        "summary": "Europe's Mars Express orbiter recently imaged a huge valley system on the Red Planet — and dust devils dot the alien landscape.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 18 Jun 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/earth/these-mars-valleys-are-hiding-30-dust-devils-space-photo-of-the-day-for-june-18-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/mM7MA3Nuz4PD3LhFvbGLUc-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference",
-        "summary": "NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic arm. The spacewalk is scheduled to begin at approximately 8:35 a.m. EDT. Experts from NASA and CSA (Canadian Space Agency) will preview the upcoming spacewalk dur",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 22 Jun 2026 16:45:24 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/spacewalk-95-advisory-june-22.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer",
-        "summary": "The Nancy Roman Grace Telescope has arrived at NASA's Kennedy Space Center for final preparations ahead of launching to join the orbital ranks of Hubble, Webb, Spitzer and Chandra.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 22 Jun 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-arrives-in-florida-ahead-of-spacex-falcon-heavy-launch-this-summer",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/f9KFdLFrUaPWVxmnbWexBF-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "Exploding Stars Sprinkled Ancient Earth With Radioactive Iron and Plutonium",
+        "summary": "Exploding stars have left their radioactive mark on our planet. Now scientists have found more evidence of a particularly violent event in Earth’s more ancient past. The post Exploding Stars Sprinkled Ancient Earth With Radioactive Iron and Plutonium appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Tue, 23 Jun 2026 14:54:54 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/exploding-stars-sprinkled-ancient-earth-with-radioactive-iron-and-plutonium/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/GRB211211Apt.jpg",
+        "impact": 4
+      },
       {
         "title": "“Shadow Blaster” Galaxy Might Have Sent High-Energy Neutrino to Earth",
         "summary": "A star-forming galaxy in the early universe might have sent a ghostly particle known as a neutrino crashing into the ice at Earth’s South Pole, after an 11 billion-year journey through space. The post “Shadow Blaster” Galaxy Might Have Sent High-Energy Neutrino to Earth appeared first on Sky &amp; Telescope.",
@@ -297,17 +308,6 @@
         "published_at": "Thu, 18 Jun 2026 12:00:00 +0000",
         "source_url": "https://skyandtelescope.org/astronomy-news/shadow-blaster-galaxy-might-have-sent-high-energy-neutrino-to-earth/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/noirlab2615c.jpg",
-        "impact": 4
-      },
-      {
-        "title": "James Webb Space Telescope discovers extreme exoplanet being roasted by its home star",
-        "summary": "Who ordered the roasted exoplanet? Astronomers using the James Webb Space Telescope found a world that really puts the \"hot\" in \"Hot Jupiter.\"",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 17 Jun 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-extreme-exoplanet-being-roasted-by-its-home-star",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/c7o8Faj5dqs7UtTfaHm56m-1280-80.png",
         "impact": 4
       },
       {
@@ -333,14 +333,14 @@
         "impact": 4
       },
       {
-        "title": "This Week's Sky at a Glance, June 12 – 21",
-        "summary": "The three planets in the western twilight are pulling away from each other now. On Wednesday, the Moon will occult Venus in daylight. The post This Week&#039;s Sky at a Glance, June 12 – 21 appeared first on Sky &amp; Telescope.",
+        "title": "Radio Observations Reveal the Secret of Early Galaxy Growth",
+        "summary": "Astronomers have discovered a huge reservoir of cold molecular gas, the direct fuel for star formation, in REBELS-25, a massive, star-forming galaxy.The team, led from ​​Leiden University, focused on REBELS-25, seen when the universe was only about 700 million years old, around 5% of its current age. Astronomers use “r",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Fri, 12 Jun 2026 09:01:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-june-12-21/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Jun12_ev_NORM_FEATURED.jpg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 23 Jun 2026 18:39:19 +0000",
+        "source_url": "https://www.universetoday.com/articles/cosmic-dawn-fuel-discovery-unlocks-early-galaxy-growth-secrets-vla-fuel-discovery",
+        "image_url": "https://www.universetoday.com/article_images/PIG259-cosmic_timeline5F_lrg_20260623_183147.jpg",
         "impact": 4
       }
     ],
@@ -355,6 +355,28 @@
         "source_url": "https://www.dezeen.com/2026/06/19/big-stem-university-bentonville-arkansas-renderings/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 5
+      },
+      {
+        "title": "The Ecological Intelligence of Sacred Landscapes",
+        "summary": "Architecture often speaks about ecological design as though it were a recent discovery. Biodiversity corridors, regenerative landscapes, sponge cities, and more-than-human urbanism are presented as emerging responses to contemporary environmental crises. Across India and the SWANA region, landscapes shaped through reli",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 23 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
+        "image_url": "https://images.adsttc.com/media/images/6a33/6d35/6c38/4801/88c1/8173/large_jpg/the-ecological-intelligence-of-sacred-landscapes_2.jpg?1781755211",
+        "impact": 4
+      },
+      {
+        "title": "RAMSA completes sensitive extension of New York Historical museum",
+        "summary": "Architecture studio Robert AM Stern Architects has completed an extension to the New York Historical museum in New York informed by the building's original design from the early 1900s. The Tang Wing for American Democracy (The Tang Wing) contains new galleries and exhibition spaces, and is affixed to the back of the ma",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 23 Jun 2026 19:01:45 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/23/tang-wing-american-democracy-new-york-city-ramsa/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
       },
       {
         "title": "Snøhetta designs mesh-covered office building for Miami Design District",
@@ -377,28 +399,6 @@
         "source_url": "https://www.dezeen.com/2026/06/20/herzog-de-meuron-office-headquarters-basel/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "NBBJ wraps Vivo skyscraper in spiralling terrace",
-        "summary": "Architecture studio NBBJ has completed the headquarters of Chinese phone company Vivo in Shenzhen, China, which includes a terrace wrapped around the exterior of the skyscraper. Located in Qianhai Bay, a new business district in west Shenzhen, Vivo Headquarters is a 150-metre-high building for 6,000 employees. Accordin",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 16 Jun 2026 08:00:19 +0000",
-        "source_url": "https://www.dezeen.com/2026/06/16/nbbj-vivo-headquarters-shenzhen/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "pink timber room rises over munich bike racks as urban lab ‘zuhaus’",
-        "summary": "architect clemens hoyer designed the structure as a real-world urban laboratory for shared street space. The post pink timber room rises over munich bike racks as urban lab &#8216;zuhaus&#8217; appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Mon, 22 Jun 2026 15:21:31 +0000",
-        "source_url": "https://www.designboom.com/architecture/pink-timber-room-munich-bike-racks-urban-lab-zuhaus-clemence-hoyer/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/zuhaus-haidhausen-designer-clemens-hoyer-munich-germany-designboom-FB.jpg",
-        "impact": 4
       }
     ],
     "construction": [
@@ -411,17 +411,6 @@
         "published_at": "Mon, 22 Jun 2026 14:52:00 -0400",
         "source_url": "https://www.constructiondive.com/news/infrastructure-data-centers-construction-starts-strong-may/823424/",
         "image_url": "https://imgproxy.divecdn.com/cvD3rcKgSVu8Jxfgp97_u8tiOinkJ8MmWLR1bgi_9P4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TU05fQWVyaWFsX1JlbmRlcmluZ18tX1VwZGF0ZWRfMTFTZXAyMDI1Xy5wbmc=.webp",
-        "impact": 4
-      },
-      {
-        "title": "Virginia approves 6-year, $28.5B infrastructure plan",
-        "summary": "The massive plan will fund more than 4,300 construction and infrastructure jobs across the state.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 18 Jun 2026 13:51:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/virginia-approves-6-year-infrastructure-plan/823308/",
-        "image_url": "https://imgproxy.divecdn.com/WbWJgENjvKYkUUuF2CzShyTmA_MHBqcjb7OQGxhI2Hk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnRlcnN0YXRlLTgxLWNvbnN0cnVjdGlvbi5qcGVn.webp",
         "impact": 4
       },
       {
@@ -447,72 +436,83 @@
         "impact": 4
       },
       {
-        "title": "Construction surges despite cost, power concerns",
-        "summary": "Municipal pushback and access to energy pose risks to future data center development, said Ermengarde Jabir, director of commercial real estate research at Moody&rsquo;s.",
+        "title": "Jacobs wins role on $1.7B New York public health lab",
+        "summary": "The firm will work alongside the design-build joint venture team of Gilbane and Turner, and expects construction to reach completion by 2030.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 22 Jun 2026 08:32:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-surges-cost-power-concerns/823307/",
-        "image_url": "https://imgproxy.divecdn.com/g_RMA1JMmw4uMCt33SWrT6Nf1L2IDAc5ywiHCqUq2w0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzcxMDYxLmpwZw==.webp",
+        "published_at": "Tue, 23 Jun 2026 16:42:15 -0400",
+        "source_url": "https://www.constructiondive.com/news/jacobs-new-york-public-health-lab/823584/",
+        "image_url": "https://imgproxy.divecdn.com/N5KnAVhKLEW5RDjThuKHqxfhh3um8wF4kC7cW1hwkEI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI1LTA3LTA3X0xTUEhMX0hPS19QUk9KX1JFTkRFUklOR1NfQ0hBTUJFUl8yLmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "Superior Construction CEO: ‘Every good mentor was at one point a mentee’",
+        "summary": "The builder will construct a two-story facility for career advancement in Jacksonville, Florida, to target new employees and level up veterans&rsquo; skills.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 23 Jun 2026 09:09:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/superior-construction-ceo-training-facility-skills-trades/823408/",
+        "image_url": "https://imgproxy.divecdn.com/YXXkujy--PtJeHxXusbiaAZSVc1BgnDBVavQE95dQ08/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BWE9fUkVOREVSX0ZJTkFMLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-        "summary": "",
+        "title": "An LLM-Explainable DRL Framework for Passenger-Directed Autonomous Driving",
+        "summary": "arXiv:2606.20640v1 Announce Type: new Abstract: Autonomous vehicles offer the potential for safer and more efficient mobility, yet public trust remains limited due to the lack of transparency in their decision-making. This work addresses this issue by combining deep reinforcement learning (DRL) for adaptive driving con",
         "category": "AI",
-        "source": "huggingface.co",
-        "journal": "huggingface.co",
-        "published_at": "Mon, 01 Jun 2026 13:51:18 GMT",
-        "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-        "image_url": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 23 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.20640",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-        "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring th",
+        "title": "From Knowing to Acting: Benchmarking Self-Awareness Capability of LLM Agents",
+        "summary": "arXiv:2606.20661v1 Announce Type: new Abstract: The integration of external tools has transitioned LLM agents from passive responders to autonomous systems. However, current benchmarks prioritize execution success, neglecting self-awareness capability, the ability to discern whether a problem requires necessary externa",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 19 Jun 2026 10:40:24 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 23 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.20661",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-        "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+        "title": "From Question Answering to Task Completion: A Survey on Agent System and Harness Design",
+        "summary": "arXiv:2606.20683v1 Announce Type: new Abstract: LLM-based agents mark a shift from passive question answering to active task completion: they perceive environments, invoke tools, maintain state, and act over extended horizons. As agent systems have evolved from prompt engineering to workflows and context engineering, h",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 18 Jun 2026 08:00:00 GMT",
-        "source_url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/42SsGr6pOo6F7fcF0VZGGV/25583b98cb667d103adb7bf0476cafc5/SEO_Card_new.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 23 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.20683",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Predicting model behavior before release by simulating deployment",
-        "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+        "title": "Simulated Customers Never Walk Away: Decision Fidelity of LLM User Simulators Measured Against Real Purchase Outcomes",
+        "summary": "arXiv:2606.20708v1 Announce Type: new Abstract: LLM-as-user-simulation has become core infrastructure for conversational AI: agent benchmarks (tau-bench), training pipelines, and a growing body of fidelity studies all rely on LLMs role-playing the human side of dialogue. Existing frameworks measure communicative fideli",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 16 Jun 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/deployment-simulation",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4nRyRNS5bPvePGSTz5xlQE/ea4b18c80061d14d480d6a20d57a14eb/SEO_Card.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 23 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.20708",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "New OpenAI Academy courses for the next era of work",
-        "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+        "title": "FairTutor: Equity-Aware Pedagogical LLM Routing for Budget-Constrained AI Tutoring",
+        "summary": "arXiv:2606.20713v1 Announce Type: new Abstract: Generative AI tutors provide real-time, personalized learning support, but also create a new education inequity: students with access to premium AI services may receive clearer explanations, more personalized guidance, and better scaffolding than students limited to free ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 12 Jun 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3uhZVST93Uain15J19fqjF/544b8b12c44fb2035c96b419c5196013/Frame.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 23 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.20713",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
