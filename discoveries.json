@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-22",
-  "last_updated": "2026-06-22 00:08 UTC",
+  "date": "2026-06-23",
+  "last_updated": "2026-06-23 00:03 UTC",
   "categories": {
     "science": [
       {
@@ -37,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "Can Time Flow in Reverse? A Quantum Breakthrough Challenges Our Assumptions",
+        "summary": "Researchers investigate how quantum time flow can be stretched, blurred, or even reversed. What if the direction of time isn’t as fixed as it seems? While our everyday experience tells us that time moves relentlessly forward, the microscopic laws governing quantum systems are far less restrictive. In fact, many of the ",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Mon, 22 Jun 2026 16:12:06 +0000",
+        "source_url": "https://scitechdaily.com/can-time-flow-in-reverse-a-quantum-breakthrough-challenges-our-assumptions/",
+        "image_url": "https://scitechdaily.com/images/Physics-Time-Flow-Illustration-777x518.jpg",
+        "impact": 5
+      },
+      {
         "title": "Scientists Capture Immune Cells Eating Live Cancer Cells for the First Time",
         "summary": "Scientists discovered and filmed macrophages actively destroying live melanoma cells, a finding that could improve immunotherapy and inspire new cancer treatments. Scientists at the Garvan Institute of Medical Research have, for the first time, recorded immune cells known as the body&#8217;s &#8220;housekeepers&#8221; ",
         "category": "Science",
@@ -46,41 +57,30 @@
         "source_url": "https://scitechdaily.com/scientists-capture-immune-cells-eating-live-cancer-cells-for-the-first-time/",
         "image_url": "https://scitechdaily.com/images/Biological-Lymphocytes-Cancer-Cell-777x518.jpg",
         "impact": 5
-      },
-      {
-        "title": "Near Absolute Zero, This Transistor Starts Acting Like a Brain Cell",
-        "summary": "A single transistor that behaves like a brain cell in the deep freeze could help unlock the next generation of quantum computers and space exploration systems. Researchers at the University of Hong Kong (HKU) have developed a new type of brain-inspired electronic hardware that can operate at temperatures close to absol",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 19 Jun 2026 15:36:36 +0000",
-        "source_url": "https://scitechdaily.com/near-absolute-zero-this-transistor-starts-acting-like-a-brain-cell/",
-        "image_url": "https://scitechdaily.com/images/Brain-AI-Chip-Artificial-Intelligence-Technology-Data-Stream-777x518.jpg",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-        "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+        "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+        "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 20 Jun 2026 00:47:44 +0000",
-        "source_url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2182705840.jpeg?resize=1200,800",
-        "impact": 4
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 22 Jun 2026 21:52:39 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-factory-zero-1152x648.jpg",
+        "impact": 3
       },
       {
-        "title": "The Download: a reality check for geoengineering and the science of interoception",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to cou",
+        "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+        "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 17 Jun 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/TR_Geoengineering_r2_layers.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 22 Jun 2026 19:16:52 +0000",
+        "source_url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+        "impact": 3
       },
       {
         "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
@@ -94,29 +94,40 @@
         "impact": 3
       },
       {
-        "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
-        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sun, 21 Jun 2026 16:05:00 +0000",
-        "source_url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/baidu-apollo-getty.jpg?resize=1200,800",
+        "published_at": "Mon, 22 Jun 2026 20:13:58 +0000",
+        "source_url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
         "impact": 3
       },
       {
-        "title": "Founders Fund’s outlier bet on humanely killed fish",
-        "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+        "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+        "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sat, 20 Jun 2026 18:26:02 +0000",
-        "source_url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-20-at-5.40.30-PM.png?resize=1200,650",
+        "published_at": "Mon, 22 Jun 2026 19:25:00 +0000",
+        "source_url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/tata-electronics.jpg?resize=1200,800",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Formalizing physician-scientist career pathway key to creating 'healthcare of tomorrow'",
+        "summary": "Cholesterol-reducing statin medications to lower the risk of heart attack and stroke; personalized cancer therapies; mRNA technologies that revolutionized vaccine development and are now transforming cancer therapy. These are just a few examples of the countless innovations made possible by physician-scientists—physici",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 22 Jun 2026 14:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-formalizing-physician-scientist-career-pathway.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/healthcare.jpg",
+        "impact": 5
+      },
       {
         "title": "Most people who stop GLP-1 drugs like Ozempic eventually return",
         "summary": "Many people prescribed GLP-1 drugs for type 2 diabetes (such as Victoza, Ozempic, or tirzepatide) stop taking them, but a surprising number later return to treatment. Researchers found that newer medications appear to keep patients on therapy longer, while side effects remain a major reason for discontinuation.",
@@ -129,47 +140,36 @@
         "impact": 4
       },
       {
-        "title": "As patients move through injury care, well-intentioned changes can backfire",
-        "summary": "Global health policymakers should focus on the way entire health care systems work together, argue researchers in new findings. Improving one element does not always create better outcomes if the wider system is not ready.",
+        "title": "Biopsy-to-biomarker results still take 27 days for lung cancer, according to study",
+        "summary": "Even as biomarker testing has become increasingly important for selecting the right lung cancer treatment, the time it takes to order these tests hasn't improved. Overall, the time from biopsy to biomarker results is about twice as long as most doctors think it is, and that wait can affect whether patients get started ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 21 Jun 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-patients-injury-intentioned-backfire.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-hospital.jpg",
+        "published_at": "Mon, 22 Jun 2026 18:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-biopsy-biomarker-results-days-lung.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/biopsy-to-biomarker-re.jpg",
         "impact": 4
       },
       {
-        "title": "Only a third of eligible breast cancer patients receive a gene expression test",
-        "summary": "A gene expression test can help prevent unnecessary chemotherapy in breast cancer patients, yet its use in the Netherlands remains limited. This is shown by new research from the Netherlands Comprehensive Cancer Centre (IKNL), led by Sabine Siesling, principal investigator at IKNL and professor at the University of Twe",
+        "title": "How quickly older adults can take a step may predict longevity",
+        "summary": "Researchers from Ben-Gurion University of the Negev (BGU) have found that how quickly an older adult can execute a voluntary step—especially when distracted (concurrently performed cognitive task)—may serve as a valuable clinical predictor of survival. The exploratory study suggests that dynamic balance assessments cap",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 20 Jun 2026 17:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-eligible-breast-cancer-patients-gene.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/women-cancer-gene.jpg",
+        "published_at": "Mon, 22 Jun 2026 17:40:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-quickly-older-adults-longevity.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-quickly-older-adul-1.jpg",
         "impact": 4
       },
       {
-        "title": "New study attempts to reconcile conflicting findings on benefits vs. risks of alcohol consumption",
-        "summary": "Studies of alcohol's effects on health have offered contradictory findings, with some suggesting a glass of red wine a day is beneficial and others saying even a drop of booze is too much. A new review attempting to clarify the risks finds more than 60 diseases, based on the World Health Organization's International Cl",
+        "title": "AI and 3D-printed tumor organoids could rapidly uncover promising cancer therapies",
+        "summary": "Researchers at the UCLA Health Jonsson Comprehensive Cancer Center have developed a new platform that combines 3D bioprinting, advanced imaging and artificial intelligence to better monitor how cancer responds to treatment. The technology could help researchers identify promising cancer therapies more rapidly and provi",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 20 Jun 2026 15:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-conflicting-benefits-alcohol-consumption.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/drinking-alcohol-and-h.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Long-lived families reveal a rare genetic clue to healthy aging",
-        "summary": "A study of long-lived families has identified rare genetic variants that may help people stay healthier for much longer as they age. One standout mutation appears to temper inflammation, potentially delaying disease and extending years of healthy living.",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 21 Jun 2026 10:57:42 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260621060301.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/four-generations-of-women.webp",
+        "published_at": "Mon, 22 Jun 2026 17:20:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-ai-3d-tumor-organoids-rapidly.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-powered-platfor.jpg",
         "impact": 4
       }
     ],
@@ -243,18 +243,7 @@
         "impact": 5
       },
       {
-        "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
-        "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Iono",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 18 Jun 2026 21:33:07 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/daphne-concept-artwork-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California",
+        "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California (video)",
         "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 21, 2026.",
         "category": "Space",
         "source": "space.com",
@@ -276,14 +265,25 @@
         "impact": 4
       },
       {
-        "title": "'Best. Mars. Mission. Ever.' Scientists hail MAVEN's legacy as NASA retires Red Planet orbiter",
-        "summary": "NASA's MAVEN Mars mission ended after 11 years, having revealed how the planet lost its atmosphere and served as a key communications relay for surface missions.",
+        "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference",
+        "summary": "NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic arm. The spacewalk is scheduled to begin at approximately 8:35 a.m. EDT. Experts from NASA and CSA (Canadian Space Agency) will preview the upcoming spacewalk dur",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 22 Jun 2026 16:45:24 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/spacewalk-95-advisory-june-22.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer",
+        "summary": "The Nancy Roman Grace Telescope has arrived at NASA's Kennedy Space Center for final preparations ahead of launching to join the orbital ranks of Hubble, Webb, Spitzer and Chandra.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 17 Jun 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/best-mars-mission-ever-scientists-hail-mavens-legacy-as-nasa-retires-red-planet-orbiter",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/x2dY7UjdjBXqtEuxdFePnK-1280-80.jpg",
+        "published_at": "Mon, 22 Jun 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-arrives-in-florida-ahead-of-spacex-falcon-heavy-launch-this-summer",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/f9KFdLFrUaPWVxmnbWexBF-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins",
+        "summary": "The most recent interstellar visitor was crisscrossing our galaxy for some 10 to 12 billion years before it came near the Sun. The post Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Mon, 22 Jun 2026 15:18:05 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-is-ancient/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/3I-ATLAS-Gemini-North-Aug-27-2025-S.webp",
+        "impact": 4
+      },
+      {
         "title": "Did A Moon-Size Planet Grow Fast and Die Young in the Early Solar System?",
         "summary": "A rare meteorite recovered from the Sahara Desert could be a fragment of a Moon-size body that met a violent end in the earliest days of the solar system. The post Did A Moon-Size Planet Grow Fast and Die Young in the Early Solar System? appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -331,31 +342,9 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-june-12-21/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Jun12_ev_NORM_FEATURED.jpg",
         "impact": 4
-      },
-      {
-        "title": "Astronomers Want to Build a Swarm of Telescopes to Find LIFE",
-        "summary": "Current plans for flagship telescopes in the 2040s are focused on answering a simple question - are we alone? Our best telescopes to date, such as the James Webb Space Telescope (JWST) have only given us tantalizing glimpses into the atmospheres or other worlds, but not enough to truly determine whether or not life as ",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 19 Jun 2026 14:46:13 +0000",
-        "source_url": "https://www.universetoday.com/articles/astronomers-want-to-build-a-swarm-of-telescopes-to-find-life",
-        "image_url": "https://www.universetoday.com/article_images/eso1736a_20260617_143033.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "Designing for Stray Cities: Architecture Beyond the Human",
-        "summary": "Architecture continues to draw cities as though humans occupy them alone. Plans trace circulation routes, zoning maps assign functions, and buildings are evaluated according to human comfort, safety, and efficiency. Walking through cities across India and Southwest Asia reveals something much more complex. Dogs sleep b",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sat, 20 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042316/designing-for-stray-cities-architecture-beyond-the-human",
-        "image_url": "https://images.adsttc.com/media/images/6a29/bc63/a0e0/6301/89c9/f375/large_jpg/designing-for-stray-cities-architecture-beyond-the-human_15.jpg?1781120116",
-        "impact": 5
-      },
       {
         "title": "BIG designs \"new kind of urban university\" for Bentonville",
         "summary": "Architecture studio BIG has designed a series of buildings for a university being established by the members of the Walton family in Bentonville, Arkansas, USA with three structures that expand on the local vernacular. Members of the Walton family, who are best known as founders of retail giant Walmart, announced that ",
@@ -368,25 +357,14 @@
         "impact": 5
       },
       {
-        "title": "City-Making Through Participation: Lessons from Utopian Hours 2026",
-        "summary": "Who has the right to the city? Henri Lefebvre's writings question the structures that control urban space and, instead, put the citizens at the center of decision-making. His ideas have influenced the way architecture and urban design are practiced, bringing about community participation and co-design. These have been ",
+        "title": "Snøhetta designs mesh-covered office building for Miami Design District",
+        "summary": "International architecture studio Snøhetta has released designs for a mixed-use building in Miami covered in a bulbous \"stainless mesh sunscreen\". The Sweetbird North building, developed by Raycliff Capital, was designed to be eight storeys tall and will be located in Miami's Design District, next to the distinct Museu",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 19 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042568/city-making-through-participation-lessons-from-utopian-hours-2026",
-        "image_url": "https://images.adsttc.com/media/images/6a34/2dfe/8576/0e01/8921/affe/large_jpg/utopian-hours-city-making-through-participation_13.jpg?1781804561",
-        "impact": 4
-      },
-      {
-        "title": "Schmidt Hammer Lassen Completes ARoS Expansion with James Turrell's As Seen Below – The Dome",
-        "summary": "Denmark's ARoS Aarhus Art Museum has unveiled As Seen Below – The Dome, a new Skyspace by American artist James Turrell that completes The Next Level, the museum's approximately 4,000-square-metre underground expansion designed by Schmidt Hammer Lassen. Opened to the public on 19 June 2026, the project marks the culmin",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 19 Jun 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042584/schmidt-hammer-lassen-completes-aros-expansion-with-james-turrells-as-seen-below-the-dome",
-        "image_url": "https://images.adsttc.com/media/images/6a34/fc75/6c38/4801/88c1/8661/large_jpg/schmidt-hammer-lassen-completes-aros-expansion-with-james-turrells-as-seen-below-the-dome_18.jpg?1781857441",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 22 Jun 2026 17:01:18 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/22/snohetta-miami-design-district-sweetbird-north/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -399,9 +377,42 @@
         "source_url": "https://www.dezeen.com/2026/06/20/herzog-de-meuron-office-headquarters-basel/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
+      },
+      {
+        "title": "NBBJ wraps Vivo skyscraper in spiralling terrace",
+        "summary": "Architecture studio NBBJ has completed the headquarters of Chinese phone company Vivo in Shenzhen, China, which includes a terrace wrapped around the exterior of the skyscraper. Located in Qianhai Bay, a new business district in west Shenzhen, Vivo Headquarters is a 150-metre-high building for 6,000 employees. Accordin",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 16 Jun 2026 08:00:19 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/16/nbbj-vivo-headquarters-shenzhen/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "pink timber room rises over munich bike racks as urban lab ‘zuhaus’",
+        "summary": "architect clemens hoyer designed the structure as a real-world urban laboratory for shared street space. The post pink timber room rises over munich bike racks as urban lab &#8216;zuhaus&#8217; appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Mon, 22 Jun 2026 15:21:31 +0000",
+        "source_url": "https://www.designboom.com/architecture/pink-timber-room-munich-bike-racks-urban-lab-zuhaus-clemence-hoyer/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/06/zuhaus-haidhausen-designer-clemens-hoyer-munich-germany-designboom-FB.jpg",
+        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Infrastructure, data centers kept construction starts strong in May",
+        "summary": "Megaprojects drove sizable growth in groundbreaking activity over the month, said Sarah Martin, director of economic research at Dodge Construction Network.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 22 Jun 2026 14:52:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/infrastructure-data-centers-construction-starts-strong-may/823424/",
+        "image_url": "https://imgproxy.divecdn.com/cvD3rcKgSVu8Jxfgp97_u8tiOinkJ8MmWLR1bgi_9P4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TU05fQWVyaWFsX1JlbmRlcmluZ18tX1VwZGF0ZWRfMTFTZXAyMDI1Xy5wbmc=.webp",
+        "impact": 4
+      },
       {
         "title": "Virginia approves 6-year, $28.5B infrastructure plan",
         "summary": "The massive plan will fund more than 4,300 construction and infrastructure jobs across the state.",
@@ -411,17 +422,6 @@
         "published_at": "Thu, 18 Jun 2026 13:51:00 -0400",
         "source_url": "https://www.constructiondive.com/news/virginia-approves-6-year-infrastructure-plan/823308/",
         "image_url": "https://imgproxy.divecdn.com/WbWJgENjvKYkUUuF2CzShyTmA_MHBqcjb7OQGxhI2Hk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnRlcnN0YXRlLTgxLWNvbnN0cnVjdGlvbi5qcGVn.webp",
-        "impact": 4
-      },
-      {
-        "title": "Amazon plans $10B Missouri data center campus",
-        "summary": "In addition to the construction of the facility, the tech giant will improve nearby roads and water infrastructure in the state.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 17 Jun 2026 16:48:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/amazon-plans-missouri-data-center-campus/823215/",
-        "image_url": "https://imgproxy.divecdn.com/6441MLvnLZyQO9iUakZ2H21NS_tQYCEzGBS219lT158/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEwMTc5NjMxLmpwZw==.webp",
         "impact": 4
       },
       {
@@ -447,14 +447,14 @@
         "impact": 4
       },
       {
-        "title": "Walsh-Turner JV gets green light on $580M utility plant project",
-        "summary": "The two construction firms add the University of Kentucky in Lexington project to the collaboration&rsquo;s growing list of higher-ed jobs.",
+        "title": "Construction surges despite cost, power concerns",
+        "summary": "Municipal pushback and access to energy pose risks to future data center development, said Ermengarde Jabir, director of commercial real estate research at Moody&rsquo;s.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 18 Jun 2026 12:57:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/walsh-turner-jv-university-kentucky-utility-plant-project/823303/",
-        "image_url": "https://imgproxy.divecdn.com/9-QEOIhsYQ1bs22j3gLODRePqfPZ6juFegSfB-SLFng/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNjExMjYtVUstQ1VQLXByLmpwZw==.webp",
+        "published_at": "Mon, 22 Jun 2026 08:32:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-surges-cost-power-concerns/823307/",
+        "image_url": "https://imgproxy.divecdn.com/g_RMA1JMmw4uMCt33SWrT6Nf1L2IDAc5ywiHCqUq2w0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzcxMDYxLmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -472,7 +472,7 @@
       },
       {
         "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-        "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the re",
+        "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring th",
         "category": "AI",
         "source": "technologyreview.com",
         "journal": "technologyreview.com",
