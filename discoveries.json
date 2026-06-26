@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-25",
-  "last_updated": "2026-06-25 00:07 UTC",
+  "date": "2026-06-26",
+  "last_updated": "2026-06-26 00:08 UTC",
   "categories": {
     "science": [
       {
@@ -15,6 +15,17 @@
         "impact": 5
       },
       {
+        "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+        "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of evidence slowly come toget",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 25 Jun 2026 03:41:52 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/temple-of-artemis-and-acropolis-in-sardis.webp",
+        "impact": 5
+      },
+      {
         "title": "Early humans were bringing fire into caves 1.8 million years ago",
         "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors. The discovery push",
         "category": "Science",
@@ -26,25 +37,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
-        "summary": "A new study suggests Southern California's major fault system is more stressed than at any point in the last 1,000 years. Researchers found that the Cajon Pass, where the San Andreas and San Jacinto faults meet, could act as an “earthquake gate” that determines whether a future rupture spreads across both faults. Curre",
+        "title": "Scientists Turn Ordinary Sunlight Into UV Light in Major Energy Breakthrough",
+        "summary": "Sunlight just got an upgrade: Scientists have developed a material that converts ordinary sunshine into UV light, opening new possibilities for solar-powered technologies. Imagine pouring two cups of warm water together and expecting to get one cup of boiling water. That is impossible in everyday life, but something si",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 18 Jun 2026 12:19:47 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260617032155.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/coulomb-stress-accumulation-of-southern-san-andreas-fault-system-2025.webp",
-        "impact": 5
-      },
-      {
-        "title": "The first primates may have evolved in the cold, not the tropics",
-        "summary": "A surprising new study suggests the earliest primates didn't originate in tropical forests but in cold, dry parts of North America. Some may have even survived seasonal Arctic conditions by slowing their metabolism or hibernating. Researchers found that dramatic climate shifts, rather than warmth, played a major role i",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 20 Jun 2026 09:28:12 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260616103124.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/snow-macaques-monkeys-japan.webp",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 25 Jun 2026 16:14:36 +0000",
+        "source_url": "https://scitechdaily.com/scientists-turn-ordinary-sunlight-into-uv-light-in-major-energy-breakthrough/",
+        "image_url": "https://scitechdaily.com/images/Solid-State-Harvesting-UV-Light-From-Sunlight-777x438.jpg",
         "impact": 5
       },
       {
@@ -61,25 +61,36 @@
     ],
     "tech": [
       {
-        "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
-        "summary": "A critique published in Nature Wednesday calls the basic technology behind Microsoft's \"breakthrough\" quantum computing chip the Majorana 1 into question. Microsoft unveiled the chip in February 2025 and said it featured a brand-new technology known as a topological qubit. Topological qubits, they said, would be the \"b",
+        "title": "IBM claims world’s first sub-1 nanometer chip technology",
+        "summary": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-06-24T16:54:57-04:00",
-        "source_url": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Majorana-1-005-4000px.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-        "impact": 5
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 25 Jun 2026 10:00:55 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1152x648.jpg",
+        "impact": 4
       },
       {
-        "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
-        "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+        "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Wed, 24 Jun 2026 12:36:07 +0000",
-        "source_url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
-        "image_url": "https://media.wired.com/photos/6a3bc8bcb0d9ff58f6121983/191:100/w_1280,c_limit/GettyImages-2204326766.jpg",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 25 Jun 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_Powerplantsheat.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+        "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than ha",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 25 Jun 2026 10:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_sub-1nmnodechip.jpg?resize=1200,600",
         "impact": 4
       },
       {
@@ -103,73 +114,62 @@
         "source_url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1152x648.webp",
         "impact": 3
-      },
-      {
-        "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-        "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 24 Jun 2026 22:41:41 +0000",
-        "source_url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "New oral GLP-1 drug delivers up to 12% weight loss in 36 weeks",
-        "summary": "A new strategy for delivering GLP-1 drugs to patients with obesity or who were overweight resulted in up to a 12% reduction in body weight after 36 weeks, according to a randomized phase II clinical trial published in Nature Medicine.",
+        "title": "New drug candidate shows promise in overcoming chemotherapy resistance in small cell lung cancer",
+        "summary": "A research team led by Prof. Liu Qingsong at the Institute of Health and Medical Technology, the Hefei Institutes of Physical Science of the Chinese Academy of Sciences has discovered a new drug candidate that may help overcome chemotherapy resistance in small cell lung cancer (SCLC). The study, published in Signal Tra",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 24 Jun 2026 17:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-oral-glp-drug-weight-loss.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/weight-loss-drugs.jpg",
+        "published_at": "Thu, 25 Jun 2026 17:40:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-drug-candidate-chemotherapy-resistance-small.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drug-candidate-sho.jpg",
         "impact": 4
       },
       {
-        "title": "Most people who stop GLP-1 drugs like Ozempic eventually return",
-        "summary": "Many people prescribed GLP-1 drugs for type 2 diabetes (such as Victoza, Ozempic, or tirzepatide) stop taking them, but a surprising number later return to treatment. Researchers found that newer medications appear to keep patients on therapy longer, while side effects remain a major reason for discontinuation.",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 16 Jun 2026 09:10:09 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260615033838.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/hand-holding-glp-1-semaglutide-ozempic-pen-close-up.webp",
-        "impact": 4
-      },
-      {
-        "title": "Immune cell–fibroblast crosstalk may be the key trigger of autoimmune diseases",
-        "summary": "In autoimmune disorders, immune cells targeting \"self\" proteins are mistakenly activated, resulting in abnormal expansion and responsiveness. These disorders are known to reduce patients' quality of life over a prolonged period. This can be attributed to CD4+ T cells, which play a key role in inducing persistent inflam",
+        "title": "Leveraging AI can reduce time and resources in how physicians approach sepsis care",
+        "summary": "In a new clinical study from the University of California San Diego School of Medicine, researchers and physicians at UC San Diego Health have found that by utilizing artificial intelligence (AI), they could develop more timely and efficient assessments of care provided to patients with severe sepsis in the emergency d",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 24 Jun 2026 18:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-immune-cellfibroblast-crosstalk-key-trigger.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/immune-cellfibroblast.jpg",
+        "published_at": "Thu, 25 Jun 2026 17:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-leveraging-ai-resources-physicians-approach.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/physician.jpg",
         "impact": 4
       },
       {
-        "title": "Most patients want cancer diagnoses from doctors, not portals, survey finds",
-        "summary": "The widespread use of electronic patient portals to provide quick access to test results presents health care professionals with an important challenge: How should new cancer diagnoses be communicated?",
+        "title": "New oral heart failure drug appears to be safe and well tolerated in 58-patient early clinical trial",
+        "summary": "An early clinical study shows that a new oral drug is safe and well tolerated in patients with chronic heart failure. The study, led by researchers at Karolinska Institutet, has been published in The Lancet.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 24 Jun 2026 17:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-patients-cancer-doctors-portals-survey.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/patient-with-doctor-1.jpg",
+        "published_at": "Thu, 25 Jun 2026 14:20:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-oral-heart-failure-drug-safe.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2017/heart.jpg",
         "impact": 4
       },
       {
-        "title": "How zebrafish might be key to unlocking treatments for hereditary disease CADASIL",
-        "summary": "CADASIL, which stands for \"cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy,\" is a hereditary disease that damages the brain's small blood vessels, causing recurrent strokes. Over time, CADASIL leads to a decline in cognitive function and can progress to early-onset dementia, e",
+        "title": "Growing DRC Ebola outbreak has already spread to Uganda with high risk of reaching South Sudan",
+        "summary": "A rare strain of Ebola that began spreading undetected in eastern Democratic Republic of Congo (DRC) in early April 2026 has now confirmed transmission in Uganda and is potentially on course to reach South Sudan, according to a new modeling study from the World Health Organization (WHO) published in The Lancet Infectio",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 24 Jun 2026 16:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-zebrafish-key-treatments-hereditary-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-zebrafish-might-be.jpg",
+        "published_at": "Thu, 25 Jun 2026 18:30:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-drc-ebola-outbreak-uganda-high.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ebola.jpg",
+        "impact": 4
+      },
+      {
+        "title": "First potential probiotic treatment for lupus identified by researchers",
+        "summary": "Scientists at UT Health San Antonio, the academic health center of The University of Texas at San Antonio, have found a link between a bacterium in the gut microbiome (ecosystem) and lupus that could lead to more effective treatment of the disease, described in a study published in Nature Communications.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 25 Jun 2026 18:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-potential-probiotic-treatment-lupus.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/probiotics.jpg",
         "impact": 4
       }
     ],
@@ -232,15 +232,26 @@
     ],
     "space": [
       {
-        "title": "NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path",
-        "summary": "Seven&#160;weeks&#160;after&#160;the Orion spacecraft&#160;returned&#160;four&#160;astronauts from&#160;humanity’s&#160;first crewed journey around the Moon since Apollo,&#160;Artemis II&#160;Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how&#160;it is shaping NASA’s return to the",
+        "title": "A SpaceX rocket will slam into the moon this August. Will we be able to see it?",
+        "summary": "A spent SpaceX Falcon 9 upper stage is set to impact the moon this August, but experts aren't sure if the crash will be visible from Earth.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 24 Jun 2026 21:29:16 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc-7169-nef.jpg",
-        "impact": 5
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 25 Jun 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-slam-into-the-moon-this-august-will-we-be-able-to-see-it",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
+        "summary": "A SpaceX Falcon 9 rocket launched two dozen Starlink satellites to orbit from Vandenberg Space Force Base on Wednesday night (June 24).",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 24 Jun 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-17-45-launch-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/je94DFG5AuzEhgjByDWXvU-1280-80.jpg",
+        "impact": 4
       },
       {
         "title": "Rocket Lab launches US Space Force mission with less than 17 hours' notice — a new record",
@@ -254,28 +265,6 @@
         "impact": 4
       },
       {
-        "title": "NASA to Share Latest Moon Base Mission Progress",
-        "summary": "NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 24 Jun 2026 21:13:03 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img-2f4057.png",
-        "impact": 4
-      },
-      {
-        "title": "Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman",
-        "summary": "A new look at the heart of our Milky Way galaxy by Euclid, an ESA (European Space Agency) mission with NASA contributions, overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives astronomers a major jumpstart on a core Roman survey",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 24 Jun 2026 18:41:45 +0000",
-        "source_url": "https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/e-zoomable.jpg",
-        "impact": 4
-      },
-      {
         "title": "NASA's aging infrastructure can't handle Artemis launches without $1 billion in upgrades, watchdog warns",
         "summary": "NASA's plan to return astronauts to the moon and bolster a rapidly growing commercial space industry is facing an infrastructure obstacle.",
         "category": "Space",
@@ -284,6 +273,17 @@
         "published_at": "Wed, 24 Jun 2026 22:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/artemis/nasas-aging-infrastructure-cant-handle-artemis-launches-without-usd1-billion-in-upgrades-watchdog-warns",
         "image_url": "https://cdn.mos.cms.futurecdn.net/t5oQgWzjegmzua6vrMeVt3-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "ESA chief calls for greater European space autonomy as trust in US partnership erodes",
+        "summary": "The cancellation of Gateway and Mars Sample Return exposed just how dependent Europe's space ambitions are on U.S. decisions. ESA's director general says that has to change.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 24 Jun 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/esa-chief-calls-for-greater-european-space-autonomy-as-trust-in-us-partnership-erodes",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/rtTiSjAkCbmLsXPSvRK9gR-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "The Galaxy Living Too Fast",
+        "summary": "Twelve million light years away, a galaxy is living fast and burning bright, forging new stars ten times quicker than our own Milky Way in a frenzy that cannot possibly last. Now the James Webb Space Telescope has cut clean through its veil of dust to count an astonishing 16.5 million of its stars, one by one. So what ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 25 Jun 2026 06:00:33 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-galaxy-living-too-fast",
+        "image_url": "https://www.universetoday.com/article_images/weic2612a_20260625_060015.jpg",
+        "impact": 4
+      },
+      {
         "title": "Hubble Space Telescope images galaxy scientists thought was impossible to find",
         "summary": "A faraway galaxy has been caught blowing away the cosmic fog of hydrogen that filled the universe once upon a time.",
         "category": "Astronomy",
@@ -331,17 +342,6 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/into-the-void-investigating-the-heart-of-a-giant-elliptical-galaxy/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/NGC1316_2400x3000.jpg",
         "impact": 4
-      },
-      {
-        "title": "Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins",
-        "summary": "The most recent interstellar visitor was crisscrossing our galaxy for some 10 to 12 billion years before it came near the Sun. The post Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Mon, 22 Jun 2026 15:18:05 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-is-ancient/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/3I-ATLAS-Gemini-North-Aug-27-2025-S.webp",
-        "impact": 4
       }
     ],
     "architecture": [
@@ -357,60 +357,71 @@
         "impact": 5
       },
       {
-        "title": "Park Reimagines the Interiors of Milano Centrale, Mussolini's Fascist-Era Rail Monument",
-        "summary": "Milano Centrale is the main train station in northern Italy and the second-largest station in Italy behind Roma Termini. The building was officially opened on July 1, 1931, replacing the city's first central station, which opened in 1864. The construction was intended to showcase the power of then-Prime Minister Mussol",
+        "title": "\"I Don't Separate Architecture and Infrastructure\": Interview With Shohei Shigematsu on OMA's New Museum Addition",
+        "summary": "When the New Museum's original SANAA-designed building, a stack of shifted opaque boxes wrapped in a metal mesh skin, opened in 2007, it already seemed destined for some form of expansion to relieve the vertical pressure created by its constrained circulation and limited footprint. In March, the museum unveiled its lon",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 24 Jun 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042709/park-reimagines-the-interiors-of-milano-centrale-mussolinis-fascist-era-rail-monument",
-        "image_url": "https://images.adsttc.com/media/images/6a3a/e544/8576/0e01/8921/c1bb/large_jpg/milano-centrale_5.jpg?1782244756",
+        "published_at": "Thu, 25 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042708/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition",
+        "image_url": "https://images.adsttc.com/media/images/6a3a/e438/8576/0e01/8921/c1a6/large_jpg/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition_6.jpg?1782244424",
         "impact": 4
       },
       {
-        "title": "New Era Rural Community in Yongchun County / 3andwich Design / He Wei Studio",
-        "summary": "Project OriginIn 2019, in order to improve the housing conditions of farmers, meet their aspirations for a better life, and explore the possibility of building new Fujian style residential buildings, the Fujian Provincial Department of Housing and Urban Rural Development proposed the idea of building \"A New Era Rural C",
+        "title": "James Turrell's Skyspace and the Opening of the Obama Presidential Center: This Week’s Review",
+        "summary": "From projects and institutions that reinforce the relationship between art and architecture to initiatives seeking new approaches to persistent urban and ecological challenges, this week's developments reflect a broader effort to reconsider established frameworks and expand the role of design in contemporary society. W",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 24 Jun 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1001055/new-era-rural-community-in-yongchun-county-3andwich-design-he-wei-studio",
-        "image_url": "https://images.adsttc.com/media/images/6463/635f/8085/d358/c8da/7641/large_jpg/not-ready-new-era-rural-community-in-yongchun-county-3andwich-design-he-wei-studio_1.jpg?1684235114",
+        "published_at": "Thu, 25 Jun 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042752/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review",
+        "image_url": "https://images.adsttc.com/media/images/6a3c/b619/ddd9/3801/8a4a/407a/large_jpg/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review_38.jpg?1782363684",
         "impact": 4
       },
       {
-        "title": "The Ecological Intelligence of Sacred Landscapes",
-        "summary": "Architecture often speaks about ecological design as though it were a recent discovery. Biodiversity corridors, regenerative landscapes, sponge cities, and more-than-human urbanism are presented as emerging responses to contemporary environmental crises. Across India and the SWANA region, landscapes shaped through reli",
+        "title": "Barcelona Architecture City Guide: 30 Buildings and Places from Gaudí to Today",
+        "summary": "Barcelona is a city where architecture has long served as a laboratory of urban experimentation, each era leaving its mark on the city's fabric. From the dense streets of the Gothic Quarter to the ornate interiors of the Palau de la Música Catalana, the city expanded outward through Ildefons Cerdà's Eixample, a stage w",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 23 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
-        "image_url": "https://images.adsttc.com/media/images/6a33/6d35/6c38/4801/88c1/8173/large_jpg/the-ecological-intelligence-of-sacred-landscapes_2.jpg?1781755211",
+        "published_at": "Thu, 25 Jun 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/918881/23-amazing-places-in-barcelonas-best-architecture-city-guide",
+        "image_url": "https://images.adsttc.com/media/images/69b4/1b5b/3c49/4944/8bbc/761e/large_jpg/barcelona-architecture-city-guide-30-buildings-and-places-from-gaudi-to-today_34.jpg?1773411178",
         "impact": 4
       },
       {
-        "title": "RAMSA completes sensitive extension of New York Historical museum",
-        "summary": "Architecture studio Robert AM Stern Architects has completed an extension to the New York Historical museum in New York informed by the building's original design from the early 1900s. The Tang Wing for American Democracy (The Tang Wing) contains new galleries and exhibition spaces, and is affixed to the back of the ma",
+        "title": "Shand Road Townhouse / Ys Housing",
+        "summary": "Ys Housing's pilot project, Shand Road, refines medium-density infill housing in Melbourne's middle suburbs. Four two- and three-bedroom townhouses occupy a typical suburban block, testing a repeatable model for the 15-metre frontage lot type common in residential suburbs. The project prioritises design quality, enviro",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 23 Jun 2026 19:01:45 +0000",
-        "source_url": "https://www.dezeen.com/2026/06/23/tang-wing-american-democracy-new-york-city-ramsa/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 25 Jun 2026 03:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1040735/shand-road-ys-housing",
+        "image_url": "https://images.adsttc.com/media/images/69e0/e615/1afd/7001/8891/3c39/large_jpg/shand-road-ys-housing_1.jpg?1776346686",
         "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Infrastructure, data centers kept construction starts strong in May",
-        "summary": "Megaprojects drove sizable growth in groundbreaking activity over the month, said Sarah Martin, director of economic research at Dodge Construction Network.",
+        "title": "Infrastructure sector urged to bolster on‑site power as heatwave prompts grid concerns",
+        "summary": "Civil engineering and construction firms are being encouraged to reassess their on‑site power setups after an electricity margin alert highlighted the potential for tighter supplies of energy in the UK during spells of extreme heat. The post Infrastructure sector urged to bolster on‑site power as heatwave prompts grid ",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 25 Jun 2026 14:18:03 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/infrastructure-sector-urged-to-bolster-on%e2%80%91site-power-as-heatwave-prompts-grid-concerns-25-06-2026/",
+        "image_url": "https://picsum.photos/seed/constructionfallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "DOT earmarks $1.86B for infrastructure damaged by storms",
+        "summary": "More than $908 million will go toward Hurricane Helene recovery to help states repair roads, bridges, water systems and rail lines.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 22 Jun 2026 14:52:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/infrastructure-data-centers-construction-starts-strong-may/823424/",
-        "image_url": "https://imgproxy.divecdn.com/cvD3rcKgSVu8Jxfgp97_u8tiOinkJ8MmWLR1bgi_9P4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TU05fQWVyaWFsX1JlbmRlcmluZ18tX1VwZGF0ZWRfMTFTZXAyMDI1Xy5wbmc=.webp",
+        "published_at": "Thu, 25 Jun 2026 10:03:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/dot-infrastructure-damaged-storms-funds/823753/",
+        "image_url": "https://imgproxy.divecdn.com/bSbDS1ifka4zmx07iYFAyGRitT18rnx4AidXPJitjKE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA2MjI0ODYxLmpwZw==.webp",
         "impact": 4
       },
       {
@@ -436,18 +447,7 @@
         "impact": 4
       },
       {
-        "title": "Highs and lows: Inside construction of Dublin Airport’s ‘once-in-a-generation’ £270M North Runway",
-        "summary": "The 3,100m North Runway at Dublin Airport has provided a blueprint for aviation infrastructure delivery within budgetary and operational constraints, according to a key member of the scheme’s leadership. The post Highs and lows: Inside construction of Dublin Airport’s ‘once-in-a-generation’ £270M North Runway appeared ",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 24 Jun 2026 05:30:28 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/highs-and-lows-inside-construction-of-dublin-airports-once-in-a-generation-270m-north-runway-24-06-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/04/Dublin-airport-aerial-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Gilbane-Turner JV hands off $2.1B stadium to Buffalo Bills",
+        "title": "Gilbane-Turner JV hands off $2.1B NFL stadium to Buffalo Bills",
         "summary": "About 6,000 craft workers clocked nearly 5 million hours over the roughly 60,000-seat venue&rsquo;s three-year construction timeline. Now it&rsquo;s gameday ready.",
         "category": "Construction",
         "source": "constructiondive.com",
@@ -460,57 +460,57 @@
     ],
     "ai": [
       {
-        "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-        "summary": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or do",
+        "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
+        "summary": "arXiv:2606.24965v1 Announce Type: new Abstract: Reasoning about relational structures remains a significant challenge for neural models, particularly when they must systematically apply learned knowledge to problem instances that are harder than those seen in training. Progress is hampered by the difficulty of evaluati",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.23927",
+        "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.24965",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Critique of Agent Model",
-        "summary": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI e",
+        "title": "Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty",
+        "summary": "arXiv:2606.25198v1 Announce Type: new Abstract: Autonomous AI Research promises to accelerate the scientific progress of machine learning. To realise this goal, current Large Language Model (LLM)-based agents need to go beyond just writing code, to mastering the exploration of simultaneously performant, diverse and nov",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.23991",
+        "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.25198",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "LemonHarness Technical Report",
-        "summary": "arXiv:2606.24311v1 Announce Type: new Abstract: As large language model (LLM) agents are applied to longer tasks, they increasingly modify workspace state across multiple rounds of iteration. However, agents typically observe only tool outputs and log fragments, while the actual state changes occur in the file system. ",
+        "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+        "summary": "arXiv:2606.24937v1 Announce Type: new Abstract: The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, organized around a central thesis: building great agentic systems requires u",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.24311",
+        "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.24937",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "When Helpfulness Overrides Causal Caution: Context-Dependent Suppression and Recovery in LLMs",
-        "summary": "arXiv:2606.24370v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into decision-support roles in business and policy contexts. While prior benchmark studies have primarily evaluated LLMs' causal reasoning capabilities, a more fundamental epistemic dimension has been overlooked: Ca",
+        "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+        "summary": "arXiv:2606.25161v1 Announce Type: new Abstract: Large language model (LLM) agents rely on long-term memory to support extended interactions and personalized assistance beyond finite context windows. Existing memory agents actively update external memory through generated write, revise, and delete operations, but these ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.24370",
+        "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.25161",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Cycle-Consistent Neural Explanation of Formal Verification Certificates",
-        "summary": "arXiv:2606.24414v1 Announce Type: new Abstract: Formal verification produces machine-checkable certificates that attest to the satisfaction or violation of temporal properties, yet these certificates remain opaque to non-specialist stakeholders. We propose a cycle-consistent neural architecture that generates faithful ",
+        "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
+        "summary": "arXiv:2606.25358v1 Announce Type: new Abstract: Assessing financial literacy during gameplay without disrupting the learning experience remains a key challenge in serious games for education. We present the Agentic BKT pipeline, a multi-agent large language model architecture for stealth assessment of financial compete",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.24414",
+        "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2606.25358",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
