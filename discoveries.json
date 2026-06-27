@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "last_updated": "2026-06-27 00:03 UTC",
+  "last_updated": "2026-06-27 23:59 UTC",
   "categories": {
     "science": [
       {
@@ -48,14 +48,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists discover ancient brain cells that help block distractions",
-        "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen",
+        "title": "Scientists discover what triggers belly fat as we age",
+        "summary": "Aging may trigger the appearance of specialized stem cells that supercharge the body's ability to create new belly fat. The discovery reveals a potential biological driver of middle-age weight gain and a promising target for future anti-obesity treatments.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 24 Jun 2026 09:30:09 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/neuron-brain-cell-signal-transmission.webp",
+        "published_at": "Sat, 27 Jun 2026 14:54:36 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260624115133.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/heavy-woman-pinching-belly-fat.webp",
         "impact": 4
       }
     ],
@@ -118,58 +118,58 @@
     ],
     "medicine": [
       {
-        "title": "VR combined with nerve stimulation improves arm and hand function following a stroke",
-        "summary": "Researchers at the Medical University of Vienna and ETH Zurich have developed a rehabilitation platform for people suffering from the long-term effects of a stroke that combines virtual reality with targeted sensory nerve stimulation. In a randomized feasibility clinical study with stroke patients, recently published i",
+        "title": "Behavioral therapy can be just as effective as medication for Tourette syndrome, says researcher",
+        "summary": "Behavioral therapy is just as effective as medication for Tourette syndrome. This is the finding of doctoral research conducted by clinical psychologist Jolande van de Griendt, who will receive her Ph.D. from Radboud University on July 3, 2026. \"Medication is still often the first step in treating a tic disorder. But f",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 26 Jun 2026 10:20:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-vr-combined-nerve-arm-function.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/vr-combined-with-nerve-1.jpg",
+        "published_at": "Sat, 27 Jun 2026 18:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-behavioral-therapy-effective-medication-tourette.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/behavioral-therapy.jpg",
         "impact": 4
       },
       {
-        "title": "Age, hearing status linked to long-term outcomes in Meniere disease",
-        "summary": "For patients with Meniere disease (MD), age and baseline hearing status are associated with long-term hearing outcomes, according to a study published online May 16 in Acta Oto-Laryngologica.",
+        "title": "Multiple sclerosis impacts daily life far beyond its physical symptoms, new study finds",
+        "summary": "Multiple sclerosis (MS) can have a substantial impact on many aspects of life beyond physical health, with 51% of people reporting that the disease affects their social life and 48% reporting that it affects their work, according to new research presented at the European Academy of Neurology (EAN) Congress 2026.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 26 Jun 2026 15:40:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-age-status-linked-term-outcomes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/age-hearing-status-lin.jpg",
+        "published_at": "Sat, 27 Jun 2026 18:10:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-multiple-sclerosis-impacts-daily-life.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/multiple-sclerosis-1.jpg",
         "impact": 4
       },
       {
-        "title": "AI support tool improves clinician decisions in real-world primary care trial",
-        "summary": "A large real-world clinical trial has found that a generative AI-powered support tool used to support frontline clinicians was safe and improved the quality of clinical decision-making, but did not significantly change short-term patient outcomes.",
+        "title": "The danger of confusing AI mental health support with therapy",
+        "summary": "In a recent episode of British sitcom Amandaland, Anne Flynn turns to ChatGPT for help talking to her teenage son about sex. The episode frames this as \"The Chat\": the awkward parent-child conversation many adults dread.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 26 Jun 2026 13:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-ai-tool-clinician-decisions-real.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/medicaid.jpg",
+        "published_at": "Sat, 27 Jun 2026 17:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-danger-ai-mental-health-therapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapy-2.jpg",
         "impact": 4
       },
       {
-        "title": "Serious statin muscle side effects are rare for most people, new calculator shows",
-        "summary": "Researchers at the Nuffield Department of Primary Care Health Sciences, University of Oxford, have developed a new calculator that estimates a person's risk of developing serious muscle disorders from statins. The tool could help patients and clinicians make more informed decisions about using these widely prescribed m",
+        "title": "How YouTube shapes public understanding of avian influenza",
+        "summary": "A new study analyzing more than 11,000 YouTube videos and comments found that online narratives surrounding avian influenza evolved alongside major outbreak developments, including increasing reports of infections in mammals, sporadic human cases and economic consequences. While videos largely reflected scientific and ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 26 Jun 2026 12:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-statin-muscle-side-effects-rare.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/man-takes-a-pill.jpg",
+        "published_at": "Sat, 27 Jun 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-youtube-avian-influenza.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/youtube.jpg",
         "impact": 4
       },
       {
-        "title": "Faster aging, chronic disease linked to WTC responders with PTSD",
-        "summary": "Post-traumatic stress disorder (PTSD) remains a common condition affecting World Trade Center (WTC) responders 25 years after the attack on the Twin Towers. While the condition is considered mainly psychological, a new study sheds light on changes in the biological processes of WTC patients with PTSD that may explain w",
+        "title": "Hospital AI tool predicts low blood sugar in patients up to 24 hours in advance",
+        "summary": "Cedars-Sinai Health Sciences University investigators developed an AI-based model that can identify hospitalized patients at risk of low blood sugar up to 24 hours before the condition occurs. The long short-term memory (LSTM) model, described in npj Digital Medicine, could help clinicians intervene earlier and prevent",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 26 Jun 2026 12:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-faster-aging-chronic-disease-linked.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/911.jpg",
+        "published_at": "Sat, 27 Jun 2026 10:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-hospital-ai-tool-blood-sugar.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/hospital-bed-2.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,39 @@
     ],
     "space": [
       {
+        "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+        "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as [&#8",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 26 Jun 2026 18:44:07 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/cryocoupler-testing.png",
+        "impact": 4
+      },
+      {
+        "title": "NASA Identifies More Than 40 Space Technologies for Collaboration",
+        "summary": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating s",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 26 Jun 2026 15:37:58 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit",
+        "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions&#160;possible.&#160; The Expedition 73 Welcome Home Ceremony brought together members of NASA’s ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 25 Jun 2026 21:30:32 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/",
+        "image_url": "https://www.youtube.com/embed/BaDkHjfsOh8",
+        "impact": 4
+      },
+      {
         "title": "A SpaceX rocket will slam into the moon this August. Will we be able to see it?",
         "summary": "A spent SpaceX Falcon 9 upper stage is set to impact the moon this August, but experts aren't sure if the crash will be visible from Earth.",
         "category": "Space",
@@ -243,47 +276,14 @@
         "impact": 4
       },
       {
-        "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
-        "summary": "A SpaceX Falcon 9 rocket launched two dozen Starlink satellites to orbit from Vandenberg Space Force Base on Wednesday night (June 24).",
+        "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+        "summary": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 24 Jun 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-17-45-launch-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/je94DFG5AuzEhgjByDWXvU-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX's next Starship breathes fire for 1st time in prelaunch test (video)",
-        "summary": "About a month has passed since the first launch of SpaceX's \"Version 3\" Starship rocket, and the spaceflight company has already begun testing on its next such vehicle.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 26 Jun 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-breathes-fire-for-1st-time-in-prelaunch-test-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/dDL3NQds3LSs8q3pr435PQ-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "China plans to double the size of its Tiangong space station while the ISS nears its end",
-        "summary": "China plans to add three new modules to Tiangong along with a co-orbiting space telescope, as the ISS heads for a Pacific splashdown.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 26 Jun 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Wjr6XH6LRoffJxG5s9M485-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?",
-        "summary": "NASA's daring Swift Boost mission launches June 27 to save the nearly 22-year-old Swift observatory , which is being dragged out of space by Earth's atmosphere.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 26 Jun 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/vZKamuUeksWZ6RyPJUXGs9-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 26 Jun 2026 17:16:22 +0000",
+        "source_url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/launch-preview/NE201566_2611x1654.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-        "summary": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neural",
+        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+        "summary": "",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.26203",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "huggingface.co",
+        "journal": "huggingface.co",
+        "published_at": "Mon, 01 Jun 2026 13:51:18 GMT",
+        "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+        "image_url": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
+        "impact": 4
       },
       {
-        "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
-        "summary": "arXiv:2606.26346v1 Announce Type: new Abstract: Agentic benchmarks have emerged across general-purpose and domain-specific settings, including finance, coding, law, and drug discovery, yet energy-domain evaluations remain largely limited to static knowledge recall. This is a critical gap for a sector that requires live",
+        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+        "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring th",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.26346",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 19 Jun 2026 10:40:24 +0000",
+        "source_url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
-        "summary": "arXiv:2606.26519v1 Announce Type: new Abstract: Large language models (LLMs) can make scientific software easier to use. However, a general model does not automatically know which measurements a particular sensor can support, which algorithms are implemented in the current software, or which conclusions are justified b",
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.26519",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 26 Jun 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling",
-        "summary": "arXiv:2606.26578v1 Announce Type: new Abstract: Automating optimization modeling from natural language with large language models (LLMs) faces two key challenges. First, training corpora lack structural diversity. Second, data generation pipelines remain static and decoupled from model learning. To address these challe",
+        "title": "How agents are transforming work",
+        "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.26578",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 25 Jun 2026 02:00:00 GMT",
+        "source_url": "https://openai.com/index/how-agents-are-transforming-work",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3JAh8VK98LHki9m4sr8KIR/3580b8ab65aca167342a3c674847531e/SEO_Card__2_.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Content-Based Smart E-Mail Dispatcher Using Large Language Models",
-        "summary": "arXiv:2606.26593v1 Announce Type: new Abstract: Email communication has become an integral part of personal and professional life, but handling its vast volume is still a significant issue for large organisations. Manual perusal of emails and forwarding their contents and attachments to intended recipients using other ",
+        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+        "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2606.26593",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 24 Jun 2026 06:00:00 GMT",
+        "source_url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4DeZq8e24W4qgIrtAu4Xmg/54189176ae1c6150d94cac02fb104f79/openai-broadcom-jalapeno-inference-chip-image-16_9.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
