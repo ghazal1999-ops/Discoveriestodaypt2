@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-27",
-  "last_updated": "2026-06-27 23:59 UTC",
+  "date": "2026-06-29",
+  "last_updated": "2026-06-29 00:05 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Tue, 23 Jun 2026 10:31:51 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/holstein-cow-with-ear-tags-on-pasture-looking.webp",
+        "impact": 5
+      },
+      {
+        "title": "The sun's outbursts may briefly weaken rain and snow events across North America",
+        "summary": "For decades, scientists have searched for a clear link between the sun's explosive storms and the weather that occurs on Earth. A breakthrough study from the University of New Hampshire reveals that in the hours and days following a solar storm, parts of North America can see sharp changes in the weather—such as declin",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Sun, 28 Jun 2026 10:00:04 EDT",
+        "source_url": "https://phys.org/news/2026-06-sun-outbursts-briefly-weaken-events.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/precipitation.jpg",
         "impact": 5
       },
       {
@@ -34,17 +45,6 @@
         "published_at": "Wed, 24 Jun 2026 05:12:51 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/primeval-caveman-with-fire-torch-exploring-cave.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Turn Ordinary Sunlight Into UV Light in Major Energy Breakthrough",
-        "summary": "Sunlight just got an upgrade: Scientists have developed a material that converts ordinary sunshine into UV light, opening new possibilities for solar-powered technologies. Imagine pouring two cups of warm water together and expecting to get one cup of boiling water. That is impossible in everyday life, but something si",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Thu, 25 Jun 2026 16:14:36 +0000",
-        "source_url": "https://scitechdaily.com/scientists-turn-ordinary-sunlight-into-uv-light-in-major-energy-breakthrough/",
-        "image_url": "https://scitechdaily.com/images/Solid-State-Harvesting-UV-Light-From-Sunlight-777x438.jpg",
         "impact": 5
       },
       {
@@ -118,6 +118,28 @@
     ],
     "medicine": [
       {
+        "title": "Researchers discover a cause of neuron excitability in ALS, suggesting a new potential treatment",
+        "summary": "Digging deep into the molecular mechanisms behind ALS, researchers at the Les Turner ALS Center at Northwestern Medicine have discovered why nerve cells overfire in the disease. Not only that—they have also designed a new drug to stop this overfiring, which could potentially slow or stop the disease from progressing.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 28 Jun 2026 17:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-neuron-als-potential-treatment.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-c.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Scientists uncover how ovarian cancer resists chemotherapy—and how to reverse it",
+        "summary": "Michigan State University researchers have identified how ovarian cancer cells become resistant to chemotherapy and discovered a protein that, when blocked, can restore the drug's effectiveness.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 28 Jun 2026 14:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-06-scientists-uncover-ovarian-cancer-resists.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-how-6.jpg",
+        "impact": 4
+      },
+      {
         "title": "Behavioral therapy can be just as effective as medication for Tourette syndrome, says researcher",
         "summary": "Behavioral therapy is just as effective as medication for Tourette syndrome. This is the finding of doctoral research conducted by clinical psychologist Jolande van de Griendt, who will receive her Ph.D. from Radboud University on July 3, 2026. \"Medication is still often the first step in treating a tic disorder. But f",
         "category": "Medicine",
@@ -148,28 +170,6 @@
         "published_at": "Sat, 27 Jun 2026 17:00:05 EDT",
         "source_url": "https://medicalxpress.com/news/2026-06-danger-ai-mental-health-therapy.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapy-2.jpg",
-        "impact": 4
-      },
-      {
-        "title": "How YouTube shapes public understanding of avian influenza",
-        "summary": "A new study analyzing more than 11,000 YouTube videos and comments found that online narratives surrounding avian influenza evolved alongside major outbreak developments, including increasing reports of infections in mammals, sporadic human cases and economic consequences. While videos largely reflected scientific and ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 27 Jun 2026 17:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-youtube-avian-influenza.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/youtube.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Hospital AI tool predicts low blood sugar in patients up to 24 hours in advance",
-        "summary": "Cedars-Sinai Health Sciences University investigators developed an AI-based model that can identify hospitalized patients at risk of low blood sugar up to 24 hours before the condition occurs. The long short-term memory (LSTM) model, described in npj Digital Medicine, could help clinicians intervene earlier and prevent",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 27 Jun 2026 10:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-06-hospital-ai-tool-blood-sugar.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/hospital-bed-2.jpg",
         "impact": 4
       }
     ],
@@ -232,36 +232,14 @@
     ],
     "space": [
       {
-        "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
-        "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as [&#8",
+        "title": "SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video)",
+        "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 28, 2026.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 26 Jun 2026 18:44:07 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/cryocoupler-testing.png",
-        "impact": 4
-      },
-      {
-        "title": "NASA Identifies More Than 40 Space Technologies for Collaboration",
-        "summary": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating s",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 26 Jun 2026 15:37:58 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit",
-        "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions&#160;possible.&#160; The Expedition 73 Welcome Home Ceremony brought together members of NASA’s ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 25 Jun 2026 21:30:32 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/",
-        "image_url": "https://www.youtube.com/embed/BaDkHjfsOh8",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 28 Jun 2026 16:21:56 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/X6km9cttDDn8yJq28PBmme-1280-80.jpg",
         "impact": 4
       },
       {
@@ -276,14 +254,36 @@
         "impact": 4
       },
       {
-        "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
-        "summary": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
+        "title": "Watch China's Tiangong space station cross the moon in stunning amateur footage",
+        "summary": "The Tiangong space station approaches Tycho Crater in stunning amateur transit footage.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 26 Jun 2026 17:16:22 +0000",
-        "source_url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/launch-preview/NE201566_2611x1654.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 28 Jun 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/astrophotography/watch-chinas-tiangong-space-station-cross-the-moon-in-stunning-amateur-footage",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Fb6gkudyqkmLncD72ZAcQ-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Watch SpaceX launch 15,000-pound SiriusXM satellite to orbit tonight",
+        "summary": "SpaceX will launch a big SiriusXM radio satellite to orbit from Florida's Space Coast tonight (June 28), and you can watch the action live.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 28 Jun 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/YEufFNenruzGnAM2P8r5Ve-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX's next Starship breathes fire for 1st time in prelaunch test (video)",
+        "summary": "About a month has passed since the first launch of SpaceX's \"Version 3\" Starship rocket, and the spaceflight company has already begun testing on its next such vehicle.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 26 Jun 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-breathes-fire-for-1st-time-in-prelaunch-test-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/dDL3NQds3LSs8q3pr435PQ-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -357,6 +357,39 @@
         "impact": 5
       },
       {
+        "title": "YP Building / Simplex Architecture",
+        "summary": "Located at 1697-38 Seocho-dong in Seoul, the YP Building sits at the interface between an existing apartment complex to the east and a narrow 4-meter-wide street, where future road expansion is anticipated as part of a district unit plan associated with the reconstruction of the adjacent residential development. Positi",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 28 Jun 2026 17:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042818/yp-building-simplex-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a41/2bb0/0789/c600/018c/2637/large_jpg/1856_Kyungsub_Shin_e_s.jpg?1782656100",
+        "impact": 4
+      },
+      {
+        "title": "Estero Residences + Gamba café / Barde + vanVoltt",
+        "summary": "Located in the historic center of San José del Cabo, Estero Residences and Gamba Café is a boutique mixed-use development that combines six residences, a café, retail spaces, and shared amenities within a compact urban footprint. Developed by Oeste Works and designed by Barde vanVoltt in collaboration with local archit",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 28 Jun 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042677/estero-residences-plus-gamba-cafe-barde-plus-vanvoltt",
+        "image_url": "https://images.adsttc.com/media/images/6a3a/35d8/54d7/6a00/01cc/69c7/large_jpg/_CKZ7040_lr.jpg?1782199901",
+        "impact": 4
+      },
+      {
+        "title": "The Ecological Intelligence of Sacred Landscapes",
+        "summary": "Architecture often speaks about ecological design as though it were a recent discovery. Biodiversity corridors, regenerative landscapes, sponge cities, and more-than-human urbanism are presented as emerging responses to contemporary environmental crises. Across India and the SWANA region, landscapes shaped through reli",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 28 Jun 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
+        "image_url": "https://images.adsttc.com/media/images/6a33/6d35/6c38/4801/88c1/8173/large_jpg/the-ecological-intelligence-of-sacred-landscapes_2.jpg?1781755211",
+        "impact": 4
+      },
+      {
         "title": "Island Crest / ONOMA Architecture",
         "summary": "The story of Island Crest is rooted in commitment, preservation, and the decision to thoughtfully re-envision good bones. When the new owners discovered a 1958 home on Mercer Island, they were immediately drawn to its history and character. The couple fell for the building's midcentury design, Pacific Northwest craftsm",
         "category": "Architecture",
@@ -365,39 +398,6 @@
         "published_at": "Fri, 26 Jun 2026 10:00:00 +0000",
         "source_url": "https://www.archdaily.com/1042770/island-crest-onoma-architecture",
         "image_url": "https://images.adsttc.com/media/images/6a3d/71ba/8385/1500/01fa/e38e/large_jpg/ONOMA-Crest-25.jpg?1782411922",
-        "impact": 4
-      },
-      {
-        "title": "Rewilding the City: 6 Unbuilt Projects from the ArchDaily Community",
-        "summary": "In the current context of rapid urban environmental changes, such as heatwaves and droughts, new priorities are emerging in the design of public spaces. \"Rewilding\" refers to the practice of restoring self-sustaining ecosystems through the reintroduction of biodiversity, implementing strategies to reverse the effects o",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 26 Jun 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community",
-        "image_url": "https://images.adsttc.com/media/images/6a3c/3d7e/8576/0e01/8921/c8da/large_jpg/unbuilt_19.jpg?1782332823",
-        "impact": 4
-      },
-      {
-        "title": "Snøhetta Reimagines Aino and Alvar Aalto's Paimio Sanatorium as a Wellness and Cultural Destination",
-        "summary": "Aino and Alvar Aalto's Paimio Sanatorium is a recognized example of modern architecture for healing, representing a patient-centered approach to hygienism that treated the building itself as a medical instrument. Built between 1929 and 1933, it was designed as a nature-oriented tuberculosis sanatorium, later used as a ",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 26 Jun 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042779/snohetta-reimagines-aino-and-alvar-aaltos-paimio-sanatorium-as-a-wellness-and-cultural-destination",
-        "image_url": "https://images.adsttc.com/media/images/6a3d/a1c0/ddd9/3801/8a4a/451b/large_jpg/paimio-sanatorium_7.jpg?1782424048",
-        "impact": 4
-      },
-      {
-        "title": "Representation as Argument: Lyndon Neri on What Juries Look for in Architecture Competitions",
-        "summary": "In an industry defined by building codes, climate urgency, and the pressures of the real estate market, the architectural competition has quietly become one of the discipline's most generative spaces. Unburdened by budgets, clients, or city regulations, competition entries allow architects to think at the edge of what ",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 26 Jun 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042630/representation-as-argument-lyndon-neri-on-what-juries-look-for-in-architecture-competitions",
-        "image_url": "https://images.adsttc.com/media/images/6a3c/1119/6c38/4816/a744/2b68/large_jpg/representation-as-argument-lyndon-neri-on-what-juries-look-for-in-architecture-competitions_13.jpg?1782321461",
         "impact": 4
       }
     ],
