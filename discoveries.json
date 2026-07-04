@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-03",
-  "last_updated": "2026-07-03 00:03 UTC",
+  "date": "2026-07-04",
+  "last_updated": "2026-07-04 00:03 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Tue, 30 Jun 2026 22:45:39 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
+        "summary": "Researchers have created quantum control techniques that can make a system appear to run backward in time. By precisely managing quantum measurements, they can reshape the system's arrow of time and even harvest energy from the measurement process itself. The breakthrough could lead to more powerful quantum computers, ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 03 Jul 2026 05:34:54 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/time-mirror-wormhole-astrophysics.webp",
         "impact": 5
       },
       {
@@ -46,17 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
         "impact": 5
-      },
-      {
-        "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
-        "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of evidence slowly come toget",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 25 Jun 2026 03:41:52 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/temple-of-artemis-and-acropolis-in-sardis.webp",
-        "impact": 5
       }
     ],
     "tech": [
@@ -70,6 +70,17 @@
         "source_url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
         "impact": 4
+      },
+      {
+        "title": "The Dune keypad device can be your meeting controller and more",
+        "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 03 Jul 2026 18:28:30 +0000",
+        "source_url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?resize=1200,675",
+        "impact": 3
       },
       {
         "title": "Anthropic is discussing a new custom chip with Samsung",
@@ -94,82 +105,71 @@
         "impact": 3
       },
       {
-        "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-        "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
+        "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
+        "summary": "Thanks to the AI-driven chip shortage, prices for phones, computers, and consoles are sky-high—and still climbing.",
         "category": "Tech",
         "source": "wired.com",
         "journal": "wired.com",
-        "published_at": "Wed, 01 Jul 2026 11:38:00 +0000",
-        "source_url": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
-        "image_url": "https://media.wired.com/photos/69d4403d94490f13c636bd21/191:100/w_1280,c_limit/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg",
-        "impact": 3
-      },
-      {
-        "title": "The Download: a startup has a solution for AI’s groupthink problem",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number be",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 02 Jul 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
+        "published_at": "Fri, 03 Jul 2026 11:00:00 +0000",
+        "source_url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
+        "image_url": "https://media.wired.com/photos/6a459359c28e761b85a7ec73/191:100/w_1280,c_limit/gear_product_price_GettyImages-2281531744.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "New drug unlocks elusive immune receptor, opening path toward motor neuron disease treatments",
-        "summary": "University of Queensland researchers have developed a drug that activates a hard-to-target immune receptor—a breakthrough that could lead to new treatments for neurodegenerative conditions like motor neuron disease (MND).",
+        "title": "AI tool improves prediction of who will respond to cancer immunotherapy drugs",
+        "summary": "Cancer immunotherapy drugs known as immune checkpoint inhibitors (ICIs) can be miracle drugs for cancer patients, curing some and turning deadly disease into a manageable chronic condition in others. But these drugs work for only a subset of patients, with few indications why—a knowledge gap that has detrimental effect",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 02 Jul 2026 17:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-drug-elusive-immune-receptor-path.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/advancement-in-search.jpg",
+        "published_at": "Fri, 03 Jul 2026 11:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-ai-tool-cancer-immunotherapy-drugs.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-tool-improves-predi-1.jpg",
         "impact": 5
       },
       {
-        "title": "'Polypill' for heart failure cuts hospitalizations and ER visits by 60% in trial",
-        "summary": "A \"polypill\" combining three medications recommended to treat heart failure into a single daily dose proved far more effective for patients than taking the drugs separately, a randomized clinical trial led by UT Southwestern Medical Center researchers showed. The findings, published in Nature Medicine, could lead to ne",
+        "title": "New adenomyosis atlas reveals lesion-specific signals that may spare healthy uterine tissue",
+        "summary": "Researchers at the University of Liverpool have identified distinctive biological characteristics within adenomyosis lesions that could help pave the way for more targeted, less invasive treatments. The findings from a team based in Professor Dharani Hapangama's gynecology research group at the university provide new i",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 02 Jul 2026 13:20:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-polypill-heart-failure-hospitalizations-er.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/medication-in-hand-1.jpg",
+        "published_at": "Fri, 03 Jul 2026 18:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-adenomyosis-atlas-reveals-lesion-specific.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/period-pain.jpg",
         "impact": 4
       },
       {
-        "title": "Biomarker-matched drug combos shrink treatment-resistant melanoma in preclinical models",
-        "summary": "A new study led by researchers at The University of Texas MD Anderson Cancer Center has identified a way to tailor drug combinations based on specific tumor biology to improve outcomes for treatment-resistant advanced melanoma.",
+        "title": "New tumor map identifies high-risk B-cell lymphoma standard therapy may miss",
+        "summary": "Researchers led by Universitätsmedizin Frankfurt and Goethe University Frankfurt have identified how particularly aggressive forms of lymphoma can be recognized. By combining genetic and proteomic analyses, the scientists identified biological characteristics of tumors, particularly in high-risk patients for whom stand",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 02 Jul 2026 16:40:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-biomarker-drug-combos-treatment-resistant.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/biomarker-guided-drug.jpg",
+        "published_at": "Fri, 03 Jul 2026 11:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-tumor-high-cell-lymphoma-standard.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/b-cell-lymphoma-cause-1.jpg",
         "impact": 4
       },
       {
-        "title": "Two prostate cancer mutations reveal opposite responses to ferroptosis therapy",
-        "summary": "A new study by researchers at The University of Texas MD Anderson Cancer Center has identified genetic factors that determine whether prostate cancers are susceptible to a type of cell death known as ferroptosis. These findings, published in Nature Communications, could help guide treatment strategies for patients whos",
+        "title": "Patients in Hawai'i spent $230M+ on out-of-state cancer care in 2021–2023, study finds",
+        "summary": "A new study led by researchers at the University of Hawaiʻi Cancer Center found that at least $230 million was spent on cancer care delivered outside Hawaiʻi between 2021 and 2023, highlighting the significant financial impact of geographic isolation on patients and the health care system.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 02 Jul 2026 15:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-prostate-cancer-mutations-reveal-responses.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/prostate-cancer-2.jpg",
+        "published_at": "Fri, 03 Jul 2026 10:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-patients-hawaii-spent-230m-state.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/medical-cost-1.jpg",
         "impact": 4
       },
       {
-        "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-        "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
+        "title": "Digital diabetes tool shown to improve patient care and cut health care costs",
+        "summary": "A new study by University of Manchester researchers has linked a digital platform helping people manage type 2 diabetes to better blood sugar control, improved health and potential long-term NHS cost savings. MyWay Diabetes, an NHS-supported online platform and app—which lets users view their diabetes health records, t",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 30 Jun 2026 03:21:06 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 03 Jul 2026 09:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-digital-diabetes-tool-shown-patient.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/6-diabetes.jpg",
         "impact": 4
       }
     ],
@@ -232,15 +232,48 @@
     ],
     "space": [
       {
-        "title": "Rocket issue delays NASA launch of rescue mission to save Swift space telescope",
-        "summary": "Northrop Grumman has delayed the launch of its Pegasus XL rocket on a mission to save NASA's SWIFT space telescope from falling out of orbit.",
+        "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
+        "summary": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected duri",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 01 Jul 2026 16:15:14 +0000",
+        "source_url": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/mmea.png",
+        "impact": 5
+      },
+      {
+        "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
+        "summary": "A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean. A robotic servicing spacecraft called LINK, buil",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 01 Jul 2026 15:20:29 +0000",
+        "source_url": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/gsfc-20260616-swiftboost-001.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA’s Artemis II Breaks Agency Streaming Record",
+        "summary": "NASA’s live coverage of the Artemis II mission mission&#160;drew unprecedented&#160;public&#160;interest&#160;– including&#160;more than&#160;149.4&#160;million views&#160;of&#160;the launch, lunar flyby, splashdown&#160;on&#160;NASA-owned&#160;platforms, including the 24/7 streams covering the mission and the Orion sp",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 02 Jul 2026 18:02:21 +0000",
+        "source_url": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/55193772552-b8cfb47b7e-o.jpg",
+        "impact": 4
+      },
+      {
+        "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
+        "summary": "A U.S. Space Force mission pitting two satellites against each other has completed the organization's first tactical intercept of an orbital target.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 29 Jun 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/WgMWbjBWVReuBYGSBLYp6P-1280-80.jpg",
-        "impact": 5
+        "published_at": "Fri, 03 Jul 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/N7zCZnvtwhDuE8s737gBeL-1280-80.jpg",
+        "impact": 4
       },
       {
         "title": "'Flying saucer' arrives at NASA for Artemis 3 moon mission in time for World UFO Day | Space photo of the day for July 2, 2026",
@@ -251,39 +284,6 @@
         "published_at": "Thu, 02 Jul 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/human-spaceflight/flying-saucer-arrives-at-nasa-for-artemis-3-moon-mission-space-photo-of-the-day-for-july-2-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/hQYA5XXJc9jWWNSp5wLKgD-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "'Rocket's Red Glare': How NASA's Artemis 2 moon mission celebrated America's 250th birthday",
-        "summary": "NASA joined in the semiquincentennial celebrations this year by painting \"America 250\" on the rocket that launched the Artemis 2 astronauts around the moon.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 01 Jul 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/CgozgqbhXxDJDsHBDZYGvY-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "'PROMISE' me the moon? NASA wants to send spare nuclear-powered Mars rover to the lunar surface",
-        "summary": "NASA has announced new lunar landing contracts for its Artemis Moon Base program, as well as a potential new moon rover mission named PROMISE.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 30 Jun 2026 21:25:26 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/promise-me-the-moon-nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-lunar-surface",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ivDHxGF9YtvnvQvG87R7Ae-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites from California",
-        "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites launched from Vandenberg Space Force Base in California on Wednesday, July 1, 2026.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 02 Jul 2026 22:32:50 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/omrAvhRd3fNFuBAZeMh3Ef-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -322,14 +322,14 @@
         "impact": 4
       },
       {
-        "title": "The \"Shadow Blaster\" Galaxy's Role in High-energy Cosmic Neutrinos",
-        "summary": "On September 22, 2021, the IceCube Neutrino Detector in Antarctica caught a blast of neutrinos as it passed through the solar system. These neutrinos were remarkably high-energy and came from a galaxy 11 billion light-years away. That's a period of the Universe's history known as \"Cosmic Noon\". It's when star formation",
+        "title": "Infant stars celebrate their independence with cosmic fireworks| Space photo of the day for July 3, 2026",
+        "summary": "Infant stars celebrate their independence with cosmic fireworks in a stunning new image from the James Webb Space Telescope.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 29 Jun 2026 21:03:26 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-shadow-blaster-galaxys-role-in-high-energy-cosmic-neutrinos",
-        "image_url": "https://www.universetoday.com/article_images/Fig00-668x376_1_20260629_204043.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 03 Jul 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/galaxies/infant-stars-celebrate-their-independence-with-cosmic-fireworks-space-photo-of-the-day-for-july-3-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/2CtTZvXsQnoQV7X2uTd8Kh-1280-80.png",
         "impact": 4
       },
       {
@@ -346,36 +346,36 @@
     ],
     "architecture": [
       {
-        "title": "Dreaming in the Ruins: How a Sleeping Ritual in Logroño Proposes a New Civic Architecture",
-        "summary": "Cities are increasingly designed to mitigate risk, and by doing so, need to collect data on climate, infrastructure, biodiversity, and social fragmentation so that the language of resilience becomes a fixture of planning. Yet the underlying conditions that produce polarization, civic disengagement, and ecological break",
+        "title": "Sharjah Architecture Triennial Announces Participants and Opening Dates for Third Edition",
+        "summary": "The third edition of the Sharjah Architecture Triennial (SAT03) will take place from November 14, 2026, to April 14, 2027, under the title Architecture Otherwise: Building Civic Infrastructure for Collective Futures. Curated by anthropologist and curator Vyjayanthi Rao, with Tau Tavengwa serving as Associate Curator, t",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 02 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042854/dreaming-in-the-ruins-how-a-sleeping-ritual-in-logrono-proposes-a-new-civic-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6a42/c009/8481/2b01/8af5/11a4/large_jpg/rituals-and-ecologies-in-civic-infrastructure-lessons-from-one-third-of-life-at-concentrico-2026_1.jpg?1782759456",
+        "published_at": "Fri, 03 Jul 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1043001/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition",
+        "image_url": "https://images.adsttc.com/media/images/6a47/7d1c/de7f/3c01/8757/2a10/large_jpg/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition_1.jpg?1783070027",
+        "impact": 5
+      },
+      {
+        "title": "BIG arranges circular Dymak HQ around stepped courtyard",
+        "summary": "Architecture studio BIG has completed the headquarters for Danish material supplier Dymak in Odense, Denmark, sheltering its rounded mass-timber structure with a roof evoking a Möbius strip. Perched on a verdant site overlooking the city's Glisholm Lake, the 2,800-square-metre circular building combines offices and sho",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 03 Jul 2026 10:30:17 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/03/big-dymak-headquarters-denmark/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "UIA World Congress 2026 and Henning Larsen's New Environmental Analysis Platform: This Week's Review",
-        "summary": "Recent events highlighted the many ways architecture responds to changing environmental, social, and cultural conditions. Major earthquakes in Venezuela, Japan, and Northern California renewed attention to the role of planning, infrastructure, and building practices in shaping resilience to natural hazards. As these qu",
+        "title": "Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick",
+        "summary": "Architecture studio Cubo has unveiled the Kornmarken Campus manufacturing innovation centre as the latest building on the Lego campus in Denmark. Located in Billund, near Lego's headquarters and the BIG-designed Lego House, the hybrid mass-timber and concrete building contains the toy brand's innovation and manufacturi",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 02 Jul 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042955/uia-world-congress-2026-and-henning-larsens-new-environmental-analysis-platform-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6a46/2d58/cbaa/8c01/8a6e/d4e2/large_jpg/uia-world-congress-2026-and-henning-larsens-new-environmental-analysis-platform-this-weeks-review_8.jpg?1782984078",
-        "impact": 4
-      },
-      {
-        "title": "Primus Office Building / Sanjay Puri Architects",
-        "summary": "The Primus is a nine-level, climate-responsive office building in Jaipur, India, composed of a series of capsule-shaped modules stacked vertically to create a breathable and environmentally conscious workspace. Located adjacent to Jaipur Airport, the project was subject to a strict height restriction of 30 metres. To m",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 02 Jul 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042940/primus-office-building-sanjay-puri-architects",
-        "image_url": "https://images.adsttc.com/media/images/6a45/2ab7/bdfc/1a01/8a6a/3bbf/large_jpg/primus-office-building-sanjay-puri-architects_3.jpg?1782917864",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 03 Jul 2026 08:00:22 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/03/lego-kornmarken-campus-cubo-arkitekter/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -425,28 +425,6 @@
         "impact": 4
       },
       {
-        "title": "BCIA shortlist revealed",
-        "summary": "The shortlist for this year’s British Construction &amp; Infrastructure Awards (BCIAs) has been revealed. The post BCIA shortlist revealed appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 02 Jul 2026 15:01:01 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/bcia-shortlist-revealed-2-02-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/emap_BCIA2025-26-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Arcadis delivers net zero carbon station at Cambridge South",
-        "summary": "Design, engineering and consultancy firm Arcadis has announced the completion of Cambridge South train station, what it calls a “landmark net zero carbon railway station”. The post Arcadis delivers net zero carbon station at Cambridge South appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 01 Jul 2026 14:12:20 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/arcadis-delivers-net-zero-carbon-station-at-cambridge-south-01-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/cambridge-south-station-560x315.jpg",
-        "impact": 4
-      },
-      {
         "title": "Private construction spending slid in May",
         "summary": "Outside of the data center boom, spending on private projects weakened again, especially in the warehouse and office markets, according to ABC analysis of U.S. Census Bureau data.",
         "category": "Construction",
@@ -456,61 +434,83 @@
         "source_url": "https://www.constructiondive.com/news/private-construction-spending-slid-in-may/824325/",
         "image_url": "https://imgproxy.divecdn.com/PEO_4A-PMMwqKntUjVEWgKLq7dykK24NUL5jK15rzJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0MjI3Mjk3LmpwZw==.webp",
         "impact": 3
+      },
+      {
+        "title": "Terrazzo joints and rugby: One Gilbane exec details her construction journey",
+        "summary": "Maggie Reed, the business unit leader for Gilbane Building&rsquo;s Richmond, Virginia, office, says resilience is key to breaking into the trades.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 02 Jul 2026 08:33:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/rugby-resilience-gilbane-exec-construction-maggie-reed/824141/",
+        "image_url": "https://imgproxy.divecdn.com/2AQYKHVEPn8G-PtPFjW0W1huajqLfJCqyMRdZyorDyw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTE5NTQxMDg5MF80MWRkNzA5YTY1X2JfMS5qcGc=.webp",
+        "impact": 3
+      },
+      {
+        "title": "Construction job openings hit 10-month high in May",
+        "summary": "The increase, paired with the industry&rsquo;s layoff and hiring rate, shows an uneven environment for labor demand, economists said.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 01 Jul 2026 09:38:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-job-openings-layoffs-labor-demand/824190/",
+        "image_url": "https://imgproxy.divecdn.com/v1OVDaFHKFqVhY7bvHk1wMUOU7R2N423HQfqy2qoBJw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxNzk4NTA5LmpwZw==.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
-        "summary": "arXiv:2607.00147v1 Announce Type: new Abstract: Rare disease differential diagnosis is a critical yet arduous clinical task, requiring physicians to identify precise phenotypes from complex, unstructured patient symptoms and execute intricate reasoning within a vast search space. However, existing AI approaches typical",
+        "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+        "summary": "arXiv:2607.01584v1 Announce Type: new Abstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds hypothesis generation directly in the NASA ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.00147",
+        "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.01584",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
-        "summary": "arXiv:2607.00269v1 Announce Type: new Abstract: LLMs, solvers, and agent teams increasingly generate workflow actions, repairs, and plans, but a generated action may be syntactically valid yet stale, infeasible, conflicting, or destructive of the evidence that triggered a repair. We introduce Agentic Transaction Proces",
+        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+        "summary": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible r",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.00269",
+        "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.01306",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AGI Maze as a Benchmark Framework for World-Modeling Agents",
-        "summary": "arXiv:2607.00627v1 Announce Type: new Abstract: Large language models (LLMs) are powerful pattern-completion systems, but their default operating mode - predicting the next token from a static context - does not reliably produce persistent, manipulable representations of an external world. Many tasks that look like \"re",
+        "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
+        "summary": "arXiv:2607.01531v1 Announce Type: new Abstract: Learning how an environment behaves from interaction is central to building agents that adapt to unfamiliar tasks. World models learned with deep networks are flexible but data-hungry and transfer poorly beyond their training distribution. Program-synthesized world models",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.00627",
+        "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.01531",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Agentic generation of verifiable rules for deterministic, self-expanding reaction classification",
-        "summary": "arXiv:2607.01061v1 Announce Type: new Abstract: Computer-assisted synthesis planning breaks target molecules into accessible precursors using large libraries of reaction rules that assign each transformation a deterministic, interpretable label. But chemistry is long-tailed, making manual encoding intractable, and exis",
+        "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
+        "summary": "arXiv:2607.01590v1 Announce Type: new Abstract: Developing high-performance kernels for Neural Processing Units (NPUs) is a critical industry bottleneck, requiring developers to manually navigate implicit hardware constraints and strict memory hierarchies. While large language models offer immense automation potential,",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.01061",
+        "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.01590",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use",
-        "summary": "arXiv:2607.01084v1 Announce Type: new Abstract: While Large Language Model (LLM) agents demonstrate proficiency in static benchmarks, their deployment in real-world scenarios is hindered by the dynamic nature of user queries, tool sets, and interaction dynamics. To address this generalization gap, we formalize OpenAgen",
+        "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
+        "summary": "arXiv:2607.01595v1 Announce Type: new Abstract: As the scale and complexity of cloud-based AI systems continue to escalate, ensuring service reliability through rapid fault detection and adaptive recovery has become a critical challenge. While existing approaches integrate Large Language Models (LLMs) for semantic unde",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.01084",
+        "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.01595",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
