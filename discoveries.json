@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05",
-  "last_updated": "2026-07-05 00:00 UTC",
+  "date": "2026-07-06",
+  "last_updated": "2026-07-06 00:03 UTC",
   "categories": {
     "science": [
       {
@@ -26,14 +26,14 @@
         "impact": 5
       },
       {
-        "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
-        "summary": "A surprising discovery is overturning a long-held assumption about how the brain’s movement center works. Researchers found that two key cerebellar cell types—thought to be tightly linked—often don’t behave in predictable ways, even though one directly influences the other. The finding suggests scientists may have been",
+        "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+        "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 01 Jul 2026 15:10:06 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260623014004.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/purkinje-cell-activity.webp",
+        "published_at": "Sun, 05 Jul 2026 14:13:44 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp",
         "impact": 5
       },
       {
@@ -94,25 +94,25 @@
         "impact": 3
       },
       {
-        "title": "Anthropic is discussing a new custom chip with Samsung",
-        "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+        "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
+        "summary": "Thanks to the AI-driven chip shortage, prices for phones, computers, and consoles are sky-high—and still climbing.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 02 Jul 2026 18:31:09 +0000",
-        "source_url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 03 Jul 2026 11:00:00 +0000",
+        "source_url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
+        "image_url": "https://media.wired.com/photos/6a459359c28e761b85a7ec73/191:100/w_1280,c_limit/gear_product_price_GettyImages-2281531744.jpg",
         "impact": 3
       },
       {
-        "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
-        "summary": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.",
+        "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+        "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains&#8",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 02 Jul 2026 17:30:04 +0000",
-        "source_url": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?resize=1200,675",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 03 Jul 2026 17:34:37 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-1849342868_6fd97e.jpg?resize=1200,600",
         "impact": 3
       }
     ],
@@ -140,6 +140,17 @@
         "impact": 4
       },
       {
+        "title": "Genetic information helps predict the onset and progression of glaucoma",
+        "summary": "Glaucoma is the leading cause of irreversible visual impairment worldwide. Because the disease often progresses without symptoms for years, many patients are diagnosed only after permanent damage to the optic nerve has already occurred. Earlier detection through targeted screening could help prevent vision loss.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 05 Jul 2026 11:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-genetic-onset-glaucoma.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/glaucoma-1.jpg",
+        "impact": 4
+      },
+      {
         "title": "New adenomyosis atlas reveals lesion-specific signals that may spare healthy uterine tissue",
         "summary": "Researchers at the University of Liverpool have identified distinctive biological characteristics within adenomyosis lesions that could help pave the way for more targeted, less invasive treatments. The findings from a team based in Professor Dharani Hapangama's gynecology research group at the university provide new i",
         "category": "Medicine",
@@ -159,17 +170,6 @@
         "published_at": "Fri, 03 Jul 2026 11:00:03 EDT",
         "source_url": "https://medicalxpress.com/news/2026-07-tumor-high-cell-lymphoma-standard.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/b-cell-lymphoma-cause-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Patients in Hawai'i spent $230M+ on out-of-state cancer care in 2021–2023, study finds",
-        "summary": "A new study led by researchers at the University of Hawaiʻi Cancer Center found that at least $230 million was spent on cancer care delivered outside Hawaiʻi between 2021 and 2023, highlighting the significant financial impact of geographic isolation on patients and the health care system.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 03 Jul 2026 10:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-patients-hawaii-spent-230m-state.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/medical-cost-1.jpg",
         "impact": 4
       }
     ],
@@ -311,17 +311,6 @@
         "impact": 4
       },
       {
-        "title": "Astronomers Discover Terzan 5's True Nature",
-        "summary": "Observations of a distant cluster of stars in our galaxy have resulted in a new class of objects that turn out to be galactic building blocks. Researchers used Hubble Space Telescope (HST) and the James Webb Space Telescope (JWST) to study the stars that make up Terzan 5, long though to be a globular cluster. What they",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 30 Jun 2026 11:30:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/astronomers-discover-terzan-5s-true-nature",
-        "image_url": "https://www.universetoday.com/article_images/Bulge_fossil_fragment_Terzan_5_Webb_and_Hubble_image_article_20260629_232346.jpg",
-        "impact": 4
-      },
-      {
         "title": "Infant stars celebrate their independence with cosmic fireworks| Space photo of the day for July 3, 2026",
         "summary": "Infant stars celebrate their independence with cosmic fireworks in a stunning new image from the James Webb Space Telescope.",
         "category": "Astronomy",
@@ -342,20 +331,20 @@
         "source_url": "https://www.space.com/astronomy/stars/stellar-death-is-not-the-end-james-webb-space-telescope-glimpses-the-fate-of-the-solar-system-in-a-weird-exoplanet-orbiting-a-dead-star",
         "image_url": "https://cdn.mos.cms.futurecdn.net/ecXycQmzHxKTLfDFVnjMZA-1280-80.png",
         "impact": 4
+      },
+      {
+        "title": "Cotton-Candy Exoplanets: Two for the Price of One!",
+        "summary": "NASA’s Transiting Exoplanet Survey Satellite has found two “super-puff” planets in the same system, each one as light as cotton candy. The post Cotton-Candy Exoplanets: Two for the Price of One! appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Thu, 02 Jul 2026 12:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/cotton-candy-exoplanets-two-for-the-price-of-one/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/super-puff-03-v03-scaled.webp",
+        "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "Sharjah Architecture Triennial Announces Participants and Opening Dates for Third Edition",
-        "summary": "The third edition of the Sharjah Architecture Triennial (SAT03) will take place from November 14, 2026, to April 14, 2027, under the title Architecture Otherwise: Building Civic Infrastructure for Collective Futures. Curated by anthropologist and curator Vyjayanthi Rao, with Tau Tavengwa serving as Associate Curator, t",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 03 Jul 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1043001/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition",
-        "image_url": "https://images.adsttc.com/media/images/6a47/7d1c/de7f/3c01/8757/2a10/large_jpg/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition_1.jpg?1783070027",
-        "impact": 5
-      },
       {
         "title": "BIG arranges circular Dymak HQ around stepped courtyard",
         "summary": "Architecture studio BIG has completed the headquarters for Danish material supplier Dymak in Odense, Denmark, sheltering its rounded mass-timber structure with a roof evoking a Möbius strip. Perched on a verdant site overlooking the city's Glisholm Lake, the 2,800-square-metre circular building combines offices and sho",
@@ -397,6 +386,17 @@
         "journal": "dezeen.com",
         "published_at": "Sun, 28 Jun 2026 09:00:50 +0000",
         "source_url": "https://www.dezeen.com/2026/06/28/curved-brick-buildings-roundup/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "SAM Architecture designs stepped school in Nanterre as \"village at the child's scale\"",
+        "summary": "French studio SAM Architecture has created the Yvonne Kerzrého School Complex in Nanterre, France, arranging classrooms around cascading terraces and courtyards that extend learning outdoors. The 4,856-square-metre building accommodates a nursery, primary school, after-school care centre, media library and cafeteria, a",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 26 Jun 2026 10:30:44 +0000",
+        "source_url": "https://www.dezeen.com/2026/06/26/yvonne-kerzreho-school-complex-sam-architecture/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
