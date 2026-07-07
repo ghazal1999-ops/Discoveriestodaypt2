@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-06",
-  "last_updated": "2026-07-06 00:03 UTC",
+  "date": "2026-07-07",
+  "last_updated": "2026-07-07 00:04 UTC",
   "categories": {
     "science": [
       {
@@ -61,36 +61,47 @@
     ],
     "tech": [
       {
-        "title": "Claude Science is Anthropic’s newest flagship product",
-        "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful ",
+        "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a",
         "category": "Tech",
         "source": "technologyreview.com",
         "journal": "technologyreview.com",
-        "published_at": "Tue, 30 Jun 2026 21:50:04 +0000",
-        "source_url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
+        "published_at": "Mon, 06 Jul 2026 13:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
         "impact": 4
       },
       {
-        "title": "Alibaba reportedly bans employees from using Claude Code",
-        "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "title": "F1 in Britain: Automated software to blame for crushing expectations",
+        "summary": "Sometimes races finish behind a safety car, but it's not always satisfying.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 04 Jul 2026 16:32:08 +0000",
-        "source_url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 06 Jul 2026 15:45:55 +0000",
+        "source_url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284281371-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "The Dune keypad device can be your meeting controller and more",
-        "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+        "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+        "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 06 Jul 2026 14:17:42 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg",
+        "impact": 3
+      },
+      {
+        "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+        "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Fri, 03 Jul 2026 18:28:30 +0000",
-        "source_url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?resize=1200,675",
+        "published_at": "Mon, 06 Jul 2026 06:05:29 +0000",
+        "source_url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Peggy-Johnson.jpg?w=1024",
         "impact": 3
       },
       {
@@ -103,73 +114,62 @@
         "source_url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
         "image_url": "https://media.wired.com/photos/6a459359c28e761b85a7ec73/191:100/w_1280,c_limit/gear_product_price_GettyImages-2281531744.jpg",
         "impact": 3
-      },
-      {
-        "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-        "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains&#8",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 03 Jul 2026 17:34:37 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-1849342868_6fd97e.jpg?resize=1200,600",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "AI tool improves prediction of who will respond to cancer immunotherapy drugs",
-        "summary": "Cancer immunotherapy drugs known as immune checkpoint inhibitors (ICIs) can be miracle drugs for cancer patients, curing some and turning deadly disease into a manageable chronic condition in others. But these drugs work for only a subset of patients, with few indications why—a knowledge gap that has detrimental effect",
+        "title": "Identifying the healing powers of sacred moments in health care",
+        "summary": "In health care, it is often the smallest moments that carry the greatest meaning—a quiet conversation with a patient, a shared reflection with colleagues, or a hand held in silence. These brief yet powerful connections, known as sacred moments, are the focus of new research exploring their role in addressing clinician ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 03 Jul 2026 11:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-ai-tool-cancer-immunotherapy-drugs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-tool-improves-predi-1.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Australians missing out on 'major gap' between innovation and patient care",
-        "summary": "Promising health tools that seek to predict a person's risk of serious health problems before they happen are rarely being used in everyday health care, according to new Curtin University research. The review, published in The Lancet Regional Health - Western Pacific, found Australia has developed a growing number of t",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 03 Jul 2026 22:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-australians-major-gap-patient.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/digital-health.jpg",
+        "published_at": "Mon, 06 Jul 2026 17:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-powers-sacred-moments-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/doctor-and-patient-2.jpg",
         "impact": 4
       },
       {
-        "title": "Genetic information helps predict the onset and progression of glaucoma",
-        "summary": "Glaucoma is the leading cause of irreversible visual impairment worldwide. Because the disease often progresses without symptoms for years, many patients are diagnosed only after permanent damage to the optic nerve has already occurred. Earlier detection through targeted screening could help prevent vision loss.",
+        "title": "Pandemic onset stalled reduction of benzodiazepine use among older Americans, says study",
+        "summary": "Years of progress in reducing benzodiazepine prescribing among older Americans stalled after the onset of the COVID-19 pandemic, according to a decade-long national study from Columbia University Mailman School of Public Health and Columbia University Irving Medical Center. Although benzodiazepine prescribing declined ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 05 Jul 2026 11:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-genetic-onset-glaucoma.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/glaucoma-1.jpg",
+        "published_at": "Mon, 06 Jul 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-pandemic-onset-stalled-reduction-benzodiazepine.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/elderly.jpg",
         "impact": 4
       },
       {
-        "title": "New adenomyosis atlas reveals lesion-specific signals that may spare healthy uterine tissue",
-        "summary": "Researchers at the University of Liverpool have identified distinctive biological characteristics within adenomyosis lesions that could help pave the way for more targeted, less invasive treatments. The findings from a team based in Professor Dharani Hapangama's gynecology research group at the university provide new i",
+        "title": "AI tool can identify biological profiles associated with thrombosis risk",
+        "summary": "Two people may be the same age and have similar family histories or risk factors, yet only one of them may develop thrombosis. To better understand why this occurs, researchers from the Complex Disease Genomics Unit at the Sant Pau Research Institute (IR Sant Pau) and the Biomedical Research Networking Center for Rare ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 03 Jul 2026 18:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-adenomyosis-atlas-reveals-lesion-specific.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/period-pain.jpg",
+        "published_at": "Mon, 06 Jul 2026 16:40:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-ai-tool-biological-profiles-thrombosis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/thrombosis.jpg",
         "impact": 4
       },
       {
-        "title": "New tumor map identifies high-risk B-cell lymphoma standard therapy may miss",
-        "summary": "Researchers led by Universitätsmedizin Frankfurt and Goethe University Frankfurt have identified how particularly aggressive forms of lymphoma can be recognized. By combining genetic and proteomic analyses, the scientists identified biological characteristics of tumors, particularly in high-risk patients for whom stand",
+        "title": "Blood test may help identify which colorectal cancer patients most likely to benefit from chemotherapy after surgery",
+        "summary": "A blood test may help identify which patients with colorectal cancer that has spread to the liver are most likely to benefit from chemotherapy after surgery, according to research presented today at the ESMO Gastrointestinal Cancers Congress 2026.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 03 Jul 2026 11:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-tumor-high-cell-lymphoma-standard.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/b-cell-lymphoma-cause-1.jpg",
+        "published_at": "Mon, 06 Jul 2026 15:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-blood-colorectal-cancer-patients-benefit.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-test-3.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Fibronectin pathway may drive Marfan aortic damage, opening new drug targets",
+        "summary": "A new study published in Nature Communications identifies a molecular signaling pathway that contributes to the development of life-threatening aortic aneurysms and dissections in Marfan syndrome, a genetic disorder affecting connective tissue. The findings provide new insight into how structural alterations in the aor",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 06 Jul 2026 14:40:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-fibronectin-pathway-marfan-aortic-drug.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-identifies-k-1.jpg",
         "impact": 4
       }
     ],
@@ -232,36 +232,14 @@
     ],
     "space": [
       {
-        "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
-        "summary": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected duri",
+        "title": "Watch SpaceX Falcon 9 rocket launch 81 satellites early on July 7",
+        "summary": "A SpaceX Falcon 9 rocket will launch 81 payloads to orbit from California early Tuesday morning (July 7), and you can watch the action live.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 01 Jul 2026 16:15:14 +0000",
-        "source_url": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/mmea.png",
-        "impact": 5
-      },
-      {
-        "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
-        "summary": "A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean. A robotic servicing spacecraft called LINK, buil",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 01 Jul 2026 15:20:29 +0000",
-        "source_url": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/gsfc-20260616-swiftboost-001.jpg",
-        "impact": 5
-      },
-      {
-        "title": "NASA’s Artemis II Breaks Agency Streaming Record",
-        "summary": "NASA’s live coverage of the Artemis II mission mission&#160;drew unprecedented&#160;public&#160;interest&#160;– including&#160;more than&#160;149.4&#160;million views&#160;of&#160;the launch, lunar flyby, splashdown&#160;on&#160;NASA-owned&#160;platforms, including the 24/7 streams covering the mission and the Orion sp",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 02 Jul 2026 18:02:21 +0000",
-        "source_url": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/55193772552-b8cfb47b7e-o.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 06 Jul 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/waq39kHranv2VBaP3zDJfg-1280-80.jpg",
         "impact": 4
       },
       {
@@ -285,6 +263,28 @@
         "source_url": "https://www.space.com/space-exploration/human-spaceflight/flying-saucer-arrives-at-nasa-for-artemis-3-moon-mission-space-photo-of-the-day-for-july-2-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/hQYA5XXJc9jWWNSp5wLKgD-1280-80.png",
         "impact": 4
+      },
+      {
+        "title": "Unidentified metal spheres found on Australian beach are 'debris from a foreign rocket body', space agency says",
+        "summary": "The Australian Space Agency is warning residents of Queensland to be on the lookout after metallic-looking spheres, possibly space debris, appeared on a beach.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 06 Jul 2026 16:30:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/unidentified-metal-spheres-found-on-australian-beach-are-debris-from-a-foreign-rocket-body-space-agency-says",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/eU9stym4hGmZFSUaPYvVjU-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "'Acceleration without fuel:' Revolutionary superconducting thruster harnesses Earth's magnetic field in 1st orbital test",
+        "summary": "A novel space thruster using superconducting magnets completed its first orbital tests. The technology could in the future propel spacecraft using just the power of the sun.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 06 Jul 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/technology/acceleration-without-fuel-revolutionary-superconducting-thruster-harnesses-earths-magnetic-field-in-1st-orbital-test",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/CarGj6ho9sApv4c6sWSTqU-1280-80.jpg",
+        "impact": 4
       }
     ],
     "astronomy": [
@@ -297,17 +297,6 @@
         "published_at": "Wed, 01 Jul 2026 07:27:00 +0000",
         "source_url": "https://skyandtelescope.org/stargazing-and-observing/astronomy-podcasts/sky-tour-podcast-july-2026/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Spica-in-July-2026-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Exploding Stars Sprinkled Ancient Earth With Radioactive Iron and Plutonium",
-        "summary": "Exploding stars have left their radioactive mark on our planet. Now scientists have found more evidence of a particularly violent event in Earth’s more ancient past. The post Exploding Stars Sprinkled Ancient Earth With Radioactive Iron and Plutonium appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 23 Jun 2026 14:54:54 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/exploding-stars-sprinkled-ancient-earth-with-radioactive-iron-and-plutonium/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/GRB211211Apt.jpg",
         "impact": 4
       },
       {
@@ -341,6 +330,17 @@
         "published_at": "Thu, 02 Jul 2026 12:00:00 +0000",
         "source_url": "https://skyandtelescope.org/astronomy-news/cotton-candy-exoplanets-two-for-the-price-of-one/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/super-puff-03-v03-scaled.webp",
+        "impact": 4
+      },
+      {
+        "title": "Into the Void: Investigating the Heart of a Giant Elliptical Galaxy",
+        "summary": "The core of the brightest galaxy in the cluster Abell 402 contains a curious void. New observations suggest that an ultra-massive black hole could have excavated this feature. The post Into the Void: Investigating the Heart of a Giant Elliptical Galaxy appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Wed, 24 Jun 2026 21:17:41 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/into-the-void-investigating-the-heart-of-a-giant-elliptical-galaxy/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/NGC1316_2400x3000.jpg",
         "impact": 4
       }
     ],
@@ -425,36 +425,36 @@
         "impact": 4
       },
       {
-        "title": "BCIA shortlist revealed",
-        "summary": "The shortlist for this year’s British Construction &amp; Infrastructure Awards (BCIAs) has been revealed. The post BCIA shortlist revealed appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 02 Jul 2026 15:01:01 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/bcia-shortlist-revealed-2-02-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/emap_BCIA2025-26-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Private construction spending slid in May",
-        "summary": "Outside of the data center boom, spending on private projects weakened again, especially in the warehouse and office markets, according to ABC analysis of U.S. Census Bureau data.",
+        "title": "Zachry Construction affiliate nabs $89M Texas water job",
+        "summary": "Crescent Constructors, which was acquired by Zachry in September, will help the city of Lewisville meet future water treatment demand goals.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 02 Jul 2026 10:06:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/private-construction-spending-slid-in-may/824325/",
-        "image_url": "https://imgproxy.divecdn.com/PEO_4A-PMMwqKntUjVEWgKLq7dykK24NUL5jK15rzJs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0MjI3Mjk3LmpwZw==.webp",
+        "published_at": "Mon, 06 Jul 2026 15:53:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/zachry-construction-affiliate-texas-water-prairie-creek/824522/",
+        "image_url": "https://imgproxy.divecdn.com/LZe2w-snxaTnWv8UwuXe3xjVF6o0tMuVoDxJzQTeBEI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ESklfMDYxMl9lZGl0ZWQxLmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "Terrazzo joints and rugby: One Gilbane exec details her construction journey",
-        "summary": "Maggie Reed, the business unit leader for Gilbane Building&rsquo;s Richmond, Virginia, office, says resilience is key to breaking into the trades.",
+        "title": "Fluor, Walsh JV reach substantial completion on $2.1B Chicago transit project",
+        "summary": "The contractors hit the milestone on the Red and Purple Line modernization after a federal judge ordered the DOT in March to restore funding for the infrastructure effort.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 02 Jul 2026 08:33:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/rugby-resilience-gilbane-exec-construction-maggie-reed/824141/",
-        "image_url": "https://imgproxy.divecdn.com/2AQYKHVEPn8G-PtPFjW0W1huajqLfJCqyMRdZyorDyw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTE5NTQxMDg5MF80MWRkNzA5YTY1X2JfMS5qcGc=.webp",
+        "published_at": "Mon, 06 Jul 2026 14:14:25 -0400",
+        "source_url": "https://www.constructiondive.com/news/fluor-walsh-substantial-completion-chicago-red-line/824503/",
+        "image_url": "https://imgproxy.divecdn.com/29kkMO7J60v8awlJIyXpumCAF5HmPp_B0cSFJ6YOX5w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MYWtldmlld0NoaWNhZ29DVEFUcmFpbi5qcGc=.webp",
+        "impact": 3
+      },
+      {
+        "title": "Why megaprojects are becoming career accelerators in construction",
+        "summary": "Unprecedented scale is opening new doors for both skilled craft and administrative professionals&mdash;creating the industry&rsquo;s next generation of leaders.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 06 Jul 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/why-megaprojects-are-becoming-career-accelerators-in-construction/823600/",
+        "image_url": "https://imgproxy.divecdn.com/bpo5fVk7d8DO44Pdj33FoVfJfXCQ4IBbXOu7mEPfZ2E/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EUFJfV29ya2VyX0h1ZGRsZS5qcGc=.webp",
         "impact": 3
       }
     ],
