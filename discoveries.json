@@ -1,8 +1,19 @@
 {
-  "date": "2026-07-07",
-  "last_updated": "2026-07-07 23:56 UTC",
+  "date": "2026-07-09",
+  "last_updated": "2026-07-09 00:08 UTC",
   "categories": {
     "science": [
+      {
+        "title": "A Simple Twist Gives Scientists New Control Over Quantum Light",
+        "summary": "A simple twist of ultra-thin material gave scientists surprising control over quantum light, bringing future quantum technologies closer to reality. University of Technology Sydney researchers have discovered a new way to control tiny quantum light sources by twisting ultra-thin layers of hexagonal boron nitride, a bre",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Wed, 08 Jul 2026 23:27:16 +0000",
+        "source_url": "https://scitechdaily.com/a-simple-twist-gives-scientists-new-control-over-quantum-light/",
+        "image_url": "https://scitechdaily.com/images/Abstract-Twisted-Material-Quantum-Technology-777x518.jpg",
+        "impact": 5
+      },
       {
         "title": "Melanoma's secret to cheating death has finally been revealed",
         "summary": "Scientists have solved a long-standing mystery by discovering the missing genetic ingredient that helps melanoma cells become effectively immortal. The breakthrough could open the door to new treatments aimed at disrupting one of cancer's most important survival strategies.",
@@ -12,28 +23,6 @@
         "published_at": "Tue, 30 Jun 2026 22:45:39 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
-        "summary": "Researchers have created quantum control techniques that can make a system appear to run backward in time. By precisely managing quantum measurements, they can reshape the system's arrow of time and even harvest energy from the measurement process itself. The breakthrough could lead to more powerful quantum computers, ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 03 Jul 2026 05:34:54 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/time-mirror-wormhole-astrophysics.webp",
-        "impact": 5
-      },
-      {
-        "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
-        "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 05 Jul 2026 14:13:44 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp",
         "impact": 5
       },
       {
@@ -57,9 +46,31 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
         "impact": 5
+      },
+      {
+        "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+        "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of evidence slowly come toget",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 25 Jun 2026 03:41:52 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/temple-of-artemis-and-acropolis-in-sardis.webp",
+        "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "The Download: worms fight pollution, and geoengineering faces reality",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, we",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 08 Jul 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-006-social.jpg?resize=1200,600",
+        "impact": 4
+      },
       {
         "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a",
@@ -72,6 +83,28 @@
         "impact": 4
       },
       {
+        "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+        "summary": "But the devices could \"easily be reflashed.\"",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 08 Jul 2026 18:10:16 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238063763-1152x648-1783530792.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Two teens learn the hard way not to do toy gun drive-bys from a Waymo",
+        "summary": "The robotaxi stopped, called 911, and waited for the San Mateo Police to show up.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 08 Jul 2026 15:40:44 +0000",
+        "source_url": "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/waymo-orbeez-1152x648.jpg",
+        "impact": 3
+      },
+      {
         "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
         "summary": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
         "category": "Tech",
@@ -81,95 +114,62 @@
         "source_url": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/keen-1152x524.jpg",
         "impact": 3
-      },
-      {
-        "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-        "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 07 Jul 2026 16:14:53 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-        "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 07 Jul 2026 11:00:18 +0000",
-        "source_url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Google’s Pixel event is set for August 12",
-        "summary": "Google's upcoming event in August will introduce new Pixel devices.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 07 Jul 2026 18:38:29 +0000",
-        "source_url": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Google-Pixel-10.png?w=1200",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Gene clues reveal why some rare leukemia patients resist tagraxofusp therapy",
-        "summary": "Researchers at The University of Texas MD Anderson Cancer Center have identified why some patients with a rare type of leukemia, called blastic plasmacytoid dendritic cell neoplasm (BPDCN), eventually develop resistance to tagraxofusp, the first Food and Drug Administration-approved treatment for this disease.",
+        "title": "Alcohol drives opposite brain circuit changes in amyloid and tau Alzheimer's models",
+        "summary": "Alcohol use has been associated with an increased risk of cognitive decline and dementia. But new research from Texas A&amp;M University's Naresh K. Vashisht College of Medicine at Texas A&amp;M Health suggests the relationship between alcohol and Alzheimer's disease is more complicated than previously thought. Instead",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 07 Jul 2026 17:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-gene-clues-reveal-rare-leukemia.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-why.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Five-agent AI team could speed clinical trial design using real-world patient records",
-        "summary": "An artificial intelligence system that operates like a collaborative team of medical experts could accelerate clinical trial design, one of the most difficult steps in drug development, according to a new study by Weill Cornell Medicine investigators. The findings, published in Nature Communications, evaluated the pote",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 07 Jul 2026 17:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-agent-ai-team-clinical-trial.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-research-team-could.jpg",
+        "published_at": "Wed, 08 Jul 2026 19:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-alcohol-brain-circuit-amyloid-tau.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-alcohol-meets-alz.jpg",
         "impact": 4
       },
       {
-        "title": "Novel antibody-drug conjugate eliminates residual cancer cells in majority of patients with B-cell ALL",
-        "summary": "Researchers at The University of Texas MD Anderson Cancer Center were able to eradicate measurable residual disease (MRD) in B-cell acute lymphoblastic leukemia (ALL) patients, a critical step in improving long-term survival outcomes, by treating them with the antibody-drug conjugate (ADC) inotuzumab ozogamicin.",
+        "title": "Moderate, home-based exercise found safe for aortic dissection survivors",
+        "summary": "A multicenter clinical trial led by UTHealth Houston has found that survivors of aortic dissection can participate in moderate-intensity exercise at home without increasing the risk of recurrent aortic events. The study is published in Circulation: Population Health and Outcomes.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 07 Jul 2026 16:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-antibody-drug-conjugate-residual-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/leukemia.jpg",
+        "published_at": "Wed, 08 Jul 2026 19:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-moderate-home-based-safe-aortic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/yoga.jpg",
         "impact": 4
       },
       {
-        "title": "Study linking microgravity and space radiation to accelerated aging could yield therapies on Earth",
-        "summary": "What happens to the human body in space may help scientists create new anti-aging therapies. UCF's Michal Masternak and his team have identified molecular changes in the liver that happen when space travelers experience radiation and microgravity. These changes—that resemble accelerated aging—provide new insight into h",
+        "title": "Most obesity drugs do not improve quality of life or heart health, analysis indicates",
+        "summary": "Despite substantial weight loss, most obesity drugs such as Wegovy and Mounjaro do not meaningfully improve quality of life, and few show cardiovascular benefits at one year, according to an analysis of the latest evidence published by The BMJ.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 07 Jul 2026 15:40:11 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-linking-microgravity-space-aging-yield.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/human-on-space-station.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Medicare GLP-1 Bridge program may lead to bone problems",
-        "summary": "The new Medicare GLP-1 Bridge program offers broader, more affordable access to weight loss drugs to address the growing obesity crisis. But there's a catch when it comes to bone health.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 07 Jul 2026 15:20:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-medicare-glp-bridge-bone-problems.html",
+        "published_at": "Wed, 08 Jul 2026 18:30:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-obesity-drugs-quality-life-heart.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Commonly used drugs show small benefit for long COVID fatigue",
+        "summary": "Over-the-counter antihistamines and a prescription anti-inflammatory drug both have a small benefit in reducing long COVID fatigue among people receiving care from specialist long COVID clinics, according to new findings from a large clinical trial led by UCL and UCLH.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 08 Jul 2026 18:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-commonly-drugs-small-benefit-covid.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/fatigue-3.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Portable PS-OCT scanner could reveal donor liver health without biopsy",
+        "summary": "Each year, thousands of patients in the United States wait for a liver transplant, while transplant teams must make rapid, difficult decisions about whether donor organs are suitable for use. Many of those livers, particularly from older or medically complex donors, require careful evaluation before transplantation, an",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 08 Jul 2026 18:00:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-portable-ps-oct-scanner-reveal.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/portable-ps-oct-scanne.jpg",
         "impact": 4
       }
     ],
@@ -232,15 +232,26 @@
     ],
     "space": [
       {
-        "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies",
-        "summary": "As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capa",
+        "title": "Japanese company books 1,100 pounds of cargo space on SpaceX Starship mission to the moon",
+        "summary": "The Japanese company ispace is expanding its already extensive moon plans to include SpaceX's Starship megarocket.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 06 Jul 2026 15:00:54 +0000",
-        "source_url": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/11/capstone_for_release.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 08 Jul 2026 22:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/japanese-company-books-1-100-pounds-of-cargo-space-on-spacex-starship-mission-to-the-moon",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/vwNyDJdn8HrEL2pXLA5u9G-1280-80.jpg",
         "impact": 5
+      },
+      {
+        "title": "NASA begins funding hardware for 'Skyfall' Mars helicopter mission",
+        "summary": "NASA's nuclear-powered mission to Mars is taking shape with the selection of Firefly Aerospace to design and manufacture the protective aeroshell that will shield the Skyfall spacecraft's descent stage during its plummet through the Martian atmosphere.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 08 Jul 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/nasa-begins-funding-hardware-for-skyfall-mars-helicopter-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Ecdqvb3DAvUiKpEmgrmQpe-1280-80.jpg",
+        "impact": 4
       },
       {
         "title": "Artemis 2's Jeremy Hansen stepping down from active astronaut duty after epic moon mission",
@@ -274,17 +285,6 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites",
         "image_url": "https://cdn.mos.cms.futurecdn.net/txwMBEKFJSyAiDh9ppz9ng-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
-        "summary": "A U.S. Space Force mission pitting two satellites against each other has completed the organization's first tactical intercept of an orbital target.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 03 Jul 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/N7zCZnvtwhDuE8s737gBeL-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
@@ -300,6 +300,17 @@
         "impact": 4
       },
       {
+        "title": "7,000 Galaxy Clusters, Hiding in Plain Sight",
+        "summary": "A five year survey by the South Pole Telescope has produced a catalogue of more than seven thousand galaxy clusters, some dating back nearly eight billion years, giving astronomers their most detailed map yet of the universe's largest structures. Hidden inside the data is something even the researchers did not expect, ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 08 Jul 2026 23:43:04 +0000",
+        "source_url": "https://www.universetoday.com/articles/7000-galaxy-clusters-hiding-in-plain-sight",
+        "image_url": "https://www.universetoday.com/article_images/South_pole_telescope_during_polar_night_20260708_234147.jpg",
+        "impact": 4
+      },
+      {
         "title": "James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site",
         "summary": "To celebrate the fourth birthday of the James Webb Space Telescope, NASA has released a stunning image of the strangely shaped galaxy Centaurus A, the site of a cosmic collision 2 billion years ago.",
         "category": "Astronomy",
@@ -311,60 +322,71 @@
         "impact": 4
       },
       {
-        "title": "Infant stars celebrate their independence with cosmic fireworks| Space photo of the day for July 3, 2026",
-        "summary": "Infant stars celebrate their independence with cosmic fireworks in a stunning new image from the James Webb Space Telescope.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 03 Jul 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/galaxies/infant-stars-celebrate-their-independence-with-cosmic-fireworks-space-photo-of-the-day-for-july-3-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/2CtTZvXsQnoQV7X2uTd8Kh-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Hayabusa 2 Completes Flyby Past Asteroid Torifune",
-        "summary": "Japan’s Hayabusa 2 mission has revealed another \"snowman\" asteroid — a pair of asteroids attached with a narrow neck. The contact binary could help shed light on planet formation. The post Hayabusa 2 Completes Flyby Past Asteroid Torifune appeared first on Sky &amp; Telescope.",
+        "title": "Steamy Nights at the Galactic Equator",
+        "summary": "Here's an observing guide to both familiar and lesser-known deep-sky objects that inhabit our galaxy's equatorial zone. The post Steamy Nights at the Galactic Equator appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
         "journal": "skyandtelescope.org",
-        "published_at": "Tue, 07 Jul 2026 13:39:10 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/hayabusa-2-completes-flyby-past-asteroid-torifune/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/20260706-3-01-ezgif.com-jpg-to-webp-converter.webp",
+        "published_at": "Wed, 08 Jul 2026 17:40:11 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/steamy-nights-at-the-galactic-equator/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/NGC-6842-PanStarrsDR1-Aladin.webp",
         "impact": 4
       },
       {
-        "title": "Cotton-Candy Exoplanets: Two for the Price of One!",
-        "summary": "NASA’s Transiting Exoplanet Survey Satellite has found two “super-puff” planets in the same system, each one as light as cotton candy. The post Cotton-Candy Exoplanets: Two for the Price of One! appeared first on Sky &amp; Telescope.",
+        "title": "Did a Passing Star Shower Us with Comets?",
+        "summary": "We might be living through a comet shower created by a star that millions of years ago jostled the Oort Cloud surrounding the solar system. The post Did a Passing Star Shower Us with Comets? appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
         "journal": "skyandtelescope.org",
-        "published_at": "Thu, 02 Jul 2026 12:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/cotton-candy-exoplanets-two-for-the-price-of-one/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/super-puff-03-v03-scaled.webp",
+        "published_at": "Wed, 08 Jul 2026 14:25:13 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Comet_McNaught_at_Paranal-ESO-Sebastian-Deiries-ST.jpg",
         "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
-        "summary": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador, Peru, Bolivia, Colombia, and Chile, páramos, dry highlands, temperate valleys, and snow-covered landscapes can exist within relatively short distances of one another. As elevation chang",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 07 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
-        "image_url": "https://images.adsttc.com/media/images/6a44/4fe1/8481/2b01/8af5/1a96/large_jpg/architecture-in-the-andes-how-altitude-shapes-design-decisions_2.jpg?1782861803",
-        "impact": 4
-      },
       {
         "title": "Snøhetta's Shanghai Grand Opera House Nears Completion Ahead of October Opening",
         "summary": "Snøhetta's Shanghai Grand Opera House has entered its final construction phase. Preparations are underway for the building's official opening on October 17, 2026, kicking off a performance season featuring 82 performances across 47 acclaimed productions. Snøhetta's spiralling design for the new cultural venue was selec",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 07 Jul 2026 05:30:00 +0000",
+        "published_at": "Wed, 08 Jul 2026 11:43:31 +0000",
         "source_url": "https://www.archdaily.com/1054028/snohettas-shanghai-grand-opera-house-nears-completion-ahead-of-october-opening",
         "image_url": "https://images.adsttc.com/media/images/6a4b/c9e7/bd37/c901/7ebd/b06b/large_jpg/snohettas-shanghai-grand-opera-house-enters-final-stage-and-announces-opening-date_2.jpg?1783351818",
+        "impact": 4
+      },
+      {
+        "title": "TU Munich Kinderoase Daycare / Kéré Architecture + HK Architekten",
+        "summary": "The Kinderoase an der TUM is a new daycare center on the campus of the Technical University of Munich (TUM). Conceived as a vertical kindergarten and built almost entirely in wood, the building offers space for 60 children across 1540 square meters. It is designed to support young professionals — particularly women — i",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 08 Jul 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1054059/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt",
+        "image_url": "https://images.adsttc.com/media/images/6a4d/163e/25a9/f501/8a94/bc09/large_jpg/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt_1.jpg?1783436970",
+        "impact": 4
+      },
+      {
+        "title": "KPMB reveals designs for David Geffen School of Drama at Yale University",
+        "summary": "Canadian architecture studio KPMB has released renderings of the new Dramatic Arts Building at Yale University, establishing the first consolidated space for the David Geffen School of Drama since its inception in 1924. The 207,000-square-foot (19,230-square-metre) design will host staged performances of the Yale Reper",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 08 Jul 2026 19:00:53 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "Sthapati \"draws from Jodhpur's royal past\" for pastel-coloured airport",
+        "summary": "Architecture studio Sthapati took visual cues from local palaces and gateways for its expansion of the Jodhpur Airport in Rajasthan, India. Unlike the majority of airports, the distinctive form of the 23,400-square-metre terminal building was directly informed by historic local architecture, including the Mehrangarh Fo",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 08 Jul 2026 05:00:24 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/08/jodhpur-airport-expansion-sthapati/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -377,42 +399,9 @@
         "source_url": "https://www.dezeen.com/2026/07/03/big-dymak-headquarters-denmark/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick",
-        "summary": "Architecture studio Cubo has unveiled the Kornmarken Campus manufacturing innovation centre as the latest building on the Lego campus in Denmark. Located in Billund, near Lego's headquarters and the BIG-designed Lego House, the hybrid mass-timber and concrete building contains the toy brand's innovation and manufacturi",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 03 Jul 2026 08:00:22 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/03/lego-kornmarken-campus-cubo-arkitekter/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Billard Leece Partnership unveils Sydney children's hospital with folded metal facade",
-        "summary": "Australian architecture studio Billard Leece Partnership has created an aluminium-clad acute-care facility for The Children's Hospital Westmead in Sydney, drawing on its inland river setting. Set within the existing Westmead health and education precinct, Billard Leece Partnership (BLP) designed the 57,000-square-metre",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 29 Jun 2026 10:00:56 +0000",
-        "source_url": "https://www.dezeen.com/2026/06/29/billard-leece-partnership-wattle-building-childrens-hospital-sydney/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Re-thinking access engineering can transform the maintenance of ageing bridges",
-        "summary": "The UK’s bridge infrastructure is ageing and, given the enormous costs of building new or replacement structures, there’s a growing consensus that more needs to be done to repair, restore and protect bridges, to prolong their life. The post Re-thinking access engineering can transform the maintenance of ageing bridges ",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 07 Jul 2026 13:47:57 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/re-thinking-access-engineering-can-transform-the-maintenance-of-ageing-bridge-infrastructure-07-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/Menai-1-560x315.jpg",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -436,81 +425,92 @@
         "impact": 4
       },
       {
-        "title": "Balfour Beatty invests £10M into construction tech innovation fund",
-        "summary": "Balfour Beatty has made a £10M investment into Pi Labs’ fourth fund as the UK tier one looks for access to technologies aimed at innovating the delivery of infrastructure projects. The post Balfour Beatty invests £10M into construction tech innovation fund appeared first on New Civil Engineer.",
+        "title": "AI infrastructure including data centres ‘squeezing’ capacity and driving skills shortage",
+        "summary": "The growth of AI infrastructure, including demand for data centres, is squeezing global construction market capacity according to a report by global programme manager Turner &amp; Townsend. The post AI infrastructure including data centres ‘squeezing’ capacity and driving skills shortage appeared first on New Civil Eng",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Tue, 07 Jul 2026 14:37:28 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/balfour-beatty-invests-10m-into-construction-tech-innovation-fund-07-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2020/05/Wireless-technology-has-become-an-invaluable-tool-171323390_5766x3649-crop.jpg",
+        "published_at": "Wed, 08 Jul 2026 15:01:09 +0000",
+        "source_url": "https://www.newcivilengineer.com/uncategorized/ai-infrastructure-including-data-centres-squeezing-capacity-and-driving-skills-shortage-08-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/06/Data-centre-in-Slough-1-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "Structural columns buckle on 21st floor of Manhattan adaptive reuse project",
-        "summary": "Designed by Gensler and developed by Metro Loft in conjunction with Collaborative Construction Management, the project is converting the former Pfizer headquarters into apartments.&nbsp;",
+        "title": "How AI could reduce struck-bys in road work zones",
+        "summary": "&ldquo;VR- and AI-based safety training should not be viewed as an experimental technology anymore,&rdquo; said Namgyun Kim, assistant professor in construction science at Texas A&amp;M University.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Tue, 07 Jul 2026 16:04:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/structural-columns-buckle-manhattan-adaptive-reuse-project/824632/",
-        "image_url": "https://imgproxy.divecdn.com/URvf6INpqe3-4Y8OaLx7KKSer03OY35XH9UEDgdz2Yw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MDgyMjMyLmpwZw==.webp",
+        "published_at": "Wed, 08 Jul 2026 13:11:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/",
+        "image_url": "https://imgproxy.divecdn.com/hg0wyiqqg61p6itu7VV_o0pzTQXwR86dV_SM0l-TLrw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MTc3NjExLmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "Data centers dominate construction’s latest economic reports",
+        "summary": "Nearly every metric highlighted the strength of the artificial intelligence buildout and weakness in other private project activity.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 08 Jul 2026 10:13:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/data-center-constructions-latest-economic-reports/824682/",
+        "image_url": "https://imgproxy.divecdn.com/Lc0cFLHt-pnuk7ePBtfbOjr29Wz54RqocGLEZFvbqXk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNDM2MjA0LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-        "summary": "arXiv:2607.02686v1 Announce Type: new Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from small language models (SLMs) that carry broad reasoning priors. Yet integrating SLM guidance into this setting has prov",
+        "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+        "summary": "arXiv:2607.05682v1 Announce Type: new Abstract: LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report generation, but the first research question they propose can remain difficult to audit: it may sound plausible without exposing the mechanism, fal",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 07 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.02686",
+        "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.05682",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Object-Centric Environment Modeling for Agentic Tasks",
-        "summary": "arXiv:2607.02846v1 Announce Type: new Abstract: Large language model (LLM) agents can improve through accumulated experience, but free-form textual memories become difficult to maintain, validate, and reuse as interactions grow. Recent symbolic approaches learn executable skills or programmatic world models, yet often ",
+        "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+        "summary": "arXiv:2607.05708v1 Announce Type: new Abstract: Recent LLM-based agent systems continuously accumulate context across multi-turn interactions, tool invocations, and cross-session workflows. Replaying the full history for every request quickly becomes impractical: long contexts increase prefill cost, may exceed context ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 07 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.02846",
+        "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.05708",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
-        "summary": "arXiv:2607.02879v1 Announce Type: new Abstract: Current benchmarks for evaluating large language models (LLMs) in medical calculation are largely based on simplified settings, where each patient case corresponds to a single calculator and the required tool is explicitly specified in the query. However, real clinical sc",
+        "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
+        "summary": "arXiv:2607.05773v1 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, traditional static evaluation fails to capture multi-step decision-making. We introduce AgenticAI-Supervisor, an API and UI-driven RL Gym environment that decouples environment creation from scalable execution",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 07 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.02879",
+        "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.05773",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making",
-        "summary": "arXiv:2607.03025v1 Announce Type: new Abstract: The use of Large Language Models (LLMs) across diverse areas of human activity-ranging from everyday tasks to safety-critical applications-aims to enhance decision-making effectiveness with minimal human feedback. Concurrently, it seeks to align decisions with human expec",
+        "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+        "summary": "arXiv:2607.05775v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly evaluated on their ability to use tools, plan multi-step tasks, coordinate with other agents, and operate over extended horizons. Reported benchmark gains often obscure recurring failure modes documented across otherwise ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 07 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.03025",
+        "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.05775",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Silicon Sampling via Cross-Survey Transfer",
-        "summary": "arXiv:2607.03091v1 Announce Type: new Abstract: Silicon sampling-using large language models (LLMs) to simulate human survey respondents-has emerged as a promising approach for augmenting traditional survey research. However, most evaluations rely on distributional comparisons rather than individual-level prediction, w",
+        "title": "Onnes: A Physics-Grounded Multi-Agent LLM Simulator for Cryogenic Fault Diagnosis in Quantum Computing Infrastructure",
+        "summary": "arXiv:2607.05805v1 Announce Type: new Abstract: Dilution refrigerators are the enabling infrastructure of superconducting quantum computers, yet their fault diagnosis is still dominated by threshold alarms that report that something is wrong, not what. We present Onnes, a physics-grounded digital-twin simulator of a di",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 07 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.03091",
+        "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.05805",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
