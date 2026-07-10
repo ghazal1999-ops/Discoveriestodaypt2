@@ -1,19 +1,8 @@
 {
   "date": "2026-07-10",
-  "last_updated": "2026-07-10 00:02 UTC",
+  "last_updated": "2026-07-10 23:56 UTC",
   "categories": {
     "science": [
-      {
-        "title": "A Simple Twist Gives Scientists New Control Over Quantum Light",
-        "summary": "A simple twist of ultra-thin material gave scientists surprising control over quantum light, bringing future quantum technologies closer to reality. University of Technology Sydney researchers have discovered a new way to control tiny quantum light sources by twisting ultra-thin layers of hexagonal boron nitride, a bre",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Wed, 08 Jul 2026 23:27:16 +0000",
-        "source_url": "https://scitechdaily.com/a-simple-twist-gives-scientists-new-control-over-quantum-light/",
-        "image_url": "https://scitechdaily.com/images/Abstract-Twisted-Material-Quantum-Technology-777x518.jpg",
-        "impact": 5
-      },
       {
         "title": "A vitamin A discovery is changing what scientists know about vision",
         "summary": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The fi",
@@ -23,6 +12,17 @@
         "published_at": "Thu, 09 Jul 2026 01:15:15 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/robert-johnston-retinal-organoid.webp",
+        "impact": 5
+      },
+      {
+        "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
+        "summary": "Researchers found that mRNA cancer vaccines can recruit an unexpected immune cell to launch powerful tumor-fighting responses, overturning a long-held assumption about how the vaccines work. The discovery could lead to more effective cancer vaccines and help scientists tailor treatments for better patient outcomes.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 09 Jul 2026 16:05:08 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cancer-vaccine-fight.webp",
         "impact": 5
       },
       {
@@ -72,6 +72,17 @@
         "impact": 4
       },
       {
+        "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+        "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 10 Jul 2026 06:00:00 +0000",
+        "source_url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+        "image_url": "https://media.wired.com/photos/6a4faec15defba4430906469/191:100/w_1280,c_limit/GettyImages-2284616220.jpg",
+        "impact": 4
+      },
+      {
         "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8",
         "category": "Tech",
@@ -83,93 +94,82 @@
         "impact": 4
       },
       {
-        "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 06 Jul 2026 13:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-        "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
+        "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+        "summary": "Affected users will have to configure their lights and settings all over again.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Thu, 09 Jul 2026 20:12:03 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/humanoid-robot-surgeons-1152x648.png",
+        "published_at": "Fri, 10 Jul 2026 16:36:09 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
-        "summary": "State agency's delay could mean free robotaxi rides in company’s new Ojai vehicle for a few months.",
+        "title": "Is an air-conditioning revolution coming to Europe?",
+        "summary": "The AC culture wars may be solved by advances in environmentally friendly technology.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Thu, 09 Jul 2026 13:31:00 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277937156-1-2560x1440.jpg",
+        "published_at": "Fri, 10 Jul 2026 11:10:08 +0000",
+        "source_url": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277821243-1152x648.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "New genetic switch could improve gene therapy for drug-resistant epilepsy",
-        "summary": "Epilepsy affects more than 50 million people worldwide, making it one of the most common neurological disorders. Although medication helps many patients achieve seizure control, approximately one-third continue to experience seizures despite treatment. Seizures often arise when the brain's excitation-inhibition (E/I) b",
+        "title": "Genetic mapping identifies new hope for bone diseases",
+        "summary": "In a global breakthrough published in Nature Genetics, researchers have successfully mapped the cells and genes that regulate bone formation and loss at an unprecedented scale and discovered the critical role that blood vessel cells play in bone health.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 09 Jul 2026 18:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-genetic-gene-therapy-drug-resistant.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-novel-gene-promoter.jpg",
+        "published_at": "Fri, 10 Jul 2026 09:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-genetic-bone-diseases.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-mapping-identi-3.jpg",
         "impact": 5
       },
       {
-        "title": "Eco-friendly spiderweb-inspired pressure sensor for robotic hands may assist patients with Parkinson's disease",
-        "summary": "A high-performance biodegradable pressure sensor has been developed as a key technology for wearable AI health care robotics and user-friendly robotic systems.",
+        "title": "Health care spending gap between high- and low-income Americans continues to widen, study finds",
+        "summary": "A new study led by a University of Chicago researcher finds that health care spending in the United States has increasingly diverged between high- and low-income Americans over the past two decades. The analysis shows that through 2023, spending grew faster for high-income Americans, particularly on outpatient care and",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 09 Jul 2026 16:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-eco-friendly-spiderweb-pressure-sensor.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/eco-friendly-spiderweb.jpg",
+        "published_at": "Fri, 10 Jul 2026 08:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-health-gap-high-income-americans.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/prescription-drug.jpg",
         "impact": 4
       },
       {
-        "title": "Societies combine to issue recommendations on use of incretin drugs in obesity therapy",
-        "summary": "Obesity and dietitian societies have joined forces to issue a new consensus statement on recommendations surrounding the use of obesity drugs for weight loss treatment. The statement, which is published in The Lancet Diabetes & Endocrinology, is led by Dr. Laurence Dobbie of the Department of Population Health Sciences",
+        "title": "New study provides first evidence of dopamine system injury in the brain of long COVID patients",
+        "summary": "A new brain imaging study led by researchers at the Center for Addiction and Mental Health (CAMH), published in eBioMedicine, provides the strongest evidence to date that long COVID is associated with injury to dopamine-releasing neurons in the brain—a finding that may explain symptoms such as lack of motivation due to",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 09 Jul 2026 15:40:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-societies-combine-issue-incretin-drugs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg",
+        "published_at": "Fri, 10 Jul 2026 19:30:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-evidence-dopamine-injury-brain-covid.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/brainimage.jpg",
         "impact": 4
       },
       {
-        "title": "Hidden pocket reveals new way to target prostate cancer's 'undruggable' ERG protein",
-        "summary": "In the United States, prostate cancer is a leading cause of cancer-related disease and death in men. About half of prostate cancer cases in patients of European ancestry have a gene rearrangement in which the genes TMPRSS2 and ERG are fused together. This causes the ERG protein to be turned on, increasing the growth an",
+        "title": "Novel microenvironment-targeted therapy for bone marrow recovery after injury",
+        "summary": "A healthy bone marrow (BM) produces nearly all types of cells in our blood. Many blood disorders occur when hematopoietic stem cells (HSCs) in the BM malfunction. Treatment with radiation or chemotherapy for many blood disorders and cancers can, as a side effect, deplete not only tumor cells but also hematopoietic cell",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 09 Jul 2026 15:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-hidden-pocket-reveals-prostate-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-new-2.jpg",
+        "published_at": "Fri, 10 Jul 2026 16:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-microenvironment-therapy-bone-marrow-recovery.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/blood.jpg",
         "impact": 4
       },
       {
-        "title": "A call for greater focus on social factors that shape health",
-        "summary": "The American College of Sports Medicine (ACSM) has published a new call to action statement urging the sports medicine community to intentionally incorporate social determinants of health (SDoH) into research, clinical care, and administrative and organizational decision-making to improve health outcomes and reduce dis",
+        "title": "Anticancer 'nanoswitch' technology shows promise in animal model of triple-negative breast cancer, colorectal cancer",
+        "summary": "A research team led by Professor Yoosoo Yang (Department of Integrative Biotechnology) of Sungkyunkwan University, in collaboration with the Korea Institute of Science and Technology (KIST) and Incheon National University, has developed a next-generation anticancer immunotherapy technology that targets and eliminates k",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 09 Jul 2026 18:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-greater-focus-social-factors-health.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/health.jpg",
+        "published_at": "Fri, 10 Jul 2026 08:40:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-anticancer-nanoswitch-technology-animal-triple.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-off-cancer-pro-1.jpg",
         "impact": 4
       }
     ],
@@ -265,29 +265,40 @@
         "impact": 4
       },
       {
-        "title": "SpaceX just launched the 1st-ever nuclear-powered commercial satellite",
-        "summary": "A satellite aboard SpaceX's Transporter-17 rideshare mission is the first commercially designed and operated spacecraft to harness nuclear energy in orbit.",
+        "title": "SpaceX ignites all 33 powerful engines on Starship booster ahead of Flight 13 launch",
+        "summary": "SpaceX completed an engine test of the next Super Heavy booster slated to launch Starship's next mission, which could lift off as soon as next week.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Tue, 07 Jul 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-launched-the-1st-ever-nuclear-powered-commercial-satellite",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/mdeHisEKWAxDhVWUyC6HrB-1280-80.jpg",
+        "published_at": "Fri, 10 Jul 2026 16:13:48 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/QwtyE4P8VjftFE7AdiVd4H-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "SpaceX launches 81 satellites to orbit from California, lands rocket on ship at sea",
-        "summary": "A SpaceX Falcon 9 rocket launched 81 payloads to orbit from California early Tuesday morning (July 7), then landed on a ship at sea.",
+        "title": "The moon, Mars and the Pleiades form a stunning lineup before dawn on July 11. Here's how to see it",
+        "summary": "A slender crescent moon, Mars and Aldebaran and two sparkling star clusters will create a beautiful predawn scene for early risers on July 11.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 06 Jul 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/txwMBEKFJSyAiDh9ppz9ng-1280-80.jpg",
+        "published_at": "Fri, 10 Jul 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/the-moon-mars-and-the-pleiades-form-a-stunning-lineup-before-dawn-on-july-11-heres-how-to-see-it",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/5GkxFQbaRg5XdD7YmN6G2Q-1280-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "Astronomers Use a Neutron Star Merger to Measure Cosmic Expansion",
+        "summary": "Swinburne University of Technology and CSIRO have combined telescope and gravitational wave data in an attempt to unlock the true value of the Universe’s expansion. Existing measurements of the Hubble Constant have split cosmologists for more than a decade",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 10 Jul 2026 17:05:51 +0000",
+        "source_url": "https://www.universetoday.com/articles/astronomers-use-a-neutron-star-merger-to-measure-cosmic-expansion",
+        "image_url": "https://www.universetoday.com/article_images/cq5dam.web.2560.1440_20260709_202558.jpeg",
+        "impact": 4
+      },
       {
         "title": "7,000 Galaxy Clusters, Hiding in Plain Sight",
         "summary": "A five year survey by the South Pole Telescope has produced a catalogue of more than seven thousand galaxy clusters, some dating back nearly eight billion years, giving astronomers their most detailed map yet of the universe's largest structures. Hidden inside the data is something even the researchers did not expect, ",
@@ -331,30 +342,30 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Comet_McNaught_at_Paranal-ESO-Sebastian-Deiries-ST.jpg",
         "impact": 4
-      },
-      {
-        "title": "Hayabusa 2 Completes Flyby Past Asteroid Torifune",
-        "summary": "Japan’s Hayabusa 2 mission has revealed another \"snowman\" asteroid — a pair of asteroids attached with a narrow neck. The contact binary could help shed light on planet formation. The post Hayabusa 2 Completes Flyby Past Asteroid Torifune appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 07 Jul 2026 13:39:10 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/hayabusa-2-completes-flyby-past-asteroid-torifune/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/20260706-3-01-ezgif.com-jpg-to-webp-converter.webp",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Snøhetta's Shanghai Grand Opera House and Foster + Partners' New Neighbourhood in Seoul: This Week’s Review",
-        "summary": "This week belonged to the arts, with cultural architecture dominating headlines across the globe. Landmark buildings for major institutions advanced through important construction and design milestones, from the Shanghai Opera House to Abu Dhabi's new performing arts center, while two new museum commissions were announ",
+        "title": "Design Week Calgary 2026",
+        "summary": "Where Calgary’s Creative Community Comes TogetherDesign Week Calgary is a city-wide festival celebrating the talent, creativity, and impact of Calgary’s design community. Through talks, exhibitions, workshops, installations, screenings, tours, and social events, the festival invites the public to explore how design sha",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 09 Jul 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1092348/snohettas-shanghai-grand-opera-house-and-foster-plus-partners-new-neighbourhood-in-seoul-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6a4f/151e/8c51/7e01/8cc5/c055/large_jpg/this-weeks-review_2.jpg?1783567658",
-        "impact": 5
+        "published_at": "Fri, 10 Jul 2026 09:05:00 +0000",
+        "source_url": "https://www.archdaily.com/1092499/design-week-calgary-2026",
+        "image_url": "https://images.adsttc.com/media/images/6a50/ee5d/61ff/5300/01d2/e919/large_jpg/Untitled.jpg?1783688801",
+        "impact": 4
+      },
+      {
+        "title": "Growing Knowledge in Wood: 10 Timber Pavilion Experiments from the Classroom",
+        "summary": "Wood is among architecture's oldest and most familiar materials, yet its contemporary use raises complex questions about environmental impact, resource availability, material provenance, and circularity in relation to local economies. At the same time, advances in computational design, CNC machining, and robotic fabric",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 10 Jul 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1092333/growing-knowledge-in-wood-10-timber-pavilion-experiments-from-the-classroom",
+        "image_url": "https://images.adsttc.com/media/images/6a4e/9659/02e2/6d01/8916/5b8d/large_jpg/growing-knowledge-in-wood-10-timber-pavilion-experiments-from-the-classroom_6.jpg?1783535199",
+        "impact": 4
       },
       {
         "title": "KOSMALT Housing Renovation / Atrium Architekti",
@@ -368,36 +379,25 @@
         "impact": 4
       },
       {
-        "title": "Budapest Architecture City Guide: 15 Projects Tracing a Capital Built on Layers",
-        "summary": "When Buda and Pest joined in 1873, the two parts formed a capital whose identity has since been tied to this balance between geography and urban order. From the riverbanks and thermal baths to imperial monuments and infrastructural works, Budapest's architecture carries the traces of these overlapping histories.",
+        "title": "KPMB reveals designs for David Geffen School of Drama at Yale University",
+        "summary": "Canadian architecture studio KPMB has released renderings of the new Dramatic Arts Building at Yale University, establishing the first consolidated space for the David Geffen School of Drama since its inception in 1924. The 207,000-square-foot (19,230-square-metre) design will host staged performances of the Yale Reper",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 09 Jul 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042327/budapest-architecture-city-guide-15-projects-tracing-a-capital-built-on-layers",
-        "image_url": "https://images.adsttc.com/media/images/6a29/5047/8373/7501/8831/0c5d/large_jpg/budapest-city-guide-15-projects-to-discover-across-the-hungarian-capital_16.jpg?1781092433",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 08 Jul 2026 19:00:53 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "Lorcan O’Herlihy’s Los Angeles: Dignity, Beauty, and Belonging - Free Self Guided Architectural Trail Map",
-        "summary": "Each month, Friends of Residential Treasures Los Angeles (FORT: LA) curates a new self-guided trail, inviting Angelenos to explore the city&rsquo;s rich architectural heritage. These immersive experiences highlight significant homes, hidden gems, and the designers who have shaped Los Angeles' built environment. This mo",
+        "title": "Sthapati \"draws from Jodhpur's royal past\" for pastel-coloured airport",
+        "summary": "Architecture studio Sthapati took visual cues from local palaces and gateways for its expansion of the Jodhpur Airport in Rajasthan, India. Unlike the majority of airports, the distinctive form of the 23,400-square-metre terminal building was directly informed by historic local architecture, including the Mehrangarh Fo",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 08 Jul 2026 11:43:31 +0000",
-        "source_url": "https://www.archdaily.com/1054056/lorcan-oherlihys-los-angeles-dignity-beauty-and-belonging-free-self-guided-architectural-trail-map",
-        "image_url": "https://images.adsttc.com/media/images/6a4c/f8c7/062b/6500/019a/ac50/large_jpg/07-01-Lorcan_O_Herlihy_Cover.jpg?1783429343",
-        "impact": 4
-      },
-      {
-        "title": "Walzwerk - Student Design Competition",
-        "summary": "The Swiss Finance &amp; Property Group (SFP Group) invites students of architecture, urban design, landscape architecture, spatial planning, and related disciplines to participate in the Walzwerk Student Design Competition, an international ideas competition exploring the future of one of Switzerland's most distinctive",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 08 Jul 2026 11:43:31 +0000",
-        "source_url": "https://www.archdaily.com/1054057/walzwerk-student-design-competition",
-        "image_url": "https://images.adsttc.com/media/images/6a4c/fa9c/062b/6500/019a/ac53/large_jpg/Horizontal_Ideenwettbewerb__2_.jpg?1783429795",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 08 Jul 2026 05:00:24 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/08/jodhpur-airport-expansion-sthapati/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
     ],
@@ -447,15 +447,15 @@
         "impact": 4
       },
       {
-        "title": "Construction Workforce Outlook: ‘ongoing pressures’ highlight need for ‘sustained focus’ on skills",
-        "summary": "The construction industry has always played a central role in delivering the UK's economic ambitions, from housing and transport to energy and major infrastructure projects. The post Construction Workforce Outlook: &#8216;ongoing pressures&#8217; highlight need for &#8216;sustained focus&#8217; on skills appeared first",
+        "title": "Acciona to acquire Georgia infrastructure firm",
+        "summary": "The deal, which is expected to close near the end of the year, will help the Spanish infrastructure stalwart grow its presence in the U.S.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 09 Jul 2026 09:46:05 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/construction-workforce-outlook-ongoing-pressures-highlight-need-for-sustained-focus-on-skills-09-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2023/02/shutterstock_430150564-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 10 Jul 2026 15:16:35 -0400",
+        "source_url": "https://www.constructiondive.com/news/acciona-acquires-georgia-infrastructure-firm-vertical-earth/824994/",
+        "image_url": "https://imgproxy.divecdn.com/pV5v1S3mMqT2ZHYOdCF0tHOrxX4xd44ZNyFIMAWBzOg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TUjQwMF9UcmFuc2l0Vmlldy5qcGc=.webp",
+        "impact": 3
       }
     ],
     "ai": [
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.06624",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.06820",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
