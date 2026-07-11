@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "last_updated": "2026-07-10 23:56 UTC",
+  "date": "2026-07-11",
+  "last_updated": "2026-07-11 23:52 UTC",
   "categories": {
     "science": [
       {
@@ -72,6 +72,17 @@
         "impact": 4
       },
       {
+        "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
+        "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sat, 11 Jul 2026 11:02:00 +0000",
+        "source_url": "https://www.wired.com/review/beatbot-aquasense-x/",
+        "image_url": "https://media.wired.com/photos/6a4edebe5c4c6eaef4e0bbcd/191:100/w_1280,c_limit/Review--Beatbot-AquaSense-X-Robotic-Pool-Cleaner.jpg",
+        "impact": 4
+      },
+      {
         "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
         "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
         "category": "Tech",
@@ -103,73 +114,62 @@
         "source_url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-1152x648.jpg",
         "impact": 3
-      },
-      {
-        "title": "Is an air-conditioning revolution coming to Europe?",
-        "summary": "The AC culture wars may be solved by advances in environmentally friendly technology.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 10 Jul 2026 11:10:08 +0000",
-        "source_url": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277821243-1152x648.jpg",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Genetic mapping identifies new hope for bone diseases",
-        "summary": "In a global breakthrough published in Nature Genetics, researchers have successfully mapped the cells and genes that regulate bone formation and loss at an unprecedented scale and discovered the critical role that blood vessel cells play in bone health.",
+        "title": "How AI accelerates radiopharmaceutical drug discovery, optimizes personalized dosimetry",
+        "summary": "A feature News and Perspectives story on technological advances in oncology was published in Journal of Medical Internet Research. Authored by JMIR Correspondent Benedette Cuffari, \"AI-Designed Radiopharmaceuticals: How Machine Learning Is Redefining Precision Cancer Therapy\" reports on the integration of deep learning",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 10 Jul 2026 09:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-genetic-bone-diseases.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-mapping-identi-3.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Health care spending gap between high- and low-income Americans continues to widen, study finds",
-        "summary": "A new study led by a University of Chicago researcher finds that health care spending in the United States has increasingly diverged between high- and low-income Americans over the past two decades. The analysis shows that through 2023, spending grew faster for high-income Americans, particularly on outpatient care and",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 10 Jul 2026 08:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-health-gap-high-income-americans.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/prescription-drug.jpg",
+        "published_at": "Sat, 11 Jul 2026 15:30:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-ai-radiopharmaceutical-drug-discovery-optimizes.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/intravenous-2.jpg",
         "impact": 4
       },
       {
-        "title": "New study provides first evidence of dopamine system injury in the brain of long COVID patients",
-        "summary": "A new brain imaging study led by researchers at the Center for Addiction and Mental Health (CAMH), published in eBioMedicine, provides the strongest evidence to date that long COVID is associated with injury to dopamine-releasing neurons in the brain—a finding that may explain symptoms such as lack of motivation due to",
+        "title": "Experimental drug reverses severe fatty liver disease by repairing the gut",
+        "summary": "An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door to a new class of treatments for MASH and potentially other diseases tied to gut health.",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 10 Jul 2026 19:30:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-evidence-dopamine-injury-brain-covid.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/brainimage.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 11 Jul 2026 09:22:55 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010116.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/magnifying-glass-diseased-liver.webp",
         "impact": 4
       },
       {
-        "title": "Novel microenvironment-targeted therapy for bone marrow recovery after injury",
-        "summary": "A healthy bone marrow (BM) produces nearly all types of cells in our blood. Many blood disorders occur when hematopoietic stem cells (HSCs) in the BM malfunction. Treatment with radiation or chemotherapy for many blood disorders and cancers can, as a side effect, deplete not only tumor cells but also hematopoietic cell",
+        "title": "Artemisinin resistance is rising in East Africa—leaving anti-malarials at risk of failure",
+        "summary": "Resistance to the main drug in front-line malaria treatments is becoming more widespread across East Africa, according to new research by Imperial College London. The study, published in The Lancet Infectious Diseases, maps the rise in artemisinin resistance in the region and suggests one of the safeguards built into t",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 10 Jul 2026 16:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-microenvironment-therapy-bone-marrow-recovery.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/blood.jpg",
+        "published_at": "Sat, 11 Jul 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-artemisinin-resistance-east-africa-anti.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/artemisinin-resistance.jpg",
         "impact": 4
       },
       {
-        "title": "Anticancer 'nanoswitch' technology shows promise in animal model of triple-negative breast cancer, colorectal cancer",
-        "summary": "A research team led by Professor Yoosoo Yang (Department of Integrative Biotechnology) of Sungkyunkwan University, in collaboration with the Korea Institute of Science and Technology (KIST) and Incheon National University, has developed a next-generation anticancer immunotherapy technology that targets and eliminates k",
+        "title": "Second prostate-specific membrane antigen PET scan can change treatment for nearly half of prostate cancer patients",
+        "summary": "A second prostate-specific membrane antigen (PSMA) PET scan changed treatment plans for nearly half of patients whose first scan was negative, according to new research published in the July issue of The Journal of Nuclear Medicine. Findings from the repeat PSMA scans, which included both local and distant disease, res",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 10 Jul 2026 08:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-anticancer-nanoswitch-technology-animal-triple.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-off-cancer-pro-1.jpg",
+        "published_at": "Sat, 11 Jul 2026 10:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-prostate-specific-membrane-antigen-pet.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/petscan.jpg",
+        "impact": 4
+      },
+      {
+        "title": "First E-STAR annual report offers unprecedented view of early access to kidney transplantation",
+        "summary": "Chronic kidney disease affects millions of Americans, and more than 800,000 people in the United States are living with end-stage kidney disease. While kidney transplantation is widely recognized as the preferred treatment for eligible patients, offering longer survival and improved quality of life, many remain on dial",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 10 Jul 2026 21:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-star-annual-unprecedented-view-early.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/kidney-transplant.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 5
       },
       {
+        "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video)",
+        "summary": "A SpaceX Falcon 9 rocket flew for the 35th time tonight (July 10), carrying 29 Starlink satellites to low Earth orbit.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 11 Jul 2026 04:02:20 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/4QiGY4JAWr7CBsYvQ9qN2X-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "NASA begins funding hardware for 'Skyfall' Mars helicopter mission",
         "summary": "NASA's nuclear-powered mission to Mars is taking shape with the selection of Firefly Aerospace to design and manufacture the protective aeroshell that will shield the Skyfall spacecraft's descent stage during its plummet through the Martian atmosphere.",
         "category": "Space",
@@ -254,47 +265,36 @@
         "impact": 4
       },
       {
-        "title": "Artemis 2's Jeremy Hansen stepping down from active astronaut duty after epic moon mission",
-        "summary": "The Canadian Space Agency's Jeremy Hansen will step back from active astronaut service in September for a new role.",
+        "title": "Waxing Gibbous Moon",
+        "summary": "The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighte",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 07 Jul 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/artemis-2s-jeremy-hansen-stepping-down-from-active-astronaut-duty-after-epic-moon-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/XX6vVfa8sKLrHPSFCwf7Me-1280-80.png",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 10 Jul 2026 15:08:59 +0000",
+        "source_url": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55379860699-326a74df60-o.jpg",
         "impact": 4
       },
       {
-        "title": "SpaceX ignites all 33 powerful engines on Starship booster ahead of Flight 13 launch",
-        "summary": "SpaceX completed an engine test of the next Super Heavy booster slated to launch Starship's next mission, which could lift off as soon as next week.",
+        "title": "This Week In Space podcast: Episode 218 — Which Way to the Moonbase?",
+        "summary": "On Episode 218 of This Week In Space, Rod Pyle and Tariq Malik discuss NASA's new moonbase plans with planetary scientist Dr. Pascal Lee.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Fri, 10 Jul 2026 16:13:48 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/QwtyE4P8VjftFE7AdiVd4H-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "The moon, Mars and the Pleiades form a stunning lineup before dawn on July 11. Here's how to see it",
-        "summary": "A slender crescent moon, Mars and Aldebaran and two sparkling star clusters will create a beautiful predawn scene for early risers on July 11.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 10 Jul 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/the-moon-mars-and-the-pleiades-form-a-stunning-lineup-before-dawn-on-july-11-heres-how-to-see-it",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/5GkxFQbaRg5XdD7YmN6G2Q-1280-80.jpg",
+        "published_at": "Sat, 11 Jul 2026 15:20:59 +0000",
+        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-218-which-way-to-the-moonbase",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ZzhgAZbP3wwGFYSyWBfeFR-1280-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
       {
         "title": "Astronomers Use a Neutron Star Merger to Measure Cosmic Expansion",
-        "summary": "Swinburne University of Technology and CSIRO have combined telescope and gravitational wave data in an attempt to unlock the true value of the Universe’s expansion. Existing measurements of the Hubble Constant have split cosmologists for more than a decade",
+        "summary": "Swinburne University of Technology and CSIRO have combined telescope and gravitational wave data in an attempt to unlock the true value of the Universe's expansion. Existing measurements of the Hubble Constant have split cosmologists for more than a decade.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Fri, 10 Jul 2026 17:05:51 +0000",
+        "published_at": "Fri, 10 Jul 2026 17:05:00 +0000",
         "source_url": "https://www.universetoday.com/articles/astronomers-use-a-neutron-star-merger-to-measure-cosmic-expansion",
         "image_url": "https://www.universetoday.com/article_images/cq5dam.web.2560.1440_20260709_202558.jpeg",
         "impact": 4
@@ -346,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
+        "summary": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador, Peru, Bolivia, Colombia, and Chile, páramos, dry highlands, temperate valleys, and snow-covered landscapes can exist within relatively short distances of one another. As elevation chang",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 11 Jul 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
+        "image_url": "https://images.adsttc.com/media/images/6a44/4fe1/8481/2b01/8af5/1a96/large_jpg/architecture-in-the-andes-how-altitude-shapes-design-decisions_2.jpg?1782861803",
+        "impact": 4
+      },
+      {
         "title": "Design Week Calgary 2026",
         "summary": "Where Calgary’s Creative Community Comes TogetherDesign Week Calgary is a city-wide festival celebrating the talent, creativity, and impact of Calgary’s design community. Through talks, exhibitions, workshops, installations, screenings, tours, and social events, the festival invites the public to explore how design sha",
         "category": "Architecture",
@@ -365,17 +376,6 @@
         "published_at": "Fri, 10 Jul 2026 07:30:00 +0000",
         "source_url": "https://www.archdaily.com/1092333/growing-knowledge-in-wood-10-timber-pavilion-experiments-from-the-classroom",
         "image_url": "https://images.adsttc.com/media/images/6a4e/9659/02e2/6d01/8916/5b8d/large_jpg/growing-knowledge-in-wood-10-timber-pavilion-experiments-from-the-classroom_6.jpg?1783535199",
-        "impact": 4
-      },
-      {
-        "title": "KOSMALT Housing Renovation / Atrium Architekti",
-        "summary": "KOSMALT is originally the largest workers' dormitory of the Košice steelworks VSŽ, built in the 1960s according to the design of architects Ladislav Greč and Róbert Kandrík. The name of the building refers to a type of enameled steel, the production of which was specific to the local steelworks. The building is located",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 09 Jul 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1054033/kosmalt-housing-renovation-atrium-architekti",
-        "image_url": "https://images.adsttc.com/media/images/6a4c/0a00/73b8/d479/fe1b/c7aa/large_jpg/kosmalt-housing-renovation-atrium-architekti_1.jpg?1783368277",
         "impact": 4
       },
       {
@@ -460,57 +460,57 @@
     ],
     "ai": [
       {
-        "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
-        "summary": "arXiv:2607.07379v1 Announce Type: new Abstract: In agentic scientific machine learning (SciML), large language model (LLM) agents can discover surrogate models and select one by an automated score, typically an error metric. A low error, however, does not establish that the predicted fields satisfy the physics that mat",
+        "title": "Agentic Neural Architecture Search",
+        "summary": "arXiv:2607.07984v1 Announce Type: new Abstract: Neural architecture search (NAS) methods have grown increasingly efficient, yet they remain bounded by manually engineered search spaces that require substantial domain expertise and must be rebuilt for every new task. Large language models (LLMs) can generate architectur",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.07379",
+        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.07984",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-        "summary": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the agent follows instruc",
+        "title": "Context Graphs for Proactive Enterprise Agents",
+        "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.06624",
+        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.07721",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-        "summary": "arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM reasoning with verifiab",
+        "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+        "summary": "arXiv:2607.07850v1 Announce Type: new Abstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is essential. Surface electromyography (sEMG) signals obtained from the forearm are commonly employed for this purpose. In this paper, we present a nov",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.06820",
+        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.07850",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
-        "summary": "arXiv:2607.07021v1 Announce Type: new Abstract: Humans continuously coordinate with others in dynamic interactions, often through implicit, hard-to-quantify social norms that act as shared tacit expectations among interacting agents. As AI agents, including large language models (LLMs), become embedded in daily life, t",
+        "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+        "summary": "arXiv:2607.07858v1 Announce Type: new Abstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, heterogeneous data sources, and regulated decision workflows. Actuaries now face a design space that ranges from traditiona",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.07021",
+        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.07858",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
-        "summary": "arXiv:2607.07097v1 Announce Type: new Abstract: Safety evaluations of multi-agent LLM systems often compare a direct prompt with a planner-executor pipeline and report the difference as a single \"pipeline effect.\" We argue that this aggregate is difficult to interpret because it conflates three mechanisms: harmful inte",
+        "title": "Evaluating the Effect of Frame Rate in Sequence-Based Classification of Autism-Related Self-Stimulatory Hand Idiosyncrasies",
+        "summary": "arXiv:2607.07957v1 Announce Type: new Abstract: Autism spectrum disorder (ASD) affects over 75 million individuals worldwide, yet scalable computational methods for remote behavioral screening remain limited. This study addresses two complementary challenges in automated detection of autism-related self-stimulatory beh",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.07097",
+        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.07957",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
