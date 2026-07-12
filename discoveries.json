@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-11",
-  "last_updated": "2026-07-11 23:52 UTC",
+  "date": "2026-07-12",
+  "last_updated": "2026-07-12 23:50 UTC",
   "categories": {
     "science": [
       {
@@ -72,6 +72,17 @@
         "impact": 4
       },
       {
+        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+        "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished,",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-12T12:27:06-04:00",
+        "source_url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "impact": 4
+      },
+      {
         "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
         "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
         "category": "Tech",
@@ -103,20 +114,20 @@
         "source_url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Aalo_s-completed-Critical-Test-Reactor-facility-1920.jpg?resize=1200,600",
         "impact": 4
-      },
-      {
-        "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
-        "summary": "Affected users will have to configure their lights and settings all over again.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 10 Jul 2026 16:36:09 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-1152x648.jpg",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Common blood pressure drug could make cancer therapy far more powerful",
+        "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and ",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 11 Jul 2026 19:42:15 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260709160648.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/female-doctor-holding-new-medicine.webp",
+        "impact": 5
+      },
       {
         "title": "How AI accelerates radiopharmaceutical drug discovery, optimizes personalized dosimetry",
         "summary": "A feature News and Perspectives story on technological advances in oncology was published in Journal of Medical Internet Research. Authored by JMIR Correspondent Benedette Cuffari, \"AI-Designed Radiopharmaceuticals: How Machine Learning Is Redefining Precision Cancer Therapy\" reports on the integration of deep learning",
@@ -140,6 +151,17 @@
         "impact": 4
       },
       {
+        "title": "Inhibiting protein to treat myeloproliferative neoplasms shows preclinical promise",
+        "summary": "Inhibiting menin, a protein that supports leukemia growth and is already targeted to treat some forms of leukemia, also holds promise for treating myeloproliferative neoplasms. A new study from scientists at St. Jude Children's Research Hospital showed that inhibiting menin significantly extended survival and reversed ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 12 Jul 2026 13:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-inhibiting-protein-myeloproliferative-neoplasms-preclinical.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/inhibiting-menin-to-tr.jpg",
+        "impact": 4
+      },
+      {
         "title": "Artemisinin resistance is rising in East Africa—leaving anti-malarials at risk of failure",
         "summary": "Resistance to the main drug in front-line malaria treatments is becoming more widespread across East Africa, according to new research by Imperial College London. The study, published in The Lancet Infectious Diseases, maps the rise in artemisinin resistance in the region and suggests one of the safeguards built into t",
         "category": "Medicine",
@@ -148,28 +170,6 @@
         "published_at": "Sat, 11 Jul 2026 17:00:01 EDT",
         "source_url": "https://medicalxpress.com/news/2026-07-artemisinin-resistance-east-africa-anti.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/artemisinin-resistance.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Second prostate-specific membrane antigen PET scan can change treatment for nearly half of prostate cancer patients",
-        "summary": "A second prostate-specific membrane antigen (PSMA) PET scan changed treatment plans for nearly half of patients whose first scan was negative, according to new research published in the July issue of The Journal of Nuclear Medicine. Findings from the repeat PSMA scans, which included both local and distant disease, res",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 11 Jul 2026 10:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-prostate-specific-membrane-antigen-pet.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/petscan.jpg",
-        "impact": 4
-      },
-      {
-        "title": "First E-STAR annual report offers unprecedented view of early access to kidney transplantation",
-        "summary": "Chronic kidney disease affects millions of Americans, and more than 800,000 people in the United States are living with end-stage kidney disease. While kidney transplantation is widely recognized as the preferred treatment for eligible patients, offering longer survival and improved quality of life, many remain on dial",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 10 Jul 2026 21:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-star-annual-unprecedented-view-early.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/kidney-transplant.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 5
       },
       {
+        "title": "Space medicine breakthrough? Kidney and liver tissue bioprinted off Earth for 1st time ever",
+        "summary": "California-based company Auxilium Biotechnologies just produced kidney and liver tissue in space for the first time, using a method called bioprinting,",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 12 Jul 2026 12:05:00 +0000",
+        "source_url": "https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/3gfjeM7iRcKjtB3AdJHJwE-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video)",
         "summary": "A SpaceX Falcon 9 rocket flew for the 35th time tonight (July 10), carrying 29 Starlink satellites to low Earth orbit.",
         "category": "Space",
@@ -265,25 +276,14 @@
         "impact": 4
       },
       {
-        "title": "Waxing Gibbous Moon",
-        "summary": "The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighte",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 10 Jul 2026 15:08:59 +0000",
-        "source_url": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55379860699-326a74df60-o.jpg",
-        "impact": 4
-      },
-      {
-        "title": "This Week In Space podcast: Episode 218 — Which Way to the Moonbase?",
-        "summary": "On Episode 218 of This Week In Space, Rod Pyle and Tariq Malik discuss NASA's new moonbase plans with planetary scientist Dr. Pascal Lee.",
+        "title": "149 million views! Artemis II moon mission breaks NASA's streaming record",
+        "summary": "The Artemis II astronauts made an impact on potentially hundreds of millions of people during their mission, according to NASA figures.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sat, 11 Jul 2026 15:20:59 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-218-which-way-to-the-moonbase",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ZzhgAZbP3wwGFYSyWBfeFR-1280-80.jpg",
+        "published_at": "Sun, 12 Jul 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PppwsZmRsj2FZVY5y3RVj7-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,17 +311,6 @@
         "impact": 4
       },
       {
-        "title": "James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site",
-        "summary": "To celebrate the fourth birthday of the James Webb Space Telescope, NASA has released a stunning image of the strangely shaped galaxy Centaurus A, the site of a cosmic collision 2 billion years ago.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 07 Jul 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/i9xQzqnXJtk7WJw5Wfy4vf-1280-80.png",
-        "impact": 4
-      },
-      {
         "title": "Steamy Nights at the Galactic Equator",
         "summary": "Here's an observing guide to both familiar and lesser-known deep-sky objects that inhabit our galaxy's equatorial zone. The post Steamy Nights at the Galactic Equator appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -342,9 +331,31 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Comet_McNaught_at_Paranal-ESO-Sebastian-Deiries-ST.jpg",
         "impact": 4
+      },
+      {
+        "title": "Hayabusa 2 Completes Flyby Past Asteroid Torifune",
+        "summary": "Japan’s Hayabusa 2 mission has revealed another \"snowman\" asteroid — a pair of asteroids attached with a narrow neck. The contact binary could help shed light on planet formation. The post Hayabusa 2 Completes Flyby Past Asteroid Torifune appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Tue, 07 Jul 2026 13:39:10 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/hayabusa-2-completes-flyby-past-asteroid-torifune/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/20260706-3-01-ezgif.com-jpg-to-webp-converter.webp",
+        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "Primrose House / Robust Architecture Workshop",
+        "summary": "Located within a dense suburban neighborhood in Kandy, Primrose House transforms a deteriorating two-bedroom dwelling into a light-filled home. Rather than demolishing the existing structure, the project embraces adaptive reuse as both an ecological strategy and a social proposition, demonstrating how under-performing ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 12 Jul 2026 17:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1092479/primrose-house-robust-architecture-workshop",
+        "image_url": "https://images.adsttc.com/media/images/6a50/f4a3/9997/a801/8891/f91b/large_jpg/primrose-house-robust-architecture-workshop_24.jpg?1783690418",
+        "impact": 4
+      },
       {
         "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
         "summary": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador, Peru, Bolivia, Colombia, and Chile, páramos, dry highlands, temperate valleys, and snow-covered landscapes can exist within relatively short distances of one another. As elevation chang",
@@ -354,28 +365,6 @@
         "published_at": "Sat, 11 Jul 2026 07:30:00 +0000",
         "source_url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
         "image_url": "https://images.adsttc.com/media/images/6a44/4fe1/8481/2b01/8af5/1a96/large_jpg/architecture-in-the-andes-how-altitude-shapes-design-decisions_2.jpg?1782861803",
-        "impact": 4
-      },
-      {
-        "title": "Design Week Calgary 2026",
-        "summary": "Where Calgary’s Creative Community Comes TogetherDesign Week Calgary is a city-wide festival celebrating the talent, creativity, and impact of Calgary’s design community. Through talks, exhibitions, workshops, installations, screenings, tours, and social events, the festival invites the public to explore how design sha",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 10 Jul 2026 09:05:00 +0000",
-        "source_url": "https://www.archdaily.com/1092499/design-week-calgary-2026",
-        "image_url": "https://images.adsttc.com/media/images/6a50/ee5d/61ff/5300/01d2/e919/large_jpg/Untitled.jpg?1783688801",
-        "impact": 4
-      },
-      {
-        "title": "Growing Knowledge in Wood: 10 Timber Pavilion Experiments from the Classroom",
-        "summary": "Wood is among architecture's oldest and most familiar materials, yet its contemporary use raises complex questions about environmental impact, resource availability, material provenance, and circularity in relation to local economies. At the same time, advances in computational design, CNC machining, and robotic fabric",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 10 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1092333/growing-knowledge-in-wood-10-timber-pavilion-experiments-from-the-classroom",
-        "image_url": "https://images.adsttc.com/media/images/6a4e/9659/02e2/6d01/8916/5b8d/large_jpg/growing-knowledge-in-wood-10-timber-pavilion-experiments-from-the-classroom_6.jpg?1783535199",
         "impact": 4
       },
       {
@@ -397,6 +386,17 @@
         "journal": "dezeen.com",
         "published_at": "Wed, 08 Jul 2026 05:00:24 +0000",
         "source_url": "https://www.dezeen.com/2026/07/08/jodhpur-airport-expansion-sthapati/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "BIG arranges circular Dymak HQ around stepped courtyard",
+        "summary": "Architecture studio BIG has completed the headquarters for Danish material supplier Dymak in Odense, Denmark, sheltering its rounded mass-timber structure with a roof evoking a Möbius strip. Perched on a verdant site overlooking the city's Glisholm Lake, the 2,800-square-metre circular building combines offices and sho",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 03 Jul 2026 10:30:17 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/03/big-dymak-headquarters-denmark/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "Agentic Neural Architecture Search",
-        "summary": "arXiv:2607.07984v1 Announce Type: new Abstract: Neural architecture search (NAS) methods have grown increasingly efficient, yet they remain bounded by manually engineered search spaces that require substantial domain expertise and must be rebuilt for every new task. Large language models (LLMs) can generate architectur",
+        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+        "summary": "",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.07984",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "huggingface.co",
+        "journal": "huggingface.co",
+        "published_at": "Mon, 01 Jun 2026 13:51:18 GMT",
+        "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+        "image_url": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
+        "impact": 4
       },
       {
-        "title": "Context Graphs for Proactive Enterprise Agents",
-        "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents",
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.07721",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 09 Jul 2026 13:00:00 GMT",
+        "source_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7Bf5twKHcGsjM0T5u43cg6/35ba64ea71cbb3590f551f7727c6cf71/Frame-1.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
-        "summary": "arXiv:2607.07850v1 Announce Type: new Abstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is essential. Surface electromyography (sEMG) signals obtained from the forearm are commonly employed for this purpose. In this paper, we present a nov",
+        "title": "Separating signal from noise in coding evaluations",
+        "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.07850",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 08 Jul 2026 13:00:00 GMT",
+        "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5f0Xf4wOuXVsX7TZUM4tjl/4672bf7bf93bad67ade28dce57f62638/Seperating-signal-from-noise-SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
-        "summary": "arXiv:2607.07858v1 Announce Type: new Abstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, heterogeneous data sources, and regulated decision workflows. Actuaries now face a design space that ranges from traditiona",
+        "title": "Introducing GPT-Live",
+        "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.07858",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 08 Jul 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/introducing-gpt-live",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Evaluating the Effect of Frame Rate in Sequence-Based Classification of Autism-Related Self-Stimulatory Hand Idiosyncrasies",
-        "summary": "arXiv:2607.07957v1 Announce Type: new Abstract: Autism spectrum disorder (ASD) affects over 75 million individuals worldwide, yet scalable computational methods for remote behavioral screening remain limited. This study addresses two complementary challenges in automated detection of autism-related self-stimulatory beh",
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 11 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.07957",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 26 Jun 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
