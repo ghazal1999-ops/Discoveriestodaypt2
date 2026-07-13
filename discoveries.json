@@ -1,8 +1,19 @@
 {
-  "date": "2026-07-12",
-  "last_updated": "2026-07-12 23:50 UTC",
+  "date": "2026-07-13",
+  "last_updated": "2026-07-13 23:52 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+        "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could he",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 13 Jul 2026 08:12:27 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp",
+        "impact": 5
+      },
       {
         "title": "A vitamin A discovery is changing what scientists know about vision",
         "summary": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The fi",
@@ -37,25 +48,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists finally crack nature's secret for building better cancer drugs",
-        "summary": "Researchers have cracked the code behind bacteria's ability to naturally manufacture multiple versions of powerful anti-cancer drugs. The discovery could make it much easier to engineer new cancer treatments inspired by nature, including improved versions of existing medicines.",
+        "title": "Microscope Breakthrough Could Reveal Proteins Once Thought Too Small To See",
+        "summary": "A laser-based innovation could allow electron microscopes to reveal biological structures that have long remained beyond their reach. Most human proteins remain too small for today’s most powerful biological microscopes to resolve clearly. A laser system developed by UC Berkeley physicists could help bring many of them",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 08 Jul 2026 17:28:31 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/docking-domains.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists discover a completely different way to fight viruses",
-        "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/nematostella-vectensis-sea-anemone.webp",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Mon, 13 Jul 2026 23:39:05 +0000",
+        "source_url": "https://scitechdaily.com/microscope-breakthrough-could-reveal-proteins-once-thought-too-small-to-see/",
+        "image_url": "https://scitechdaily.com/images/Cryo-EM-With-Laser-Phase-Plate-777x984.jpg",
         "impact": 5
       }
     ],
@@ -72,17 +72,6 @@
         "impact": 4
       },
       {
-        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-        "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished,",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-12T12:27:06-04:00",
-        "source_url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "impact": 4
-      },
-      {
         "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
         "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
         "category": "Tech",
@@ -91,17 +80,6 @@
         "published_at": "Sat, 11 Jul 2026 11:02:00 +0000",
         "source_url": "https://www.wired.com/review/beatbot-aquasense-x/",
         "image_url": "https://media.wired.com/photos/6a4edebe5c4c6eaef4e0bbcd/191:100/w_1280,c_limit/Review--Beatbot-AquaSense-X-Robotic-Pool-Cleaner.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-        "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 10 Jul 2026 06:00:00 +0000",
-        "source_url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-        "image_url": "https://media.wired.com/photos/6a4faec15defba4430906469/191:100/w_1280,c_limit/GettyImages-2284616220.jpg",
         "impact": 4
       },
       {
@@ -114,9 +92,42 @@
         "source_url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Aalo_s-completed-Critical-Test-Reactor-facility-1920.jpg?resize=1200,600",
         "impact": 4
+      },
+      {
+        "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+        "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 13 Jul 2026 23:31:18 +0000",
+        "source_url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+        "impact": 3
+      },
+      {
+        "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+        "summary": "Washington, D.C. has become a battleground for Uber and Waymo's competing views.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 13 Jul 2026 12:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/uber-waymo.jpeg?resize=1200,900",
+        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Ibuprofen safely dampens inflammatory markers in 28-patient drug-resistant tuberculosis trial",
+        "summary": "The Experimental Tuberculosis Unit (UTE) at the Germans Trias i Pujol Research Institute (IGTP) has published in Nature Communications the results of a phase IIa pilot clinical trial assessing ibuprofen as a host-directed therapy in patients with pre-extensively drug-resistant tuberculosis (pre-XDR-TB) and extensively ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 13 Jul 2026 13:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-ibuprofen-safely-dampens-inflammatory-markers.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/taking-medication-2.jpg",
+        "impact": 5
+      },
       {
         "title": "Common blood pressure drug could make cancer therapy far more powerful",
         "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and ",
@@ -129,14 +140,14 @@
         "impact": 5
       },
       {
-        "title": "How AI accelerates radiopharmaceutical drug discovery, optimizes personalized dosimetry",
-        "summary": "A feature News and Perspectives story on technological advances in oncology was published in Journal of Medical Internet Research. Authored by JMIR Correspondent Benedette Cuffari, \"AI-Designed Radiopharmaceuticals: How Machine Learning Is Redefining Precision Cancer Therapy\" reports on the integration of deep learning",
+        "title": "Study finds obesity 'fuels' leukemia, but a combo using popular weight-loss drugs may stop it",
+        "summary": "Obesity can act as fuel for leukemia, according to a study led by Indiana University School of Medicine scientists. To help patients facing aggressive blood cancers overcome this metabolic risk, researchers identified a potential treatment strategy that combines popular weight-loss medications with anti-inflammatory dr",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 11 Jul 2026 15:30:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-ai-radiopharmaceutical-drug-discovery-optimizes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/intravenous-2.jpg",
+        "published_at": "Mon, 13 Jul 2026 15:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-obesity-fuels-leukemia-combo-popular.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-obesity-fu.jpg",
         "impact": 4
       },
       {
@@ -151,25 +162,14 @@
         "impact": 4
       },
       {
-        "title": "Inhibiting protein to treat myeloproliferative neoplasms shows preclinical promise",
-        "summary": "Inhibiting menin, a protein that supports leukemia growth and is already targeted to treat some forms of leukemia, also holds promise for treating myeloproliferative neoplasms. A new study from scientists at St. Jude Children's Research Hospital showed that inhibiting menin significantly extended survival and reversed ",
+        "title": "A natural compound steps into the estrogen arena",
+        "summary": "Uterine fibroids and endometriosis are two of the most common gynecologic diseases, affecting 15% to 80% of women of childbearing age. Existing treatments—hormonal drugs and selective estrogen receptor modulators—have side effects and cannot reliably prevent recurrence. This is why less harmful non-hormonal therapies a",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 12 Jul 2026 13:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-inhibiting-protein-myeloproliferative-neoplasms-preclinical.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/inhibiting-menin-to-tr.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Artemisinin resistance is rising in East Africa—leaving anti-malarials at risk of failure",
-        "summary": "Resistance to the main drug in front-line malaria treatments is becoming more widespread across East Africa, according to new research by Imperial College London. The study, published in The Lancet Infectious Diseases, maps the rise in artemisinin resistance in the region and suggests one of the safeguards built into t",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 11 Jul 2026 17:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-artemisinin-resistance-east-africa-anti.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/artemisinin-resistance.jpg",
+        "published_at": "Mon, 13 Jul 2026 19:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-natural-compound-estrogen-arena.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-natural-compound-ste.jpg",
         "impact": 4
       }
     ],
@@ -232,15 +232,26 @@
     ],
     "space": [
       {
-        "title": "Japanese company books 1,100 pounds of cargo space on SpaceX Starship mission to the moon",
-        "summary": "The Japanese company ispace is expanding its already extensive moon plans to include SpaceX's Starship megarocket.",
+        "title": "Getting Vikram-1 to orbit: Inside Skyroot Aerospace's coming bid to make spaceflight history",
+        "summary": "Backed by a $1.1 billion valuation, Skyroot Aerospace is betting that its Vikram-1 rocket can help transform India's commercial launch industry. And Vikram-1 is set to fly soon.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 08 Jul 2026 22:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/japanese-company-books-1-100-pounds-of-cargo-space-on-spacex-starship-mission-to-the-moon",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/vwNyDJdn8HrEL2pXLA5u9G-1280-80.jpg",
-        "impact": 5
+        "published_at": "Mon, 13 Jul 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/getting-vikram-1-to-orbit-inside-skyroot-aerospaces-coming-bid-to-make-spaceflight-history",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/6WCq922SsHek2mexvBgBSb-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "The FCC just gave Reflect Orbital permission to launch its 1st space mirror to orbit. Tens of thousands more could follow",
+        "summary": "Reflect Orbital just got approval to launch its first light-directing space mirror, which it plans to do later this year. Tens of thousands more such craft could follow over the next 10 years.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 13 Jul 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/GbLL8qvNJdDvc6PZ5V3Ccf-1280-80.jpg",
+        "impact": 4
       },
       {
         "title": "Space medicine breakthrough? Kidney and liver tissue bioprinted off Earth for 1st time ever",
@@ -265,25 +276,14 @@
         "impact": 4
       },
       {
-        "title": "NASA begins funding hardware for 'Skyfall' Mars helicopter mission",
-        "summary": "NASA's nuclear-powered mission to Mars is taking shape with the selection of Firefly Aerospace to design and manufacture the protective aeroshell that will shield the Skyfall spacecraft's descent stage during its plummet through the Martian atmosphere.",
+        "title": "Waxing Gibbous Moon",
+        "summary": "The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighte",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 08 Jul 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasa-begins-funding-hardware-for-skyfall-mars-helicopter-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Ecdqvb3DAvUiKpEmgrmQpe-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "149 million views! Artemis II moon mission breaks NASA's streaming record",
-        "summary": "The Artemis II astronauts made an impact on potentially hundreds of millions of people during their mission, according to NASA figures.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 12 Jul 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/PppwsZmRsj2FZVY5y3RVj7-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 10 Jul 2026 15:08:59 +0000",
+        "source_url": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55379860699-326a74df60-o.jpg",
         "impact": 4
       }
     ],
@@ -297,17 +297,6 @@
         "published_at": "Fri, 10 Jul 2026 17:05:00 +0000",
         "source_url": "https://www.universetoday.com/articles/astronomers-use-a-neutron-star-merger-to-measure-cosmic-expansion",
         "image_url": "https://www.universetoday.com/article_images/cq5dam.web.2560.1440_20260709_202558.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "7,000 Galaxy Clusters, Hiding in Plain Sight",
-        "summary": "A five year survey by the South Pole Telescope has produced a catalogue of more than seven thousand galaxy clusters, some dating back nearly eight billion years, giving astronomers their most detailed map yet of the universe's largest structures. Hidden inside the data is something even the researchers did not expect, ",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 08 Jul 2026 23:43:04 +0000",
-        "source_url": "https://www.universetoday.com/articles/7000-galaxy-clusters-hiding-in-plain-sight",
-        "image_url": "https://www.universetoday.com/article_images/South_pole_telescope_during_polar_night_20260708_234147.jpg",
         "impact": 4
       },
       {
@@ -342,9 +331,53 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/hayabusa-2-completes-flyby-past-asteroid-torifune/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/20260706-3-01-ezgif.com-jpg-to-webp-converter.webp",
         "impact": 4
+      },
+      {
+        "title": "Chemistry Reveals the Origins of an Interstellar Comet",
+        "summary": "Somewhere in the Milky Way Galaxy is an old star that has lost one of its comets. By some quirk of orbital mechanics, that frozen nucleus of ice and dust got kicked out of its home system and into a long and winding trajectory across space. It entered our Solar System sometime in the distant past and traveled somewhat ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Mon, 13 Jul 2026 20:00:44 +0000",
+        "source_url": "https://www.universetoday.com/articles/chemistry-reveals-the-origins-of-an-interstellar-comet",
+        "image_url": "https://www.universetoday.com/article_images/3I-ATLAS_noirlab2532b_2_20260713_193600.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "Rivers Before Roads: How Southeast Asia's Waterways Produced an Alternative Urbanism",
+        "summary": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the façades they present to sidewalks. Roads appear so fundamental to urban life that they are often mistaken for a universal ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 13 Jul 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
+        "image_url": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
+        "impact": 4
+      },
+      {
+        "title": "Teatro Mauri Restoration Preserves a 1951 Modernist Landmark in Valparaíso, Chile",
+        "summary": "In June 2026, the refurbished Teatro Mauri reopened its doors on Cerro Bellavista in Valparaíso, formerly Chile's main port. The building forms part of Latin America's modernist legacy and stands adjacent to La Sebastiana, one of the renowned residences of the poet Pablo Neruda. It was designed by architect Alfredo Var",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 13 Jul 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1148542/teatro-mauri-restoration-revives-a-1951-modernist-landmark-in-valparaiso-chile",
+        "image_url": "https://images.adsttc.com/media/images/6a54/744d/a6cc/5601/89e4/e15c/large_jpg/teatro-mauri_1.jpg?1783919718",
+        "impact": 4
+      },
+      {
+        "title": "Sants Social Center / LAOS (Xavier Botet + Albert Saboya)",
+        "summary": "The rehabilitation project is based on the premise of placing people, the neighbourhood, activities, and social life at the centre of architecture. The proposal transforms a building originally constructed in 1950, deeply altered over time, into a contemporary, flexible, and sustainable facility capable of continuing t",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 13 Jul 2026 03:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1043023/sants-social-center-laos-xavier-botet-plus-albert-saboya",
+        "image_url": "https://images.adsttc.com/media/images/6a4e/1658/2be1/1205/b990/11be/large_jpg/sants-social-center-laos-xavier-botet-plus-albert-saboya_19.jpg?1783502446",
+        "impact": 4
+      },
       {
         "title": "Primrose House / Robust Architecture Workshop",
         "summary": "Located within a dense suburban neighborhood in Kandy, Primrose House transforms a deteriorating two-bedroom dwelling into a light-filled home. Rather than demolishing the existing structure, the project embraces adaptive reuse as both an ecological strategy and a social proposition, demonstrating how under-performing ",
@@ -357,17 +390,6 @@
         "impact": 4
       },
       {
-        "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
-        "summary": "The Andes are often understood as a continuous mountain range, yet they encompass a wide range of climates and ecosystems. In Ecuador, Peru, Bolivia, Colombia, and Chile, páramos, dry highlands, temperate valleys, and snow-covered landscapes can exist within relatively short distances of one another. As elevation chang",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sat, 11 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
-        "image_url": "https://images.adsttc.com/media/images/6a44/4fe1/8481/2b01/8af5/1a96/large_jpg/architecture-in-the-andes-how-altitude-shapes-design-decisions_2.jpg?1782861803",
-        "impact": 4
-      },
-      {
         "title": "KPMB reveals designs for David Geffen School of Drama at Yale University",
         "summary": "Canadian architecture studio KPMB has released renderings of the new Dramatic Arts Building at Yale University, establishing the first consolidated space for the David Geffen School of Drama since its inception in 1924. The 207,000-square-foot (19,230-square-metre) design will host staged performances of the Yale Reper",
         "category": "Architecture",
@@ -377,42 +399,9 @@
         "source_url": "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Sthapati \"draws from Jodhpur's royal past\" for pastel-coloured airport",
-        "summary": "Architecture studio Sthapati took visual cues from local palaces and gateways for its expansion of the Jodhpur Airport in Rajasthan, India. Unlike the majority of airports, the distinctive form of the 23,400-square-metre terminal building was directly informed by historic local architecture, including the Mehrangarh Fo",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 08 Jul 2026 05:00:24 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/08/jodhpur-airport-expansion-sthapati/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "BIG arranges circular Dymak HQ around stepped courtyard",
-        "summary": "Architecture studio BIG has completed the headquarters for Danish material supplier Dymak in Odense, Denmark, sheltering its rounded mass-timber structure with a roof evoking a Möbius strip. Perched on a verdant site overlooking the city's Glisholm Lake, the 2,800-square-metre circular building combines offices and sho",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 03 Jul 2026 10:30:17 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/03/big-dymak-headquarters-denmark/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Sector urges presumed new PM to back infrastructure via loyalty to strategy and new department",
-        "summary": "Leading figures from across UK construction and engineering have called on the next prime minister to stick with the government's recently published infrastructure plans and consider creating a dedicated Department for Infrastructure. The post Sector urges presumed new PM to back infrastructure via loyalty to strategy ",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 09 Jul 2026 15:31:05 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/sector-urges-presumed-new-pm-to-back-infrastructure-via-loyalty-to-strategy-and-new-department-09-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/shutterstock_2620748557-560x315.jpg",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -436,15 +425,26 @@
         "impact": 4
       },
       {
-        "title": "Lords push through bill that would see ecosystems considered ‘legal subjects’",
-        "summary": "The House of Lords has pushed through a proposed Nature’s Rights Bill that would recognise ecosystems and species as legal subjects aiming to transform how construction and engineering projects are planned and consented. The post Lords push through bill that would see ecosystems considered &#8216;legal subjects&#8217; ",
+        "title": "Micron pours first concrete at $100B New York chip fab",
+        "summary": "The chipmaker announced the milestone more than one quarter ahead of the original schedule on the megaproject that includes Gilbane, Bechtel and Jacobs.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 09 Jul 2026 16:10:15 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/lords-push-through-bill-that-would-see-ecosystems-considered-legal-subjects-09-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/10/wetland-nature-biodiversity-environment-green-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 13 Jul 2026 15:13:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/micron-concrete-pour-new-york-chip-fab/825093/",
+        "image_url": "https://imgproxy.divecdn.com/9jyZAmYqJGbhX_hjzgtppKY4etVVHPrDj2nBVz-VTEQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZS0xOC5qcGc=.webp",
+        "impact": 3
+      },
+      {
+        "title": "How BIM is becoming construction’s most effective margin protection strategy",
+        "summary": "Along with design support, BIM is also becoming one of construction&rsquo;s smartest margin plays.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 13 Jul 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/how-bim-is-becoming-constructions-most-effective-margin-protection-strateg/824173/",
+        "image_url": "https://imgproxy.divecdn.com/Qfhy_1WNJD2AuLIHNEbU7GfcxFG97a9T2Ojt3mj0B2k/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDQweDYxNl8yLnBuZw==.webp",
+        "impact": 3
       },
       {
         "title": "Acciona to acquire Georgia infrastructure firm",
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-        "summary": "",
+        "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+        "summary": "arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochastic behavior. We prese",
         "category": "AI",
-        "source": "huggingface.co",
-        "journal": "huggingface.co",
-        "published_at": "Mon, 01 Jun 2026 13:51:18 GMT",
-        "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-        "image_url": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.08894",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-        "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+        "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+        "summary": "arXiv:2607.09076v1 Announce Type: new Abstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based monitoring in industrial IoT environments. While Large Language Models (LLMs) have strong semantic reasoning abilities t",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 09 Jul 2026 13:00:00 GMT",
-        "source_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7Bf5twKHcGsjM0T5u43cg6/35ba64ea71cbb3590f551f7727c6cf71/Frame-1.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09076",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Separating signal from noise in coding evaluations",
-        "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+        "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+        "summary": "arXiv:2607.09153v1 Announce Type: new Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly boost the capabilities of LLM-based multi-agent systems. However, existing PRMs are text-based: they re-encode the entire trajectory text f",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 08 Jul 2026 13:00:00 GMT",
-        "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5f0Xf4wOuXVsX7TZUM4tjl/4672bf7bf93bad67ade28dce57f62638/Seperating-signal-from-noise-SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09153",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Introducing GPT-Live",
-        "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+        "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+        "summary": "arXiv:2607.09175v1 Announce Type: new Abstract: Deployed LLM agents rely on agentic context, the model-external textual control content assembled by an operational harness. In this work, the mutable component of that context is a persistent system-level instruction that is updated from operational experience while the ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 08 Jul 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/introducing-gpt-live",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09175",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Previewing GPT-5.6 Sol: a next-generation model",
-        "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+        "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+        "summary": "arXiv:2607.09195v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with broad knowledge, flexible reasoning, and tool use, they have the potential to autonomously explore and solve scientific problems by repeated",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 26 Jun 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09195",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
