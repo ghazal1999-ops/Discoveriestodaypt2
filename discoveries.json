@@ -1,8 +1,19 @@
 {
-  "date": "2026-07-13",
-  "last_updated": "2026-07-13 23:52 UTC",
+  "date": "2026-07-14",
+  "last_updated": "2026-07-14 23:50 UTC",
   "categories": {
     "science": [
+      {
+        "title": "New technique for building ultra-thin material stacks promises quantum breakthrough",
+        "summary": "Scientists have unveiled a new fabrication technique for the ultra-clean manufacturing of 2D heterostructures—materials just a few atoms thick—that could be used in quantum technology and electronics. Experts from Southampton and Singapore say the method could be used to develop next-generation devices that accelerate ",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 14 Jul 2026 19:00:12 EDT",
+        "source_url": "https://phys.org/news/2026-07-technique-ultra-thin-material-stacks.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-unveil-tech.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists discovered the brain doesn't make decisions the way we thought",
         "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could he",
@@ -46,42 +57,9 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/chip-dna-writer.webp",
         "impact": 5
-      },
-      {
-        "title": "Microscope Breakthrough Could Reveal Proteins Once Thought Too Small To See",
-        "summary": "A laser-based innovation could allow electron microscopes to reveal biological structures that have long remained beyond their reach. Most human proteins remain too small for today’s most powerful biological microscopes to resolve clearly. A laser system developed by UC Berkeley physicists could help bring many of them",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Mon, 13 Jul 2026 23:39:05 +0000",
-        "source_url": "https://scitechdaily.com/microscope-breakthrough-could-reveal-proteins-once-thought-too-small-to-see/",
-        "image_url": "https://scitechdaily.com/images/Cryo-EM-With-Laser-Phase-Plate-777x984.jpg",
-        "impact": 5
       }
     ],
     "tech": [
-      {
-        "title": "The Download: worms fight pollution, and geoengineering faces reality",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, we",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 08 Jul 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-006-social.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
-        "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Sat, 11 Jul 2026 11:02:00 +0000",
-        "source_url": "https://www.wired.com/review/beatbot-aquasense-x/",
-        "image_url": "https://media.wired.com/photos/6a4edebe5c4c6eaef4e0bbcd/191:100/w_1280,c_limit/Review--Beatbot-AquaSense-X-Robotic-Pool-Cleaner.jpg",
-        "impact": 4
-      },
       {
         "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8",
@@ -94,40 +72,51 @@
         "impact": 4
       },
       {
-        "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-        "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+        "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+        "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 13 Jul 2026 23:31:18 +0000",
-        "source_url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+        "published_at": "Tue, 14 Jul 2026 22:22:24 +0000",
+        "source_url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
-        "summary": "Washington, D.C. has become a battleground for Uber and Waymo's competing views.",
+        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+        "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 13 Jul 2026 12:30:00 +0000",
-        "source_url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/uber-waymo.jpeg?resize=1200,900",
+        "published_at": "Tue, 14 Jul 2026 19:42:27 +0000",
+        "source_url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
+        "impact": 3
+      },
+      {
+        "title": "Reflection inks $1B compute deal with Nebius",
+        "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 14 Jul 2026 14:37:48 +0000",
+        "source_url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/cash-in-mattress-e1685738668559.jpg?resize=1200,701",
+        "impact": 3
+      },
+      {
+        "title": "OpenAI may announce a ChatGPT smart speaker this year",
+        "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that a",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-14T17:26:32-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Ibuprofen safely dampens inflammatory markers in 28-patient drug-resistant tuberculosis trial",
-        "summary": "The Experimental Tuberculosis Unit (UTE) at the Germans Trias i Pujol Research Institute (IGTP) has published in Nature Communications the results of a phase IIa pilot clinical trial assessing ibuprofen as a host-directed therapy in patients with pre-extensively drug-resistant tuberculosis (pre-XDR-TB) and extensively ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 13 Jul 2026 13:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-ibuprofen-safely-dampens-inflammatory-markers.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/taking-medication-2.jpg",
-        "impact": 5
-      },
       {
         "title": "Common blood pressure drug could make cancer therapy far more powerful",
         "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and ",
@@ -140,14 +129,25 @@
         "impact": 5
       },
       {
-        "title": "Study finds obesity 'fuels' leukemia, but a combo using popular weight-loss drugs may stop it",
-        "summary": "Obesity can act as fuel for leukemia, according to a study led by Indiana University School of Medicine scientists. To help patients facing aggressive blood cancers overcome this metabolic risk, researchers identified a potential treatment strategy that combines popular weight-loss medications with anti-inflammatory dr",
+        "title": "Virtual, sustained smoking cessation program for cancer patients doubles quitting rate, clinical trial shows",
+        "summary": "A new study shows that a smoking cessation treatment program delivered in community oncology care settings can nearly double quit rates for patients with cancer who currently smoke. Investigators from Mass General Brigham Cancer Institute and Memorial Sloan Kettering Cancer Center led a randomized clinical trial for th",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 13 Jul 2026 15:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-obesity-fuels-leukemia-combo-popular.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-obesity-fu.jpg",
+        "published_at": "Tue, 14 Jul 2026 19:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-virtual-sustained-cessation-cancer-patients.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/smoker.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Immunotherapy shows long-term promise in aggressive lymphoma",
+        "summary": "A leading-edge immunotherapy may extend survival for patients with one of the most aggressive forms of blood cancer, according to newly published five-year results from a major clinical trial in the Blood Journal. The clinical trial evaluated lisocabtagene maraleucel (liso-cel), a type of chimeric antigen receptor (CAR",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 14 Jul 2026 16:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-immunotherapy-term-aggressive-lymphoma.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2016/lymphoma.jpg",
         "impact": 4
       },
       {
@@ -162,14 +162,14 @@
         "impact": 4
       },
       {
-        "title": "A natural compound steps into the estrogen arena",
-        "summary": "Uterine fibroids and endometriosis are two of the most common gynecologic diseases, affecting 15% to 80% of women of childbearing age. Existing treatments—hormonal drugs and selective estrogen receptor modulators—have side effects and cannot reliably prevent recurrence. This is why less harmful non-hormonal therapies a",
+        "title": "Patients who suffer heart attack have more micro and nanoplastic in their blood",
+        "summary": "People who suffered a serious heart attack had higher levels of micro- and nanoplastics in their blood compared with patients diagnosed with chronic ischemic heart disease and those with normal blood vessels supplying the heart, according to a study published in the European Heart Journal on Wednesday.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 13 Jul 2026 19:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-natural-compound-estrogen-arena.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-natural-compound-ste.jpg",
+        "published_at": "Tue, 14 Jul 2026 18:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-patients-heart-micro-nanoplastic-blood.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/ambulance.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit",
+        "summary": "SpaceX launched Starlink satellites on a pair of Falcon 9 rockets eight hours apart from opposite coasts on July 13-14, 2026. The second launch was the 600th use of a flight-proven booster.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 14 Jul 2026 22:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-14-b1093-vsfb-ocisly-10-45-b1080-ccsfs-asog",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ERvE5g2UwJCLvcfyGLw4gf-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "1st-ever X-rays in space offer hope for possible patients headed to the moon",
+        "summary": "A portable X-ray device has been used successfully in orbit for the first time, promising X-ray diagnosis of everything from broken bones to ripped spacesuits and damaged satellites.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 14 Jul 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/human-spaceflight/1st-ever-x-rays-in-space-offer-hope-for-possible-patients-headed-to-the-moon",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/fT3oMbBxWxNtrf4fNYNcPC-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Getting Vikram-1 to orbit: Inside Skyroot Aerospace's coming bid to make spaceflight history",
         "summary": "Backed by a $1.1 billion valuation, Skyroot Aerospace is betting that its Vikram-1 rocket can help transform India's commercial launch industry. And Vikram-1 is set to fly soon.",
         "category": "Space",
@@ -263,31 +285,20 @@
         "source_url": "https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever",
         "image_url": "https://cdn.mos.cms.futurecdn.net/3gfjeM7iRcKjtB3AdJHJwE-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video)",
-        "summary": "A SpaceX Falcon 9 rocket flew for the 35th time tonight (July 10), carrying 29 Starlink satellites to low Earth orbit.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 11 Jul 2026 04:02:20 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/4QiGY4JAWr7CBsYvQ9qN2X-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Waxing Gibbous Moon",
-        "summary": "The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighte",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 10 Jul 2026 15:08:59 +0000",
-        "source_url": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55379860699-326a74df60-o.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "\"Rogue\" Neptunes Are Detached But Not Alone",
+        "summary": "\"Rogue\" Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. The post &quot;Rogue&quot; Neptunes Are Detached But Not Alone appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Tue, 14 Jul 2026 19:36:34 +0000",
+        "source_url": "https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/rogueplanet_feat.jpg",
+        "impact": 4
+      },
       {
         "title": "Astronomers Use a Neutron Star Merger to Measure Cosmic Expansion",
         "summary": "Swinburne University of Technology and CSIRO have combined telescope and gravitational wave data in an attempt to unlock the true value of the Universe's expansion. Existing measurements of the Hubble Constant have split cosmologists for more than a decade.",
@@ -331,62 +342,51 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/hayabusa-2-completes-flyby-past-asteroid-torifune/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/20260706-3-01-ezgif.com-jpg-to-webp-converter.webp",
         "impact": 4
-      },
-      {
-        "title": "Chemistry Reveals the Origins of an Interstellar Comet",
-        "summary": "Somewhere in the Milky Way Galaxy is an old star that has lost one of its comets. By some quirk of orbital mechanics, that frozen nucleus of ice and dust got kicked out of its home system and into a long and winding trajectory across space. It entered our Solar System sometime in the distant past and traveled somewhat ",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 13 Jul 2026 20:00:44 +0000",
-        "source_url": "https://www.universetoday.com/articles/chemistry-reveals-the-origins-of-an-interstellar-comet",
-        "image_url": "https://www.universetoday.com/article_images/3I-ATLAS_noirlab2532b_2_20260713_193600.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Rivers Before Roads: How Southeast Asia's Waterways Produced an Alternative Urbanism",
-        "summary": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the façades they present to sidewalks. Roads appear so fundamental to urban life that they are often mistaken for a universal ",
+        "title": "Open Call: Reimagine the Adriatic Waterfront at Marina Opatija",
+        "summary": "M3 Monaco's Smart &amp; Sustainable Marina Rendezvous competition returns for its sixth edition with an open-architecture Call for Ideas centered on Marina Opatija, on Croatia's Kvarner Bay. This article sets out what the competition asks of designers: a focused, high-impact intervention built around three required bui",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 13 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
-        "image_url": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
+        "published_at": "Tue, 14 Jul 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1042949/open-call-reimagine-the-adriatic-waterfront-at-marina-opatija",
+        "image_url": "https://images.adsttc.com/media/images/6a46/1430/ebd1/e401/893a/aa39/large_jpg/open-call-reimagine-the-adriatic-waterfront-at-marina-opatija_7.jpg?1782977592",
         "impact": 4
       },
       {
-        "title": "Teatro Mauri Restoration Preserves a 1951 Modernist Landmark in Valparaíso, Chile",
-        "summary": "In June 2026, the refurbished Teatro Mauri reopened its doors on Cerro Bellavista in Valparaíso, formerly Chile's main port. The building forms part of Latin America's modernist legacy and stands adjacent to La Sebastiana, one of the renowned residences of the poet Pablo Neruda. It was designed by architect Alfredo Var",
+        "title": "Herzog & de Meuron Unveils New Images of Lusail Museum on Qatar's Al Maha Island",
+        "summary": "Al Maha Island is a 230,000 m² human-made island located off the coast of Lusail, Qatar. Built as an entertainment and leisure destination north of Doha, it opened in 2022, just ahead of the FIFA World Cup. In 2024, Qatar Museums released renderings of the future Lusail Museum, designed by Swiss architecture office Her",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 13 Jul 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1148542/teatro-mauri-restoration-revives-a-1951-modernist-landmark-in-valparaiso-chile",
-        "image_url": "https://images.adsttc.com/media/images/6a54/744d/a6cc/5601/89e4/e15c/large_jpg/teatro-mauri_1.jpg?1783919718",
+        "published_at": "Tue, 14 Jul 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1148610/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-on-qatars-al-maha-island",
+        "image_url": "https://images.adsttc.com/media/images/6a55/182b/97ef/2501/8be5/90ef/large_jpg/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-in-qatar_5.jpg?1783961716",
         "impact": 4
       },
       {
-        "title": "Sants Social Center / LAOS (Xavier Botet + Albert Saboya)",
-        "summary": "The rehabilitation project is based on the premise of placing people, the neighbourhood, activities, and social life at the centre of architecture. The proposal transforms a building originally constructed in 1950, deeply altered over time, into a contemporary, flexible, and sustainable facility capable of continuing t",
+        "title": "Heavily stylistic approach to stadium design \"should die down\" says Populous global director Jonathan Mallie",
+        "summary": "Continuing our Future Stadium series, we interview architect Jonathan Mallie about the combination of urban planning, computational design and economics behind Populous, the studio driving global stadium design. If you attend professional sporting events, there's a good chance you've sat in a stadium designed by Populo",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 13 Jul 2026 03:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1043023/sants-social-center-laos-xavier-botet-plus-albert-saboya",
-        "image_url": "https://images.adsttc.com/media/images/6a4e/1658/2be1/1205/b990/11be/large_jpg/sants-social-center-laos-xavier-botet-plus-albert-saboya_19.jpg?1783502446",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 14 Jul 2026 14:30:43 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/14/jonathan-mallie-populous-interview-future-stadium/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "Primrose House / Robust Architecture Workshop",
-        "summary": "Located within a dense suburban neighborhood in Kandy, Primrose House transforms a deteriorating two-bedroom dwelling into a light-filled home. Rather than demolishing the existing structure, the project embraces adaptive reuse as both an ecological strategy and a social proposition, demonstrating how under-performing ",
+        "title": "Neri&Hu wraps Hong Kong hotel in \"urban tapestry\" facade",
+        "summary": "Architecture studio Neri&#38;Hu has upgraded the facade of Mandarin Oriental The Landmark in Hong Kong, using staggered terracotta tiles to resemble a piece of woven tapestry. Located on Queen's Road in Hong Kong's Central district, the hotel was recently renovated by Joyce Wang Studio with Neri&#38;Hu creating a facad",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 12 Jul 2026 17:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1092479/primrose-house-robust-architecture-workshop",
-        "image_url": "https://images.adsttc.com/media/images/6a50/f4a3/9997/a801/8891/f91b/large_jpg/primrose-house-robust-architecture-workshop_24.jpg?1783690418",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 14 Jul 2026 07:00:42 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/14/nerihu-mandarin-oriental-the-landmark-facade-hong-kong/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -425,92 +425,92 @@
         "impact": 4
       },
       {
-        "title": "Micron pours first concrete at $100B New York chip fab",
-        "summary": "The chipmaker announced the milestone more than one quarter ahead of the original schedule on the megaproject that includes Gilbane, Bechtel and Jacobs.",
+        "title": "Ceca: Major project ratings should be an ‘early warning’ system",
+        "summary": "As the representative body for the companies who build, maintain, and deliver UK infrastructure, the Civil Engineering Contractors Association (Ceca) welcomes evidence of improving confidence across the government’s portfolio of major projects, as set out in this week’s National Infrastructure and Service Transformatio",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 14 Jul 2026 05:30:20 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/ceca-major-project-ratings-should-be-an-early-warning-system-14-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/hs2-m6-west-viaduct-preparation-for-slide-1-1024x682.webp",
+        "impact": 4
+      },
+      {
+        "title": "The $1.2T IIJA expires Sept. 30. That’s making construction execs nervous.",
+        "summary": "&ldquo;If federal funding is reduced or fails to keep pace with growth and inflation, our projects will be postponed,&rdquo; said Lynn Hansen, CEO of Crowder Constructors.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 13 Jul 2026 15:13:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/micron-concrete-pour-new-york-chip-fab/825093/",
-        "image_url": "https://imgproxy.divecdn.com/9jyZAmYqJGbhX_hjzgtppKY4etVVHPrDj2nBVz-VTEQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZS0xOC5qcGc=.webp",
+        "published_at": "Tue, 14 Jul 2026 12:26:18 -0400",
+        "source_url": "https://www.constructiondive.com/news/iija-expiration-september-construction-execs-want-new-funds/825184/",
+        "image_url": "https://imgproxy.divecdn.com/Ma4Ll0IbN5ORXOsSsgWX3rhoQwVrG6zM5XcoNj6yMQw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNjUwMTMwLmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "How BIM is becoming construction’s most effective margin protection strategy",
-        "summary": "Along with design support, BIM is also becoming one of construction&rsquo;s smartest margin plays.",
+        "title": "Gordie Howe bridge set to open July 27 after weekslong delay",
+        "summary": "Originally scheduled to debut last month, the new span is projected to carry 400 commercial vehicles each hour between Detroit and Windsor, Ontario.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 13 Jul 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/how-bim-is-becoming-constructions-most-effective-margin-protection-strateg/824173/",
-        "image_url": "https://imgproxy.divecdn.com/Qfhy_1WNJD2AuLIHNEbU7GfcxFG97a9T2Ojt3mj0B2k/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDQweDYxNl8yLnBuZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Acciona to acquire Georgia infrastructure firm",
-        "summary": "The deal, which is expected to close near the end of the year, will help the Spanish infrastructure stalwart grow its presence in the U.S.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 10 Jul 2026 15:16:35 -0400",
-        "source_url": "https://www.constructiondive.com/news/acciona-acquires-georgia-infrastructure-firm-vertical-earth/824994/",
-        "image_url": "https://imgproxy.divecdn.com/pV5v1S3mMqT2ZHYOdCF0tHOrxX4xd44ZNyFIMAWBzOg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TUjQwMF9UcmFuc2l0Vmlldy5qcGc=.webp",
+        "published_at": "Tue, 14 Jul 2026 09:50:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/gordie-howe-bridge-open-weekslong-delay/825154/",
+        "image_url": "https://imgproxy.divecdn.com/S5VzL1Zp6ReYu1gx3tDtiOSSH5rFTM7AAQ3mu9Kujmw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYwNTQ2MjM4LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-        "summary": "arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochastic behavior. We prese",
+        "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+        "summary": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and backing. Consider a claim generated by a m",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.08894",
+        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09664",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
-        "summary": "arXiv:2607.09076v1 Announce Type: new Abstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based monitoring in industrial IoT environments. While Large Language Models (LLMs) have strong semantic reasoning abilities t",
+        "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+        "summary": "arXiv:2607.09706v1 Announce Type: new Abstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) commit to a single objective and point-valued coefficients, then solve once. For decisions that allocate real budget, effort, or clinical attentio",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09076",
+        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09706",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
-        "summary": "arXiv:2607.09153v1 Announce Type: new Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly boost the capabilities of LLM-based multi-agent systems. However, existing PRMs are text-based: they re-encode the entire trajectory text f",
+        "title": "BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking",
+        "summary": "arXiv:2607.09762v1 Announce Type: new Abstract: Public battery aging datasets are a critical asset for advanced health management, but their practical use is often limited by inconsistent formats, unclear schemas, and metadata scattered across repositories and publications. Current curation remains largely manual and h",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09153",
+        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09762",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
-        "summary": "arXiv:2607.09175v1 Announce Type: new Abstract: Deployed LLM agents rely on agentic context, the model-external textual control content assembled by an operational harness. In this work, the mutable component of that context is a persistent system-level instruction that is updated from operational experience while the ",
+        "title": "Agentic Context Learning with Self-Discovered Specification",
+        "summary": "arXiv:2607.09794v1 Announce Type: new Abstract: Context learning is an emerging inference-time task where LLMs must learn and apply novel, task-specific knowledge from intricate contexts absent from pre-training; even frontier models score under 24% task success. In this work, we conduct a comprehensive empirical study",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09175",
+        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09794",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
-        "summary": "arXiv:2607.09195v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with broad knowledge, flexible reasoning, and tool use, they have the potential to autonomously explore and solve scientific problems by repeated",
+        "title": "Exploring Agentic Workflows for Generating High Quality Math Visual Aids",
+        "summary": "arXiv:2607.09839v1 Announce Type: new Abstract: Mathematical diagrams play a crucial role in K 12 education, both as problem components and as scaffolding for student comprehension. However, current AI tools, including Large Language Models (LLMs), struggle to reliably generate accurate and pedagogically sound visual d",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09195",
+        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.09839",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
