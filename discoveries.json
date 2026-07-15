@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-14",
-  "last_updated": "2026-07-14 23:50 UTC",
+  "date": "2026-07-15",
+  "last_updated": "2026-07-15 23:58 UTC",
   "categories": {
     "science": [
       {
-        "title": "New technique for building ultra-thin material stacks promises quantum breakthrough",
-        "summary": "Scientists have unveiled a new fabrication technique for the ultra-clean manufacturing of 2D heterostructures—materials just a few atoms thick—that could be used in quantum technology and electronics. Experts from Southampton and Singapore say the method could be used to develop next-generation devices that accelerate ",
+        "title": "Scientists finally solved why some frogs survive a deadly fungus",
+        "summary": "A deadly fungus has wiped out amphibian populations around the globe, yet some mysteriously recover. Researchers discovered that survivors develop powerful immune defenses while they are still tadpoles, giving them a head start before the fungus can attack after metamorphosis. The study also uncovered a vast collection",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Tue, 14 Jul 2026 19:00:12 EDT",
-        "source_url": "https://phys.org/news/2026-07-technique-ultra-thin-material-stacks.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-unveil-tech.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 14 Jul 2026 23:39:03 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/common-midwife-toad-in-pyrenees.webp",
         "impact": 5
       },
       {
@@ -72,51 +72,62 @@
         "impact": 4
       },
       {
-        "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-        "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+        "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+        "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 14 Jul 2026 22:22:24 +0000",
-        "source_url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+        "published_at": "Wed, 15 Jul 2026 19:46:54 +0000",
+        "source_url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Founders-Hjalmar-Nilsonne-Daniel-Ek-1.jpeg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-        "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+        "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
+        "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 14 Jul 2026 19:42:27 +0000",
-        "source_url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Wed, 15 Jul 2026 12:00:00 +0000",
+        "source_url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+        "image_url": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/191:100/w_1280,c_limit/AppleIDBrainScan.jpg",
         "impact": 3
       },
       {
-        "title": "Reflection inks $1B compute deal with Nebius",
-        "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+        "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 14 Jul 2026 14:37:48 +0000",
-        "source_url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/cash-in-mattress-e1685738668559.jpg?resize=1200,701",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 15 Jul 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200,600",
         "impact": 3
       },
       {
-        "title": "OpenAI may announce a ChatGPT smart speaker this year",
-        "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that a",
+        "title": "The Download: Claude’s inner workings, and the future of world models",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “inte",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-14T17:26:32-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Tue, 14 Jul 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "AI flags heart failure risk five years early from routine ECG recordings",
+        "summary": "Researchers at the Technion Faculty of Biomedical Engineering have achieved a breakthrough in the early detection of heart failure. They developed DeepHHF, an artificial intelligence model that identifies patients at high risk of developing heart failure years before the onset of clinical disease, enabling preventive i",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 15 Jul 2026 15:00:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-ai-flags-heart-failure-years.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-warning.jpg",
+        "impact": 5
+      },
       {
         "title": "Common blood pressure drug could make cancer therapy far more powerful",
         "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and ",
@@ -129,25 +140,14 @@
         "impact": 5
       },
       {
-        "title": "Virtual, sustained smoking cessation program for cancer patients doubles quitting rate, clinical trial shows",
-        "summary": "A new study shows that a smoking cessation treatment program delivered in community oncology care settings can nearly double quit rates for patients with cancer who currently smoke. Investigators from Mass General Brigham Cancer Institute and Memorial Sloan Kettering Cancer Center led a randomized clinical trial for th",
+        "title": "Drug candidate could help L-dopa work better for patients with Parkinson's",
+        "summary": "For many people with Parkinson's disease, the body stops moving the way it used to. A hand may tremble at rest. Muscles may stiffen. Walking can become slower and balance more uncertain. The most effective treatment remains L-dopa, also called levodopa, a medication that can dramatically improve movement and quality of",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 14 Jul 2026 19:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-virtual-sustained-cessation-cancer-patients.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/smoker.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Immunotherapy shows long-term promise in aggressive lymphoma",
-        "summary": "A leading-edge immunotherapy may extend survival for patients with one of the most aggressive forms of blood cancer, according to newly published five-year results from a major clinical trial in the Blood Journal. The clinical trial evaluated lisocabtagene maraleucel (liso-cel), a type of chimeric antigen receptor (CAR",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 14 Jul 2026 16:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-immunotherapy-term-aggressive-lymphoma.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2016/lymphoma.jpg",
+        "published_at": "Wed, 15 Jul 2026 14:00:35 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-drug-candidate-dopa-patients-parkinson.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/drug-candidate-could-h.jpg",
         "impact": 4
       },
       {
@@ -162,14 +162,14 @@
         "impact": 4
       },
       {
-        "title": "Patients who suffer heart attack have more micro and nanoplastic in their blood",
-        "summary": "People who suffered a serious heart attack had higher levels of micro- and nanoplastics in their blood compared with patients diagnosed with chronic ischemic heart disease and those with normal blood vessels supplying the heart, according to a study published in the European Heart Journal on Wednesday.",
+        "title": "Cancer clinicians welcome AI that supports human expertise",
+        "summary": "Artificial intelligence is often presented as a threat to professional work, raising fears about deskilling, job displacement and the loss of human judgment. But new research involving health care professionals using AI in cancer treatment suggests a more nuanced story. The study, published in Sociology of Health & Ill",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 14 Jul 2026 18:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-patients-heart-micro-nanoplastic-blood.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/ambulance.jpg",
+        "published_at": "Wed, 15 Jul 2026 16:20:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-cancer-clinicians-ai-human-expertise.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/radiotherapy.jpg",
         "impact": 4
       }
     ],
@@ -232,7 +232,40 @@
     ],
     "space": [
       {
-        "title": "SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit",
+        "title": "How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings",
+        "summary": "Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Data from that mission, along with future u",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 15 Jul 2026 18:50:52 +0000",
+        "source_url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/",
+        "image_url": "https://images-assets.nasa.gov/image/art002e021278/art002e021278~large.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Anil Menon Launches to Space Station",
+        "summary": "NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at the Baikonur Cosmodrome in Kazakhstan. The trio lifted off for the Soyuz MS-29 mission",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 15 Jul 2026 18:48:36 +0000",
+        "source_url": "https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/",
+        "image_url": "https://www.youtube.com/embed/SwhPXxNtdoc",
+        "impact": 4
+      },
+      {
+        "title": "'Full steam ahead': NASA ramps up prep for Artemis III astronaut launch in 2027",
+        "summary": "NASA is busy preparing for Artemis III, the next crewed mission of its moon program launching on the massive SLS rocket next year. Hardware is coming together and agency personnel have begun launch scenario sims inside mission control.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 15 Jul 2026 22:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/full-steam-ahead-nasa-ramps-up-prep-for-artemis-iii-astronaut-launch-in-2027",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/uurTRgRr5UyUzUivZNtpf5-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit (video)",
         "summary": "SpaceX launched Starlink satellites on a pair of Falcon 9 rockets eight hours apart from opposite coasts on July 13-14, 2026. The second launch was the 600th use of a flight-proven booster.",
         "category": "Space",
         "source": "space.com",
@@ -252,42 +285,20 @@
         "source_url": "https://www.space.com/space-exploration/human-spaceflight/1st-ever-x-rays-in-space-offer-hope-for-possible-patients-headed-to-the-moon",
         "image_url": "https://cdn.mos.cms.futurecdn.net/fT3oMbBxWxNtrf4fNYNcPC-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "Getting Vikram-1 to orbit: Inside Skyroot Aerospace's coming bid to make spaceflight history",
-        "summary": "Backed by a $1.1 billion valuation, Skyroot Aerospace is betting that its Vikram-1 rocket can help transform India's commercial launch industry. And Vikram-1 is set to fly soon.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 13 Jul 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/getting-vikram-1-to-orbit-inside-skyroot-aerospaces-coming-bid-to-make-spaceflight-history",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/6WCq922SsHek2mexvBgBSb-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "The FCC just gave Reflect Orbital permission to launch its 1st space mirror to orbit. Tens of thousands more could follow",
-        "summary": "Reflect Orbital just got approval to launch its first light-directing space mirror, which it plans to do later this year. Tens of thousands more such craft could follow over the next 10 years.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 13 Jul 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/GbLL8qvNJdDvc6PZ5V3Ccf-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Space medicine breakthrough? Kidney and liver tissue bioprinted off Earth for 1st time ever",
-        "summary": "California-based company Auxilium Biotechnologies just produced kidney and liver tissue in space for the first time, using a method called bioprinting,",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 12 Jul 2026 12:05:00 +0000",
-        "source_url": "https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3gfjeM7iRcKjtB3AdJHJwE-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "Famous System Has a Third Star: Beta Pictoris d",
+        "summary": "Two teams of astronomers independently discovered a third giant gas planet orbiting in the famous Beta Pictoris system. The post Famous System Has a Third Star: Beta Pictoris d appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Wed, 15 Jul 2026 19:55:44 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/famous-system-has-a-third-star-beta-pictoris-d/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/BetaPicd.webp",
+        "impact": 4
+      },
       {
         "title": "\"Rogue\" Neptunes Are Detached But Not Alone",
         "summary": "\"Rogue\" Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. The post &quot;Rogue&quot; Neptunes Are Detached But Not Alone appeared first on Sky &amp; Telescope.",
@@ -300,14 +311,14 @@
         "impact": 4
       },
       {
-        "title": "Astronomers Use a Neutron Star Merger to Measure Cosmic Expansion",
-        "summary": "Swinburne University of Technology and CSIRO have combined telescope and gravitational wave data in an attempt to unlock the true value of the Universe's expansion. Existing measurements of the Hubble Constant have split cosmologists for more than a decade.",
+        "title": "'Found you!' Astronomers spot faintest exoplanet ever seen from Earth after a decade of hide-and-seek",
+        "summary": "It has taken over ten years, but astronomers have finally won a prolonged game of cosmic hide-and-seek with a planet hiding around the star Beta Pictoris.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 10 Jul 2026 17:05:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/astronomers-use-a-neutron-star-merger-to-measure-cosmic-expansion",
-        "image_url": "https://www.universetoday.com/article_images/cq5dam.web.2560.1440_20260709_202558.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 15 Jul 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/exoplanets/found-you-astronomers-spot-faintest-exoplanet-ever-seen-from-earth-after-a-decade-of-hide-and-seek",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/cG2xVMuHzYXwEn7m6goJeD-1280-80.png",
         "impact": 4
       },
       {
@@ -331,17 +342,6 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Comet_McNaught_at_Paranal-ESO-Sebastian-Deiries-ST.jpg",
         "impact": 4
-      },
-      {
-        "title": "Hayabusa 2 Completes Flyby Past Asteroid Torifune",
-        "summary": "Japan’s Hayabusa 2 mission has revealed another \"snowman\" asteroid — a pair of asteroids attached with a narrow neck. The contact binary could help shed light on planet formation. The post Hayabusa 2 Completes Flyby Past Asteroid Torifune appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 07 Jul 2026 13:39:10 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/hayabusa-2-completes-flyby-past-asteroid-torifune/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/20260706-3-01-ezgif.com-jpg-to-webp-converter.webp",
-        "impact": 4
       }
     ],
     "architecture": [
@@ -357,14 +357,14 @@
         "impact": 4
       },
       {
-        "title": "Herzog & de Meuron Unveils New Images of Lusail Museum on Qatar's Al Maha Island",
-        "summary": "Al Maha Island is a 230,000 m² human-made island located off the coast of Lusail, Qatar. Built as an entertainment and leisure destination north of Doha, it opened in 2022, just ahead of the FIFA World Cup. In 2024, Qatar Museums released renderings of the future Lusail Museum, designed by Swiss architecture office Her",
+        "title": "Studio Fuksas-designed Rike Concert Hall in Tbilisi set to be demolished",
+        "summary": "The unopened Rike Concert Hall in Tbilisi, designed by Italian practice Studio Fuksas, is set to be demolished less than 15 years after it was completed. Tbilisi's city hall architecture department has issued a permit allowing the owner of the concert hall to demolish the building. According to reports in the Georgian ",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 14 Jul 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1148610/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-on-qatars-al-maha-island",
-        "image_url": "https://images.adsttc.com/media/images/6a55/182b/97ef/2501/8be5/90ef/large_jpg/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-in-qatar_5.jpg?1783961716",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 15 Jul 2026 10:00:07 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/15/rike-concert-hall-tbilisi-demolition-studio-fuksas/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -425,15 +425,15 @@
         "impact": 4
       },
       {
-        "title": "Ceca: Major project ratings should be an ‘early warning’ system",
-        "summary": "As the representative body for the companies who build, maintain, and deliver UK infrastructure, the Civil Engineering Contractors Association (Ceca) welcomes evidence of improving confidence across the government’s portfolio of major projects, as set out in this week’s National Infrastructure and Service Transformatio",
+        "title": "Meta commits $50B to Louisiana data center and surrounding area",
+        "summary": "The facility in Richland Parish, which broke ground in December 2024, will support 7,500 construction jobs at peak construction.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 14 Jul 2026 05:30:20 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/ceca-major-project-ratings-should-be-an-early-warning-system-14-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/hs2-m6-west-viaduct-preparation-for-slide-1-1024x682.webp",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 15 Jul 2026 13:55:14 -0400",
+        "source_url": "https://www.constructiondive.com/news/meta-commits-50b-louisiana-data-center-richland-parish/825329/",
+        "image_url": "https://imgproxy.divecdn.com/KjpOBTphbPdXZsDIawOka6pH5ur4aycg-OwvEcyaaWU/g:nowe:0:37/c:959:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMV9DYXJvdXNlbC0wMl9UQjNZTXVRLmpwZw==.webp",
+        "impact": 3
       },
       {
         "title": "The $1.2T IIJA expires Sept. 30. That’s making construction execs nervous.",
