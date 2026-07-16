@@ -1,8 +1,19 @@
 {
-  "date": "2026-07-15",
-  "last_updated": "2026-07-15 23:58 UTC",
+  "date": "2026-07-16",
+  "last_updated": "2026-07-16 23:56 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+        "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 16 Jul 2026 00:16:48 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
+        "impact": 5
+      },
       {
         "title": "Scientists finally solved why some frogs survive a deadly fungus",
         "summary": "A deadly fungus has wiped out amphibian populations around the globe, yet some mysteriously recover. Researchers discovered that survivors develop powerful immune defenses while they are still tadpoles, giving them a head start before the fungus can attack after metamorphosis. The study also uncovered a vast collection",
@@ -46,88 +57,66 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/cancer-vaccine-fight.webp",
         "impact": 5
-      },
-      {
-        "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-        "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 08 Jul 2026 22:48:06 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/chip-dna-writer.webp",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8",
+        "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+        "summary": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 09 Jul 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Aalo_s-completed-Critical-Test-Reactor-facility-1920.jpg?resize=1200,600",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 16 Jul 2026 19:28:33 +0000",
+        "source_url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
         "impact": 4
       },
       {
-        "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-        "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+        "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+        "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 16 Jul 2026 20:09:48 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-1152x648.png",
+        "impact": 3
+      },
+      {
+        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+        "summary": "In the wake of a massive hours-long gridlock event, San Francisco Mayor Daniel Lurie has told state regulators its time to put more requirements on robotaxi operators like Waymo.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 15 Jul 2026 19:46:54 +0000",
-        "source_url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Founders-Hjalmar-Nilsonne-Daniel-Ek-1.jpeg?resize=1200,800",
+        "published_at": "Thu, 16 Jul 2026 23:25:22 +0000",
+        "source_url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-robotaxi-sf-getty.jpg?resize=1200,799",
         "impact": 3
       },
       {
-        "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-        "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
+        "title": "Yes, you can now order DoorDash from the command line",
+        "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Wed, 15 Jul 2026 12:00:00 +0000",
-        "source_url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-        "image_url": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/191:100/w_1280,c_limit/AppleIDBrainScan.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 16 Jul 2026 15:38:55 +0000",
+        "source_url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2019/01/dasher_ps_horiz_5.jpg?w=1200",
         "impact": 3
       },
       {
-        "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
+        "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+        "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for o",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 15 Jul 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200,600",
-        "impact": 3
-      },
-      {
-        "title": "The Download: Claude’s inner workings, and the future of world models",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “inte",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Tue, 14 Jul 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-16T13:58:37-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0%2C10.727373918039%2C100%2C78.545252163922&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "AI flags heart failure risk five years early from routine ECG recordings",
-        "summary": "Researchers at the Technion Faculty of Biomedical Engineering have achieved a breakthrough in the early detection of heart failure. They developed DeepHHF, an artificial intelligence model that identifies patients at high risk of developing heart failure years before the onset of clinical disease, enabling preventive i",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 15 Jul 2026 15:00:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-ai-flags-heart-failure-years.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-warning.jpg",
-        "impact": 5
-      },
       {
         "title": "Common blood pressure drug could make cancer therapy far more powerful",
         "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and ",
@@ -140,14 +129,14 @@
         "impact": 5
       },
       {
-        "title": "Drug candidate could help L-dopa work better for patients with Parkinson's",
-        "summary": "For many people with Parkinson's disease, the body stops moving the way it used to. A hand may tremble at rest. Muscles may stiffen. Walking can become slower and balance more uncertain. The most effective treatment remains L-dopa, also called levodopa, a medication that can dramatically improve movement and quality of",
+        "title": "Public health leadership needs to build trustworthy AI in health, expert argues",
+        "summary": "From disease surveillance to clinical care, artificial intelligence is transforming health. As AI becomes more deeply embedded in decisions affecting population health, a new editorial argues that realizing AI's full potential requires public health leadership alongside technical innovation.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 15 Jul 2026 14:00:35 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-drug-candidate-dopa-patients-parkinson.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/drug-candidate-could-h.jpg",
+        "published_at": "Thu, 16 Jul 2026 15:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-health-leadership-trustworthy-ai-expert.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/outside-hospital.jpg",
         "impact": 4
       },
       {
@@ -162,14 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Cancer clinicians welcome AI that supports human expertise",
-        "summary": "Artificial intelligence is often presented as a threat to professional work, raising fears about deskilling, job displacement and the loss of human judgment. But new research involving health care professionals using AI in cancer treatment suggests a more nuanced story. The study, published in Sociology of Health & Ill",
+        "title": "Disrupted antioxidant balance linked to the development of 'Skellefteå disease'",
+        "summary": "Researchers at Umeå University have identified changes in the body's major antioxidant systems in patients with hereditary transthyretin (TTR) amyloidosis. The findings support the hypothesis that oxidative stress contributes to disease development and also identify new biomarkers that may help detect individuals at in",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 15 Jul 2026 16:20:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-cancer-clinicians-ai-human-expertise.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/radiotherapy.jpg",
+        "published_at": "Thu, 16 Jul 2026 18:20:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-disrupted-antioxidant-linked-skellefte-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/disrupted-antioxidant.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Brain imaging now reveals receptor dysfunction in living patients with schizophrenia",
+        "summary": "A study using positron emission tomography (PET) imaging has found that patients with schizophrenia had significantly lower muscarinic acetylcholine M1 receptor availability (about 13%–19%) across multiple brain regions than healthy individuals. Reduced M1 receptor availability affects several brain regions involved in",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 16 Jul 2026 17:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-brain-imaging-reveals-receptor-dysfunction.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-imaging-now-reve-1.jpg",
         "impact": 4
       }
     ],
@@ -232,25 +232,14 @@
     ],
     "space": [
       {
-        "title": "How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings",
-        "summary": "Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Data from that mission, along with future u",
+        "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test today. Here's what to expect.",
+        "summary": "SpaceX plans to launch Starship Flight 13 today (July 16), a test mission that will send \"V3\" Starlink satellites to space for the first time ever. Here's how to watch it live.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 15 Jul 2026 18:50:52 +0000",
-        "source_url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/",
-        "image_url": "https://images-assets.nasa.gov/image/art002e021278/art002e021278~large.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Anil Menon Launches to Space Station",
-        "summary": "NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at the Baikonur Cosmodrome in Kazakhstan. The trio lifted off for the Soyuz MS-29 mission",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 15 Jul 2026 18:48:36 +0000",
-        "source_url": "https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/",
-        "image_url": "https://www.youtube.com/embed/SwhPXxNtdoc",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 16 Jul 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PPKxHDLCVgf2Jj2jGyRVHQ-1280-80.jpg",
         "impact": 4
       },
       {
@@ -285,20 +274,20 @@
         "source_url": "https://www.space.com/space-exploration/human-spaceflight/1st-ever-x-rays-in-space-offer-hope-for-possible-patients-headed-to-the-moon",
         "image_url": "https://cdn.mos.cms.futurecdn.net/fT3oMbBxWxNtrf4fNYNcPC-1280-80.jpg",
         "impact": 4
+      },
+      {
+        "title": "Getting Vikram-1 to orbit: Inside Skyroot Aerospace's coming bid to make spaceflight history",
+        "summary": "Backed by a $1.1 billion valuation, Skyroot Aerospace is betting that its Vikram-1 rocket can help transform India's commercial launch industry. And Vikram-1 is set to fly soon.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 13 Jul 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/getting-vikram-1-to-orbit-inside-skyroot-aerospaces-coming-bid-to-make-spaceflight-history",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/6WCq922SsHek2mexvBgBSb-1280-80.jpg",
+        "impact": 4
       }
     ],
     "astronomy": [
-      {
-        "title": "Famous System Has a Third Star: Beta Pictoris d",
-        "summary": "Two teams of astronomers independently discovered a third giant gas planet orbiting in the famous Beta Pictoris system. The post Famous System Has a Third Star: Beta Pictoris d appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 15 Jul 2026 19:55:44 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/famous-system-has-a-third-star-beta-pictoris-d/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/BetaPicd.webp",
-        "impact": 4
-      },
       {
         "title": "\"Rogue\" Neptunes Are Detached But Not Alone",
         "summary": "\"Rogue\" Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. The post &quot;Rogue&quot; Neptunes Are Detached But Not Alone appeared first on Sky &amp; Telescope.",
@@ -308,6 +297,17 @@
         "published_at": "Tue, 14 Jul 2026 19:36:34 +0000",
         "source_url": "https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/rogueplanet_feat.jpg",
+        "impact": 4
+      },
+      {
+        "title": "This Exoplanet Hid for 10 Years Before Astronomers Finally Found It",
+        "summary": "A team of astronomers have discovered a third planet orbiting the star Beta Pictoris. The new planet, Beta Pictoris d, is 100 times fainter than Beta Pictoris b — the first planet discovered in the same system — and is among the lightest exoplanets ever to be imaged from the ground. After spotting the planet using the ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 16 Jul 2026 19:56:53 +0000",
+        "source_url": "https://www.universetoday.com/articles/this-exoplanet-hid-for-10-years-before-astronomers-finally-found-it",
+        "image_url": "https://www.universetoday.com/article_images/eso2609a_20260715_170643.jpg",
         "impact": 4
       },
       {
@@ -322,38 +322,60 @@
         "impact": 4
       },
       {
-        "title": "Steamy Nights at the Galactic Equator",
-        "summary": "Here's an observing guide to both familiar and lesser-known deep-sky objects that inhabit our galaxy's equatorial zone. The post Steamy Nights at the Galactic Equator appeared first on Sky &amp; Telescope.",
+        "title": "First Atmosphere Detected on a Terrestrial World",
+        "summary": "A team of astronomers have discovered helium escaping from a rocky planet, marking the first detection of an atmosphere on a rocky world. The post First Atmosphere Detected on a Terrestrial World appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
         "journal": "skyandtelescope.org",
-        "published_at": "Wed, 08 Jul 2026 17:40:11 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/steamy-nights-at-the-galactic-equator/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/NGC-6842-PanStarrsDR1-Aladin.webp",
+        "published_at": "Thu, 16 Jul 2026 18:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/first-atmosphere-terrestrial-world/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Helium-planet.webp",
         "impact": 4
       },
       {
-        "title": "Did a Passing Star Shower Us with Comets?",
-        "summary": "We might be living through a comet shower created by a star that millions of years ago jostled the Oort Cloud surrounding the solar system. The post Did a Passing Star Shower Us with Comets? appeared first on Sky &amp; Telescope.",
+        "title": "Famous System Has a Third Planet: Beta Pictoris d",
+        "summary": "Two teams of astronomers independently discovered a third giant gas planet orbiting in the famous Beta Pictoris system. The post Famous System Has a Third Planet: Beta Pictoris d appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
         "source": "skyandtelescope.org",
         "journal": "skyandtelescope.org",
-        "published_at": "Wed, 08 Jul 2026 14:25:13 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/did-a-passing-star-shower-us-with-comets/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Comet_McNaught_at_Paranal-ESO-Sebastian-Deiries-ST.jpg",
+        "published_at": "Wed, 15 Jul 2026 19:55:44 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/famous-system-has-a-third-star-beta-pictoris-d/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/BetaPicd.webp",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Open Call: Reimagine the Adriatic Waterfront at Marina Opatija",
-        "summary": "M3 Monaco's Smart &amp; Sustainable Marina Rendezvous competition returns for its sixth edition with an open-architecture Call for Ideas centered on Marina Opatija, on Croatia's Kvarner Bay. This article sets out what the competition asks of designers: a focused, high-impact intervention built around three required bui",
+        "title": "Westlake 66 Mixed Use Complex / KPF",
+        "summary": "Westlake 66 is a new model for urban connectivity, landscape-driven design and computationally informed architecture, reinvigorating a deteriorated neighborhood and establishing a new civic heart in one of China's most dynamic cities.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 14 Jul 2026 06:45:00 +0000",
-        "source_url": "https://www.archdaily.com/1042949/open-call-reimagine-the-adriatic-waterfront-at-marina-opatija",
-        "image_url": "https://images.adsttc.com/media/images/6a46/1430/ebd1/e401/893a/aa39/large_jpg/open-call-reimagine-the-adriatic-waterfront-at-marina-opatija_7.jpg?1782977592",
+        "published_at": "Thu, 16 Jul 2026 12:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1148690/westlake-66-kpf",
+        "image_url": "https://images.adsttc.com/media/images/6a56/d6f7/7c22/c800/01aa/6351/large_jpg/01_Westlake_66_Credit_StudioSZ_Justin_Szeremeta_Courtesy_KPF.jpg?1784076063",
+        "impact": 4
+      },
+      {
+        "title": "Beyond Emergency Shelters: Modular and Vernacular Architecture in Post-Earthquake Reconstruction",
+        "summary": "On June 24, 2026, a severe seismic event consisting of two major earthquakes with magnitudes of 7.2 and 7.5 struck north-central Venezuela just 39 seconds apart. The widespread destruction was concentrated along the country's northern coast, heavily impacting the capital city of Caracas and the neighboring state of La ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 16 Jul 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1148541/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction",
+        "image_url": "https://images.adsttc.com/media/images/6a54/12b3/a6cc/5601/89e4/e147/large_jpg/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction_4.jpg?1783894716",
+        "impact": 4
+      },
+      {
+        "title": "MoMA Revisits West African Modernism and a New Installation Activates the Basilica di Massenzio: This Week's Review",
+        "summary": "Architecture this week looked as much to the past as to the future. Across museums, restored landmarks, and large-scale urban redevelopments, the featured stories explored how architecture is continually reinterpreted through new cultural, political, and urban lenses. From reconsidering the architectural legacy of post",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 16 Jul 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1148781/moma-revisits-west-african-modernism-and-a-new-installation-activates-the-basilica-di-massenzio-this-weeks-review",
+        "image_url": "https://images.adsttc.com/media/images/6a58/77dd/d58c/e001/8884/fe49/large_jpg/moma-revisits-west-african-modernism-and-a-new-installation-activates-the-basilica-di-massenzio-this-weeks-review_5.jpg?1784182758",
         "impact": 4
       },
       {
@@ -375,28 +397,6 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 14 Jul 2026 14:30:43 +0000",
         "source_url": "https://www.dezeen.com/2026/07/14/jonathan-mallie-populous-interview-future-stadium/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Neri&Hu wraps Hong Kong hotel in \"urban tapestry\" facade",
-        "summary": "Architecture studio Neri&#38;Hu has upgraded the facade of Mandarin Oriental The Landmark in Hong Kong, using staggered terracotta tiles to resemble a piece of woven tapestry. Located on Queen's Road in Hong Kong's Central district, the hotel was recently renovated by Joyce Wang Studio with Neri&#38;Hu creating a facad",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 14 Jul 2026 07:00:42 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/14/nerihu-mandarin-oriental-the-landmark-facade-hong-kong/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "KPMB reveals designs for David Geffen School of Drama at Yale University",
-        "summary": "Canadian architecture studio KPMB has released renderings of the new Dramatic Arts Building at Yale University, establishing the first consolidated space for the David Geffen School of Drama since its inception in 1924. The 207,000-square-foot (19,230-square-metre) design will host staged performances of the Yale Reper",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 08 Jul 2026 19:00:53 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
@@ -425,8 +425,30 @@
         "impact": 4
       },
       {
-        "title": "Meta commits $50B to Louisiana data center and surrounding area",
-        "summary": "The facility in Richland Parish, which broke ground in December 2024, will support 7,500 construction jobs at peak construction.",
+        "title": "Construction costs dropped in June, will likely tick up again",
+        "summary": "A brief respite in fuel prices caused construction input costs to drop in June. But the recent escalation in the Iran war will likely drive them back higher.&nbsp;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 16 Jul 2026 15:25:29 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-ppi-inputs-june-2026/825461/",
+        "image_url": "https://imgproxy.divecdn.com/J4wYn9KjDzTJx8oUdQncZNCDwMxW76hsFC0Wb0Pg_Sg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxNzgzMDQ3LmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "Local water projects would get billions under water infrastructure bill",
+        "summary": "The Water Resources Development Act, which would provide $30.5 billion for state revolving funds, passed unanimously through a House committee.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 16 Jul 2026 10:13:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/wrda26-local-water-infrastructure-bill/825312/",
+        "image_url": "https://imgproxy.divecdn.com/bAEwjUQMghV1n0Gsq6p2tdnoo2j0A2JjxB2mrQNd0kc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDUyMTM4MjQuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "Meta commits $50B to Louisiana data center, surrounding region",
+        "summary": "Meta contracted Turner, Mortenson and DPR to build the Richland Parish facility, which will support 7,500 construction jobs at peak construction.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -434,83 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/meta-commits-50b-louisiana-data-center-richland-parish/825329/",
         "image_url": "https://imgproxy.divecdn.com/KjpOBTphbPdXZsDIawOka6pH5ur4aycg-OwvEcyaaWU/g:nowe:0:37/c:959:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMV9DYXJvdXNlbC0wMl9UQjNZTXVRLmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "The $1.2T IIJA expires Sept. 30. That’s making construction execs nervous.",
-        "summary": "&ldquo;If federal funding is reduced or fails to keep pace with growth and inflation, our projects will be postponed,&rdquo; said Lynn Hansen, CEO of Crowder Constructors.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 14 Jul 2026 12:26:18 -0400",
-        "source_url": "https://www.constructiondive.com/news/iija-expiration-september-construction-execs-want-new-funds/825184/",
-        "image_url": "https://imgproxy.divecdn.com/Ma4Ll0IbN5ORXOsSsgWX3rhoQwVrG6zM5XcoNj6yMQw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyNjUwMTMwLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Gordie Howe bridge set to open July 27 after weekslong delay",
-        "summary": "Originally scheduled to debut last month, the new span is projected to carry 400 commercial vehicles each hour between Detroit and Windsor, Ontario.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 14 Jul 2026 09:50:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/gordie-howe-bridge-open-weekslong-delay/825154/",
-        "image_url": "https://imgproxy.divecdn.com/S5VzL1Zp6ReYu1gx3tDtiOSSH5rFTM7AAQ3mu9Kujmw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYwNTQ2MjM4LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-        "summary": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and backing. Consider a claim generated by a m",
+        "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+        "summary": "arXiv:2607.13285v1 Announce Type: new Abstract: The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09664",
+        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.13285",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
-        "summary": "arXiv:2607.09706v1 Announce Type: new Abstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) commit to a single objective and point-valued coefficients, then solve once. For decisions that allocate real budget, effort, or clinical attentio",
+        "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
+        "summary": "arXiv:2607.13501v1 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LAPO, a self-generated process-supervision method based on backward leave-one",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09706",
+        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.13501",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking",
-        "summary": "arXiv:2607.09762v1 Announce Type: new Abstract: Public battery aging datasets are a critical asset for advanced health management, but their practical use is often limited by inconsistent formats, unclear schemas, and metadata scattered across repositories and publications. Current curation remains largely manual and h",
+        "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
+        "summary": "arXiv:2607.13548v1 Announce Type: new Abstract: Identifying root causes in production microservice failures requires reasoning over large-scale, multimodal telemetry spanning metrics, logs, and traces, a problem that has proved resistant to both classical and LLM-based approaches. The OpenRCA dataset exemplifies these ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09762",
+        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.13548",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Agentic Context Learning with Self-Discovered Specification",
-        "summary": "arXiv:2607.09794v1 Announce Type: new Abstract: Context learning is an emerging inference-time task where LLMs must learn and apply novel, task-specific knowledge from intricate contexts absent from pre-training; even frontier models score under 24% task success. In this work, we conduct a comprehensive empirical study",
+        "title": "SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing",
+        "summary": "arXiv:2607.13594v1 Announce Type: new Abstract: LLM agents act on real-world environments through tool calls, and a single misjudged action can cause irreversible harm. The standard safeguard is a guard model that labels each proposed action as safe or unsafe, but this binary view conflates two distinct decisions: whet",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09794",
+        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.13594",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Exploring Agentic Workflows for Generating High Quality Math Visual Aids",
-        "summary": "arXiv:2607.09839v1 Announce Type: new Abstract: Mathematical diagrams play a crucial role in K 12 education, both as problem components and as scaffolding for student comprehension. However, current AI tools, including Large Language Models (LLMs), struggle to reliably generate accurate and pedagogically sound visual d",
+        "title": "Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System",
+        "summary": "arXiv:2607.13608v1 Announce Type: new Abstract: Automatic scientific discovery has long been a goal of computational scholars - a machine that can discover nature's secrets on its own, moving computational systems beyond data-fitting tools toward the generation and refinement of mechanistic models of the universe. Rece",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.09839",
+        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.13608",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
