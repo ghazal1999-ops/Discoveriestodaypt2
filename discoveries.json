@@ -1,8 +1,19 @@
 {
-  "date": "2026-07-16",
-  "last_updated": "2026-07-16 23:56 UTC",
+  "date": "2026-07-17",
+  "last_updated": "2026-07-17 23:50 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Blue Light Breakthrough Could Speed Up Drug Discovery",
+        "summary": "Researchers have developed a visible-light-driven method that could help chemists build more complex drug-like molecules in fewer steps. A blue light commonly used in aquariums and indoor gardens could help chemists solve one of drug discovery’s persistent challenges: building more intricate molecules without adding a ",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 17 Jul 2026 19:31:10 +0000",
+        "source_url": "https://scitechdaily.com/blue-light-breakthrough-could-speed-up-drug-discovery/",
+        "image_url": "https://scitechdaily.com/images/Blue-LED-Light-Drug-Discovery-777x518.jpg",
+        "impact": 5
+      },
       {
         "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
         "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists",
@@ -37,39 +48,39 @@
         "impact": 5
       },
       {
-        "title": "A vitamin A discovery is changing what scientists know about vision",
-        "summary": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The fi",
+        "title": "Brain Breakthrough Could Help Older Adults Live Longer and Stay Steady",
+        "summary": "Aging appears to alter how key cerebellar neurons fire, with measurable effects on movement and coordination. Aging often brings slower movement, weaker balance, and reduced agility, but the brain changes behind these losses have been difficult to identify. McGill University researchers have now directly linked declini",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 09 Jul 2026 01:15:15 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/robert-johnston-retinal-organoid.webp",
-        "impact": 5
-      },
-      {
-        "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
-        "summary": "Researchers found that mRNA cancer vaccines can recruit an unexpected immune cell to launch powerful tumor-fighting responses, overturning a long-held assumption about how the vaccines work. The discovery could lead to more effective cancer vaccines and help scientists tailor treatments for better patient outcomes.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 09 Jul 2026 16:05:08 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cancer-vaccine-fight.webp",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 17 Jul 2026 16:05:05 +0000",
+        "source_url": "https://scitechdaily.com/brain-breakthrough-could-help-older-adults-live-longer-and-stay-steady/",
+        "image_url": "https://scitechdaily.com/images/Clock-Aging-Time-Old-777x518.jpg",
         "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
-        "summary": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
+        "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+        "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 17 Jul 2026 14:12:02 +0000",
+        "source_url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Zoox-San-Francisco-closeup-robotaxi.jpg?resize=1200,675",
+        "impact": 4
+      },
+      {
+        "title": "Ars is looking for a senior technology reporter, and you might be it!",
+        "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Thu, 16 Jul 2026 19:28:33 +0000",
-        "source_url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
-        "impact": 4
+        "published_at": "Fri, 17 Jul 2026 15:52:28 +0000",
+        "source_url": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/ars-writer-pen-1152x648.jpg",
+        "impact": 3
       },
       {
         "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
@@ -83,40 +94,51 @@
         "impact": 3
       },
       {
-        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-        "summary": "In the wake of a massive hours-long gridlock event, San Francisco Mayor Daniel Lurie has told state regulators its time to put more requirements on robotaxi operators like Waymo.",
+        "title": "Agility Robotics plants its flag in Tesla’s backyard",
+        "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 16 Jul 2026 23:25:22 +0000",
-        "source_url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-robotaxi-sf-getty.jpg?resize=1200,799",
+        "published_at": "Fri, 17 Jul 2026 20:19:49 +0000",
+        "source_url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
         "impact": 3
       },
       {
-        "title": "Yes, you can now order DoorDash from the command line",
-        "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+        "title": "Parents want safer phones for kids. These companies are answering the call.",
+        "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 16 Jul 2026 15:38:55 +0000",
-        "source_url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2019/01/dasher_ps_horiz_5.jpg?w=1200",
-        "impact": 3
-      },
-      {
-        "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-        "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for o",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-16T13:58:37-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0%2C10.727373918039%2C100%2C78.545252163922&w=1200",
+        "published_at": "Fri, 17 Jul 2026 16:12:46 +0000",
+        "source_url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Experimental drug may protect the heart in Duchenne muscular dystrophy",
+        "summary": "Researchers at the USF Health Morsani College of Medicine have identified a potential pathway that could protect cardiac function in people with Duchenne muscular dystrophy (DMD), a progressive and fatal genetic disease that weakens the body's muscles. Published in Molecular Therapy, the new study examined the effects ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 17 Jul 2026 08:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-experimental-drug-heart-duchenne-muscular.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/experimental-drug-may.jpg",
+        "impact": 5
+      },
+      {
+        "title": "GLP-1 shows promise for patients with advanced fatty liver disease",
+        "summary": "Researchers at the University of California San Diego School of Medicine have reported results from a large international clinical trial showing that semaglutide, a medication in the GLP-1 class of drugs widely used to treat diabetes and obesity, may help reduce liver scarring in patients with advanced fatty liver dise",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 17 Jul 2026 11:00:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-glp-patients-advanced-fatty-liver.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/clinical-trial-1.jpg",
+        "impact": 5
+      },
       {
         "title": "Common blood pressure drug could make cancer therapy far more powerful",
         "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and ",
@@ -129,47 +151,25 @@
         "impact": 5
       },
       {
-        "title": "Public health leadership needs to build trustworthy AI in health, expert argues",
-        "summary": "From disease surveillance to clinical care, artificial intelligence is transforming health. As AI becomes more deeply embedded in decisions affecting population health, a new editorial argues that realizing AI's full potential requires public health leadership alongside technical innovation.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 16 Jul 2026 15:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-health-leadership-trustworthy-ai-expert.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/outside-hospital.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Experimental drug reverses severe fatty liver disease by repairing the gut",
-        "summary": "An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door to a new class of treatments for MASH and potentially other diseases tied to gut health.",
+        "title": "This drug could help millions keep their kidneys working longer",
+        "summary": "An international study found that finerenone slows kidney function decline and reduces the risk of serious kidney and cardiovascular complications in people with chronic kidney disease who do not have diabetes. The results could open the door to a much-needed new treatment option for the majority of CKD patients who ha",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sat, 11 Jul 2026 09:22:55 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010116.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/magnifying-glass-diseased-liver.webp",
+        "published_at": "Thu, 16 Jul 2026 09:04:35 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011753.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/doctor-supports-kidney-health.webp",
         "impact": 4
       },
       {
-        "title": "Disrupted antioxidant balance linked to the development of 'Skellefteå disease'",
-        "summary": "Researchers at Umeå University have identified changes in the body's major antioxidant systems in patients with hereditary transthyretin (TTR) amyloidosis. The findings support the hypothesis that oxidative stress contributes to disease development and also identify new biomarkers that may help detect individuals at in",
+        "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
+        "summary": "A drug originally developed for spinal cord injury may offer a fresh approach to treating Alzheimer’s disease. In mouse studies, KCL-286 repaired dangerous DNA damage, reduced inflammation, and targeted multiple disease-related pathways instead of focusing on just amyloid or tau. Since it has already cleared an initial",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 16 Jul 2026 18:20:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-disrupted-antioxidant-linked-skellefte-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/disrupted-antioxidant.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Brain imaging now reveals receptor dysfunction in living patients with schizophrenia",
-        "summary": "A study using positron emission tomography (PET) imaging has found that patients with schizophrenia had significantly lower muscarinic acetylcholine M1 receptor availability (about 13%–19%) across multiple brain regions than healthy individuals. Reduced M1 receptor availability affects several brain regions involved in",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 16 Jul 2026 17:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-brain-imaging-reveals-receptor-dysfunction.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-imaging-now-reve-1.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 17 Jul 2026 00:19:36 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/genetic-neuroscience-human-brain-dna-mutation-health.webp",
         "impact": 4
       }
     ],
@@ -232,58 +232,58 @@
     ],
     "space": [
       {
-        "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test today. Here's what to expect.",
-        "summary": "SpaceX plans to launch Starship Flight 13 today (July 16), a test mission that will send \"V3\" Starlink satellites to space for the first time ever. Here's how to watch it live.",
+        "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
+        "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progres",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 16 Jul 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/PPKxHDLCVgf2Jj2jGyRVHQ-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 17 Jul 2026 22:32:27 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "impact": 4
       },
       {
-        "title": "'Full steam ahead': NASA ramps up prep for Artemis III astronaut launch in 2027",
-        "summary": "NASA is busy preparing for Artemis III, the next crewed mission of its moon program launching on the massive SLS rocket next year. Hardware is coming together and agency personnel have begun launch scenario sims inside mission control.",
+        "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
+        "summary": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no earlier than 7:20 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex ",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 15 Jul 2026 22:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/full-steam-ahead-nasa-ramps-up-prep-for-artemis-iii-astronaut-launch-in-2027",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/uurTRgRr5UyUzUivZNtpf5-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 17 Jul 2026 18:00:57 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
         "impact": 4
       },
       {
-        "title": "SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit (video)",
-        "summary": "SpaceX launched Starlink satellites on a pair of Falcon 9 rockets eight hours apart from opposite coasts on July 13-14, 2026. The second launch was the 600th use of a flight-proven booster.",
+        "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
+        "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars. Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 14 Jul 2026 22:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-14-b1093-vsfb-ocisly-10-45-b1080-ccsfs-asog",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ERvE5g2UwJCLvcfyGLw4gf-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 17 Jul 2026 17:38:38 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26749/PIA26749.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "impact": 4
       },
       {
-        "title": "1st-ever X-rays in space offer hope for possible patients headed to the moon",
-        "summary": "A portable X-ray device has been used successfully in orbit for the first time, promising X-ray diagnosis of everything from broken bones to ripped spacesuits and damaged satellites.",
+        "title": "These 'metallic' dunes on Mars look like sci-fi. What are they really?",
+        "summary": "New images from the European Space Agency's Mars Express orbiter have captured strange-looking waves on the Red Planet.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Tue, 14 Jul 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/human-spaceflight/1st-ever-x-rays-in-space-offer-hope-for-possible-patients-headed-to-the-moon",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/fT3oMbBxWxNtrf4fNYNcPC-1280-80.jpg",
+        "published_at": "Fri, 17 Jul 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PnVbSEh2nwrwxvgFfxBU6G-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "Getting Vikram-1 to orbit: Inside Skyroot Aerospace's coming bid to make spaceflight history",
-        "summary": "Backed by a $1.1 billion valuation, Skyroot Aerospace is betting that its Vikram-1 rocket can help transform India's commercial launch industry. And Vikram-1 is set to fly soon.",
+        "title": "Making history: Watch Vikram-1, India's 1st private orbital rocket, launch early on July 18",
+        "summary": "India's first privately built orbital rocket, Skyroot Aerospace's Vikram-1, will try to reach orbit early Saturday morning (July 18), and you can watch the historic action live.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 13 Jul 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/getting-vikram-1-to-orbit-inside-skyroot-aerospaces-coming-bid-to-make-spaceflight-history",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/6WCq922SsHek2mexvBgBSb-1280-80.jpg",
+        "published_at": "Fri, 17 Jul 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/gMnGNSUHzPLK2piuWPba8N-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -297,6 +297,17 @@
         "published_at": "Tue, 14 Jul 2026 19:36:34 +0000",
         "source_url": "https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/rogueplanet_feat.jpg",
+        "impact": 4
+      },
+      {
+        "title": "The Roman Space Telescope Will Find Ancient Black Holes By Watching How They Eat Stars",
+        "summary": "When supermassive black holes (SMBH) in a certain mass range eat a star, they first tear it apart in a Tidal Disruption Event (TDE). By detecting TDE across cosmic time, astronomers can chart the growth of SMBH as the Universe aged. The Nancy Grace Roman Space Telescope will help, by finding about 100 TDEs every year.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 17 Jul 2026 17:19:51 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-roman-space-telescope-will-find-ancient-black-holes-by-watching-how-they-eat-stars",
+        "image_url": "https://www.universetoday.com/article_images/TDE_20260716_211937.jpg",
         "impact": 4
       },
       {
@@ -331,20 +342,20 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/first-atmosphere-terrestrial-world/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Helium-planet.webp",
         "impact": 4
-      },
-      {
-        "title": "Famous System Has a Third Planet: Beta Pictoris d",
-        "summary": "Two teams of astronomers independently discovered a third giant gas planet orbiting in the famous Beta Pictoris system. The post Famous System Has a Third Planet: Beta Pictoris d appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 15 Jul 2026 19:55:44 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/famous-system-has-a-third-star-beta-pictoris-d/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/BetaPicd.webp",
-        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "Ferro Offices / GROUP A",
+        "summary": "Ferro Offices is a radical transformation of a former industrial headquarters in Rotterdam's evolving Merwe-Vierhavens (M4H) harbor district. Originally built in 1969, the building was revitalized by architecture studio GROUP A for the Port of Rotterdam into a future-proof multi-tenant workplace for innovators shaping ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 17 Jul 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1041959/ferro-offices-group-a",
+        "image_url": "https://images.adsttc.com/media/images/6a58/c6ae/d58c/e001/8884/ffdb/large_jpg/ferro-offices-group-a_17.jpg?1784202955",
+        "impact": 5
+      },
       {
         "title": "Westlake 66 Mixed Use Complex / KPF",
         "summary": "Westlake 66 is a new model for urban connectivity, landscape-driven design and computationally informed architecture, reinvigorating a deteriorated neighborhood and establishing a new civic heart in one of China's most dynamic cities.",
@@ -357,25 +368,14 @@
         "impact": 4
       },
       {
-        "title": "Beyond Emergency Shelters: Modular and Vernacular Architecture in Post-Earthquake Reconstruction",
-        "summary": "On June 24, 2026, a severe seismic event consisting of two major earthquakes with magnitudes of 7.2 and 7.5 struck north-central Venezuela just 39 seconds apart. The widespread destruction was concentrated along the country's northern coast, heavily impacting the capital city of Caracas and the neighboring state of La ",
+        "title": "What the World Cup has taught us about stadium design",
+        "summary": "What's the creepy technology at one the major 2026 World Cup stadiums? Are stadiums the only giant buildings that people really like? And what does the future hold for stadium architecture? Listen to the latest episode of Dezeen Weekly now. In this episode, Dezeen features editor Nat Barker is joined by US editor Ben D",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 16 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1148541/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction",
-        "image_url": "https://images.adsttc.com/media/images/6a54/12b3/a6cc/5601/89e4/e147/large_jpg/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction_4.jpg?1783894716",
-        "impact": 4
-      },
-      {
-        "title": "MoMA Revisits West African Modernism and a New Installation Activates the Basilica di Massenzio: This Week's Review",
-        "summary": "Architecture this week looked as much to the past as to the future. Across museums, restored landmarks, and large-scale urban redevelopments, the featured stories explored how architecture is continually reinterpreted through new cultural, political, and urban lenses. From reconsidering the architectural legacy of post",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 16 Jul 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1148781/moma-revisits-west-african-modernism-and-a-new-installation-activates-the-basilica-di-massenzio-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6a58/77dd/d58c/e001/8884/fe49/large_jpg/moma-revisits-west-african-modernism-and-a-new-installation-activates-the-basilica-di-massenzio-this-weeks-review_5.jpg?1784182758",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 17 Jul 2026 09:15:02 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -425,36 +425,36 @@
         "impact": 4
       },
       {
-        "title": "Construction costs dropped in June, will likely tick up again",
-        "summary": "A brief respite in fuel prices caused construction input costs to drop in June. But the recent escalation in the Iran war will likely drive them back higher.&nbsp;",
+        "title": "Skanska reports record $7B order intake for Q2",
+        "summary": "CFO Pontus Winqvist remained measured in the face of a robust backlog as well as economic hurdles, telling Construction Dive, &ldquo;you can't build a trend on one quarter.&rdquo;",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 16 Jul 2026 15:25:29 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-ppi-inputs-june-2026/825461/",
-        "image_url": "https://imgproxy.divecdn.com/J4wYn9KjDzTJx8oUdQncZNCDwMxW76hsFC0Wb0Pg_Sg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxNzgzMDQ3LmpwZw==.webp",
+        "published_at": "Fri, 17 Jul 2026 15:40:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/skanska-earnings-record-order-intake-q2/825587/",
+        "image_url": "https://imgproxy.divecdn.com/JRTMV5CG_XDr5ecO2LLyns1i7m-kS5Q-aUuAvmhQYR8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZS1wZW5uLXN0YXRpb24tYWZ0ZXItZGF5LXZpZXctb2YtOHRoLWF2ZS1lLndlYnA=.webp",
         "impact": 3
       },
       {
-        "title": "Local water projects would get billions under water infrastructure bill",
-        "summary": "The Water Resources Development Act, which would provide $30.5 billion for state revolving funds, passed unanimously through a House committee.",
+        "title": "Tutor Perini building unit wins $140M Oklahoma casino contract",
+        "summary": "The firm&rsquo;s building subsidiary will renovate and expand the Choctaw Casino &amp; Resort in Pocola, including the construction of a new, 130-room hotel tower.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 16 Jul 2026 10:13:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/wrda26-local-water-infrastructure-bill/825312/",
-        "image_url": "https://imgproxy.divecdn.com/bAEwjUQMghV1n0Gsq6p2tdnoo2j0A2JjxB2mrQNd0kc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDUyMTM4MjQuanBn.webp",
+        "published_at": "Fri, 17 Jul 2026 12:45:05 -0400",
+        "source_url": "https://www.constructiondive.com/news/tutor-perini-choctaw-oklahoma-casino-contract/825565/",
+        "image_url": "https://imgproxy.divecdn.com/EP-Bw0BOW9sid82o-DFxMd5oICVch8BNZVN7GON-A4I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaG9jdGF3X0Nhc2lub19hbmRfUmVzb3J0X1BvY29sYV9leHBhbnNpb25fYW5kX3Jlbm92YXRpb25fc291cmNlX0pDSl9BcmNoaXRlY3R1cmUuanBn.webp",
         "impact": 3
       },
       {
-        "title": "Meta commits $50B to Louisiana data center, surrounding region",
-        "summary": "Meta contracted Turner, Mortenson and DPR to build the Richland Parish facility, which will support 7,500 construction jobs at peak construction.",
+        "title": "Punch List: ‘The Playground’ opens, Tutor Perini unit scores infrastructure jobs",
+        "summary": "Plus, PCL appoints a new data center executive and Skanska forms a team to scale its artificial intelligence capabilities for project delivery.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 15 Jul 2026 13:55:14 -0400",
-        "source_url": "https://www.constructiondive.com/news/meta-commits-50b-louisiana-data-center-richland-parish/825329/",
-        "image_url": "https://imgproxy.divecdn.com/KjpOBTphbPdXZsDIawOka6pH5ur4aycg-OwvEcyaaWU/g:nowe:0:37/c:959:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMV9DYXJvdXNlbC0wMl9UQjNZTXVRLmpwZw==.webp",
+        "published_at": "Fri, 17 Jul 2026 09:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/punch-list-playground-opens-tutor-perini-sub-infrastructure/825507/",
+        "image_url": "https://imgproxy.divecdn.com/tPVMhwUCKgd3Pzkl3XKRMhz0DE349Q5araj0Sggo0sg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9vRWZDZkJzYi5qcGVn.webp",
         "impact": 3
       }
     ],
@@ -465,18 +465,18 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.13285",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
-        "summary": "arXiv:2607.13501v1 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LAPO, a self-generated process-supervision method based on backward leave-one",
+        "title": "LOTAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
+        "summary": "arXiv:2607.13501v2 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LOTAPO , a self-generated process-supervision method based on backward leave-",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.13501",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.13548",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.13594",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.13608",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
