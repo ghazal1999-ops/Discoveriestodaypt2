@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-17",
-  "last_updated": "2026-07-17 23:50 UTC",
+  "date": "2026-07-18",
+  "last_updated": "2026-07-18 23:50 UTC",
   "categories": {
     "science": [
       {
@@ -61,17 +61,6 @@
     ],
     "tech": [
       {
-        "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-        "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 17 Jul 2026 14:12:02 +0000",
-        "source_url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Zoox-San-Francisco-closeup-robotaxi.jpg?resize=1200,675",
-        "impact": 4
-      },
-      {
         "title": "Ars is looking for a senior technology reporter, and you might be it!",
         "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
         "category": "Tech",
@@ -83,14 +72,14 @@
         "impact": 3
       },
       {
-        "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-        "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+        "title": "Federal employees can download TikTok on their work phones again",
+        "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Thu, 16 Jul 2026 20:09:48 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-1152x648.png",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 18 Jul 2026 15:54:24 +0000",
+        "source_url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1821998528.jpg?resize=1200,800",
         "impact": 3
       },
       {
@@ -114,29 +103,40 @@
         "source_url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
         "impact": 3
+      },
+      {
+        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+        "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 17 Jul 2026 15:21:17 +0000",
+        "source_url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
+        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Experimental drug may protect the heart in Duchenne muscular dystrophy",
-        "summary": "Researchers at the USF Health Morsani College of Medicine have identified a potential pathway that could protect cardiac function in people with Duchenne muscular dystrophy (DMD), a progressive and fatal genetic disease that weakens the body's muscles. Published in Molecular Therapy, the new study examined the effects ",
+        "title": "Cutting-edge drug shows promise for patients with NRAS-driven melanoma",
+        "summary": "A research team from Huntsman Cancer Institute at the University of Utah (the U) reports that a pathway-targeted therapy could be an effective treatment for certain melanoma patients and fill an unmet clinical need for patients with advanced disease.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 17 Jul 2026 08:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-experimental-drug-heart-duchenne-muscular.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/experimental-drug-may.jpg",
+        "published_at": "Sat, 18 Jul 2026 14:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-edge-drug-patients-nras-driven.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-drug.jpg",
         "impact": 5
       },
       {
-        "title": "GLP-1 shows promise for patients with advanced fatty liver disease",
-        "summary": "Researchers at the University of California San Diego School of Medicine have reported results from a large international clinical trial showing that semaglutide, a medication in the GLP-1 class of drugs widely used to treat diabetes and obesity, may help reduce liver scarring in patients with advanced fatty liver dise",
+        "title": "LIG1 loss exposes a therapeutic vulnerability in triple-negative breast cancer",
+        "summary": "Loss of one copy of the DNA ligase I (LIG1) gene in triple-negative breast cancers (TNBC) with TP53 mutations confers resistance to chemotherapy, but researchers at Baylor College of Medicine and collaborating institutions have identified a vulnerability in these cells and used it to their advantage. The team identifie",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 17 Jul 2026 11:00:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-glp-patients-advanced-fatty-liver.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/clinical-trial-1.jpg",
+        "published_at": "Fri, 17 Jul 2026 20:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-lig1-loss-exposes-therapeutic-vulnerability.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-the-tables-on.jpg",
         "impact": 5
       },
       {
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "'The dawn of a new space era': Vikram-1, India's 1st private orbital rocket, aces debut launch",
+        "summary": "Skyroot Aerospace's Vikram-1 rocket aced its debut mission on Saturday morning (July 18), making India the third nation with a private orbital launch capability.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 17 Jul 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/c48Qui4Z2LLkW5WYzLhBoV-1280-80.jpg",
+        "impact": 5
+      },
+      {
         "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
         "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progres",
         "category": "Space",
@@ -273,17 +284,6 @@
         "published_at": "Fri, 17 Jul 2026 21:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really",
         "image_url": "https://cdn.mos.cms.futurecdn.net/PnVbSEh2nwrwxvgFfxBU6G-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Making history: Watch Vikram-1, India's 1st private orbital rocket, launch early on July 18",
-        "summary": "India's first privately built orbital rocket, Skyroot Aerospace's Vikram-1, will try to reach orbit early Saturday morning (July 18), and you can watch the historic action live.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 17 Jul 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/gMnGNSUHzPLK2piuWPba8N-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -357,14 +357,14 @@
         "impact": 5
       },
       {
-        "title": "Westlake 66 Mixed Use Complex / KPF",
-        "summary": "Westlake 66 is a new model for urban connectivity, landscape-driven design and computationally informed architecture, reinvigorating a deteriorated neighborhood and establishing a new civic heart in one of China's most dynamic cities.",
+        "title": "KPF wraps China skyscraper in one-kilometer-long \"landscape ribbon\"",
+        "summary": "A one-kilometer-long series of terraces and planted staircases wraps around a trio of interconnected buildings in Shenzhen, China, for tech company TP-Link. Designed by architecture studio KPF, TP-Link LXD contains 124,600-square-metres of offices, research and development spaces and housing in three towers. The desire",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 16 Jul 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1148690/westlake-66-kpf",
-        "image_url": "https://images.adsttc.com/media/images/6a56/d6f7/7c22/c800/01aa/6351/large_jpg/01_Westlake_66_Credit_StudioSZ_Justin_Szeremeta_Courtesy_KPF.jpg?1784076063",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sat, 18 Jul 2026 10:00:22 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-        "summary": "arXiv:2607.13285v1 Announce Type: new Abstract: The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually",
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release y",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.13285",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 15 Jul 2026 17:09:37 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "LOTAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
-        "summary": "arXiv:2607.13501v2 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LOTAPO , a self-generated process-supervision method based on backward leave-",
+        "title": "How Cars24 scales conversations and builds faster with OpenAI",
+        "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.13501",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/cars24",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7CDBt34djpI5pY21NFpVyc/c2acb8f59210c75f3ca156a8249cdded/cars24-seo.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
-        "summary": "arXiv:2607.13548v1 Announce Type: new Abstract: Identifying root causes in production microservice failures requires reasoning over large-scale, multimodal telemetry spanning metrics, logs, and traces, a problem that has proved resistant to both classical and LLM-based approaches. The OpenRCA dataset exemplifies these ",
+        "title": "How to manage AI investments in the agentic era",
+        "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.13548",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 14 Jul 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1f3fCCk8KKldaYmrCqQ6tt/3193a26fa6ff6423b4235b0661de239f/Frame-1.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing",
-        "summary": "arXiv:2607.13594v1 Announce Type: new Abstract: LLM agents act on real-world environments through tool calls, and a single misjudged action can cause irreversible harm. The standard safeguard is a guard model that labels each proposed action as safe or unsafe, but this binary view conflates two distinct decisions: whet",
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.13594",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 09 Jul 2026 13:00:00 GMT",
+        "source_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7Bf5twKHcGsjM0T5u43cg6/35ba64ea71cbb3590f551f7727c6cf71/Frame-1.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System",
-        "summary": "arXiv:2607.13608v1 Announce Type: new Abstract: Automatic scientific discovery has long been a goal of computational scholars - a machine that can discover nature's secrets on its own, moving computational systems beyond data-fitting tools toward the generation and refinement of mechanistic models of the universe. Rece",
+        "title": "Separating signal from noise in coding evaluations",
+        "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.13608",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 08 Jul 2026 13:00:00 GMT",
+        "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5f0Xf4wOuXVsX7TZUM4tjl/4672bf7bf93bad67ade28dce57f62638/Seperating-signal-from-noise-SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
