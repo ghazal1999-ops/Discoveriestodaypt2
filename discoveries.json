@@ -1,19 +1,8 @@
 {
-  "date": "2026-07-18",
-  "last_updated": "2026-07-18 23:50 UTC",
+  "date": "2026-07-19",
+  "last_updated": "2026-07-19 23:54 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Blue Light Breakthrough Could Speed Up Drug Discovery",
-        "summary": "Researchers have developed a visible-light-driven method that could help chemists build more complex drug-like molecules in fewer steps. A blue light commonly used in aquariums and indoor gardens could help chemists solve one of drug discovery’s persistent challenges: building more intricate molecules without adding a ",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 17 Jul 2026 19:31:10 +0000",
-        "source_url": "https://scitechdaily.com/blue-light-breakthrough-could-speed-up-drug-discovery/",
-        "image_url": "https://scitechdaily.com/images/Blue-LED-Light-Drug-Discovery-777x518.jpg",
-        "impact": 5
-      },
       {
         "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
         "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists",
@@ -48,14 +37,25 @@
         "impact": 5
       },
       {
-        "title": "Brain Breakthrough Could Help Older Adults Live Longer and Stay Steady",
-        "summary": "Aging appears to alter how key cerebellar neurons fire, with measurable effects on movement and coordination. Aging often brings slower movement, weaker balance, and reduced agility, but the brain changes behind these losses have been difficult to identify. McGill University researchers have now directly linked declini",
+        "title": "Plants that make real dairy protein? Scientists discover an unexpected shortcut",
+        "summary": "What if the plants growing in a field could one day produce the same proteins that give milk its nutrition, texture and cheese-making properties? A new study brings that possibility a step closer by revealing an unexpected way plant seeds can manufacture and store one of milk's most important proteins. The discovery co",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Sun, 19 Jul 2026 08:00:01 EDT",
+        "source_url": "https://phys.org/news/2026-07-real-dairy-protein-scientists-unexpected.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-that-make-real.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Scientists Turned a 200-Year-Old Light Trick Into a Modern Breakthrough",
+        "summary": "A classic 200-year-old light experiment has given scientists a simple new way to create exotic light structures that could help shape the future of computing and photonics. Scientists at Nanyang Technological University, Singapore (NTU Singapore) have found a far simpler way to create unusual and stable light structure",
         "category": "Science",
         "source": "scitechdaily.com",
         "journal": "scitechdaily.com",
-        "published_at": "Fri, 17 Jul 2026 16:05:05 +0000",
-        "source_url": "https://scitechdaily.com/brain-breakthrough-could-help-older-adults-live-longer-and-stay-steady/",
-        "image_url": "https://scitechdaily.com/images/Clock-Aging-Time-Old-777x518.jpg",
+        "published_at": "Sun, 19 Jul 2026 12:43:26 +0000",
+        "source_url": "https://scitechdaily.com/scientists-turned-a-200-year-old-light-trick-into-a-modern-breakthrough/",
+        "image_url": "https://scitechdaily.com/images/Poisson-Spot-Skyrmions-777x622.jpg",
         "impact": 5
       }
     ],
@@ -69,6 +69,28 @@
         "published_at": "Fri, 17 Jul 2026 15:52:28 +0000",
         "source_url": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/ars-writer-pen-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "TechCrunch Mobility: The battle over robotaxi rules",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 19 Jul 2026 16:05:00 +0000",
+        "source_url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/uber-waymo.jpeg?resize=1200,900",
+        "impact": 3
+      },
+      {
+        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+        "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 19 Jul 2026 14:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
         "impact": 3
       },
       {
@@ -91,28 +113,6 @@
         "published_at": "Fri, 17 Jul 2026 20:19:49 +0000",
         "source_url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
-        "impact": 3
-      },
-      {
-        "title": "Parents want safer phones for kids. These companies are answering the call.",
-        "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 17 Jul 2026 16:12:46 +0000",
-        "source_url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-        "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 17 Jul 2026 15:21:17 +0000",
-        "source_url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
         "impact": 3
       }
     ],
@@ -151,6 +151,17 @@
         "impact": 5
       },
       {
+        "title": "Discovery could lead to drug therapy for hypopigmentation conditions",
+        "summary": "An NSAID-related compound called ampyrone appears to safely boost production of the pigment melanin in human skin, according to a preclinical study led by Weill Cornell Medicine and National Eye Institute investigators. The discovery could lead to the development of an ampyrone-derived treatment for hypopigmentation di",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 19 Jul 2026 09:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-discovery-drug-therapy-hypopigmentation-conditions.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-could-lead-t-2.jpg",
+        "impact": 4
+      },
+      {
         "title": "This drug could help millions keep their kidneys working longer",
         "summary": "An international study found that finerenone slows kidney function decline and reduces the risk of serious kidney and cardiovascular complications in people with chronic kidney disease who do not have diabetes. The results could open the door to a much-needed new treatment option for the majority of CKD patients who ha",
         "category": "Medicine",
@@ -159,17 +170,6 @@
         "published_at": "Thu, 16 Jul 2026 09:04:35 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011753.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/doctor-supports-kidney-health.webp",
-        "impact": 4
-      },
-      {
-        "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
-        "summary": "A drug originally developed for spinal cord injury may offer a fresh approach to treating Alzheimer’s disease. In mouse studies, KCL-286 repaired dangerous DNA damage, reduced inflammation, and targeted multiple disease-related pathways instead of focusing on just amyloid or tau. Since it has already cleared an initial",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 17 Jul 2026 00:19:36 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/genetic-neuroscience-human-brain-dna-mutation-health.webp",
         "impact": 4
       }
     ],
@@ -346,15 +346,37 @@
     ],
     "architecture": [
       {
-        "title": "Ferro Offices / GROUP A",
-        "summary": "Ferro Offices is a radical transformation of a former industrial headquarters in Rotterdam's evolving Merwe-Vierhavens (M4H) harbor district. Originally built in 1969, the building was revitalized by architecture studio GROUP A for the Port of Rotterdam into a future-proof multi-tenant workplace for innovators shaping ",
+        "title": "Tiansong Headquarters / ZIAD",
+        "summary": "01 Architecture and the City - Tiansong Headquarters is situated in Chengxi Subdistrict, Wenling, Taizhou, at the confluence of the old town and the new urban district. The existing urban fabric around the site is fragmented and lacks coherence. In response, the design embraces the corporate ethos of precision craftsma",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 17 Jul 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041959/ferro-offices-group-a",
-        "image_url": "https://images.adsttc.com/media/images/6a58/c6ae/d58c/e001/8884/ffdb/large_jpg/ferro-offices-group-a_17.jpg?1784202955",
+        "published_at": "Sun, 19 Jul 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1148546/tiansong-headquarters-ziad",
+        "image_url": "https://images.adsttc.com/media/images/6a54/92c7/22ee/0e00/0134/c5f9/large_jpg/_______.jpg?1783927830",
         "impact": 5
+      },
+      {
+        "title": "Hotel Nobis Palma / Jordi Herrero Arquitecto",
+        "summary": "Hotel Nobis Palma is the rehabilitation and adaptive reuse of Can Oliver, a historic palace located in the old town of Palma de Mallorca. Rather than adapting the building to fit the hotel program, the central concept of the project was the opposite: allowing the hotel to adapt to the existing architecture. This approa",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 19 Jul 2026 09:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1043020/hotel-nobis-palma-jordi-herrero-arquitecto",
+        "image_url": "https://images.adsttc.com/media/images/6a47/e8b9/b477/e200/0107/aa28/large_jpg/CAN_OLIVER_FINAL_067.jpg?1783097674",
+        "impact": 4
+      },
+      {
+        "title": "Rivers Before Roads: How Southeast Asia's Waterways Produced an Alternative Urbanism",
+        "summary": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the façades they present to sidewalks. Roads appear so fundamental to urban life that they are often mistaken for a universal ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 19 Jul 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
+        "image_url": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
+        "impact": 4
       },
       {
         "title": "KPF wraps China skyscraper in one-kilometer-long \"landscape ribbon\"",
@@ -375,28 +397,6 @@
         "journal": "dezeen.com",
         "published_at": "Fri, 17 Jul 2026 09:15:02 +0000",
         "source_url": "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Studio Fuksas-designed Rike Concert Hall in Tbilisi set to be demolished",
-        "summary": "The unopened Rike Concert Hall in Tbilisi, designed by Italian practice Studio Fuksas, is set to be demolished less than 15 years after it was completed. Tbilisi's city hall architecture department has issued a permit allowing the owner of the concert hall to demolish the building. According to reports in the Georgian ",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 15 Jul 2026 10:00:07 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/15/rike-concert-hall-tbilisi-demolition-studio-fuksas/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Heavily stylistic approach to stadium design \"should die down\" says Populous global director Jonathan Mallie",
-        "summary": "Continuing our Future Stadium series, we interview architect Jonathan Mallie about the combination of urban planning, computational design and economics behind Populous, the studio driving global stadium design. If you attend professional sporting events, there's a good chance you've sat in a stadium designed by Populo",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 14 Jul 2026 14:30:43 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/14/jonathan-mallie-populous-interview-future-stadium/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
