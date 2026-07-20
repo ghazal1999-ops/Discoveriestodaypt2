@@ -1,8 +1,19 @@
 {
-  "date": "2026-07-19",
-  "last_updated": "2026-07-19 23:54 UTC",
+  "date": "2026-07-20",
+  "last_updated": "2026-07-20 23:56 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+        "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than t",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 20 Jul 2026 06:05:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+        "impact": 5
+      },
       {
         "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
         "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists",
@@ -26,25 +37,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists discovered the brain doesn't make decisions the way we thought",
-        "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could he",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 13 Jul 2026 08:12:27 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp",
-        "impact": 5
-      },
-      {
-        "title": "Plants that make real dairy protein? Scientists discover an unexpected shortcut",
-        "summary": "What if the plants growing in a field could one day produce the same proteins that give milk its nutrition, texture and cheese-making properties? A new study brings that possibility a step closer by revealing an unexpected way plant seeds can manufacture and store one of milk's most important proteins. The discovery co",
+        "title": "Molecules stop carbon nanotubes clumping, unlocking record heat-to-electricity performance",
+        "summary": "QUT researchers have overcome a challenge that has limited next-generation energy-harvesting materials for more than two decades, opening the door to more powerful wearable electronics and new ways of turning wasted heat into electricity. The breakthrough centers on carbon nanotubes, which are flexible, conductive micr",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Sun, 19 Jul 2026 08:00:01 EDT",
-        "source_url": "https://phys.org/news/2026-07-real-dairy-protein-scientists-unexpected.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/plants-that-make-real.jpg",
+        "published_at": "Mon, 20 Jul 2026 17:40:06 EDT",
+        "source_url": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-a-long-sough-1.jpg",
         "impact": 5
       },
       {
@@ -61,14 +61,36 @@
     ],
     "tech": [
       {
-        "title": "Ars is looking for a senior technology reporter, and you might be it!",
-        "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 17 Jul 2026 15:52:28 +0000",
-        "source_url": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/ars-writer-pen-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 20 Jul 2026 21:21:15 +0000",
+        "source_url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+        "impact": 3
+      },
+      {
+        "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+        "summary": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 20 Jul 2026 15:35:37 +0000",
+        "source_url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+        "impact": 3
+      },
+      {
+        "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+        "summary": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 20 Jul 2026 15:01:20 +0000",
+        "source_url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-98618495.jpg?resize=1200,800",
         "impact": 3
       },
       {
@@ -83,60 +105,27 @@
         "impact": 3
       },
       {
-        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-        "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+        "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
+        "summary": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 19 Jul 2026 14:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
-        "impact": 3
-      },
-      {
-        "title": "Federal employees can download TikTok on their work phones again",
-        "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 18 Jul 2026 15:54:24 +0000",
-        "source_url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1821998528.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Agility Robotics plants its flag in Tesla’s backyard",
-        "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 17 Jul 2026 20:19:49 +0000",
-        "source_url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sat, 18 Jul 2026 10:30:00 +0000",
+        "source_url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+        "image_url": "https://media.wired.com/photos/6a5a738965c28720eb4e89e1/191:100/w_1280,c_limit/The-Best-Motion-Sensors-and-Privacy-Alternatives-to-Security-Cameras.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Cutting-edge drug shows promise for patients with NRAS-driven melanoma",
-        "summary": "A research team from Huntsman Cancer Institute at the University of Utah (the U) reports that a pathway-targeted therapy could be an effective treatment for certain melanoma patients and fill an unmet clinical need for patients with advanced disease.",
+        "title": "Clinical trial: Oral drug keeps cancer treatment on track for patients who develop persistently low platelet counts",
+        "summary": "In a phase 2 clinical trial, Mass General Brigham Cancer Institute researchers found that the oral drug avatrombopag was safe and effective in managing persistent chemotherapy-induced thrombocytopenia (CIT) in more than half of patients with gastrointestinal cancers, offering a potential new option for managing a commo",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 18 Jul 2026 14:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-edge-drug-patients-nras-driven.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cancer-drug.jpg",
-        "impact": 5
-      },
-      {
-        "title": "LIG1 loss exposes a therapeutic vulnerability in triple-negative breast cancer",
-        "summary": "Loss of one copy of the DNA ligase I (LIG1) gene in triple-negative breast cancers (TNBC) with TP53 mutations confers resistance to chemotherapy, but researchers at Baylor College of Medicine and collaborating institutions have identified a vulnerability in these cells and used it to their advantage. The team identifie",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 17 Jul 2026 20:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-lig1-loss-exposes-therapeutic-vulnerability.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-the-tables-on.jpg",
+        "published_at": "Mon, 20 Jul 2026 16:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-clinical-trial-oral-drug-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/platelet-levels.jpg",
         "impact": 5
       },
       {
@@ -151,14 +140,25 @@
         "impact": 5
       },
       {
-        "title": "Discovery could lead to drug therapy for hypopigmentation conditions",
-        "summary": "An NSAID-related compound called ampyrone appears to safely boost production of the pigment melanin in human skin, according to a preclinical study led by Weill Cornell Medicine and National Eye Institute investigators. The discovery could lead to the development of an ampyrone-derived treatment for hypopigmentation di",
+        "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+        "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than t",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 19 Jul 2026 09:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-discovery-drug-therapy-hypopigmentation-conditions.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-could-lead-t-2.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 20 Jul 2026 06:05:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+        "impact": 4
+      },
+      {
+        "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
+        "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice without it experienced more severe damage. The findings also revealed a possible ",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 20 Jul 2026 01:28:48 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
         "impact": 4
       },
       {
@@ -243,36 +243,14 @@
         "impact": 5
       },
       {
-        "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
-        "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progres",
+        "title": "Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever",
+        "summary": "NASA's Artemis III mission is shaping up to be NASA's most complex mission in history, coordinating the launch and rendezvous of three different spacecraft.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 17 Jul 2026 22:32:27 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "impact": 4
-      },
-      {
-        "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
-        "summary": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no earlier than 7:20 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 17 Jul 2026 18:00:57 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
-        "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars. Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 17 Jul 2026 17:38:38 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26749/PIA26749.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 20 Jul 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/AMaxYJFskjUa4ZG5sffm9n-1280-80.jpg",
         "impact": 4
       },
       {
@@ -284,6 +262,28 @@
         "published_at": "Fri, 17 Jul 2026 21:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really",
         "image_url": "https://cdn.mos.cms.futurecdn.net/PnVbSEh2nwrwxvgFfxBU6G-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort",
+        "summary": "SpaceX is now targeting Thursday (July 23) for Flight 13 of its giant Starship rocket, after the first launch attempt aborted at the last second on July 16.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 20 Jul 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/utXh7eg3hdTzfKujJxfqS3-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "50 years after Viking 1's historic Mars landing, NASA is looking to the Red Planet's skies",
+        "summary": "NASA's Viking 1 mission blazed a crucial trail with its Mars landing on July 20, 1976. Now, half a century later, that trail leads up into the Red Planet's skies.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 20 Jul 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/50-years-after-viking-1s-historic-mars-landing-nasa-is-looking-to-the-red-planets-skies",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/MSPqdKaa8fqCVvBdfjpJnG-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,25 +311,14 @@
         "impact": 4
       },
       {
-        "title": "This Exoplanet Hid for 10 Years Before Astronomers Finally Found It",
-        "summary": "A team of astronomers have discovered a third planet orbiting the star Beta Pictoris. The new planet, Beta Pictoris d, is 100 times fainter than Beta Pictoris b — the first planet discovered in the same system — and is among the lightest exoplanets ever to be imaged from the ground. After spotting the planet using the ",
+        "title": "Gamma-Ray Bursts Size Up the Milky Way’s Spiral Arms",
+        "summary": "Observations of remote cosmic explosions reveal that the outer spiral arms of the Milky Way might extend farther out than previously thought. The post Gamma-Ray Bursts Size Up the Milky Way’s Spiral Arms appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 16 Jul 2026 19:56:53 +0000",
-        "source_url": "https://www.universetoday.com/articles/this-exoplanet-hid-for-10-years-before-astronomers-finally-found-it",
-        "image_url": "https://www.universetoday.com/article_images/eso2609a_20260715_170643.jpg",
-        "impact": 4
-      },
-      {
-        "title": "'Found you!' Astronomers spot faintest exoplanet ever seen from Earth after a decade of hide-and-seek",
-        "summary": "It has taken over ten years, but astronomers have finally won a prolonged game of cosmic hide-and-seek with a planet hiding around the star Beta Pictoris.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 15 Jul 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/exoplanets/found-you-astronomers-spot-faintest-exoplanet-ever-seen-from-earth-after-a-decade-of-hide-and-seek",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/cG2xVMuHzYXwEn7m6goJeD-1280-80.png",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Mon, 20 Jul 2026 10:35:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/gamma-ray-bursts-size-up-the-milky-ways-spiral-arms/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/arms_illus2_unlabeled.webp",
         "impact": 4
       },
       {
@@ -342,19 +331,52 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/first-atmosphere-terrestrial-world/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Helium-planet.webp",
         "impact": 4
+      },
+      {
+        "title": "Famous System Has a Third Planet: Beta Pictoris d",
+        "summary": "Two teams of astronomers independently discovered a third giant gas planet orbiting in the famous Beta Pictoris system. The post Famous System Has a Third Planet: Beta Pictoris d appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Wed, 15 Jul 2026 19:55:44 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/famous-system-has-a-third-star-beta-pictoris-d/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/BetaPicd.webp",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Tiansong Headquarters / ZIAD",
-        "summary": "01 Architecture and the City - Tiansong Headquarters is situated in Chengxi Subdistrict, Wenling, Taizhou, at the confluence of the old town and the new urban district. The existing urban fabric around the site is fragmented and lacks coherence. In response, the design embraces the corporate ethos of precision craftsma",
+        "title": "The Architecture of the FIFA World Cup: Looking Back at 2026 and Ahead to 2030",
+        "summary": "The conclusion of the FIFA World Cup 2026 marks the end of the tournament's largest edition to date. Hosted across Canada, Mexico, and the United States, the competition expanded to 48 national teams and brought together sixteen host cities distributed across three countries. For decades, FIFA World Cups have served as",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 19 Jul 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1148546/tiansong-headquarters-ziad",
-        "image_url": "https://images.adsttc.com/media/images/6a54/92c7/22ee/0e00/0134/c5f9/large_jpg/_______.jpg?1783927830",
-        "impact": 5
+        "published_at": "Mon, 20 Jul 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1181248/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030",
+        "image_url": "https://images.adsttc.com/media/images/6a5d/e774/e8f5/cb01/8987/a951/large_jpg/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030_1.jpg?1784539003",
+        "impact": 4
+      },
+      {
+        "title": "Selldorf Architects Unveils Design for Clark Art Institute Extension in Massachusetts",
+        "summary": "The Clark Art Institute, a prominent art institution located in the Berkshires of western Massachusetts, United States, has unveiled images of the design for the extension of its current facilities. The institution, opened in 1955, is both an art museum and a center for research, critical discussion, and higher educati",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 20 Jul 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1148941/selldorf-architects-unveils-design-for-clark-art-institute-extension-in-massachusetts",
+        "image_url": "https://images.adsttc.com/media/images/6a5a/79db/3d21/f701/89c9/2e31/large_jpg/selldorf-architects-and-reed-hilderbrand-to-design-new-wing-for-the-clark-art-institute_4.jpg?1784314524",
+        "impact": 4
+      },
+      {
+        "title": "\"Architecture Is Not Jewelry\": Xing Ruan on Building for Time, Not Perfection",
+        "summary": "In 2023, the School of Design Building at Shanghai Jiao Tong University opened its doors after a complete remodeling and adaptation of an existing structure. Designed by architect and scholar Xing Ruan, who also serves as Dean of the school, the building went on to receive two recognitions at the Prix Versailles: the W",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 20 Jul 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1042188/architecture-is-not-jewelry-xing-ruan-on-building-for-time-not-perfection",
+        "image_url": "https://images.adsttc.com/media/images/6a26/8930/54de/fb0d/4377/fd1d/large_jpg/xing-ruan-reason-able-architecture_28.jpg?1780910394",
+        "impact": 4
       },
       {
         "title": "Hotel Nobis Palma / Jordi Herrero Arquitecto",
@@ -377,31 +399,20 @@
         "source_url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
         "image_url": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
         "impact": 4
-      },
-      {
-        "title": "KPF wraps China skyscraper in one-kilometer-long \"landscape ribbon\"",
-        "summary": "A one-kilometer-long series of terraces and planted staircases wraps around a trio of interconnected buildings in Shenzhen, China, for tech company TP-Link. Designed by architecture studio KPF, TP-Link LXD contains 124,600-square-metres of offices, research and development spaces and housing in three towers. The desire",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Sat, 18 Jul 2026 10:00:22 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "What the World Cup has taught us about stadium design",
-        "summary": "What's the creepy technology at one the major 2026 World Cup stadiums? Are stadiums the only giant buildings that people really like? And what does the future hold for stadium architecture? Listen to the latest episode of Dezeen Weekly now. In this episode, Dezeen features editor Nat Barker is joined by US editor Ben D",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 17 Jul 2026 09:15:02 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "CORE Construction put GNSS in the hands of its superintendents. Here’s what changed.",
+        "summary": "How to equip field teams with GNSS for daily layout checks before the concrete pour.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 20 Jul 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/core-construction-put-gnss-in-the-hands-of-its-superintendents-heres-what/825479/",
+        "image_url": "https://imgproxy.divecdn.com/AYFZrp7iQ_Sw8xfGQW3M1_71UYF2OSBGlATWDEqAIKA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db25zdHJ1Y3Rpb25fTWFuX0VtbGlkXzlSODlqZVkuanBn.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -425,94 +436,83 @@
         "impact": 4
       },
       {
-        "title": "Skanska reports record $7B order intake for Q2",
-        "summary": "CFO Pontus Winqvist remained measured in the face of a robust backlog as well as economic hurdles, telling Construction Dive, &ldquo;you can't build a trend on one quarter.&rdquo;",
+        "title": "NYC DDC commissioner talks alternative delivery, compressed timelines",
+        "summary": "Paul Ochoa, the commissioner for the city&rsquo;s primary capital construction project manager, discusses project delivery and priorities for public jobs.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 17 Jul 2026 15:40:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/skanska-earnings-record-order-intake-q2/825587/",
-        "image_url": "https://imgproxy.divecdn.com/JRTMV5CG_XDr5ecO2LLyns1i7m-kS5Q-aUuAvmhQYR8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZS1wZW5uLXN0YXRpb24tYWZ0ZXItZGF5LXZpZXctb2YtOHRoLWF2ZS1lLndlYnA=.webp",
+        "published_at": "Mon, 20 Jul 2026 15:31:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/nyc-ddc-commissioner-alternative-delivery-compressed-timelines/825673/",
+        "image_url": "https://imgproxy.divecdn.com/EJBtpfnDeqxSiOMgrT-J7ecwohY20Kj4F_24vOLEl0Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg2NDExMDAyLmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "Tutor Perini building unit wins $140M Oklahoma casino contract",
-        "summary": "The firm&rsquo;s building subsidiary will renovate and expand the Choctaw Casino &amp; Resort in Pocola, including the construction of a new, 130-room hotel tower.",
+        "title": "Inaccurate time records are a huge contractor compliance blind spot",
+        "summary": "Most wage and hour violation claims don&rsquo;t start with bad intent. They start with records no one can verify, writes a construction software CEO.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 17 Jul 2026 12:45:05 -0400",
-        "source_url": "https://www.constructiondive.com/news/tutor-perini-choctaw-oklahoma-casino-contract/825565/",
-        "image_url": "https://imgproxy.divecdn.com/EP-Bw0BOW9sid82o-DFxMd5oICVch8BNZVN7GON-A4I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaG9jdGF3X0Nhc2lub19hbmRfUmVzb3J0X1BvY29sYV9leHBhbnNpb25fYW5kX3Jlbm92YXRpb25fc291cmNlX0pDSl9BcmNoaXRlY3R1cmUuanBn.webp",
-        "impact": 3
-      },
-      {
-        "title": "Punch List: ‘The Playground’ opens, Tutor Perini unit scores infrastructure jobs",
-        "summary": "Plus, PCL appoints a new data center executive and Skanska forms a team to scale its artificial intelligence capabilities for project delivery.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 17 Jul 2026 09:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/punch-list-playground-opens-tutor-perini-sub-infrastructure/825507/",
-        "image_url": "https://imgproxy.divecdn.com/tPVMhwUCKgd3Pzkl3XKRMhz0DE349Q5araj0Sggo0sg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9vRWZDZkJzYi5qcGVn.webp",
+        "published_at": "Mon, 20 Jul 2026 09:44:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/inaccurate-time-records-contractor-compliance-liability/825438/",
+        "image_url": "https://imgproxy.divecdn.com/PzV37E2jzSYj7WB4frlWSqu5dCqYGvhpMD0FK4mIJIU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjY1OTI0OTM1LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release y",
+        "title": "LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4",
+        "summary": "arXiv:2607.15509v1 Announce Type: cross Abstract: We present a fully automated closed-loop AutoML framework that uses GPT-5, GPT-4o, and Claude Sonnet 4 as autonomous neural architecture designers for cross-lingual handwritten optical character recognition. Each large language model independently generates, trains, eva",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 15 Jul 2026 17:09:37 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.15509",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "How Cars24 scales conversations and builds faster with OpenAI",
-        "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+        "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+        "summary": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical knowledge, they strugg",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/cars24",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7CDBt34djpI5pY21NFpVyc/c2acb8f59210c75f3ca156a8249cdded/cars24-seo.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.15280",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "How to manage AI investments in the agentic era",
-        "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+        "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+        "summary": "arXiv:2607.15314v1 Announce Type: new Abstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnos",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 14 Jul 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1f3fCCk8KKldaYmrCqQ6tt/3193a26fa6ff6423b4235b0661de239f/Frame-1.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.15314",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-        "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+        "title": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
+        "summary": "arXiv:2607.15660v1 Announce Type: new Abstract: While LLM agents demonstrate strong reasoning abilities in compact and well-defined scenarios, they struggle to maintain robustness and effectiveness when faced with large-scale, diverse, and dynamic real-world environments that demand seamless tool integration. To addres",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 09 Jul 2026 13:00:00 GMT",
-        "source_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7Bf5twKHcGsjM0T5u43cg6/35ba64ea71cbb3590f551f7727c6cf71/Frame-1.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.15660",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Separating signal from noise in coding evaluations",
-        "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+        "title": "Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents",
+        "summary": "arXiv:2607.15715v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used for complex information-extraction tasks, yet it remains unclear whether agentic components such as reflection and memory lead to observable and controllable improvements over fixed LLM workflows. We study this quest",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 08 Jul 2026 13:00:00 GMT",
-        "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5f0Xf4wOuXVsX7TZUM4tjl/4672bf7bf93bad67ade28dce57f62638/Seperating-signal-from-noise-SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.15715",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
