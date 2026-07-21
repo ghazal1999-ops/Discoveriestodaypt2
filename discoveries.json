@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-20",
-  "last_updated": "2026-07-20 23:56 UTC",
+  "date": "2026-07-21",
+  "last_updated": "2026-07-21 23:54 UTC",
   "categories": {
     "science": [
       {
@@ -37,107 +37,96 @@
         "impact": 5
       },
       {
-        "title": "Molecules stop carbon nanotubes clumping, unlocking record heat-to-electricity performance",
-        "summary": "QUT researchers have overcome a challenge that has limited next-generation energy-harvesting materials for more than two decades, opening the door to more powerful wearable electronics and new ways of turning wasted heat into electricity. The breakthrough centers on carbon nanotubes, which are flexible, conductive micr",
+        "title": "New molecular map reveals how the flu virus hijacks human cells",
+        "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains such as H5N1.",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Mon, 20 Jul 2026 17:40:06 EDT",
-        "source_url": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-a-long-sough-1.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 21 Jul 2026 00:59:11 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/influenza-a-virus-interactions.webp",
+        "impact": 4
       },
       {
-        "title": "Scientists Turned a 200-Year-Old Light Trick Into a Modern Breakthrough",
-        "summary": "A classic 200-year-old light experiment has given scientists a simple new way to create exotic light structures that could help shape the future of computing and photonics. Scientists at Nanyang Technological University, Singapore (NTU Singapore) have found a far simpler way to create unusual and stable light structure",
+        "title": "A tiny universe in a bottle reveals clues to the origins of life",
+        "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can expl",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sun, 19 Jul 2026 12:43:26 +0000",
-        "source_url": "https://scitechdaily.com/scientists-turned-a-200-year-old-light-trick-into-a-modern-breakthrough/",
-        "image_url": "https://scitechdaily.com/images/Poisson-Spot-Skyrmions-777x622.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 19 Jul 2026 09:10:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/universe-in-bottle.webp",
+        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-        "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+        "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 20 Jul 2026 21:21:15 +0000",
-        "source_url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+        "published_at": "Tue, 21 Jul 2026 18:05:10 +0000",
+        "source_url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
         "impact": 3
       },
       {
-        "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
-        "summary": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
+        "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
+        "summary": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a new device early, or keep or return the device at the end of the lease. Gurman [&#",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 20 Jul 2026 15:35:37 +0000",
-        "source_url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-21T13:12:06-04:00",
+        "source_url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257981_Techwoven_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "impact": 3
       },
       {
-        "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-        "summary": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+        "title": "Tesla Robotaxis go to Florida",
+        "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested customers would be able to [&#8230;]",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 20 Jul 2026 15:01:20 +0000",
-        "source_url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-98618495.jpg?resize=1200,800",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-21T12:11:41-04:00",
+        "source_url": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       },
       {
-        "title": "TechCrunch Mobility: The battle over robotaxi rules",
-        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 19 Jul 2026 16:05:00 +0000",
-        "source_url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/uber-waymo.jpeg?resize=1200,900",
-        "impact": 3
-      },
-      {
-        "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
-        "summary": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
+        "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+        "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
         "category": "Tech",
         "source": "wired.com",
         "journal": "wired.com",
-        "published_at": "Sat, 18 Jul 2026 10:30:00 +0000",
-        "source_url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
-        "image_url": "https://media.wired.com/photos/6a5a738965c28720eb4e89e1/191:100/w_1280,c_limit/The-Best-Motion-Sensors-and-Privacy-Alternatives-to-Security-Cameras.jpg",
+        "published_at": "Tue, 21 Jul 2026 15:00:00 +0000",
+        "source_url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+        "image_url": "https://media.wired.com/photos/6a5e8c21e7ec438fe2827e01/191:100/w_1280,c_limit/nvidia-vera-cpu-1920-1080%20(1).jpg",
+        "impact": 3
+      },
+      {
+        "title": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now",
+        "summary": "Dealerships installed alarms in millions of vehicles—and left them in even if the buyer didn’t want them. Now researchers warn they can be hacked to unlock, track, and disable cars.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Tue, 21 Jul 2026 10:00:00 +0000",
+        "source_url": "https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/",
+        "image_url": "https://media.wired.com/photos/6a5a9ab5d6f2e062653ee65f/191:100/w_1280,c_limit/Security_This%20Device%20Hidden%20in%201.4%20Million%20Cars%20Leaves%20Them%20Vulnerable%20to%20Hacking%20and%20Theft_v1.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Clinical trial: Oral drug keeps cancer treatment on track for patients who develop persistently low platelet counts",
-        "summary": "In a phase 2 clinical trial, Mass General Brigham Cancer Institute researchers found that the oral drug avatrombopag was safe and effective in managing persistent chemotherapy-induced thrombocytopenia (CIT) in more than half of patients with gastrointestinal cancers, offering a potential new option for managing a commo",
+        "title": "Microneedles may help light reach hard-to-treat skin cancers",
+        "summary": "Photodynamic therapy (PDT) uses a light-sensitive drug and a specific wavelength of light to destroy cancer cells. The treatment has become an important option for certain skin cancers because it can target diseased tissue while limiting damage to surrounding skin. But PDT has a fundamental challenge: both the drug and",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 20 Jul 2026 16:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-clinical-trial-oral-drug-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/platelet-levels.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Common blood pressure drug could make cancer therapy far more powerful",
-        "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is already being tested in human clinical trials after showing strong immune-boosting and ",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 11 Jul 2026 19:42:15 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260709160648.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/female-doctor-holding-new-medicine.webp",
-        "impact": 5
+        "published_at": "Tue, 21 Jul 2026 16:00:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-microneedles-hard-skin-cancers.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/microneedles-may-help-1.jpg",
+        "impact": 4
       },
       {
         "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
@@ -170,6 +159,17 @@
         "published_at": "Thu, 16 Jul 2026 09:04:35 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011753.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/doctor-supports-kidney-health.webp",
+        "impact": 4
+      },
+      {
+        "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
+        "summary": "A drug originally developed for spinal cord injury may offer a fresh approach to treating Alzheimer’s disease. In mouse studies, KCL-286 repaired dangerous DNA damage, reduced inflammation, and targeted multiple disease-related pathways instead of focusing on just amyloid or tau. Since it has already cleared an initial",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 17 Jul 2026 00:19:36 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/genetic-neuroscience-human-brain-dna-mutation-health.webp",
         "impact": 4
       }
     ],
@@ -232,15 +232,37 @@
     ],
     "space": [
       {
-        "title": "'The dawn of a new space era': Vikram-1, India's 1st private orbital rocket, aces debut launch",
-        "summary": "Skyroot Aerospace's Vikram-1 rocket aced its debut mission on Saturday morning (July 18), making India the third nation with a private orbital launch capability.",
+        "title": "Interworld Slingshot Resource Surveys",
+        "summary": "Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconnaissance spacecraft that map minerals from orbit using Raman spectroscopy during high-speed flybys&#8211;without landing, sample return, or extended dwell. If feasible, this concept would enable NASA to evaluate ice and ilmenite at the Moon,",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 21 Jul 2026 15:23:49 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-sobron.png",
+        "impact": 5
+      },
+      {
+        "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
+        "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites launched from Vandenberg Space Force Base in California on Tuesday (July 21), a day after aborting its first liftoff attempt.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Fri, 17 Jul 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/c48Qui4Z2LLkW5WYzLhBoV-1280-80.jpg",
-        "impact": 5
+        "published_at": "Tue, 21 Jul 2026 18:30:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/pyyoH23WYaEQechaGoUB4o-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)",
+        "summary": "SpaceX launched Northrop Grumman's trailblazing MRV-MEP satellite-servicing mission to Earth orbit today (July 21).",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 21 Jul 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/LhsoHGzZJSqtXbcRKxNGdg-1280-80.jpg",
+        "impact": 4
       },
       {
         "title": "Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever",
@@ -263,31 +285,20 @@
         "source_url": "https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really",
         "image_url": "https://cdn.mos.cms.futurecdn.net/PnVbSEh2nwrwxvgFfxBU6G-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort",
-        "summary": "SpaceX is now targeting Thursday (July 23) for Flight 13 of its giant Starship rocket, after the first launch attempt aborted at the last second on July 16.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 20 Jul 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/utXh7eg3hdTzfKujJxfqS3-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "50 years after Viking 1's historic Mars landing, NASA is looking to the Red Planet's skies",
-        "summary": "NASA's Viking 1 mission blazed a crucial trail with its Mars landing on July 20, 1976. Now, half a century later, that trail leads up into the Red Planet's skies.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 20 Jul 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/50-years-after-viking-1s-historic-mars-landing-nasa-is-looking-to-the-red-planets-skies",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/MSPqdKaa8fqCVvBdfjpJnG-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "James Webb Space Telescope discovers the secrets of cosmic 'factories' that filled the early universe with stardust",
+        "summary": "Using the James Webb Space Telescope, astronomers have discovered the secrets of early galaxies that pumped the infant cosmos full of dust, but by studying a much closer and modern galaxy.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 21 Jul 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-secrets-of-cosmic-factories-that-filled-the-early-universe-with-stardust",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ox3728bfzC7byVQPP6sFLV-1280-80.png",
+        "impact": 5
+      },
       {
         "title": "\"Rogue\" Neptunes Are Detached But Not Alone",
         "summary": "\"Rogue\" Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. The post &quot;Rogue&quot; Neptunes Are Detached But Not Alone appeared first on Sky &amp; Telescope.",
@@ -300,14 +311,14 @@
         "impact": 4
       },
       {
-        "title": "The Roman Space Telescope Will Find Ancient Black Holes By Watching How They Eat Stars",
-        "summary": "When supermassive black holes (SMBH) in a certain mass range eat a star, they first tear it apart in a Tidal Disruption Event (TDE). By detecting TDE across cosmic time, astronomers can chart the growth of SMBH as the Universe aged. The Nancy Grace Roman Space Telescope will help, by finding about 100 TDEs every year.",
+        "title": "Astrophotography: Picturing Galaxies",
+        "summary": "Here are some tips to get the most out of your galaxy images. The post Astrophotography: Picturing Galaxies appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 17 Jul 2026 17:19:51 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-roman-space-telescope-will-find-ancient-black-holes-by-watching-how-they-eat-stars",
-        "image_url": "https://www.universetoday.com/article_images/TDE_20260716_211937.jpg",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Tue, 21 Jul 2026 17:10:36 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-resources/astrophotography-picturing-galaxies/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/pg58-3-scaled.jpeg",
         "impact": 4
       },
       {
@@ -331,88 +342,66 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/first-atmosphere-terrestrial-world/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/Helium-planet.webp",
         "impact": 4
-      },
-      {
-        "title": "Famous System Has a Third Planet: Beta Pictoris d",
-        "summary": "Two teams of astronomers independently discovered a third giant gas planet orbiting in the famous Beta Pictoris system. The post Famous System Has a Third Planet: Beta Pictoris d appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 15 Jul 2026 19:55:44 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/famous-system-has-a-third-star-beta-pictoris-d/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/BetaPicd.webp",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "The Architecture of the FIFA World Cup: Looking Back at 2026 and Ahead to 2030",
-        "summary": "The conclusion of the FIFA World Cup 2026 marks the end of the tournament's largest edition to date. Hosted across Canada, Mexico, and the United States, the competition expanded to 48 national teams and brought together sixteen host cities distributed across three countries. For decades, FIFA World Cups have served as",
+        "title": "MVRDV Wins Competition to Design Shift Embassy in Rotterdam",
+        "summary": "MVRDV has won the international design competition organized by the social enterprise Shift to design the Shift Embassy, a new cultural destination planned for Rotterdam's developing Waterkant district. Conceived as a hybrid of architecture and landscape, the proposal, titled Rotterdam ROCKS! combines exhibition spaces",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 20 Jul 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1181248/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030",
-        "image_url": "https://images.adsttc.com/media/images/6a5d/e774/e8f5/cb01/8987/a951/large_jpg/the-architecture-of-the-fifa-world-cup-looking-back-at-2026-and-ahead-to-2030_1.jpg?1784539003",
+        "published_at": "Tue, 21 Jul 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1181341/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam",
+        "image_url": "https://images.adsttc.com/media/images/6a5f/21be/e8f5/cb01/8987/af78/large_jpg/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam_1.jpg?1784619514",
+        "impact": 5
+      },
+      {
+        "title": "Engawa Sports facility / FAKT – Office for Architecture",
+        "summary": "The Sports Facility Ketzin is a compact, multi-use building positioned harmoniously between the city's existing sports fields. The building's design elegantly translates the traditional Japanese concept of the Engawa—a continuous wooden veranda—into a contemporary, functional sports facility.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 21 Jul 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1148871/engawa-sports-facility-fakt-office-for-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a59/f541/895c/1800/0111/75f6/large_jpg/25-10_Engawa_Ketzin-FAKT_Simon_Menges_01.jpg?1784280477",
         "impact": 4
       },
       {
-        "title": "Selldorf Architects Unveils Design for Clark Art Institute Extension in Massachusetts",
-        "summary": "The Clark Art Institute, a prominent art institution located in the Berkshires of western Massachusetts, United States, has unveiled images of the design for the extension of its current facilities. The institution, opened in 1955, is both an art museum and a center for research, critical discussion, and higher educati",
+        "title": "MVRDV wins competition for \"new world wonder\" in the Netherlands",
+        "summary": "Architecture studio MVRDV has been revealed as the winner of social enterprise Shift's competition to design a €240 million landmark in Rotterdam, the Netherlands. The winning proposal, named Rotterdam Rocks!, was selected from a five-strong shortlist that also included Heatherwick Studio, Mecanoo, Office for Political",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 20 Jul 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1148941/selldorf-architects-unveils-design-for-clark-art-institute-extension-in-massachusetts",
-        "image_url": "https://images.adsttc.com/media/images/6a5a/79db/3d21/f701/89c9/2e31/large_jpg/selldorf-architects-and-reed-hilderbrand-to-design-new-wing-for-the-clark-art-institute_4.jpg?1784314524",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 21 Jul 2026 10:00:20 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "\"Architecture Is Not Jewelry\": Xing Ruan on Building for Time, Not Perfection",
-        "summary": "In 2023, the School of Design Building at Shanghai Jiao Tong University opened its doors after a complete remodeling and adaptation of an existing structure. Designed by architect and scholar Xing Ruan, who also serves as Dean of the school, the building went on to receive two recognitions at the Prix Versailles: the W",
+        "title": "KPF wraps China skyscraper in one-kilometer-long \"landscape ribbon\"",
+        "summary": "A one-kilometer-long series of terraces and planted staircases wraps around a trio of interconnected buildings in Shenzhen, China, for tech company TP-Link. Designed by architecture studio KPF, TP-Link LXD contains 124,600-square-metres of offices, research and development spaces and housing in three towers. The desire",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 20 Jul 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1042188/architecture-is-not-jewelry-xing-ruan-on-building-for-time-not-perfection",
-        "image_url": "https://images.adsttc.com/media/images/6a26/8930/54de/fb0d/4377/fd1d/large_jpg/xing-ruan-reason-able-architecture_28.jpg?1780910394",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sat, 18 Jul 2026 10:00:22 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "Hotel Nobis Palma / Jordi Herrero Arquitecto",
-        "summary": "Hotel Nobis Palma is the rehabilitation and adaptive reuse of Can Oliver, a historic palace located in the old town of Palma de Mallorca. Rather than adapting the building to fit the hotel program, the central concept of the project was the opposite: allowing the hotel to adapt to the existing architecture. This approa",
+        "title": "What the World Cup has taught us about stadium design",
+        "summary": "What's the creepy technology at one of the major 2026 World Cup stadiums? Are stadiums the only giant buildings that people really like? And what does the future hold for stadium architecture? Listen to the latest episode of Dezeen Weekly now. In this episode, Dezeen features editor Nat Barker is joined by US editor Be",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 19 Jul 2026 09:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1043020/hotel-nobis-palma-jordi-herrero-arquitecto",
-        "image_url": "https://images.adsttc.com/media/images/6a47/e8b9/b477/e200/0107/aa28/large_jpg/CAN_OLIVER_FINAL_067.jpg?1783097674",
-        "impact": 4
-      },
-      {
-        "title": "Rivers Before Roads: How Southeast Asia's Waterways Produced an Alternative Urbanism",
-        "summary": "For most of the twentieth century, architecture has learned to read cities through roads. Street hierarchies define urban plans, intersections organize movement, and buildings are understood by the façades they present to sidewalks. Roads appear so fundamental to urban life that they are often mistaken for a universal ",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 19 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1042908/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism",
-        "image_url": "https://images.adsttc.com/media/images/6a4f/f077/fa4a/2b01/883f/6f4e/large_jpg/rivers-before-roads-how-southeast-asias-waterways-produced-an-alternative-urbanism_10.jpg?1783623828",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 17 Jul 2026 09:15:02 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "CORE Construction put GNSS in the hands of its superintendents. Here’s what changed.",
-        "summary": "How to equip field teams with GNSS for daily layout checks before the concrete pour.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 20 Jul 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/core-construction-put-gnss-in-the-hands-of-its-superintendents-heres-what/825479/",
-        "image_url": "https://imgproxy.divecdn.com/AYFZrp7iQ_Sw8xfGQW3M1_71UYF2OSBGlATWDEqAIKA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db25zdHJ1Y3Rpb25fTWFuX0VtbGlkXzlSODlqZVkuanBn.webp",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -436,6 +425,28 @@
         "impact": 4
       },
       {
+        "title": "Generation Toolbelt: Don’t make Gen Z construction workers pay for their vacations twice",
+        "summary": "Whether working harder to earn the time away or opting for only bite-sized vacations, Gen Z doesn&rsquo;t want extra interrogations to justify taking a break.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 21 Jul 2026 16:19:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/gen-z-construction-attitude-vacation-benefits/825608/",
+        "image_url": "https://imgproxy.divecdn.com/G9M1Z9zYzszSoJFSe6IXsPtQRn4_TH8-aot6CMx4RkI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzkzOTQ3MTQzLmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "2 GCs win $83.8M BWI Airport runway upgrade contract",
+        "summary": "The Maryland Aviation Administration tapped a JV of Allan Myers and P. Flanigan &amp; Sons to complete the infrastructure rehabilitation project.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 21 Jul 2026 12:05:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/bwi-airport-runway-upgrade-contract/825799/",
+        "image_url": "https://imgproxy.divecdn.com/_GwEVZlMAsUKqNpgf8Ajl4e01Amheya32JFXWsyS_EA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4NTg0NTU4LmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "NYC DDC commissioner talks alternative delivery, compressed timelines",
         "summary": "Paul Ochoa, the commissioner for the city&rsquo;s primary capital construction project manager, discusses project delivery and priorities for public jobs.",
         "category": "Construction",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/nyc-ddc-commissioner-alternative-delivery-compressed-timelines/825673/",
         "image_url": "https://imgproxy.divecdn.com/EJBtpfnDeqxSiOMgrT-J7ecwohY20Kj4F_24vOLEl0Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg2NDExMDAyLmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "Inaccurate time records are a huge contractor compliance blind spot",
-        "summary": "Most wage and hour violation claims don&rsquo;t start with bad intent. They start with records no one can verify, writes a construction software CEO.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 20 Jul 2026 09:44:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/inaccurate-time-records-contractor-compliance-liability/825438/",
-        "image_url": "https://imgproxy.divecdn.com/PzV37E2jzSYj7WB4frlWSqu5dCqYGvhpMD0FK4mIJIU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjY1OTI0OTM1LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4",
-        "summary": "arXiv:2607.15509v1 Announce Type: cross Abstract: We present a fully automated closed-loop AutoML framework that uses GPT-5, GPT-4o, and Claude Sonnet 4 as autonomous neural architecture designers for cross-lingual handwritten optical character recognition. Each large language model independently generates, trains, eva",
+        "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+        "summary": "arXiv:2607.16197v1 Announce Type: new Abstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent risk attitudes under ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.15509",
+        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.16197",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-        "summary": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical knowledge, they strugg",
+        "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+        "summary": "arXiv:2607.16199v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Planner's context achie",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.15280",
+        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.16199",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-        "summary": "arXiv:2607.15314v1 Announce Type: new Abstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnos",
+        "title": "Deterministic Replay for AI Agent Systems",
+        "summary": "arXiv:2607.16200v1 Announce Type: new Abstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external API state, CDN infrastructure headers, and execution-environment noise collectively prevent any prior agent run from be",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.15314",
+        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.16200",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
-        "summary": "arXiv:2607.15660v1 Announce Type: new Abstract: While LLM agents demonstrate strong reasoning abilities in compact and well-defined scenarios, they struggle to maintain robustness and effectiveness when faced with large-scale, diverse, and dynamic real-world environments that demand seamless tool integration. To addres",
+        "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+        "summary": "arXiv:2607.16204v1 Announce Type: new Abstract: Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated environments with fixed task and reward difficulties become ineffective signals as model performance improves, and sparse rewards over long horizo",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.15660",
+        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.16204",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents",
-        "summary": "arXiv:2607.15715v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used for complex information-extraction tasks, yet it remains unclear whether agentic components such as reflection and memory lead to observable and controllable improvements over fixed LLM workflows. We study this quest",
+        "title": "Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers",
+        "summary": "arXiv:2607.16212v1 Announce Type: new Abstract: Large language models hallucinate numbers and units when summarizing scientific text, a failure mode that can silently invert a scientific claim. We recast the detection of such errors as typed verification: we introduce a five-class typed-quantity error taxonomy and a 15",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.15715",
+        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.16212",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
