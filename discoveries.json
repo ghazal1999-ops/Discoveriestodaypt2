@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "last_updated": "2026-07-23 00:01 UTC",
+  "last_updated": "2026-07-23 23:58 UTC",
   "categories": {
     "science": [
       {
@@ -15,26 +15,15 @@
         "impact": 5
       },
       {
-        "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
-        "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists",
+        "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
+        "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guide",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 16 Jul 2026 00:16:48 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
-        "impact": 5
-      },
-      {
-        "title": "Reusable magnetic invention removes microplastics plus some PFAS from water",
-        "summary": "Microplastics are an increasing global concern, with growing evidence of their presence in water systems. RMIT University researchers have developed a water treatment material that rapidly removes micro- and nanoplastics and some PFAS (per- and polyfluoroalkyl substances), bringing the technology closer to real-world u",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 22 Jul 2026 17:20:02 EDT",
-        "source_url": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-invention-rem.jpg",
-        "impact": 5
+        "published_at": "Wed, 22 Jul 2026 21:10:39 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/queen-and-worker-bees.webp",
+        "impact": 4
       },
       {
         "title": "New molecular map reveals how the flu virus hijacks human cells",
@@ -57,9 +46,31 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/universe-in-bottle.webp",
         "impact": 4
+      },
+      {
+        "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
+        "summary": "A major DNA study has rewritten the koala's evolutionary story, revealing that the species suffered a dramatic population collapse about 100,000 years ago, long before humans arrived in Australia. By calculating the koala's mutation rate for the first time and analyzing hundreds of genomes, researchers discovered that ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 17 Jul 2026 05:51:10 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/koala-stare.webp",
+        "impact": 4
       }
     ],
     "tech": [
+      {
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing reques",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-23T17:15:06-04:00",
+        "source_url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
+      },
       {
         "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
         "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
@@ -72,60 +83,60 @@
         "impact": 3
       },
       {
-        "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-        "summary": "Ukraine's battlefield surge of robots now features airdrops and beach assaults.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 22 Jul 2026 11:15:03 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ukrainian-military-robot-test-2560x1440.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-        "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+        "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+        "summary": "Shashua has been invited to take the chairman of the board seat.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 22 Jul 2026 18:50:44 +0000",
-        "source_url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
+        "published_at": "Thu, 23 Jul 2026 22:40:08 +0000",
+        "source_url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/amnon-shashua-mobilieye.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Science Corporation’s vision-restoring chip wins EU approval",
-        "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 22 Jul 2026 18:18:02 +0000",
-        "source_url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/prima-implant-glasses-2026.DDQ1RrzC_HBfx0.webp?resize=1150,1200",
+        "published_at": "Thu, 23 Jul 2026 20:33:02 +0000",
+        "source_url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
-        "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing program for leasing new devices. iPhones in ",
+        "title": "Tesla’s robotaxis are moving in reverse",
+        "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-22T15:13:21-04:00",
-        "source_url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 23 Jul 2026 16:29:59 +0000",
+        "source_url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220716767.jpg?w=1024",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Study shows progress in women's inclusion in clinical trials",
-        "summary": "There's good news to report when it comes to women's health. A new study provides encouraging evidence that most clinical trials have substantial female representation relative to disease burden. The study also shows an increase in therapeutic investment for diseases affecting women.",
+        "title": "Molecular imaging enhances diagnosis of fever of unknown origin",
+        "summary": "PET/CT can add valuable information to aid the diagnosis of fever of unknown origin (FUO), according to a new multicenter, retrospective study published in the June issue of The Journal of Nuclear Medicine. In a cohort of more than 900 FUO patients, molecular imaging directly influenced clinical management in nearly 75",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 22 Jul 2026 15:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-women-inclusion-clinical-trials.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-progress-i.jpg",
+        "published_at": "Thu, 23 Jul 2026 19:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-molecular-imaging-diagnosis-fever-unknown.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-imaging-enha.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Focused ultrasound may enhance chemotherapy, survival outcomes for pancreatic cancer",
+        "summary": "A phase 2 clinical trial published in the European Journal of Cancer suggests that a novel form of focused ultrasound combined with standard FOLFIRINOX chemotherapy may improve tumor response and survival outcomes in patients with either borderline resectable pancreatic cancer or locally advanced pancreatic cancer, wit",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 23 Jul 2026 16:00:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-focused-ultrasound-chemotherapy-survival-outcomes.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/pancreatic-cancer.jpg",
         "impact": 4
       },
       {
@@ -151,25 +162,14 @@
         "impact": 4
       },
       {
-        "title": "This drug could help millions keep their kidneys working longer",
-        "summary": "An international study found that finerenone slows kidney function decline and reduces the risk of serious kidney and cardiovascular complications in people with chronic kidney disease who do not have diabetes. The results could open the door to a much-needed new treatment option for the majority of CKD patients who ha",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 16 Jul 2026 09:04:35 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011753.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/doctor-supports-kidney-health.webp",
-        "impact": 4
-      },
-      {
-        "title": "AI and sleep analysis could facilitate early diagnosis of Alzheimer's",
-        "summary": "Researchers from Universidad Carlos III de Madrid (UC3M) and Hospital Universitario Severo Ochoa in Leganés, part of the public health network of the Comunidad de Madrid, have developed a methodology that uses artificial intelligence (AI) to analyze brain electrical activity during sleep and facilitate the early diagno",
+        "title": "Misfolded DNA blueprint: A new origin for genetic disease",
+        "summary": "Congenital heart disease is the most common birth defect, affecting approximately 1 in 100 babies born each year. One of the many causes of this disorder is having only one functional copy of the gene TBX5, rather than the two healthy copies inherited from parents.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 22 Jul 2026 17:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-ai-analysis-early-diagnosis-alzheimer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-methodology-base-1.jpg",
+        "published_at": "Thu, 23 Jul 2026 17:40:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-misfolded-dna-blueprint-genetic-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/misfolded-dna-blueprin-1.jpg",
         "impact": 4
       }
     ],
@@ -197,25 +197,25 @@
         "impact": 4
       },
       {
-        "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
-        "summary": "A decades-old proof showed that seven shuffles are enough to mix up a deck of cards. But it requires you to cut the deck with the precision of a professional magician. A new proof gets around that obstacle. The post Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones? first appeared on Quanta Mag",
+        "title": "Fields and Abacus Medals 2026",
+        "summary": "Every four years, the math world’s preeminent awards are given to the finest minds of a generation. The young winners — all under 40 on the first day of the year — have reshaped mathematics and theoretical computer science. Here are their stories. The post Fields and Abacus Medals 2026 first appeared on Quanta Magazine",
         "category": "Mathematics",
         "source": "quantamagazine.org",
         "journal": "quantamagazine.org",
-        "published_at": "Wed, 17 Jun 2026 14:35:35 +0000",
-        "source_url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Shuffling-Math-cr-XXXXX-Social.jpg",
+        "published_at": "Thu, 23 Jul 2026 14:20:31 +0000",
+        "source_url": "https://www.quantamagazine.org/fields-and-abacus-medals-2026-20260723/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/07/2026-Fields-and-Abacus-Medals-cr-Kristina-Armitage-SOCIAL-1.jpg",
         "impact": 3
       },
       {
-        "title": "How Terry Tao Became an Evangelist for AI in Math",
-        "summary": "With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research. The post How Terry Tao Became an Evangelist for AI in Math first appeared on Quanta Magazine",
+        "title": "Living Fully in the Math World Means Threading the Needle",
+        "summary": "Focus, commitment, and insight resulted in a “once in a century” proof. Hong Wang is now just the third woman to win a Fields Medal. The post Living Fully in the Math World Means Threading the Needle first appeared on Quanta Magazine",
         "category": "Mathematics",
         "source": "quantamagazine.org",
         "journal": "quantamagazine.org",
-        "published_at": "Mon, 08 Jun 2026 15:17:08 +0000",
-        "source_url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg",
+        "published_at": "Thu, 23 Jul 2026 13:55:53 +0000",
+        "source_url": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Hong_Wang-cr-M.Y.O.P.-Julien-Pebrel-Social-1.jpg",
         "impact": 3
       },
       {
@@ -243,6 +243,17 @@
         "impact": 5
       },
       {
+        "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission",
+        "summary": "NASA's SunRISE mission has been assigned a new launch vehicle: It will now be delivered to orbit by a SpaceX Falcon Heavy rocket rather than a United Launch Alliance Vulcan Centaur.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 23 Jul 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/EsCqmrahYDkMpHLgWiqqWF-1280-80.jpg",
+        "impact": 5
+      },
+      {
         "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
         "summary": "Orienspace's Gravity-1, the world's most powerful solid rocket, aced its third-ever mission on Tuesday (July 21), launching nine satellites to orbit from a ship at sea.",
         "category": "Space",
@@ -255,7 +266,7 @@
       },
       {
         "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
-        "summary": "NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International Space Station. The crew and its Soyuz MS-28 spacecraft will undock from the orbiting laboratory’s Rassvet module at 3:02 a.m. EDT Sunday, July 26, heading for a pa",
+        "summary": "Editor’s Note: This advisory was updated on July 23, 2026, to reflect changes to the mission timeline.&#160; NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International Space Station. The crew and its Soyuz MS-28 spacecraft",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
@@ -273,17 +284,6 @@
         "published_at": "Tue, 21 Jul 2026 18:30:00 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
         "image_url": "https://cdn.mos.cms.futurecdn.net/pyyoH23WYaEQechaGoUB4o-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)",
-        "summary": "SpaceX launched Northrop Grumman's trailblazing MRV-MEP satellite-servicing mission to Earth orbit today (July 21).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 21 Jul 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/LhsoHGzZJSqtXbcRKxNGdg-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -346,25 +346,36 @@
     ],
     "architecture": [
       {
-        "title": "Made to Measure: Herzog & de Meuron’s Architectural Approach to Furniture Design",
-        "summary": "What allows a single architectural principle to generate many different outcomes? The answer lies in the systems that organize architecture: geometry, proportion, structure, and construction. Together, these can establish a set of rules that can accommodate different programs, contexts, and spatial conditions while mai",
+        "title": "Casa Arbo Residential Building / Perkins&Will",
+        "summary": "On a quiet, tree-lined street in a neighborhood that preserves a significant part of São Paulo's residential tradition, Casa Arbo emerges from a simple idea: to create a building capable of offering the spatial quality, comfort, and connection to nature typically associated with a house, without sacrificing the qualiti",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 22 Jul 2026 01:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1148656/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design",
-        "image_url": "https://images.adsttc.com/media/images/6a56/3d32/3bfa/3d01/8870/055d/large_jpg/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design_1.jpg?1784036677",
+        "published_at": "Thu, 23 Jul 2026 13:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181366/casa-arbo-perkins-and-will",
+        "image_url": "https://images.adsttc.com/media/images/6a5f/6012/895c/1800/0111/8236/large_jpg/DJI_20260526171246_0883_D_copiar.jpg?1784635531",
         "impact": 5
       },
       {
-        "title": "Urban Revivo Sanlitun Flagship Store / MVRDV",
-        "summary": "MVRDV-designed Urban Revivo flagship store in Beijing blends local architecture with global aspirations.",
+        "title": "Natural History Museum Abu Dhabi / Mecanoo",
+        "summary": "The concept for the Natural History Museum Abu Dhabi is rooted in the meeting of water and earth, recognizing this ever-changing boundary as a place of origin, movement and transformation. Rather than designing a singular architectural object, the museum is conceived as a landscape shaped by natural forces, where archi",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 22 Jul 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181284/urban-revivo-sanlitun-flagship-store-mvrdv",
-        "image_url": "https://images.adsttc.com/media/images/6a5e/31cb/e8f5/cb01/8987/ac4e/large_jpg/urban-revivo-sanlitun-flagship-store-mvrdv_1.jpg?1784558060",
+        "published_at": "Thu, 23 Jul 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181331/natural-history-museum-abu-dhabi-mecanoo",
+        "image_url": "https://images.adsttc.com/media/images/6a5e/8bb4/3d21/f701/89c9/3585/large_jpg/natural-history-museum-abu-dhabi-mecanoo_2.jpg?1784581086",
+        "impact": 4
+      },
+      {
+        "title": "Rike Park Music Theater in Tbilisi and CRA's Residential Tower in Seoul: This Week's Review",
+        "summary": "This week in architecture, discussions around the lifespan of buildings, the evolution of cultural institutions, and climate-responsive design highlighted how contemporary practice increasingly extends beyond the moment of construction. From debates over demolition and adaptive reuse to new museums that integrate lands",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 23 Jul 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1181538/rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review",
+        "image_url": "https://images.adsttc.com/media/images/6a61/dd00/230f/7701/8660/6319/large_jpg/studio-fuksas-rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review_4.jpg?1784798472",
         "impact": 4
       },
       {
@@ -386,17 +397,6 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 21 Jul 2026 10:00:20 +0000",
         "source_url": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "KPF wraps China skyscraper in one-kilometer-long \"landscape ribbon\"",
-        "summary": "A one-kilometer-long series of terraces and planted staircases wraps around a trio of interconnected buildings in Shenzhen, China, for tech company TP-Link. Designed by architecture studio KPF, TP-Link LXD contains 124,600-square-metres of offices, research and development spaces and housing in three towers. The desire",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Sat, 18 Jul 2026 10:00:22 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
@@ -425,26 +425,26 @@
         "impact": 4
       },
       {
-        "title": "Innovative geotechnical sub-alliance formed for Sizewell C construction",
-        "summary": "Balfour Beatty Ground Engineering (BBGE), VSL Systems (UK) Ltd (VSL), and Bachy Soletanche (BSL) have formed the Geotechnical Sub-Alliance (GSA) at Sizewell C, believed to be the first of its kind. The post Innovative geotechnical sub-alliance formed for Sizewell C construction appeared first on New Civil Engineer.",
+        "title": "What new construction leaders get wrong",
+        "summary": "A good captain on the jobsite or in the office is a good listener, keen observer and frequent communicator, writes a construction consultant.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 22 Jul 2026 09:51:42 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/innovative-geotechnical-sub-alliance-formed-for-sizewell-c-construction-22-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/SizewellC1-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 23 Jul 2026 15:55:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/what-new-construction-leaders-get-wrong/825031/",
+        "image_url": "https://imgproxy.divecdn.com/t-jByAT0t93J5nU0HlsyhkBlcnzYazTBKK94VSmPTOA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MjgyNDEyLmpwZw==.webp",
+        "impact": 3
       },
       {
-        "title": "CECA warns falling workloads should be ‘alarm bell’ for infrastructure delivery",
-        "summary": "Civil engineering contractors have urged the UK Government to accelerate infrastructure delivery after reporting a fall in workloads during the first quarter of 2026. The post CECA warns falling workloads should be ‘alarm bell’ for infrastructure delivery appeared first on New Civil Engineer.",
+        "title": "Groundbreakings cooled in June after megaproject boom eased",
+        "summary": "Construction starts &ldquo;came back down to earth&rdquo; after strong activity in May, said Sarah Martin, director of economic research at Dodge Construction Network.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 21 Jul 2026 10:16:19 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/ceca-warns-falling-workloads-should-be-alarm-bell-for-infrastructure-delivery-21-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/shutterstock_2567541221-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 23 Jul 2026 09:49:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/groundbreakings-cooled-june-megaproject-boom-eased/826001/",
+        "image_url": "https://imgproxy.divecdn.com/VJAZjlmoEw_TFNDXVxOH6Rho0WosDB2ga9A-RNE_AoQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MjgzNTY4LmpwZw==.webp",
+        "impact": 3
       },
       {
         "title": "How AI automation can fit into construction workflows: McKinsey",
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.18240",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.18241",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.18246",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.18252",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.18255",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
