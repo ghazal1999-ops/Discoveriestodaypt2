@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-21",
-  "last_updated": "2026-07-21 23:54 UTC",
+  "date": "2026-07-23",
+  "last_updated": "2026-07-23 00:01 UTC",
   "categories": {
     "science": [
       {
@@ -26,14 +26,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists finally solved why some frogs survive a deadly fungus",
-        "summary": "A deadly fungus has wiped out amphibian populations around the globe, yet some mysteriously recover. Researchers discovered that survivors develop powerful immune defenses while they are still tadpoles, giving them a head start before the fungus can attack after metamorphosis. The study also uncovered a vast collection",
+        "title": "Reusable magnetic invention removes microplastics plus some PFAS from water",
+        "summary": "Microplastics are an increasing global concern, with growing evidence of their presence in water systems. RMIT University researchers have developed a water treatment material that rapidly removes micro- and nanoplastics and some PFAS (per- and polyfluoroalkyl substances), bringing the technology closer to real-world u",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 14 Jul 2026 23:39:03 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/common-midwife-toad-in-pyrenees.webp",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Wed, 22 Jul 2026 17:20:02 EDT",
+        "source_url": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-invention-rem.jpg",
         "impact": 5
       },
       {
@@ -61,71 +61,71 @@
     ],
     "tech": [
       {
-        "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-        "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
+        "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+        "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 22 Jul 2026 18:18:12 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Ukrainian drones deliver robots directly into battle by sea and air",
+        "summary": "Ukraine's battlefield surge of robots now features airdrops and beach assaults.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 22 Jul 2026 11:15:03 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ukrainian-military-robot-test-2560x1440.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 21 Jul 2026 18:05:10 +0000",
-        "source_url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
+        "published_at": "Wed, 22 Jul 2026 18:50:44 +0000",
+        "source_url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
         "impact": 3
       },
       {
-        "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
-        "summary": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a new device early, or keep or return the device at the end of the lease. Gurman [&#",
+        "title": "Science Corporation’s vision-restoring chip wins EU approval",
+        "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 22 Jul 2026 18:18:02 +0000",
+        "source_url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/prima-implant-glasses-2026.DDQ1RrzC_HBfx0.webp?resize=1150,1200",
+        "impact": 3
+      },
+      {
+        "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+        "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing program for leasing new devices. iPhones in ",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-07-21T13:12:06-04:00",
-        "source_url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257981_Techwoven_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Tesla Robotaxis go to Florida",
-        "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested customers would be able to [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-21T12:11:41-04:00",
-        "source_url": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-        "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Tue, 21 Jul 2026 15:00:00 +0000",
-        "source_url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-        "image_url": "https://media.wired.com/photos/6a5e8c21e7ec438fe2827e01/191:100/w_1280,c_limit/nvidia-vera-cpu-1920-1080%20(1).jpg",
-        "impact": 3
-      },
-      {
-        "title": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now",
-        "summary": "Dealerships installed alarms in millions of vehicles—and left them in even if the buyer didn’t want them. Now researchers warn they can be hacked to unlock, track, and disable cars.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Tue, 21 Jul 2026 10:00:00 +0000",
-        "source_url": "https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/",
-        "image_url": "https://media.wired.com/photos/6a5a9ab5d6f2e062653ee65f/191:100/w_1280,c_limit/Security_This%20Device%20Hidden%20in%201.4%20Million%20Cars%20Leaves%20Them%20Vulnerable%20to%20Hacking%20and%20Theft_v1.jpg",
+        "published_at": "2026-07-22T15:13:21-04:00",
+        "source_url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Microneedles may help light reach hard-to-treat skin cancers",
-        "summary": "Photodynamic therapy (PDT) uses a light-sensitive drug and a specific wavelength of light to destroy cancer cells. The treatment has become an important option for certain skin cancers because it can target diseased tissue while limiting damage to surrounding skin. But PDT has a fundamental challenge: both the drug and",
+        "title": "Study shows progress in women's inclusion in clinical trials",
+        "summary": "There's good news to report when it comes to women's health. A new study provides encouraging evidence that most clinical trials have substantial female representation relative to disease burden. The study also shows an increase in therapeutic investment for diseases affecting women.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 21 Jul 2026 16:00:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-microneedles-hard-skin-cancers.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/microneedles-may-help-1.jpg",
+        "published_at": "Wed, 22 Jul 2026 15:40:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-women-inclusion-clinical-trials.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-progress-i.jpg",
         "impact": 4
       },
       {
@@ -162,14 +162,14 @@
         "impact": 4
       },
       {
-        "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
-        "summary": "A drug originally developed for spinal cord injury may offer a fresh approach to treating Alzheimer’s disease. In mouse studies, KCL-286 repaired dangerous DNA damage, reduced inflammation, and targeted multiple disease-related pathways instead of focusing on just amyloid or tau. Since it has already cleared an initial",
+        "title": "AI and sleep analysis could facilitate early diagnosis of Alzheimer's",
+        "summary": "Researchers from Universidad Carlos III de Madrid (UC3M) and Hospital Universitario Severo Ochoa in Leganés, part of the public health network of the Comunidad de Madrid, have developed a methodology that uses artificial intelligence (AI) to analyze brain electrical activity during sleep and facilitate the early diagno",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 17 Jul 2026 00:19:36 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/genetic-neuroscience-human-brain-dna-mutation-health.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 22 Jul 2026 17:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-ai-analysis-early-diagnosis-alzheimer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-methodology-base-1.jpg",
         "impact": 4
       }
     ],
@@ -232,15 +232,37 @@
     ],
     "space": [
       {
-        "title": "Interworld Slingshot Resource Surveys",
-        "summary": "Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconnaissance spacecraft that map minerals from orbit using Raman spectroscopy during high-speed flybys&#8211;without landing, sample return, or extended dwell. If feasible, this concept would enable NASA to evaluate ice and ilmenite at the Moon,",
+        "title": "Robotic Servicing Mission Launches with NASA Support",
+        "summary": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchronous Earth orbit, where it will use its advanced robotics to service spacecraft. R",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Tue, 21 Jul 2026 15:23:49 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-sobron.png",
+        "published_at": "Wed, 22 Jul 2026 18:04:15 +0000",
+        "source_url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/20260721-cc-mrv-mep-curbh-img-0499.jpg",
         "impact": 5
+      },
+      {
+        "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
+        "summary": "Orienspace's Gravity-1, the world's most powerful solid rocket, aced its third-ever mission on Tuesday (July 21), launching nine satellites to orbit from a ship at sea.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 22 Jul 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/UBWbaTxZ5PmWfVsJaqrTeA-1280-80.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
+        "summary": "NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International Space Station. The crew and its Soyuz MS-28 spacecraft will undock from the orbiting laboratory’s Rassvet module at 3:02 a.m. EDT Sunday, July 26, heading for a pa",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 22 Jul 2026 17:17:43 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg",
+        "impact": 4
       },
       {
         "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
@@ -263,28 +285,6 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
         "image_url": "https://cdn.mos.cms.futurecdn.net/LhsoHGzZJSqtXbcRKxNGdg-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever",
-        "summary": "NASA's Artemis III mission is shaping up to be NASA's most complex mission in history, coordinating the launch and rendezvous of three different spacecraft.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 20 Jul 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/AMaxYJFskjUa4ZG5sffm9n-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "These 'metallic' dunes on Mars look like sci-fi. What are they really?",
-        "summary": "New images from the European Space Agency's Mars Express orbiter have captured strange-looking waves on the Red Planet.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 17 Jul 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/PnVbSEh2nwrwxvgFfxBU6G-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
@@ -300,6 +300,17 @@
         "impact": 5
       },
       {
+        "title": "Exoplanet or Exomoon? New Contender Elicits Skepticism",
+        "summary": "Astronomers have found a Jupiter-mass world orbiting a brown dwarf that orbits a star. The post Exoplanet or Exomoon? New Contender Elicits Skepticism appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Wed, 22 Jul 2026 15:03:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/new-contender-for-exomoon-title-elicits-skepticism/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/exosatellite_CD-35_2722.jpg",
+        "impact": 4
+      },
+      {
         "title": "\"Rogue\" Neptunes Are Detached But Not Alone",
         "summary": "\"Rogue\" Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. The post &quot;Rogue&quot; Neptunes Are Detached But Not Alone appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -311,60 +322,60 @@
         "impact": 4
       },
       {
-        "title": "Astrophotography: Picturing Galaxies",
-        "summary": "Here are some tips to get the most out of your galaxy images. The post Astrophotography: Picturing Galaxies appeared first on Sky &amp; Telescope.",
+        "title": "The Milky Way's Most Powerful Particle Accelerator",
+        "summary": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate observatories, a Hiroshima University led team ruled out competing explanations and confirme",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 21 Jul 2026 17:10:36 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-resources/astrophotography-picturing-galaxies/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/pg58-3-scaled.jpeg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 22 Jul 2026 04:32:02 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator",
+        "image_url": "https://www.universetoday.com/article_images/English_Release_Lead_Image_500x375_0_20260722_042255.png",
         "impact": 4
       },
       {
-        "title": "Gamma-Ray Bursts Size Up the Milky Way’s Spiral Arms",
-        "summary": "Observations of remote cosmic explosions reveal that the outer spiral arms of the Milky Way might extend farther out than previously thought. The post Gamma-Ray Bursts Size Up the Milky Way’s Spiral Arms appeared first on Sky &amp; Telescope.",
+        "title": "NASA's Roman Space Telescope could reveal black holes ripping up stars. It's set to launch Aug. 30",
+        "summary": "NASA's next super telescope, the Nancy Grace Roman Space Telescope, may leave nowhere to hide for black holes that violently murder and devour stars, not even cosmic noon.",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Mon, 20 Jul 2026 10:35:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/gamma-ray-bursts-size-up-the-milky-ways-spiral-arms/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/arms_illus2_unlabeled.webp",
-        "impact": 4
-      },
-      {
-        "title": "First Atmosphere Detected on a Terrestrial World",
-        "summary": "A team of astronomers have discovered helium escaping from a rocky planet, marking the first detection of an atmosphere on a rocky world. The post First Atmosphere Detected on a Terrestrial World appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Thu, 16 Jul 2026 18:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/first-atmosphere-terrestrial-world/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/Helium-planet.webp",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 22 Jul 2026 18:01:12 +0000",
+        "source_url": "https://www.space.com/astronomy/black-holes/nasas-roman-space-telescope-could-reveal-black-holes-ripping-up-stars-its-set-to-launch-aug-30",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/3ic5otoJ5WpZZcFLUa9VDa-1280-80.png",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "MVRDV Wins Competition to Design Shift Embassy in Rotterdam",
-        "summary": "MVRDV has won the international design competition organized by the social enterprise Shift to design the Shift Embassy, a new cultural destination planned for Rotterdam's developing Waterkant district. Conceived as a hybrid of architecture and landscape, the proposal, titled Rotterdam ROCKS! combines exhibition spaces",
+        "title": "Made to Measure: Herzog & de Meuron’s Architectural Approach to Furniture Design",
+        "summary": "What allows a single architectural principle to generate many different outcomes? The answer lies in the systems that organize architecture: geometry, proportion, structure, and construction. Together, these can establish a set of rules that can accommodate different programs, contexts, and spatial conditions while mai",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 21 Jul 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1181341/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam",
-        "image_url": "https://images.adsttc.com/media/images/6a5f/21be/e8f5/cb01/8987/af78/large_jpg/mvrdv-wins-competition-to-design-shift-embassy-in-rotterdam_1.jpg?1784619514",
+        "published_at": "Wed, 22 Jul 2026 01:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1148656/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design",
+        "image_url": "https://images.adsttc.com/media/images/6a56/3d32/3bfa/3d01/8870/055d/large_jpg/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design_1.jpg?1784036677",
         "impact": 5
       },
       {
-        "title": "Engawa Sports facility / FAKT – Office for Architecture",
-        "summary": "The Sports Facility Ketzin is a compact, multi-use building positioned harmoniously between the city's existing sports fields. The building's design elegantly translates the traditional Japanese concept of the Engawa—a continuous wooden veranda—into a contemporary, functional sports facility.",
+        "title": "Urban Revivo Sanlitun Flagship Store / MVRDV",
+        "summary": "MVRDV-designed Urban Revivo flagship store in Beijing blends local architecture with global aspirations.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 21 Jul 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1148871/engawa-sports-facility-fakt-office-for-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6a59/f541/895c/1800/0111/75f6/large_jpg/25-10_Engawa_Ketzin-FAKT_Simon_Menges_01.jpg?1784280477",
+        "published_at": "Wed, 22 Jul 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181284/urban-revivo-sanlitun-flagship-store-mvrdv",
+        "image_url": "https://images.adsttc.com/media/images/6a5e/31cb/e8f5/cb01/8987/ac4e/large_jpg/urban-revivo-sanlitun-flagship-store-mvrdv_1.jpg?1784558060",
+        "impact": 4
+      },
+      {
+        "title": "MVRDV wraps Beijing roof tiles around Chinese moon gates for fashion flagship store",
+        "summary": "Architecture studio MVRDV has designed a flagship store for Chinese fashion brand Urban Revivo in Beijing, China, with a dramatic facade informed by the roof tiles on the city's traditional houses. Located within Beijing's Sanlitun shopping district, the store sits along the main pedestrian route of the district that c",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 22 Jul 2026 08:00:16 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/22/mvrdv-urban-revivo-flagship-beijing/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -386,17 +397,6 @@
         "journal": "dezeen.com",
         "published_at": "Sat, 18 Jul 2026 10:00:22 +0000",
         "source_url": "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "What the World Cup has taught us about stadium design",
-        "summary": "What's the creepy technology at one of the major 2026 World Cup stadiums? Are stadiums the only giant buildings that people really like? And what does the future hold for stadium architecture? Listen to the latest episode of Dezeen Weekly now. In this episode, Dezeen features editor Nat Barker is joined by US editor Be",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 17 Jul 2026 09:15:02 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
@@ -425,92 +425,92 @@
         "impact": 4
       },
       {
-        "title": "Generation Toolbelt: Don’t make Gen Z construction workers pay for their vacations twice",
-        "summary": "Whether working harder to earn the time away or opting for only bite-sized vacations, Gen Z doesn&rsquo;t want extra interrogations to justify taking a break.",
+        "title": "Innovative geotechnical sub-alliance formed for Sizewell C construction",
+        "summary": "Balfour Beatty Ground Engineering (BBGE), VSL Systems (UK) Ltd (VSL), and Bachy Soletanche (BSL) have formed the Geotechnical Sub-Alliance (GSA) at Sizewell C, believed to be the first of its kind. The post Innovative geotechnical sub-alliance formed for Sizewell C construction appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 21 Jul 2026 16:19:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/gen-z-construction-attitude-vacation-benefits/825608/",
-        "image_url": "https://imgproxy.divecdn.com/G9M1Z9zYzszSoJFSe6IXsPtQRn4_TH8-aot6CMx4RkI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzkzOTQ3MTQzLmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Wed, 22 Jul 2026 09:51:42 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/innovative-geotechnical-sub-alliance-formed-for-sizewell-c-construction-22-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/SizewellC1-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "2 GCs win $83.8M BWI Airport runway upgrade contract",
-        "summary": "The Maryland Aviation Administration tapped a JV of Allan Myers and P. Flanigan &amp; Sons to complete the infrastructure rehabilitation project.",
+        "title": "CECA warns falling workloads should be ‘alarm bell’ for infrastructure delivery",
+        "summary": "Civil engineering contractors have urged the UK Government to accelerate infrastructure delivery after reporting a fall in workloads during the first quarter of 2026. The post CECA warns falling workloads should be ‘alarm bell’ for infrastructure delivery appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 21 Jul 2026 12:05:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/bwi-airport-runway-upgrade-contract/825799/",
-        "image_url": "https://imgproxy.divecdn.com/_GwEVZlMAsUKqNpgf8Ajl4e01Amheya32JFXWsyS_EA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4NTg0NTU4LmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 21 Jul 2026 10:16:19 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/ceca-warns-falling-workloads-should-be-alarm-bell-for-infrastructure-delivery-21-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/05/shutterstock_2567541221-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "NYC DDC commissioner talks alternative delivery, compressed timelines",
-        "summary": "Paul Ochoa, the commissioner for the city&rsquo;s primary capital construction project manager, discusses project delivery and priorities for public jobs.",
+        "title": "How AI automation can fit into construction workflows: McKinsey",
+        "summary": "As artificial intelligence continues to shake up the building industry, choosing how to build versus how to buy solutions is important, said an expert for the consulting firm.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 20 Jul 2026 15:31:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/nyc-ddc-commissioner-alternative-delivery-compressed-timelines/825673/",
-        "image_url": "https://imgproxy.divecdn.com/EJBtpfnDeqxSiOMgrT-J7ecwohY20Kj4F_24vOLEl0Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg2NDExMDAyLmpwZw==.webp",
+        "published_at": "Wed, 22 Jul 2026 13:20:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/ai-report-construction-mckinsey-engineering-build-buy/825927/",
+        "image_url": "https://imgproxy.divecdn.com/26cRAKGoa_MtOiVEAJ3zDGlZYHpCzHQugXNFeeK_P_8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMxODc0ODUxX0t1c2NVN1YuanBn.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-        "summary": "arXiv:2607.16197v1 Announce Type: new Abstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent risk attitudes under ",
+        "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+        "summary": "arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent. We address this issu",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.16197",
+        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.18240",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
-        "summary": "arXiv:2607.16199v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Planner's context achie",
+        "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+        "summary": "arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequential tool calls. We p",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.16199",
+        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.18241",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Deterministic Replay for AI Agent Systems",
-        "summary": "arXiv:2607.16200v1 Announce Type: new Abstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external API state, CDN infrastructure headers, and execution-environment noise collectively prevent any prior agent run from be",
+        "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
+        "summary": "arXiv:2607.18246v1 Announce Type: new Abstract: We present Phionyx, a deterministic AI runtime architecture derived from the broader Echoism interaction framework that introduces a governance-first approach to AI engineering: treating large language model (LLM) outputs as noisy sensor measurements rather than direct de",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.16200",
+        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.18246",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
-        "summary": "arXiv:2607.16204v1 Announce Type: new Abstract: Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated environments with fixed task and reward difficulties become ineffective signals as model performance improves, and sparse rewards over long horizo",
+        "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
+        "summary": "arXiv:2607.18252v1 Announce Type: new Abstract: Machine learning methods have shown that data-driven policies can accelerate mixed-integer linear programming (MILP) solvers, but many such approaches remain difficult to inspect, adapt, and deploy because the learned policy is represented as an external predictor or othe",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.16204",
+        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.18252",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers",
-        "summary": "arXiv:2607.16212v1 Announce Type: new Abstract: Large language models hallucinate numbers and units when summarizing scientific text, a failure mode that can silently invert a scientific claim. We recast the detection of such errors as typed verification: we introduce a five-class typed-quantity error taxonomy and a 15",
+        "title": "Semantic Cooperative Games for Contribution Attribution in LLM-Based Multi-Agent Systems",
+        "summary": "arXiv:2607.18255v1 Announce Type: new Abstract: Contribution attribution has become a central problem in LLM-based multi-agent systems, where final outputs are produced through multiple agents, message exchanges, and ordered workflow dependencies. Existing attribution methods often rely on counterfactual valuation, suc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.16212",
+        "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.18255",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
