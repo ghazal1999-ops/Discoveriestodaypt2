@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-23",
-  "last_updated": "2026-07-23 23:58 UTC",
+  "date": "2026-07-25",
+  "last_updated": "2026-07-25 00:01 UTC",
   "categories": {
     "science": [
       {
@@ -37,6 +37,17 @@
         "impact": 4
       },
       {
+        "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
+        "summary": "Stanford Medicine researchers have discovered a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic, but without several of its common side effects. The molecule, called BRP, acts on a more targeted region of the brain involved in hunger and metabolism rather than affecting ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 24 Jul 2026 09:44:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-woman.webp",
+        "impact": 4
+      },
+      {
         "title": "A tiny universe in a bottle reveals clues to the origins of life",
         "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can expl",
         "category": "Science",
@@ -46,97 +57,97 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/universe-in-bottle.webp",
         "impact": 4
-      },
-      {
-        "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
-        "summary": "A major DNA study has rewritten the koala's evolutionary story, revealing that the species suffered a dramatic population collapse about 100,000 years ago, long before humans arrived in Australia. By calculating the koala's mutation rate for the first time and analyzing hundreds of genomes, researchers discovered that ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 17 Jul 2026 05:51:10 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/koala-stare.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing reques",
+        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been r",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-23T17:15:06-04:00",
-        "source_url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 4
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 24 Jul 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/270622_livercooling_v3.jpg?resize=1200,600",
+        "impact": 5
       },
       {
-        "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-        "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
+        "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+        "summary": "\"These are things that tend to be really hard.\"",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Wed, 22 Jul 2026 18:18:12 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-1152x648.jpg",
+        "published_at": "Fri, 24 Jul 2026 15:23:06 +0000",
+        "source_url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/8752973-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-        "summary": "Shashua has been invited to take the chairman of the board seat.",
+        "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+        "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 23 Jul 2026 22:40:08 +0000",
-        "source_url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/amnon-shashua-mobilieye.jpg?resize=1200,800",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 24 Jul 2026 11:20:43 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Snakebot-ready-to-deploy-in-rubble-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "title": "DJI camera clone company Xtra is halting and refunding all preorders",
+        "summary": "After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has abruptly removed the new Xtra Muse 2 Pro from its website landing page, is [&#8230;]",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 23 Jul 2026 20:33:02 +0000",
-        "source_url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-24T14:27:00-04:00",
+        "source_url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/xtra-muse-2-pro.webp?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
         "impact": 3
       },
       {
-        "title": "Tesla’s robotaxis are moving in reverse",
-        "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
+        "title": "Roku raises streaming hardware prices by up to $50",
+        "summary": "Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as $50. Here's a rundown of the changes: Roku is currently [&#8",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 23 Jul 2026 16:29:59 +0000",
-        "source_url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220716767.jpg?w=1024",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-24T14:07:19-04:00",
+        "source_url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Roku-Ultra.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Molecular imaging enhances diagnosis of fever of unknown origin",
-        "summary": "PET/CT can add valuable information to aid the diagnosis of fever of unknown origin (FUO), according to a new multicenter, retrospective study published in the June issue of The Journal of Nuclear Medicine. In a cohort of more than 900 FUO patients, molecular imaging directly influenced clinical management in nearly 75",
+        "title": "Recall-by-genotype study demonstrates scalable path toward precision psychiatry",
+        "summary": "Clinical biobanks that combine genomic data with electronic health records (EHRs) have become powerful resources for discovering genetic variants associated with disease. These biobanks may also be used to identify individuals carrying clinically relevant genetic variants for participation in clinical research focusing",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 23 Jul 2026 19:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-molecular-imaging-diagnosis-fever-unknown.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-imaging-enha.jpg",
+        "published_at": "Fri, 24 Jul 2026 11:40:20 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-recall-genotype-scalable-path-precision.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/psychiatry-1.jpg",
         "impact": 4
       },
       {
-        "title": "Focused ultrasound may enhance chemotherapy, survival outcomes for pancreatic cancer",
-        "summary": "A phase 2 clinical trial published in the European Journal of Cancer suggests that a novel form of focused ultrasound combined with standard FOLFIRINOX chemotherapy may improve tumor response and survival outcomes in patients with either borderline resectable pancreatic cancer or locally advanced pancreatic cancer, wit",
+        "title": "Oral antiviral blocks airborne measles-like virus spread in ferret model",
+        "summary": "A new oral antiviral drug candidate, administered either before or after direct-contact or airborne exposure to canine distemper virus, which causes measles-like disease in ferrets, blocks virus transmission and reduces clinical symptoms, according to a study published in the journal Nature Microbiology by researchers ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 23 Jul 2026 16:00:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-focused-ultrasound-chemotherapy-survival-outcomes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/pancreatic-cancer.jpg",
+        "published_at": "Fri, 24 Jul 2026 10:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-oral-antiviral-blocks-airborne-measles.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/oral-antiviral-blocks-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
+        "summary": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 24 Jul 2026 07:29:04 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cash-money-with-ozempic-injection-pens.webp",
         "impact": 4
       },
       {
@@ -159,17 +170,6 @@
         "published_at": "Mon, 20 Jul 2026 01:28:48 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
-        "impact": 4
-      },
-      {
-        "title": "Misfolded DNA blueprint: A new origin for genetic disease",
-        "summary": "Congenital heart disease is the most common birth defect, affecting approximately 1 in 100 babies born each year. One of the many causes of this disorder is having only one functional copy of the gene TBX5, rather than the two healthy copies inherited from parents.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 23 Jul 2026 17:40:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-misfolded-dna-blueprint-genetic-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/misfolded-dna-blueprin-1.jpg",
         "impact": 4
       }
     ],
@@ -232,14 +232,14 @@
     ],
     "space": [
       {
-        "title": "Robotic Servicing Mission Launches with NASA Support",
-        "summary": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchronous Earth orbit, where it will use its advanced robotics to service spacecraft. R",
+        "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
+        "summary": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous na",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 22 Jul 2026 18:04:15 +0000",
-        "source_url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/20260721-cc-mrv-mep-curbh-img-0499.jpg",
+        "published_at": "Fri, 24 Jul 2026 16:35:46 +0000",
+        "source_url": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg",
         "impact": 5
       },
       {
@@ -265,14 +265,14 @@
         "impact": 5
       },
       {
-        "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
-        "summary": "Editor’s Note: This advisory was updated on July 23, 2026, to reflect changes to the mission timeline.&#160; NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International Space Station. The crew and its Soyuz MS-28 spacecraft",
+        "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
+        "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from th",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 22 Jul 2026 17:17:43 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 24 Jul 2026 17:47:06 +0000",
+        "source_url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%202.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "impact": 4
       },
       {
@@ -311,17 +311,6 @@
         "impact": 4
       },
       {
-        "title": "\"Rogue\" Neptunes Are Detached But Not Alone",
-        "summary": "\"Rogue\" Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. The post &quot;Rogue&quot; Neptunes Are Detached But Not Alone appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 14 Jul 2026 19:36:34 +0000",
-        "source_url": "https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/rogueplanet_feat.jpg",
-        "impact": 4
-      },
-      {
         "title": "The Milky Way's Most Powerful Particle Accelerator",
         "summary": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate observatories, a Hiroshima University led team ruled out competing explanations and confirme",
         "category": "Astronomy",
@@ -330,6 +319,17 @@
         "published_at": "Wed, 22 Jul 2026 04:32:02 +0000",
         "source_url": "https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator",
         "image_url": "https://www.universetoday.com/article_images/English_Release_Lead_Image_500x375_0_20260722_042255.png",
+        "impact": 4
+      },
+      {
+        "title": "Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph",
+        "summary": "Using Hubble, astronomers have discovered that the only known \"helium nova\" in the Milky Way is riddling our galaxy with cosmic bullets travelling at 20 million mph.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 24 Jul 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/iK6oJPugrVKzqnouTHvJzS-1280-80.png",
         "impact": 4
       },
       {
@@ -346,36 +346,36 @@
     ],
     "architecture": [
       {
-        "title": "Casa Arbo Residential Building / Perkins&Will",
-        "summary": "On a quiet, tree-lined street in a neighborhood that preserves a significant part of São Paulo's residential tradition, Casa Arbo emerges from a simple idea: to create a building capable of offering the spatial quality, comfort, and connection to nature typically associated with a house, without sacrificing the qualiti",
+        "title": "23 Living / Plan:b arquitectos",
+        "summary": "This commission consisted of the design of a residential building on a long plot with a steep slope. The Provenza neighborhood, located on the eastern hillside of the city of Medellín, features an irregular urban grid, partly shaped by the sloping topography. In this context, we proposed that the new building incorpora",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 23 Jul 2026 13:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181366/casa-arbo-perkins-and-will",
-        "image_url": "https://images.adsttc.com/media/images/6a5f/6012/895c/1800/0111/8236/large_jpg/DJI_20260526171246_0883_D_copiar.jpg?1784635531",
-        "impact": 5
-      },
-      {
-        "title": "Natural History Museum Abu Dhabi / Mecanoo",
-        "summary": "The concept for the Natural History Museum Abu Dhabi is rooted in the meeting of water and earth, recognizing this ever-changing boundary as a place of origin, movement and transformation. Rather than designing a singular architectural object, the museum is conceived as a landscape shaped by natural forces, where archi",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 23 Jul 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181331/natural-history-museum-abu-dhabi-mecanoo",
-        "image_url": "https://images.adsttc.com/media/images/6a5e/8bb4/3d21/f701/89c9/3585/large_jpg/natural-history-museum-abu-dhabi-mecanoo_2.jpg?1784581086",
+        "published_at": "Fri, 24 Jul 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181432/23-living-plan-b-arquitectos",
+        "image_url": "https://images.adsttc.com/media/images/6a60/6779/d7be/a801/8b1f/c93b/large_jpg/23-living-plan-b-arquitectos_17.jpg?1784702859",
         "impact": 4
       },
       {
-        "title": "Rike Park Music Theater in Tbilisi and CRA's Residential Tower in Seoul: This Week's Review",
-        "summary": "This week in architecture, discussions around the lifespan of buildings, the evolution of cultural institutions, and climate-responsive design highlighted how contemporary practice increasingly extends beyond the moment of construction. From debates over demolition and adaptive reuse to new museums that integrate lands",
+        "title": "When Mobility Becomes the Ground: Architecture, Adaptation, and the Search for Continuity",
+        "summary": "Few conditions have shaped contemporary architectural discourse as profoundly as uncertainty. Across international biennials, exhibitions, and forums, architecture increasingly imagines its relationship to the world through flexibility, reversibility, and responsiveness—qualities intended to engage with climate emergen",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 23 Jul 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1181538/rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6a61/dd00/230f/7701/8660/6319/large_jpg/studio-fuksas-rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review_4.jpg?1784798472",
+        "published_at": "Fri, 24 Jul 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1181345/when-mobility-becomes-the-ground-architecture-adaptation-and-the-search-for-continuity",
+        "image_url": "https://images.adsttc.com/media/images/6a5f/5ace/3d21/f701/89c9/372c/large_jpg/when-movement-becomes-the-model-architecture-belonging-and-the-search-for-place_7.jpg?1784634070",
+        "impact": 4
+      },
+      {
+        "title": "Gómez Platero proposes four skyscrapers at former site of the Miami Herald",
+        "summary": "Uruguay architecture studio Gómez Platero has proposed \"four irregularly shaped towers\" as part of mixed-use development on the Miami waterfront at the former site of the city's historic Miami Herald building. The Miami Bay Towers scheme by Gómez Platero is designed to fit into the rectangular waterfront site between H",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 24 Jul 2026 19:00:57 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/24/gomez-platero-miami-bay-towers-proposal/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -425,6 +425,17 @@
         "impact": 4
       },
       {
+        "title": "Maryland issues RFQ for Key Bridge main span",
+        "summary": "The procurement follows an announcement from the Maryland Transportation Authority that it will split the rebuild into four contracts.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 24 Jul 2026 09:18:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/maryland-rfq-francis-scott-key-bridge-main-span/826108/",
+        "image_url": "https://imgproxy.divecdn.com/D_Xbfc1j3GTZpuOItwG4E8RlADHga3wk4IzZAn5QC8s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTEyNjg1NzM5Nl8yNGQ4MzRlNTVhX28uanBn.webp",
+        "impact": 3
+      },
+      {
         "title": "What new construction leaders get wrong",
         "summary": "A good captain on the jobsite or in the office is a good listener, keen observer and frequent communicator, writes a construction consultant.",
         "category": "Construction",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/groundbreakings-cooled-june-megaproject-boom-eased/826001/",
         "image_url": "https://imgproxy.divecdn.com/VJAZjlmoEw_TFNDXVxOH6Rho0WosDB2ga9A-RNE_AoQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MjgzNTY4LmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "How AI automation can fit into construction workflows: McKinsey",
-        "summary": "As artificial intelligence continues to shake up the building industry, choosing how to build versus how to buy solutions is important, said an expert for the consulting firm.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 22 Jul 2026 13:20:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/ai-report-construction-mckinsey-engineering-build-buy/825927/",
-        "image_url": "https://imgproxy.divecdn.com/26cRAKGoa_MtOiVEAJ3zDGlZYHpCzHQugXNFeeK_P_8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMxODc0ODUxX0t1c2NVN1YuanBn.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-        "summary": "arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent. We address this issu",
+        "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+        "summary": "arXiv:2607.20463v1 Announce Type: new Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings wi",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.18240",
+        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.20463",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-        "summary": "arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequential tool calls. We p",
+        "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+        "summary": "arXiv:2607.20471v1 Announce Type: new Abstract: Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time fixed, has a long tradition in psychology and marketing as a two-party problem in which sender and receiver have independent objectives. Large l",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.18241",
+        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.20471",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
-        "summary": "arXiv:2607.18246v1 Announce Type: new Abstract: We present Phionyx, a deterministic AI runtime architecture derived from the broader Echoism interaction framework that introduces a governance-first approach to AI engineering: treating large language model (LLM) outputs as noisy sensor measurements rather than direct de",
+        "title": "AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs",
+        "summary": "arXiv:2607.20498v1 Announce Type: new Abstract: Large language models (LLMs) augmented with tools are emerging as autonomous agents capable of using Web engine, APIs, and code to solve complex, long-horizon tasks. Current tool-using benchmarks for information seeking on academic graphs rely on synthetic templates, simp",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.18246",
+        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.20498",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
-        "summary": "arXiv:2607.18252v1 Announce Type: new Abstract: Machine learning methods have shown that data-driven policies can accelerate mixed-integer linear programming (MILP) solvers, but many such approaches remain difficult to inspect, adapt, and deploy because the learned policy is represented as an external predictor or othe",
+        "title": "MKEvolve: A Modular Multi-Agent Framework for Kernel Code Generation",
+        "summary": "arXiv:2607.20501v1 Announce Type: new Abstract: Despite rapid progress in LLM-based code generation, writing correct and performant kernels for hardware accelerators remains a key bottleneck in scaling modern ML workloads. We present MKEvolve (Modular Kernel Evolve), a framework that iteratively co-evolves a modular de",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.18252",
+        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.20501",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Semantic Cooperative Games for Contribution Attribution in LLM-Based Multi-Agent Systems",
-        "summary": "arXiv:2607.18255v1 Announce Type: new Abstract: Contribution attribution has become a central problem in LLM-based multi-agent systems, where final outputs are produced through multiple agents, message exchanges, and ordered workflow dependencies. Existing attribution methods often rely on counterfactual valuation, suc",
+        "title": "LeanFlow: A Case Study in Workflow-Driven Lean Autoformalization",
+        "summary": "arXiv:2607.20503v1 Announce Type: new Abstract: We present and evaluate LeanFlow, an LLM agent system specialized for translating mathematical papers into buildable Lean projects. Recent verifier-in-the-loop systems show that large formal artifacts can be produced, but it remains unclear which runtime mechanisms affect",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.18255",
+        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.20503",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
