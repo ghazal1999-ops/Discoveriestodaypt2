@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "last_updated": "2026-07-25 00:01 UTC",
+  "last_updated": "2026-07-25 23:58 UTC",
   "categories": {
     "science": [
       {
@@ -72,6 +72,28 @@
         "impact": 5
       },
       {
+        "title": "Teenage Engineering’s unique music machines are 30 percent off",
+        "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-25T11:00:00-04:00",
+        "source_url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0023.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
+      },
+      {
+        "title": "With help from data, art museums are reframing the visitor experience",
+        "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Sat, 25 Jul 2026 11:00:32 +0000",
+        "source_url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-2560x1440.jpg",
+        "impact": 3
+      },
+      {
         "title": "This is the world's most advanced robotic servicing satellite—that we know about",
         "summary": "\"These are things that tend to be really hard.\"",
         "category": "Tech",
@@ -92,53 +114,9 @@
         "source_url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Snakebot-ready-to-deploy-in-rubble-1152x648.jpg",
         "impact": 3
-      },
-      {
-        "title": "DJI camera clone company Xtra is halting and refunding all preorders",
-        "summary": "After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has abruptly removed the new Xtra Muse 2 Pro from its website landing page, is [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-24T14:27:00-04:00",
-        "source_url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/xtra-muse-2-pro.webp?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Roku raises streaming hardware prices by up to $50",
-        "summary": "Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as $50. Here's a rundown of the changes: Roku is currently [&#8",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-24T14:07:19-04:00",
-        "source_url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Roku-Ultra.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Recall-by-genotype study demonstrates scalable path toward precision psychiatry",
-        "summary": "Clinical biobanks that combine genomic data with electronic health records (EHRs) have become powerful resources for discovering genetic variants associated with disease. These biobanks may also be used to identify individuals carrying clinically relevant genetic variants for participation in clinical research focusing",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 24 Jul 2026 11:40:20 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-recall-genotype-scalable-path-precision.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/psychiatry-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Oral antiviral blocks airborne measles-like virus spread in ferret model",
-        "summary": "A new oral antiviral drug candidate, administered either before or after direct-contact or airborne exposure to canine distemper virus, which causes measles-like disease in ferrets, blocks virus transmission and reduces clinical symptoms, according to a study published in the journal Nature Microbiology by researchers ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 24 Jul 2026 10:40:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-oral-antiviral-blocks-airborne-measles.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/oral-antiviral-blocks-1.jpg",
-        "impact": 4
-      },
       {
         "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
         "summary": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
@@ -170,6 +148,28 @@
         "published_at": "Mon, 20 Jul 2026 01:28:48 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
+        "impact": 4
+      },
+      {
+        "title": "Colorado was the first state to cap a drug's price. Then a federal court stepped in",
+        "summary": "Colorado is one of a handful of states with a review board for drug prices and one of only four with a board empowered to set upper limits on what state agencies, insurers and other purchasers may pay or be reimbursed for certain high-cost drugs dispensed to patients in the state.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 25 Jul 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-colorado-state-cap-drug-price.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/drug.jpg",
+        "impact": 4
+      },
+      {
+        "title": "'Pro version' of cisplatin keeps its cancer-killing power while reducing side effects",
+        "summary": "Cisplatin is one of the most successful cancer medicines ever developed. Doctors use it to treat many cancers, including lung, ovarian, breast, testicular and head and neck cancers. However, cisplatin has a serious problem. It does not attack only cancer cells. It can also reach healthy organs and damage them. In parti",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 25 Jul 2026 13:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-pro-version-cisplatin-cancer-power.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-developed-a.jpg",
         "impact": 4
       }
     ],
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "JWST May Be Missing Water Hidden Deep Within Mini-Neptune Worlds",
+        "summary": "Sub-Neptune exoplanets, exoplanets that are slightly smaller than Neptune, have been designated as the most common type of planet in the Milky Way Galaxy based on their vast discovery numbers, totaling almost 3,300 out of the more than 6,300 confirmed exoplanets to date. Despite these numbers, the characteristics of su",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sat, 25 Jul 2026 21:40:13 +0000",
+        "source_url": "https://www.universetoday.com/articles/jwst-may-be-missing-water-hidden-deep-within-mini-neptune-worlds",
+        "image_url": "https://www.universetoday.com/article_images/TOI_270_d_NASA_illustration_occluded-1380.png_750_20260725_213447.png",
+        "impact": 4
+      },
+      {
         "title": "The Milky Way's Most Powerful Particle Accelerator",
         "summary": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate observatories, a Hiroshima University led team ruled out competing explanations and confirme",
         "category": "Astronomy",
@@ -330,17 +341,6 @@
         "published_at": "Fri, 24 Jul 2026 10:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph",
         "image_url": "https://cdn.mos.cms.futurecdn.net/iK6oJPugrVKzqnouTHvJzS-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "NASA's Roman Space Telescope could reveal black holes ripping up stars. It's set to launch Aug. 30",
-        "summary": "NASA's next super telescope, the Nancy Grace Roman Space Telescope, may leave nowhere to hide for black holes that violently murder and devour stars, not even cosmic noon.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 22 Jul 2026 18:01:12 +0000",
-        "source_url": "https://www.space.com/astronomy/black-holes/nasas-roman-space-telescope-could-reveal-black-holes-ripping-up-stars-its-set-to-launch-aug-30",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3ic5otoJ5WpZZcFLUa9VDa-1280-80.png",
         "impact": 4
       }
     ],
@@ -403,6 +403,17 @@
     ],
     "construction": [
       {
+        "title": "Graham completes A10 bridge linking Waterbeach New Town and Cambridge city centre",
+        "summary": "Infrastructure delivery firm Graham has completed construction of a new bridge over the A10 in Cambridgeshire. The post Graham completes A10 bridge linking Waterbeach New Town and Cambridge city centre appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 24 Jul 2026 10:00:37 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/graham-completes-a10-bridge-linking-waterbeach-new-town-and-cambridge-city-centre-24-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/A10_bridge_to_open_new_travel_route_between_Waterbeach_and_Cambridge_2-560x315.jpg",
+        "impact": 4
+      },
+      {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
         "category": "Construction",
@@ -425,94 +436,83 @@
         "impact": 4
       },
       {
-        "title": "Maryland issues RFQ for Key Bridge main span",
-        "summary": "The procurement follows an announcement from the Maryland Transportation Authority that it will split the rebuild into four contracts.",
+        "title": "Skills shortage risks making workplaces more dangerous, RoSpa warns",
+        "summary": "The skills shortages the civil engineering and construction industries are experiencing risk making workplaces more hazardous, a new report from the Royal Society for the Prevention of Accidents (RoSPA) has warned. The post Skills shortage risks making workplaces more dangerous, RoSpa warns appeared first on New Civil ",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 24 Jul 2026 09:18:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/maryland-rfq-francis-scott-key-bridge-main-span/826108/",
-        "image_url": "https://imgproxy.divecdn.com/D_Xbfc1j3GTZpuOItwG4E8RlADHga3wk4IzZAn5QC8s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTEyNjg1NzM5Nl8yNGQ4MzRlNTVhX28uanBn.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 24 Jul 2026 15:00:00 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/skills-shortage-risks-making-workplaces-more-dangerous-rospa-warns-24-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/04/engineers-shutterstock_2291640397-scaled_upscaling-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "What new construction leaders get wrong",
-        "summary": "A good captain on the jobsite or in the office is a good listener, keen observer and frequent communicator, writes a construction consultant.",
+        "title": "From megaprojects to shared lessons: coastal and maritime engineering in the Middle East",
+        "summary": "In many mature infrastructure markets, coastal and maritime engineering has entered what might be considered an existing-asset-focused phase. The post From megaprojects to shared lessons: coastal and maritime engineering in the Middle East appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 23 Jul 2026 15:55:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/what-new-construction-leaders-get-wrong/825031/",
-        "image_url": "https://imgproxy.divecdn.com/t-jByAT0t93J5nU0HlsyhkBlcnzYazTBKK94VSmPTOA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MjgyNDEyLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Groundbreakings cooled in June after megaproject boom eased",
-        "summary": "Construction starts &ldquo;came back down to earth&rdquo; after strong activity in May, said Sarah Martin, director of economic research at Dodge Construction Network.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 23 Jul 2026 09:49:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/groundbreakings-cooled-june-megaproject-boom-eased/826001/",
-        "image_url": "https://imgproxy.divecdn.com/VJAZjlmoEw_TFNDXVxOH6Rho0WosDB2ga9A-RNE_AoQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MjgzNTY4LmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 24 Jul 2026 05:30:30 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/from-megaprojects-to-shared-lessons-coastal-and-maritime-engineering-in-the-middle-east-24-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/Ras-Al-Khaimah-560x315.jpg",
+        "impact": 4
       }
     ],
     "ai": [
       {
-        "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-        "summary": "arXiv:2607.20463v1 Announce Type: new Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings wi",
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release y",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.20463",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 15 Jul 2026 17:09:37 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Benchmarking the Personalization Capabilities of Large Language Models",
-        "summary": "arXiv:2607.20471v1 Announce Type: new Abstract: Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time fixed, has a long tradition in psychology and marketing as a two-party problem in which sender and receiver have independent objectives. Large l",
+        "title": "Introducing OpenAI Presence",
+        "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.20471",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 22 Jul 2026 05:30:00 GMT",
+        "source_url": "https://openai.com/index/introducing-openai-presence",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6jXxdGYMc8oC9wCBbM59tD/47cd3218b63b068cf3ec2f63b79d5256/OpenAI_Presence_16x9.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs",
-        "summary": "arXiv:2607.20498v1 Announce Type: new Abstract: Large language models (LLMs) augmented with tools are emerging as autonomous agents capable of using Web engine, APIs, and code to solve complex, long-horizon tasks. Current tool-using benchmarks for information seeking on academic graphs rely on synthetic templates, simp",
+        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.20498",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1kXZRSOAQbv2BDKEO14tJl/b2f0a336afaddc32e5776ba555bc4dbf/Hugging_Face_Security_Incident_16x9.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "MKEvolve: A Modular Multi-Agent Framework for Kernel Code Generation",
-        "summary": "arXiv:2607.20501v1 Announce Type: new Abstract: Despite rapid progress in LLM-based code generation, writing correct and performant kernels for hardware accelerators remains a key bottleneck in scaling modern ML workloads. We present MKEvolve (Modular Kernel Evolve), a framework that iteratively co-evolves a modular de",
+        "title": "Safety and alignment in an era of long-horizon models",
+        "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.20501",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Mon, 20 Jul 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7VsDMfKDQaCRhafmq4r/58954b4318f57a81a96ad23470ed2497/SEO_image.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "LeanFlow: A Case Study in Workflow-Driven Lean Autoformalization",
-        "summary": "arXiv:2607.20503v1 Announce Type: new Abstract: We present and evaluate LeanFlow, an LLM agent system specialized for translating mathematical papers into buildable Lean projects. Recent verifier-in-the-loop systems show that large formal artifacts can be produced, but it remains unclear which runtime mechanisms affect",
+        "title": "How Cars24 scales conversations and builds faster with OpenAI",
+        "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.20503",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/cars24",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7CDBt34djpI5pY21NFpVyc/c2acb8f59210c75f3ca156a8249cdded/cars24-seo.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
