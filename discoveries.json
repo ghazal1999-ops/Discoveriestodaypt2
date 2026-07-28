@@ -1,19 +1,8 @@
 {
-  "date": "2026-07-26",
-  "last_updated": "2026-07-26 23:58 UTC",
+  "date": "2026-07-28",
+  "last_updated": "2026-07-28 00:00 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-        "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than t",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 20 Jul 2026 06:05:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
-        "impact": 5
-      },
       {
         "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
         "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guide",
@@ -48,14 +37,25 @@
         "impact": 4
       },
       {
-        "title": "A tiny universe in a bottle reveals clues to the origins of life",
-        "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can expl",
+        "title": "Scientists Test Natural Compounds Against Sarcoma: Which One Shows the Most Promise?",
+        "summary": "A laboratory study identified curcumin as the plant compound offering the best balance of anticancer activity and safety against fibrosarcoma cells. A plant compound can damage cancer cells in the laboratory yet still prove too toxic to become a useful treatment. That distinction emerged when researchers at Wroclaw Med",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Mon, 27 Jul 2026 11:52:00 +0000",
+        "source_url": "https://scitechdaily.com/scientists-test-natural-compounds-against-sarcoma-which-one-shows-the-most-promise/",
+        "image_url": "https://scitechdaily.com/images/Doctor-Examining-Bone-Knee-Tumor-X-Ray-777x518.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
+        "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sun, 19 Jul 2026 09:10:21 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/universe-in-bottle.webp",
+        "published_at": "Sun, 26 Jul 2026 01:10:29 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/regal-horned-lizard.webp",
         "impact": 4
       }
     ],
@@ -72,14 +72,14 @@
         "impact": 5
       },
       {
-        "title": "Teenage Engineering’s unique music machines are 30 percent off",
-        "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of",
+        "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+        "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-25T11:00:00-04:00",
-        "source_url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0023.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 27 Jul 2026 15:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-systems-stage.jpg?w=1200",
         "impact": 4
       },
       {
@@ -94,29 +94,62 @@
         "impact": 3
       },
       {
-        "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-        "summary": "\"These are things that tend to be really hard.\"",
+        "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+        "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 24 Jul 2026 15:23:06 +0000",
-        "source_url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/8752973-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 27 Jul 2026 13:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
         "impact": 3
       },
       {
-        "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-        "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+        "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
+        "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it plans to partner with ",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 24 Jul 2026 11:20:43 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Snakebot-ready-to-deploy-in-rubble-1152x648.jpg",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-27T11:40:38-04:00",
+        "source_url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/amazon-leo-announcement-hero.png?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Critical care doctor says patients' reliance on chatbots reflects deeper problems in health care",
+        "summary": "In a new commentary published in Annals of Internal Medicine, Robert B. Shpiner, MD, a clinical professor of pulmonary and critical care at the David Geffen School of Medicine at UCLA, argues that the growing use of artificial intelligence chatbots for health information reflects both health system strain and a broader",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 27 Jul 2026 17:00:13 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-critical-doctor-patients-reliance-chatbots.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/chatbot-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Identifying high-needs patients helps predict future health spending",
+        "summary": "A new way to measure comorbidity—when a patient suffers from multiple diseases or health conditions—can be used to accurately predict a patient's risk of hospitalization and future health care costs across a population, Cornell researchers report.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 27 Jul 2026 15:00:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-high-patients-future-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/medical-cost-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Gum disease worsens systemic bone loss in osteoporosis patients via gut bacteria",
+        "summary": "Chronic gum disease (periodontitis) may worsen bone deterioration in people with osteoporosis by disrupting the microorganisms that support gut health, according to collaborative research between Griffith University and Nanjing University in China. The study, published in npj Biofilms and Microbiomes, reveals the biolo",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 27 Jul 2026 13:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-gum-disease-worsens-bone-loss.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/gum-disease-worsens-sy.jpg",
+        "impact": 4
+      },
       {
         "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
         "summary": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
@@ -137,39 +170,6 @@
         "published_at": "Mon, 20 Jul 2026 06:05:34 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
-        "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice without it experienced more severe damage. The findings also revealed a possible ",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 20 Jul 2026 01:28:48 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
-        "impact": 4
-      },
-      {
-        "title": "A tax on sugary drinks in Egypt could reduce disease and save US$1.8 billion in health care costs: Modeling study",
-        "summary": "Noncommunicable diseases—heart disease, stroke, diabetes, cancer—are no longer just a rich-country problem. Across Africa, they are becoming the leading cause of death, driven in part by a simple and overlooked culprit: what people drink.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 26 Jul 2026 17:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-tax-sugary-egypt-disease-us18.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/soda.jpg",
-        "impact": 4
-      },
-      {
-        "title": "PTSD therapy walks patients through past trauma",
-        "summary": "As anyone who has gone for a walk to ease a troubled mind knows, there's something about motion that helps process distressing memories. Now, University of Alberta researchers have solid evidence that an innovative psychotherapy is an effective treatment for PTSD. Confronting images of troubling memories while walking ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 25 Jul 2026 20:30:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-ptsd-therapy-patients-trauma.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ptsd-therapy-walks-pat.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 5
       },
       {
+        "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
+        "summary": "Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 27 Jul 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/kbYroikJTii4sinQa6LQbZ-1280-80.jpg",
+        "impact": 5
+      },
+      {
         "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission",
         "summary": "NASA's SunRISE mission has been assigned a new launch vehicle: It will now be delivered to orbit by a SpaceX Falcon Heavy rocket rather than a United Launch Alliance Vulcan Centaur.",
         "category": "Space",
@@ -274,31 +285,9 @@
         "source_url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
         "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%202.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "impact": 4
-      },
-      {
-        "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
-        "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites launched from Vandenberg Space Force Base in California on Tuesday (July 21), a day after aborting its first liftoff attempt.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 21 Jul 2026 18:30:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/pyyoH23WYaEQechaGoUB4o-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
-      {
-        "title": "James Webb Space Telescope discovers the secrets of cosmic 'factories' that filled the early universe with stardust",
-        "summary": "Using the James Webb Space Telescope, astronomers have discovered the secrets of early galaxies that pumped the infant cosmos full of dust, but by studying a much closer and modern galaxy.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 21 Jul 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-secrets-of-cosmic-factories-that-filled-the-early-universe-with-stardust",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ox3728bfzC7byVQPP6sFLV-1280-80.png",
-        "impact": 5
-      },
       {
         "title": "Exoplanet or Exomoon? New Contender Elicits Skepticism",
         "summary": "Astronomers have found a Jupiter-mass world orbiting a brown dwarf that orbits a star. The post Exoplanet or Exomoon? New Contender Elicits Skepticism appeared first on Sky &amp; Telescope.",
@@ -342,29 +331,29 @@
         "source_url": "https://www.space.com/astronomy/black-holes/nasas-roman-space-telescope-could-reveal-black-holes-ripping-up-stars-its-set-to-launch-aug-30",
         "image_url": "https://cdn.mos.cms.futurecdn.net/3ic5otoJ5WpZZcFLUa9VDa-1280-80.png",
         "impact": 4
+      },
+      {
+        "title": "Astrophotography: Picturing Galaxies",
+        "summary": "Here are some tips to get the most out of your galaxy images. The post Astrophotography: Picturing Galaxies appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Tue, 21 Jul 2026 17:10:36 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-resources/astrophotography-picturing-galaxies/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/pg58-3-scaled.jpeg",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Macchiato Pocket Park / OUT Architecture",
-        "summary": "Macchiato is a public space designed by OUT Architecture for the London Festival of Architecture 2026, located in front of The Colombian Coffee Company along Petticoat Lane, one of London's most vibrant and culturally diverse streets. The project transforms an overlooked urban corner into a place for gathering, convers",
+        "title": "Luohu Library and Youth Activity Center / Shenzhen Huahui Design + iDEA",
+        "summary": "In Luohu, where landscape and city are held in close balance, expansive mountains and water are interwoven with a dense, fine-grained urban fabric. Located at the threshold between natural terrain and the built city, the Luohu Library and Youth Activity Center explores how a large public building can be embedded within",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 26 Jul 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6a60/abe7/237b/e900/01c8/738c/large_jpg/174_260608_OUT_MAC_02_FEDERICOFARINATTI_archdaily.jpg?1784720379",
-        "impact": 4
-      },
-      {
-        "title": "23 Living / Plan:b arquitectos",
-        "summary": "This commission consisted of the design of a residential building on a long plot with a steep slope. The Provenza neighborhood, located on the eastern hillside of the city of Medellín, features an irregular urban grid, partly shaped by the sloping topography. In this context, we proposed that the new building incorpora",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 24 Jul 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181432/23-living-plan-b-arquitectos",
-        "image_url": "https://images.adsttc.com/media/images/6a60/6779/d7be/a801/8b1f/c93b/large_jpg/23-living-plan-b-arquitectos_17.jpg?1784702859",
+        "published_at": "Mon, 27 Jul 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181518/luohu-library-and-youth-activity-center-shenzhen-huahui-design-plus-idea",
+        "image_url": "https://images.adsttc.com/media/images/6a61/5d06/184b/c647/bf10/4936/large_jpg/luohu-library-and-youth-activity-center-shenzhen-huahui-design_3.jpg?1784765786",
         "impact": 4
       },
       {
@@ -399,6 +388,17 @@
         "source_url": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
+      },
+      {
+        "title": "KPF wraps China skyscraper in one-kilometer-long \"landscape ribbon\"",
+        "summary": "A one-kilometer-long series of terraces and planted staircases wraps around a trio of interconnected buildings in Shenzhen, China, for tech company TP-Link. Designed by architecture studio KPF, TP-Link LXD contains 124,600-square-metres of offices, research and development spaces and housing in three towers. The desire",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sat, 18 Jul 2026 10:00:22 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
       }
     ],
     "construction": [
@@ -425,6 +425,17 @@
         "impact": 4
       },
       {
+        "title": "The next data center construction bottleneck may be outside the building",
+        "summary": "As data center construction projects accelerate, site logistics are becoming harder to ignore.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 27 Jul 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/the-next-data-center-construction-bottleneck-may-be-outside-the-building/825741/",
+        "image_url": "https://imgproxy.divecdn.com/ayJLKIphyAXjbzYiZgaf7VTdYkJB5l84yn3wUtEvsk0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PcHRpb25fMDFfQ29uc3RydWN0aW9uX0RpdmVfUGhvdG8ucG5n.webp",
+        "impact": 3
+      },
+      {
         "title": "Maryland issues RFQ for Key Bridge main span",
         "summary": "The procurement follows an announcement from the Maryland Transportation Authority that it will split the rebuild into four contracts.",
         "category": "Construction",
@@ -445,74 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/what-new-construction-leaders-get-wrong/825031/",
         "image_url": "https://imgproxy.divecdn.com/t-jByAT0t93J5nU0HlsyhkBlcnzYazTBKK94VSmPTOA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MjgyNDEyLmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "Groundbreakings cooled in June after megaproject boom eased",
-        "summary": "Construction starts &ldquo;came back down to earth&rdquo; after strong activity in May, said Sarah Martin, director of economic research at Dodge Construction Network.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 23 Jul 2026 09:49:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/groundbreakings-cooled-june-megaproject-boom-eased/826001/",
-        "image_url": "https://imgproxy.divecdn.com/VJAZjlmoEw_TFNDXVxOH6Rho0WosDB2ga9A-RNE_AoQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MjgzNTY4LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release y",
+        "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+        "summary": "arXiv:2607.21597v1 Announce Type: new Abstract: Evaluating wildfire risk systems using standard machine-learning metrics such as F1-score or IoU is fundamentally flawed: these metrics assess event prediction accuracy, not the operational coherence of a continuous risk signal. This work proposes a novel monotonic evalua",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 15 Jul 2026 17:09:37 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.21597",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Introducing OpenAI Presence",
-        "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+        "title": "Coupled Hierarchical Search over Topology and Execution for Agentic Workflow Synthesis",
+        "summary": "arXiv:2607.21609v1 Announce Type: new Abstract: Although structured workflows empower Large Language Models (LLMs) to tackle complex problems, automating their creation is severely hindered by a vast combinatorial search space, frequently resulting in inflexible and resource-heavy offline training dependencies. To addr",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 22 Jul 2026 05:30:00 GMT",
-        "source_url": "https://openai.com/index/introducing-openai-presence",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6jXxdGYMc8oC9wCBbM59tD/47cd3218b63b068cf3ec2f63b79d5256/OpenAI_Presence_16x9.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.21609",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-        "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+        "title": "Trajectory-Aware Retrieval Agents for Temporal Decision- Making",
+        "summary": "arXiv:2607.21625v1 Announce Type: new Abstract: We study the problem of decision-making from long-form, temporally structured text using large language model (LLM) agents. Standard retrievalaugmented generation (RAG) pipelines fragment chronological context into isolated snippets, discarding the temporal structure that",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
-        "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1kXZRSOAQbv2BDKEO14tJl/b2f0a336afaddc32e5776ba555bc4dbf/Hugging_Face_Security_Incident_16x9.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.21625",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Safety and alignment in an era of long-horizon models",
-        "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+        "title": "Semiotic logical hexagon theory for LLM logical reasoning",
+        "summary": "arXiv:2607.21933v1 Announce Type: new Abstract: Large language models (LLMs) have become powerful tools for language understanding and logical reasoning. However, they still make mistakes when a problem requires both understanding meaning and following logic. A key reason is that natural-language statements often carry",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Mon, 20 Jul 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7VsDMfKDQaCRhafmq4r/58954b4318f57a81a96ad23470ed2497/SEO_image.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.21933",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "How Cars24 scales conversations and builds faster with OpenAI",
-        "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+        "title": "Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents",
+        "summary": "arXiv:2607.22014v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are emerging as core reasoning modules for embodied agents, yet it remains unclear how well general-purpose models can solve long-horizon embodied tasks from a single high-level instruction. We introduce MissionBench, a benchmark f",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/cars24",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7CDBt34djpI5pY21NFpVyc/c2acb8f59210c75f3ca156a8249cdded/cars24-seo.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.22014",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
