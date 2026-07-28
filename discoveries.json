@@ -1,8 +1,19 @@
 {
   "date": "2026-07-28",
-  "last_updated": "2026-07-28 00:00 UTC",
+  "last_updated": "2026-07-28 23:57 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Researchers shed light on elusive sharks of Galapagos Islands",
+        "summary": "For nearly two centuries, the Galapagos Islands have inspired scientific discovery. While some might think only of Charles Darwin and his journeys on the HMS Beagle, there is much more to discover. Today, María Antonia Izurieta Burbano De Lara, a master's student in Dr. David Wells' Shark Biology and Fisheries Science ",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 28 Jul 2026 18:40:01 EDT",
+        "source_url": "https://phys.org/news/2026-07-elusive-sharks-galapagos-islands.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-shed-light-2.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
         "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guide",
@@ -37,25 +48,14 @@
         "impact": 4
       },
       {
-        "title": "Scientists Test Natural Compounds Against Sarcoma: Which One Shows the Most Promise?",
-        "summary": "A laboratory study identified curcumin as the plant compound offering the best balance of anticancer activity and safety against fibrosarcoma cells. A plant compound can damage cancer cells in the laboratory yet still prove too toxic to become a useful treatment. That distinction emerged when researchers at Wroclaw Med",
+        "title": "Scientists' biographies may demotivate, not inspire, children to study science",
+        "summary": "Currently popular biographies of famous scientists may demotivate—rather than inspire—children's desire to study or pursue careers in science, according to researchers who studied the messages in 422 bestselling children's books. Study leader Jessica Gladstone, a professor of educational psychology at the University of",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Mon, 27 Jul 2026 11:52:00 +0000",
-        "source_url": "https://scitechdaily.com/scientists-test-natural-compounds-against-sarcoma-which-one-shows-the-most-promise/",
-        "image_url": "https://scitechdaily.com/images/Doctor-Examining-Bone-Knee-Tumor-X-Ray-777x518.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
-        "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 26 Jul 2026 01:10:29 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/regal-horned-lizard.webp",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 28 Jul 2026 18:20:07 EDT",
+        "source_url": "https://phys.org/news/2026-07-scientists-biographies-demotivate-children-science.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-biographies.jpg",
         "impact": 4
       }
     ],
@@ -72,82 +72,93 @@
         "impact": 5
       },
       {
-        "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-        "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+        "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+        "summary": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 27 Jul 2026 15:30:00 +0000",
-        "source_url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-systems-stage.jpg?w=1200",
+        "published_at": "Tue, 28 Jul 2026 13:50:27 +0000",
+        "source_url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/apple-upgrade.png?resize=1200,668",
         "impact": 4
       },
       {
-        "title": "With help from data, art museums are reframing the visitor experience",
-        "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Sat, 25 Jul 2026 11:00:32 +0000",
-        "source_url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-2560x1440.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-        "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 27 Jul 2026 13:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
-        "impact": 3
-      },
-      {
-        "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
-        "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it plans to partner with ",
+        "title": "The US is banning foreign robots",
+        "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - ",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-07-27T11:40:38-04:00",
-        "source_url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/amazon-leo-announcement-hero.png?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
+        "published_at": "2026-07-28T18:37:53-04:00",
+        "source_url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2281892623.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+        "impact": 4
+      },
+      {
+        "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
+        "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 28 Jul 2026 19:07:31 +0000",
+        "source_url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+        "summary": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 28 Jul 2026 19:06:33 +0000",
+        "source_url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-fleet-getty.jpg?resize=1200,801",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Critical care doctor says patients' reliance on chatbots reflects deeper problems in health care",
-        "summary": "In a new commentary published in Annals of Internal Medicine, Robert B. Shpiner, MD, a clinical professor of pulmonary and critical care at the David Geffen School of Medicine at UCLA, argues that the growing use of artificial intelligence chatbots for health information reflects both health system strain and a broader",
+        "title": "The lightbulb moment behind a potential antiviral breakthrough",
+        "summary": "An unexpected observation by a University of Queensland researcher could lead to a new treatment for deadly infectious diseases including COVID‑19, pneumonia in infants and children, or viral infections caused by Ebola and hantavirus.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 27 Jul 2026 17:00:13 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-critical-doctor-patients-reliance-chatbots.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/chatbot-1.jpg",
+        "published_at": "Tue, 28 Jul 2026 19:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-lightbulb-moment-potential-antiviral-breakthrough.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-lightbulb-moment-b.jpg",
         "impact": 4
       },
       {
-        "title": "Identifying high-needs patients helps predict future health spending",
-        "summary": "A new way to measure comorbidity—when a patient suffers from multiple diseases or health conditions—can be used to accurately predict a patient's risk of hospitalization and future health care costs across a population, Cornell researchers report.",
+        "title": "How brain cells restore healthy growth and connections after a disease-causing genetic deletion",
+        "summary": "Scientists at Virginia Tech's Fralin Biomedical Research Institute at VTC have discovered how an experimental therapy can help brain cells overcome the effects of a disease-causing genetic deletion. Instead of repairing the deletion and its immediate consequences, the therapy redirects brain development by helping at-r",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 27 Jul 2026 15:00:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-high-patients-future-health.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/medical-cost-1.jpg",
+        "published_at": "Tue, 28 Jul 2026 17:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-brain-cells-healthy-growth-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-brain-cells-restor.jpg",
         "impact": 4
       },
       {
-        "title": "Gum disease worsens systemic bone loss in osteoporosis patients via gut bacteria",
-        "summary": "Chronic gum disease (periodontitis) may worsen bone deterioration in people with osteoporosis by disrupting the microorganisms that support gut health, according to collaborative research between Griffith University and Nanjing University in China. The study, published in npj Biofilms and Microbiomes, reveals the biolo",
+        "title": "New study identifies behaviors influencing prescribing decisions for new medicines in neurodegenerative diseases",
+        "summary": "A new pan-European study has identified the key behavioral factors that influence whether health care professionals prescribe new, novel or nonroutine treatments for patients with neurodegenerative diseases.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 27 Jul 2026 13:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-gum-disease-worsens-bone-loss.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/gum-disease-worsens-sy.jpg",
+        "published_at": "Tue, 28 Jul 2026 16:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-behaviors-decisions-medicines-neurodegenerative-diseases.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/prescribe.jpg",
+        "impact": 4
+      },
+      {
+        "title": "GLP-1 drugs may hold few benefits beyond physical health, study finds",
+        "summary": "GLP-1 medications such as Ozempic have transformed the treatment of type 2 diabetes, helping millions of patients better control their blood sugar while reducing cardiovascular risk and, for many, promoting substantial weight loss.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 28 Jul 2026 14:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-glp-drugs-benefits-physical-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/ozempic-4.jpg",
         "impact": 4
       },
       {
@@ -159,17 +170,6 @@
         "published_at": "Fri, 24 Jul 2026 07:29:04 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/cash-money-with-ozempic-injection-pens.webp",
-        "impact": 4
-      },
-      {
-        "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-        "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than t",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 20 Jul 2026 06:05:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
         "impact": 4
       }
     ],
@@ -232,17 +232,6 @@
     ],
     "space": [
       {
-        "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
-        "summary": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous na",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 24 Jul 2026 16:35:46 +0000",
-        "source_url": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg",
-        "impact": 5
-      },
-      {
         "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
         "summary": "Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.",
         "category": "Space",
@@ -265,25 +254,36 @@
         "impact": 5
       },
       {
-        "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
-        "summary": "Orienspace's Gravity-1, the world's most powerful solid rocket, aced its third-ever mission on Tuesday (July 21), launching nine satellites to orbit from a ship at sea.",
+        "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video)",
+        "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 22 Jul 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/UBWbaTxZ5PmWfVsJaqrTeA-1280-80.jpg",
-        "impact": 5
+        "published_at": "Tue, 28 Jul 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/mBmBtRKduhd9d79q6cunSV-1280-80.jpg",
+        "impact": 4
       },
       {
-        "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
-        "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from th",
+        "title": "BALLS on the moon: China set to launch Africa's 1st lunar science mission in 2029",
+        "summary": "Africa's first space exploration mission aims to send a trio of spherical probes to the lunar south pole aboard China's Chang'e 8 lander in 2029.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 24 Jul 2026 17:47:06 +0000",
-        "source_url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%202.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 28 Jul 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/balls-on-the-moon-china-set-to-launch-africas-1st-lunar-science-mission-in-2029",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Mt8chLNrnBSHAWv4t6PbMA-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video)",
+        "summary": "The 13th test flight of SpaceX's Starship megarocket went pretty well —and provided some amazing visuals, too. See the highlights here.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 27 Jul 2026 22:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Z5sRcMEVPouUb4LeG6qia8-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -322,17 +322,6 @@
         "impact": 4
       },
       {
-        "title": "NASA's Roman Space Telescope could reveal black holes ripping up stars. It's set to launch Aug. 30",
-        "summary": "NASA's next super telescope, the Nancy Grace Roman Space Telescope, may leave nowhere to hide for black holes that violently murder and devour stars, not even cosmic noon.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 22 Jul 2026 18:01:12 +0000",
-        "source_url": "https://www.space.com/astronomy/black-holes/nasas-roman-space-telescope-could-reveal-black-holes-ripping-up-stars-its-set-to-launch-aug-30",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3ic5otoJ5WpZZcFLUa9VDa-1280-80.png",
-        "impact": 4
-      },
-      {
         "title": "Astrophotography: Picturing Galaxies",
         "summary": "Here are some tips to get the most out of your galaxy images. The post Astrophotography: Picturing Galaxies appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -342,18 +331,62 @@
         "source_url": "https://skyandtelescope.org/astronomy-resources/astrophotography-picturing-galaxies/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/pg58-3-scaled.jpeg",
         "impact": 4
+      },
+      {
+        "title": "Gamma-Ray Bursts Size Up the Milky Way’s Spiral Arms",
+        "summary": "Observations of remote cosmic explosions reveal that the outer spiral arms of the Milky Way might extend farther out than previously thought. The post Gamma-Ray Bursts Size Up the Milky Way’s Spiral Arms appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Mon, 20 Jul 2026 10:35:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/gamma-ray-bursts-size-up-the-milky-ways-spiral-arms/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/arms_illus2_unlabeled.webp",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Luohu Library and Youth Activity Center / Shenzhen Huahui Design + iDEA",
-        "summary": "In Luohu, where landscape and city are held in close balance, expansive mountains and water are interwoven with a dense, fine-grained urban fabric. Located at the threshold between natural terrain and the built city, the Luohu Library and Youth Activity Center explores how a large public building can be embedded within",
+        "title": "UNESCO Inscribes 13 Aalto Works on the World Heritage List",
+        "summary": "The UNESCO World Heritage Committee has inscribed Aalto Works, a collection of thirteen buildings and architectural ensembles across Finland designed by Aino Marsio-Aalto, Elissa Aalto, and Alvar Aalto, on the UNESCO World Heritage List. The designation recognizes the international significance of a body of work that h",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 27 Jul 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181518/luohu-library-and-youth-activity-center-shenzhen-huahui-design-plus-idea",
-        "image_url": "https://images.adsttc.com/media/images/6a61/5d06/184b/c647/bf10/4936/large_jpg/luohu-library-and-youth-activity-center-shenzhen-huahui-design_3.jpg?1784765786",
+        "published_at": "Tue, 28 Jul 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1181723/unesco-inscribes-13-aalto-works-on-the-world-heritage-list",
+        "image_url": "https://images.adsttc.com/media/images/6a68/7111/f4d2/6d01/88b1/6e1e/large_jpg/unesco-inscribes-13-aalto-works-on-the-world-heritage-list_4.jpg?1785229591",
+        "impact": 4
+      },
+      {
+        "title": "206 La Fayette - Transformation of a Parisian Block / DATA architectes + THINK TANK architecture",
+        "summary": "Where the Haussmannian and Faubourg urban fabrics meet, the project at 206 Rue Lafayette transforms a diverse site comprising eight buildings arranged around a central courtyard.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 28 Jul 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181619/206-la-fayette-transformation-of-a-parisian-block-data-architectes-plus-think-tank-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a63/5ec4/d4d6/cf00/0113/9a9f/large_jpg/Lafayette_002.jpg?1784897306",
+        "impact": 4
+      },
+      {
+        "title": "Architecture as an Ongoing Conversation",
+        "summary": "Recorded live at Milan Design Week 2026 in partnership with INDX|GLOBAL, the tenth episode of the Room For Dreams podcast looks at how buildings outgrow their original blueprints. Architects Parvez Alam and Priyanka Arjun, alongside interior designer Aditi Sharma, discuss why the best architecture is never truly finish",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 28 Jul 2026 01:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1181682/architecture-as-an-ongoing-conversation",
+        "image_url": "https://images.adsttc.com/media/images/6a67/55d0/f4d2/6d01/88b1/6b3b/large_jpg/beyond-the-rigidity-of-static-residential-design_5.jpg?1785157081",
+        "impact": 4
+      },
+      {
+        "title": "Sinuous form of Shenzhen Natural History Museum emulates \"a piece of landscape\"",
+        "summary": "Granite cloaks the sweeping form of Shenzhen Natural History Museum, completed in China by architecture studios 3XN, B+H Architects and Zhubo Design. Now officially open in the Pingshan District, the 100,000-square-metre building was planned as a new cultural landmark for Shenzhen. It is distinguished by its fluid form",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 28 Jul 2026 10:30:04 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -364,39 +397,6 @@
         "journal": "dezeen.com",
         "published_at": "Fri, 24 Jul 2026 19:00:57 +0000",
         "source_url": "https://www.dezeen.com/2026/07/24/gomez-platero-miami-bay-towers-proposal/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "MVRDV wraps Beijing roof tiles around Chinese moon gates for fashion flagship store",
-        "summary": "Architecture studio MVRDV has designed a flagship store for Chinese fashion brand Urban Revivo in Beijing, China, with a dramatic facade informed by the roof tiles on the city's traditional houses. Located within Beijing's Sanlitun shopping district, the store sits along the main pedestrian route of the district that c",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 22 Jul 2026 08:00:16 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/22/mvrdv-urban-revivo-flagship-beijing/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "MVRDV wins competition for \"new world wonder\" in the Netherlands",
-        "summary": "Architecture studio MVRDV has been revealed as the winner of social enterprise Shift's competition to design a €240 million landmark in Rotterdam, the Netherlands. The winning proposal, named Rotterdam Rocks!, was selected from a five-strong shortlist that also included Heatherwick Studio, Mecanoo, Office for Political",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 21 Jul 2026 10:00:20 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "KPF wraps China skyscraper in one-kilometer-long \"landscape ribbon\"",
-        "summary": "A one-kilometer-long series of terraces and planted staircases wraps around a trio of interconnected buildings in Shenzhen, China, for tech company TP-Link. Designed by architecture studio KPF, TP-Link LXD contains 124,600-square-metres of offices, research and development spaces and housing in three towers. The desire",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Sat, 18 Jul 2026 10:00:22 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
@@ -425,36 +425,36 @@
         "impact": 4
       },
       {
-        "title": "The next data center construction bottleneck may be outside the building",
-        "summary": "As data center construction projects accelerate, site logistics are becoming harder to ignore.",
+        "title": "Resilient bridges function optimally as part of a single, integrated system",
+        "summary": "After more than 20 years delivering infrastructure projects around the world, I’ve learned a simple lesson: the parts that matter most are often the ones nobody ever notices. For major transport projects that millions of people rely on every day, what those users rarely see&hellip; The post Resilient bridges function o",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 28 Jul 2026 05:30:12 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/resilient-bridges-function-optimally-as-part-of-a-single-integrated-system-28-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/bechtel_morava_enhanced-1024x682.webp",
+        "impact": 4
+      },
+      {
+        "title": "NFL’s Giants announce plans to upgrade New Jersey HQ",
+        "summary": "The franchise tapped original builder Natoli Construction for the project, which will add 93,500 square feet of new construction.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 27 Jul 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/the-next-data-center-construction-bottleneck-may-be-outside-the-building/825741/",
-        "image_url": "https://imgproxy.divecdn.com/ayJLKIphyAXjbzYiZgaf7VTdYkJB5l84yn3wUtEvsk0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PcHRpb25fMDFfQ29uc3RydWN0aW9uX0RpdmVfUGhvdG8ucG5n.webp",
+        "published_at": "Tue, 28 Jul 2026 14:47:24 -0400",
+        "source_url": "https://www.constructiondive.com/news/NFL-giants-training-facility-renovation/826392/",
+        "image_url": "https://imgproxy.divecdn.com/0z3N7wW6Xdg3cN9B_VJS3Y558OWwyLlzP3jziu0QHXM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BRVJJQUwtM19GdWxsLTE2MDB4OTAwLkpQRw==.webp",
         "impact": 3
       },
       {
-        "title": "Maryland issues RFQ for Key Bridge main span",
-        "summary": "The procurement follows an announcement from the Maryland Transportation Authority that it will split the rebuild into four contracts.",
+        "title": "US hotel construction pipeline down in Q2, but higher-tier segments saw growth",
+        "summary": "While the total pipeline was down nearly 5% year over year, the luxury and upper upscale segments saw notable gains, per Lodging Econometrics.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 24 Jul 2026 09:18:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/maryland-rfq-francis-scott-key-bridge-main-span/826108/",
-        "image_url": "https://imgproxy.divecdn.com/D_Xbfc1j3GTZpuOItwG4E8RlADHga3wk4IzZAn5QC8s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTEyNjg1NzM5Nl8yNGQ4MzRlNTVhX28uanBn.webp",
-        "impact": 3
-      },
-      {
-        "title": "What new construction leaders get wrong",
-        "summary": "A good captain on the jobsite or in the office is a good listener, keen observer and frequent communicator, writes a construction consultant.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 23 Jul 2026 15:55:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/what-new-construction-leaders-get-wrong/825031/",
-        "image_url": "https://imgproxy.divecdn.com/t-jByAT0t93J5nU0HlsyhkBlcnzYazTBKK94VSmPTOA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MjgyNDEyLmpwZw==.webp",
+        "published_at": "Tue, 28 Jul 2026 09:37:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/hotel-construction-pipeline-q2-2026/826324/",
+        "image_url": "https://imgproxy.divecdn.com/vfnLt207ADgspqFzLOHgOyTzQwn_GFHW2vCfDmG7ZUc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTM1MTU5NDI0LmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "published_at": "Tue, 28 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.21597",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "published_at": "Tue, 28 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.21609",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "published_at": "Tue, 28 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.21625",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "published_at": "Tue, 28 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.21933",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+        "published_at": "Tue, 28 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.22014",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
