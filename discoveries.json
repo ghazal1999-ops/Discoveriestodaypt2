@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29",
-  "last_updated": "2026-07-29 23:59 UTC",
+  "date": "2026-07-31",
+  "last_updated": "2026-07-31 00:00 UTC",
   "categories": {
     "science": [
       {
@@ -15,36 +15,25 @@
         "impact": 4
       },
       {
-        "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-        "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guide",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 22 Jul 2026 21:10:39 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/queen-and-worker-bees.webp",
-        "impact": 4
-      },
-      {
-        "title": "Hydrothermal microbes shape seafloor minerals at newly found vents near Greek island",
-        "summary": "In August 2023, the German research vessel METEOR set sail on Expedition M192 to the Greek island of Milos with Dr. Solveig Bühring as chief scientist. The mission was to locate and investigate previously unknown hydrothermal systems. Now, three years later, a new study highlights the surprising discoveries resulting f",
+        "title": "Scientists have found a new way molecules can cooperate at room temperature",
+        "summary": "What if glowing molecules could synchronize, much like fireflies flashing in unison? Researchers have discovered that molecules confined within tiny gold nanostructures can behave collectively, coordinating their interactions even under conditions where this was previously thought impossible. The finding challenges lon",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Wed, 29 Jul 2026 19:20:01 EDT",
-        "source_url": "https://phys.org/news/2026-07-hydrothermal-microbes-seafloor-minerals-newly.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/microorganisms-activel.jpg",
+        "published_at": "Thu, 30 Jul 2026 18:10:02 EDT",
+        "source_url": "https://phys.org/news/2026-07-scientists-molecules-cooperate-room-temperature.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-have-found-1.jpg",
         "impact": 4
       },
       {
-        "title": "Hollywood films distort real volcanic eruptions, study finds",
-        "summary": "Towering explosions, flowing bright red lava and heroic scientists battling to save communities at risk have become the defining image of volcanoes in popular culture, from disaster films to epic blockbusters. New University of Bristol–led research has found these cinematic portrayals create a distorted view of how vol",
+        "title": "Electrically controlled magnetic switching shows promise for next-gen cryogenic devices",
+        "summary": "Researchers at the Indian Institute of Science (IISc) have demonstrated a new way of switching a material between two fundamentally different magnetic states using an electric current. The discovery could pave the way for compact, energy-efficient electronic devices that store information, perform logic operations and ",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Wed, 29 Jul 2026 15:20:02 EDT",
-        "source_url": "https://phys.org/news/2026-07-hollywood-distort-real-volcanic-eruptions.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/volcanic-eruption.jpg",
+        "published_at": "Thu, 30 Jul 2026 16:10:01 EDT",
+        "source_url": "https://phys.org/news/2026-07-electrically-magnetic-gen-cryogenic-devices.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrically-controlle.jpg",
         "impact": 4
       },
       {
@@ -57,20 +46,20 @@
         "source_url": "https://scitechdaily.com/rare-bourbon-virus-confirmed-in-new-york-for-the-first-time/",
         "image_url": "https://scitechdaily.com/images/Lone-Star-Tick-1-777x518.jpg",
         "impact": 4
+      },
+      {
+        "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+        "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated po",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 30 Jul 2026 08:13:37 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/galapagos-islands-scalesia-plants.webp",
+        "impact": 4
       }
     ],
     "tech": [
-      {
-        "title": "The US government just banned Roombas",
-        "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC media relations dir",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-07-29T14:13:09-04:00",
-        "source_url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB341_IROBOT_CVIRGINIA_A_514bad.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 4
-      },
       {
         "title": "The Download: a chip talent battle, and deflating AI hype",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on t",
@@ -94,39 +83,50 @@
         "impact": 3
       },
       {
-        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-        "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+        "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 29 Jul 2026 22:23:12 +0000",
-        "source_url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2170596427.jpg?w=1024",
+        "published_at": "Thu, 30 Jul 2026 20:26:38 +0000",
+        "source_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
         "impact": 3
       },
       {
-        "title": "Waymo robotaxis are starting to return to freeways",
-        "summary": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
+        "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+        "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 29 Jul 2026 17:50:57 +0000",
-        "source_url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801",
+        "published_at": "Thu, 30 Jul 2026 15:19:15 +0000",
+        "source_url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+        "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenu",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-07-30T16:49:32-04:00",
+        "source_url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "How a medical database evolved into a global standard of data-sharing",
-        "summary": "Before advances in scientific data storage and collaboration via the cloud, medical investigators seeking health research breakthroughs had to overcome significant obstacles to collaboration and the gathering of key clinical data.",
+        "title": "Three-week digital training linked to motor gains and brain connectivity changes in Parkinson's patients",
+        "summary": "A new study from Reichman University has found that a short, three-week digital training program, combined with standard drug treatment for Parkinson's disease, led to significant improvements in patients' motor function and measurable changes in the brain's motor circuits.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 29 Jul 2026 14:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-medical-database-evolved-global-standard.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-medical-database.jpg",
-        "impact": 5
+        "published_at": "Thu, 30 Jul 2026 13:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-week-digital-linked-motor-gains.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-reichman-universit.jpg",
+        "impact": 4
       },
       {
         "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
@@ -140,36 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-        "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than t",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 20 Jul 2026 06:05:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
-        "impact": 4
-      },
-      {
-        "title": "Consumption of ultra-processed foods by fathers may influence their babies' birth weight and body measurements",
-        "summary": "A father's diet can affect his children's health and body composition before they are even conceived. A study of 43 triads of fathers, mothers and newborns treated in the public health care system of Ribeirão Preto in the state of São Paulo, Brazil, demonstrated this. The analysis revealed that the greater the consumpt",
+        "title": "Cancer drug enables kidney transplant despite severe immune incompatibility",
+        "summary": "An international research team led by the Medical University of Vienna reports on a new treatment strategy that has made kidney transplantation possible for a patient with no realistic chance of receiving a suitable donor organ.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 29 Jul 2026 16:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-consumption-ultra-foods-fathers-babies.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-father.jpg",
+        "published_at": "Thu, 30 Jul 2026 16:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-cancer-drug-enables-kidney-transplant.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/vial-medicine.jpg",
         "impact": 4
       },
       {
-        "title": "Blocking a mitochondrial transporter may curb inflammation from 'zombie' cells without killing them",
-        "summary": "Researchers have uncovered a previously unknown mechanism that helps aging cells drive the chronic inflammation linked to many age-related diseases. The findings reveal how dysfunctional mitochondria—the cell's energy-producing structures—work with the cell's epigenetic machinery to switch on inflammatory genes, openin",
+        "title": "Gut microbe's protective coating links intestinal colonization to lower inflammation",
+        "summary": "The human gut harbors more than 40 trillion bacteria assembled into complex communities collectively known as the gut microbiota, which is closely linked to human health and disease. Mediterraneibacter gnavus (formerly Ruminococcus gnavus) is a commensal bacterium in the Lachnospiraceae family that is normally found in",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 29 Jul 2026 16:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-blocking-mitochondrial-curb-inflammation-zombie.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blocking-a-mitochondri.jpg",
+        "published_at": "Thu, 30 Jul 2026 15:40:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-gut-microbe-coating-links-intestinal.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-microbes-protectiv.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Novel AI framework enables efficient collaboration between generalist and specialist models for disease diagnosis",
+        "summary": "A research team from The Hong Kong University of Science and Technology (HKUST) has developed a novel AI framework, the Generalist–Specialist Collaboration (GSCo), which enables a generalist foundation model and specialist models to collaborate on disease diagnosis. GSCo outperforms both standalone models in tasks such",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 30 Jul 2026 12:20:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-ai-framework-enables-efficient-collaboration.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-ai-framework-ena.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 5
       },
       {
+        "title": "A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect",
+        "summary": "Scientists are preparing to study the effects of human-made impacts on the moon when a spent SpaceX rocket stage impacts the lunar surface on Aug. 5.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 30 Jul 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-next-week-and-scientists-arent-sure-what-to-expect",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/oTVpyghT6MrzAxcHgpUQxD-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video)",
         "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026.",
         "category": "Space",
@@ -265,25 +276,14 @@
         "impact": 4
       },
       {
-        "title": "NASA’s Curiosity Views a Sand-Capped Butte",
-        "summary": "Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with its Mast Camera, or Mastcam, on June 11, 2026, the 4,923rd Martian day, or sol, of the mission. The butte was left behind as surrounding rock eroded away over time, deepen",
+        "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
+        "summary": "The FAA, facing a backlog in demand for space missions, is proposing to cut down on environmental reviews to accelerate launches and re-entries.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Wed, 29 Jul 2026 16:08:12 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26730/PIA26730.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
-        "summary": "Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission. The rover has found polygons several times in the past, but never so many in one place. Acros",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Wed, 29 Jul 2026 16:06:39 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26729/PIA26729.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 30 Jul 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Yc3XKnB8Dd5LvopjtkNz7Y-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -300,6 +300,28 @@
         "impact": 4
       },
       {
+        "title": "The ELT's Spectrograph Could Sniff Out Biosignatures on Other Worlds",
+        "summary": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some come through for the Extremely Large Telescope (ELT), which hopefully will get a more imaginative name when the 39m behemoth is officially commissioned in Chile in the 2030s",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 30 Jul 2026 15:40:33 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+        "image_url": "https://www.universetoday.com/article_images/The_European_Extremely_Large_Telescope_20260730_154020.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Wandering Supermassive Black Hole Found at the Edge of its Galaxy",
+        "summary": "Astronomers have long thought supermassive black holes can escape their home galaxies — now they've found one roaming its host's galactic outskirts. The post Wandering Supermassive Black Hole Found at the Edge of its Galaxy appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Thu, 30 Jul 2026 12:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/wandering-supermassive-black-hole-found-at-the-edge-of-its-galaxy/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/stsci-h-p2019a-f-3000-jpg.jpeg",
+        "impact": 4
+      },
+      {
         "title": "Astrophotography: Picturing Galaxies",
         "summary": "Here are some tips to get the most out of your galaxy images. The post Astrophotography: Picturing Galaxies appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -311,40 +333,29 @@
         "impact": 4
       },
       {
-        "title": "Gamma-Ray Bursts Size Up the Milky Way’s Spiral Arms",
-        "summary": "Observations of remote cosmic explosions reveal that the outer spiral arms of the Milky Way might extend farther out than previously thought. The post Gamma-Ray Bursts Size Up the Milky Way’s Spiral Arms appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Mon, 20 Jul 2026 10:35:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/gamma-ray-bursts-size-up-the-milky-ways-spiral-arms/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/arms_illus2_unlabeled.webp",
-        "impact": 4
-      },
-      {
-        "title": "White Dwarfs Eat More Planetary Debris Than Thought, But Magnetic Fields Hide It",
-        "summary": "Planetary debris disks around white dwarfs appear to be more plentiful than thought. That's because some white dwarfs are magnetic, and those magnetic fields create patches of metallic debris near the stars' poles, where it's more difficult to detect. This leads to an underestimation of debris, something new research i",
+        "title": "Radio Array Detects Polarized Light From a GRB",
+        "summary": "On March 10, 2026, the Fermi telescope gamma-ray burst team reported the detection of a long-duration gamma ray burst that occurred when a star exploded inside a dense, highly magnetized cloud of hydrogen gas. That HII region is a bubble of ionized hydrogen created by winds from a massive young star. Astronomers immedi",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 29 Jul 2026 18:57:27 +0000",
-        "source_url": "https://www.universetoday.com/articles/white-dwarfs-eat-more-planetary-debris-than-thought-but-magnetic-fields-hide-it",
-        "image_url": "https://www.universetoday.com/article_images/dead-stars-may-have-surprisingly-healthy-appetites-white_dwarf_pollution_illustration_20260729_184357.jpg",
-        "impact": 4
-      },
-      {
-        "title": "A Wandering Black Hole Meets a Wandering Star",
-        "summary": "What happens when a black hole and a star meet in the middle of nowhere in a galaxy? It sounds like it could be a dramatic science fiction backdrop, with some hapless starship caught in the crunch. Actually, such encounters in real life are pretty rare. They happen maybe once every 100,000 years. But, when they do occu",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 29 Jul 2026 01:13:25 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-wandering-black-hole-meets-a-wandering-star",
-        "image_url": "https://www.universetoday.com/article_images/UNC-Chapel-Hill-Astronomers-Detect-One-of-the-Universes-Rarest-Black_20260729_010606.jpg",
+        "published_at": "Thu, 30 Jul 2026 18:57:50 +0000",
+        "source_url": "https://www.universetoday.com/articles/radio-array-detects-polarized-light-from-a-grb",
+        "image_url": "https://www.universetoday.com/article_images/PIG321-GRB_polarization_ill6M_lrg-1024x683_20260730_021420.jpg",
         "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "“Building a Swiss Watch Out of Concrete”: Clark Construction on LACMA’s David Geffen Galleries",
+        "summary": "The recently opened David Geffen Galleries at LACMA are the result of more than a decade of effort across many fronts: the city, the county, the public, the architect, the engineers, the general contractor, and the many builders involved in translating an ambitious and visionary design into built form. The project has ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 30 Jul 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1148587/building-a-swiss-watch-out-of-concrete-clark-construction-on-lacmas-david-geffen-galleries",
+        "image_url": "https://images.adsttc.com/media/images/6a54/ec26/a6cc/5601/89e4/e3c3/large_jpg/building-a-swiss-watch-out-of-concrete-clark-construction-on-lacmas-david-geffen-galleries_6.jpg?1783950381",
+        "impact": 4
+      },
       {
         "title": "RB Tapalpa Cabin / ALMA de Arquitectos",
         "summary": "On a steeply sloping plot of 38,750 square feet (3,600 m²), surrounded by the Tapalpa forest and offering privileged views of the Tapalpa valley, lies a vacation cabin with a building footprint of only 10% of the site, where architecture finds its primary design tool in the topography.",
@@ -388,20 +399,20 @@
         "source_url": "https://www.dezeen.com/2026/07/24/gomez-platero-miami-bay-towers-proposal/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "MVRDV wraps Beijing roof tiles around Chinese moon gates for fashion flagship store",
-        "summary": "Architecture studio MVRDV has designed a flagship store for Chinese fashion brand Urban Revivo in Beijing, China, with a dramatic facade informed by the roof tiles on the city's traditional houses. Located within Beijing's Sanlitun shopping district, the store sits along the main pedestrian route of the district that c",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 22 Jul 2026 08:00:16 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/22/mvrdv-urban-revivo-flagship-beijing/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "StirlingX’s new Linear Surveys deliver real-time progress intelligence for linear infrastructure projects",
+        "summary": "For civil engineering teams delivering linear infrastructure, incomplete visibility across the construction corridor has always been the cost of doing business. StirlingX has launched a new capability to address this. The post StirlingX’s new Linear Surveys deliver real-time progress intelligence for linear infrastruct",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 30 Jul 2026 09:28:43 +0000",
+        "source_url": "https://www.newcivilengineer.com/sponsored/stirlingxs-new-linear-surveys-deliver-real-time-progress-intelligence-for-linear-infrastructure-projects-30-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/SparrowHawk-StirlingX-Drone-560x315.png",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -425,92 +436,81 @@
         "impact": 4
       },
       {
-        "title": "Ryan Cos. execs discuss data center headwinds",
-        "summary": "Two senior vice presidents at the Minneapolis-based contractor talk about client relationships, project schedules and the direction of the construction boom.",
+        "title": "Carbon Capture and Cement: How carbon capture technology is decarbonising construction today",
+        "summary": "Concrete is the second most used material on earth, behind only water. With cement, the binder in concrete, generating as much as 8% of global CO2 emissions, decarbonising construction is hard. The post Carbon Capture and Cement: How carbon capture technology is decarbonising construction today appeared first on New Ci",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 29 Jul 2026 13:25:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/ryan-execs-discuss-data-center-headwinds/826195/",
-        "image_url": "https://imgproxy.divecdn.com/DpZmXRwxidpXONL9mm7DrSI_F3pGehibrP8tPJY2gw8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1Mjg0ODUwLmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 30 Jul 2026 15:54:18 +0000",
+        "source_url": "https://www.newcivilengineer.com/technology/carbon-capture-and-cement-how-carbon-capture-technology-is-decarbonising-construction-today-30-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/G9I3ypO4TWG7-p61lB6E9g-560x315.png",
+        "impact": 4
       },
       {
-        "title": "NFL’s Giants to upgrade New Jersey HQ",
-        "summary": "The franchise tapped original builder Natoli Construction for the project, which will add 93,500 square feet of new construction.",
+        "title": "Amtrak updates $6B Baltimore tunnel project",
+        "summary": "The megaproject &mdash; Amtrak&rsquo;s largest-ever single infrastructure investment &mdash; seeks to curb congestion caused by the 153-year-old B&amp;P Tunnel.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Tue, 28 Jul 2026 14:47:24 -0400",
-        "source_url": "https://www.constructiondive.com/news/NFL-giants-training-facility-renovation/826392/",
-        "image_url": "https://imgproxy.divecdn.com/0z3N7wW6Xdg3cN9B_VJS3Y558OWwyLlzP3jziu0QHXM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BRVJJQUwtM19GdWxsLTE2MDB4OTAwLkpQRw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "US hotel construction pipeline down in Q2, but higher-tier segments saw growth",
-        "summary": "While the total pipeline was down nearly 5% year over year, the luxury and upper upscale segments saw notable gains, per Lodging Econometrics.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 28 Jul 2026 09:37:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/hotel-construction-pipeline-q2-2026/826324/",
-        "image_url": "https://imgproxy.divecdn.com/vfnLt207ADgspqFzLOHgOyTzQwn_GFHW2vCfDmG7ZUc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTM1MTU5NDI0LmpwZw==.webp",
+        "published_at": "Thu, 30 Jul 2026 09:49:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/amtrak-updates-baltimore-tunnel-aecom-jacobs/826556/",
+        "image_url": "https://imgproxy.divecdn.com/9eq6kbjnmhN7AaZekWD1ta4LQo5Z2Git6lwa0_qYBgQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CUFQtVXBkYXRlLTEtc2NhbGVkLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-        "summary": "arXiv:2607.24762v1 Announce Type: new Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most direct ways to reduce la",
+        "title": "EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks",
+        "summary": "arXiv:2607.26490v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) have emerged as a powerful paradigm for solving partial differential equations (PDEs), yet their performance heavily relies on the manual, trial-and-error engineering of neural representations, loss formulations, and optimization d",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.24762",
+        "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.26490",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
-        "summary": "arXiv:2607.24766v1 Announce Type: new Abstract: Large language models (LLMs) can generate individual charts, but coordinated multi-view visualizations (CMVs), where views share data flows and cross-view interactions, remain out of reach. Tight field-level coupling among data transformations, visual encodings, and inter",
+        "title": "Rethinking Self-Evolution: A Constrained Exploration-Exploitation Process for Mitigating Skill Overfitting",
+        "summary": "arXiv:2607.26643v1 Announce Type: new Abstract: Enabling large language model (LLM) agents to accumulate and reuse experience from past interactions remains a central challenge in real-world applications. A promising solution is to treat skills as trainable states and optimize them in the same way as model parameters i",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.24766",
+        "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.26643",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "PATHFinder Agent for Tailored Prenatal Care",
-        "summary": "arXiv:2607.24768v1 Announce Type: new Abstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of Obstetricians and Gynecologists (ACOG) recently introduced guidelines advocating tailored prenatal care, called PATH (Plan for Tailored Healthca",
+        "title": "AgenticCANN: Automated Ascend C Operator Generation via Knowledge-Augmented Agentic Evolution",
+        "summary": "arXiv:2607.26661v1 Announce Type: new Abstract: Ascend C operator optimization is critical for NPU (Neural Processing Unit) inference performance but requires deep hardware expertise.While large language models (LLMs) have shown promise in automated CUDA kernel generation, the fundamentally different programming model ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.24768",
+        "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.26661",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "CogEEGAgent: Toward Autonomous Cognitive EEG Analysis with Grounded Execution and Selection-Aware Verification",
-        "summary": "arXiv:2607.25045v1 Announce Type: new Abstract: Electroencephalography (EEG) analysis in cognitive studies requires specialized expertise and involves many defensible choices over contrasts, channels, time windows, and statistical tests. LLM agents can translate varied natural-language questions into analysis choices, ",
+        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technolo",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.25045",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 30 Jul 2026 10:15:19 +0000",
+        "source_url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600",
         "impact": 5
       },
       {
-        "title": "Addressable Recall Compaction for Long Context-Window Control in AI Agents",
-        "summary": "arXiv:2607.25066v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate reasoning traces, actions, and tool observations that can eventually exceed a model's fixed context window. Existing compaction methods address this limitation by discarding, summarizing, or retrieving earlier information, but they may r",
+        "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+        "summary": "arXiv:2607.26120v1 Announce Type: new Abstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strategic deception due to conflicting or hidden objectives. In these settings, misalignment with collect",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.25066",
+        "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.26120",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
