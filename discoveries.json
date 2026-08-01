@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-31",
-  "last_updated": "2026-07-31 00:00 UTC",
+  "date": "2026-08-01",
+  "last_updated": "2026-08-01 00:00 UTC",
   "categories": {
     "science": [
       {
@@ -15,36 +15,36 @@
         "impact": 4
       },
       {
-        "title": "Scientists have found a new way molecules can cooperate at room temperature",
-        "summary": "What if glowing molecules could synchronize, much like fireflies flashing in unison? Researchers have discovered that molecules confined within tiny gold nanostructures can behave collectively, coordinating their interactions even under conditions where this was previously thought impossible. The finding challenges lon",
+        "title": "A backup fluoride defense in soil bacteria could aid greener chemical production",
+        "summary": "Researchers at the University of Tartu have discovered a mechanism in bacteria that helps them adapt to fluoride, which is toxic to most organisms above relatively low threshold concentrations. Their discovery may represent a significant milestone in bioindustry, as it could help reduce the use of petrochemical product",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Thu, 30 Jul 2026 18:10:02 EDT",
-        "source_url": "https://phys.org/news/2026-07-scientists-molecules-cooperate-room-temperature.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-have-found-1.jpg",
+        "published_at": "Fri, 31 Jul 2026 15:20:03 EDT",
+        "source_url": "https://phys.org/news/2026-07-backup-fluoride-defense-soil-bacteria.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-discovery-could-ho.jpg",
         "impact": 4
       },
       {
-        "title": "Electrically controlled magnetic switching shows promise for next-gen cryogenic devices",
-        "summary": "Researchers at the Indian Institute of Science (IISc) have demonstrated a new way of switching a material between two fundamentally different magnetic states using an electric current. The discovery could pave the way for compact, energy-efficient electronic devices that store information, perform logic operations and ",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 30 Jul 2026 16:10:01 EDT",
-        "source_url": "https://phys.org/news/2026-07-electrically-magnetic-gen-cryogenic-devices.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/electrically-controlle.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Rare Bourbon Virus Confirmed in New York for the First Time",
-        "summary": "A mysterious tick-borne virus may already be spreading unnoticed in the Northeast. Researchers have confirmed New York State’s first case of Bourbon virus, a rare and potentially severe infection carried by lone star ticks. The discovery on Long Island raises concerns that additional cases may have been mistaken for mo",
+        "title": "Scientists Who Uncovered Altermagnetism Win Major Physics Honor",
+        "summary": "A previously overlooked set of spin symmetries has revealed that magnetism does not fit neatly into just two categories. For more than a century, physicists divided collinear magnets into two basic types. The discovery of altermagnetism has added a third, earning Professor Jairo Sinova of Johannes Gutenberg University ",
         "category": "Science",
         "source": "scitechdaily.com",
         "journal": "scitechdaily.com",
-        "published_at": "Wed, 29 Jul 2026 19:28:11 +0000",
-        "source_url": "https://scitechdaily.com/rare-bourbon-virus-confirmed-in-new-york-for-the-first-time/",
-        "image_url": "https://scitechdaily.com/images/Lone-Star-Tick-1-777x518.jpg",
+        "published_at": "Fri, 31 Jul 2026 23:25:40 +0000",
+        "source_url": "https://scitechdaily.com/scientists-who-uncovered-altermagnetism-win-major-physics-honor/",
+        "image_url": "https://scitechdaily.com/images/Altermagnetic-Crystal-777x586.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Chemists Defy Decades-Old Rules With “Free Electron” Breakthrough",
+        "summary": "Free electrons offer chemists a new way to control reactions that conventional electron transfer rules would normally prevent. Inside a reaction flask, an electron can determine which molecules combine and which remain unchanged. Chemists rely on this control to build complex compounds used in lifesaving drugs, advance",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 31 Jul 2026 11:04:10 +0000",
+        "source_url": "https://scitechdaily.com/chemists-defy-decades-old-rules-with-free-electron-breakthrough/",
+        "image_url": "https://scitechdaily.com/images/Atoms-Physics-Illustration-777x518.jpg",
         "impact": 4
       },
       {
@@ -61,6 +61,17 @@
     ],
     "tech": [
       {
+        "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+        "summary": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 31 Jul 2026 15:37:58 +0000",
+        "source_url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799",
+        "impact": 4
+      },
+      {
         "title": "The Download: a chip talent battle, and deflating AI hype",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on t",
         "category": "Tech",
@@ -72,60 +83,49 @@
         "impact": 4
       },
       {
-        "title": "Who wins and who loses after US bans foreign robots?",
-        "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 29 Jul 2026 20:03:42 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-        "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 30 Jul 2026 20:26:38 +0000",
-        "source_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-        "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 30 Jul 2026 15:19:15 +0000",
-        "source_url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
-        "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenu",
+        "title": "The ban on robot vacuums won’t make them safer, only worse",
+        "summary": "No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the privacy and security risks these autonomous robots pose are [&#8230;]",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-07-30T16:49:32-04:00",
-        "source_url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+        "published_at": "2026-07-31T13:30:49-04:00",
+        "source_url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/all_the_robots.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Best Robot Vacuum of 2026: Shark, Eufy",
+        "summary": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 31 Jul 2026 15:53:21 +0000",
+        "source_url": "https://www.wired.com/story/best-robot-vacuum/",
+        "image_url": "https://media.wired.com/photos/69e945ec1e791992644b1bf5/191:100/w_1280,c_limit/The-Best-Robot-Vacuums.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
+        "summary": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of security and transparency.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 31 Jul 2026 10:00:00 +0000",
+        "source_url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+        "image_url": "https://media.wired.com/photos/6a6b9eaea28bf27471a166b3/191:100/w_1280,c_limit/DefCon%20Human%20badge%20with%20lights.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Three-week digital training linked to motor gains and brain connectivity changes in Parkinson's patients",
-        "summary": "A new study from Reichman University has found that a short, three-week digital training program, combined with standard drug treatment for Parkinson's disease, led to significant improvements in patients' motor function and measurable changes in the brain's motor circuits.",
+        "title": "Cannabinoid pathways may offer targets for kidney disease as CKD affects 850 million people",
+        "summary": "Approximately 850 million people globally (9.1% of the world's population) have chronic kidney disease (CKD). The number of affected individuals has grown steadily during the past 20 years and is on track to continue rising. Existing drugs, such as RAAS inhibitors and angiotensin receptor blockers, are commonly prescri",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 30 Jul 2026 13:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-week-digital-linked-motor-gains.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-reichman-universit.jpg",
+        "published_at": "Fri, 31 Jul 2026 15:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-cannabinoid-pathways-kidney-disease-ckd.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cannabinoids-may-hold.jpg",
         "impact": 4
       },
       {
@@ -140,36 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Cancer drug enables kidney transplant despite severe immune incompatibility",
-        "summary": "An international research team led by the Medical University of Vienna reports on a new treatment strategy that has made kidney transplantation possible for a patient with no realistic chance of receiving a suitable donor organ.",
+        "title": "Hyperuricemia predicts mortality with chronic kidney disease",
+        "summary": "Hyperuricemia independently predicts mortality in chronic kidney disease (CKD), according to a study published online July 13 in the Journal of Clinical Medicine.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 30 Jul 2026 16:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-cancer-drug-enables-kidney-transplant.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/vial-medicine.jpg",
+        "published_at": "Fri, 31 Jul 2026 17:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-hyperuricemia-mortality-chronic-kidney-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hyperuricemia-predicts.jpg",
         "impact": 4
       },
       {
-        "title": "Gut microbe's protective coating links intestinal colonization to lower inflammation",
-        "summary": "The human gut harbors more than 40 trillion bacteria assembled into complex communities collectively known as the gut microbiota, which is closely linked to human health and disease. Mediterraneibacter gnavus (formerly Ruminococcus gnavus) is a commensal bacterium in the Lachnospiraceae family that is normally found in",
+        "title": "Platelet-rich plasma, shockwave therapy show therapeutic efficacy in interstitial cystitis",
+        "summary": "For patients with interstitial cystitis (IC)/bladder pain syndrome (BPS), the combination of platelet-rich plasma (PRP) and low-intensity extracorporeal shock wave therapy (LI-ESWT) shows therapeutic efficacy, according to a study recently published in Frontiers in Bioengineering and Biotechnology.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 30 Jul 2026 15:40:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-gut-microbe-coating-links-intestinal.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-microbes-protectiv.jpg",
+        "published_at": "Fri, 31 Jul 2026 15:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-platelet-rich-plasma-shockwave-therapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/platelet-rich-plasma-s.jpg",
         "impact": 4
       },
       {
-        "title": "Novel AI framework enables efficient collaboration between generalist and specialist models for disease diagnosis",
-        "summary": "A research team from The Hong Kong University of Science and Technology (HKUST) has developed a novel AI framework, the Generalist–Specialist Collaboration (GSCo), which enables a generalist foundation model and specialist models to collaborate on disease diagnosis. GSCo outperforms both standalone models in tasks such",
+        "title": "Liver tumors may depend on LARS to withstand stress and keep multiplying",
+        "summary": "Illinois researchers made a breakthrough discovery in the fight against liver cancer. Collaborators Lin-Feng Chen, Susan A. Martinis, and graduate student Xiaodan Lin found that decreasing protein levels of leucyl-tRNA synthetase (LARS) impedes liver cancer cell multiplication.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 30 Jul 2026 12:20:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-ai-framework-enables-efficient-collaboration.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-ai-framework-ena.jpg",
+        "published_at": "Fri, 31 Jul 2026 15:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-liver-tumors-lars-stress.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/liver-cancer.jpg",
         "impact": 4
       }
     ],
@@ -232,15 +232,15 @@
     ],
     "space": [
       {
-        "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
-        "summary": "Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.",
+        "title": "NASA is sending 2 probes to the moon to test complex 'three-body orbits'",
+        "summary": "NASA is planning to send two maneuverable probes to lunar orbit in order to learn how spacecraft are affected by the complex gravity environment near the moon.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 27 Jul 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/kbYroikJTii4sinQa6LQbZ-1280-80.jpg",
-        "impact": 5
+        "published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/cY23TEv4F9TZCPnYL3uyx3-1280-80.jpg",
+        "impact": 4
       },
       {
         "title": "A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect",
@@ -276,27 +276,27 @@
         "impact": 4
       },
       {
-        "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
-        "summary": "The FAA, facing a backlog in demand for space missions, is proposing to cut down on environmental reviews to accelerate launches and re-entries.",
+        "title": "On this day in space! July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
+        "summary": "On July 31, 1971, Apollo 15 astronauts drove on the moon for the first time. Here's how it happened and why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 30 Jul 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Yc3XKnB8Dd5LvopjtkNz7Y-1280-80.jpg",
+        "published_at": "Fri, 31 Jul 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/uRrLvEUYf2ucjjj9MxHowW-1280-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
       {
-        "title": "Exoplanet or Exomoon? New Contender Elicits Skepticism",
-        "summary": "Astronomers have found a Jupiter-mass world orbiting a brown dwarf that orbits a star. The post Exoplanet or Exomoon? New Contender Elicits Skepticism appeared first on Sky &amp; Telescope.",
+        "title": "What happens to a moon when its planet is stolen?",
+        "summary": "The galaxy is littered with rogue planets, worlds flung out of the systems that built them, drifting between the stars with no sun to call their own. But when a planet is torn away, does anything go with it? New simulations say yes, a passing star can rip a world out of its orbit and leave its moons still faithfully ci",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 22 Jul 2026 15:03:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/new-contender-for-exomoon-title-elicits-skepticism/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/exosatellite_CD-35_2722.jpg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 31 Jul 2026 15:16:36 +0000",
+        "source_url": "https://www.universetoday.com/articles/what-happens-to-a-moon-when-its-planet-is-stolen",
+        "image_url": "https://www.universetoday.com/article_images/PIA00600_20260731_151232.jpg",
         "impact": 4
       },
       {
@@ -322,17 +322,6 @@
         "impact": 4
       },
       {
-        "title": "Astrophotography: Picturing Galaxies",
-        "summary": "Here are some tips to get the most out of your galaxy images. The post Astrophotography: Picturing Galaxies appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 21 Jul 2026 17:10:36 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-resources/astrophotography-picturing-galaxies/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/pg58-3-scaled.jpeg",
-        "impact": 4
-      },
-      {
         "title": "Radio Array Detects Polarized Light From a GRB",
         "summary": "On March 10, 2026, the Fermi telescope gamma-ray burst team reported the detection of a long-duration gamma ray burst that occurred when a star exploded inside a dense, highly magnetized cloud of hydrogen gas. That HII region is a bubble of ionized hydrogen created by winds from a massive young star. Astronomers immedi",
         "category": "Astronomy",
@@ -342,40 +331,40 @@
         "source_url": "https://www.universetoday.com/articles/radio-array-detects-polarized-light-from-a-grb",
         "image_url": "https://www.universetoday.com/article_images/PIG321-GRB_polarization_ill6M_lrg-1024x683_20260730_021420.jpg",
         "impact": 4
+      },
+      {
+        "title": "A Thermal Camera Trick Could Let LIGO See Twice as Far",
+        "summary": "A team of researchers have found a surprisingly simple way to boost the sensitivity of gravitational wave detectors like LIGO. It’s surprisingly simple to, just point an ordinary thermal imaging camera at the mirrors themselves. The technique could improve LIGO's next upgrade by up to 31%, letting it detect neutron sta",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 30 Jul 2026 11:10:39 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-thermal-camera-trick-could-let-ligo-see-twice-as-far",
+        "image_url": "https://www.universetoday.com/article_images/LIGO_Hanford_aerial_05_20260730_110902.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "“Building a Swiss Watch Out of Concrete”: Clark Construction on LACMA’s David Geffen Galleries",
-        "summary": "The recently opened David Geffen Galleries at LACMA are the result of more than a decade of effort across many fronts: the city, the county, the public, the architect, the engineers, the general contractor, and the many builders involved in translating an ambitious and visionary design into built form. The project has ",
+        "title": "Latin America in Focus: This Month in Architecture, Cultural Institutions, Heritage, and Resilience",
+        "summary": "Architecture across Latin America this month reflects a growing emphasis on adaptation, whether responding to environmental risks, rethinking cultural institutions, or extending the life of existing buildings. Recent developments reveal a regional conversation shaped by resilience, heritage, and public space, where arc",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 30 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1148587/building-a-swiss-watch-out-of-concrete-clark-construction-on-lacmas-david-geffen-galleries",
-        "image_url": "https://images.adsttc.com/media/images/6a54/ec26/a6cc/5601/89e4/e3c3/large_jpg/building-a-swiss-watch-out-of-concrete-clark-construction-on-lacmas-david-geffen-galleries_6.jpg?1783950381",
-        "impact": 4
+        "published_at": "Fri, 31 Jul 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1181936/latin-america-in-focus-this-month-in-architecture-cultural-institutions-heritage-and-resilience",
+        "image_url": "https://images.adsttc.com/media/images/6a6c/5e32/0364/d201/89e9/754f/large_jpg/latin-america-in-focus-this-month-in-architecture-cultural-institutions-heritage-and-resilience_9.jpg?1785486907",
+        "impact": 5
       },
       {
-        "title": "RB Tapalpa Cabin / ALMA de Arquitectos",
-        "summary": "On a steeply sloping plot of 38,750 square feet (3,600 m²), surrounded by the Tapalpa forest and offering privileged views of the Tapalpa valley, lies a vacation cabin with a building footprint of only 10% of the site, where architecture finds its primary design tool in the topography.",
+        "title": "The Soul of Place and the Invisible Energy That Shapes Architecture",
+        "summary": "Beyond the structural grids lies a layer of design that dictates how a room feels the moment someone crosses the threshold. Recorded live at Milan Design Week 2026 in partnership with INDX|GLOBAL, the final episode of the Room For Dreams podcast covers the unseen atmospheric energy that gives architecture its emotional",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 29 Jul 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181843/rb-tapalpa-cabin-alma-de-arquitectos",
-        "image_url": "https://images.adsttc.com/media/images/6a67/b3cf/d865/3d00/014d/099a/large_jpg/CESAR_BELIO_13.jpg?1785181181",
-        "impact": 4
-      },
-      {
-        "title": "The Oasis Is Not a Destination: Architecture Along the Routes of the Desert",
-        "summary": "Architecture has long been defined by permanence. Buildings are celebrated because they endure, cities because they establish permanence against uncertainty, and monuments because they resist the passage of time. Some of humanity's oldest urban traditions emerged in landscapes where permanence alone could never guarant",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 29 Jul 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1181646/the-oasis-is-not-a-destination-architecture-along-the-routes-of-the-desert",
-        "image_url": "https://images.adsttc.com/media/images/6a67/01f9/f4d2/6d01/88b1/6aa2/large_jpg/the-oasis-is-not-a-destination-architecture-along-the-routes-of-the-desert_5.jpg?1785135621",
+        "published_at": "Fri, 31 Jul 2026 01:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1181927/the-soul-of-place-and-the-invisible-energy-that-shapes-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a6b/efca/4ea2/e401/8926/65b7/large_jpg/a-alma-do-lugar-e-a-energia-invisivel-que-define-a-arquitetura_6.jpg?1785458644",
         "impact": 4
       },
       {
@@ -399,20 +388,20 @@
         "source_url": "https://www.dezeen.com/2026/07/24/gomez-platero-miami-bay-towers-proposal/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
+      },
+      {
+        "title": "Coastal MHK Architecture Works From 2009-2014",
+        "summary": "Coastal is an inspiring exploration of Flonda’s most exquisite high-end and boutique homes where architecture, design, and the spirit of the sea come together. Through stunning photography and captivating storytelling, the book reveals how light, texture, and craftsmanship define modern coastal Ilving From sun-washed b",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 31 Jul 2026 09:10:00 +0000",
+        "source_url": "https://www.archdaily.com/1181985/coastal-mhk-architecture-works-from-2009-2014",
+        "image_url": "https://images.adsttc.com/media/images/6a6c/8d7e/1801/ca00/0176/e830/large_jpg/grid.jpg?1785499011",
+        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "StirlingX’s new Linear Surveys deliver real-time progress intelligence for linear infrastructure projects",
-        "summary": "For civil engineering teams delivering linear infrastructure, incomplete visibility across the construction corridor has always been the cost of doing business. StirlingX has launched a new capability to address this. The post StirlingX’s new Linear Surveys deliver real-time progress intelligence for linear infrastruct",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 30 Jul 2026 09:28:43 +0000",
-        "source_url": "https://www.newcivilengineer.com/sponsored/stirlingxs-new-linear-surveys-deliver-real-time-progress-intelligence-for-linear-infrastructure-projects-30-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/SparrowHawk-StirlingX-Drone-560x315.png",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -436,25 +425,36 @@
         "impact": 4
       },
       {
-        "title": "Carbon Capture and Cement: How carbon capture technology is decarbonising construction today",
-        "summary": "Concrete is the second most used material on earth, behind only water. With cement, the binder in concrete, generating as much as 8% of global CO2 emissions, decarbonising construction is hard. The post Carbon Capture and Cement: How carbon capture technology is decarbonising construction today appeared first on New Ci",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 30 Jul 2026 15:54:18 +0000",
-        "source_url": "https://www.newcivilengineer.com/technology/carbon-capture-and-cement-how-carbon-capture-technology-is-decarbonising-construction-today-30-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/G9I3ypO4TWG7-p61lB6E9g-560x315.png",
-        "impact": 4
-      },
-      {
-        "title": "Amtrak updates $6B Baltimore tunnel project",
-        "summary": "The megaproject &mdash; Amtrak&rsquo;s largest-ever single infrastructure investment &mdash; seeks to curb congestion caused by the 153-year-old B&amp;P Tunnel.",
+        "title": "FlatironDragados-Sukut JV lands $1.8B dam project",
+        "summary": "The construction team will upgrade the Anderson Dam in California, which is operating at limited capacity due to the threat of earthquakes.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 30 Jul 2026 09:49:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/amtrak-updates-baltimore-tunnel-aecom-jacobs/826556/",
-        "image_url": "https://imgproxy.divecdn.com/9eq6kbjnmhN7AaZekWD1ta4LQo5Z2Git6lwa0_qYBgQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CUFQtVXBkYXRlLTEtc2NhbGVkLmpwZw==.webp",
+        "published_at": "Fri, 31 Jul 2026 12:19:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/flatiron-dragados-sukut-jv-anderson-dam-project/826724/",
+        "image_url": "https://imgproxy.divecdn.com/SlcN8HuXgrBmLC8PPfqLNONJwZGdnqrnUq55gwevCl4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV9BbmRlcnNvbl9kYW1fYW5kX3R1bm5lbF9hZXJpYWxfQ09QWS5qcGVn.webp",
+        "impact": 3
+      },
+      {
+        "title": "Boston’s $10B coastal resilience infrastructure plan wins access to billions in federal funding",
+        "summary": "The city qualifies for a 65% federal cost share following a U.S. Army Corps feasibility study, paving the way for more than 20 flood-protection projects expected to prevent $41 billion in damages.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 31 Jul 2026 10:05:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/boston-10b-coastal-resilience-infrastructure-plan-usace/826700/",
+        "image_url": "https://imgproxy.divecdn.com/VKOzQ9_Q0CfaUFz3dG6bOYRCXC18mzOAlcmVqLuSKR8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GYW5fUGllcl9QYXJrLmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
+        "summary": "Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey bridge job.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 31 Jul 2026 08:48:36 -0400",
+        "source_url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
+        "image_url": "https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.26490",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.26643",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.26661",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+        "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2607.26120",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
