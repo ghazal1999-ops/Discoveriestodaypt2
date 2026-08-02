@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-01",
-  "last_updated": "2026-08-01 23:54 UTC",
+  "date": "2026-08-02",
+  "last_updated": "2026-08-02 23:56 UTC",
   "categories": {
     "science": [
       {
@@ -48,14 +48,14 @@
         "impact": 4
       },
       {
-        "title": "Ancient diamond preserves evidence of water-bearing mineral deep in Earth's mantle",
-        "summary": "A team of Brazilian researchers discovered the first direct evidence that goethite—the mineral responsible for the brown color of soils—can withstand extreme pressures and temperatures all the way to the planet's interior inside a diamond just 3 millimeters (0.1 inch) long, within a microscopic impurity. Goethite forms",
+        "title": "Scientists Discover the Brain May Enter a New Biological Phase Between 50 and 75",
+        "summary": "A single-cell study reveals major changes in immune cells, genome organization, and gene regulation within the aging human hippocampus, offering important insights into brain aging and dementias associated with age. Between roughly ages 50 and 75, the cellular landscape of the human hippocampus begins to shift. Immune ",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Sat, 01 Aug 2026 07:20:01 EDT",
-        "source_url": "https://phys.org/news/2026-08-ancient-diamond-evidence-mineral-deep.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/analysis-of-a-super-de.jpg",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sun, 02 Aug 2026 20:03:00 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-the-brain-may-enter-a-new-biological-phase-between-50-and-75/",
+        "image_url": "https://scitechdaily.com/images/Human-Brain-Anatomy-X-ray-777x583.jpg",
         "impact": 4
       }
     ],
@@ -83,40 +83,51 @@
         "impact": 3
       },
       {
-        "title": "What’s the best handheld mini fan?",
-        "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+        "title": "The global memory shortage hits the MacBook Air",
+        "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sat, 01 Aug 2026 13:36:54 +0000",
-        "source_url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/mini-fans-review.jpg?resize=1200,675",
+        "published_at": "Sun, 02 Aug 2026 21:33:59 +0000",
+        "source_url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/macbook-air-2024-update.png?resize=1200,618",
         "impact": 3
       },
       {
-        "title": "Best Robot Vacuum of 2026: Shark, Eufy",
-        "summary": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+        "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 31 Jul 2026 15:53:21 +0000",
-        "source_url": "https://www.wired.com/story/best-robot-vacuum/",
-        "image_url": "https://media.wired.com/photos/69e945ec1e791992644b1bf5/191:100/w_1280,c_limit/The-Best-Robot-Vacuums.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 02 Aug 2026 16:05:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-austin-getty.jpg?resize=1200,788",
         "impact": 3
       },
       {
-        "title": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
-        "summary": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of security and transparency.",
+        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+        "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 31 Jul 2026 10:00:00 +0000",
-        "source_url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
-        "image_url": "https://media.wired.com/photos/6a6b9eaea28bf27471a166b3/191:100/w_1280,c_limit/DefCon%20Human%20badge%20with%20lights.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 02 Aug 2026 15:23:19 +0000",
+        "source_url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Experimental treatment significantly slows progression of a fatal brain disease in women during clinical trial",
+        "summary": "Researchers at Tel Aviv University have presented new findings indicating that the experimental drug Davunetide may significantly slow the progression of progressive supranuclear palsy (PSP) in women, who exhibited a markedly different response to treatment than men. These results reinforce the need for sex-specific me",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 02 Aug 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-experimental-treatment-significantly-fatal-brain.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/experimental-treatment-1.jpg",
+        "impact": 4
+      },
       {
         "title": "Ivermectin taken at the start of pregnancy is not associated with an increased risk of adverse pregnancy outcomes",
         "summary": "A study led by the Barcelona Institute for Global Health (ISGlobal), an institution supported by the \"la Caixa\" Foundation, found no increased risk of miscarriage, stillbirth or major congenital anomalies among women inadvertently exposed to ivermectin from two weeks before conception through the first four weeks of pr",
@@ -126,17 +137,6 @@
         "published_at": "Sat, 01 Aug 2026 09:00:01 EDT",
         "source_url": "https://medicalxpress.com/news/2026-07-ivermectin-pregnancy-adverse-outcomes.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/pregnancy-5.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Cannabinoid pathways may offer targets for kidney disease as CKD affects 850 million people",
-        "summary": "Approximately 850 million people globally (9.1% of the world's population) have chronic kidney disease (CKD). The number of affected individuals has grown steadily during the past 20 years and is on track to continue rising. Existing drugs, such as RAAS inhibitors and angiotensin receptor blockers, are commonly prescri",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 31 Jul 2026 15:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-cannabinoid-pathways-kidney-disease-ckd.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cannabinoids-may-hold.jpg",
         "impact": 4
       },
       {
@@ -151,25 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Reshaping the gut microbiome can boost chemotherapy delivery to tumors",
-        "summary": "A new study led by researchers at The University of Texas MD Anderson Cancer Center has identified a way to reshape the gut microbiome that can enhance the delivery of certain chemotherapies to tumors, offering a potential strategy to make nanoparticle-based cancer drugs more effective.",
+        "title": "Somatic mutations linked to vascular damage in progeria",
+        "summary": "Hutchinson–Gilford progeria syndrome (HGPS) is a genetic disorder that causes remarkable premature aging. Most patients die during their teenage years from cardiovascular disease, but the precise mechanisms underlying vascular damage remain unclear.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 01 Aug 2026 11:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-reshaping-gut-microbiome-boost-chemotherapy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/gut-microbiome.jpg",
+        "published_at": "Sun, 02 Aug 2026 09:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-somatic-mutations-linked-vascular-progeria.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/somatic-mutations-link.jpg",
         "impact": 4
       },
       {
-        "title": "Link between liver fibrosis in MASLD, ASCVD varies by glycemic status",
-        "summary": "For patients with metabolic dysfunction-associated steatotic liver disease (MASLD), the association between liver fibrosis and atherosclerotic cardiovascular disease (ASCVD) varies with glycemic status, according to a study published in Hepatology Communications.",
+        "title": "Deadly brain tumors show vulnerability to new sound wave approach",
+        "summary": "In a promising sign for the potential of focused sound waves to improve care for brain tumors, UVA Health researchers have determined that tumors called gliomas may be even more receptive to targeted drug delivery than normal brain tissue.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 31 Jul 2026 21:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-link-liver-fibrosis-masld-ascvd.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/link-between-liver-fib.jpg",
+        "published_at": "Sun, 02 Aug 2026 08:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-deadly-brain-tumors-vulnerability-approach.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/deadly-brain-tumors-sh.jpg",
         "impact": 4
       }
     ],
@@ -232,14 +232,25 @@
     ],
     "space": [
       {
-        "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
-        "summary": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic",
+        "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
+        "summary": "On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 31 Jul 2026 18:39:47 +0000",
-        "source_url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/acd25-0156-005.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 02 Aug 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/TXL6H9fyGNSvKEuepNKi5Z-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Rocket issue delays 1st orbital rocket launch from the UK",
+        "summary": "While testing a rocket on the launch pad at the U.K.'s SaxaVord Spaceport, RFA found 'an issue with the vehicle that requires further investigation.'",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 02 Aug 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/oioWKLAiF9EjTCv7RfUzNP-1280-80.jpg",
         "impact": 4
       },
       {
@@ -273,17 +284,6 @@
         "published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits",
         "image_url": "https://cdn.mos.cms.futurecdn.net/cY23TEv4F9TZCPnYL3uyx3-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect",
-        "summary": "Scientists are preparing to study the effects of human-made impacts on the moon when a spent SpaceX rocket stage impacts the lunar surface on Aug. 5.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 30 Jul 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-next-week-and-scientists-arent-sure-what-to-expect",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/oTVpyghT6MrzAxcHgpUQxD-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -346,14 +346,14 @@
     ],
     "architecture": [
       {
-        "title": "Latin America in Focus: This Month in Architecture, Cultural Institutions, Heritage, and Resilience",
-        "summary": "Architecture across Latin America this month reflects a growing emphasis on adaptation, whether responding to environmental risks, rethinking cultural institutions, or extending the life of existing buildings. Recent developments reveal a regional conversation shaped by resilience, heritage, and public space, where arc",
+        "title": "Resonancia Installation / PPAA",
+        "summary": "Logroño City Hall, designed by Rafael Moneo, was conceived as a fragment of the city rather than as an autonomous object. Its architecture not only houses a public institution but also defines an open urban space where collective life can unfold. The plaza extending in front of the building is an essential part of this",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 31 Jul 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1181936/latin-america-in-focus-this-month-in-architecture-cultural-institutions-heritage-and-resilience",
-        "image_url": "https://images.adsttc.com/media/images/6a6c/5e32/0364/d201/89e9/754f/large_jpg/latin-america-in-focus-this-month-in-architecture-cultural-institutions-heritage-and-resilience_9.jpg?1785486907",
+        "published_at": "Sun, 02 Aug 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181998/resonancia-ppaa",
+        "image_url": "https://images.adsttc.com/media/images/6a6c/a787/0364/d201/89e9/7811/large_jpg/resonancia-ppaa_14.jpg?1785505760",
         "impact": 5
       },
       {
@@ -425,6 +425,28 @@
         "impact": 4
       },
       {
+        "title": "How value engineering finetuned complex piling works around York’s new railway overbridge",
+        "summary": "Tricky ground conditions around a key railway overbridge in York have necessitated no less than 5,669 piles, but careful planning and value engineering meant this tally was far smaller than it might have been. The post How value engineering finetuned complex piling works around York&#8217;s new railway overbridge appea",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 31 Jul 2026 03:00:41 +0000",
+        "source_url": "https://www.newcivilengineer.com/in-depth/how-value-engineering-finetuned-complex-piling-works-around-yorks-new-railway-overbridge-31-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/skyfilming-sisk-york-august-2023-image-OBLIQUE-19-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Carbon Capture and Cement: How carbon capture technology is decarbonising construction today",
+        "summary": "Concrete is the second most used material on earth, behind only water. With cement, the binder in concrete, generating as much as 8% of global CO2 emissions, decarbonising construction is hard. The post Carbon Capture and Cement: How carbon capture technology is decarbonising construction today appeared first on New Ci",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 30 Jul 2026 15:54:18 +0000",
+        "source_url": "https://www.newcivilengineer.com/technology/carbon-capture-and-cement-how-carbon-capture-technology-is-decarbonising-construction-today-30-07-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/G9I3ypO4TWG7-p61lB6E9g-560x315.png",
+        "impact": 4
+      },
+      {
         "title": "FlatironDragados-Sukut JV lands $1.8B dam project",
         "summary": "The construction team will upgrade the Anderson Dam in California, which is operating at limited capacity due to the threat of earthquakes.",
         "category": "Construction",
@@ -433,28 +455,6 @@
         "published_at": "Fri, 31 Jul 2026 12:19:00 -0400",
         "source_url": "https://www.constructiondive.com/news/flatiron-dragados-sukut-jv-anderson-dam-project/826724/",
         "image_url": "https://imgproxy.divecdn.com/SlcN8HuXgrBmLC8PPfqLNONJwZGdnqrnUq55gwevCl4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV9BbmRlcnNvbl9kYW1fYW5kX3R1bm5lbF9hZXJpYWxfQ09QWS5qcGVn.webp",
-        "impact": 3
-      },
-      {
-        "title": "Boston’s $10B coastal resilience infrastructure plan wins access to billions in federal funding",
-        "summary": "The city qualifies for a 65% federal cost share following a U.S. Army Corps feasibility study, paving the way for more than 20 flood-protection projects expected to prevent $41 billion in damages.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 31 Jul 2026 10:05:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/boston-10b-coastal-resilience-infrastructure-plan-usace/826700/",
-        "image_url": "https://imgproxy.divecdn.com/VKOzQ9_Q0CfaUFz3dG6bOYRCXC18mzOAlcmVqLuSKR8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GYW5fUGllcl9QYXJrLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
-        "summary": "Plus, Granite opens a new aggregate yard and Amtrak awards contracts on a New Jersey bridge job.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 31 Jul 2026 08:48:36 -0400",
-        "source_url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
-        "image_url": "https://imgproxy.divecdn.com/iZcxjEkKw26_um6RpdCUMglxMvkKkqNHfI-zsBQ_RT8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wci0wNzI3MjYtb25lLmpwZw==.webp",
         "impact": 3
       }
     ],
