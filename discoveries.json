@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-02",
-  "last_updated": "2026-08-02 23:56 UTC",
+  "date": "2026-08-04",
+  "last_updated": "2026-08-04 00:06 UTC",
   "categories": {
     "science": [
       {
@@ -13,6 +13,17 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/nuclear-physics-atomic-element.webp",
         "impact": 5
+      },
+      {
+        "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
+        "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK protein family, offering scientists an unexpected new research tool. Together, the compounds could r",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 03 Aug 2026 06:20:53 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-hippocampus-neurons-alzheimers-disease-brain-dementia.webp",
+        "impact": 4
       },
       {
         "title": "Superheated magma may power towering lava fountains",
@@ -34,17 +45,6 @@
         "published_at": "Thu, 30 Jul 2026 22:52:57 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/obesity-and-brain.webp",
-        "impact": 4
-      },
-      {
-        "title": "Brittany burial mounds may hide human-shaped stones as Coëby cemetery mystery deepens",
-        "summary": "For archaeologists, the Coëby cemetery in Brittany, France, is a gold mine for research. It contains several prehistoric stone monuments and earth mounds. In a new study of two unusually large mounds, scientists may have stumbled upon a rare style of funerary monument.",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Sat, 01 Aug 2026 13:00:03 EDT",
-        "source_url": "https://phys.org/news/2026-07-brittany-burial-mounds-human-stones.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-mystery-deepens-an-1.jpg",
         "impact": 4
       },
       {
@@ -94,51 +94,29 @@
         "impact": 3
       },
       {
-        "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
+        "summary": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 02 Aug 2026 16:05:00 +0000",
-        "source_url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-austin-getty.jpg?resize=1200,788",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Mon, 03 Aug 2026 11:30:00 +0000",
+        "source_url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+        "image_url": "https://media.wired.com/photos/6a3221464e63d441b28e3620/191:100/w_1280,c_limit/The-Best-Robot-Lawn-Mowers.jpg",
         "impact": 3
       },
       {
-        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-        "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+        "title": "Trump’s AI protectionism has come for robotics",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, ",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 02 Aug 2026 15:23:19 +0000",
-        "source_url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 03 Aug 2026 18:43:30 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Experimental treatment significantly slows progression of a fatal brain disease in women during clinical trial",
-        "summary": "Researchers at Tel Aviv University have presented new findings indicating that the experimental drug Davunetide may significantly slow the progression of progressive supranuclear palsy (PSP) in women, who exhibited a markedly different response to treatment than men. These results reinforce the need for sex-specific me",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 02 Aug 2026 17:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-experimental-treatment-significantly-fatal-brain.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/experimental-treatment-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Ivermectin taken at the start of pregnancy is not associated with an increased risk of adverse pregnancy outcomes",
-        "summary": "A study led by the Barcelona Institute for Global Health (ISGlobal), an institution supported by the \"la Caixa\" Foundation, found no increased risk of miscarriage, stillbirth or major congenital anomalies among women inadvertently exposed to ivermectin from two weeks before conception through the first four weeks of pr",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 01 Aug 2026 09:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-ivermectin-pregnancy-adverse-outcomes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/pregnancy-5.jpg",
-        "impact": 4
-      },
       {
         "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
         "summary": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
@@ -151,25 +129,47 @@
         "impact": 4
       },
       {
-        "title": "Somatic mutations linked to vascular damage in progeria",
-        "summary": "Hutchinson–Gilford progeria syndrome (HGPS) is a genetic disorder that causes remarkable premature aging. Most patients die during their teenage years from cardiovascular disease, but the precise mechanisms underlying vascular damage remain unclear.",
+        "title": "Are governments hungry to make healthy food retail policies stick?",
+        "summary": "The places we live, work, study and play are important locations for governments to improve population health by curbing unhealthy diets that cause preventable diseases and deaths. Think cafes in public hospitals, eateries in public-sector workplaces, canteens in public schools and food outlets in community sports cent",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 02 Aug 2026 09:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-somatic-mutations-linked-vascular-progeria.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/somatic-mutations-link.jpg",
+        "published_at": "Mon, 03 Aug 2026 20:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-07-hungry-healthy-food-retail-policies.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/food-shopping.jpg",
         "impact": 4
       },
       {
-        "title": "Deadly brain tumors show vulnerability to new sound wave approach",
-        "summary": "In a promising sign for the potential of focused sound waves to improve care for brain tumors, UVA Health researchers have determined that tumors called gliomas may be even more receptive to targeted drug delivery than normal brain tissue.",
+        "title": "Blood marker tracks hidden progression in multiple sclerosis",
+        "summary": "Modern therapies have transformed care for people with multiple sclerosis (MS). Yet the disease continues to progress in a substantial proportion of patients, even in the absence of relapses. Detecting and treating this gradual worsening of disability remains one of the greatest challenges in MS care. Researchers from ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 02 Aug 2026 08:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-deadly-brain-tumors-vulnerability-approach.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/deadly-brain-tumors-sh.jpg",
+        "published_at": "Mon, 03 Aug 2026 17:20:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-blood-marker-tracks-hidden-multiple.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/central-nervous-system.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Emotion regulation therapy may help reduce problem alcohol use",
+        "summary": "A new treatment designed to improve emotional regulation in people with alcohol use disorder may help them drink less often. In a study of people receiving cognitive behavioral therapy (CBT) for alcohol use disorder, those who also received emotion regulation treatment had a greater percentage of nondrinking days. The ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 03 Aug 2026 15:40:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-emotion-therapy-problem-alcohol.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/alcohol.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Rare bone disease often goes untreated while patients quietly live with chronic pain",
+        "summary": "Teeth and bones are among the hardest structures in the human body, but certain inherited conditions can rob them of that strength. One of them is hypophosphatasia (HPP), a rare, lifelong genetic bone disorder that disrupts the development of bones and teeth, leaving them unusually soft and fragile. A recent study set ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 03 Aug 2026 15:20:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-rare-bone-disease-untreated-patients.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-bone-disease-ofte.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "NASA Brings Space Exploration to the FIFA World Cup",
+        "summary": "From June 11 through July 19,&#160;NASA’s&#160;free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.&#160;&#160; More than 500,000 visitors explored&#160;the&#160;exhibit during the tournament, learning how the agency’s missions, research, and technology benef",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 03 Aug 2026 13:55:32 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/5351c4093326812279f23026805ba7a9.webp",
+        "impact": 4
+      },
+      {
+        "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
+        "summary": "The upper stage of a SpaceX Falcon 9 rocket will slam into the moon early Wednesday morning (Aug. 5). Here's what put it on this kamikaze course.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 03 Aug 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/QmFiqBZHu7WDNcdMEYzwWZ-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
         "summary": "On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.",
         "category": "Space",
@@ -262,28 +284,6 @@
         "published_at": "Sat, 01 Aug 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/foAxUi8bhVQpbGxCr7HiNT-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX launches 24 Starlink satellites to orbit from California (photos)",
-        "summary": "A SpaceX Falcon 9 rocket launched 24 more of the company's Starlink internet satellites from California's central coast late on Friday night (July 31).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 01 Aug 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/V5t5pFBZvApqy58xvkRbVg-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA is sending 2 probes to the moon to test complex 'three-body orbits'",
-        "summary": "NASA is planning to send two maneuverable probes to lunar orbit in order to learn how spacecraft are affected by the complex gravity environment near the moon.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/cY23TEv4F9TZCPnYL3uyx3-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -357,47 +357,47 @@
         "impact": 5
       },
       {
-        "title": "Luxe Lakes CPI Island / Vari Architects",
-        "summary": "The Luxe Lakes CPI Island Commercial Renewal Project is a collection of villa models located on the east side of Luke Island in the \"Luxe Lakes Ecological City\" of Chengdu. More than 20 former Luxe Lakes Villa models have been located on the island. CPI Island needs a revitalized urban renewal and commercial iteration ",
+        "title": "The Martin Residential Building / OMA",
+        "summary": "Designed by OMA / David Gianotten and Mariano Sagasta, The Martin consists of four interlocking volumes and is defined by a layered, permeable facade with continuous balconies along its perimeter. It forms the latest addition to OMA's masterplan to transform the former Bijlmerbajes prison (1978–2016) into a sustainable",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sat, 01 Aug 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1018806/luxe-lakes-cpi-island-vari-architects",
-        "image_url": "https://images.adsttc.com/media/images/6696/14f3/c8b7/c801/7cdd/becb/large_jpg/luxe-lakes-cpi-island-vari-architects_8.jpg?1721111805",
+        "published_at": "Mon, 03 Aug 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181924/the-martin-residential-building-oma",
+        "image_url": "https://images.adsttc.com/media/images/6a6b/c809/0364/d201/89e9/7459/large_jpg/the-martin-oma_15.jpg?1785448690",
         "impact": 4
       },
       {
-        "title": "Sinuous form of Shenzhen Natural History Museum emulates \"a piece of landscape\"",
-        "summary": "Granite cloaks the sweeping form of Shenzhen Natural History Museum, completed in China by architecture studios 3XN, B+H Architects and Zhubo Design. Now officially open in the Pingshan District, the 100,000-square-metre building was planned as a new cultural landmark for Shenzhen. It is distinguished by its fluid form",
+        "title": "Museum of Art Pudong Presents \"Jean Nouvel: Without the Artist, Architecture Disappears\" in Shanghai",
+        "summary": "Museum of Art Pudong (MAP) in Shanghai is presenting \"Jean Nouvel: Without the Artist, Architecture Disappears\" until August 31, 2026. Marking the museum's fifth anniversary, the exhibition is dedicated to the work of Pritzker Prize laureate Jean Nouvel and represents the first time the French architect has staged a so",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 03 Aug 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1182085/museum-of-art-pudong-presents-jean-nouvel-without-the-artist-architecture-disappears-in-shanghai",
+        "image_url": "https://images.adsttc.com/media/images/6a70/694a/0364/d201/89e9/7ddb/large_jpg/museum-of-art-pudong-in-shanghai-presents-jean-nouvel-exhibition-exploring-five-decades-of-architectural-practice_13.jpg?1785751985",
+        "impact": 4
+      },
+      {
+        "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
+        "summary": "A glass-walled pavilion sandwiched between historic buildings is the leading feature of an Oregon art museum revamp, which was designed by US studios Hennebery Eddy Architects and Vinci Hamp Architects to improve the visitor experience. Spanning two urban blocks, the Portland Art Museum is located in the city's downtow",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
-        "published_at": "Tue, 28 Jul 2026 10:30:04 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
+        "published_at": "Mon, 03 Aug 2026 17:56:02 +0000",
+        "source_url": "https://www.dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "Gómez Platero proposes four skyscrapers at former site of the Miami Herald",
-        "summary": "Uruguay architecture studio Gómez Platero has proposed \"four irregularly shaped towers\" as part of mixed-use development on the Miami waterfront at the former site of the city's historic Miami Herald building. The Miami Bay Towers scheme by Gómez Platero is designed to fit into the rectangular waterfront site between H",
+        "title": "Data centre approved as part of Truman Brewery masterplan in east London",
+        "summary": "Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near Brick Lane in London have been approved. Planned for three sites in the east London neighbourhood, the Truman Brewery masterplan will comprise eight buildings designed by Buckley Gray Yeoman (BGY), alongside London-based",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
-        "published_at": "Fri, 24 Jul 2026 19:00:57 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/24/gomez-platero-miami-bay-towers-proposal/",
+        "published_at": "Mon, 03 Aug 2026 15:00:32 +0000",
+        "source_url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "ippolito pestellini laparelli and erica petrillo of 2050+ on ‘the parking lot that forgot itself’",
-        "summary": "in this designboom guest essay, 2050+ examines how informal sport and architecture can challenge surveillance, reclaim public space, and strengthen the urban commons. The post ippolito pestellini laparelli and erica petrillo of 2050+ on &#8216;the parking lot that forgot itself&#8217; appeared first on designboom | arc",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Sat, 01 Aug 2026 14:15:35 +0000",
-        "source_url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -425,30 +425,30 @@
         "impact": 4
       },
       {
-        "title": "How value engineering finetuned complex piling works around York’s new railway overbridge",
-        "summary": "Tricky ground conditions around a key railway overbridge in York have necessitated no less than 5,669 piles, but careful planning and value engineering meant this tally was far smaller than it might have been. The post How value engineering finetuned complex piling works around York&#8217;s new railway overbridge appea",
+        "title": "Construction’s warning lights are blinking. Most firms aren’t looking at the dashboard.",
+        "summary": "Climbing interest rates and high inflation have resulted in slowing demand despite the data center boom, writes a construction accountant.&nbsp;",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 31 Jul 2026 03:00:41 +0000",
-        "source_url": "https://www.newcivilengineer.com/in-depth/how-value-engineering-finetuned-complex-piling-works-around-yorks-new-railway-overbridge-31-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/skyfilming-sisk-york-august-2023-image-OBLIQUE-19-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 03 Aug 2026 09:07:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/constructions-warning-lights-firms-ignore/826747/",
+        "image_url": "https://imgproxy.divecdn.com/aiDC-ZtxZXfrKlOtxUoonZd-EkaL1JQhSz8PD39g8Yk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzgwNTI4NjYuanBn.webp",
+        "impact": 3
       },
       {
-        "title": "Carbon Capture and Cement: How carbon capture technology is decarbonising construction today",
-        "summary": "Concrete is the second most used material on earth, behind only water. With cement, the binder in concrete, generating as much as 8% of global CO2 emissions, decarbonising construction is hard. The post Carbon Capture and Cement: How carbon capture technology is decarbonising construction today appeared first on New Ci",
+        "title": "Type II helmets are changing construction safety. Here’s what North American contractors should know.",
+        "summary": "Type II safety helmets are reshaping construction head protection across North America.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 30 Jul 2026 15:54:18 +0000",
-        "source_url": "https://www.newcivilengineer.com/technology/carbon-capture-and-cement-how-carbon-capture-technology-is-decarbonising-construction-today-30-07-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/G9I3ypO4TWG7-p61lB6E9g-560x315.png",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 03 Aug 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/type-ii-helmets-are-changing-construction-safety-heres-what-north-america/826314/",
+        "image_url": "https://imgproxy.divecdn.com/IkdHlwDZewTG--qKmFbbR2dsKHFPokbTe-TgLiC7wkg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zdHVkc29uLXR5cGUtaWktc2FmZXR5LWhlbG1ldC1kdWFsLWNlcnRpZmllZC1jb25zdHJ1Y3Rpb25fNzEyN19wcm9jZXNzZWQuanBn.webp",
+        "impact": 3
       },
       {
-        "title": "FlatironDragados-Sukut JV lands $1.8B dam project",
-        "summary": "The construction team will upgrade the Anderson Dam in California, which is operating at limited capacity due to the threat of earthquakes.",
+        "title": "FlatironDragados-Sukut JV lands $1.8B California dam project",
+        "summary": "The construction team will upgrade the Anderson Dam near San Jose, which is operating at limited capacity due to seismic concerns.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -471,48 +471,48 @@
         "impact": 5
       },
       {
-        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+        "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+        "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI ag",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 29 Jul 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2Og4MpejHbFrNOgRBVvhTh/589eff3fad85c1992c0973594e76a949/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_SEO_CARD__1_.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.28629",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Advancing the price-performance frontier with GPT-5.6",
-        "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+        "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+        "summary": "arXiv:2607.28692v1 Announce Type: new Abstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits their applicability to open-world scientific",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 30 Jul 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3YlohIkWAmTKqtreNc2Qwt/1ba93da6a8cb574aa0b299277874dbac/Frame__3_.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.28692",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-        "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+        "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
+        "summary": "arXiv:2607.28942v1 Announce Type: new Abstract: Recently Large Language Models (LLMs) have been increasingly deployed as autonomous agents in applications such as self-reflection, retrieval-augmented generation, and scientific discovery. In these settings, agents must act based on limited observations rather than full ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 30 Jul 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/avatarin",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3fyGPrm9EzNjtYNlcxQmCJ/4f05bda009dafc919f2e8dc1463c5c81/avatarin-seo-contentful.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.28942",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+        "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+        "summary": "arXiv:2607.28956v1 Announce Type: new Abstract: Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-Term Coherence, the capacity to preserve purposeful behavior across exten",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 29 Jul 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2G2SR0DTkiabzzbrMZIW5Q/cb55c63d82440eaee372292302d5f2b3/academic-research-og.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2607.28956",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
