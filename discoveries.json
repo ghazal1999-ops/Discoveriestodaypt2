@@ -1,17 +1,28 @@
 {
-  "date": "2026-08-04",
-  "last_updated": "2026-08-04 00:06 UTC",
+  "date": "2026-08-05",
+  "last_updated": "2026-08-05 00:01 UTC",
   "categories": {
     "science": [
       {
-        "title": "Strange gamma rays could reveal how stars forge heavy elements",
-        "summary": "Scientists traced a mysterious surge of low-energy gamma rays from zinc-70 to magnetic changes occurring inside its nucleus. The breakthrough could improve models of how stars, supernovae, and neutron star mergers create heavy elements.",
+        "title": "Electrocatalytic method could purify wastewater by converting pollutants into recoverable polymers",
+        "summary": "Wastewater treatment is a critical issue for global environmental protection and public health. Researchers from The Hong Kong University of Science and Technology (HKUST) have recently achieved a major breakthrough with the discovery of a novel oxidant-free electrocatalytic mechanism, opening a new direction for water",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 31 Jul 2026 01:15:53 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/nuclear-physics-atomic-element.webp",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 04 Aug 2026 17:20:05 EDT",
+        "source_url": "https://phys.org/news/2026-08-electrocatalytic-method-purify-wastewater-pollutants.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkust-pioneers-novel-w.jpg",
+        "impact": 5
+      },
+      {
+        "title": "A temperature dial for more realistic quantum simulations",
+        "summary": "Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions.",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 04 Aug 2026 17:00:01 EDT",
+        "source_url": "https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-create-more.jpg",
         "impact": 5
       },
       {
@@ -26,6 +37,17 @@
         "impact": 4
       },
       {
+        "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
+        "summary": "Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective work, researchers discovered an 84.1-meter (276-foot) tree, the tallest known in East Asia. They also found dense “temples ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 03 Aug 2026 21:18:59 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/giant-forest-in-taiwan.webp",
+        "impact": 4
+      },
+      {
         "title": "Superheated magma may power towering lava fountains",
         "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as i",
         "category": "Science",
@@ -35,141 +57,119 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/lava-fountain-2021-tajogaite-eruption.webp",
         "impact": 4
-      },
-      {
-        "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
-        "summary": "Researchers have uncovered a possible biological pathway connecting obesity to Alzheimer’s disease. Obesity appears to raise levels of certain fat molecules that can travel to the brain, disrupt its immune defenses, and promote harmful amyloid buildup. Correcting this fat imbalance improved memory and brain function in",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 30 Jul 2026 22:52:57 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/obesity-and-brain.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists Discover the Brain May Enter a New Biological Phase Between 50 and 75",
-        "summary": "A single-cell study reveals major changes in immune cells, genome organization, and gene regulation within the aging human hippocampus, offering important insights into brain aging and dementias associated with age. Between roughly ages 50 and 75, the cellular landscape of the human hippocampus begins to shift. Immune ",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sun, 02 Aug 2026 20:03:00 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-the-brain-may-enter-a-new-biological-phase-between-50-and-75/",
-        "image_url": "https://scitechdaily.com/images/Human-Brain-Anatomy-X-ray-777x583.jpg",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "The Download: a chip talent battle, and deflating AI hype",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on t",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 29 Jul 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Defcon's new badge is a security key you can see inside",
-        "summary": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Sat, 01 Aug 2026 10:05:21 +0000",
-        "source_url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "The global memory shortage hits the MacBook Air",
-        "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+        "title": "Waymo opens up robotaxi service in Dallas to everyone",
+        "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sun, 02 Aug 2026 21:33:59 +0000",
-        "source_url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/macbook-air-2024-update.png?resize=1200,618",
-        "impact": 3
+        "published_at": "Tue, 04 Aug 2026 17:31:01 +0000",
+        "source_url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/waymo-robotaxi-fifth-gen.jpg?resize=1200,800",
+        "impact": 4
       },
       {
-        "title": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
-        "summary": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Mon, 03 Aug 2026 11:30:00 +0000",
-        "source_url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-        "image_url": "https://media.wired.com/photos/6a3221464e63d441b28e3620/191:100/w_1280,c_limit/The-Best-Robot-Lawn-Mowers.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Trump’s AI protectionism has come for robotics",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, ",
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and desp",
         "category": "Tech",
         "source": "technologyreview.com",
         "journal": "technologyreview.com",
-        "published_at": "Mon, 03 Aug 2026 18:43:30 +0000",
-        "source_url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+        "published_at": "Tue, 04 Aug 2026 12:14:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+        "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 04 Aug 2026 22:24:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/lucid-motors-gravity-11.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 04 Aug 2026 15:20:06 +0000",
+        "source_url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2171035708.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Now you can securely link multiple phones to one Signal account",
+        "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether [&#82",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-08-04T18:02:46-04:00",
+        "source_url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/acastro_STK459_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
-        "summary": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
+        "title": "Intratumoral Fusobacterium as a prognostic and predictive biomarker in resectable colorectal cancer",
+        "summary": "The first results from the multicenter FUSOMAP project, published in ESMO Open and led by VHIO's Molecular Oncology Group, show that the presence of intratumoral Fusobacterium in surgical tumor samples identifies a clinically more aggressive subtype of colorectal cancer (CRC), characterized by a weaker immune response,",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 04 Aug 2026 17:10:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-intratumoral-fusobacterium-prognostic-biomarker-resectable.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/intratumoral-fusobacte.jpg",
+        "impact": 5
+      },
+      {
+        "title": "New therapy shrinks tumors to treat lung cancer",
+        "summary": "The need for more effective lung cancer treatments is paramount, as the disease remains a leading cause of cancer deaths in the United States. New findings by a research team from the Stony Brook Cancer Center highlight a novel therapeutic shown to be highly effective in reducing non-small cell lung cancer (NSCLC) tumo",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 04 Aug 2026 18:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-therapy-tumors-lung-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-promise-of-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A common sugar may help cancer cells break free and spread",
+        "summary": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer progression, though the effects have not yet been confirmed in patients.",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Fri, 24 Jul 2026 07:29:04 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cash-money-with-ozempic-injection-pens.webp",
+        "published_at": "Tue, 04 Aug 2026 01:15:18 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223426.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
         "impact": 4
       },
       {
-        "title": "Are governments hungry to make healthy food retail policies stick?",
-        "summary": "The places we live, work, study and play are important locations for governments to improve population health by curbing unhealthy diets that cause preventable diseases and deaths. Think cafes in public hospitals, eateries in public-sector workplaces, canteens in public schools and food outlets in community sports cent",
+        "title": "Skin-like test models could help improve medical devices for people of all skin tones",
+        "summary": "Many medical devices and wearable health sensors work by shining light into the skin and measuring the signal that returns. These technologies are used in products ranging from pulse oximeters to fitness trackers. However, studies have shown that some optical devices can be less accurate for people with darker skin, ra",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 03 Aug 2026 20:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-07-hungry-healthy-food-retail-policies.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/food-shopping.jpg",
+        "published_at": "Tue, 04 Aug 2026 19:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-skin-medical-devices-people-tones.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/skin-like-test-models.jpg",
         "impact": 4
       },
       {
-        "title": "Blood marker tracks hidden progression in multiple sclerosis",
-        "summary": "Modern therapies have transformed care for people with multiple sclerosis (MS). Yet the disease continues to progress in a substantial proportion of patients, even in the absence of relapses. Detecting and treating this gradual worsening of disability remains one of the greatest challenges in MS care. Researchers from ",
+        "title": "Analysis finds patient letters from eye clinics often too difficult to read",
+        "summary": "Letters to patients from ophthalmology services—the highest-volume outpatient specialty in U.K. health care—include too much complex language and medical terminology that patients are likely to find hard to understand, according to an analysis of more than 4 million letters from one large hospital trust, published in t",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 03 Aug 2026 17:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-blood-marker-tracks-hidden-multiple.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/central-nervous-system.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Emotion regulation therapy may help reduce problem alcohol use",
-        "summary": "A new treatment designed to improve emotional regulation in people with alcohol use disorder may help them drink less often. In a study of people receiving cognitive behavioral therapy (CBT) for alcohol use disorder, those who also received emotion regulation treatment had a greater percentage of nondrinking days. The ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 03 Aug 2026 15:40:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-emotion-therapy-problem-alcohol.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/alcohol.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Rare bone disease often goes untreated while patients quietly live with chronic pain",
-        "summary": "Teeth and bones are among the hardest structures in the human body, but certain inherited conditions can rob them of that strength. One of them is hypophosphatasia (HPP), a rare, lifelong genetic bone disorder that disrupts the development of bones and teeth, leaving them unusually soft and fragile. A recent study set ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 03 Aug 2026 15:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-rare-bone-disease-untreated-patients.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-bone-disease-ofte.jpg",
+        "published_at": "Tue, 04 Aug 2026 18:30:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-analysis-patient-letters-eye-clinics.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/open-envelope.jpg",
         "impact": 4
       }
     ],
@@ -232,14 +232,36 @@
     ],
     "space": [
       {
-        "title": "NASA Brings Space Exploration to the FIFA World Cup",
-        "summary": "From June 11 through July 19,&#160;NASA’s&#160;free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.&#160;&#160; More than 500,000 visitors explored&#160;the&#160;exhibit during the tournament, learning how the agency’s missions, research, and technology benef",
+        "title": "SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video)",
+        "summary": "SpaceX launched 24 more of its Starlink internet satellites to low Earth orbit today (Aug. 4), on the 90th Falcon 9 rocket flight of 2026.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 03 Aug 2026 13:55:32 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/5351c4093326812279f23026805ba7a9.webp",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 04 Aug 2026 17:37:29 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Wd96q9kNwWgYEVADQKNaMV-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it?",
+        "summary": "While the impact itself probably won't be visible from Earth, observers may have a chance to spot a plume of debris rising above the lunar surface.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 04 Aug 2026 15:58:13 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/a-9-000-pound-spacex-rocket-will-crash-into-the-moon-tonight-will-you-be-able-to-see-it",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PQ5XxmkVX8Zh4YiQfgRBsA-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet",
+        "summary": "On Aug. 4, 2007, NASA launched its Phoenix Mars Lander on a mission to touch down in the Martian arctic for the first time. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 04 Aug 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/g4nsouaSULJ6tN7TiyFy8Y-1280-80.jpg",
         "impact": 4
       },
       {
@@ -262,28 +284,6 @@
         "published_at": "Sun, 02 Aug 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/TXL6H9fyGNSvKEuepNKi5Z-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Rocket issue delays 1st orbital rocket launch from the UK",
-        "summary": "While testing a rocket on the launch pad at the U.K.'s SaxaVord Spaceport, RFA found 'an issue with the vehicle that requires further investigation.'",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 02 Aug 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/oioWKLAiF9EjTCv7RfUzNP-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
-        "summary": "On Aug. 1, 1968, NASA canceled the production of its Saturn V moon rocket, one year before the historic Apollo 11 moon landing, spelling the end of the Apollo program due to budget concerns.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 01 Aug 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/foAxUi8bhVQpbGxCr7HiNT-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "A New Way to Map the Universe's Missing Matter",
+        "summary": "Brief but powerful flashes of radio waves are aiding astronomers' quest to find and map cosmic gas. The post A New Way to Map the Universe&#039;s Missing Matter appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Tue, 04 Aug 2026 13:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/astronomy-news/a-new-way-to-map-the-universes-missing-matter/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/MIT-FRB.jpg",
+        "impact": 4
+      },
+      {
         "title": "Wandering Supermassive Black Hole Found at the Edge of its Galaxy",
         "summary": "Astronomers have long thought supermassive black holes can escape their home galaxies — now they've found one roaming its host's galactic outskirts. The post Wandering Supermassive Black Hole Found at the Edge of its Galaxy appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -331,51 +342,18 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/wandering-supermassive-black-hole-found-at-the-edge-of-its-galaxy/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/stsci-h-p2019a-f-3000-jpg.jpeg",
         "impact": 4
-      },
-      {
-        "title": "Interstellar Travel: The Space Age and Nuclear Rockets",
-        "summary": "Given the state of our technology, it would take a spacecraft a ridiculously long time to reach even the nearest star in our galaxy. However, scientists continue to ponder ways in which we could achieve the dream of interstellar spaceflight. Here are a few of their best ideas.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 31 Jul 2026 23:45:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/interstellar-travel-the-space-age-and-nuclear-rockets",
-        "image_url": "https://www.universetoday.com/article_images/0_VF-zCn9kcI9ZnKN-_20260730_205755.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Resonancia Installation / PPAA",
-        "summary": "Logroño City Hall, designed by Rafael Moneo, was conceived as a fragment of the city rather than as an autonomous object. Its architecture not only houses a public institution but also defines an open urban space where collective life can unfold. The plaza extending in front of the building is an essential part of this",
+        "title": "Living in a Pyramid: 6 Projects Adapting a Classic Shape to Residential Design",
+        "summary": "While pyramidal geometry appears in monumental historical structures, its contemporary application remains limited. The primary constraint is the sloping envelope, which contracts the building's floor area as it ascends and reduces usable interior volume compared to orthogonal or cylindrical forms. However, from a stru",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 02 Aug 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181998/resonancia-ppaa",
-        "image_url": "https://images.adsttc.com/media/images/6a6c/a787/0364/d201/89e9/7811/large_jpg/resonancia-ppaa_14.jpg?1785505760",
-        "impact": 5
-      },
-      {
-        "title": "The Martin Residential Building / OMA",
-        "summary": "Designed by OMA / David Gianotten and Mariano Sagasta, The Martin consists of four interlocking volumes and is defined by a layered, permeable facade with continuous balconies along its perimeter. It forms the latest addition to OMA's masterplan to transform the former Bijlmerbajes prison (1978–2016) into a sustainable",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 03 Aug 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181924/the-martin-residential-building-oma",
-        "image_url": "https://images.adsttc.com/media/images/6a6b/c809/0364/d201/89e9/7459/large_jpg/the-martin-oma_15.jpg?1785448690",
-        "impact": 4
-      },
-      {
-        "title": "Museum of Art Pudong Presents \"Jean Nouvel: Without the Artist, Architecture Disappears\" in Shanghai",
-        "summary": "Museum of Art Pudong (MAP) in Shanghai is presenting \"Jean Nouvel: Without the Artist, Architecture Disappears\" until August 31, 2026. Marking the museum's fifth anniversary, the exhibition is dedicated to the work of Pritzker Prize laureate Jean Nouvel and represents the first time the French architect has staged a so",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 03 Aug 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1182085/museum-of-art-pudong-presents-jean-nouvel-without-the-artist-architecture-disappears-in-shanghai",
-        "image_url": "https://images.adsttc.com/media/images/6a70/694a/0364/d201/89e9/7ddb/large_jpg/museum-of-art-pudong-in-shanghai-presents-jean-nouvel-exhibition-exploring-five-decades-of-architectural-practice_13.jpg?1785751985",
+        "published_at": "Tue, 04 Aug 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181570/living-in-a-pyramid-6-projects-adapting-a-classic-shape-to-residential-design",
+        "image_url": "https://images.adsttc.com/media/images/6a62/6859/31d2/d001/8a22/8947/large_jpg/living-in-a-pyramid-6-projects-that-adapt-this-classic-shape-to-residential-design_9.jpg?1784834148",
         "impact": 4
       },
       {
@@ -399,6 +377,28 @@
         "source_url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
+      },
+      {
+        "title": "Sinuous form of Shenzhen Natural History Museum emulates \"a piece of landscape\"",
+        "summary": "Granite cloaks the sweeping form of Shenzhen Natural History Museum, completed in China by architecture studios 3XN, B+H Architects and Zhubo Design. Now officially open in the Pingshan District, the 100,000-square-metre building was planned as a new cultural landmark for Shenzhen. It is distinguished by its fluid form",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 28 Jul 2026 10:30:04 +0000",
+        "source_url": "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "ippolito pestellini laparelli and erica petrillo of 2050+ on ‘the parking lot that forgot itself’",
+        "summary": "in this designboom guest essay, 2050+ examines how informal sport and architecture can challenge surveillance, reclaim public space, and strengthen the urban commons. The post ippolito pestellini laparelli and erica petrillo of 2050+ on &#8216;the parking lot that forgot itself&#8217; appeared first on designboom | arc",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Sat, 01 Aug 2026 14:15:35 +0000",
+        "source_url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-1200.jpg",
+        "impact": 4
       }
     ],
     "construction": [
@@ -421,40 +421,40 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/06/23/procore_enr_ph_article2_image.webp?crop=true&height=257&t=1782244365&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/07/23/procore_enr_ph_article3_image.webp?crop=true&height=257&t=1784827204&width=420",
         "impact": 4
       },
       {
-        "title": "Construction’s warning lights are blinking. Most firms aren’t looking at the dashboard.",
-        "summary": "Climbing interest rates and high inflation have resulted in slowing demand despite the data center boom, writes a construction accountant.&nbsp;",
+        "title": "Barhale to deliver £18M Walton-on-the-Naze stormwater resilience scheme",
+        "summary": "Civil engineering and infrastructure firm Barhale has been appointed to deliver an £18M stormwater management scheme at Walton-on-the-Naze, Essex, that will provide additional protection to the Essex coast during severe weather conditions. The post Barhale to deliver £18M Walton-on-the-Naze stormwater resilience scheme",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 04 Aug 2026 08:53:25 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/barhale-to-deliver-18m-walton-on-the-naze-stormwater-resilience-scheme-04-08-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/08/Walton-on-the-Naze-1-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Construction job openings rose in June as contractors felt staffing woes",
+        "summary": "For the third straight month, the Bureau of Labor Statistics reported higher year-over-year job vacancies. Paired with other recent data, that may not mean higher project demand.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 03 Aug 2026 09:07:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/constructions-warning-lights-firms-ignore/826747/",
-        "image_url": "https://imgproxy.divecdn.com/aiDC-ZtxZXfrKlOtxUoonZd-EkaL1JQhSz8PD39g8Yk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzgwNTI4NjYuanBn.webp",
+        "published_at": "Tue, 04 Aug 2026 13:20:14 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-job-openings-june-2026/826968/",
+        "image_url": "https://imgproxy.divecdn.com/G-RxvdXkRhuNq6VWvnHpfzXiUI3YjEMCzUP1Y_-k99U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxOTk3ODEyLmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "Type II helmets are changing construction safety. Here’s what North American contractors should know.",
-        "summary": "Type II safety helmets are reshaping construction head protection across North America.",
+        "title": "Cadiz contracts 2 builders for $403M Southern California water pipeline",
+        "summary": "W.M. Lyles and Mike Bubalo Construction will convert a 220-mile natural gas structure to water conveyance for communities in San Bernardino County via the firm's Northern Pipeline.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 03 Aug 2026 05:00:00 -0400",
-        "source_url": "https://www.constructiondive.com/spons/type-ii-helmets-are-changing-construction-safety-heres-what-north-america/826314/",
-        "image_url": "https://imgproxy.divecdn.com/IkdHlwDZewTG--qKmFbbR2dsKHFPokbTe-TgLiC7wkg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zdHVkc29uLXR5cGUtaWktc2FmZXR5LWhlbG1ldC1kdWFsLWNlcnRpZmllZC1jb25zdHJ1Y3Rpb25fNzEyN19wcm9jZXNzZWQuanBn.webp",
-        "impact": 3
-      },
-      {
-        "title": "FlatironDragados-Sukut JV lands $1.8B California dam project",
-        "summary": "The construction team will upgrade the Anderson Dam near San Jose, which is operating at limited capacity due to seismic concerns.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 31 Jul 2026 12:19:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/flatiron-dragados-sukut-jv-anderson-dam-project/826724/",
-        "image_url": "https://imgproxy.divecdn.com/SlcN8HuXgrBmLC8PPfqLNONJwZGdnqrnUq55gwevCl4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV9BbmRlcnNvbl9kYW1fYW5kX3R1bm5lbF9hZXJpYWxfQ09QWS5qcGVn.webp",
+        "published_at": "Tue, 04 Aug 2026 13:17:24 -0400",
+        "source_url": "https://www.constructiondive.com/news/cadiz-northern-pipeline-construction-contracts/826959/",
+        "image_url": "https://imgproxy.divecdn.com/3zx4NYhhqCGQnpeTQzVeSG5Yy1BUODBVSxKfu-388hM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEyNDA1NjcwX2MzWXkydUYuanBn.webp",
         "impact": 3
       }
     ],
@@ -471,46 +471,46 @@
         "impact": 5
       },
       {
-        "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-        "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI ag",
+        "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
+        "summary": "arXiv:2608.00003v1 Announce Type: new Abstract: Computational Fluid Dynamics (CFD) plays an important role in modern engineering, but using open-source solvers such as OpenFOAM requires considerable knowledge and skills, as well as time-consuming configuration file setup. To reduce this burden, we propose AutoFOAM - a ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.28629",
+        "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.00003",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
-        "summary": "arXiv:2607.28692v1 Announce Type: new Abstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits their applicability to open-world scientific",
+        "title": "Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process",
+        "summary": "arXiv:2608.00015v1 Announce Type: new Abstract: Both optimization modeling and constraint modeling are non-trivial problems requiring deep domain expertise and proficiency in modeling formalism languages. Despite their importance across logistics, healthcare, and supply chain management, current large language models r",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.28692",
+        "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.00015",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
-        "summary": "arXiv:2607.28942v1 Announce Type: new Abstract: Recently Large Language Models (LLMs) have been increasingly deployed as autonomous agents in applications such as self-reflection, retrieval-augmented generation, and scientific discovery. In these settings, agents must act based on limited observations rather than full ",
+        "title": "Memory Reward Inflation in Self-Improving LLM Agents",
+        "summary": "arXiv:2608.00017v1 Announce Type: new Abstract: Self-improving LLM agents increasingly learn from experience without updating any weights. Each episode is stored in an external memory, scored, and retrieved for similar future tasks to shape later behavior. Viewed through a reward lens, the stored score is a proxy rewar",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.28942",
+        "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.00017",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
-        "summary": "arXiv:2607.28956v1 Announce Type: new Abstract: Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-Term Coherence, the capacity to preserve purposeful behavior across exten",
+        "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+        "summary": "arXiv:2608.00101v1 Announce Type: new Abstract: AI coding agents like GitHub Copilot, Claude Code, and Codex interleave multi-step LLM inference with tool execution, creating a workload different from chatbots. We present the first production-scale characterization of this workload using sampled GitHub Copilot traces f",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2607.28956",
+        "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.00101",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
