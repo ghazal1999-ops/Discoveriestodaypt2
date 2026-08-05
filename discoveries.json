@@ -1,29 +1,29 @@
 {
   "date": "2026-08-05",
-  "last_updated": "2026-08-05 00:01 UTC",
+  "last_updated": "2026-08-05 23:58 UTC",
   "categories": {
     "science": [
       {
-        "title": "Electrocatalytic method could purify wastewater by converting pollutants into recoverable polymers",
-        "summary": "Wastewater treatment is a critical issue for global environmental protection and public health. Researchers from The Hong Kong University of Science and Technology (HKUST) have recently achieved a major breakthrough with the discovery of a novel oxidant-free electrocatalytic mechanism, opening a new direction for water",
+        "title": "A colossal magma system has been hiding beneath Tuscany",
+        "summary": "A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrations recorded by dozens of seismic sensors. It poses no immediate danger, but the discovery reveals how enormous volcanic",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Tue, 04 Aug 2026 17:20:05 EDT",
-        "source_url": "https://phys.org/news/2026-08-electrocatalytic-method-purify-wastewater-pollutants.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkust-pioneers-novel-w.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 05 Aug 2026 05:19:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/deep-volcanic-magma-flow.webp",
+        "impact": 4
       },
       {
-        "title": "A temperature dial for more realistic quantum simulations",
-        "summary": "Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions.",
+        "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
+        "summary": "Stanford researchers discovered immune cells in flatworms that explode within minutes, killing nearby bacteria and foreign cells before vanishing completely. Their unusually fast and localized attack could offer clues for developing targeted treatments against infections and cancer.",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Tue, 04 Aug 2026 17:00:01 EDT",
-        "source_url": "https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-create-more.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 05 Aug 2026 01:10:52 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/immune-cell-exploding.webp",
+        "impact": 4
       },
       {
         "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
@@ -61,18 +61,18 @@
     ],
     "tech": [
       {
-        "title": "Waymo opens up robotaxi service in Dallas to everyone",
-        "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
+        "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+        "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 04 Aug 2026 17:31:01 +0000",
-        "source_url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/waymo-robotaxi-fifth-gen.jpg?resize=1200,800",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Wed, 05 Aug 2026 16:00:00 +0000",
+        "source_url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+        "image_url": "https://media.wired.com/photos/6a731599a89f1c896d22f70e/191:100/w_1280,c_limit/Discovery%20Loop%20-%20Founders%202.jpg",
         "impact": 4
       },
       {
-        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "title": "The Download: US robot restrictions and ICE’s DNA grab",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and desp",
         "category": "Tech",
         "source": "technologyreview.com",
@@ -83,60 +83,60 @@
         "impact": 4
       },
       {
-        "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-        "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+        "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+        "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 04 Aug 2026 22:24:00 +0000",
-        "source_url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/lucid-motors-gravity-11.jpg?resize=1200,800",
+        "published_at": "Wed, 05 Aug 2026 21:26:40 +0000",
+        "source_url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-        "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 04 Aug 2026 15:20:06 +0000",
-        "source_url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2171035708.jpg?resize=1200,800",
+        "published_at": "Wed, 05 Aug 2026 21:21:28 +0000",
+        "source_url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Now you can securely link multiple phones to one Signal account",
-        "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether [&#82",
+        "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+        "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-08-04T18:02:46-04:00",
-        "source_url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/acastro_STK459_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 05 Aug 2026 20:50:45 +0000",
+        "source_url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=706",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Intratumoral Fusobacterium as a prognostic and predictive biomarker in resectable colorectal cancer",
-        "summary": "The first results from the multicenter FUSOMAP project, published in ESMO Open and led by VHIO's Molecular Oncology Group, show that the presence of intratumoral Fusobacterium in surgical tumor samples identifies a clinically more aggressive subtype of colorectal cancer (CRC), characterized by a weaker immune response,",
+        "title": "GLP-1 drug linked to heart benefits for high-risk patients",
+        "summary": "Adding the GLP-1 receptor agonist drug tirzepatide (marketed as Mounjaro) to standard care for patients with type 2 diabetes and heart disease is associated with a lower risk of a major cardiovascular event, such as a heart attack or stroke, finds a study published by The BMJ today.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 04 Aug 2026 17:10:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-intratumoral-fusobacterium-prognostic-biomarker-resectable.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/intratumoral-fusobacte.jpg",
-        "impact": 5
+        "published_at": "Wed, 05 Aug 2026 18:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-glp-drug-linked-heart-benefits.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg",
+        "impact": 4
       },
       {
-        "title": "New therapy shrinks tumors to treat lung cancer",
-        "summary": "The need for more effective lung cancer treatments is paramount, as the disease remains a leading cause of cancer deaths in the United States. New findings by a research team from the Stony Brook Cancer Center highlight a novel therapeutic shown to be highly effective in reducing non-small cell lung cancer (NSCLC) tumo",
+        "title": "Azithromycin shows lower COPD flare-up rates over one year than roflumilast",
+        "summary": "Multiple treatments are available for chronic obstructive pulmonary disease (COPD), but identifying which regimen best matches an individual patient's needs remains one of the biggest challenges in care. A new study from researchers at UCLA Health compares two treatment options aimed at preventing exacerbations in pati",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 04 Aug 2026 18:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-therapy-tumors-lung-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-promise-of-1.jpg",
+        "published_at": "Wed, 05 Aug 2026 16:40:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-azithromycin-copd-flare-year-roflumilast.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/copd.jpg",
         "impact": 4
       },
       {
@@ -151,25 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Skin-like test models could help improve medical devices for people of all skin tones",
-        "summary": "Many medical devices and wearable health sensors work by shining light into the skin and measuring the signal that returns. These technologies are used in products ranging from pulse oximeters to fitness trackers. However, studies have shown that some optical devices can be less accurate for people with darker skin, ra",
+        "title": "New psychedelic candidate may spare the gut while still healing the brain",
+        "summary": "Psychedelic drugs are best known for altering perception and producing vivid hallucinations, but scientists are increasingly interested in what else they might do. A growing body of research suggests that these mind-altering substances could hold real promise as treatments for mental health conditions like depression, ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 04 Aug 2026 19:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-skin-medical-devices-people-tones.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/skin-like-test-models.jpg",
+        "published_at": "Wed, 05 Aug 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-psychedelic-candidate-gut-brain.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-engineer-a-3.jpg",
         "impact": 4
       },
       {
-        "title": "Analysis finds patient letters from eye clinics often too difficult to read",
-        "summary": "Letters to patients from ophthalmology services—the highest-volume outpatient specialty in U.K. health care—include too much complex language and medical terminology that patients are likely to find hard to understand, according to an analysis of more than 4 million letters from one large hospital trust, published in t",
+        "title": "Study points to a link between hypothyroidism and sleep apnea",
+        "summary": "According to a study conducted in Brazil by researchers at the Federal University of São Paulo (UNIFESP) with participants from the São Paulo Epidemiological Sleep Study (EPISONO 2018), people with hypothyroidism experience more frequent and severe obstructive sleep apnea (OSA). The results also indicated that patients",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 04 Aug 2026 18:30:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-analysis-patient-letters-eye-clinics.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/open-envelope.jpg",
+        "published_at": "Wed, 05 Aug 2026 16:20:11 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-link-hypothyroidism-apnea.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-points-to-a-link.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,39 @@
     ],
     "space": [
       {
+        "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
+        "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from t",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 04 Aug 2026 20:00:14 +0000",
+        "source_url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg",
+        "impact": 5
+      },
+      {
+        "title": "A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site",
+        "summary": "Early this morning, a SpaceX rocket slammed into the moon at seven times the speed of sound. Now, lunar orbiters are trying to get a look at the aftermath.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 05 Aug 2026 17:43:30 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/mkNi4yVYAZHLoKR8qDsACg-1280-80.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA’s Perseverance Captures Phobos and Earth",
+        "summary": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is th",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Wed, 05 Aug 2026 15:28:03 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26758/PIA26758.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "impact": 4
+      },
+      {
         "title": "SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video)",
         "summary": "SpaceX launched 24 more of its Starlink internet satellites to low Earth orbit today (Aug. 4), on the 90th Falcon 9 rocket flight of 2026.",
         "category": "Space",
@@ -251,39 +284,6 @@
         "published_at": "Tue, 04 Aug 2026 15:58:13 +0000",
         "source_url": "https://www.space.com/astronomy/moon/a-9-000-pound-spacex-rocket-will-crash-into-the-moon-tonight-will-you-be-able-to-see-it",
         "image_url": "https://cdn.mos.cms.futurecdn.net/PQ5XxmkVX8Zh4YiQfgRBsA-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet",
-        "summary": "On Aug. 4, 2007, NASA launched its Phoenix Mars Lander on a mission to touch down in the Martian arctic for the first time. Here's why it mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 04 Aug 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/g4nsouaSULJ6tN7TiyFy8Y-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
-        "summary": "The upper stage of a SpaceX Falcon 9 rocket will slam into the moon early Wednesday morning (Aug. 5). Here's what put it on this kamikaze course.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 03 Aug 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/QmFiqBZHu7WDNcdMEYzwWZ-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
-        "summary": "On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 02 Aug 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/TXL6H9fyGNSvKEuepNKi5Z-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -333,29 +333,18 @@
         "impact": 4
       },
       {
-        "title": "Wandering Supermassive Black Hole Found at the Edge of its Galaxy",
-        "summary": "Astronomers have long thought supermassive black holes can escape their home galaxies — now they've found one roaming its host's galactic outskirts. The post Wandering Supermassive Black Hole Found at the Edge of its Galaxy appeared first on Sky &amp; Telescope.",
+        "title": "Interstellar Travel: The Space Age and Nuclear Rockets",
+        "summary": "Given the state of our technology, it would take a spacecraft a ridiculously long time to reach even the nearest star in our galaxy. However, scientists continue to ponder ways in which we could achieve the dream of interstellar spaceflight. Here are a few of their best ideas.",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Thu, 30 Jul 2026 12:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/wandering-supermassive-black-hole-found-at-the-edge-of-its-galaxy/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/stsci-h-p2019a-f-3000-jpg.jpeg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 31 Jul 2026 23:45:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/interstellar-travel-the-space-age-and-nuclear-rockets",
+        "image_url": "https://www.universetoday.com/article_images/0_VF-zCn9kcI9ZnKN-_20260730_205755.jpg",
         "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "Living in a Pyramid: 6 Projects Adapting a Classic Shape to Residential Design",
-        "summary": "While pyramidal geometry appears in monumental historical structures, its contemporary application remains limited. The primary constraint is the sloping envelope, which contracts the building's floor area as it ascends and reduces usable interior volume compared to orthogonal or cylindrical forms. However, from a stru",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 04 Aug 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181570/living-in-a-pyramid-6-projects-adapting-a-classic-shape-to-residential-design",
-        "image_url": "https://images.adsttc.com/media/images/6a62/6859/31d2/d001/8a22/8947/large_jpg/living-in-a-pyramid-6-projects-that-adapt-this-classic-shape-to-residential-design_9.jpg?1784834148",
-        "impact": 4
-      },
       {
         "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
         "summary": "A glass-walled pavilion sandwiched between historic buildings is the leading feature of an Oregon art museum revamp, which was designed by US studios Hennebery Eddy Architects and Vinci Hamp Architects to improve the visitor experience. Spanning two urban blocks, the Portland Art Museum is located in the city's downtow",
@@ -390,14 +379,25 @@
         "impact": 4
       },
       {
-        "title": "ippolito pestellini laparelli and erica petrillo of 2050+ on ‘the parking lot that forgot itself’",
-        "summary": "in this designboom guest essay, 2050+ examines how informal sport and architecture can challenge surveillance, reclaim public space, and strengthen the urban commons. The post ippolito pestellini laparelli and erica petrillo of 2050+ on &#8216;the parking lot that forgot itself&#8217; appeared first on designboom | arc",
+        "title": "MVRDV brings its vertical village concept to shenzhen with mixed-use cultural hub",
+        "summary": "the mixed-use cultural center revisits a fifteen-year-old urban idea, breaking a conventional commercial complex into a stack of individually scaled volumes. The post MVRDV brings its vertical village concept to shenzhen with mixed-use cultural hub appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
         "source": "designboom.com",
         "journal": "designboom.com",
-        "published_at": "Sat, 01 Aug 2026 14:15:35 +0000",
-        "source_url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-1200.jpg",
+        "published_at": "Wed, 05 Aug 2026 10:35:32 +0000",
+        "source_url": "https://www.designboom.com/architecture/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub-designboom-1200.jpg",
+        "impact": 4
+      },
+      {
+        "title": "TraMod AWARDS 2026 | The Fourth Year | The World's First International Award on Interactions between Tradition & Modernity in Architecture & Design",
+        "summary": "TraMod AWARDS 2026 | The Fourth YearThe World`s First International Award on Interactions betweenTradition &amp; Modernityin Architecture &amp; Design CALL FOR SUBMISSIONS! | OPEN NOWAfter three years, TraMod ACADEMY, the world's first international academy for studying interactions between tradition and modernity in a",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 05 Aug 2026 09:20:00 +0000",
+        "source_url": "https://www.archdaily.com/1182267/tramod-awards-2026-the-fourth-year-the-worlds-first-international-award-on-interactions-between-tradition-and-modernity-in-architecture-and-design",
+        "image_url": "https://images.adsttc.com/media/images/6a73/35d0/5b21/b900/0199/2f05/large_jpg/01_TraMod_AWARDS_2026_CALL_FOR_SUBMISSIONS.jpg?1785935321",
         "impact": 4
       }
     ],
@@ -425,15 +425,26 @@
         "impact": 4
       },
       {
-        "title": "Barhale to deliver £18M Walton-on-the-Naze stormwater resilience scheme",
-        "summary": "Civil engineering and infrastructure firm Barhale has been appointed to deliver an £18M stormwater management scheme at Walton-on-the-Naze, Essex, that will provide additional protection to the Essex coast during severe weather conditions. The post Barhale to deliver £18M Walton-on-the-Naze stormwater resilience scheme",
+        "title": "‘Trust but verify:’ How Novo Construction compares drawing packages with AI",
+        "summary": "Colin Stoner, chief information officer for Novo Construction, describes the time saved in comparing drawings, traditionally a tedious process, with a new tool.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 04 Aug 2026 08:53:25 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/barhale-to-deliver-18m-walton-on-the-naze-stormwater-resilience-scheme-04-08-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/08/Walton-on-the-Naze-1-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 05 Aug 2026 12:30:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/novo-construction-buildcheck-drawing-diffs-ai/826758/",
+        "image_url": "https://imgproxy.divecdn.com/rZJeHimmSeOyLV_2rrtlv4tW3WZCVHNvy7R4knE_AGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODA1NzMzOTQ5X1ZaT2FrVjEuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "NYC DOB wraps first wave of construction safety sweeps after partial collapse in July",
+        "summary": "After inspecting 180 jobsites, the agency found no immediate public safety concerns, nor evidence that the East 42nd Street failure was &ldquo;inherent to office-to-residential conversion projects.&rdquo;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 05 Aug 2026 10:14:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/nyc-dob-wraps-safety-sweep-buildings-collapse-office-residential/827062/",
+        "image_url": "https://imgproxy.divecdn.com/wPBKgEUSsrUnUK_hEejh0C6aZ39DVBg768nBwdj6VJE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg1OTM3MDMwLmpwZw==.webp",
+        "impact": 3
       },
       {
         "title": "Construction job openings rose in June as contractors felt staffing woes",
@@ -444,17 +455,6 @@
         "published_at": "Tue, 04 Aug 2026 13:20:14 -0400",
         "source_url": "https://www.constructiondive.com/news/construction-job-openings-june-2026/826968/",
         "image_url": "https://imgproxy.divecdn.com/G-RxvdXkRhuNq6VWvnHpfzXiUI3YjEMCzUP1Y_-k99U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxOTk3ODEyLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Cadiz contracts 2 builders for $403M Southern California water pipeline",
-        "summary": "W.M. Lyles and Mike Bubalo Construction will convert a 220-mile natural gas structure to water conveyance for communities in San Bernardino County via the firm's Northern Pipeline.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 04 Aug 2026 13:17:24 -0400",
-        "source_url": "https://www.constructiondive.com/news/cadiz-northern-pipeline-construction-contracts/826959/",
-        "image_url": "https://imgproxy.divecdn.com/3zx4NYhhqCGQnpeTQzVeSG5Yy1BUODBVSxKfu-388hM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEyNDA1NjcwX2MzWXkydUYuanBn.webp",
         "impact": 3
       }
     ],
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+        "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.00003",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+        "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.00015",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+        "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.00017",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+        "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.00101",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
