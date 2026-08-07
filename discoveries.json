@@ -1,8 +1,30 @@
 {
-  "date": "2026-08-05",
-  "last_updated": "2026-08-05 23:58 UTC",
+  "date": "2026-08-07",
+  "last_updated": "2026-08-07 01:43 UTC",
   "categories": {
     "science": [
+      {
+        "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+        "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 06 Aug 2026 05:50:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/male-anatomy-spinal-column-backbone.webp",
+        "impact": 5
+      },
+      {
+        "title": "Forget the sperm race: Fertilization may depend on teamwork",
+        "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged and vanished over hundreds of millions of years. The discovery challenges the classic “fastest sperm ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 06 Aug 2026 02:25:07 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/sperm-and-egg-cell-natural-fertilization.webp",
+        "impact": 5
+      },
       {
         "title": "A colossal magma system has been hiding beneath Tuscany",
         "summary": "A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrations recorded by dozens of seismic sensors. It poses no immediate danger, but the discovery reveals how enormous volcanic",
@@ -35,42 +57,9 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/human-hippocampus-neurons-alzheimers-disease-brain-dementia.webp",
         "impact": 4
-      },
-      {
-        "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
-        "summary": "Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective work, researchers discovered an 84.1-meter (276-foot) tree, the tallest known in East Asia. They also found dense “temples ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 03 Aug 2026 21:18:59 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/giant-forest-in-taiwan.webp",
-        "impact": 4
-      },
-      {
-        "title": "Superheated magma may power towering lava fountains",
-        "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as i",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 01 Aug 2026 02:38:28 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/lava-fountain-2021-tajogaite-eruption.webp",
-        "impact": 4
       }
     ],
     "tech": [
-      {
-        "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-        "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Wed, 05 Aug 2026 16:00:00 +0000",
-        "source_url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-        "image_url": "https://media.wired.com/photos/6a731599a89f1c896d22f70e/191:100/w_1280,c_limit/Discovery%20Loop%20-%20Founders%202.jpg",
-        "impact": 4
-      },
       {
         "title": "The Download: US robot restrictions and ICE’s DNA grab",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and desp",
@@ -83,62 +72,51 @@
         "impact": 4
       },
       {
-        "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-        "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 05 Aug 2026 21:26:40 +0000",
-        "source_url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+        "published_at": "Thu, 06 Aug 2026 22:43:53 +0000",
+        "source_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
         "impact": 3
       },
       {
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
+        "summary": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 05 Aug 2026 21:21:28 +0000",
-        "source_url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+        "published_at": "Thu, 06 Aug 2026 15:21:51 +0000",
+        "source_url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-        "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+        "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+        "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 05 Aug 2026 20:50:45 +0000",
-        "source_url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=706",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-08-06T16:55:39-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6%2C28.565551073632%2C78.4%2C61.586077147559&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Suno shares plans to combat spammy AI music",
+        "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is roll",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-08-06T13:39:43-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "GLP-1 drug linked to heart benefits for high-risk patients",
-        "summary": "Adding the GLP-1 receptor agonist drug tirzepatide (marketed as Mounjaro) to standard care for patients with type 2 diabetes and heart disease is associated with a lower risk of a major cardiovascular event, such as a heart attack or stroke, finds a study published by The BMJ today.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 05 Aug 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-glp-drug-linked-heart-benefits.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Azithromycin shows lower COPD flare-up rates over one year than roflumilast",
-        "summary": "Multiple treatments are available for chronic obstructive pulmonary disease (COPD), but identifying which regimen best matches an individual patient's needs remains one of the biggest challenges in care. A new study from researchers at UCLA Health compares two treatment options aimed at preventing exacerbations in pati",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 05 Aug 2026 16:40:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-azithromycin-copd-flare-year-roflumilast.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/copd.jpg",
-        "impact": 4
-      },
       {
         "title": "A common sugar may help cancer cells break free and spread",
         "summary": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer progression, though the effects have not yet been confirmed in patients.",
@@ -151,25 +129,47 @@
         "impact": 4
       },
       {
-        "title": "New psychedelic candidate may spare the gut while still healing the brain",
-        "summary": "Psychedelic drugs are best known for altering perception and producing vivid hallucinations, but scientists are increasingly interested in what else they might do. A growing body of research suggests that these mind-altering substances could hold real promise as treatments for mental health conditions like depression, ",
+        "title": "Gene mutations behind serious bone marrow conditions identified",
+        "summary": "Inherited bone marrow failure syndrome, or IBMFS, describes a group of disorders in which inherited genetic abnormalities impair the bone marrow's ability to produce sufficient healthy blood cells. Patients with these disorders are also at increased risk of developing myelodysplastic syndromes—MDS—a group of blood canc",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 05 Aug 2026 17:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-psychedelic-candidate-gut-brain.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-engineer-a-3.jpg",
+        "published_at": "Thu, 06 Aug 2026 20:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-gene-mutations-bone-marrow-conditions.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-gene-mutations-beh.jpg",
         "impact": 4
       },
       {
-        "title": "Study points to a link between hypothyroidism and sleep apnea",
-        "summary": "According to a study conducted in Brazil by researchers at the Federal University of São Paulo (UNIFESP) with participants from the São Paulo Epidemiological Sleep Study (EPISONO 2018), people with hypothyroidism experience more frequent and severe obstructive sleep apnea (OSA). The results also indicated that patients",
+        "title": "Immune-inspired public health strategy improves detection of disease-carrying insects",
+        "summary": "A disease surveillance strategy modeled on the body's immune system detected more disease-carrying insects than the traditional top-down approach, according to a study led by researchers from the Perelman School of Medicine at the University of Pennsylvania and the Universidad Peruana Cayetano Heredia in Peru.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 05 Aug 2026 16:20:11 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-link-hypothyroidism-apnea.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-points-to-a-link.jpg",
+        "published_at": "Thu, 06 Aug 2026 18:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-immune-health-strategy-disease-insects.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-immune-system-for-a.jpg",
+        "impact": 4
+      },
+      {
+        "title": "FDA approves first drug for full range of narcolepsy symptoms",
+        "summary": "The U.S. Food and Drug Administration has approved Orzeyful (oveporexton) tablets to treat narcolepsy type 1 in adults. Orzeyful marks the first medication approved for the full range of symptoms associated with narcolepsy type 1 and is the first approved drug to directly target the loss of orexin signaling that causes",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 06 Aug 2026 18:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-fda-drug-full-range-narcolepsy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fda-approves-first-dru.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+        "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug ",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 06 Aug 2026 05:50:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/male-anatomy-spinal-column-backbone.webp",
         "impact": 4
       }
     ],
@@ -232,14 +232,25 @@
     ],
     "space": [
       {
-        "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
-        "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from t",
+        "title": "I Am Artemis: Tom Percy",
+        "summary": "As NASA sets its sights on long-term exploration of the Moon and Mars, the agency is increasing the cadence of its Artemis missions. Helping bring these plans to fruition is Tom Percy, manager of systems engineering and integration for NASA’s Human Landing System Program. Percy serves as a focal point in working with p",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Tue, 04 Aug 2026 20:00:14 +0000",
-        "source_url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg",
+        "published_at": "Thu, 06 Aug 2026 16:35:51 +0000",
+        "source_url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/ceb-8192.jpg",
+        "impact": 5
+      },
+      {
+        "title": "SpaceX rocket's impact crater on the moon spied by Korean lunar orbiter (photos)",
+        "summary": "South Korea's Danuri lunar orbiter has spied the crater that a SpaceX rocket blasted out when it slammed into the moon on Wednesday morning (Aug. 5).",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 06 Aug 2026 15:24:47 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/spacex-rockets-impact-crater-on-the-moon-spied-by-korean-lunar-orbiter-photos",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/EiFsUah8tAvuzZqzwiuaTF-1280-80.jpg",
         "impact": 5
       },
       {
@@ -254,36 +265,25 @@
         "impact": 5
       },
       {
-        "title": "NASA’s Perseverance Captures Phobos and Earth",
-        "summary": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is th",
+        "title": "Taking Flight to Prepare for Space",
+        "summary": "NASA astronaut Adam Fuhrmann (right, in yellow) prepares for a training flight aboard NASA’s WB-57 aircraft in this July 16, 2026, photo. These high-altitude flights train the crew to work in a tight environment and operate aircraft systems while in a pressure suit, preparing them for future missions to the Internation",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Wed, 05 Aug 2026 15:28:03 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26758/PIA26758.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 06 Aug 2026 15:15:37 +0000",
+        "source_url": "https://www.nasa.gov/image-article/taking-flight-to-prepare-for-space/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg",
         "impact": 4
       },
       {
-        "title": "SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video)",
-        "summary": "SpaceX launched 24 more of its Starlink internet satellites to low Earth orbit today (Aug. 4), on the 90th Falcon 9 rocket flight of 2026.",
+        "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
+        "summary": "On Aug. 6, 2012, NASA's Curiosity rover successfully touched down on the Martian surface in a way never attempted before: a rocket-powered sky crane. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Tue, 04 Aug 2026 17:37:29 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Wd96q9kNwWgYEVADQKNaMV-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it?",
-        "summary": "While the impact itself probably won't be visible from Earth, observers may have a chance to spot a plume of debris rising above the lunar surface.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 04 Aug 2026 15:58:13 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/a-9-000-pound-spacex-rocket-will-crash-into-the-moon-tonight-will-you-be-able-to-see-it",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/PQ5XxmkVX8Zh4YiQfgRBsA-1280-80.jpg",
+        "published_at": "Thu, 06 Aug 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/xDe5VhDVboNSqS9DFUN7FZ-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "All I Need for a Night of Stargazing Is...",
+        "summary": "All you really need for stargazing is your eyes and dark skies . . . right? The post All I Need for a Night of Stargazing Is... appeared first on Sky &amp; Telescope.",
+        "category": "Astronomy",
+        "source": "skyandtelescope.org",
+        "journal": "skyandtelescope.org",
+        "published_at": "Thu, 06 Aug 2026 12:00:00 +0000",
+        "source_url": "https://skyandtelescope.org/uncategorized/all-i-need-for-a-night-of-stargazing/",
+        "image_url": "https://dq0hsqwjhea1.cloudfront.net/15004138761_8cb93e148a_c.jpg",
+        "impact": 4
+      },
+      {
         "title": "A New Way to Map the Universe's Missing Matter",
         "summary": "Brief but powerful flashes of radio waves are aiding astronomers' quest to find and map cosmic gas. The post A New Way to Map the Universe&#039;s Missing Matter appeared first on Sky &amp; Telescope.",
         "category": "Astronomy",
@@ -331,20 +342,42 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/a-new-way-to-map-the-universes-missing-matter/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/MIT-FRB.jpg",
         "impact": 4
-      },
-      {
-        "title": "Interstellar Travel: The Space Age and Nuclear Rockets",
-        "summary": "Given the state of our technology, it would take a spacecraft a ridiculously long time to reach even the nearest star in our galaxy. However, scientists continue to ponder ways in which we could achieve the dream of interstellar spaceflight. Here are a few of their best ideas.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 31 Jul 2026 23:45:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/interstellar-travel-the-space-age-and-nuclear-rockets",
-        "image_url": "https://www.universetoday.com/article_images/0_VF-zCn9kcI9ZnKN-_20260730_205755.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "MAD’s Shenzhen Bay Culture Square and Dorte Mandrup’s PLACE Exhibition: This Week’s Review",
+        "summary": "This week, architecture's relationship with culture took center stage through exhibitions, public projects, and new cultural infrastructure that extend architectural discourse beyond the building itself. While major exhibitions from Australia, Shanghai, Barcelona, and Copenhagen examined themes of housing, landscape, a",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 06 Aug 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1182303/mads-shenzhen-bay-culture-square-and-dorte-mandrups-place-exhibition-this-weeks-review",
+        "image_url": "https://images.adsttc.com/media/images/6a74/4487/5c0b/ae01/8ae4/b571/large_jpg/mads-shenzhen-bay-culture-square-and-dorte-mandrups-place-exhibition-this-weeks-review_3.jpg?1786004627",
+        "impact": 5
+      },
+      {
+        "title": "The XVII Spanish Biennial of Architecture and Urbanism (BEAU) opens its first international tour in Tokyo",
+        "summary": "The exhibition of the 17th Spanish Biennial of Architecture and Urbanism (BEAU) will arrive at the Embassy of Spain in Tokyo, Japan, on September 4, marking its first international venue following its tour through Ponferrada, La Palma, and Avilés. Curated by Ander Bados and Miguel Ramón under the title Flujos Comunes (",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 06 Aug 2026 12:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1182325/the-xvii-spanish-biennial-of-architecture-and-urbanism-beau-opens-its-first-international-tour-in-tokyo",
+        "image_url": "https://images.adsttc.com/media/images/6a74/6dd3/eee6/f800/0125/f761/large_jpg/BEAU.jpg?1786015242",
+        "impact": 4
+      },
+      {
+        "title": "Chengdu Pavilion / IwamotoScott Architecture",
+        "summary": "The Chengdu pavilion was commissioned as an exhibition pavilion with a project brief seeking a decidedly future-forward design. It serves both as an iconic symbol of the ethos and purpose of the adjacent future-facing urban expansion currently underway and as an information center for the public to learn about this lar",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 06 Aug 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1182047/chengdu-pavilion-iwamotoscott-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a6c/db95/1801/ca00/0176/eb50/large_jpg/Chengdu_Pavilion_1a_DSC1591m_2880p.jpg?1785519021",
+        "impact": 4
+      },
       {
         "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
         "summary": "A glass-walled pavilion sandwiched between historic buildings is the leading feature of an Oregon art museum revamp, which was designed by US studios Hennebery Eddy Architects and Vinci Hamp Architects to improve the visitor experience. Spanning two urban blocks, the Portland Art Museum is located in the city's downtow",
@@ -365,39 +398,6 @@
         "published_at": "Mon, 03 Aug 2026 15:00:32 +0000",
         "source_url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Sinuous form of Shenzhen Natural History Museum emulates \"a piece of landscape\"",
-        "summary": "Granite cloaks the sweeping form of Shenzhen Natural History Museum, completed in China by architecture studios 3XN, B+H Architects and Zhubo Design. Now officially open in the Pingshan District, the 100,000-square-metre building was planned as a new cultural landmark for Shenzhen. It is distinguished by its fluid form",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 28 Jul 2026 10:30:04 +0000",
-        "source_url": "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "MVRDV brings its vertical village concept to shenzhen with mixed-use cultural hub",
-        "summary": "the mixed-use cultural center revisits a fifteen-year-old urban idea, breaking a conventional commercial complex into a stack of individually scaled volumes. The post MVRDV brings its vertical village concept to shenzhen with mixed-use cultural hub appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Wed, 05 Aug 2026 10:35:32 +0000",
-        "source_url": "https://www.designboom.com/architecture/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/mvrdv-vertical-village-concept-shenzhen-mixed-use-cultural-hub-designboom-1200.jpg",
-        "impact": 4
-      },
-      {
-        "title": "TraMod AWARDS 2026 | The Fourth Year | The World's First International Award on Interactions between Tradition & Modernity in Architecture & Design",
-        "summary": "TraMod AWARDS 2026 | The Fourth YearThe World`s First International Award on Interactions betweenTradition &amp; Modernityin Architecture &amp; Design CALL FOR SUBMISSIONS! | OPEN NOWAfter three years, TraMod ACADEMY, the world's first international academy for studying interactions between tradition and modernity in a",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 05 Aug 2026 09:20:00 +0000",
-        "source_url": "https://www.archdaily.com/1182267/tramod-awards-2026-the-fourth-year-the-worlds-first-international-award-on-interactions-between-tradition-and-modernity-in-architecture-and-design",
-        "image_url": "https://images.adsttc.com/media/images/6a73/35d0/5b21/b900/0199/2f05/large_jpg/01_TraMod_AWARDS_2026_CALL_FOR_SUBMISSIONS.jpg?1785935321",
         "impact": 4
       }
     ],
@@ -425,6 +425,28 @@
         "impact": 4
       },
       {
+        "title": "Egis appointed to Yorkshire Water’s £80M technical services framework for AMP8",
+        "summary": "Construction and engineering firm Egis has secured a place on Yorkshire Water’s Technical Services and Assurance Framework, supporting the water company’s Asset Management Period 8 (AMP8) investment programme. The post Egis appointed to Yorkshire Water’s £80M technical services framework for AMP8 appeared first on New ",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 06 Aug 2026 05:30:13 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/egis-appointed-to-yorkshire-waters-80m-technical-services-framework-for-amp8-06-08-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/01/Rivelin-Valley-Treatment_025-resized-yorkshire-water-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "7 noteworthy construction C-suite moves",
+        "summary": "Construction's bullpen lineup, like a building timeline, is constantly in flux. Catch up on appointments from firms such as Swinerton, Balfour Beatty and Gilbane.&nbsp;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 06 Aug 2026 10:18:54 -0400",
+        "source_url": "https://www.constructiondive.com/news/swinerton-balfour-beatty-gilbane-executive-moves-July-2026/826155/",
+        "image_url": "https://imgproxy.divecdn.com/zNo6fTTZ6Dxk9CGI6BsD2-WLISqhpGh4C4kPhcLLp2c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UUElfQmVsbHdldGhlcl9EaXN0cmljdF9SZW5kZXJpbmcuanBn.webp",
+        "impact": 3
+      },
+      {
         "title": "‘Trust but verify:’ How Novo Construction compares drawing packages with AI",
         "summary": "Colin Stoner, chief information officer for Novo Construction, describes the time saved in comparing drawings, traditionally a tedious process, with a new tool.",
         "category": "Construction",
@@ -434,31 +456,20 @@
         "source_url": "https://www.constructiondive.com/news/novo-construction-buildcheck-drawing-diffs-ai/826758/",
         "image_url": "https://imgproxy.divecdn.com/rZJeHimmSeOyLV_2rrtlv4tW3WZCVHNvy7R4knE_AGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODA1NzMzOTQ5X1ZaT2FrVjEuanBn.webp",
         "impact": 3
-      },
-      {
-        "title": "NYC DOB wraps first wave of construction safety sweeps after partial collapse in July",
-        "summary": "After inspecting 180 jobsites, the agency found no immediate public safety concerns, nor evidence that the East 42nd Street failure was &ldquo;inherent to office-to-residential conversion projects.&rdquo;",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 05 Aug 2026 10:14:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/nyc-dob-wraps-safety-sweep-buildings-collapse-office-residential/827062/",
-        "image_url": "https://imgproxy.divecdn.com/wPBKgEUSsrUnUK_hEejh0C6aZ39DVBg768nBwdj6VJE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg1OTM3MDMwLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Construction job openings rose in June as contractors felt staffing woes",
-        "summary": "For the third straight month, the Bureau of Labor Statistics reported higher year-over-year job vacancies. Paired with other recent data, that may not mean higher project demand.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 04 Aug 2026 13:20:14 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-job-openings-june-2026/826968/",
-        "image_url": "https://imgproxy.divecdn.com/G-RxvdXkRhuNq6VWvnHpfzXiUI3YjEMCzUP1Y_-k99U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxOTk3ODEyLmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
+      {
+        "title": "From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking",
+        "summary": "arXiv:2608.05030v1 Announce Type: new Abstract: Football score forecasting combines a strong statistical core with a difficult contextual edge. Dynamic Poisson-family models estimate team strength, expected goals, and coherent score probabilities, but do not directly understand roles, tactical matchups, motivation, or ",
+        "category": "AI",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.05030",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
+      },
       {
         "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technolo",
@@ -471,46 +482,35 @@
         "impact": 5
       },
       {
-        "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
-        "summary": "arXiv:2608.00003v1 Announce Type: new Abstract: Computational Fluid Dynamics (CFD) plays an important role in modern engineering, but using open-source solvers such as OpenFOAM requires considerable knowledge and skills, as well as time-consuming configuration file setup. To reduce this burden, we propose AutoFOAM - a ",
+        "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+        "summary": "arXiv:2608.04066v1 Announce Type: new Abstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a language model may only",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.00003",
+        "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.04066",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process",
-        "summary": "arXiv:2608.00015v1 Announce Type: new Abstract: Both optimization modeling and constraint modeling are non-trivial problems requiring deep domain expertise and proficiency in modeling formalism languages. Despite their importance across logistics, healthcare, and supply chain management, current large language models r",
+        "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+        "summary": "arXiv:2608.04077v1 Announce Type: new Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We introduce FinProBench, a b",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.00015",
+        "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.04077",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Memory Reward Inflation in Self-Improving LLM Agents",
-        "summary": "arXiv:2608.00017v1 Announce Type: new Abstract: Self-improving LLM agents increasingly learn from experience without updating any weights. Each episode is stored in an external memory, scored, and retrieved for similar future tasks to shape later behavior. Viewed through a reward lens, the stored score is a proxy rewar",
+        "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+        "summary": "arXiv:2608.04095v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing personalized-memory ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.00017",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
-        "summary": "arXiv:2608.00101v1 Announce Type: new Abstract: AI coding agents like GitHub Copilot, Claude Code, and Codex interleave multi-step LLM inference with tool execution, creating a workload different from chatbots. We present the first production-scale characterization of this workload using sampled GitHub Copilot traces f",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.00101",
+        "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.04095",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
