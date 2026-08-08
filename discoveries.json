@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-07",
-  "last_updated": "2026-08-07 23:30 UTC",
+  "date": "2026-08-08",
+  "last_updated": "2026-08-08 23:25 UTC",
   "categories": {
     "science": [
       {
@@ -61,6 +61,17 @@
     ],
     "tech": [
       {
+        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+        "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Sat, 08 Aug 2026 11:05:50 +0000",
+        "source_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg",
+        "impact": 4
+      },
+      {
         "title": "The Download: US robot restrictions and ICE’s DNA grab",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and desp",
         "category": "Tech",
@@ -70,6 +81,17 @@
         "source_url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
         "impact": 4
+      },
+      {
+        "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+        "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 08 Aug 2026 16:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/kindle-scribe-colorsoft.jpg?resize=1200,900",
+        "impact": 3
       },
       {
         "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
@@ -83,36 +105,14 @@
         "impact": 3
       },
       {
-        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+        "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 06 Aug 2026 22:43:53 +0000",
-        "source_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-        "impact": 3
-      },
-      {
-        "title": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
-        "summary": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 07 Aug 2026 15:00:00 +0000",
-        "source_url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
-        "image_url": "https://media.wired.com/photos/6a74dbc9893d39e4b3cd5470/191:100/w_1280,c_limit/OTIC9701.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Scientists Used AI to Create 16 New Viruses",
-        "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 07 Aug 2026 14:13:57 +0000",
-        "source_url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-        "image_url": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/191:100/w_1280,c_limit/virusIA.jpg",
+        "published_at": "Fri, 07 Aug 2026 14:07:31 +0000",
+        "source_url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
         "impact": 3
       }
     ],
@@ -127,6 +127,17 @@
         "source_url": "https://medicalxpress.com/news/2026-08-radiopharmaceutical-benefit-patients-metastatic-prostate.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/male-patient.jpg",
         "impact": 5
+      },
+      {
+        "title": "Social prescribing boosts health checks without raising costs",
+        "summary": "Patients referred to social prescribing are more likely to seek health care in the short term but could end up needing their primary care physician less often within a year, according to a new study by University of Manchester researchers published in eClinicalMedicine.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 08 Aug 2026 07:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-social-boosts-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/speaking-to-a-doctor.jpg",
+        "impact": 4
       },
       {
         "title": "Protective drug dexrazoxane reduces heart damage in pediatric cancer survivors years after treatment ends",
@@ -151,25 +162,14 @@
         "impact": 4
       },
       {
-        "title": "Cells in breast tumor microenvironment may reveal who benefits most from hormone treatment",
-        "summary": "The types of cells in the microenvironment of a breast tumor may affect how well the hormone therapy tamoxifen works over the long term. A study from Karolinska Institutet, published in BMC Medicine, shows this. The findings may help improve understanding of why some patients benefit more from treatment than others.",
+        "title": "Telomere-to-telomere brown rat genome could sharpen disease research models",
+        "summary": "Researchers have created the most complete genetic profile of the brown rat to date, according to a UTHealth Houston-led team, paving the way for scientists to more accurately investigate genetic links to conditions like heart disease, kidney disease, high blood pressure and stroke.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 07 Aug 2026 10:40:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-cells-breast-tumor-microenvironment-reveal.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cells-in-tumor-microen.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Mental health workers may hold negative beliefs about people who misuse opioids",
-        "summary": "A new study from the University of Georgia suggests that mental health workers may hold the harshest views toward the very patient population they're supposed to help: people with opioid addiction.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 07 Aug 2026 10:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-mental-health-workers-negative-beliefs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/mental-health-workers.jpg",
+        "published_at": "Sat, 08 Aug 2026 16:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-telomere-brown-rat-genome-sharpen.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphical-abstract-3.jpg",
         "impact": 4
       }
     ],
@@ -327,7 +327,7 @@
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Fri, 07 Aug 2026 18:10:56 +0000",
+        "published_at": "Fri, 07 Aug 2026 18:10:00 +0000",
         "source_url": "https://www.universetoday.com/articles/astronomers-find-a-new-object-from-the-early-universe-using-webb-data",
         "image_url": "https://www.universetoday.com/article_images/webb-flickr-52210366419-b1d32fcb3f-4k-jpg_20260807_180402.jpg",
         "impact": 4
@@ -346,6 +346,28 @@
     ],
     "architecture": [
       {
+        "title": "Shin Nakano Residence / Ryuichi Sasaki + Sasaki Architecture",
+        "summary": "Built as Grantage Shin Nakano in the Chuo district of Nakano, Tokyo, the reinforced concrete residential building rises five storeys above a basement level and holds eleven units within a total floor area of 416.68 square meters. It was designed to give an architectural form to the geography that has shaped life in wes",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 08 Aug 2026 17:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1182167/shin-nakano-residence-ryuichi-sasaki-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a71/b9fc/eb02/9f01/882a/1ef4/large_jpg/shin-nakano-residence-ryuichi-sasaki-plus-sasaki-architecture_1.jpg?1785838097",
+        "impact": 4
+      },
+      {
+        "title": "UBC Biodiversity Centre Addition / Public Architecture + Design",
+        "summary": "The University of British Columbia has completed a major expansion of the Beaty Biodiversity Centre on its Point Grey campus, adding research space, offices and collections along the university's central Main Mall. The addition is the new home of the Conservation Science Initiative and extends UBC's distinctive biodive",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 08 Aug 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1182128/ubc-biodiversity-centre-addition-public-architecture-plus-design",
+        "image_url": "https://images.adsttc.com/media/images/6a70/d1ff/5b21/b900/0199/27c5/large_jpg/_1_UBC-Beaty-Biodiversity-Centre-Addition_AndrewLatreille.jpg?1785778781",
+        "impact": 4
+      },
+      {
         "title": "Weekend House in Krámy / Anna Koukolová architekti",
         "summary": "Located in the Czech village of Krámy, near the Brdy Highlands, a weekend house designed by Anna Koukolová architekti has been built on a sloping site bordered by a grove and a stream. Clad in charred spruce, the timber house is based on a simple structural system, honest materials, and a carefully considered layout th",
         "category": "Architecture",
@@ -354,17 +376,6 @@
         "published_at": "Fri, 07 Aug 2026 15:00:00 +0000",
         "source_url": "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
         "image_url": "https://images.adsttc.com/media/images/6a75/a36b/ab59/ca01/8994/3a8e/large_jpg/weekend-house-in-kramy-anna-koukolova-architekti_28.jpg?1786094513",
-        "impact": 4
-      },
-      {
-        "title": "The XVII Spanish Biennial of Architecture and Urbanism (BEAU) opens its first international tour in Tokyo",
-        "summary": "The exhibition of the 17th Spanish Biennial of Architecture and Urbanism (BEAU) will arrive at the Embassy of Spain in Tokyo, Japan, on September 4, marking its first international venue following its tour through Ponferrada, La Palma, and Avilés. Curated by Ander Bados and Miguel Ramón under the title Flujos Comunes (",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 06 Aug 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1182325/the-xvii-spanish-biennial-of-architecture-and-urbanism-beau-opens-its-first-international-tour-in-tokyo",
-        "image_url": "https://images.adsttc.com/media/images/6a74/6dd3/eee6/f800/0125/f761/large_jpg/BEAU.jpg?1786015242",
         "impact": 4
       },
       {
@@ -387,17 +398,6 @@
         "published_at": "Mon, 03 Aug 2026 15:00:32 +0000",
         "source_url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Coral Barn Alvorada House / Nildo José Arquitetos",
-        "summary": "Coral, the official paint and sponsor of CASACOR São Paulo, alongside Nildo José and NJ+ Arquitetura, in their seventh participation in the event, presents Casa Coral Celeiro Alvorada, a tribute to Brazil's countryside heritage. The name of the space stems from the idea of \"celar\" (to seal or keep safe), guarding what ",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 07 Aug 2026 13:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
-        "image_url": "https://images.adsttc.com/media/images/6a73/7d31/5b21/b900/0199/3083/large_jpg/_B0A5691-1__com_filtro_-alta.jpg?1785953622",
         "impact": 4
       }
     ],
@@ -425,6 +425,17 @@
         "impact": 4
       },
       {
+        "title": "Skanska completes major lift as Black Cat flyover takes shape",
+        "summary": "Swedish construction and infrastructure group Skanska has installed 15 large steel beams to form the primary support for the new flyover at the A428 Black Cat junction marking a significant construction milestone on the £1bn improvement scheme. The post Skanska completes major lift as Black Cat flyover takes shape appe",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 07 Aug 2026 05:30:31 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/skanska-completes-major-lift-as-black-cat-flyover-takes-shape-07-08-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/08/a428-beam-lift-560x315.jpg",
+        "impact": 4
+      },
+      {
         "title": "Senator introduces bill to prevent construction worker suicide",
         "summary": "The bill, introduced by Sen. Catherine Cortez Masto of Nevada, authorizes HHS to study risk factors for construction workers and form policy recommendations on how to reduce deaths by suicide.",
         "category": "Construction",
@@ -445,31 +456,9 @@
         "source_url": "https://www.constructiondive.com/news/swinerton-balfour-beatty-gilbane-executive-moves-July-2026/826155/",
         "image_url": "https://imgproxy.divecdn.com/zNo6fTTZ6Dxk9CGI6BsD2-WLISqhpGh4C4kPhcLLp2c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UUElfQmVsbHdldGhlcl9EaXN0cmljdF9SZW5kZXJpbmcuanBn.webp",
         "impact": 3
-      },
-      {
-        "title": "‘Trust but verify:’ How Novo Construction compares drawing packages with AI",
-        "summary": "Colin Stoner, chief information officer for Novo Construction, describes the time saved in comparing drawings, traditionally a tedious process, with a new tool.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 05 Aug 2026 12:30:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/novo-construction-buildcheck-drawing-diffs-ai/826758/",
-        "image_url": "https://imgproxy.divecdn.com/rZJeHimmSeOyLV_2rrtlv4tW3WZCVHNvy7R4knE_AGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODA1NzMzOTQ5X1ZaT2FrVjEuanBn.webp",
-        "impact": 3
       }
     ],
     "ai": [
-      {
-        "title": "DoctorAgents: an agentic framework to iteratively refine AutoML pipeline for small clinical temporal data",
-        "summary": "arXiv:2608.05375v1 Announce Type: new Abstract: Clinical machine learning (ML) has the potential to support high-stakes medical decision-making, but reliable deployment is often constrained by scarce, heterogeneous, and temporal complexity. Developing effective ML pipelines for such data remains time-consuming and erro",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.05375",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
       {
         "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technolo",
@@ -482,37 +471,48 @@
         "impact": 5
       },
       {
-        "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-        "summary": "arXiv:2608.05212v1 Announce Type: new Abstract: Deep search agents tackle challenging questions through long-horizon web interactions, a process that is both complex and fragile: small reasoning errors may propagate through long, noisy trajectories into fluent but incorrect answers. Diagnosing such failures is difficul",
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.05212",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 29 Jul 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2Og4MpejHbFrNOgRBVvhTh/589eff3fad85c1992c0973594e76a949/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_SEO_CARD__1_.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
-        "summary": "arXiv:2608.05245v1 Announce Type: new Abstract: Reusable skills, which encapsulate the procedural knowledge required to solve real-world professional tasks, offer LLM-based agents a path toward self-evolution in expert domains. Existing self-evolving skill methods construct skills internally from the model's parametric",
+        "title": "Here’s why AI agents lie and cheat to reach their goals",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just look",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.05245",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 03 Aug 2026 08:30:05 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks",
-        "summary": "arXiv:2608.05266v1 Announce Type: new Abstract: Large language model agents are increasingly being developed to control a wide range of scientific characterization tools including microscopes and synchrotron beamlines. Research into agentic control of physical infrastructure is nascent and there are few well-establishe",
+        "title": "Third-party cyber evaluations involving OpenAI models",
+        "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.05266",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 04 Aug 2026 19:00:00 GMT",
+        "source_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6RSPaWdKwEvT9xWx4IjQy2/a334438e4daf9f62c24541c00c212749/third-party-cyber-evaluations_16x9.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "How we built a realtime system for responsive voice AI in six months",
+        "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "source_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/yTlvMCvVXsIfkU2OOi99f/157c83857ebe75544195add9e1f75039/gpt-live-responsive-seo-card.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
