@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-08",
-  "last_updated": "2026-08-08 23:25 UTC",
+  "date": "2026-08-09",
+  "last_updated": "2026-08-09 23:27 UTC",
   "categories": {
     "science": [
       {
-        "title": "First full zoysia grass genetic blueprint opens doors for drought-tolerant turf",
-        "summary": "A new genomic resource from the Texas A&amp;M AgriLife Research plant genomics team is providing a powerful new foundation for faster, more precise turfgrass genetics and breeding. The team discovered a breakthrough genome that finally reveals the full genetic blueprint of zoysia grass.",
+        "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells",
+        "summary": "The high cost of platinum is one of the main barriers to the wider adoption of hydrogen fuel cells. Now, researchers at IMDEA Materials Institute have developed a catalyst that delivers the same performance while using 75% less of this expensive metal. The study, published in Electrochimica Acta, demonstrates a breakth",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Fri, 07 Aug 2026 14:20:01 EDT",
-        "source_url": "https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-full-zoysia-gras.jpg",
+        "published_at": "Sun, 09 Aug 2026 14:00:01 EDT",
+        "source_url": "https://phys.org/news/2026-08-catalyst-platinum-hydrogen-fuel-cells.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-catalyst-with-75-l.jpg",
         "impact": 5
       },
       {
@@ -37,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
+        "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped convert it into an unusually stable urani",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 09 Aug 2026 07:30:17 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/bacteria-convert-uranium-into-stable-chemical-compound.webp",
+        "impact": 4
+      },
+      {
         "title": "Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant",
         "summary": "Several enormous Megalodon vertebrae thought to have been destroyed in 1989 were found sitting unnoticed on a museum shelf. Their analysis strengthens evidence that the giant shark could exceed 24 meters (79 feet) in length and live for nearly a century. Researchers also estimate that its newborns may have measured an ",
         "category": "Science",
@@ -45,17 +56,6 @@
         "published_at": "Thu, 06 Aug 2026 22:57:08 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260805082500.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/otodus-megalodon-reconstruction.webp",
-        "impact": 4
-      },
-      {
-        "title": "A colossal magma system has been hiding beneath Tuscany",
-        "summary": "A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrations recorded by dozens of seismic sensors. It poses no immediate danger, but the discovery reveals how enormous volcanic",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 05 Aug 2026 05:19:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/deep-volcanic-magma-flow.webp",
         "impact": 4
       }
     ],
@@ -83,6 +83,17 @@
         "impact": 4
       },
       {
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "summary": "The AI-focused hedge fund is still making some big bets.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 09 Aug 2026 20:35:17 +0000",
+        "source_url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
         "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
         "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
         "category": "Tech",
@@ -103,20 +114,20 @@
         "source_url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/poland-cyber-internet-1232657831.jpg?resize=1200,800",
         "impact": 3
-      },
-      {
-        "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-        "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 07 Aug 2026 14:07:31 +0000",
-        "source_url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Early Alzheimer's patients pursuing lecanemab show low adherence to brain health advice",
+        "summary": "Researchers at the Mass General Brigham Neuroscience Institute found that most patients with early Alzheimer's disease are not optimally adhering to recommendations for improving their brain health, including exercising, getting adequate sleep, preventing hypertension and eating a heart-healthy diet. The results, publi",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 09 Aug 2026 07:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-early-alzheimer-patients-pursuing-lecanemab.html",
+        "image_url": "https://picsum.photos/seed/medicinefallback/1200/800",
+        "impact": 5
+      },
       {
         "title": "Radiopharmaceutical may benefit patients with metastatic prostate cancer sooner",
         "summary": "Earlier use of a targeted radionuclide therapy delays metastatic prostate cancer progression when administered as part of a trio of drugs, according to a Phase III clinical trial led by Weill Cornell Medicine, NewYork-Presbyterian, Memorial Sloan Kettering Cancer Center and investigators at several other institutions w",
@@ -159,17 +170,6 @@
         "published_at": "Tue, 04 Aug 2026 01:15:18 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223426.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
-        "impact": 4
-      },
-      {
-        "title": "Telomere-to-telomere brown rat genome could sharpen disease research models",
-        "summary": "Researchers have created the most complete genetic profile of the brown rat to date, according to a UTHealth Houston-led team, paving the way for scientists to more accurately investigate genetic links to conditions like heart disease, kidney disease, high blood pressure and stroke.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 08 Aug 2026 16:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-telomere-brown-rat-genome-sharpen.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/graphical-abstract-3.jpg",
         "impact": 4
       }
     ],
@@ -265,6 +265,17 @@
         "impact": 5
       },
       {
+        "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
+        "summary": "On Aug. 9, 1976, the Soviet space program launched its last moon mission. Luna 24 was a robotic sample return mission and the third of its kind.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 09 Aug 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/SjHpUgxwhyyCyFaNHmgfKZ-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt",
         "summary": "The Chinese commercial launch company Landspace is set for its second attempt to catch an orbital rocket. Liftoff, and landing, are targeted for next Monday (Aug. 10).",
         "category": "Space",
@@ -273,17 +284,6 @@
         "published_at": "Fri, 07 Aug 2026 15:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt",
         "image_url": "https://cdn.mos.cms.futurecdn.net/jfJkgGVqr3kHvdSSGMJYRH-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
-        "summary": "On Aug. 6, 2012, NASA's Curiosity rover successfully touched down on the Martian surface in a way never attempted before: a rocket-powered sky crane. Here's why it mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 06 Aug 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/xDe5VhDVboNSqS9DFUN7FZ-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -346,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "POST Rotterdam Tower / ODA New York",
+        "summary": "Global architecture, interior design, and landscape architecture firm, ODA, has completed the first phase of the highly anticipated POST project in Rotterdam, a new tower rising at the rear of the historic Postkantoor, the city's former Central Post Office. Located in Rotterdam's city center, this historically signific",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 09 Aug 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
+        "image_url": "https://images.adsttc.com/media/images/6a69/57f6/d865/3d00/014d/0ecc/large_jpg/2755_Post_Rotterdam__Ossip.jpg?1785288761",
+        "impact": 4
+      },
+      {
         "title": "Shin Nakano Residence / Ryuichi Sasaki + Sasaki Architecture",
         "summary": "Built as Grantage Shin Nakano in the Chuo district of Nakano, Tokyo, the reinforced concrete residential building rises five storeys above a basement level and holds eleven units within a total floor area of 416.68 square meters. It was designed to give an architectural form to the geography that has shaped life in wes",
         "category": "Architecture",
@@ -386,17 +397,6 @@
         "journal": "dezeen.com",
         "published_at": "Mon, 03 Aug 2026 17:56:02 +0000",
         "source_url": "https://www.dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Data centre approved as part of Truman Brewery masterplan in east London",
-        "summary": "Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near Brick Lane in London have been approved. Planned for three sites in the east London neighbourhood, the Truman Brewery masterplan will comprise eight buildings designed by Buckley Gray Yeoman (BGY), alongside London-based",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 03 Aug 2026 15:00:32 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
