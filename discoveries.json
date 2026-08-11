@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-10",
-  "last_updated": "2026-08-10 23:31 UTC",
+  "date": "2026-08-11",
+  "last_updated": "2026-08-11 23:36 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "Real-time X-ray data analysis with DONUT accelerates materials science",
+        "summary": "What if scientists could get a taste of discovery as soon as their experiment finishes? Thanks to a new machine learning tool called DONUT, researchers at the U.S. Department of Energy's (DOE) Argonne National Laboratory are transforming how experiments are run at the Advanced Photon Source (APS), a DOE Office of Scien",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 11 Aug 2026 19:20:01 EDT",
+        "source_url": "https://phys.org/news/2026-08-real-ray-analysis-donut-materials.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/real-time-x-ray-data-a.jpg",
+        "impact": 5
+      },
+      {
         "title": "Scientists discover a hidden switch inside silver nanocatalysts",
         "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst designs that boost clean power generation while making green hydrogen more energy-efficient.",
         "category": "Science",
@@ -46,110 +57,66 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/bacteria-convert-uranium-into-stable-chemical-compound.webp",
         "impact": 4
-      },
-      {
-        "title": "Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant",
-        "summary": "Several enormous Megalodon vertebrae thought to have been destroyed in 1989 were found sitting unnoticed on a museum shelf. Their analysis strengthens evidence that the giant shark could exceed 24 meters (79 feet) in length and live for nearly a century. Researchers also estimate that its newborns may have measured an ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 06 Aug 2026 22:57:08 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260805082500.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/otodus-megalodon-reconstruction.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-        "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+        "title": "Chrome adopts what may be the best protection yet against account takeovers",
+        "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Sat, 08 Aug 2026 11:05:50 +0000",
-        "source_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 10 Aug 2026 12:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+        "published_at": "Tue, 11 Aug 2026 20:59:52 +0000",
+        "source_url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "summary": "The AI-focused hedge fund is still making some big bets.",
+        "title": "Uber surprised robotics company Serve by selling its entire stake",
+        "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sun, 09 Aug 2026 20:35:17 +0000",
-        "source_url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
+        "published_at": "Tue, 11 Aug 2026 20:02:02 +0000",
+        "source_url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2022/05/Serve-Uber-Eats.jpg?resize=1200,801",
         "impact": 3
       },
       {
-        "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
-        "summary": "If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer travel because it can charge up to five devices at once, yet it’s small enough [&#8",
+        "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
+        "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 11 Aug 2026 15:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/RJ-Scaringe-Disrupt-Stage-2026.png?w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Kyoto Fusioneering starts work on key fusion power plant device",
+        "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 11 Aug 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/UNITY-3-kyoto-fusioneering.jpg?resize=1200,675",
+        "impact": 3
+      },
+      {
+        "title": "Made by Google 2026: all the Pixel news and announcements",
+        "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it [&#8230;]",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-08-10T17:18:15-04:00",
-        "source_url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/anker_travel1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
-        "summary": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Mon, 10 Aug 2026 06:00:00 +0000",
-        "source_url": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
-        "image_url": "https://media.wired.com/photos/6a75e803f890ad2594b06f9d/191:100/w_1280,c_limit/BlindAstronaut.jpg",
+        "published_at": "2026-08-11T13:00:00-04:00",
+        "source_url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&strip=all&crop=0%2C8.295721249323%2C100%2C83.408557501354&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Traditional prostate cancer risk factors do not predict hormone therapy benefit, study finds",
-        "summary": "A new study led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center found that while traditional pathological features used to classify aggressive prostate cancer—such as high-grade disease, cancer extending outside the prostate and cancer involving the seminal vesicles—after surgery can help identi",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 10 Aug 2026 17:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-traditional-prostate-cancer-factors-hormone.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/male-patient-older.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Simple blood test on a chip could help diagnose lung cancer",
-        "summary": "Researchers at Tel Aviv University have developed a new method for diagnosing lung cancer: a simple, fast, low-cost blood test that does not require DNA sequencing. The method identifies a chemical fingerprint of cancer cells in the blood by analyzing cell-free DNA originating from those cells. In the study, the test d",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 10 Aug 2026 14:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-simple-blood-chip-lung-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/simple-blood-test-on-a.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Biomarkers aid cost-benefit analysis of head and neck cancer immunotherapy",
-        "summary": "The cost-effectiveness of the immunotherapy drug pembrolizumab for patients with locally advanced head and neck squamous cell carcinoma may depend on biomarker results, according to a new study.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 10 Aug 2026 13:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-biomarkers-aid-benefit-analysis-neck.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/injection-vial-1.jpg",
-        "impact": 4
-      },
       {
         "title": "A common sugar may help cancer cells break free and spread",
         "summary": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer progression, though the effects have not yet been confirmed in patients.",
@@ -162,14 +129,47 @@
         "impact": 4
       },
       {
-        "title": "HIV-1 proviruses may drive chronic systemic inflammation",
-        "summary": "HIV (human immunodeficiency virus) is a virus that attacks the body's immune system and remains a major global health challenge because of persistent viral reservoirs, despite effective treatments. Key factors include around 40 million people living with HIV, 1 million new infections each year and permanent viral DNA i",
+        "title": "Executive order calls for fewer routine childhood vaccines, doctors push back",
+        "summary": "A new executive order calls for American children to be routinely immunized against 11 diseases instead of the 17 now recommended by federal health officials.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 10 Aug 2026 16:40:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-hiv-proviruses-chronic-inflammation.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hiv-1-proviruses-may-d.jpg",
+        "published_at": "Tue, 11 Aug 2026 18:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-routine-childhood-vaccines-doctors.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/executive-order-calls.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Socioeconomic status shapes treatment timing and duration in arthritis patients",
+        "summary": "A study initiated by the European Spondyloarthritis Research Collaboration Network (EuroSpA) examined whether patients' countries of residence are associated with the severity of their psoriatic arthritis (PsA) or axial spondyloarthritis (axSpA), when they begin advanced treatment and how long they continue that treatm",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 11 Aug 2026 16:40:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-socioeconomic-status-treatment-duration-arthritis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/psoriatic-arthritis.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Computational framework identifies novel pathway for asthma inflammation",
+        "summary": "Researchers at Columbia University Mailman School of Public Health, in collaboration with investigators at the University of Chicago, have developed a new computational framework that helps scientists identify genes that play central roles in diseases such as asthma but are often overlooked by existing genetic analysis",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 11 Aug 2026 16:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-framework-pathway-asthma-inflammation.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/asthma.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Cutting sweet foods doesn’t curb cravings or improve health",
+        "summary": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful differences in their preference for sweet foods, body weight, or markers linked to",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 08 Aug 2026 08:55:19 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/woman-eating-cake-refrigerator.webp",
         "impact": 4
       }
     ],
@@ -232,26 +232,26 @@
     ],
     "space": [
       {
-        "title": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
-        "summary": "On Aug. 7, 1980, NASA's Viking 1 spacecraft orbiting Mars ended its epic and historic mission to the Red Planet. Here's why it mattered.",
+        "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
+        "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 07 Aug 2026 14:14:51 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/xzkkvKDP2DJ5Jdmb6uZubE-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 11 Aug 2026 14:00:00 +0000",
+        "source_url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg",
         "impact": 5
       },
       {
-        "title": "SpaceX rocket's impact crater on the moon spied by Korean lunar orbiter (photos)",
-        "summary": "South Korea's Danuri lunar orbiter has spied the crater that a SpaceX rocket blasted out when it slammed into the moon on Wednesday morning (Aug. 5).",
+        "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
+        "summary": "Operating a million or more data centers in space would mean a massive increase in air pollution from rocket launches and concentrations of toxic ash from reentering satellites.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 06 Aug 2026 15:24:47 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/spacex-rockets-impact-crater-on-the-moon-spied-by-korean-lunar-orbiter-photos",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/EiFsUah8tAvuzZqzwiuaTF-1280-80.jpg",
-        "impact": 5
+        "published_at": "Tue, 11 Aug 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Y2b9XP3PZ2w8rCDW9psmjS-1280-80.jpg",
+        "impact": 4
       },
       {
         "title": "Japanese H3 rocket launches 10,800-pound navigation satellite to high Earth orbit (video)",
@@ -276,14 +276,14 @@
         "impact": 4
       },
       {
-        "title": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt",
-        "summary": "The Chinese commercial launch company Landspace is set for its second attempt to catch an orbital rocket. Liftoff, and landing, are targeted for next Monday (Aug. 10).",
+        "title": "APOD: 2026 August 11 – Six Moons of Saturn",
+        "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profession",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 07 Aug 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/jfJkgGVqr3kHvdSSGMJYRH-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Tue, 11 Aug 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       }
     ],
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "Every Snowflake Needs a Speck of Dust and So Do Planets",
+        "summary": "A snowflake cannot form out of nothing. Water vapour will sit in the air quite happily, supercooled and reluctant, until it finds a speck of dust to build on and then it crystallises around it. Cosmochemists have had a version of that problem for decades. The early Solar System was a furnace of gas, and the first solid",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 11 Aug 2026 21:33:44 +0000",
+        "source_url": "https://www.universetoday.com/articles/every-snowflake-needs-a-speck-of-dust-and-so-do-planets",
+        "image_url": "https://www.universetoday.com/article_images/Allende_meteorite_20260811_212829.jpg",
+        "impact": 4
+      },
+      {
         "title": "The Odds of Finding Water on Mars",
         "summary": "Mars has plenty of water, and almost all of it is in the wrong place. The poles are rich in ice, the equator, where you would actually want to land, has none within reach. That leaves the mid-latitudes, and until now the honest answer about what lies beneath them has been a bit of a shrug. Two new studies from the Plan",
         "category": "Astronomy",
@@ -331,40 +342,18 @@
         "source_url": "https://www.universetoday.com/articles/interstellar-travel-iii-antimatter-to-the-rescue",
         "image_url": "https://www.universetoday.com/article_images/VARIES_concept_20260810_215210.jpg",
         "impact": 4
-      },
-      {
-        "title": "Astronomers Find a New Object from the Early Universe Using Webb Data",
-        "summary": "Homer Dávila Gutierrez, director of SKYCR.ORG, has identified a gravitational arc candidate in the galaxy cluster MACS J0308.9+2645 from public data from the James Webb Space Telescope. The object had not been previously reported and is located at a photometric redshift close to 4.4. The preprint is available on arXiv ",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 07 Aug 2026 18:10:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/astronomers-find-a-new-object-from-the-early-universe-using-webb-data",
-        "image_url": "https://www.universetoday.com/article_images/webb-flickr-52210366419-b1d32fcb3f-4k-jpg_20260807_180402.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "BANSHAN1994 Commune / Office Canopy of Architecture",
-        "summary": "Constructing a New \"Locality\" — As China's urbanization enters its \"second half,\" the revitalization of underutilized assets has become an inevitable challenge for governments, developers, and designers alike. Located in the heart of the old city of Shangyu, Shaoxing, the Banshan1994 Commune serves as a critical case i",
+        "title": "Craft in the Age of 3D-Printed Earth: Can Digital Tools Create a New Kind of Artisan?",
+        "summary": "In 2021, a collaboration between the Italian architecture studio Mario Cucinella Architects and WASP, an Italian 3D-printing company, led to the development of TECLA: a house 3D-printed entirely from raw earth. Five years later, the technology behind it has grown, quietly spreading across several continents and design ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 10 Aug 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1041835/banshan1994-commune-office-canopy-of-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6a14/59bb/fd52/9201/89f2/241c/large_jpg/banshan1994-commune-office-canopy-of-architecture_10.jpg?1779718647",
-        "impact": 4
-      },
-      {
-        "title": "POST Rotterdam Tower / ODA New York",
-        "summary": "Global architecture, interior design, and landscape architecture firm, ODA, has completed the first phase of the highly anticipated POST project in Rotterdam, a new tower rising at the rear of the historic Postkantoor, the city's former Central Post Office. Located in Rotterdam's city center, this historically signific",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 09 Aug 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
-        "image_url": "https://images.adsttc.com/media/images/6a69/57f6/d865/3d00/014d/0ecc/large_jpg/2755_Post_Rotterdam__Ossip.jpg?1785288761",
+        "published_at": "Tue, 11 Aug 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1182056/craft-in-the-age-of-3d-printed-earth-can-digital-tools-create-a-new-kind-of-artisan",
+        "image_url": "https://images.adsttc.com/media/images/6a6f/b5e0/0364/d201/89e9/7c77/large_jpg/craft-in-the-age-of-3d-printed-earth-can-digital-tools-create-a-new-kind-of-artisan_2.jpg?1785706065",
         "impact": 4
       },
       {
@@ -397,6 +386,17 @@
         "journal": "dezeen.com",
         "published_at": "Mon, 03 Aug 2026 17:56:02 +0000",
         "source_url": "https://www.dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "Data centre approved as part of Truman Brewery masterplan in east London",
+        "summary": "Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near Brick Lane in London have been approved. Planned for three sites in the east London neighbourhood, the Truman Brewery masterplan will comprise eight buildings designed by Buckley Gray Yeoman (BGY), alongside London-based",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 03 Aug 2026 15:00:32 +0000",
+        "source_url": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
@@ -471,46 +471,46 @@
         "impact": 5
       },
       {
-        "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
-        "summary": "arXiv:2608.06474v1 Announce Type: new Abstract: Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has become a central approach to closing their remaining functional gap. This training regime is bottlenecked by reward design. Hand-authored brows",
+        "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+        "summary": "arXiv:2608.07532v1 Announce Type: new Abstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either fix communication in advance or allow full broadcast. Both can be inefficient because token cost, latency, redundancy, and error propagation inc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.06474",
+        "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.07532",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
-        "summary": "arXiv:2608.06694v1 Announce Type: new Abstract: Coarse-grained (CG) molecular dynamics extends polymer simulation beyond the scales accessible to all-atom (AA) methods, but bottom-up CG modeling is laborious. The CG resolution is a design choice, so a transferable parameter set is generally not available and the potent",
+        "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+        "summary": "arXiv:2608.07538v1 Announce Type: new Abstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create value, divide it predictably, and avoid money-losing contracts. We study this in a canonical supply chain bargaining problem: a buyer with private d",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.06694",
+        "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.07538",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models",
-        "summary": "arXiv:2608.06699v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) extend multimodal perception and reasoning with planning, tool use, and interaction in dynamic environments. Yet current models are specialized for particular tools or environments, complicating consolidation into a single ",
+        "title": "From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems",
+        "summary": "arXiv:2608.07627v1 Announce Type: new Abstract: Hospitals are racing to embed AI, while coping with the surge in adaptation of the technology in other industries, into the triage management, documentation, scheduling, and revenue-cycle workflows, yet most deployments remain as fragmented pilots that stall at the edge o",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.06699",
+        "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.07627",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents",
-        "summary": "arXiv:2608.06735v1 Announce Type: new Abstract: Reinforcement learning (RL) has achieved strong results in improving large language models (LLMs) on tasks with stationary, verifiable rewards, such as mathematical reasoning and code execution. In these settings, the environment follows fixed rules and does not adapt str",
+        "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
+        "summary": "arXiv:2608.07637v1 Announce Type: new Abstract: Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.06735",
+        "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.07637",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
