@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-12",
-  "last_updated": "2026-08-12 23:39 UTC",
+  "date": "2026-08-13",
+  "last_updated": "2026-08-13 23:38 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "How a mystery kept in London led to the discovery of a new Ecuadorian frog",
+        "summary": "Scientists from the Pontificia Universidad Católica del Ecuador officially described Pristimantis milpe, an abundant and widely distributed species that had been confused with another species for more than a century. To solve the mystery, researchers reviewed historical specimens collected in Ecuador during the 19th ce",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Thu, 13 Aug 2026 17:20:04 EDT",
+        "source_url": "https://phys.org/news/2026-08-mystery-london-discovery-ecuadorian-frog.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-mystery-kept-in-lond-1.jpg",
+        "impact": 5
+      },
+      {
         "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
         "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerat",
         "category": "Science",
@@ -46,86 +57,75 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/brain-lesion-with-regenerative-astrocytes.webp",
         "impact": 4
-      },
-      {
-        "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
-        "summary": "Scientists have pinpointed a brain network—and its distinctive electrical rhythm—that appears to drive the benefits of deep brain stimulation for Parkinson’s disease. The discovery could lead to more precise, personalized stimulation settings and better results for patients.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 12 Aug 2026 09:20:59 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-waves-neural-activity-signals.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-        "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
+        "title": "Building a practical path to post-quantum cryptography",
+        "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution,",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 12 Aug 2026 13:37:12 +0000",
-        "source_url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1233188488-1152x648.jpg",
-        "impact": 3
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 13 Aug 2026 18:11:42 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Chrome adopts what may be the best protection yet against account takeovers",
-        "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 11 Aug 2026 20:59:52 +0000",
-        "source_url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-        "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+        "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+        "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 12 Aug 2026 20:53:41 +0000",
-        "source_url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/MRV-Arms-2.jpg?resize=1200,800",
+        "published_at": "Thu, 13 Aug 2026 21:50:11 +0000",
+        "source_url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
         "impact": 3
       },
       {
-        "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-        "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting",
+        "title": "Who really needs a cocktail robot?",
+        "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 12 Aug 2026 16:46:02 +0000",
-        "source_url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
+        "published_at": "Thu, 13 Aug 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/bartesian-margarita-17.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Tesla wants to build a $10B solar factory in Texas",
-        "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
+        "title": "I finally found a robot lawnmower I’d trust with my yard",
+        "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But [&#8230;]",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 12 Aug 2026 16:18:31 +0000",
-        "source_url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-142036357.jpg?resize=1200,800",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-08-13T14:30:00-04:00",
+        "source_url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268689_Robot_Lawnmower_JTuohy_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "You can now just point at a mess and this robot vacuum will suck it up",
+        "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature [&#8230;]",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-08-13T14:00:00-04:00",
+        "source_url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "In vivo CRISPR screen identifies gene edits that strengthen CAR-T therapy against solid tumors",
-        "summary": "For patients with blood cancers like leukemia and lymphoma, the immunotherapy known as CAR-T cell therapy can be lifesaving. Doctors remove a patient's immune cells, called T cells, engineer them in the lab to better recognize and attack cancer, and infuse them back into the bloodstream. But for solid tumors—which incl",
+        "title": "How precision nutrition may enhance effectiveness of GLP-1 drugs",
+        "summary": "A review titled \"Integrating Precision Nutrition with GLP-1 Receptor Agonist Therapy: Mechanisms, Clinical Outcomes, and Pharmacoeconomic Implications\" examines the biological mechanisms of nutrition, body composition, gut microbiome, inflammation, metabolism and genetics to develop individualized recommendations for o",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 12 Aug 2026 18:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-vivo-crispr-screen-gene-car.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/t-cells-1.jpg",
+        "published_at": "Thu, 13 Aug 2026 18:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-precision-nutrition-effectiveness-glp-drugs.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/precision-nutrition-ma.jpg",
         "impact": 4
       },
       {
@@ -140,36 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Nearly 40% of inpatient psychiatric nurses suffer high burnout; work environment holds solution",
-        "summary": "A new study published in the Journal of Psychiatric and Mental Health Nursing reveals that four in 10 inpatient psychiatric mental health registered nurses (PMH-RNs) experience high burnout. However, researchers found that supportive work environments significantly reduce burnout, job dissatisfaction and nurse turnover",
+        "title": "BathMat trial shows promise in cutting ICU workload while improving care for critically ill patients",
+        "summary": "An innovative inflatable repositioning device developed by researchers and clinicians at the University of Bath and Royal United Hospitals Bath NHS Foundation Trust could significantly reduce the number of staff required to care for prone, ventilated patients, according to preliminary findings from a clinical trial.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 12 Aug 2026 18:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-inpatient-psychiatric-nurses-high-burnout.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/psychiatric-facility.jpg",
+        "published_at": "Thu, 13 Aug 2026 19:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-bathmat-trial-icu-workload-critically.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/bathmat-trial-shows-pr.jpg",
         "impact": 4
       },
       {
-        "title": "Discovering a new layer of control for a decades-old leukemia drug",
-        "summary": "For more than 70 years, the drug 6-thioguanine (6-TG) has been used to treat leukemia. Although its clinical effects have been studied extensively, scientists are still uncovering the molecular mechanisms that determine whether cells succumb to the drug or survive its attack.",
+        "title": "Electric fields offer new hope against aggressive brain cancer",
+        "summary": "More than a decade ago, Dr. Matthew Hebb was treating patients with Parkinson's disease using deep brain stimulation by implanting tiny electrodes into the brain and delivering electrical signals to control tremors. He wondered if the same basic technology could be used against brain cancer.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 12 Aug 2026 18:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-layer-decades-leukemia-drug.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-layer-of-control.jpg",
+        "published_at": "Thu, 13 Aug 2026 18:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-electric-fields-aggressive-brain-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/electric-fields-offer.jpg",
         "impact": 4
       },
       {
-        "title": "Patients wary of governments, companies pushing AI as a rural health care solution",
-        "summary": "Two of the nation's most powerful health officials predict artificial intelligence will play a key role in solving rural America's health challenges. Health secretary Robert F. Kennedy Jr. told a panel of U.S. senators that AI nurses can provide \"concierge care\" to rural patients. Dr. Mehmet Oz, who leads the Centers f",
+        "title": "Impaired brain protein drives fat cravings and obesity in mice",
+        "summary": "Obesity is a global health concern that can contribute to diabetes, cardiovascular disease and other metabolic disorders. While many health conditions can lead to obesity, an increasingly worrying cause is found on grocery shelves: high-fat foods. These foods are known to be hard to resist and can promote overeating.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 12 Aug 2026 17:40:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-patients-wary-companies-ai-rural.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/patients-wary-of-gover.jpg",
+        "published_at": "Thu, 13 Aug 2026 17:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-impaired-brain-protein-fat-cravings.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-cravings-impaire-1.jpg",
         "impact": 4
       }
     ],
@@ -276,14 +276,14 @@
         "impact": 4
       },
       {
-        "title": "Japanese H3 rocket launches 10,800-pound navigation satellite to high Earth orbit (video)",
-        "summary": "Japan's H3 rocket sent the Michibiki 7 navigation satellite aloft this afternoon (Aug. 10), on the ninth-ever mission for the launch vehicle.",
+        "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+        "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of N",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 10 Aug 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/SQnWGhTgaaQuo95QhkKZRb-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 12 Aug 2026 20:40:27 +0000",
+        "source_url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg",
         "impact": 4
       }
     ],
@@ -322,14 +322,14 @@
         "impact": 4
       },
       {
-        "title": "A New Way to Map the Universe's Missing Matter",
-        "summary": "Brief but powerful flashes of radio waves are aiding astronomers' quest to find and map cosmic gas. The post A New Way to Map the Universe&#039;s Missing Matter appeared first on Sky &amp; Telescope.",
+        "title": "A Massive Stream of Gas Tilted This Planet-Forming Disk",
+        "summary": "Astronomers found evidence that a giant stream of gas flowing into the GW Orionis young triple-star system may have tilted its planet-forming disk, offering a new explanation for why some planetary systems are misaligned. The next step is to search for shock fronts in the system, and to search for more of these massive",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Tue, 04 Aug 2026 13:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/a-new-way-to-map-the-universes-missing-matter/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/MIT-FRB.jpg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 13 Aug 2026 18:51:25 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-massive-stream-of-gas-tilted-this-planet-forming-disk",
+        "image_url": "https://www.universetoday.com/article_images/GW-Ori-Streamer-1024x614_20260813_172726.jpg",
         "impact": 4
       },
       {
@@ -357,15 +357,26 @@
         "impact": 5
       },
       {
-        "title": "Prototype Architectural Battery Turns Public Space Into Urban Energy Storage in Ontario, Canada",
-        "summary": "Against a backdrop of climate change, inflation, and armed conflict, the global energy system is undergoing change and facing scrutiny. As stated by the United Nations, buildings must be heated, lit, and electrified through clean, accessible, affordable, sustainable, and reliable power sources. Architecture and urban p",
+        "title": "New Headquarters Office Building for IAPSER / Sebastian Stechina + Carlos Di Napoli + Andres Francesconi",
+        "summary": "On the edge where Paraná's urban fabric meets the river, an office building designed in exposed reinforced concrete offers a contemporary, high-performance image. The project was developed based on the winning entry of a design competition held for this purpose in 2019.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 12 Aug 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1183143/prototype-architectural-battery-turns-public-space-into-urban-energy-storage-in-ontario-canada",
-        "image_url": "https://images.adsttc.com/media/images/6a7b/e61a/ab59/ca01/8994/4840/large_jpg/civic-grid-architectural-battery_18.jpg?1786504836",
-        "impact": 5
+        "published_at": "Thu, 13 Aug 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183285/new-headquarters-office-building-for-iapser-sebastian-stechina-plus-carlos-di-napoli-plus-andres-francesconi",
+        "image_url": "https://images.adsttc.com/media/images/6a7e/027c/3cf9/6c00/0178/2910/large_jpg/05_Mirador_TEC_Di_Napoli__Francesconi__Stechina_-___Federico_Cairoli-_webHD.jpg?1786643084",
+        "impact": 4
+      },
+      {
+        "title": "Hospital del Mar Phase 2 Expansion / PINEARQ + Brullet-De Luna Arquitectes",
+        "summary": "Hospital del Mar occupies the southern end of the Campus Mar, bounded by the seafront promenade, the Ronda Litoral highway, the railway tracks, and the Barceloneta neighborhood. The project's challenges stem from a complex site with a single point of access, a water table at a depth of eight meters, and a hospital that",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 12 Aug 2026 19:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183207/hospital-del-mar-phase-2-expansion-pinearq-plus-brullet-de-luna-arquitectes",
+        "image_url": "https://images.adsttc.com/media/images/6a6c/7d19/1801/ca00/0176/e6a1/large_jpg/01_Hospital_del_Mar_Simon_Garcia.jpg?1785494826",
+        "impact": 4
       },
       {
         "title": "Habitat Collaborative threads curved school in India through tree-filled site",
@@ -388,20 +399,20 @@
         "source_url": "https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
-        "summary": "A glass-walled pavilion sandwiched between historic buildings is the leading feature of an Oregon art museum revamp, which was designed by US studios Hennebery Eddy Architects and Vinci Hamp Architects to improve the visitor experience. Spanning two urban blocks, the Portland Art Museum is located in the city's downtow",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 03 Aug 2026 17:56:02 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Pennsylvania targets $90B infrastructure investment over 12 years",
+        "summary": "Pending Federal Highway Administration review, the plan includes $16.9 billion for state highway and bridge projects alongside $12.9 billion for public transit in the first four years.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 13 Aug 2026 09:22:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/pennsylvania-targets-infrastructure-investment-12-years/827730/",
+        "image_url": "https://imgproxy.divecdn.com/iRJVdBMM009DxooEMzLH0DUJEvfbQT_pEPLPj1o-TFk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ3NTg4MTM3LmpwZw==.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -425,36 +436,25 @@
         "impact": 4
       },
       {
-        "title": "How construction pros used tech to save money, vet drawings and improve site safety",
-        "summary": "A round up of case studies from Suffolk, Hensel Phelps, Burns &amp; McDonnell and others shows how contractors are actually applying tech on jobsites, including challenges and benefits.",
+        "title": "WSP secures Wiltshire Council’s £200M highways consultancy contract",
+        "summary": "Engineering and infrastructure solutions firm WSP has been awarded Wiltshire Council’s term highways consultancy contract following a competitive procurement process. The post WSP secures Wiltshire Council&#8217;s £200M highways consultancy contract appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 12 Aug 2026 14:32:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-pros-jobsite-technology-ai-safety/827678/",
-        "image_url": "https://imgproxy.divecdn.com/cpuUhFgEb5RuPv7oQ2jzkzm80k_UbZfxiUNKx5Tk-ZQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04OTc0MTQxMTIuanBn.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 13 Aug 2026 12:30:14 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/wsp-secures-wiltshire-councils-200m-highways-consultancy-contract-13-08-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/08/Wiltshire-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "Construction backlog plummeted to lowest level since January",
-        "summary": "Data center strength in July masked &ldquo;the depth of this weakness&rdquo; around bookings for contractors, said Anirban Basu, chief economist at Associated Builders and Contractors.",
+        "title": "Balfour Beatty bullish on aviation, data centers in US",
+        "summary": "U.S. construction, a recent thorn in the side of the London-based builder, returned to profitability in first-half 2026 earnings.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 12 Aug 2026 11:28:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-backlog-plummeted-lowest-level-since-january/827692/",
-        "image_url": "https://imgproxy.divecdn.com/p738vtMQH_rHZiy8fRdfc4BzRGme9FC9IopdMtrlb-s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MjgzNjI1LmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Commanders pick JV for reported $3.8B NFL stadium",
-        "summary": "A JV that includes Clark Construction and Mortenson will collaborate on the 65,000-seat venue in Washington, D.C.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 11 Aug 2026 13:54:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/commanders-jv-nfl-stadium-clark-mortenson-smoot/827593/",
-        "image_url": "https://imgproxy.divecdn.com/zvgHnqsBz6uPhYCYIhcmORg2zNBiKGqPXPGylwZgRUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db21tYW5kZXJzU3RhZGl1bS5qcGc=.webp",
+        "published_at": "Thu, 13 Aug 2026 10:21:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/balfour-beatty-aviation-data-centers-us-earnings/827784/",
+        "image_url": "https://imgproxy.divecdn.com/4zPUwvuaqcbnRDnN2AX283hoh8N84Sq4creuIK6TnuM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU3NTYxNDMyLmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -471,46 +471,46 @@
         "impact": 5
       },
       {
-        "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
-        "summary": "arXiv:2608.07532v1 Announce Type: new Abstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either fix communication in advance or allow full broadcast. Both can be inefficient because token cost, latency, redundancy, and error propagation inc",
+        "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+        "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversation terminates withou",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.07532",
+        "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.11207",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
-        "summary": "arXiv:2608.07538v1 Announce Type: new Abstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create value, divide it predictably, and avoid money-losing contracts. We study this in a canonical supply chain bargaining problem: a buyer with private d",
+        "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+        "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literatu",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.07538",
+        "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.11210",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems",
-        "summary": "arXiv:2608.07627v1 Announce Type: new Abstract: Hospitals are racing to embed AI, while coping with the surge in adaptation of the technology in other industries, into the triage management, documentation, scheduling, and revenue-cycle workflows, yet most deployments remain as fragmented pilots that stall at the edge o",
+        "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+        "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a s",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.07627",
+        "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.11215",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
-        "summary": "arXiv:2608.07637v1 Announce Type: new Abstract: Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a",
+        "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+        "summary": "arXiv:2608.11220v1 Announce Type: new Abstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&amp;ID) is predominantly performed manually. Applying artificial intelligence in the task could potentially lead not only to process autom",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.07637",
+        "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.11220",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
