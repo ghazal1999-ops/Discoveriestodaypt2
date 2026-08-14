@@ -1,8 +1,19 @@
 {
-  "date": "2026-08-13",
-  "last_updated": "2026-08-13 23:38 UTC",
+  "date": "2026-08-14",
+  "last_updated": "2026-08-14 23:18 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+        "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The breakthrough suggests a",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 14 Aug 2026 09:16:36 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-burst.webp",
+        "impact": 5
+      },
       {
         "title": "“Cannot be explained” – New super steel stuns scientists",
         "summary": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material costs by roughly 40 times and make seawater-based hydrogen production far more economical.",
@@ -15,47 +26,36 @@
         "impact": 5
       },
       {
-        "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
-        "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug ",
+        "title": "Scientists discover the brain has a fast lane and slow lane for clearing waste",
+        "summary": "AI has helped scientists measure the brain’s hidden cleaning system, revealing that fluid moves rapidly around its outer spaces but about 50 times more slowly through deep tissue. The discovery could eventually help researchers detect circulation problems linked to Alzheimer’s, aging, and concussions.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 06 Aug 2026 05:50:21 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/male-anatomy-spinal-column-backbone.webp",
+        "published_at": "Wed, 12 Aug 2026 22:05:30 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260811011130.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/fluid-on-the-mind.webp",
         "impact": 5
       },
       {
-        "title": "How a mystery kept in London led to the discovery of a new Ecuadorian frog",
-        "summary": "Scientists from the Pontificia Universidad Católica del Ecuador officially described Pristimantis milpe, an abundant and widely distributed species that had been confused with another species for more than a century. To solve the mystery, researchers reviewed historical specimens collected in Ecuador during the 19th ce",
+        "title": "Cancer Cells Use a Sugar Shield To Hide From the Immune System",
+        "summary": "A study finds that nearby conditions and nutrients influence how cancer cells evade immune cells and how that protection might be disrupted. Cancer cells can sometimes escape immune attack by covering themselves in a dense layer of sugar-derived molecules that makes them harder for immune cells to recognize. Research f",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 13 Aug 2026 17:20:04 EDT",
-        "source_url": "https://phys.org/news/2026-08-mystery-london-discovery-ecuadorian-frog.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-mystery-kept-in-lond-1.jpg",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 14 Aug 2026 11:04:28 +0000",
+        "source_url": "https://scitechdaily.com/cancer-cells-use-a-sugar-shield-to-hide-from-the-immune-system/",
+        "image_url": "https://scitechdaily.com/images/Cancer-Cell-Immune-Cell-Illustration-777x518.jpg",
         "impact": 5
       },
       {
-        "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-        "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerat",
+        "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+        "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immu",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 12 Aug 2026 07:17:51 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/sherif-elsharkawy.webp",
-        "impact": 4
-      },
-      {
-        "title": "The adult brain can repair itself better than scientists thought",
-        "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding lost cellular networks. Rather than simply moving into the injured area, these cells perform a remark",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 12 Aug 2026 08:43:16 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-lesion-with-regenerative-astrocytes.webp",
+        "published_at": "Fri, 14 Aug 2026 09:28:02 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/brain-immune-cell-migration.webp",
         "impact": 4
       }
     ],
@@ -72,6 +72,17 @@
         "impact": 4
       },
       {
+        "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+        "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 14 Aug 2026 10:44:30 +0000",
+        "source_url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Verne-Uber-Pony-Partnership.jpg?resize=1200,713",
+        "impact": 3
+      },
+      {
         "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
         "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
         "category": "Tech",
@@ -83,93 +94,82 @@
         "impact": 3
       },
       {
-        "title": "Who really needs a cocktail robot?",
-        "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 13 Aug 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/bartesian-margarita-17.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "I finally found a robot lawnmower I’d trust with my yard",
-        "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But [&#8230;]",
+        "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
+        "summary": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels [&#8230;]",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-08-13T14:30:00-04:00",
-        "source_url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268689_Robot_Lawnmower_JTuohy_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-08-14T07:00:00-04:00",
+        "source_url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-msi-claw-ex-sean-hollister-1-8.jpg?quality=90&strip=all&crop=0%2C11.782791030077%2C100%2C78.534450752859&w=1200",
         "impact": 3
       },
       {
-        "title": "You can now just point at a mess and this robot vacuum will suck it up",
-        "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature [&#8230;]",
+        "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+        "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-08-13T14:00:00-04:00",
-        "source_url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 14 Aug 2026 20:59:03 +0000",
+        "source_url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+        "image_url": "https://media.wired.com/photos/6a7e3d7b0f200c034ba14a12/191:100/w_1280,c_limit/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "How precision nutrition may enhance effectiveness of GLP-1 drugs",
-        "summary": "A review titled \"Integrating Precision Nutrition with GLP-1 Receptor Agonist Therapy: Mechanisms, Clinical Outcomes, and Pharmacoeconomic Implications\" examines the biological mechanisms of nutrition, body composition, gut microbiome, inflammation, metabolism and genetics to develop individualized recommendations for o",
+        "title": "Can a vaccine built for one Ebola virus stop another? The World Health Organization is about to find out",
+        "summary": "The World Health Organization (WHO) has recommended prioritizing the Ervebo vaccine for testing in a clinical trial in the Democratic Republic of the Congo. The vaccine was originally developed to protect against Zaire ebolavirus, the species responsible for the devastating West African epidemic just over a decade ago.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 13 Aug 2026 18:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-precision-nutrition-effectiveness-glp-drugs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/precision-nutrition-ma.jpg",
+        "published_at": "Fri, 14 Aug 2026 15:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-vaccine-built-ebola-virus-world.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ebola-outbreak.jpg",
         "impact": 4
       },
       {
-        "title": "A common sugar may help cancer cells break free and spread",
-        "summary": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer progression, though the effects have not yet been confirmed in patients.",
+        "title": "Drug that targets an inflammatory enzyme could help prevent lung cancer",
+        "summary": "Every year, lung cancer kills more than 100,000 people in the United States. Smoking is the leading risk factor for lung cancer, but other environmental exposures can also contribute to the disease.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 14 Aug 2026 14:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-drug-inflammatory-enzyme-lung-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/lung-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Placental transport mechanism could guide safer biologic medicines during pregnancy",
+        "summary": "Biologic medicines have transformed the treatment of cancer, autoimmune diseases, migraine, inflammatory disorders and many other conditions. Yet their growing use among women of reproductive age constitutes a major clinical challenge because therapeutic IgG antibodies are actively transported across the placenta to th",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 14 Aug 2026 14:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-placental-mechanism-safer-biologic-medicines.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/placenta.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Selenite changes key properties of pancreatic cancer cells in experimental models",
+        "summary": "Researchers at Karolinska Institutet report in the Journal of Experimental & Clinical Cancer Research that sodium selenite not only can damage tumor cells but also influence characteristics linked to tumor aggressiveness and treatment response. The findings are based on both cell experiments and analyses of tumor tissu",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 14 Aug 2026 13:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-selenite-key-properties-pancreatic-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/selenite-changes-key-p.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+        "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzhe",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Tue, 04 Aug 2026 01:15:18 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223426.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
-        "impact": 4
-      },
-      {
-        "title": "BathMat trial shows promise in cutting ICU workload while improving care for critically ill patients",
-        "summary": "An innovative inflatable repositioning device developed by researchers and clinicians at the University of Bath and Royal United Hospitals Bath NHS Foundation Trust could significantly reduce the number of staff required to care for prone, ventilated patients, according to preliminary findings from a clinical trial.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 13 Aug 2026 19:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-bathmat-trial-icu-workload-critically.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/bathmat-trial-shows-pr.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Electric fields offer new hope against aggressive brain cancer",
-        "summary": "More than a decade ago, Dr. Matthew Hebb was treating patients with Parkinson's disease using deep brain stimulation by implanting tiny electrodes into the brain and delivering electrical signals to control tremors. He wondered if the same basic technology could be used against brain cancer.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 13 Aug 2026 18:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-electric-fields-aggressive-brain-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/electric-fields-offer.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Impaired brain protein drives fat cravings and obesity in mice",
-        "summary": "Obesity is a global health concern that can contribute to diabetes, cardiovascular disease and other metabolic disorders. While many health conditions can lead to obesity, an increasingly worrying cause is found on grocery shelves: high-fat foods. These foods are known to be hard to resist and can promote overeating.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 13 Aug 2026 17:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-impaired-brain-protein-fat-cravings.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-cravings-impaire-1.jpg",
+        "published_at": "Fri, 14 Aug 2026 07:19:42 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/senior-woman-aging-memory-loss-dementia-brain-puzzle-pieces.webp",
         "impact": 4
       }
     ],
@@ -243,14 +243,25 @@
         "impact": 5
       },
       {
-        "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
-        "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful a",
+        "title": "Will the new moon race turn Earth's nearest neighbor into a dumping ground?",
+        "summary": "We need rules to prevent space companies from dumping their old rockets onto the moon's surface in the future, experts say.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 12 Aug 2026 17:55:36 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0039-003.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 14 Aug 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/will-the-new-moon-race-turn-earths-nearest-neighbor-into-a-dumping-ground",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "SpaceX rocket's moon crash highlights 'a tangible operational risk' of lunar settlement",
+        "summary": "A SpaceX rocket body slammed into the moon earlier this month, showcasing a risk that will increase as humanity establishes a footprint on Earth's nearest neighbor.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 14 Aug 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/EiFsUah8tAvuzZqzwiuaTF-1280-80.jpg",
         "impact": 4
       },
       {
@@ -265,25 +276,14 @@
         "impact": 4
       },
       {
-        "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
-        "summary": "Operating a million or more data centers in space would mean a massive increase in air pollution from rocket launches and concentrations of toxic ash from reentering satellites.",
+        "title": "US Space Force gives Rocket Lab $397 million to build threat-tracking 'Flatellites'",
+        "summary": "The U.S. Space Force has awarded Rocket Lab $397 million to manufacture a new fleet of \"Flatellites\" designed to detect and track airborne threats from space.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Tue, 11 Aug 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Y2b9XP3PZ2w8rCDW9psmjS-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-        "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of N",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 12 Aug 2026 20:40:27 +0000",
-        "source_url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg",
+        "published_at": "Fri, 14 Aug 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/yL7kusp8LCpShc9tFfuF4E-1280-80.png",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "A Rare Extragalactic Stellar Stream Reveals Hidden Dark Matter",
+        "summary": "Scientists have discovered a rare star formation hidden in a distant galaxy, unlike anything seen before beyond the Milky Way. What’s more, the discovery offers a brand new way to measure the distribution of dark matter in distant galaxies.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 13 Aug 2026 23:51:17 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-rare-extragalactic-stellar-stream-reveals-hidden-dark-matter",
+        "image_url": "https://www.universetoday.com/article_images/Low-Res_Data_simple_pretty_box_183mm_dpi6001.jpg_20260813_191547.jpeg",
+        "impact": 4
+      },
+      {
         "title": "A Massive Stream of Gas Tilted This Planet-Forming Disk",
         "summary": "Astronomers found evidence that a giant stream of gas flowing into the GW Orionis young triple-star system may have tilted its planet-forming disk, offering a new explanation for why some planetary systems are misaligned. The next step is to search for shock fronts in the system, and to search for more of these massive",
         "category": "Astronomy",
@@ -331,30 +342,19 @@
         "source_url": "https://www.universetoday.com/articles/a-massive-stream-of-gas-tilted-this-planet-forming-disk",
         "image_url": "https://www.universetoday.com/article_images/GW-Ori-Streamer-1024x614_20260813_172726.jpg",
         "impact": 4
-      },
-      {
-        "title": "Two Million X-Ray Sources, and One Cluster That Doesn't Fit",
-        "summary": "The eROSITA telescope has released its second great catalogue of the X-ray sky with close to two million sources across half the sky, roughly double what it published before. Buried in it is a result from Bonn that matters more than the headline number. A team there went after the faintest part of a massive galaxy clus",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 12 Aug 2026 22:52:42 +0000",
-        "source_url": "https://www.universetoday.com/articles/two-million-x-ray-sources-and-one-cluster-that-doesnt-fit",
-        "image_url": "https://www.universetoday.com/article_images/original_20260812_224232.webp",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Alexandre Chemetoff, Landscapes, Urbanism",
-        "summary": "Alexandre Chemetoff&rsquo;s urban design draws on decades of designing landscapes, using new methods to reinvigorate older areas of the city and their architecture, while simultaneously proposing new buildings and neighborhoods-an innovative and unique method. Alexandre Chemetoff&rsquo;s professional trajectory and pra",
+        "title": "Applying Exposed Cork in Interior Architecture",
+        "summary": "How can we transport ourselves to natural environments when we find ourselves in entirely urban contexts? The materiality of spaces is one of the factors that determines the atmosphere we inhabit. In this regard, the incorporation of natural materials in interior architecture can help introduce textures, colors, and qu",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 12 Aug 2026 09:15:00 +0000",
-        "source_url": "https://www.archdaily.com/1183181/alexandre-chemetoff-landscapes-urbanism",
-        "image_url": "https://images.adsttc.com/media/images/6a7c/6955/3cf9/6c00/0178/0af4/large_jpg/grid.jpg?1786538330",
-        "impact": 5
+        "published_at": "Fri, 14 Aug 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/960854/applying-exposed-cork-in-interior-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6086/cff3/f91c/81a7/b800/0130/large_jpg/ArtBarn-JimStephenson-80_MidRes.jpg?1619447790",
+        "impact": 4
       },
       {
         "title": "New Headquarters Office Building for IAPSER / Sebastian Stechina + Carlos Di Napoli + Andres Francesconi",
@@ -365,17 +365,6 @@
         "published_at": "Thu, 13 Aug 2026 15:00:00 +0000",
         "source_url": "https://www.archdaily.com/1183285/new-headquarters-office-building-for-iapser-sebastian-stechina-plus-carlos-di-napoli-plus-andres-francesconi",
         "image_url": "https://images.adsttc.com/media/images/6a7e/027c/3cf9/6c00/0178/2910/large_jpg/05_Mirador_TEC_Di_Napoli__Francesconi__Stechina_-___Federico_Cairoli-_webHD.jpg?1786643084",
-        "impact": 4
-      },
-      {
-        "title": "Hospital del Mar Phase 2 Expansion / PINEARQ + Brullet-De Luna Arquitectes",
-        "summary": "Hospital del Mar occupies the southern end of the Campus Mar, bounded by the seafront promenade, the Ronda Litoral highway, the railway tracks, and the Barceloneta neighborhood. The project's challenges stem from a complex site with a single point of access, a water table at a depth of eight meters, and a hospital that",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 12 Aug 2026 19:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1183207/hospital-del-mar-phase-2-expansion-pinearq-plus-brullet-de-luna-arquitectes",
-        "image_url": "https://images.adsttc.com/media/images/6a6c/7d19/1801/ca00/0176/e6a1/large_jpg/01_Hospital_del_Mar_Simon_Garcia.jpg?1785494826",
         "impact": 4
       },
       {
@@ -399,9 +388,31 @@
         "source_url": "https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
+      },
+      {
+        "title": "from casa malaparte to the sheats-goldstein residence, these homes became movie stars",
+        "summary": "these architect-designed homes have taken on lives of their own in films, shaping characters, moods, and the way we remember the buildings themselves. The post from casa malaparte to the sheats-goldstein residence, these homes became movie stars appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 14 Aug 2026 10:05:50 +0000",
+        "source_url": "https://www.designboom.com/architecture/casa-malaparte-sheats-goldstein-residence-homes-movie-stars/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/casa-malaparte-sheats-goldstein-residence-homes-movie-stars-designboom-1200.jpg",
+        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Builders tout more than just data centers in latest earnings reports",
+        "summary": "The AI buildout continued to dominate construction&rsquo;s focus, but publicly traded companies also seemed to keep diversification in mind, highlighting other infrastructure sectors.&nbsp;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 14 Aug 2026 15:04:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/builders-earnings-roundup-q2-2026-balfour-beatty-skanska-wsp-aecom-granite-tutor-perini/827956/",
+        "image_url": "https://imgproxy.divecdn.com/bLDRpFTLS7kveLk87eltsk6CwscVamsfyRB_16ER-uU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80ODgyMjMwMTZfMTI4Mjk2MjE5MzMwMTUwOF81OTg3MzA0MTIzMzI4ODc2MTc1X24uanBn.webp",
+        "impact": 4
+      },
       {
         "title": "Pennsylvania targets $90B infrastructure investment over 12 years",
         "summary": "Pending Federal Highway Administration review, the plan includes $16.9 billion for state highway and bridge projects alongside $12.9 billion for public transit in the first four years.",
@@ -445,17 +456,6 @@
         "source_url": "https://www.newcivilengineer.com/latest/wsp-secures-wiltshire-councils-200m-highways-consultancy-contract-13-08-2026/",
         "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/08/Wiltshire-560x315.jpg",
         "impact": 4
-      },
-      {
-        "title": "Balfour Beatty bullish on aviation, data centers in US",
-        "summary": "U.S. construction, a recent thorn in the side of the London-based builder, returned to profitability in first-half 2026 earnings.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 13 Aug 2026 10:21:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/balfour-beatty-aviation-data-centers-us-earnings/827784/",
-        "image_url": "https://imgproxy.divecdn.com/4zPUwvuaqcbnRDnN2AX283hoh8N84Sq4creuIK6TnuM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU3NTYxNDMyLmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+        "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.11207",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+        "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.11210",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+        "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.11215",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+        "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.11220",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
