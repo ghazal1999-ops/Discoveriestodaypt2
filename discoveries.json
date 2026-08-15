@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "last_updated": "2026-08-14 23:18 UTC",
+  "date": "2026-08-15",
+  "last_updated": "2026-08-15 23:17 UTC",
   "categories": {
     "science": [
       {
@@ -37,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists Steer Infrared Light Through an “Invisible” Waveguide",
+        "summary": "The discovery could advance integrated photonics, on-chip optical signal transmission, and future quantum technologies. A nanoscale gold antenna placed on a crystal can send infrared light along one narrow route, even though no physical waveguide has been carved into the material. Researchers at the 4th Physics Institu",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 14 Aug 2026 23:30:28 +0000",
+        "source_url": "https://scitechdaily.com/scientists-steer-infrared-light-through-an-invisible-waveguide/",
+        "image_url": "https://scitechdaily.com/images/Artists-Illustration-of-Plasmon-Canalization-in-MoOCl₂-777x701.jpg",
+        "impact": 5
+      },
+      {
         "title": "Cancer Cells Use a Sugar Shield To Hide From the Immune System",
         "summary": "A study finds that nearby conditions and nutrients influence how cancer cells evade immune cells and how that protection might be disrupted. Cancer cells can sometimes escape immune attack by covering themselves in a dense layer of sugar-derived molecules that makes them harder for immune cells to recognize. Research f",
         "category": "Science",
@@ -46,17 +57,6 @@
         "source_url": "https://scitechdaily.com/cancer-cells-use-a-sugar-shield-to-hide-from-the-immune-system/",
         "image_url": "https://scitechdaily.com/images/Cancer-Cell-Immune-Cell-Illustration-777x518.jpg",
         "impact": 5
-      },
-      {
-        "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-        "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immu",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 14 Aug 2026 09:28:02 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-immune-cell-migration.webp",
-        "impact": 4
       }
     ],
     "tech": [
@@ -83,25 +83,25 @@
         "impact": 3
       },
       {
-        "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-        "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 13 Aug 2026 21:50:11 +0000",
-        "source_url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
-        "impact": 3
-      },
-      {
-        "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
-        "summary": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels [&#8230;]",
+        "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+        "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more ",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-08-14T07:00:00-04:00",
-        "source_url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-msi-claw-ex-sean-hollister-1-8.jpg?quality=90&strip=all&crop=0%2C11.782791030077%2C100%2C78.534450752859&w=1200",
+        "published_at": "2026-08-15T13:00:00-04:00",
+        "source_url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
+        "summary": "One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devices you have to source DRM-free ebooks on your own. That's about to change, as t",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-08-15T09:00:00-04:00",
+        "source_url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xteinklibby1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "impact": 3
       },
       {
@@ -151,17 +151,6 @@
         "impact": 4
       },
       {
-        "title": "Selenite changes key properties of pancreatic cancer cells in experimental models",
-        "summary": "Researchers at Karolinska Institutet report in the Journal of Experimental & Clinical Cancer Research that sodium selenite not only can damage tumor cells but also influence characteristics linked to tumor aggressiveness and treatment response. The findings are based on both cell experiments and analyses of tumor tissu",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 14 Aug 2026 13:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-selenite-key-properties-pancreatic-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/selenite-changes-key-p.jpg",
-        "impact": 4
-      },
-      {
         "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
         "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzhe",
         "category": "Medicine",
@@ -170,6 +159,17 @@
         "published_at": "Fri, 14 Aug 2026 07:19:42 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/senior-woman-aging-memory-loss-dementia-brain-puzzle-pieces.webp",
+        "impact": 4
+      },
+      {
+        "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
+        "summary": "Researchers have discovered that a gene linked to congenital heart disease acts like an architect for the heart cell’s DNA. Losing just one copy of TBX5 can cause the genome’s carefully folded 3D structure to unravel, disrupting the genes needed to build a healthy heart. The effects can vary from cell to cell, which ma",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 13 Aug 2026 09:46:14 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015214.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/dna-mutation-genetics-bioengineering-cancer-disease.webp",
         "impact": 4
       }
     ],
@@ -276,14 +276,14 @@
         "impact": 4
       },
       {
-        "title": "US Space Force gives Rocket Lab $397 million to build threat-tracking 'Flatellites'",
-        "summary": "The U.S. Space Force has awarded Rocket Lab $397 million to manufacture a new fleet of \"Flatellites\" designed to detect and track airborne threats from space.",
+        "title": "This Week In Space podcast: Episode 223 — The Lunar Domain",
+        "summary": "On Episode 223 of This Week In Space, Rod Pyle and guest co-host Dale Skran are joined by Dr. Scott Pace to discuss the future of exploration on the Moon.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Fri, 14 Aug 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/yL7kusp8LCpShc9tFfuF4E-1280-80.png",
+        "published_at": "Sat, 15 Aug 2026 12:08:27 +0000",
+        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-223-the-lunar-domain",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/GjxTWVnGqpWUUf4DTk2q7H-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -322,25 +322,25 @@
         "impact": 4
       },
       {
-        "title": "A Rare Extragalactic Stellar Stream Reveals Hidden Dark Matter",
-        "summary": "Scientists have discovered a rare star formation hidden in a distant galaxy, unlike anything seen before beyond the Milky Way. What’s more, the discovery offers a brand new way to measure the distribution of dark matter in distant galaxies.",
+        "title": "Hubble Reveals that Star Formation is Slowing Down in the Andromeda Galaxy",
+        "summary": "A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 13 Aug 2026 23:51:17 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-rare-extragalactic-stellar-stream-reveals-hidden-dark-matter",
-        "image_url": "https://www.universetoday.com/article_images/Low-Res_Data_simple_pretty_box_183mm_dpi6001.jpg_20260813_191547.jpeg",
+        "published_at": "Fri, 14 Aug 2026 23:58:06 +0000",
+        "source_url": "https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
+        "image_url": "https://www.universetoday.com/article_images/hs-2015-02-a-hires_jpg-jpg_20260814_234854.jpg",
         "impact": 4
       },
       {
-        "title": "A Massive Stream of Gas Tilted This Planet-Forming Disk",
-        "summary": "Astronomers found evidence that a giant stream of gas flowing into the GW Orionis young triple-star system may have tilted its planet-forming disk, offering a new explanation for why some planetary systems are misaligned. The next step is to search for shock fronts in the system, and to search for more of these massive",
+        "title": "The Tarantula That Lost Its Fire",
+        "summary": "A new composite image combining data from Chandra, Hubble, Webb and the retired Spitzer telescope has helped astronomers solve a long standing puzzle in the Tarantula Nebula, a star forming region 160,000 light years away. Young, massive stars there should be heating enough gas to emit X-rays, but observations showed f",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 13 Aug 2026 18:51:25 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-massive-stream-of-gas-tilted-this-planet-forming-disk",
-        "image_url": "https://www.universetoday.com/article_images/GW-Ori-Streamer-1024x614_20260813_172726.jpg",
+        "published_at": "Fri, 14 Aug 2026 23:41:08 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-tarantula-that-lost-its-fire",
+        "image_url": "https://www.universetoday.com/article_images/30dor_20260814_232917.jpg",
         "impact": 4
       }
     ],
@@ -354,17 +354,6 @@
         "published_at": "Fri, 14 Aug 2026 07:30:00 +0000",
         "source_url": "https://www.archdaily.com/960854/applying-exposed-cork-in-interior-architecture",
         "image_url": "https://images.adsttc.com/media/images/6086/cff3/f91c/81a7/b800/0130/large_jpg/ArtBarn-JimStephenson-80_MidRes.jpg?1619447790",
-        "impact": 4
-      },
-      {
-        "title": "New Headquarters Office Building for IAPSER / Sebastian Stechina + Carlos Di Napoli + Andres Francesconi",
-        "summary": "On the edge where Paraná's urban fabric meets the river, an office building designed in exposed reinforced concrete offers a contemporary, high-performance image. The project was developed based on the winning entry of a design competition held for this purpose in 2019.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 13 Aug 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1183285/new-headquarters-office-building-for-iapser-sebastian-stechina-plus-carlos-di-napoli-plus-andres-francesconi",
-        "image_url": "https://images.adsttc.com/media/images/6a7e/027c/3cf9/6c00/0178/2910/large_jpg/05_Mirador_TEC_Di_Napoli__Francesconi__Stechina_-___Federico_Cairoli-_webHD.jpg?1786643084",
         "impact": 4
       },
       {
@@ -398,6 +387,17 @@
         "published_at": "Fri, 14 Aug 2026 10:05:50 +0000",
         "source_url": "https://www.designboom.com/architecture/casa-malaparte-sheats-goldstein-residence-homes-movie-stars/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/casa-malaparte-sheats-goldstein-residence-homes-movie-stars-designboom-1200.jpg",
+        "impact": 4
+      },
+      {
+        "title": "vietnam architects fill a narrow plot with stacked volumes to shape ‘titi’s house’",
+        "summary": "titi’s house demonstrates how a narrow urban lot in vietnam can become a home that balances individual privacy with shared family life. The post vietnam architects fill a narrow plot with stacked volumes to shape &#8216;titi’s house&#8217; appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 13 Aug 2026 04:01:03 +0000",
+        "source_url": "https://www.designboom.com/architecture/vietnam-narrow-plot-stacked-volumes-titis-house-07-03-2025/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2025/07/titis-house-naqi-partners-ho-chi-minh-city-vietnam-designboom-FB.jpg",
         "impact": 4
       }
     ],
@@ -471,48 +471,48 @@
         "impact": 5
       },
       {
-        "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-        "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversation terminates withou",
+        "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+        "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appeali",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.11207",
+        "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.12368",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-        "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literatu",
+        "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+        "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-D",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.11210",
+        "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.12371",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-        "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a s",
+        "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+        "summary": "arXiv:2608.12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment. The steering decision is the pre-commit choice at that boundary: proceed, or hold for human or policy review. We introduce SteerBench-Work, an incident",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.11215",
+        "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.12654",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-        "summary": "arXiv:2608.11220v1 Announce Type: new Abstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&amp;ID) is predominantly performed manually. Applying artificial intelligence in the task could potentially lead not only to process autom",
+        "title": "The builder’s guide to GPT‑5.6",
+        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.11220",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
+        "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
