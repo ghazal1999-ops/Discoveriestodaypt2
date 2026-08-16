@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-15",
-  "last_updated": "2026-08-15 23:17 UTC",
+  "date": "2026-08-16",
+  "last_updated": "2026-08-16 23:16 UTC",
   "categories": {
     "science": [
       {
@@ -48,15 +48,15 @@
         "impact": 5
       },
       {
-        "title": "Cancer Cells Use a Sugar Shield To Hide From the Immune System",
-        "summary": "A study finds that nearby conditions and nutrients influence how cancer cells evade immune cells and how that protection might be disrupted. Cancer cells can sometimes escape immune attack by covering themselves in a dense layer of sugar-derived molecules that makes them harder for immune cells to recognize. Research f",
+        "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+        "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other extinct Pleistocene amphibian has ever been identified in North America. Its bones had been sitting in",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 14 Aug 2026 11:04:28 +0000",
-        "source_url": "https://scitechdaily.com/cancer-cells-use-a-sugar-shield-to-hide-from-the-immune-system/",
-        "image_url": "https://scitechdaily.com/images/Cancer-Cell-Immune-Cell-Illustration-777x518.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 16 Aug 2026 03:33:36 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/spea-labreae-reconstruction.webp",
+        "impact": 4
       }
     ],
     "tech": [
@@ -72,17 +72,6 @@
         "impact": 4
       },
       {
-        "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-        "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 14 Aug 2026 10:44:30 +0000",
-        "source_url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Verne-Uber-Pony-Partnership.jpg?resize=1200,713",
-        "impact": 3
-      },
-      {
         "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
         "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more ",
         "category": "Tech",
@@ -91,17 +80,6 @@
         "published_at": "2026-08-15T13:00:00-04:00",
         "source_url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
         "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
-        "summary": "One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devices you have to source DRM-free ebooks on your own. That's about to change, as t",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-08-15T09:00:00-04:00",
-        "source_url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xteinklibby1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "impact": 3
       },
       {
@@ -114,40 +92,62 @@
         "source_url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
         "image_url": "https://media.wired.com/photos/6a7e3d7b0f200c034ba14a12/191:100/w_1280,c_limit/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg",
         "impact": 3
+      },
+      {
+        "title": "The Real Reason Data Center Gas Power Plants Are So Dirty",
+        "summary": "A massive new gas plant in Texas will be built with much less efficient technology than regular gas plants. It’s far from the only data center power project to rely on dirty turbines.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 14 Aug 2026 09:00:00 +0000",
+        "source_url": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
+        "image_url": "https://media.wired.com/photos/6a7e65723fe13c1d3993e0db/191:100/w_1280,c_limit/Real-Reason-Data-Center-Gas-Power-Plants-Are-So-Dirty-Science-2280775684.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 14 Aug 2026 12:17:21 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
+        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Can a vaccine built for one Ebola virus stop another? The World Health Organization is about to find out",
-        "summary": "The World Health Organization (WHO) has recommended prioritizing the Ervebo vaccine for testing in a clinical trial in the Democratic Republic of the Congo. The vaccine was originally developed to protect against Zaire ebolavirus, the species responsible for the devastating West African epidemic just over a decade ago.",
+        "title": "New way to help CAR-T cells fight solid tumors could change cancer treatment",
+        "summary": "For more than a decade, CAR-T cell therapy has been one of the biggest breakthroughs in cancer medicine. By reprogramming a patient's own immune cells to attack cancer, doctors have produced remarkable results against certain blood cancers, offering hope to patients who once had few treatment options.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 14 Aug 2026 15:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-vaccine-built-ebola-virus-world.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ebola-outbreak.jpg",
+        "published_at": "Sun, 16 Aug 2026 12:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-car-cells-solid-tumors-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-way-to-help-car-1.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Fourteen foodborne parasites still drive 171 million illnesses worldwide, analysis finds",
+        "summary": "Recent Cyclospora outbreaks have renewed public attention to foodborne parasites, but they also highlight a broader reality: These diseases continue to affect millions of people around the world and remain a significant global public health challenge.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 16 Aug 2026 14:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-fourteen-foodborne-parasites-million-illnesses.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-burden-of-foodb.jpg",
         "impact": 4
       },
       {
-        "title": "Drug that targets an inflammatory enzyme could help prevent lung cancer",
-        "summary": "Every year, lung cancer kills more than 100,000 people in the United States. Smoking is the leading risk factor for lung cancer, but other environmental exposures can also contribute to the disease.",
+        "title": "This 10-cent heart drug cuts hospitalizations by 25%",
+        "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the way for its return as a major treatment.",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 14 Aug 2026 14:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-drug-inflammatory-enzyme-lung-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/lung-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Placental transport mechanism could guide safer biologic medicines during pregnancy",
-        "summary": "Biologic medicines have transformed the treatment of cancer, autoimmune diseases, migraine, inflammatory disorders and many other conditions. Yet their growing use among women of reproductive age constitutes a major clinical challenge because therapeutic IgG antibodies are actively transported across the placenta to th",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 14 Aug 2026 14:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-placental-mechanism-safer-biologic-medicines.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/placenta.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 16 Aug 2026 08:22:32 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/red-heart-white-pills.webp",
         "impact": 4
       },
       {
@@ -232,15 +232,15 @@
     ],
     "space": [
       {
-        "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
-        "summary": "On Aug. 12, 2005, NASA launched its Mars Reconnaissance Orbiter (MRO) mission.",
+        "title": "NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan",
+        "summary": "An early-stage grant is offering a look at spherical 'Aerobots' that could zoom around the caves of Titan, in a demo mission similar to Mars Ingenuity.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 12 Aug 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/zCUhzcQoCVkdDXpb6arPy7-1280-80.jpg",
-        "impact": 5
+        "published_at": "Sun, 16 Aug 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/CPAVvkYeGdQpDcpkdFBthh-1280-80.jpg",
+        "impact": 4
       },
       {
         "title": "Will the new moon race turn Earth's nearest neighbor into a dumping ground?",
@@ -276,14 +276,14 @@
         "impact": 4
       },
       {
-        "title": "This Week In Space podcast: Episode 223 — The Lunar Domain",
-        "summary": "On Episode 223 of This Week In Space, Rod Pyle and guest co-host Dale Skran are joined by Dr. Scott Pace to discuss the future of exploration on the Moon.",
+        "title": "'This goes beyond showcasing technological soft power': China's new moon map signals bold space ambitions (video)",
+        "summary": "New chronology, data about the moon's far side and a homegrown cartographic standard signal China's ambitions for how the solar system gets mapped.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sat, 15 Aug 2026 12:08:27 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-223-the-lunar-domain",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/GjxTWVnGqpWUUf4DTk2q7H-1280-80.jpg",
+        "published_at": "Sun, 16 Aug 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/moon/this-goes-beyond-showcasing-technological-soft-power-chinas-new-moon-map-signals-bold-space-ambitions-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/VBNz8wP7jhW5ihrPUgo78M-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -346,17 +346,6 @@
     ],
     "architecture": [
       {
-        "title": "Applying Exposed Cork in Interior Architecture",
-        "summary": "How can we transport ourselves to natural environments when we find ourselves in entirely urban contexts? The materiality of spaces is one of the factors that determines the atmosphere we inhabit. In this regard, the incorporation of natural materials in interior architecture can help introduce textures, colors, and qu",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 14 Aug 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/960854/applying-exposed-cork-in-interior-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6086/cff3/f91c/81a7/b800/0130/large_jpg/ArtBarn-JimStephenson-80_MidRes.jpg?1619447790",
-        "impact": 4
-      },
-      {
         "title": "Habitat Collaborative threads curved school in India through tree-filled site",
         "summary": "A triple-height skylit atrium with a sandpit at its base sits at the heart of New Horizon, a school in Vadodara, India, designed by local architecture studio Habitat Collaborative. Commissioned by a local chapter of non-profit Round Table India, the 1,442-square-metre building provides additional space for middle and s",
         "category": "Architecture",
@@ -390,14 +379,25 @@
         "impact": 4
       },
       {
-        "title": "vietnam architects fill a narrow plot with stacked volumes to shape ‘titi’s house’",
-        "summary": "titi’s house demonstrates how a narrow urban lot in vietnam can become a home that balances individual privacy with shared family life. The post vietnam architects fill a narrow plot with stacked volumes to shape &#8216;titi’s house&#8217; appeared first on designboom | architecture &amp; design magazine.",
+        "title": "Paso Nara / Instituto Superior de Arquitectura y Diseño",
+        "summary": "During the summer of 2026, the Instituto Superior de Arquitectura y Diseño (ISAD) hosted a new edition of the Taller del Desierto (Desert Workshop), an intensive academic exercise that for over a decade has brought together students from various design disciplines to develop and build 1:1 scale interventions in the urb",
         "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 13 Aug 2026 04:01:03 +0000",
-        "source_url": "https://www.designboom.com/architecture/vietnam-narrow-plot-stacked-volumes-titis-house-07-03-2025/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2025/07/titis-house-naqi-partners-ho-chi-minh-city-vietnam-designboom-FB.jpg",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 16 Aug 2026 16:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183381/paso-nara-instituto-superior-de-arquitectura-y-diseno",
+        "image_url": "https://images.adsttc.com/media/images/6a74/68fe/eee6/f800/0125/f73c/large_jpg/TDD26-12.jpg?1786014101",
+        "impact": 4
+      },
+      {
+        "title": "Beyond the Handmade Aesthetic: Why Craft Needs New Construction Economies",
+        "summary": "There has never been a more celebrated moment for craftsmanship in architecture. Across magazines, awards, and international exhibitions, handmade brick, lime plaster, carved stone, woven bamboo, and rammed earth have re-emerged as symbols of environmental responsibility, cultural continuity, and architectural authenti",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 16 Aug 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1182452/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies",
+        "image_url": "https://images.adsttc.com/media/images/6a79/4836/ac8b/af01/892c/b69a/large_jpg/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies_11.jpg?1786333268",
         "impact": 4
       }
     ],
@@ -471,39 +471,6 @@
         "impact": 5
       },
       {
-        "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-        "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appeali",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.12368",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-        "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-D",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.12371",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
-        "summary": "arXiv:2608.12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment. The steering decision is the pre-commit choice at that boundary: proceed, or hold for human or policy review. We introduce SteerBench-Work, an incident",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.12654",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
         "title": "The builder’s guide to GPT‑5.6",
         "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
         "category": "AI",
@@ -512,6 +479,39 @@
         "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
         "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
         "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 29 Jul 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2Og4MpejHbFrNOgRBVvhTh/589eff3fad85c1992c0973594e76a949/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_SEO_CARD__1_.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "Here’s why AI agents lie and cheat to reach their goals",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just look",
+        "category": "AI",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 03 Aug 2026 08:30:05 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "From assistance to execution: How enterprises put AI to work",
+        "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 12 Aug 2026 06:00:00 GMT",
+        "source_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2If00wbX68BibN4DuBTlxC/32dc95f1c054f1c46a91179fef80b55c/Frame.png?w=1600&h=900&fit=fill",
         "impact": 4
       }
     ]
