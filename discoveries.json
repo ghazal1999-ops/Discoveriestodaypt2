@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-17",
-  "last_updated": "2026-08-17 23:20 UTC",
+  "date": "2026-08-18",
+  "last_updated": "2026-08-18 23:19 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists may have finally proved that “empty” space isn’t really empty",
+        "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window into the strange physic",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 18 Aug 2026 02:08:04 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/magnetar-1e-15470-5408.webp",
+        "impact": 4
+      },
+      {
         "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
         "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active think",
         "category": "Science",
@@ -46,31 +57,9 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/spea-labreae-reconstruction.webp",
         "impact": 4
-      },
-      {
-        "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-        "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very d",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 15 Aug 2026 06:55:39 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/woman-measuring-tape-belly-fat-weight-loss.webp",
-        "impact": 4
       }
     ],
     "tech": [
-      {
-        "title": "Building a practical path to post-quantum cryptography",
-        "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution,",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 13 Aug 2026 18:11:42 +0000",
-        "source_url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg?resize=1200,600",
-        "impact": 4
-      },
       {
         "title": "The Download: dead robot friends and the “censorship-industrial complex”",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
@@ -105,71 +94,82 @@
         "impact": 3
       },
       {
-        "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-        "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 17 Aug 2026 16:15:12 +0000",
-        "source_url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-529313685.jpg?resize=1200,1200",
+        "published_at": "Tue, 18 Aug 2026 14:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750",
+        "impact": 3
+      },
+      {
+        "title": "Fairphone is launching its latest repairable phone in the US too",
+        "summary": "The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing component shortages, a repairable device that can be made to last for years may prove a good proposition.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 18 Aug 2026 11:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/image_1e5cf0.png?resize=1200,1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Immunotherapy found effective against a subtype of difficult-to-treat ovarian cancer",
-        "summary": "A research group has revealed through studies in humans and mice that a subset of clear cell ovarian cancers, which have been considered difficult to treat with anticancer drugs and immunotherapy, responds to immunotherapy.",
+        "title": "Chemists develop dual-action compounds to fight cancer and infections",
+        "summary": "Cancer patients often face more than the disease itself. Their treatment is frequently complicated by infections and other health conditions, meaning they may need to take several different medications at once. As the number of prescribed drugs increases, so does the risk of interactions between them, which is why scie",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 17 Aug 2026 17:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-immunotherapy-effective-subtype-difficult-ovarian.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/immunotherapy-found-ef.jpg",
+        "published_at": "Tue, 18 Aug 2026 15:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-chemists-dual-action-compounds-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/molecules.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NHS 10-year health plan 'risks propagating patient harm at an unprecedented scale'",
+        "summary": "The NHS 10-Year Health Plan \"risks propagating patient harm at an unprecedented scale\" because of the lack of appropriate safety architecture to support the envisioned digital transformation, experts warn in an analysis published in the journal BMJ Innovations.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 18 Aug 2026 18:30:11 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-nhs-year-health-propagating-patient.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nhs.jpg",
         "impact": 4
       },
       {
-        "title": "Laser therapy offers weapon against deadly brain tumors",
-        "summary": "For patients facing a diagnosis of glioblastoma—one of the most aggressive and devastating forms of brain cancer—the standard path forward has long meant invasive open-skull surgery and a daunting prognosis.",
+        "title": "New stem cell treatment improves vision for previously untreatable condition",
+        "summary": "A new stem cell treatment for ARK (aniridia-related keratopathy) improved patients' vision in a first-in-human clinical trial for this previously untreatable rare genetic eye condition at Moorfields Eye Hospital and University College London (UCL), published in JAMA Ophthalmology.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 17 Aug 2026 16:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-laser-therapy-weapon-deadly-brain.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/glioblastoma.jpg",
+        "published_at": "Tue, 18 Aug 2026 17:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-stem-cell-treatment-vision-previously.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/vision.jpg",
         "impact": 4
       },
       {
-        "title": "Hidden immune environment uncovered in thymuses of myasthenia gravis patients",
-        "summary": "Northwestern Medicine scientists have uncovered a previously hidden immune environment in the thymus that may help drive myasthenia gravis (MG), a chronic autoimmune disease that causes muscle weakness and fatigue, mainly affecting women younger than 40 and men older than 60. Using the largest known cellular and spatia",
+        "title": "3D-printed membrane increases oxygen transfer in artificial lungs by up to 88%",
+        "summary": "For people with severe lung diseases, a transplant of a healthy organ is often their only chance of survival. However, donor lungs are in short supply. A new artificial lung could provide a solution.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 17 Aug 2026 14:40:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-hidden-immune-environment-uncovered-thymuses.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-reveals-hidden-i-2.jpg",
+        "published_at": "Tue, 18 Aug 2026 17:00:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-3d-membrane-oxygen-artificial-lungs.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-3d-membrane-improv.jpg",
         "impact": 4
       },
       {
-        "title": "Common arthritis pill repurposed to boost hair regrowth in alopecia patients",
-        "summary": "Upadacitinib is a medication widely used for the treatment of rheumatoid arthritis that works by inhibiting Janus kinase (JAK) enzymes, which are involved in signaling pathways that regulate immune responses. Now, scientists have found another application for this immune system-modulating drug. Two recent Phase III int",
+        "title": "Most patients view their test results before their doctor, with some reporting low comprehension",
+        "summary": "You get a message that a test result is available in your online patient portal. Do you look at it right away, or do you wait to hear from your health care provider?",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 17 Aug 2026 12:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-common-arthritis-pill-repurposed-boost.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/common-arthritis-pill.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Advanced genetic testing opens new treatment options for nearly one in three cancer patients, study finds",
-        "summary": "A new study from London Health Sciences Centre Research Institute (LHSCRI) shows that expanded genetic testing can help match cancer patients with more personalized treatment options, with nearly one in three found eligible for therapies not typically used for their specific type of cancer based on the unique DNA of th",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 17 Aug 2026 11:40:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-advanced-genetic-treatment-options-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-test-1.jpg",
+        "published_at": "Tue, 18 Aug 2026 16:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-patients-view-results-doctor-comprehension.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/visiting-doctor.jpg",
         "impact": 4
       }
     ],
@@ -232,7 +232,18 @@
     ],
     "space": [
       {
-        "title": "On this day in space! Aug. 17, 1877: Asaph Hall Discovers the Martian moon Phobos",
+        "title": "See gorgeous views of the Aug. 12 total solar eclipse captured from space",
+        "summary": "Orbiting spacecraft captured incredible views of the moon's shadow darkening Earth during the Aug. 12 total solar eclipse.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 18 Aug 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/solar-eclipses/see-gorgeous-views-of-the-aug-12-total-solar-eclipse-captured-from-space",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/9e2Jiv8x4sqhxJXgcKgq8D-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Aug. 17, 1877: Asaph Hall discovers the Martian moon Phobos",
         "summary": "On this day in space, Aug. 17, 1877: American astronomer Asaph Hall discovered Mars's moon Phobos.",
         "category": "Space",
         "source": "space.com",
@@ -265,29 +276,29 @@
         "impact": 4
       },
       {
-        "title": "SpaceX rocket's moon crash highlights 'a tangible operational risk' of lunar settlement",
-        "summary": "A SpaceX rocket body slammed into the moon earlier this month, showcasing a risk that will increase as humanity establishes a footprint on Earth's nearest neighbor.",
+        "title": "Watch SpaceX launch its 100th mission of the year tonight",
+        "summary": "SpaceX will launch its 100th mission of the year tonight (Aug. 18), and you can watch the action live.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Fri, 14 Aug 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/EiFsUah8tAvuzZqzwiuaTF-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "China bounces back from Long March rocket explosion with back-to-back launches (video)",
-        "summary": "China's space program has returned to flight after an Aug. 10 Long March 7A rocket explosion, launching both a Long March 12 and a Long March 2C rocket on Sunday (Aug. 16).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 17 Aug 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/china-bounces-back-from-long-march-rocket-explosion-with-back-to-back-launches-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/SLMDcaToBoY7S5UQrH5vYc-1280-80.jpg",
+        "published_at": "Tue, 18 Aug 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-1280-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "MOTHRA Shows Us A Star Being Recycled in the Helix Nebula",
+        "summary": "Astronomers used new MOTHRA telescope in Chile to image the famous Helix Nebula. They found 22 glowing shock waves where stellar debris from a dying star collided with interstellar gas. After colliding with gas, stellar fragments remain intact for just 10,000 years, the team estimates. The observations show how dying s",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 18 Aug 2026 02:18:01 +0000",
+        "source_url": "https://www.universetoday.com/articles/mothra-shows-us-a-star-being-recycled-in-the-helix-nebula",
+        "image_url": "https://www.universetoday.com/article_images/helix1940__FitMaxWzk3MCw2NTBd_20260817_233903.jpg",
+        "impact": 4
+      },
       {
         "title": "Scientists find dead star that predicts our sun's future: 'Broken apart and returned to the galaxy'",
         "summary": "A composite image of data from the Hubble Space Telescope, the Kitt Peak four-meter telescope and MOTHRA reveal the Helix Nebula. We can see the bow shocks, particularly on the left.",
@@ -322,29 +333,62 @@
         "impact": 4
       },
       {
-        "title": "What Can We Actually Find on an Exoplanet? Part 1: The Atmospheric Fingerprint",
-        "summary": "If an alien civilization could see Earth only as a single pale blue dot, what could they learn? We start with transit spectroscopy, the biosignature cocktail of oxygen, methane, ozone, and water, and why even the James Webb will struggle to find life.",
+        "title": "JWST Peeks at Callisto’s Ancient Scars",
+        "summary": "Of Jupiter’s four Galilean moons, Callisto is the one that gets the least attention. Io is constantly being resurfaced by volcanoes. Europa has a giant liquid water ocean. And Ganymede has its own magnetic field that interacts with its parent planet in weird ways. Callisto, by comparison, seems sedate, with its ancient",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Mon, 17 Aug 2026 10:15:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/what-can-we-actually-find-on-an-exoplanet-part-1-the-atmospheric-fingerprint",
-        "image_url": "https://www.universetoday.com/article_images/header_20260814_095450.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Hubble Reveals that Star Formation is Slowing Down in the Andromeda Galaxy",
-        "summary": "A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 14 Aug 2026 23:58:06 +0000",
-        "source_url": "https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
-        "image_url": "https://www.universetoday.com/article_images/hs-2015-02-a-hires_jpg-jpg_20260814_234854.jpg",
+        "published_at": "Tue, 18 Aug 2026 15:22:54 +0000",
+        "source_url": "https://www.universetoday.com/articles/jwst-peeks-at-callistos-ancient-scars",
+        "image_url": "https://www.universetoday.com/article_images/jpegPIA01649.width-1280_20260818_152124.jpg",
         "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "Designing Quietly: Rethinking Architecture’s Overlooked Surface",
+        "summary": "The ceiling is one of the largest continuous surfaces in a space, yet why is it rarely the first architectural element people notice? Often perceived as the plane that conceals structure and building services, it quietly recedes into the background while facades, materials, structural systems, and furniture define a bu",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 18 Aug 2026 01:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1042609/designing-quietly-rethinking-architectures-overlooked-surface",
+        "image_url": "https://images.adsttc.com/media/images/6a45/ffc1/ebd1/e401/893a/aa01/large_jpg/designing-quietly-rethinking-architectures-overlooked-surface_25.jpg?1782972409",
+        "impact": 5
+      },
+      {
+        "title": "Hideout Leaf Villa / Pablo Luna Studio",
+        "summary": "Hideout Leaf is located in the mountains of East Bali, surrounded by a natural landscape that forms a living ecosystem of design-conscious spaces, art, and nature experiences nestled beside a quiet river in the shadow of Mount Agung. Removed from the intensity of urban life, Leaf is immersed in the sounds of flowing wa",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 18 Aug 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
+        "image_url": "https://images.adsttc.com/media/images/6a7d/b70a/ab59/ca01/8994/4d4d/large_jpg/hideout-leaf-villa-pablo-luna-studio_29.jpg?1786623772",
+        "impact": 4
+      },
+      {
+        "title": "Campus Tensta Renovation / Tengbom",
+        "summary": "Campus Tensta transforms the former Tensta Upper Secondary School, a culturally significant 1980s building, into a contemporary multi-tenant educational campus through careful renovation and minimal intervention. Designed originally by Gösta Uddén, the building's spatial openness, winter garden, robust material palette",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 18 Aug 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183238/campus-tensta-tengbom",
+        "image_url": "https://images.adsttc.com/media/images/6a7d/ab66/3cf9/6c00/0178/259d/large_jpg/Campus_Tensta_7_-_original__1515492_.jpg?1786620880",
+        "impact": 4
+      },
+      {
+        "title": "Echoes of Home : Adaptive Reuse of a Vernacular House / CM Design",
+        "summary": "Dafeng Village is located on the outskirts of Dongguan's central urban area. Its history can be traced back to the 31st year of the Shaoxing reign of the Southern Song Dynasty (1161 CE), and its long years have accumulated a profound cultural heritage. With the development of urbanization and industrialization, the fun",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 18 Aug 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183405/echoes-of-home-adaptive-reuse-of-a-vernacular-house-cm-design",
+        "image_url": "https://images.adsttc.com/media/images/6a82/892b/3cf9/6c00/0178/2fa2/large_jpg/04__________2.jpg?1786939712",
+        "impact": 4
+      },
       {
         "title": "Modernism on the Watch: Preserving the Sardar Vallabhbhai Patel Stadium in India",
         "summary": "In the heart of Ahmedabad's Navrangpura district in India sits the Sardar Vallabhbhai Patel Stadium. More than just a cricket ground, the stadium stands as one of India's earliest experiments in modernist public architecture. Built in the decades following the country's independence, the structure has not only become a",
@@ -355,64 +399,9 @@
         "source_url": "https://www.archdaily.com/1183078/modernism-on-the-watch-preserving-the-sardar-vallabhbhai-patel-stadium-in-india",
         "image_url": "https://images.adsttc.com/media/images/6a7a/9558/ab59/ca01/8994/4483/large_jpg/modernism-on-the-watch-the-race-to-preserve-ahmedabads-patel-stadium-in-india_7.jpg?1786418529",
         "impact": 4
-      },
-      {
-        "title": "Waugh Thistleton Architects set to build \"tallest mass timber office building in the US\"",
-        "summary": "Architecture studios Waugh Thistleton Architects and Mithun have designed a 12-storey mass-timber office block in Bellevue, Washington. Designed for developer and contractor Skanska, the Bevel tower will become the tallest timber office building in the USA, when it completes. It is also Waugh Thistleton Architects' fir",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 17 Aug 2026 08:11:57 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Habitat Collaborative threads curved school in India through tree-filled site",
-        "summary": "A triple-height skylit atrium with a sandpit at its base sits at the heart of New Horizon, a school in Vadodara, India, designed by local architecture studio Habitat Collaborative. Commissioned by a local chapter of non-profit Round Table India, the 1,442-square-metre building provides additional space for middle and s",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 10 Aug 2026 10:30:23 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/10/habitat-collaborative-new-horizon/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "RTA Studio designs mass-timber groundscraper in Auckland as \"continuous ribbon\"",
-        "summary": "Local architecture firm RTA Studio has completed a curve-edged office building in Auckland, New Zealand, built from a diagrid structure of locally grown timber. Situated within a regenerated wetland, the expansive, 11,500-square-metre campus serves as a global headquarters for appliance brands Fisher &#38; Paykel and H",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 10 Aug 2026 09:00:12 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "from casa malaparte to the sheats-goldstein residence, these homes became movie stars",
-        "summary": "these architect-designed homes have taken on lives of their own in films, shaping characters, moods, and the way we remember the buildings themselves. The post from casa malaparte to the sheats-goldstein residence, these homes became movie stars appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Fri, 14 Aug 2026 10:05:50 +0000",
-        "source_url": "https://www.designboom.com/architecture/casa-malaparte-sheats-goldstein-residence-homes-movie-stars/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/casa-malaparte-sheats-goldstein-residence-homes-movie-stars-designboom-1200.jpg",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Builders tout more than just data centers in latest earnings reports",
-        "summary": "The AI buildout continued to dominate construction&rsquo;s focus, but publicly traded companies also seemed to keep diversification and other infrastructure sectors mind.&nbsp;",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 14 Aug 2026 15:04:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/builders-earnings-roundup-q2-2026-balfour-beatty-skanska-wsp-aecom-granite-tutor-perini/827956/",
-        "image_url": "https://imgproxy.divecdn.com/bLDRpFTLS7kveLk87eltsk6CwscVamsfyRB_16ER-uU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80ODgyMjMwMTZfMTI4Mjk2MjE5MzMwMTUwOF81OTg3MzA0MTIzMzI4ODc2MTc1X24uanBn.webp",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -447,70 +436,81 @@
         "impact": 4
       },
       {
-        "title": "California high-speed rail project could run out of money by end of 2027, inspector general says",
-        "summary": "State infusions of $1 billion a year over 20 years won&rsquo;t come fast enough to keep construction on track,&nbsp;the authority&rsquo;s Office of Inspector General said.",
+        "title": "Today’s water projects focus on ‘every last drop’: McCarthy water lead",
+        "summary": "As environmental concerns and surging tech builds draw more focus to water, new plants and infrastructure upgrades will continue to drive demand, said exec Jaren Murphy.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 17 Aug 2026 10:08:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/california-high-speed-rail-inspector-general-finances/827998/",
-        "image_url": "https://imgproxy.divecdn.com/NEGSS-zqqyyxxbt1pWUIN4dzU0bsF6TBTFnFpKtXdzA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI2LTAxLTEyLUhhbmZvcmRfVmlhZHVjdC0wMy5KUEc=.webp",
+        "published_at": "Tue, 18 Aug 2026 12:41:58 -0400",
+        "source_url": "https://www.constructiondive.com/news/water-projects-midwest-west-coast-drought-mccarthy/828144/",
+        "image_url": "https://imgproxy.divecdn.com/1rTJCFk_mujwxRgCesVQ2pEYogfZtTVQn4Azu60syQQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OZWxzb25fV1dURl9NY0NhcnRoeV8wMS5qcGc=.webp",
+        "impact": 3
+      },
+      {
+        "title": "DOT’s $5.3B rail package funds crossings, infrastructure work",
+        "summary": "The Federal Railway Administration earmarked funding to close more than 30 grade crossings and upgrade over 1,000 others with new infrastructure and technology.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 18 Aug 2026 11:16:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/dot-rail-package-funds-crossings-infrastructure/828145/",
+        "image_url": "https://imgproxy.divecdn.com/K75RUbDXE_Fv4ZK7KSQc1m97foDu72yW5i9S915zRTw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc0OTkyMzY1LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-        "summary": "arXiv:2608.13567v1 Announce Type: new Abstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intellig",
+        "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+        "summary": "arXiv:2608.14569v1 Announce Type: new Abstract: Neural solvers for constraint satisfaction problems have achieved remarkable in-distribution accuracy, yet they suffer from a fundamental limitation persistent constraint violations occur under distribution shifts even when the model reports high confidence. This position",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 17 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.13567",
+        "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.14569",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-        "summary": "arXiv:2608.13574v1 Announce Type: new Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged actions, weak auditabil",
+        "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+        "summary": "arXiv:2608.14579v1 Announce Type: new Abstract: Logic synthesis optimization poses significant challenges due to exponentially growing search spaces, sparse reward signals, and diverse logic structures. Traditional expert-designed flows lack adaptability, while reinforcement learning (RL) methods often suffer from low ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 17 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.13574",
+        "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.14579",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
-        "summary": "arXiv:2608.13608v1 Announce Type: new Abstract: Agentic \"Continual Learning Harnesses\", systems that pair an LLM with retrieval or memory to improve from feedback without retraining, have shown growing value in cybersecurity. But their value is conventionally measured by gains against labeled benchmarks, an approach th",
+        "title": "An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case",
+        "summary": "arXiv:2608.14587v1 Announce Type: new Abstract: Background: Recent advances in information retrieval (IR) leverage both dense and sparse representations, large language models (LLMs), and specialized retrieval models to improve ranking accuracy, relevance, and cross-lingual performance. Complementary techniques such as",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 17 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.13608",
+        "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.14587",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
-        "summary": "arXiv:2608.13612v1 Announce Type: new Abstract: Natural-language interfaces to enterprise data must translate underspecified requests into governed, executable behavior while controlling invalid queries, policy failures, cost, and nondeterminism. SemPlan Benchmark evaluates this architectural design space with a determ",
+        "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
+        "summary": "arXiv:2608.14588v1 Announce Type: new Abstract: Sequential multi-agent LLM pipelines chain specialized agents without verification at handoffs, creating a structural flaw with measurable and severe consequences. We show that hallucinations injected at Stage 1 do not merely persist; they transform: raw numerical facts b",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 17 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.13612",
+        "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.14588",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
-        "summary": "arXiv:2608.13667v1 Announce Type: new Abstract: LLM agents in the ReAct paradigm alternate between reasoning, acting, and observing, but deliberate reasoning is confined to the Thought phase: while the agent serializes an action and waits for the environment, its reasoning is frozen. We identify this recurring interval",
+        "title": "Do LLM Agents Negotiate Rationally? A Mechanism-Design Framework for Verifiable Multi-Agent Interaction over A2A/MCP",
+        "summary": "arXiv:2608.14613v1 Announce Type: new Abstract: Modern LLM-agent frameworks increasingly interoperate through standards such as Anthropic's Model Context Protocol (MCP) for agent-to-tool access and Google's Agent2Agent (A2A) protocol for agent delegation and negotiation. However, these protocols specify transport and d",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 17 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.13667",
+        "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.14613",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
