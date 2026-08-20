@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-19",
-  "last_updated": "2026-08-19 23:21 UTC",
+  "date": "2026-08-20",
+  "last_updated": "2026-08-20 23:22 UTC",
   "categories": {
     "science": [
       {
@@ -15,6 +15,17 @@
         "impact": 5
       },
       {
+        "title": "From the lab to headlines: Why do some studies make the news while others don't?",
+        "summary": "When we read a news story about a new cancer treatment, an Alzheimer's breakthrough or an innovative technology, we rarely think about everything that happens behind the scenes before that information reaches newspapers, radio or television. Scientists publish their findings in specialist journals, and journalists deci",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Thu, 20 Aug 2026 15:50:01 EDT",
+        "source_url": "https://phys.org/news/2026-08-lab-headlines-news-dont.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-the-lab-to-the-he.jpg",
+        "impact": 5
+      },
+      {
         "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
         "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced",
         "category": "Science",
@@ -26,120 +37,87 @@
         "impact": 5
       },
       {
-        "title": "'Disarming' discovery could help scientists fight deadly fungal infections",
-        "summary": "Researchers from Monash University, in collaboration with the University of Warwick, have discovered how the bacterial antibiotic \"gladiolin\" can disarm Candida albicans, one of the leading causes of life-threatening fungal infections, opening new avenues for developing life-saving treatments.",
+        "title": "Scientists may have finally proved that “empty” space isn’t really empty",
+        "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window into the strange physic",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 19 Aug 2026 18:00:01 EDT",
-        "source_url": "https://phys.org/news/2026-08-discovery-scientists-deadly-fungal-infections.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/disarming-discovery-co-1.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 18 Aug 2026 02:08:04 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/magnetar-1e-15470-5408.webp",
+        "impact": 4
       },
       {
-        "title": "Evolutionary process behind live birth in lizards uncovered",
-        "summary": "Scientists studying one of nature's greatest reproductive innovations have discovered how some lizards evolved from laying eggs to giving birth to live young. The new research is the first to reveal the evolutionary process behind this important biological change and offers a unique insight into how other species—inclu",
+        "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
+        "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active think",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 19 Aug 2026 17:00:04 EDT",
-        "source_url": "https://phys.org/news/2026-08-evolutionary-birth-lizards-uncovered.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-uncover-the-5.jpg",
-        "impact": 5
-      },
-      {
-        "title": "A little bit more than magic: The secret to quantum computing may lie in negativity",
-        "summary": "Quantum computers hold great promise for applications from drug discovery to cybersecurity. Yet figuring out what would give quantum computers their edge over everyday \"classical\" computers is a subtle problem. A new theoretical study led by researchers at the Cavendish Laboratory shows that quantum computers are harde",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 19 Aug 2026 16:40:04 EDT",
-        "source_url": "https://phys.org/news/2026-08-bit-magic-secret-quantum-negativity.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-little-bit-more-than-1.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 17 Aug 2026 02:41:08 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cute-boy-staring-at-cell-phone-screen.webp",
+        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+        "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+        "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework's site at the time of this writ",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 17 Aug 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/gettyimages-1289357458-top.webp?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-        "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 19 Aug 2026 22:25:01 +0000",
-        "source_url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-08-20T13:16:02-04:00",
+        "source_url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24940154/236795_Framework_Laptop_13__AMD__AKrales_0025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       },
       {
-        "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-        "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+        "title": "Silicon Valley Doesn't Get Why You Hate AI",
+        "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 19 Aug 2026 21:48:24 +0000",
-        "source_url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 20 Aug 2026 18:49:07 +0000",
+        "source_url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+        "image_url": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg",
         "impact": 3
       },
       {
-        "title": "AI was supposed to win people over by now — it hasn’t",
-        "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+        "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
+        "summary": "The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 19 Aug 2026 19:11:40 +0000",
-        "source_url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 20 Aug 2026 11:02:00 +0000",
+        "source_url": "https://www.wired.com/review/poolease-x1-pool-robot/",
+        "image_url": "https://media.wired.com/photos/6a86289d942118095017e61e/191:100/w_1280,c_limit/Review--Poolease-X1-Pool-Robot-.jpg",
         "impact": 3
       },
       {
-        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-        "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+        "title": "iRobot Promo Code: 15% Off",
+        "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 19 Aug 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 20 Aug 2026 05:00:00 +0000",
+        "source_url": "https://www.wired.com/story/irobot-promo-code/",
+        "image_url": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/191:100/w_1280,c_limit/WIRED-Coupons-R2_1.png",
+        "impact": 3
+      },
+      {
+        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+        "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Wed, 19 Aug 2026 19:30:00 +0000",
+        "source_url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+        "image_url": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/191:100/w_1280,c_limit/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "From orbit to clinic: HIV drug enters Rett syndrome trial after space-based brain study",
-        "summary": "Research using human brain organoids onboard the International Space Station helped lead to a clinical trial of a potential therapy for Rett syndrome, a debilitating neurological disorder in children. Scientists are now expanding the space-based approach to study other brain diseases and find new treatments.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 19 Aug 2026 15:20:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-orbit-clinic-hiv-drug-rett.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-orbit-to-clinic-h.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Most AI medical devices cleared for use were not tested on patient outcomes",
-        "summary": "A new analysis shows that, of 1,357 artificial intelligence (AI)-based medical devices authorized by the U.S. Food and Drug Administration (FDA) for use in patient care, only three had been tested on whether they actually improve patients' health.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 19 Aug 2026 14:00:13 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-ai-medical-devices-patient-outcomes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-ai-medical-device.jpg",
-        "impact": 4
-      },
-      {
         "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
         "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced",
         "category": "Medicine",
@@ -151,25 +129,47 @@
         "impact": 4
       },
       {
-        "title": "Iron transfusion before heart surgery reduces complications and boosts recovery, clinical trial finds",
-        "summary": "Giving intravenous iron to patients with anemia before heart surgery reduces the need for a red blood cell transfusion, finds a clinical trial published by The BMJ today. Intravenous iron also saved approximately 44 units of blood products for every 100 patients treated.",
+        "title": "Warming climate may reshape childhood diarrheal disease risks across three African countries",
+        "summary": "Researchers at the University of Maryland School of Medicine's Center for Vaccine Development and Global Health (CVD) have identified key social and environmental factors that influence how climate change affects childhood diarrheal diseases in sub-Saharan Africa.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 19 Aug 2026 18:30:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-iron-transfusion-heart-surgery-complications.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/iron-transfusion.jpg",
+        "published_at": "Thu, 20 Aug 2026 17:40:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-climate-reshape-childhood-diarrheal-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-predict.jpg",
         "impact": 4
       },
       {
-        "title": "Transparency for global health aid: 60% of disease burden draws just 2.5% of targeted funds, analysis reveals",
-        "summary": "To what extent does the allocation of aid for combating disease correspond to disease burden? LMU researchers have developed a machine-learning pipeline that helps uncover relative discrepancies in aid distribution.",
+        "title": "Internet-based treatment for young people with depression outperforms usual care, trial finds",
+        "summary": "An internet-based treatment supported by a therapist led to a greater reduction in depressive symptoms among adolescents with depression than standard care, at a lower treatment cost. This is shown in a new study from Karolinska Institutet published in the journal BMJ Mental Health. At the same time, the results sugges",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 19 Aug 2026 17:00:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-transparency-global-health-aid-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/transparency-for-globa.jpg",
+        "published_at": "Thu, 20 Aug 2026 17:00:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-internet-based-treatment-young-people.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/scrolling-in-bed.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Higher cardiorespiratory fitness associated with a slower age-related decline in kidney function",
+        "summary": "As Japan's population continues to age, age-related declines in kidney function and chronic kidney disease (CKD) are becoming increasingly prevalent, underscoring the need for effective preventive strategies. Despite growing interest in the health benefits of cardiorespiratory fitness, its relationship with future kidn",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 20 Aug 2026 17:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-higher-cardiorespiratory-slower-age-decline.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/senior-exercise-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Chemotherapy-free treatment shows promise for some patients with metastatic breast cancer",
+        "summary": "Researchers at the Icahn School of Medicine at Mount Sinai found that a chemotherapy-free combination of four targeted therapies showed encouraging results in patients with HR-positive, HER2-positive metastatic breast cancer, offering a potential first-line treatment option that may be more convenient for some patients",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 20 Aug 2026 16:00:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-chemotherapy-free-treatment-patients-metastatic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemotherapy-2.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,28 @@
         "impact": 5
       },
       {
+        "title": "The View from Above: The Gemini Visual Acuity Experiments",
+        "summary": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belchi",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 20 Aug 2026 14:30:00 +0000",
+        "source_url": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+        "image_url": "https://images-assets.nasa.gov/image/s65-45683/s65-45683~large.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
+        "summary": "Rocket Lab launched its ninth mission for the Japanese company iQPS this morning (Aug. 20), sending an Earth-observation satellite into low Earth orbit.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 20 Aug 2026 04:05:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/hJS6zDr8MpVsVJ6yYyGLv3-1280-80.png",
+        "impact": 4
+      },
+      {
         "title": "Private mission to save NASA's Swift space telescope fails",
         "summary": "A private spacecraft tasked with boosting the orbit of NASA's Swift Observatory has failed in its mission, meaning the telescope will crash back to Earth later this year.",
         "category": "Space",
@@ -263,28 +285,6 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
         "image_url": "https://cdn.mos.cms.futurecdn.net/hqmCRuQxjC27indyS4Aaa6-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "See gorgeous views of the Aug. 12 total solar eclipse captured from space",
-        "summary": "Orbiting spacecraft captured incredible views of the moon's shadow darkening Earth during the Aug. 12 total solar eclipse.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 18 Aug 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/solar-eclipses/see-gorgeous-views-of-the-aug-12-total-solar-eclipse-captured-from-space",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/9e2Jiv8x4sqhxJXgcKgq8D-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Aug. 17, 1877: Asaph Hall discovers the Martian moon Phobos",
-        "summary": "On this day in space, Aug. 17, 1877: American astronomer Asaph Hall discovered Mars's moon Phobos.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 17 Aug 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/b4SzvVoP2hqfAnQQXZX6Zc-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
@@ -300,25 +300,14 @@
         "impact": 4
       },
       {
-        "title": "MOTHRA Shows Us A Star Being Recycled in the Helix Nebula",
-        "summary": "Astronomers used new MOTHRA telescope in Chile to image the famous Helix Nebula. They found 22 glowing shock waves where stellar debris from a dying star collided with interstellar gas. After colliding with gas, stellar fragments remain intact for just 10,000 years, the team estimates. The observations show how dying s",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 18 Aug 2026 02:18:01 +0000",
-        "source_url": "https://www.universetoday.com/articles/mothra-shows-us-a-star-being-recycled-in-the-helix-nebula",
-        "image_url": "https://www.universetoday.com/article_images/helix1940__FitMaxWzk3MCw2NTBd_20260817_233903.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Scientists find dead star that predicts our sun's future: 'Broken apart and returned to the galaxy'",
-        "summary": "A composite image of data from the Hubble Space Telescope, the Kitt Peak four-meter telescope and MOTHRA reveal the Helix Nebula. We can see the bow shocks, particularly on the left.",
+        "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
+        "summary": "James Webb Space Telescope is finding that between the brightest stars, the cosmic skyscrapers, there are much fainter stars, meaning early galaxies are more massive than we believed.",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 17 Aug 2026 18:16:21 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/scientists-find-dead-star-that-predicts-our-suns-future-broken-apart-and-returned-to-the-galaxy",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/AhbzJWebKFQmXkDWVoXeg5-1280-80.jpg",
+        "published_at": "Thu, 20 Aug 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/zsknviLBoKaAoEsu7zYnwg-1280-80.png",
         "impact": 4
       },
       {
@@ -342,41 +331,30 @@
         "source_url": "https://skyandtelescope.org/astronomy-news/the-helix-nebula-is-hurling-clumps-of-gas-through-space/",
         "image_url": "https://dq0hsqwjhea1.cloudfront.net/helix_2.webp",
         "impact": 4
+      },
+      {
+        "title": "JWST Peeks at Callisto’s Ancient Scars",
+        "summary": "Of Jupiter’s four Galilean moons, Callisto is the one that gets the least attention. Io is constantly being resurfaced by volcanoes. Europa has a giant liquid water ocean. And Ganymede has its own magnetic field that interacts with its parent planet in weird ways. Callisto, by comparison, seems sedate, with its ancient",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 18 Aug 2026 15:22:54 +0000",
+        "source_url": "https://www.universetoday.com/articles/jwst-peeks-at-callistos-ancient-scars",
+        "image_url": "https://www.universetoday.com/article_images/jpegPIA01649.width-1280_20260818_152124.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "The Ukrainian Pavilion Examines Displacement and Shared Space Through \"Pool of Questions\" at the 2027 Venice Architecture Biennale",
-        "summary": "The Ukrainian pavilion at the 20th International Architecture Exhibition – La Biennale di Venezia is being designed by the team from CO-HATY, a local volunteer initiative restoring abandoned buildings in the country to transform them into stable homes for internally displaced people. The team is formed by METALAB and r",
+        "title": "ZHA Designs 198-Hectare Urban District Around Baku Expo Center in Azerbaijan",
+        "summary": "ZHA has been selected to design a new 198-hectare urban district in Baku, Azerbaijan. The project surrounds the existing Baku Expo Center events venue in a pine forest area that is planned to be preserved. The plan responds to the city's population growth over the past decade with a masterplan to organize the provision",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 19 Aug 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1183552/the-ukrainian-pavilion-examines-displacement-and-shared-space-through-pool-of-questions-at-the-2027-venice-architecture-biennale",
-        "image_url": "https://images.adsttc.com/media/images/6a84/c527/ac8b/af01/892c/d438/large_jpg/ukraine-pavilion-at-the-2027-venice-biennale_9.jpg?1787086123",
+        "published_at": "Thu, 20 Aug 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1183649/zha-designs-198-hectare-urban-district-around-baku-expo-center-in-azerbaijan",
+        "image_url": "https://images.adsttc.com/media/images/6a86/3763/ac8b/af01/892c/da99/large_jpg/zha-has-been-selected-to-design-the-baku-expo-city-masterplan_3.jpg?1787180910",
         "impact": 5
-      },
-      {
-        "title": "How to Inhabit a Territory: 10 Houses Shaped by Argentina's Landscapes",
-        "summary": "Argentina's vast territory reveals multiple ways of building shaped by its geographic, climatic, and cultural diversity. When designing single-family homes in Córdoba, Mendoza, Santa Fe, and Buenos Aires, numerous young Argentine architecture firms respond to distinct material, landscape, and cultural conditions by wor",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 19 Aug 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1183399/how-to-inhabit-a-territory-10-houses-shaped-by-argentinas-landscapes",
-        "image_url": "https://images.adsttc.com/media/images/6a83/77c4/ac8b/af01/892c/d087/large_jpg/how-to-inhabit-a-territory-10-houses-shaped-by-argentinas-landscapes_26.jpg?1787000782",
-        "impact": 4
-      },
-      {
-        "title": "Hideout Leaf Villa / Pablo Luna Studio",
-        "summary": "Hideout Leaf is located in the mountains of East Bali, surrounded by a natural landscape that forms a living ecosystem of design-conscious spaces, art, and nature experiences nestled beside a quiet river in the shadow of Mount Agung. Removed from the intensity of urban life, Leaf is immersed in the sounds of flowing wa",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 18 Aug 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
-        "image_url": "https://images.adsttc.com/media/images/6a7d/b70a/ab59/ca01/8994/4d4d/large_jpg/hideout-leaf-villa-pablo-luna-studio_29.jpg?1786623772",
-        "impact": 4
       },
       {
         "title": "Atelier Vens Vanbelle references brick industrial buildings for cubic home in Belgium",
@@ -398,6 +376,28 @@
         "published_at": "Mon, 17 Aug 2026 08:11:57 +0000",
         "source_url": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "Habitat Collaborative threads curved school in India through tree-filled site",
+        "summary": "A triple-height skylit atrium with a sandpit at its base sits at the heart of New Horizon, a school in Vadodara, India, designed by local architecture studio Habitat Collaborative. Commissioned by a local chapter of non-profit Round Table India, the 1,442-square-metre building provides additional space for middle and s",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 10 Aug 2026 10:30:23 +0000",
+        "source_url": "https://www.dezeen.com/2026/08/10/habitat-collaborative-new-horizon/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "the nakagin capsule tower and the dream of a home that could change",
+        "summary": "the nakagin capsule tower turned metabolist ideas about impermanence into a building of replaceable living pods. The post the nakagin capsule tower and the dream of a home that could change appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Wed, 19 Aug 2026 10:50:49 +0000",
+        "source_url": "https://www.designboom.com/architecture/nakagin-capsule-tower-dream-home-change-kisho-kurokawa-tokyo/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/nakagin-capsule-tower-home-change-stuck-time-kisho-kurokawa-tokyo-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-        "summary": "arXiv:2608.16890v1 Announce Type: new Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attempts with five frontier",
+        "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+        "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.16890",
+        "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.18078",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection",
-        "summary": "arXiv:2608.17170v1 Announce Type: new Abstract: Algorithm selection for constraint satisfaction problems requires extracting features that capture problem structure. Manually designing feature extractors demands deep domain expertise and quickly becomes a bottleneck when new problem classes appear. We present an automa",
+        "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+        "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.17170",
+        "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.18080",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "PlanPO: Group Planning-Aware Policy Optimization for Multi-Turn Agentic LLMs",
-        "summary": "arXiv:2608.17289v1 Announce Type: new Abstract: Group-relative policy optimization has emerged as a key paradigm for training agentic large language models (LLMs) on multi-turn interactive tasks. However, most existing variants fail to distinguish advantages among successful trajectories even when these trajectories di",
+        "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+        "summary": "arXiv:2608.18104v1 Announce Type: new Abstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabilities make agent states structural and ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.17289",
+        "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.18104",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
-        "summary": "arXiv:2608.17393v1 Announce Type: new Abstract: Reinforcement learning for coding agents increasingly relies on long-running agent harnesses to manage tool integration, repository contexts, and execution feedback. However, the native execution environments of these harnesses are inherently misaligned with policy-gradie",
+        "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents",
+        "summary": "arXiv:2608.18423v1 Announce Type: new Abstract: Language model agents now execute bounded tasks reliably. Whether they can sustain effective decision-making over long horizons, where actions have cumulative consequences and the environment responds to their choices, remains largely unmeasured. FM-Bench (Football Manage",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.17393",
+        "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.18423",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SGHA: Evidence-Grounded Research Problem Discovery with Local Language Models",
-        "summary": "arXiv:2608.17501v1 Announce Type: new Abstract: Recent efforts toward fully automated AI scientists have demonstrated that language-model agents can generate hypotheses, execute experiments, and draft scientific manuscripts. However, during the early stages of research, when research problems are formulated, these AI s",
+        "title": "The builder’s guide to GPT‑5.6",
+        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.17501",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
+        "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
