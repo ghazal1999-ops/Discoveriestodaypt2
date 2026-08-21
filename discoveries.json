@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-20",
-  "last_updated": "2026-08-20 23:22 UTC",
+  "date": "2026-08-21",
+  "last_updated": "2026-08-21 23:20 UTC",
   "categories": {
     "science": [
       {
@@ -15,17 +15,6 @@
         "impact": 5
       },
       {
-        "title": "From the lab to headlines: Why do some studies make the news while others don't?",
-        "summary": "When we read a news story about a new cancer treatment, an Alzheimer's breakthrough or an innovative technology, we rarely think about everything that happens behind the scenes before that information reaches newspapers, radio or television. Scientists publish their findings in specialist journals, and journalists deci",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 20 Aug 2026 15:50:01 EDT",
-        "source_url": "https://phys.org/news/2026-08-lab-headlines-news-dont.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-the-lab-to-the-he.jpg",
-        "impact": 5
-      },
-      {
         "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
         "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced",
         "category": "Science",
@@ -37,6 +26,28 @@
         "impact": 5
       },
       {
+        "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
+        "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons and neutrons effectively flip their tiny internal magnets. The discovery could sharpen models of every",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 21 Aug 2026 00:21:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/structure-of-atomic-nuclei.webp",
+        "impact": 4
+      },
+      {
+        "title": "Ozempic does something unexpected to the brain’s hunger neurons",
+        "summary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 20 Aug 2026 18:59:05 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-brain-activity-neuron-close-up.webp",
+        "impact": 4
+      },
+      {
         "title": "Scientists may have finally proved that “empty” space isn’t really empty",
         "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window into the strange physic",
         "category": "Science",
@@ -46,29 +57,51 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/magnetar-1e-15470-5408.webp",
         "impact": 4
-      },
-      {
-        "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
-        "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active think",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 17 Aug 2026 02:41:08 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cute-boy-staring-at-cell-phone-screen.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
-        "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework's site at the time of this writ",
+        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+        "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-08-20T13:16:02-04:00",
-        "source_url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24940154/236795_Framework_Laptop_13__AMD__AKrales_0025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 21 Aug 2026 13:11:35 +0000",
+        "source_url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
+        "impact": 3
+      },
+      {
+        "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
+        "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 20 Aug 2026 22:00:11 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
+        "impact": 3
+      },
+      {
+        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+        "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 21 Aug 2026 00:23:36 +0000",
+        "source_url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+        "impact": 3
+      },
+      {
+        "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+        "summary": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 21 Aug 2026 11:33:00 +0000",
+        "source_url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+        "image_url": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/191:100/w_1280,c_limit/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
         "impact": 3
       },
       {
@@ -81,42 +114,42 @@
         "source_url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
         "image_url": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg",
         "impact": 3
-      },
-      {
-        "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
-        "summary": "The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 20 Aug 2026 11:02:00 +0000",
-        "source_url": "https://www.wired.com/review/poolease-x1-pool-robot/",
-        "image_url": "https://media.wired.com/photos/6a86289d942118095017e61e/191:100/w_1280,c_limit/Review--Poolease-X1-Pool-Robot-.jpg",
-        "impact": 3
-      },
-      {
-        "title": "iRobot Promo Code: 15% Off",
-        "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 20 Aug 2026 05:00:00 +0000",
-        "source_url": "https://www.wired.com/story/irobot-promo-code/",
-        "image_url": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/191:100/w_1280,c_limit/WIRED-Coupons-R2_1.png",
-        "impact": 3
-      },
-      {
-        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-        "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Wed, 19 Aug 2026 19:30:00 +0000",
-        "source_url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-        "image_url": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/191:100/w_1280,c_limit/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Patients with heart failure, caregivers, providers receptive to mobile health but adoption barriers persist",
+        "summary": "Interviews with patients hospitalized for heart failure, caregivers, providers and organizational leaders highlighted several strengths of Mighty Heart (a major clinical trial examining the effectiveness of in-home and telehealth-enabled visits by paramedics) that may support its adoption and implementation across heal",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 21 Aug 2026 15:20:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-patients-heart-failure-caregivers-receptive.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/patients-with-heart-fa.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Local airflow patterns, not ventilation alone, can drive airborne tuberculosis spread",
+        "summary": "Tuberculosis (TB) is a leading cause of infectious disease deaths, claiming more than 1 million lives every year. It spreads through the air when an infected person coughs, sneezes or exhales, and drug-resistant strains and asymptomatic spreading are growing concerns. Curbing TB transmission is an urgent public health ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 21 Aug 2026 14:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-local-airflow-patterns-ventilation-airborne.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-importance-of-indo.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Promising new weight loss and diabetes treatment helps burn fat while keeping muscle in preclinical study",
+        "summary": "Over the past five years, medications called GLP-1s have revolutionized the treatment of metabolic disorders like obesity, diabetes and fatty liver disease. Sold under the brand names Ozempic, Wegovy, Mounjaro and Zepbound, these drugs are highly effective at helping people lose weight and manage their blood sugar leve",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 21 Aug 2026 14:00:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-weight-loss-diabetes-treatment-fat.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/weight-loss-3.jpg",
+        "impact": 4
+      },
       {
         "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
         "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced",
@@ -129,51 +162,29 @@
         "impact": 4
       },
       {
-        "title": "Warming climate may reshape childhood diarrheal disease risks across three African countries",
-        "summary": "Researchers at the University of Maryland School of Medicine's Center for Vaccine Development and Global Health (CVD) have identified key social and environmental factors that influence how climate change affects childhood diarrheal diseases in sub-Saharan Africa.",
+        "title": "Cancer drug strategy flips script: PRMT1 activator boosts chemotherapy in pancreatic cancer mouse study",
+        "summary": "What if we could fight cancer by specifically activating a key enzyme instead of deactivating it? That's exactly what a research team at Marburg University has achieved for the first time with the enzyme PRMT1. The scientists developed a small molecule called TR-07 that activates PRMT1.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 20 Aug 2026 17:40:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-climate-reshape-childhood-diarrheal-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-predict.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Internet-based treatment for young people with depression outperforms usual care, trial finds",
-        "summary": "An internet-based treatment supported by a therapist led to a greater reduction in depressive symptoms among adolescents with depression than standard care, at a lower treatment cost. This is shown in a new study from Karolinska Institutet published in the journal BMJ Mental Health. At the same time, the results sugges",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 20 Aug 2026 17:00:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-internet-based-treatment-young-people.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/scrolling-in-bed.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Higher cardiorespiratory fitness associated with a slower age-related decline in kidney function",
-        "summary": "As Japan's population continues to age, age-related declines in kidney function and chronic kidney disease (CKD) are becoming increasingly prevalent, underscoring the need for effective preventive strategies. Despite growing interest in the health benefits of cardiorespiratory fitness, its relationship with future kidn",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 20 Aug 2026 17:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-higher-cardiorespiratory-slower-age-decline.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/senior-exercise-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Chemotherapy-free treatment shows promise for some patients with metastatic breast cancer",
-        "summary": "Researchers at the Icahn School of Medicine at Mount Sinai found that a chemotherapy-free combination of four targeted therapies showed encouraging results in patients with HR-positive, HER2-positive metastatic breast cancer, offering a potential first-line treatment option that may be more convenient for some patients",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 20 Aug 2026 16:00:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-chemotherapy-free-treatment-patients-metastatic.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemotherapy-2.jpg",
+        "published_at": "Fri, 21 Aug 2026 14:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-cancer-drug-strategy-flips-script.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/dont-slow-downspeed-up.jpg",
         "impact": 4
       }
     ],
     "mathematics": [
+      {
+        "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+        "summary": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Fri, 21 Aug 2026 14:53:32 +0000",
+        "source_url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Vector-tugofwar-cr-Ada-Zejun-Shen-Social.jpg",
+        "impact": 4
+      },
       {
         "title": "MIT affiliates win 2026 Breakthrough, New Horizons prizes",
         "summary": "Faculty member Shu-Heng Shao, in addition to four MIT alumni, are honored by the Breakthrough Prize Foundation.",
@@ -208,17 +219,6 @@
         "impact": 3
       },
       {
-        "title": "Living Fully in the Math World Means Threading the Needle",
-        "summary": "Focus, commitment, and insight resulted in a “once in a century” proof. Hong Wang is now just the third woman to win a Fields Medal. The post Living Fully in the Math World Means Threading the Needle first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Thu, 23 Jul 2026 13:55:53 +0000",
-        "source_url": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Hong_Wang-cr-M.Y.O.P.-Julien-Pebrel-Social-1.jpg",
-        "impact": 3
-      },
-      {
         "title": "Two Researchers Are Rebuilding Mathematics From the Ground Up",
         "summary": "By replacing the most fundamental concept in topology, Peter Scholze and Dustin Clausen are taking the first step in a far bigger program to understand why numbers behave the way they do. The post Two Researchers Are Rebuilding Mathematics From the Ground Up first appeared on Quanta Magazine",
         "category": "Mathematics",
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch (photos)",
+        "summary": "Japan recently gave the world a look at the spacecraft of its MMX mission, which will launch on Oct. 19 to grab pieces of the Mars moon Phobos and haul them back to Earth.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 21 Aug 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ftDXUJyfR54cZnfALyAP6b-1280-80.jpg",
+        "impact": 5
+      },
+      {
+        "title": "SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos)",
+        "summary": "SpaceX launched yet another Starlink mission today (Aug. 21), sending 29 more of the broadband satellites to orbit from Florida's Space Coast.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 21 Aug 2026 15:28:24 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-10-39-falcon-9-asog",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Y8CYyMQEBcvCKfC3NsiPyZ-1280-80.jpg",
+        "impact": 5
+      },
+      {
         "title": "A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave (photos)",
         "summary": "NASA's Lunar Reconnaissance Orbiter has spotted the crater gouged out on the moon by a SpaceX rocket on Aug. 5, finding it to be about 60 feet (18 meters) wide.",
         "category": "Space",
@@ -243,47 +265,25 @@
         "impact": 5
       },
       {
-        "title": "The View from Above: The Gemini Visual Acuity Experiments",
-        "summary": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belchi",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 20 Aug 2026 14:30:00 +0000",
-        "source_url": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
-        "image_url": "https://images-assets.nasa.gov/image/s65-45683/s65-45683~large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
-        "summary": "Rocket Lab launched its ninth mission for the Japanese company iQPS this morning (Aug. 20), sending an Earth-observation satellite into low Earth orbit.",
+        "title": "Trump to award NASA's Artemis II astronauts the Congressional Space Medal of Honor",
+        "summary": "The NASA astronauts who flew around the moon on the Artemis II mission will receive the Congressional Space Medal of Honor next Friday (Aug. 28).",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 20 Aug 2026 04:05:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/hJS6zDr8MpVsVJ6yYyGLv3-1280-80.png",
+        "published_at": "Fri, 21 Aug 2026 19:30:51 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/trump-to-award-nasas-artemis-ii-astronauts-the-congressional-space-medal-of-honor",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PaSCzFdpMCcU4U2mw6DXhU-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "Private mission to save NASA's Swift space telescope fails",
-        "summary": "A private spacecraft tasked with boosting the orbit of NASA's Swift Observatory has failed in its mission, meaning the telescope will crash back to Earth later this year.",
+        "title": "SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video)",
+        "summary": "SpaceX completed a single-engine test-firing of its next Starship spacecraft to prepare for its coming test flight, which will be the first to reach orbit.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 19 Aug 2026 20:15:01 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/private-mission-to-save-nasas-swift-space-telescope-fails",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/coJpWVm3CQM5ViXRGMfSe5-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit (video)",
-        "summary": "SpaceX launched its 100th mission of the year early Wednesday morning (Aug. 19), sending 24 Starlink satellites to low Earth orbit.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 18 Aug 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/hqmCRuQxjC27indyS4Aaa6-1280-80.jpg",
+        "published_at": "Fri, 21 Aug 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/cSp5Zs3xAta4EHGv4tsJmS-1280-80.png",
         "impact": 4
       }
     ],
@@ -346,15 +346,37 @@
     ],
     "architecture": [
       {
-        "title": "ZHA Designs 198-Hectare Urban District Around Baku Expo Center in Azerbaijan",
-        "summary": "ZHA has been selected to design a new 198-hectare urban district in Baku, Azerbaijan. The project surrounds the existing Baku Expo Center events venue in a pine forest area that is planned to be preserved. The plan responds to the city's population growth over the past decade with a masterplan to organize the provision",
+        "title": "Epitácio 3714 Building / Cité Arquitetura",
+        "summary": "Situated on one of the most singular plots of land in Rio de Janeiro's South Zone, the Epitácio building overlooks the Rodrigo de Freitas Lagoon, making the surrounding environment the protagonist of the design. Developed by Cité Arquitetura, the residential building translates a contemplative and fluid atmosphere into",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 20 Aug 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1183649/zha-designs-198-hectare-urban-district-around-baku-expo-center-in-azerbaijan",
-        "image_url": "https://images.adsttc.com/media/images/6a86/3763/ac8b/af01/892c/da99/large_jpg/zha-has-been-selected-to-design-the-baku-expo-city-masterplan_3.jpg?1787180910",
-        "impact": 5
+        "published_at": "Fri, 21 Aug 2026 13:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183785/epitacio-3714-building-cite-arquitetura",
+        "image_url": "https://images.adsttc.com/media/images/6a87/423b/4253/0500/01c9/fc4f/large_jpg/Cit_-Fotos-arquitetura-Epit_cio-0754-copy-2.jpg?1787249457",
+        "impact": 4
+      },
+      {
+        "title": "12 Colombian Houses Featuring Exposed Brick",
+        "summary": "Brick is one of Colombia's most widely used materials, helping its local architecture stand out globally. This is due to the excellent quality of the clay found in several regions of the country. In addition to cladding most of the buildings that define Bogota's urban landscape, the material is used in all its forms, f",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 21 Aug 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/939644/11-colombian-houses-that-feature-exposed-brick",
+        "image_url": "https://images.adsttc.com/media/images/6a87/0679/ab59/ca01/8994/6578/large_jpg/12-casas-colombianas-que-usan-el-ladrillo-a-la-vista_43.jpg?1787233922",
+        "impact": 4
+      },
+      {
+        "title": "The Maison du Peuple: Reclaiming Brutalism for Nation-Building",
+        "summary": "When African countries gained independence from European colonial rule during the mid-twentieth century, nation-building involved more than establishing new governments and political institutions. Newly sovereign states also needed to establish a built identity that could distinguish them from their colonial past, and ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 21 Aug 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183315/the-maison-du-peuple-reclaiming-brutalism-for-nation-building",
+        "image_url": "https://images.adsttc.com/media/images/6a7f/03d6/ac8b/af01/892c/c8c8/large_jpg/the-maison-du-peuple-utilizing-brutalism-for-nation-building_9.jpg?1786708995",
+        "impact": 4
       },
       {
         "title": "Atelier Vens Vanbelle references brick industrial buildings for cubic home in Belgium",
@@ -377,34 +399,12 @@
         "source_url": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Habitat Collaborative threads curved school in India through tree-filled site",
-        "summary": "A triple-height skylit atrium with a sandpit at its base sits at the heart of New Horizon, a school in Vadodara, India, designed by local architecture studio Habitat Collaborative. Commissioned by a local chapter of non-profit Round Table India, the 1,442-square-metre building provides additional space for middle and s",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 10 Aug 2026 10:30:23 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/10/habitat-collaborative-new-horizon/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "the nakagin capsule tower and the dream of a home that could change",
-        "summary": "the nakagin capsule tower turned metabolist ideas about impermanence into a building of replaceable living pods. The post the nakagin capsule tower and the dream of a home that could change appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Wed, 19 Aug 2026 10:50:49 +0000",
-        "source_url": "https://www.designboom.com/architecture/nakagin-capsule-tower-dream-home-change-kisho-kurokawa-tokyo/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/nakagin-capsule-tower-home-change-stuck-time-kisho-kurokawa-tokyo-designboom-1200.jpg",
-        "impact": 4
       }
     ],
     "construction": [
       {
         "title": "Bedrock Robotics deploys fully autonomous excavators on jobsites",
-        "summary": "The San Francisco-based company said its retrofit tech, which digs without an operator, is now active on infrastructure projects for firms such as Sundt Construction and Zachry Construction.",
+        "summary": "The company said its retrofit tech, which digs without an operator, is now active on infrastructure projects for firms such as Sundt Construction and Zachry Construction.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -432,29 +432,29 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/07/23/procore_enr_ph_article3_image.webp?crop=true&height=257&t=1784827204&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/08/13/GoFormz_ENR_CBC_Article_Image.webp?crop=true&height=257&t=1786628970&width=420",
         "impact": 4
       },
       {
-        "title": "New construction robots gain traction on jobsites",
-        "summary": "For years, small, adaptable machines that perform repetitive jobsite tasks have seen the most success. As technology advances, that calculus is beginning to change.",
+        "title": "TechFest 2026: Shortlist revealed with 185 finalists across 21 categories",
+        "summary": "The shortlist for the TechFest Awards 2026 has been announced, with 185 finalists recognised across 21 categories for their use of technological innovation across the construction and civil engineering industries. The post TechFest 2026: Shortlist revealed with 185 finalists across 21 categories appeared first on New C",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 19 Aug 2026 13:52:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-robotics-adoption-investment-nvidia-gravis-bedrock-field-ai/828294/",
-        "image_url": "https://imgproxy.divecdn.com/PjOEheEtUPKFkCl5LAZQ6l7KJ88QSy9_P32sEBMvv9s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZWRyb2NrLU9wZXJhdG9yLVN5c3RlbS5qcGc=.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 21 Aug 2026 10:16:30 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/techfest-2026-shortlist-revealed-with-185-finalists-across-21-categories-21-08-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/11/Techfest-Awards-2025.webp",
+        "impact": 4
       },
       {
-        "title": "Feds halt border construction at Big Bend National Park",
-        "summary": "Customs and Border Protection paused work amid national scrutiny and calls from the National Parks Conservation Association to permanently stop construction activity.",
+        "title": "Surge in July construction starts reflected megaproject volatility: Dodge",
+        "summary": "A 25.6% gain in kickoffs last month followed a plunge in June. Dodge said the trend points to &ldquo;a disjointed construction market.&rdquo;",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 19 Aug 2026 09:38:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/feds-halt-border-wall-construction-big-bend-national-park/828239/",
-        "image_url": "https://imgproxy.divecdn.com/oKW_L0uXAxlorjW4RIVWNWmBmfDoMGyBXGDCzLXlFbc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS84MDBiNDczYS0yNjhjLTQ5ZDgtYTNlMS1mZmJmZjMyYTZlMjUtYmFubmVyLTIuanBn.webp",
+        "published_at": "Fri, 21 Aug 2026 13:24:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/surge-july-construction-starts-megaproject-volatility-dodge/828521/",
+        "image_url": "https://imgproxy.divecdn.com/mM2kFeCzg8JXhldTwZakuqJW8gTXrcnfmfRgK1XcYYM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNDAwODM2LmpwZw==.webp",
         "impact": 3
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+        "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.18078",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+        "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.18080",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+        "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.18104",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+        "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.18423",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
