@@ -1,19 +1,8 @@
 {
-  "date": "2026-08-21",
-  "last_updated": "2026-08-21 23:20 UTC",
+  "date": "2026-08-22",
+  "last_updated": "2026-08-22 23:17 UTC",
   "categories": {
     "science": [
-      {
-        "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-        "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The breakthrough suggests a",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 14 Aug 2026 09:16:36 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-burst.webp",
-        "impact": 5
-      },
       {
         "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
         "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced",
@@ -57,6 +46,17 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/magnetar-1e-15470-5408.webp",
         "impact": 4
+      },
+      {
+        "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
+        "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active think",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 17 Aug 2026 02:41:08 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cute-boy-staring-at-cell-phone-screen.webp",
+        "impact": 4
       }
     ],
     "tech": [
@@ -83,14 +83,25 @@
         "impact": 3
       },
       {
-        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-        "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Fri, 21 Aug 2026 00:23:36 +0000",
-        "source_url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+        "published_at": "Sat, 22 Aug 2026 01:03:06 +0000",
+        "source_url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
+        "impact": 3
+      },
+      {
+        "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
+        "summary": "The LINK probe was supposed to use robotic arms to capture Swift and lift it into a safe orbit. Problems with its control system forced NASA to call off the attempt.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sat, 22 Aug 2026 09:00:00 +0000",
+        "source_url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
+        "image_url": "https://media.wired.com/photos/6a8871d3b0df42666c60d05e/191:100/w_1280,c_limit/sci-award-release-swift-orbit-boost-sept-24.jpg",
         "impact": 3
       },
       {
@@ -103,20 +114,20 @@
         "source_url": "https://www.wired.com/story/best-pool-cleaning-robots/",
         "image_url": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/191:100/w_1280,c_limit/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
         "impact": 3
-      },
-      {
-        "title": "Silicon Valley Doesn't Get Why You Hate AI",
-        "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 20 Aug 2026 18:49:07 +0000",
-        "source_url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-        "image_url": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "First-in-class therapy targets 'undruggable' protein in hard-to-treat blood cancers",
+        "summary": "A first-in-class therapy to target MYC, one of the most sought-after and difficult targets in cancer biology, showed promise in hard-to-treat blood cancers, according to a new preclinical study from The University of Texas MD Anderson Cancer Center published in Blood.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 22 Aug 2026 10:35:57 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-class-therapy-undruggable-protein-hard.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-cancer.jpg",
+        "impact": 4
+      },
       {
         "title": "Patients with heart failure, caregivers, providers receptive to mobile health but adoption barriers persist",
         "summary": "Interviews with patients hospitalized for heart failure, caregivers, providers and organizational leaders highlighted several strengths of Mighty Heart (a major clinical trial examining the effectiveness of in-home and telehealth-enabled visits by paramedics) that may support its adoption and implementation across heal",
@@ -159,17 +170,6 @@
         "published_at": "Wed, 19 Aug 2026 03:46:13 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/dna-break-replace-assemble-genetic-engineering.webp",
-        "impact": 4
-      },
-      {
-        "title": "Cancer drug strategy flips script: PRMT1 activator boosts chemotherapy in pancreatic cancer mouse study",
-        "summary": "What if we could fight cancer by specifically activating a key enzyme instead of deactivating it? That's exactly what a research team at Marburg University has achieved for the first time with the enzyme PRMT1. The scientists developed a small molecule called TR-07 that activates PRMT1.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 21 Aug 2026 14:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-cancer-drug-strategy-flips-script.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/dont-slow-downspeed-up.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos)",
+        "summary": "SpaceX launched 27 Starlink satellites from California early this morning (Aug. 22), on the 100th mission of the year for the company's Falcon rocket family.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 22 Aug 2026 12:23:59 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ZamAtzckVKvmGo57g3Z2oM-1280-80.jpg",
+        "impact": 5
+      },
+      {
         "title": "Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch (photos)",
         "summary": "Japan recently gave the world a look at the spacecraft of its MMX mission, which will launch on Oct. 19 to grab pieces of the Mars moon Phobos and haul them back to Earth.",
         "category": "Space",
@@ -265,25 +276,14 @@
         "impact": 5
       },
       {
-        "title": "Trump to award NASA's Artemis II astronauts the Congressional Space Medal of Honor",
-        "summary": "The NASA astronauts who flew around the moon on the Artemis II mission will receive the Congressional Space Medal of Honor next Friday (Aug. 28).",
+        "title": "The View from Above: The Gemini Visual Acuity Experiments",
+        "summary": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belchi",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 21 Aug 2026 19:30:51 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/trump-to-award-nasas-artemis-ii-astronauts-the-congressional-space-medal-of-honor",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/PaSCzFdpMCcU4U2mw6DXhU-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video)",
-        "summary": "SpaceX completed a single-engine test-firing of its next Starship spacecraft to prepare for its coming test flight, which will be the first to reach orbit.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 21 Aug 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/cSp5Zs3xAta4EHGv4tsJmS-1280-80.png",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 20 Aug 2026 14:30:00 +0000",
+        "source_url": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+        "image_url": "https://images-assets.nasa.gov/image/s65-45683/s65-45683~large.jpg",
         "impact": 4
       }
     ],
@@ -333,14 +333,14 @@
         "impact": 4
       },
       {
-        "title": "JWST Peeks at Callisto’s Ancient Scars",
-        "summary": "Of Jupiter’s four Galilean moons, Callisto is the one that gets the least attention. Io is constantly being resurfaced by volcanoes. Europa has a giant liquid water ocean. And Ganymede has its own magnetic field that interacts with its parent planet in weird ways. Callisto, by comparison, seems sedate, with its ancient",
+        "title": "White Dwarf-Red Dwarf Binaries Power Cosmic Lasers",
+        "summary": "Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects they observed come in pairs that always include a compact dead star, called a white dwarf, locked in orbit with an M dwarf, a red star smaller than our Sun.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Tue, 18 Aug 2026 15:22:54 +0000",
-        "source_url": "https://www.universetoday.com/articles/jwst-peeks-at-callistos-ancient-scars",
-        "image_url": "https://www.universetoday.com/article_images/jpegPIA01649.width-1280_20260818_152124.jpg",
+        "published_at": "Sat, 22 Aug 2026 23:02:54 +0000",
+        "source_url": "https://www.universetoday.com/articles/synchronized-stars-power-cosmic-radio-laser",
+        "image_url": "https://www.universetoday.com/article_images/WD_MD.original_20260822_182847.png",
         "impact": 4
       }
     ],
@@ -460,50 +460,6 @@
     ],
     "ai": [
       {
-        "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-        "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.18078",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-        "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisc",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.18080",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
-        "summary": "arXiv:2608.18104v1 Announce Type: new Abstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabilities make agent states structural and ",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.18104",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents",
-        "summary": "arXiv:2608.18423v1 Announce Type: new Abstract: Language model agents now execute bounded tasks reliably. Whether they can sustain effective decision-making over long horizons, where actions have cumulative consequences and the environment responds to their choices, remains largely unmeasured. FM-Bench (Football Manage",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.18423",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
         "title": "The builder’s guide to GPT‑5.6",
         "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
         "category": "AI",
@@ -512,6 +468,50 @@
         "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
         "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
         "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "Offering Zero Data Retention for frontier models",
+        "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 19 Aug 2026 19:00:00 GMT",
+        "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4bH42IUP1LSYL5WNIs0ya1/ed6b0e324c8f142d964229474d7ee601/codex-seo-private-intelligence-v3-1787157696296.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 18 Aug 2026 11:00:00 GMT",
+        "source_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/55UVJLAaFr5hqOom9Il3Ou/2a7c6a08571daf98a0643d76cc243add/index-pacing-model-development-cyber-capabilities-dark-seo.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "From assistance to execution: How enterprises put AI to work",
+        "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 12 Aug 2026 06:00:00 GMT",
+        "source_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2If00wbX68BibN4DuBTlxC/32dc95f1c054f1c46a91179fef80b55c/Frame.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "Daybreak models are now available on AWS",
+        "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 11 Aug 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6RITuNETzGy8qYTRq0ePqm/e2efee656f610e90b2b2713625aa0de1/SEO.png?w=1600&h=900&fit=fill",
         "impact": 4
       }
     ]
