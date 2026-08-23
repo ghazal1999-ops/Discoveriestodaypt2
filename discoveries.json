@@ -1,8 +1,19 @@
 {
-  "date": "2026-08-22",
-  "last_updated": "2026-08-22 23:17 UTC",
+  "date": "2026-08-23",
+  "last_updated": "2026-08-23 23:18 UTC",
   "categories": {
     "science": [
+      {
+        "title": "A hidden “on switch” in human DNA has finally been decoded",
+        "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventually contribute to d",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 23 Aug 2026 08:14:40 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
+        "impact": 5
+      },
       {
         "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
         "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced",
@@ -15,6 +26,28 @@
         "impact": 5
       },
       {
+        "title": "Breakthrough in a Bizarre Galaxy Could Help Unlock the Mystery of Dark Matter",
+        "summary": "The first globular cluster stellar stream found beyond the Milky Way shows that these faint structures can be used to study dark matter in other galaxies. A faint ribbon of stars stretching across a galaxy can preserve a record of how that system has evolved. Known as globular cluster stellar streams, these long, coher",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sun, 23 Aug 2026 14:11:02 +0000",
+        "source_url": "https://scitechdaily.com/breakthrough-in-a-bizarre-galaxy-could-help-unlock-the-mystery-of-dark-matter/",
+        "image_url": "https://scitechdaily.com/images/Hubble-Space-Telescope-Image-Showing-the-Globular-Cluster-Stellar-Stream-777x424.jpg",
+        "impact": 5
+      },
+      {
+        "title": "This shark can live 400 years. Its eyes barely seem to age",
+        "summary": "Greenland sharks may live for 400 years without suffering the kind of retinal decline normally associated with aging. Researchers found healthy eye tissue and active proteins specially adapted for seeing blue light in the dim Arctic depths. DNA repair mechanisms may help keep their eyes functioning across centuries. Th",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 22 Aug 2026 23:14:26 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/greenland-shark-eye-parasite.webp",
+        "impact": 4
+      },
+      {
         "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
         "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons and neutrons effectively flip their tiny internal magnets. The discovery could sharpen models of every",
         "category": "Science",
@@ -24,42 +57,20 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/structure-of-atomic-nuclei.webp",
         "impact": 4
-      },
-      {
-        "title": "Ozempic does something unexpected to the brain’s hunger neurons",
-        "summary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 20 Aug 2026 18:59:05 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/human-brain-activity-neuron-close-up.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists may have finally proved that “empty” space isn’t really empty",
-        "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window into the strange physic",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 18 Aug 2026 02:08:04 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/magnetar-1e-15470-5408.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
-        "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active think",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 17 Aug 2026 02:41:08 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cute-boy-staring-at-cell-phone-screen.webp",
-        "impact": 4
       }
     ],
     "tech": [
+      {
+        "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 23 Aug 2026 16:03:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
+        "impact": 4
+      },
       {
         "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
         "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
@@ -83,6 +94,17 @@
         "impact": 3
       },
       {
+        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 23 Aug 2026 15:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+        "impact": 3
+      },
+      {
         "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
         "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
         "category": "Tech",
@@ -91,28 +113,6 @@
         "published_at": "Sat, 22 Aug 2026 01:03:06 +0000",
         "source_url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
-        "impact": 3
-      },
-      {
-        "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
-        "summary": "The LINK probe was supposed to use robotic arms to capture Swift and lift it into a safe orbit. Problems with its control system forced NASA to call off the attempt.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Sat, 22 Aug 2026 09:00:00 +0000",
-        "source_url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
-        "image_url": "https://media.wired.com/photos/6a8871d3b0df42666c60d05e/191:100/w_1280,c_limit/sci-award-release-swift-orbit-boost-sept-24.jpg",
-        "impact": 3
-      },
-      {
-        "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
-        "summary": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 21 Aug 2026 11:33:00 +0000",
-        "source_url": "https://www.wired.com/story/best-pool-cleaning-robots/",
-        "image_url": "https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/191:100/w_1280,c_limit/The-Best-Pool-Cleaning-Robots-of-2026.jpg",
         "impact": 3
       }
     ],
@@ -129,39 +129,6 @@
         "impact": 4
       },
       {
-        "title": "Patients with heart failure, caregivers, providers receptive to mobile health but adoption barriers persist",
-        "summary": "Interviews with patients hospitalized for heart failure, caregivers, providers and organizational leaders highlighted several strengths of Mighty Heart (a major clinical trial examining the effectiveness of in-home and telehealth-enabled visits by paramedics) that may support its adoption and implementation across heal",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 21 Aug 2026 15:20:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-patients-heart-failure-caregivers-receptive.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/patients-with-heart-fa.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Local airflow patterns, not ventilation alone, can drive airborne tuberculosis spread",
-        "summary": "Tuberculosis (TB) is a leading cause of infectious disease deaths, claiming more than 1 million lives every year. It spreads through the air when an infected person coughs, sneezes or exhales, and drug-resistant strains and asymptomatic spreading are growing concerns. Curbing TB transmission is an urgent public health ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 21 Aug 2026 14:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-local-airflow-patterns-ventilation-airborne.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-importance-of-indo.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Promising new weight loss and diabetes treatment helps burn fat while keeping muscle in preclinical study",
-        "summary": "Over the past five years, medications called GLP-1s have revolutionized the treatment of metabolic disorders like obesity, diabetes and fatty liver disease. Sold under the brand names Ozempic, Wegovy, Mounjaro and Zepbound, these drugs are highly effective at helping people lose weight and manage their blood sugar leve",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 21 Aug 2026 14:00:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-weight-loss-diabetes-treatment-fat.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/weight-loss-3.jpg",
-        "impact": 4
-      },
-      {
         "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
         "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced",
         "category": "Medicine",
@@ -170,6 +137,39 @@
         "published_at": "Wed, 19 Aug 2026 03:46:13 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/dna-break-replace-assemble-genetic-engineering.webp",
+        "impact": 4
+      },
+      {
+        "title": "Youth type 2 diabetes cases in Colorado have risen nearly 10-fold since 2002",
+        "summary": "Type 2 diabetes has traditionally been a disease that has affected mostly middle-aged and older adults. But new research from the U.S. to be presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28–Oct. 2) shows a sharp increase in the rate of new cases of t",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 23 Aug 2026 18:10:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-youth-diabetes-cases-colorado-risen.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-2-diabetes.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A gut microbial health index as a composite biomarker for evaluating overall health",
+        "summary": "Each person has a unique gut microbial population, with variation shaped by diet, lifestyle and disease. We are seeing a rapid rise in metabolic disorders, obesity and inflammatory diseases that cannot be explained by our relatively stable genetic code. One of the most encouraging findings in common modern diseases is ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 23 Aug 2026 16:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-gut-microbial-health-index-composite.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-gut-microbial-health.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Oxalate in spinach and almonds may worsen gut inflammation in IBD",
+        "summary": "Spinach, almonds and sweet potatoes are celebrated as some of the healthiest foods on the planet. But for the millions of Americans living with inflammatory bowel disease (IBD), a new study from the UNC School of Medicine suggests that these same foods may be quietly worsening gut inflammation through a compound most p",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 23 Aug 2026 12:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-oxalate-spinach-almonds-worsen-gut.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/spinach-and-almonds.jpg",
         "impact": 4
       }
     ],
@@ -265,25 +265,25 @@
         "impact": 5
       },
       {
-        "title": "A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave (photos)",
-        "summary": "NASA's Lunar Reconnaissance Orbiter has spotted the crater gouged out on the moon by a SpaceX rocket on Aug. 5, finding it to be about 60 feet (18 meters) wide.",
+        "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+        "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on cours",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Sun, 23 Aug 2026 07:39:28 +0000",
+        "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04982_mcam_4982MR1098550121904994C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "Trump to award NASA's Artemis II astronauts the Congressional Space Medal of Honor",
+        "summary": "The NASA astronauts who flew around the moon on the Artemis II mission will receive the Congressional Space Medal of Honor next Friday (Aug. 28).",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 19 Aug 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/a-spacex-rocket-slammed-into-the-moon-this-month-and-a-nasa-spacecraft-has-spotted-its-lunar-grave-photos",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/r59sVWQbaKh5oj9ewj5XrL-1280-80.jpg",
-        "impact": 5
-      },
-      {
-        "title": "The View from Above: The Gemini Visual Acuity Experiments",
-        "summary": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belchi",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 20 Aug 2026 14:30:00 +0000",
-        "source_url": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
-        "image_url": "https://images-assets.nasa.gov/image/s65-45683/s65-45683~large.jpg",
+        "published_at": "Fri, 21 Aug 2026 19:30:51 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/trump-to-award-nasas-artemis-ii-astronauts-the-congressional-space-medal-of-honor",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PaSCzFdpMCcU4U2mw6DXhU-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -368,17 +368,6 @@
         "impact": 4
       },
       {
-        "title": "The Maison du Peuple: Reclaiming Brutalism for Nation-Building",
-        "summary": "When African countries gained independence from European colonial rule during the mid-twentieth century, nation-building involved more than establishing new governments and political institutions. Newly sovereign states also needed to establish a built identity that could distinguish them from their colonial past, and ",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 21 Aug 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1183315/the-maison-du-peuple-reclaiming-brutalism-for-nation-building",
-        "image_url": "https://images.adsttc.com/media/images/6a7f/03d6/ac8b/af01/892c/c8c8/large_jpg/the-maison-du-peuple-utilizing-brutalism-for-nation-building_9.jpg?1786708995",
-        "impact": 4
-      },
-      {
         "title": "Atelier Vens Vanbelle references brick industrial buildings for cubic home in Belgium",
         "summary": "A brick cube reminiscent of old industrial structures forms this family home in the suburbs of Ghent, designed by Belgian architecture studio Atelier Vens Vanbelle. Named Project Tomas &#38; Katrien after its clients, but nicknamed The Factory by its neighbours, the cubic brick home was disguised as an industrial struc",
         "category": "Architecture",
@@ -398,6 +387,17 @@
         "published_at": "Mon, 17 Aug 2026 08:11:57 +0000",
         "source_url": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "david gianotten of OMA on why local context matters in shaping future cities",
+        "summary": "the OMA managing partner discusses why the future of urban life depends less on universal planning models than on local context, public infrastructure, and community agency. The post david gianotten of OMA on why local context matters in shaping future cities appeared first on designboom | architecture &amp; design mag",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Sat, 22 Aug 2026 10:50:00 +0000",
+        "source_url": "https://www.designboom.com/architecture/david-gianotten-oma-local-context-future-cities-interview/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/david-gianotten-oma-local-context-future-cities-interview-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -436,17 +436,6 @@
         "impact": 4
       },
       {
-        "title": "TechFest 2026: Shortlist revealed with 185 finalists across 21 categories",
-        "summary": "The shortlist for the TechFest Awards 2026 has been announced, with 185 finalists recognised across 21 categories for their use of technological innovation across the construction and civil engineering industries. The post TechFest 2026: Shortlist revealed with 185 finalists across 21 categories appeared first on New C",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 21 Aug 2026 10:16:30 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/techfest-2026-shortlist-revealed-with-185-finalists-across-21-categories-21-08-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/11/Techfest-Awards-2025.webp",
-        "impact": 4
-      },
-      {
         "title": "Surge in July construction starts reflected megaproject volatility: Dodge",
         "summary": "A 25.6% gain in kickoffs last month followed a plunge in June. Dodge said the trend points to &ldquo;a disjointed construction market.&rdquo;",
         "category": "Construction",
@@ -455,6 +444,17 @@
         "published_at": "Fri, 21 Aug 2026 13:24:00 -0400",
         "source_url": "https://www.constructiondive.com/news/surge-july-construction-starts-megaproject-volatility-dodge/828521/",
         "image_url": "https://imgproxy.divecdn.com/mM2kFeCzg8JXhldTwZakuqJW8gTXrcnfmfRgK1XcYYM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNDAwODM2LmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "Turner discloses data breach of salary info, bank accounts, SSNs",
+        "summary": "Class-action tracking website ClaimDEPOT said ransomware group Payouts King claimed it had also accessed engineering documents and military project files.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 21 Aug 2026 10:21:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/turner-construction-data-breach-ssns-bank-accounts/828454/",
+        "image_url": "https://imgproxy.divecdn.com/yAoT_0gvkWbzYpLc5J9CVko5ajWzb3OmN20hxXwyL9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYzOTAuanBn.webp",
         "impact": 3
       }
     ],
