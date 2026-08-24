@@ -1,8 +1,30 @@
 {
-  "date": "2026-08-23",
-  "last_updated": "2026-08-23 23:18 UTC",
+  "date": "2026-08-24",
+  "last_updated": "2026-08-24 23:21 UTC",
   "categories": {
     "science": [
+      {
+        "title": "T Cells Have a Hidden Ability Scientists Never Knew Existed",
+        "summary": "The discovery could lead to improved treatments for autoimmune diseases and cancer. T cells may be able to do something scientists did not previously know they could: physically sense the tissues around them. A McGill University-led study suggests this ability could reshape understanding of how long-lasting immune prot",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Mon, 24 Aug 2026 23:16:53 +0000",
+        "source_url": "https://scitechdaily.com/t-cells-have-a-hidden-ability-scientists-never-knew-existed/",
+        "image_url": "https://scitechdaily.com/images/Immune-T-Cell-777x486.jpg",
+        "impact": 5
+      },
+      {
+        "title": "A ghostly ribbon of stars reveals hidden dark matter",
+        "summary": "A faint ribbon of stars around a distant galaxy has become the first globular cluster stellar stream ever identified beyond the Milky Way. Because the stars trace the galaxy’s gravity, researchers used the stream to estimate how much invisible dark matter surrounds it and how that matter is distributed. The breakthroug",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 24 Aug 2026 08:19:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260823015000.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/globular-cluster-stellar-stream.webp",
+        "impact": 5
+      },
       {
         "title": "A hidden “on switch” in human DNA has finally been decoded",
         "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventually contribute to d",
@@ -12,17 +34,6 @@
         "published_at": "Sun, 23 Aug 2026 08:14:40 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
-        "impact": 5
-      },
-      {
-        "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
-        "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 19 Aug 2026 03:46:13 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/dna-break-replace-assemble-genetic-engineering.webp",
         "impact": 5
       },
       {
@@ -46,17 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/greenland-shark-eye-parasite.webp",
         "impact": 4
-      },
-      {
-        "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
-        "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons and neutrons effectively flip their tiny internal magnets. The discovery could sharpen models of every",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 21 Aug 2026 00:21:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/structure-of-atomic-nuclei.webp",
-        "impact": 4
       }
     ],
     "tech": [
@@ -72,25 +72,25 @@
         "impact": 4
       },
       {
-        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-        "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 21 Aug 2026 13:11:35 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 24 Aug 2026 15:24:18 +0000",
+        "source_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
         "impact": 3
       },
       {
-        "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-        "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Thu, 20 Aug 2026 22:00:11 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 24 Aug 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
         "impact": 3
       },
       {
@@ -105,27 +105,49 @@
         "impact": 3
       },
       {
-        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-        "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+        "title": "The cat-and-mouse game over 3D-printed guns has begun",
+        "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to crea",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 22 Aug 2026 01:03:06 +0000",
-        "source_url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-08-24T15:50:00-04:00",
+        "source_url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "First-in-class therapy targets 'undruggable' protein in hard-to-treat blood cancers",
-        "summary": "A first-in-class therapy to target MYC, one of the most sought-after and difficult targets in cancer biology, showed promise in hard-to-treat blood cancers, according to a new preclinical study from The University of Texas MD Anderson Cancer Center published in Blood.",
+        "title": "How much of a cancer drug is too much? Patients, researchers challenge FDA-approved dosages",
+        "summary": "Northwestern University economist Chuck Manski studies decision-making amid uncertainty. That prepared him better than many other cancer patients to decide whether to stay on an immunotherapy treatment that was making him very ill.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 22 Aug 2026 10:35:57 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-class-therapy-undruggable-protein-hard.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-cancer.jpg",
+        "published_at": "Mon, 24 Aug 2026 17:40:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-cancer-drug-patients-fda-dosages.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-much-of-a-cancer-d.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Clinical trial to treat rectal cancer spares major surgery",
+        "summary": "A new treatment for earlier-stage rectal cancer could transform how patients are treated for the disease, according to a landmark clinical trial.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 24 Aug 2026 14:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-clinical-trial-rectal-cancer-major.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/clinical-trial-to-trea.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Dual therapy activates immune defenses while damaging lung cancer DNA",
+        "summary": "A new preclinical study has demonstrated that combining HER3-DXd with olaparib significantly improves treatment responses in lung cancer models. This combination therapy induces irreparable DNA damage in cancer cells while also stimulating the body's immune system to combat the disease. The research is published in the",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 24 Aug 2026 12:20:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-dual-therapy-immune-defenses-lung.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-combination-ther-2.jpg",
         "impact": 4
       },
       {
@@ -140,36 +162,14 @@
         "impact": 4
       },
       {
-        "title": "Youth type 2 diabetes cases in Colorado have risen nearly 10-fold since 2002",
-        "summary": "Type 2 diabetes has traditionally been a disease that has affected mostly middle-aged and older adults. But new research from the U.S. to be presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28–Oct. 2) shows a sharp increase in the rate of new cases of t",
+        "title": "New guidelines emphasize pollen monitoring for allergy management",
+        "summary": "Allergic rhinitis and asthma are among the most common chronic diseases today, affecting hundreds of millions of people worldwide. One contributing factor is climate change, which is extending pollen seasons, increasing pollen in the air and potentially making it more allergenic. The latest guidelines from the European",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 23 Aug 2026 18:10:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-youth-diabetes-cases-colorado-risen.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-2-diabetes.jpg",
-        "impact": 4
-      },
-      {
-        "title": "A gut microbial health index as a composite biomarker for evaluating overall health",
-        "summary": "Each person has a unique gut microbial population, with variation shaped by diet, lifestyle and disease. We are seeing a rapid rise in metabolic disorders, obesity and inflammatory diseases that cannot be explained by our relatively stable genetic code. One of the most encouraging findings in common modern diseases is ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 23 Aug 2026 16:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-gut-microbial-health-index-composite.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-gut-microbial-health.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Oxalate in spinach and almonds may worsen gut inflammation in IBD",
-        "summary": "Spinach, almonds and sweet potatoes are celebrated as some of the healthiest foods on the planet. But for the millions of Americans living with inflammatory bowel disease (IBD), a new study from the UNC School of Medicine suggests that these same foods may be quietly worsening gut inflammation through a compound most p",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 23 Aug 2026 12:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-oxalate-spinach-almonds-worsen-gut.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/spinach-and-almonds.jpg",
+        "published_at": "Mon, 24 Aug 2026 16:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-guidelines-emphasize-pollen-allergy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/allergy.jpg",
         "impact": 4
       }
     ],
@@ -265,6 +265,17 @@
         "impact": 5
       },
       {
+        "title": "Perseverance Captures Another Phobos Transit",
+        "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission. The animation has been tinted to simulate what a human would see if […]",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Mon, 24 Aug 2026 17:56:49 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26811/PIA26811.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "impact": 4
+      },
+      {
         "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
         "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on cours",
         "category": "Space",
@@ -273,17 +284,6 @@
         "published_at": "Sun, 23 Aug 2026 07:39:28 +0000",
         "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
         "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04982_mcam_4982MR1098550121904994C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "Trump to award NASA's Artemis II astronauts the Congressional Space Medal of Honor",
-        "summary": "The NASA astronauts who flew around the moon on the Artemis II mission will receive the Congressional Space Medal of Honor next Friday (Aug. 28).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 21 Aug 2026 19:30:51 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/trump-to-award-nasas-artemis-ii-astronauts-the-congressional-space-medal-of-honor",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/PaSCzFdpMCcU4U2mw6DXhU-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -297,17 +297,6 @@
         "published_at": "Wed, 19 Aug 2026 21:37:46 +0000",
         "source_url": "https://www.universetoday.com/articles/webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula",
         "image_url": "https://www.universetoday.com/article_images/2000x960_20260819_203003.jpg",
-        "impact": 4
-      },
-      {
-        "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
-        "summary": "James Webb Space Telescope is finding that between the brightest stars, the cosmic skyscrapers, there are much fainter stars, meaning early galaxies are more massive than we believed.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 20 Aug 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/zsknviLBoKaAoEsu7zYnwg-1280-80.png",
         "impact": 4
       },
       {
@@ -342,29 +331,40 @@
         "source_url": "https://www.universetoday.com/articles/synchronized-stars-power-cosmic-radio-laser",
         "image_url": "https://www.universetoday.com/article_images/WD_MD.original_20260822_182847.png",
         "impact": 4
+      },
+      {
+        "title": "The CosmoCube Satellite Will Listen to the Early Universe From the Far Side of the Moon",
+        "summary": "A tiny UK-developed satellite, roughly the size of a small carry-on suitcase, could help answer one of the biggest questions in cosmology: what happened in the roughly 150 million years of cosmic dark ages, before the universe’s first stars appeared?",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 21 Aug 2026 23:33:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-cosmoquest-satellite-will-listen-to-the-early-universe-from-the-far-side-of-the-moon",
+        "image_url": "https://www.universetoday.com/article_images/CosmoCube_CREDIT_Surrey_Space_Technology_Ltd.jpg_20260821_223505.webp",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Epitácio 3714 Building / Cité Arquitetura",
-        "summary": "Situated on one of the most singular plots of land in Rio de Janeiro's South Zone, the Epitácio building overlooks the Rodrigo de Freitas Lagoon, making the surrounding environment the protagonist of the design. Developed by Cité Arquitetura, the residential building translates a contemplative and fluid atmosphere into",
+        "title": "90/100 Mixed Use Project / 5468796 Architecture",
+        "summary": "On a long parcel at the edge of Winnipeg's East Exchange District, 90/100, named for its address, unites a 1905 warehouse with a seven-storey contemporary volume to create a medium-density, mixed-use development. Containing 206 residential suites spanning new and old buildings and 6000 square feet of commercial space, ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 21 Aug 2026 13:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1183785/epitacio-3714-building-cite-arquitetura",
-        "image_url": "https://images.adsttc.com/media/images/6a87/423b/4253/0500/01c9/fc4f/large_jpg/Cit_-Fotos-arquitetura-Epit_cio-0754-copy-2.jpg?1787249457",
+        "published_at": "Mon, 24 Aug 2026 12:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1182206/90-100-mixed-use-project-5468796-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a72/489f/5b21/b900/0199/2bc7/large_jpg/08_90_100_James_Brittain.jpg?1785874611",
         "impact": 4
       },
       {
-        "title": "12 Colombian Houses Featuring Exposed Brick",
-        "summary": "Brick is one of Colombia's most widely used materials, helping its local architecture stand out globally. This is due to the excellent quality of the clay found in several regions of the country. In addition to cladding most of the buildings that define Bogota's urban landscape, the material is used in all its forms, f",
+        "title": "Raw & Warm Residence / Habitat Architects",
+        "summary": "Raw &amp; Warm was conceived as a residential laboratory for an art collector—a home where architecture, art, and daily life could coexist without competing for attention. Rather than concealing the original structure, the design preserves the exposed concrete ceiling and its irregular texture, allowing the building's ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 21 Aug 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/939644/11-colombian-houses-that-feature-exposed-brick",
-        "image_url": "https://images.adsttc.com/media/images/6a87/0679/ab59/ca01/8994/6578/large_jpg/12-casas-colombianas-que-usan-el-ladrillo-a-la-vista_43.jpg?1787233922",
+        "published_at": "Sun, 23 Aug 2026 21:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183580/raw-and-warm-residence-habitat-architects",
+        "image_url": "https://images.adsttc.com/media/images/6a85/bb35/ac8b/af01/892c/d7ed/large_jpg/raw-and-warm-residence-habitat-architects_28.jpg?1787149223",
         "impact": 4
       },
       {
@@ -403,17 +403,6 @@
     ],
     "construction": [
       {
-        "title": "Bedrock Robotics deploys fully autonomous excavators on jobsites",
-        "summary": "The company said its retrofit tech, which digs without an operator, is now active on infrastructure projects for firms such as Sundt Construction and Zachry Construction.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 19 Aug 2026 11:38:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/bedrock-robotics-fully-autonomous-excavators-jobsites/828267/",
-        "image_url": "https://imgproxy.divecdn.com/Zk3I7CJpLlQfz0Ef8DOTm7KfVhAsmAUdhdrPPjHK-uM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GdWxseV9BdXRvbm9tb3VzX0NhYl9WaWV3LmpwZw==.webp",
-        "impact": 4
-      },
-      {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
         "category": "Construction",
@@ -436,6 +425,28 @@
         "impact": 4
       },
       {
+        "title": "Wirral Council awards £1.2bn North West contractor framework",
+        "summary": "Wirral Borough Council has awarded a four-year contractor framework covering construction, infrastructure and demolition works across the North West, with the combined value of the 13 published lot contract values standing at £1.2bn including VAT. The post Wirral Council awards £1.2bn North West contractor framework ap",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Mon, 24 Aug 2026 09:18:36 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/wirral-council-awards-1-2bn-north-west-contractor-framework-24-08-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/08/Wirral-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Tesla looks to build $10B solar cell manufacturing site in Texas",
+        "summary": "The automaker is evaluating multiple states for Project Crystal Sun. The Fort Bend County site would create more than 9,712 jobs and begin construction as soon as this year.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 24 Aug 2026 09:21:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/tesla-eyes-10b-solar-cell-manufacturing-site-fort-bend-county-texas/828532/",
+        "image_url": "https://imgproxy.divecdn.com/b3CHyF9UNfNCJe8GxpfWsv5Px8MHbithhfGjyXFebB0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TZW5lY2FfYXRfU291dGhlcm5fSGlnaGxhbmRzXzJfU2VuZWNhLmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "Surge in July construction starts reflected megaproject volatility: Dodge",
         "summary": "A 25.6% gain in kickoffs last month followed a plunge in June. Dodge said the trend points to &ldquo;a disjointed construction market.&rdquo;",
         "category": "Construction",
@@ -445,74 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/surge-july-construction-starts-megaproject-volatility-dodge/828521/",
         "image_url": "https://imgproxy.divecdn.com/mM2kFeCzg8JXhldTwZakuqJW8gTXrcnfmfRgK1XcYYM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNDAwODM2LmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "Turner discloses data breach of salary info, bank accounts, SSNs",
-        "summary": "Class-action tracking website ClaimDEPOT said ransomware group Payouts King claimed it had also accessed engineering documents and military project files.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 21 Aug 2026 10:21:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/turner-construction-data-breach-ssns-bank-accounts/828454/",
-        "image_url": "https://imgproxy.divecdn.com/yAoT_0gvkWbzYpLc5J9CVko5ajWzb3OmN20hxXwyL9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYzOTAuanBn.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "The builder’s guide to GPT‑5.6",
-        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+        "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's terminal-based coding agen",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
-        "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.20342",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Offering Zero Data Retention for frontier models",
-        "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+        "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+        "summary": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbones. With the advent o",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 19 Aug 2026 19:00:00 GMT",
-        "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4bH42IUP1LSYL5WNIs0ya1/ed6b0e324c8f142d964229474d7ee601/codex-seo-private-intelligence-v3-1787157696296.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.20379",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Pacing model development in an era of cyber-critical capabilities",
-        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+        "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+        "summary": "arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is to decouple routing fr",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 18 Aug 2026 11:00:00 GMT",
-        "source_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/55UVJLAaFr5hqOom9Il3Ou/2a7c6a08571daf98a0643d76cc243add/index-pacing-model-development-cyber-capabilities-dark-seo.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.20397",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "From assistance to execution: How enterprises put AI to work",
-        "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+        "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
+        "summary": "arXiv:2608.20518v1 Announce Type: new Abstract: In Federated Learning (FL), the communication topology is a runtime variable rather than a fixed design choice, since links and edge devices drop in and out during training. Each round, the server must commit three coupled decisions, namely the communication topology, per",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 12 Aug 2026 06:00:00 GMT",
-        "source_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2If00wbX68BibN4DuBTlxC/32dc95f1c054f1c46a91179fef80b55c/Frame.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.20518",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Daybreak models are now available on AWS",
-        "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+        "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+        "summary": "arXiv:2608.20549v1 Announce Type: new Abstract: Advances in multimodal large language models (MLLMs) are extending radiological artificial intelligence (AI) beyond task-specific image analysis toward multimodal understanding and reasoning. Volumetric radiology, however, presents a fundamental representational mismatch:",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 11 Aug 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6RITuNETzGy8qYTRq0ePqm/e2efee656f610e90b2b2713625aa0de1/SEO.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2608.20549",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
