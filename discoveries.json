@@ -1,18 +1,29 @@
 {
-  "date": "2026-08-29",
-  "last_updated": "2026-08-29 04:02 UTC",
+  "date": "2026-08-30",
+  "last_updated": "2026-08-30 00:59 UTC",
   "categories": {
     "science": [
       {
-        "title": "Nano-antennas make living cells light up brighter and faster",
-        "summary": "Researchers at Delft University of Technology have demonstrated for the first time that nano-antennas can enhance the fluorescence of proteins in living human and other mammalian cells. Scientists already use smart fluorescent proteins that light up when the electrical voltage across a nerve cell changes. By placing na",
+        "title": "Scientists discover why damaged nerves struggle to heal",
+        "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with nerve or spinal cord injuries. The discovery could eventually point toward new treatments designed t",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Fri, 28 Aug 2026 12:20:01 EDT",
-        "source_url": "https://phys.org/news/2026-08-nano-antennas-cells-brighter-faster.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nano-antennas-make-liv.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 28 Aug 2026 22:59:06 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/neurons-electrical-signal-regeneration.webp",
+        "impact": 4
+      },
+      {
+        "title": "Scientists turn one of the hardest plastics to recycle into high-performance engine lubricant",
+        "summary": "Researchers have discovered a way to turn notoriously difficult-to-recycle PVC plastic into a key ingredient used in high-performance lubricants such as engine oil. The technique could give mountains of plastic waste a valuable second life while making lubricant production more sustainable.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 29 Aug 2026 08:24:41 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/connor-thompson-engine-oil-sample.webp",
+        "impact": 4
       },
       {
         "title": "190-year-old DNA reveals a hidden pangolin species",
@@ -45,17 +56,6 @@
         "published_at": "Tue, 25 Aug 2026 06:09:15 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/turning-plant-waste-into-valuable-chemicals.webp",
-        "impact": 4
-      },
-      {
-        "title": "Motorboat noise stunts growth and impairs predator escape in reef fish, study shows",
-        "summary": "Coral reef fish that are exposed to motorboat noise grow up smaller and less able to dodge predators, new research shows. Scientists played either boat noise or natural reef sounds to a species from the Great Barrier Reef called the spiny chromis, both as embryos and soon after hatching.",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Fri, 28 Aug 2026 13:20:07 EDT",
-        "source_url": "https://phys.org/news/2026-08-motorboat-noise-stunts-growth-impairs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/motorboat.jpg",
         "impact": 4
       }
     ],
@@ -94,6 +94,17 @@
         "impact": 3
       },
       {
+        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-of",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 29 Aug 2026 17:36:47 +0000",
+        "source_url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
+        "impact": 3
+      },
+      {
         "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
         "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
         "category": "Tech",
@@ -103,30 +114,41 @@
         "source_url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
         "impact": 3
-      },
-      {
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 28 Aug 2026 20:24:11 +0000",
-        "source_url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "New combination therapy shows promise in metastatic pancreatic cancer",
-        "summary": "Results from an early-stage clinical trial, published in Nature Communications, showed encouraging outcomes among patients with newly diagnosed cancer whose tumors had spread to distant organs. Most strikingly, one patient experienced a pathologic complete response—meaning no viable cancer cells could be found—and rema",
+        "title": "Twice-daily radiation linked to better quality of life in lung cancer trial",
+        "summary": "Previously, the primary endpoint results of the NRG-LU005 (NCT03811002) study assessing the addition of the immunotherapy drug atezolizumab (Tecentriq) to standard-of-care concurrent chemoradiation for limited-stage small-cell lung cancer were reported at the American Society for Radiation Oncology 2024 Annual Meeting.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 28 Aug 2026 13:20:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-combination-therapy-metastatic-pancreatic-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-combination-therap-2.jpg",
-        "impact": 5
+        "published_at": "Sat, 29 Aug 2026 20:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-daily-linked-quality-life-lung.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/lung-cancer-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Next generation theranostic pair offers new strategy to detect and treat metastatic kidney cancer",
+        "summary": "A newly developed radiotheranostic pair, 68Ga/177Lu-NYM096, can identify tumors and effectively deliver targeted radiotherapy to patients with metastatic clear cell renal cell carcinoma (ccRCC). Using a small-molecule compound, the new approach helps mitigate toxicity issues common with treatment, offering a safe and f",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 29 Aug 2026 18:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-generation-theranostic-pair-strategy-metastatic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/next-generation-theran.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Implantable cardioverter-defibrillators may benefit certain younger patients with mild–moderate heart dysfunction",
+        "summary": "A more than a decade-long medical trial has opened the way for potentially life-saving treatment options for patients with mild-to-moderate heart conditions. Internationally recognized cardiac expert Flinders University Professor Joseph Selvanayagam, from Adelaide's Heart & Vascular, presented his findings at the Europ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 29 Aug 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-implantable-cardioverter-defibrillators-benefit-younger.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-rhythm.jpg",
+        "impact": 4
       },
       {
         "title": "People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds",
@@ -148,28 +170,6 @@
         "published_at": "Fri, 28 Aug 2026 19:20:02 EDT",
         "source_url": "https://medicalxpress.com/news/2026-08-txn1-mutant-rats-valuable-chronic.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/txn1-mutant-rats-a-val.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Focused ultrasound shows safety and feasibility in epilepsy pilot trial",
-        "summary": "Results from a pilot clinical trial evaluating the safety and feasibility of focused ultrasound neuromodulation in patients with drug-resistant epilepsy were published in Epilepsia. The study, led by Hsiang-Yu Yu, MD, a neurologist at Taipei Veterans General Hospital in Taiwan, built upon the group's initial clinical r",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 28 Aug 2026 14:20:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-focused-ultrasound-safety-feasibility-epilepsy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/focused-ultrasound-sho.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Even symptom-free IBD patients show gut cells primed for damage, study finds",
-        "summary": "Researchers have uncovered early molecular warning signs of inflammatory bowel disease, revealing the condition can begin before symptoms appear and continue silently even when patients appear well. The WEHI-led study found a hidden flaw that can damage intestinal cells and is present even in patients whose disease is ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 28 Aug 2026 15:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-symptom-free-ibd-patients-gut.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-e-1.jpg",
         "impact": 4
       }
     ],
@@ -232,14 +232,25 @@
     ],
     "space": [
       {
-        "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
-        "summary": "NASA&#160;named&#160;a team from the&#160;Massachusetts Institute of Technology&#160;(MIT)&#160;as the&#160;first prize&#160;winner&#160;for&#160;Phase 2&#160;of the&#160;agency’s&#160;LunaRecycle&#160;Challenge, which&#160;focused on&#160;developing&#160;solutions for&#160;reducing waste&#160;during missions to the Mo",
+        "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
+        "summary": "A SpaceX Falcon Heavy rocket is poised to lift off with the Nancy Grace Roman Space Telescope on Aug. 30. This observatory is on a mission to usher in a new wave of astronomical discovery.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 28 Aug 2026 20:30:52 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/cerberuz-lunarecycle-winners.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 29 Aug 2026 22:44:18 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/wisdPU8c2rGWaphW6ARWHM-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can'",
+        "summary": "On Aug. 29, 1965, two NASA astronauts returned to Earth after spending eight days in space on the record-setting Gemini 5 mission, setting the stage for longer trips to the moon.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 29 Aug 2026 14:14:12 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/VMxkhdTzPf9hfhUNMViCg6-1280-80.jpg",
         "impact": 4
       },
       {
@@ -273,17 +284,6 @@
         "published_at": "Wed, 26 Aug 2026 16:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/satellites/massive-space-mirrors-could-be-40-times-brighter-than-the-full-moon-astronomers-warn-it-will-be-worse-than-big-cities-like-london",
         "image_url": "https://cdn.mos.cms.futurecdn.net/dGQctR2zti6UT56rGV7xMD-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
-        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Sp",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 28 Aug 2026 22:21:31 +0000",
-        "source_url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
         "impact": 4
       }
     ],
@@ -333,14 +333,14 @@
         "impact": 4
       },
       {
-        "title": "Hubble Solves a Mystery About the Milky Way's Early Years",
-        "summary": "New data from NASA’s Hubble Space Telescope shows definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.",
+        "title": "A Tool for Measuring the Mass of the Stars, Galaxies, and the Universe Gets a Tweak",
+        "summary": "How do scientists know the mass of the Universe? Measuring it has traditionally relied on knowing how many stars there are in galaxies, as well as clouds of gas and dust, and associated dark matter. Astronomers generally use the mass of the brightest stars to estimate the mass of an entire galaxy. That means the rest o",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 27 Aug 2026 16:48:59 +0000",
-        "source_url": "https://www.universetoday.com/articles/hubble-solves-a-mystery-about-the-milky-ways-early-years",
-        "image_url": "https://www.universetoday.com/article_images/For-Display-Half-Res_20260827_164823.jpg",
+        "published_at": "Sat, 29 Aug 2026 18:21:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/measuring-the-mass-of-the-universe-isnt-as-simple-as-astronomers-thought",
+        "image_url": "https://www.universetoday.com/article_images/081126_Galaxy_20260829_174613.jpeg",
         "impact": 4
       }
     ],
