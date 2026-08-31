@@ -1,8 +1,41 @@
 {
-  "date": "2026-08-30",
-  "last_updated": "2026-08-30 00:59 UTC",
+  "date": "2026-08-31",
+  "last_updated": "2026-08-31 01:04 UTC",
   "categories": {
     "science": [
+      {
+        "title": "This strange “spacetime crystal” can suddenly become a black hole",
+        "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, potentially giving researchers a new tool for studying primordi",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 30 Aug 2026 11:05:09 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/black-hole-spacetime-crystal.webp",
+        "impact": 5
+      },
+      {
+        "title": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
+        "summary": "Scientists have cracked a long-standing chemistry problem, creating nanocrystals from tough metal nitrides that were previously extremely difficult to produce at this scale. The breakthrough could turn familiar materials used in LEDs, implants, and superconductors into building blocks for flexible electronics, printabl",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 30 Aug 2026 07:45:32 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/metal-nitride-nanocrystals.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists discover a massive heat anomaly deep inside Mars",
+        "summary": "Mars has a hidden temperature divide, with its southern interior potentially hundreds of degrees hotter than the north and partially molten. The discovery could help explain several long-standing Martian mysteries, including unusual magnetism, seismic behavior, and clues to the planet’s ancient water history.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 30 Aug 2026 08:27:59 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260828082336.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/mars-warm-southern-interior.webp",
+        "impact": 4
+      },
       {
         "title": "Scientists discover why damaged nerves struggle to heal",
         "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with nerve or spinal cord injuries. The discovery could eventually point toward new treatments designed t",
@@ -24,39 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/connor-thompson-engine-oil-sample.webp",
         "impact": 4
-      },
-      {
-        "title": "190-year-old DNA reveals a hidden pangolin species",
-        "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by p",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 26 Aug 2026 08:46:59 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/manis-aurita-pangolin.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists discover a brain “brake” that can shut down chronic pain",
-        "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 27 Aug 2026 00:46:20 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-inflammation-disease.webp",
-        "impact": 4
-      },
-      {
-        "title": "Atomic catalyst unlocks the hidden value of plant waste",
-        "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 25 Aug 2026 06:09:15 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/turning-plant-waste-into-valuable-chemicals.webp",
-        "impact": 4
       }
     ],
     "tech": [
@@ -70,6 +70,17 @@
         "source_url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/thermostat2.jpg?resize=1200,600",
         "impact": 4
+      },
+      {
+        "title": "Inside Meta’s push to put robots to work in data centers",
+        "summary": "The company is testing robots on tasks that can performed by technicians.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Sun, 30 Aug 2026 11:03:47 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+        "impact": 3
       },
       {
         "title": "Anthropic's new hardware standard lets AI agents control the physical world",
@@ -94,29 +105,29 @@
         "impact": 3
       },
       {
-        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-        "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-of",
+        "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sat, 29 Aug 2026 17:36:47 +0000",
-        "source_url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-        "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 28 Aug 2026 23:24:27 +0000",
-        "source_url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
+        "published_at": "Sun, 30 Aug 2026 16:03:00 +0000",
+        "source_url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Cardiologist referrals improve cholesterol levels in prostate cancer patients, but may not be necessary for all",
+        "summary": "Men with prostate cancer have a high risk of heart disease, especially when treated with hormone therapy. A large international, first-of-its-kind study led by Hamilton researchers found that routine referrals to an internist or cardiologist improved cholesterol levels but did not lead to fewer heart attacks, strokes, ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 30 Aug 2026 05:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-cardiologist-referrals-cholesterol-prostate-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cardiologist.jpg",
+        "impact": 4
+      },
       {
         "title": "Twice-daily radiation linked to better quality of life in lung cancer trial",
         "summary": "Previously, the primary endpoint results of the NRG-LU005 (NCT03811002) study assessing the addition of the immunotherapy drug atezolizumab (Tecentriq) to standard-of-care concurrent chemoradiation for limited-stage small-cell lung cancer were reported at the American Society for Radiation Oncology 2024 Annual Meeting.",
@@ -151,25 +162,14 @@
         "impact": 4
       },
       {
-        "title": "People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds",
-        "summary": "Oral anticoagulant therapy lowered the risk of adverse clinical events compared with no anticoagulation in patients with atrial fibrillation at intermediate stroke risk, according to results from the SINGLE-AF trial presented in a Hot Line session at ESC Congress 2026 and published simultaneously in the New England Jou",
+        "title": "Keto diet cut liver fat by 67% in a clinical trial",
+        "summary": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diet",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 28 Aug 2026 21:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-people-atrial-fibrillation-intermediate-benefit.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/atrial-fibrillation.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Txn1 mutant rats: A valuable translational model of chronic kidney disease",
-        "summary": "Chronic kidney disease (CKD) is a major health burden affecting approximately one in 10 adults globally. Even with improved treatments, many patients continue to experience worsening kidney function, resulting in the need for dialysis or transplantation. Oxidative stress and mitochondrial dysfunction have long been sus",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 28 Aug 2026 19:20:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-txn1-mutant-rats-valuable-chronic.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/txn1-mutant-rats-a-val.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 29 Aug 2026 09:32:50 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/diseased-liver-illustration.webp",
         "impact": 4
       }
     ],
@@ -254,7 +254,7 @@
         "impact": 4
       },
       {
-        "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
+        "title": "What time will SpaceX launch NASA's Roman Space Telescope today? (Full mission timeline)",
         "summary": "SpaceX will launch the Nancy Grace Roman Space Telescope, NASA's next great observatory, atop a Falcon Heavy rocket on Aug. 30. Here's what time it flies.",
         "category": "Space",
         "source": "space.com",
@@ -333,14 +333,14 @@
         "impact": 4
       },
       {
-        "title": "A Tool for Measuring the Mass of the Stars, Galaxies, and the Universe Gets a Tweak",
-        "summary": "How do scientists know the mass of the Universe? Measuring it has traditionally relied on knowing how many stars there are in galaxies, as well as clouds of gas and dust, and associated dark matter. Astronomers generally use the mass of the brightest stars to estimate the mass of an entire galaxy. That means the rest o",
+        "title": "Gardening the Moon's Cosmic Archives",
+        "summary": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of Geophysics and Planetology have come up with a way to decode that history and lear",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Sat, 29 Aug 2026 18:21:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/measuring-the-mass-of-the-universe-isnt-as-simple-as-astronomers-thought",
-        "image_url": "https://www.universetoday.com/article_images/081126_Galaxy_20260829_174613.jpeg",
+        "published_at": "Sun, 30 Aug 2026 23:34:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/gardening-the-moons-cosmic-archives",
+        "image_url": "https://www.universetoday.com/article_images/s1_Keplers-1920_20260830_233807.jpg",
         "impact": 4
       }
     ],
@@ -354,17 +354,6 @@
         "published_at": "Fri, 28 Aug 2026 13:00:00 +0000",
         "source_url": "https://www.archdaily.com/1184135/tomaz-building-ideia1",
         "image_url": "https://images.adsttc.com/media/images/6a8d/9af4/4253/0500/01ca/0835/large_jpg/_08A2513-Pano_copyright_manuel_sa.jpg?1787665196",
-        "impact": 4
-      },
-      {
-        "title": "VENTUROUS: Design Practice Research Futures in Architecture & Urban Design",
-        "summary": "VENTUROUS exhibition charts a decade of innovative design research and practice from RMIT PhD alumni in Architecture &amp; Urban Design. RMIT Galleries&rsquo; latest exhibition brings together the work of 23 practitioners, all alumni of RMIT&rsquo;s School of Architecture &amp; Urban Design&rsquo;s pioneering design pr",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 28 Aug 2026 09:05:00 +0000",
-        "source_url": "https://www.archdaily.com/1184127/venturous-design-practice-research-futures-in-architecture-and-urban-design",
-        "image_url": "https://images.adsttc.com/media/images/6a91/74b9/a25c/7b00/0125/fb36/large_jpg/VENTUROUS_Exhibition_image.jpg?1787917636",
         "impact": 4
       },
       {
@@ -390,14 +379,25 @@
         "impact": 4
       },
       {
-        "title": "Atelier Vens Vanbelle references brick industrial buildings for cubic home in Belgium",
-        "summary": "A brick cube reminiscent of old industrial structures forms this family home in the suburbs of Ghent, designed by Belgian architecture studio Atelier Vens Vanbelle. Named Project Tomas &#38; Katrien after its clients, but nicknamed The Factory by its neighbours, the cubic brick home was disguised as an industrial struc",
+        "title": "ICON uses one construction system to 3D-print radically different ideas of home",
+        "summary": "ICON employs large-scale 3D-printing to build affordable housing, suburban communities, private homes and desert retreats. The post ICON uses one construction system to 3D-print radically different ideas of home appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 18 Aug 2026 10:30:42 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/18/atelier-vens-vanbelle-project-tomas-katrien/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Sat, 29 Aug 2026 07:45:24 +0000",
+        "source_url": "https://www.designboom.com/architecture/icon-construction-system-3d-print-home-modes-habitation/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/icon-modes-habitation-designboom-FB.jpg",
+        "impact": 4
+      },
+      {
+        "title": "helen & hard revives viking boatbuilding with whole-tree cabin on norway’s atlantic coast",
+        "summary": "helen &#038; hard pairs viking-era boatbuilding logic with robotic milling to shape cabin sande’s expressive timber frame. The post helen &#038; hard revives viking boatbuilding with whole-tree cabin on norway’s atlantic coast appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 28 Aug 2026 15:45:05 +0000",
+        "source_url": "https://www.designboom.com/architecture/helen-hard-viking-boatbuilding-cabin-sande-norway/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/cabin-sande-helen-hard-architects-norway-designboom-FB.jpg",
         "impact": 4
       }
     ],
