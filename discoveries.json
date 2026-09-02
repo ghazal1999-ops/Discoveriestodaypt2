@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-01",
-  "last_updated": "2026-09-01 01:35 UTC",
+  "date": "2026-09-02",
+  "last_updated": "2026-09-02 00:48 UTC",
   "categories": {
     "science": [
       {
@@ -15,6 +15,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists discover why snake embryos twist into spirals",
+        "summary": "Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and twist inside the egg. Researchers reached the conclusion after studying more than 900 embryos and usin",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 01 Sep 2026 08:38:16 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cape-house-snake-embryo.webp",
+        "impact": 5
+      },
+      {
         "title": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
         "summary": "Scientists have cracked a long-standing chemistry problem, creating nanocrystals from tough metal nitrides that were previously extremely difficult to produce at this scale. The breakthrough could turn familiar materials used in LEDs, implants, and superconductors into building blocks for flexible electronics, printabl",
         "category": "Science",
@@ -26,25 +37,14 @@
         "impact": 5
       },
       {
-        "title": "Sliding sugars offer simpler, smarter route to precision liver-targeted therapies",
-        "summary": "Targeted drug delivery directly to the liver has unlocked major breakthroughs across medicine, but constructing the chemical key to enter liver cells remains complex and costly. Today, researchers at Kumamoto University, in collaboration with the National University of Singapore, have unveiled a nature-inspired solutio",
+        "title": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
+        "summary": "Researchers today announced AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules with a 1,000-fold reduction in computational costs over existing methods. Developed and validated by scientists from St. Jude Children's Research Hospital, University of Pavia, Dana Farber Cancer ",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Mon, 31 Aug 2026 19:20:02 EDT",
-        "source_url": "https://phys.org/news/2026-08-sugars-simpler-smarter-route-precision.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/sliding-sugars-offer-s.jpg",
-        "impact": 5
-      },
-      {
-        "title": "'One-pot' CRISPR platform delivers lab-like sensitivity in 30 minutes for at-home testing",
-        "summary": "A research team from The Hong Kong University of Science and Technology (HKUST) has developed an innovative \"one-pot\" testing platform, known as TEMPO, that could transform highly sensitive nucleic acid testing from a laboratory-based procedure into a simple, single-step test that can be performed at home. With a singl",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Mon, 31 Aug 2026 18:40:03 EDT",
-        "source_url": "https://phys.org/news/2026-08-pot-crispr-platform-lab-sensitivity.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-on-1.jpg",
+        "published_at": "Tue, 01 Sep 2026 17:00:07 EDT",
+        "source_url": "https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-informed-adaptivefl-1.jpg",
         "impact": 5
       },
       {
@@ -60,6 +60,17 @@
       }
     ],
     "tech": [
+      {
+        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+        "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 01 Sep 2026 16:31:04 +0000",
+        "source_url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.jpg?resize=1200,844",
+        "impact": 4
+      },
       {
         "title": "How to sign up for a virtual power plant—and decide whether you should",
         "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household",
@@ -83,71 +94,49 @@
         "impact": 3
       },
       {
-        "title": "Inside Meta’s push to put robots to work in data centers",
-        "summary": "The company is testing robots on tasks that can performed by technicians.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Sun, 30 Aug 2026 11:03:47 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-        "summary": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
+        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+        "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 31 Aug 2026 18:10:09 +0000",
-        "source_url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/mckesson-2236133684.jpg?resize=1200,800",
+        "published_at": "Tue, 01 Sep 2026 17:35:37 +0000",
+        "source_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "How AI could make it harder for governments to use hacking tools",
-        "summary": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
+        "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+        "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 31 Aug 2026 15:19:32 +0000",
-        "source_url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Tue, 01 Sep 2026 14:40:00 +0000",
+        "source_url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+        "image_url": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/191:100/w_1280,c_limit/Sonos%20Ace%20Ultra%201.JPG",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "LDL-cholesterol lowering medication linked to lower mortality in high-risk patients",
-        "summary": "Mass General Brigham Heart and Vascular Institute researchers have found that high-risk patients who had not previously experienced a heart attack or stroke had a lower risk of death after taking the cholesterol-lowering drug evolocumab (on top of standard cholesterol-lowering therapy) as part of a clinical trial, comp",
+        "title": "Medical AI could move from treatment to prevention",
+        "summary": "Descriptive, Diagnostic, Predictive and Prescriptive—with two new domains: Critique and Creative. The result lays out where medical AI's greatest opportunities lie and how it could shift health care from treating disease to proactively reducing disease burden. At the same time, they emphasize that realizing this potent",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 31 Aug 2026 19:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-ldl-cholesterol-lowering-medication-linked.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ldl-cholesterol-loweri.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Catheter-directed therapy improves pulmonary embolism outcomes",
-        "summary": "In patients with intermediate-high-risk pulmonary embolism, catheter-directed thrombolysis improved short-term clinical outcomes compared with standard anticoagulation therapy alone, according to results presented today in a Hot Line session at ESC Congress 2026.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 31 Aug 2026 21:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-catheter-therapy-pulmonary-embolism-outcomes.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/catheter.jpg",
+        "published_at": "Tue, 01 Sep 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-medical-ai-treatment.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/medical-ai-could-move.jpg",
         "impact": 4
       },
       {
-        "title": "Extended Paxlovid fails to ease long COVID symptoms in 959-person trial",
-        "summary": "Results from a clinical trial and published today in the journal Lancet Infectious Diseases show that the antiviral drug Paxlovid, commonly prescribed to treat acute COVID-19, does not affect long COVID symptoms compared with a placebo.",
+        "title": "MS therapy uses patients' red blood cells to curb autoimmune attacks without broadly suppressing immunity",
+        "summary": "Multiple sclerosis (MS) is a chronic inflammatory autoimmune disease that particularly affects young adults. The disease is driven by immune cells—primarily what are known as T lymphocytes. These cells normally fight off pathogens such as viruses, bacteria and fungi, as well as tumors, but in MS they mistakenly attack ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 31 Aug 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-paxlovid-ease-covid-symptoms-person.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blister-pack.jpg",
+        "published_at": "Tue, 01 Sep 2026 14:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-ms-therapy-patients-red-blood.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-therapy-for-ms-s.jpg",
         "impact": 4
       },
       {
@@ -162,14 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Targeted lead placement is no better than standard placement in cardiac resynchronization therapy",
-        "summary": "Targeted placement of the left ventricular lead did not improve outcomes in patients with heart failure undergoing cardiac resynchronization therapy, according to results presented in a Hot Line session at ESC Congress 2026 and published simultaneously in The Lancet.",
+        "title": "Ghanaian adults' diets fall short on sustainability, survey finds",
+        "summary": "There has been a rapid increase in cardiovascular and metabolic conditions in sub-Saharan Africa. What is the link between sustainable diets that are nutritious, environmentally friendly, economically affordable and socioculturally acceptable, and cardiometabolic conditions? An international research team led by Prof. ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 31 Aug 2026 20:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-08-placement-standard-cardiac-resynchronization-therapy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/pacemaker.jpg",
+        "published_at": "Tue, 01 Sep 2026 18:40:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-ghanaian-adults-diets-fall-short.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/diets-need-more-sustai.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A full-control strategy could cut simulated mpox infections by 97.8%, suggests mathematical model",
+        "summary": "Mpox (formerly monkeypox), a viral zoonotic disease, remains a global public health concern because it can spread between animals and humans and among people. While measures like vaccination, treatment, quarantine and public education are available, combining them strategically and allocating resources during an outbre",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 01 Sep 2026 16:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-full-strategy-simulated-mpox-infections.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-full-control-strateg.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
+        "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 01 Sep 2026 21:08:37 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Historic Engines Take Their Place on Artemis III",
+        "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight [&",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 01 Sep 2026 17:30:35 +0000",
+        "source_url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
+        "image_url": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
+        "impact": 4
+      },
+      {
         "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
         "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
         "category": "Space",
@@ -263,42 +285,9 @@
         "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/VMxkhdTzPf9hfhUNMViCg6-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "What time will SpaceX launch NASA's Roman Space Telescope today? (Full mission timeline)",
-        "summary": "SpaceX will launch the Nancy Grace Roman Space Telescope, NASA's next great observatory, atop a Falcon Heavy rocket on Aug. 30. Here's what time it flies.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 28 Aug 2026 22:31:45 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/7Bo7yYCRBoFR7Ah8jTJEAY-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "President Trump gives Artemis II moon astronauts the Congressional Space Medal of Honor",
-        "summary": "The astronauts of NASA's Artemis II mission, who flew around the moon this past April, just received the United States' highest space honor.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 28 Aug 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/trump-gives-artemis-ii-moon-astronauts-congressional-space-medal-of-honor",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/eTbXiNPcir5FT8FyXvYMJm-1280-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
-      {
-        "title": "Star Feels Spin of Milky Way’s Black Hole",
-        "summary": "The fastest known star in our galaxy comes so close to Sgr A* that the black hole’s rotation may pull it off course, enabling a first-of-its-kind detection. The post Star Feels Spin of Milky Way’s Black Hole appeared first on Sky &amp; Telescope.",
-        "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Mon, 31 Aug 2026 11:00:00 +0000",
-        "source_url": "https://skyandtelescope.org/astronomy-news/star-feels-spin-of-milky-ways-black-hole/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/S301_orbit_ESO_2023.jpg",
-        "impact": 4
-      },
       {
         "title": "Looking for Earth 2.0 in Binary Systems",
         "summary": "While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them - they have yet to find an Earth-mass, rocky planet orbiting in the habitable zone of a Sun-like star. That’s partially just due to cosmic geography - around half of all sun-like stars near us aren’t a",
@@ -311,60 +300,71 @@
         "impact": 4
       },
       {
-        "title": "Theory-Defying Exoplanet Atmospheres Force a Rethink of Theories",
-        "summary": "The discovery of lava worlds with atmospheres is challenging our theories of how atmospheres escape, and calling into question the idea of the cosmic shoreline. Stanford researchers have developed a model that explains how lava-covered worlds close to their stars can retain their atmospheres. The new theory could infor",
+        "title": "Scientists Model the True Darkness of Venus’s Mysterious UV Absorber",
+        "summary": "As any amateur astronomer can tell you, Venus is famous for its yellow coloration in visible light. But, ask a professional planetary scientist and they will tell you the strangest thing about Venus is how it appears in ultraviolet. In this spectrum, stark, high-contrast streaks are splattered across the planet’s cloud",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 27 Aug 2026 19:40:25 +0000",
-        "source_url": "https://www.universetoday.com/articles/theory-defying-exoplanet-atmospheres-force-a-rethink-of-theories",
-        "image_url": "https://www.universetoday.com/article_images/heic1603b_20260827_182724.jpg",
+        "published_at": "Tue, 01 Sep 2026 15:41:44 +0000",
+        "source_url": "https://www.universetoday.com/articles/scientists-model-the-true-darkness-of-venuss-mysterious-uv-absorber",
+        "image_url": "https://www.universetoday.com/article_images/20180113_uvi_20160425_171339_283_l2b_v10_PseudoRGB.jpg_20260901_154143.webp",
         "impact": 4
       },
       {
-        "title": "James Webb Space Telescope observes 72 stars and finds planet formation is a race against time",
-        "summary": "Using the James Webb Space Telescope, astronomers have studied 72 young sun-like stars to discover that forming planets is a real race against time.",
+        "title": "Mars's Interior is 400°C Hotter Under Southern Hemisphere",
+        "summary": "The planet Mars is a cold and dry world completely devoid of life, but billions of years ago things were much different. This is when Mars had a much warmer interior than it does today, resulting in active volcanism that replenished its atmosphere, a magnetic field that protected the planet from harmful solar and cosmi",
         "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 27 Aug 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-observes-72-stars-and-finds-planet-formation-is-a-race-against-time",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/j3PYkWg8Dyn7LDtNpBfn5f-1280-80.png",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 01 Sep 2026 04:37:07 +0000",
+        "source_url": "https://www.universetoday.com/articles/marss-interior-is-400c-hotter-under-southern-hemisphere",
+        "image_url": "https://www.universetoday.com/article_images/image001_uZjYoHK.c1be2478.width-450_20260901_043011.png",
         "impact": 4
       },
       {
-        "title": "Meet Altair, the Eagle’s Eye",
-        "summary": "Altair, centerpiece of Aqulia, the Eagle, is the twelfth-brightest star in the night sky and one of the closest stars to Earth. The post Meet Altair, the Eagle’s Eye appeared first on Sky &amp; Telescope.",
+        "title": "Gardening the Moon's Cosmic Archives",
+        "summary": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of Geophysics and Planetology have come up with a way to decode that history and lear",
         "category": "Astronomy",
-        "source": "skyandtelescope.org",
-        "journal": "skyandtelescope.org",
-        "published_at": "Wed, 26 Aug 2026 14:30:03 +0000",
-        "source_url": "https://skyandtelescope.org/stargazing-and-observing/meet-altair-eagle/",
-        "image_url": "https://dq0hsqwjhea1.cloudfront.net/DJ-Altair-MW-600px.jpg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sun, 30 Aug 2026 23:34:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/gardening-the-moons-cosmic-archives",
+        "image_url": "https://www.universetoday.com/article_images/s1_Keplers-1920_20260830_233807.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Roman Rises! Five Things to Know About NASA's New Space Telescope",
+        "summary": "NASA's newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and Earthlike planets — months ahead of schedule.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sun, 30 Aug 2026 18:57:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope",
+        "image_url": "https://www.universetoday.com/article_images/260830-roman1_20260830_190545.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Elia Zenghelis, Co-Founder of OMA and Architectural Educator, Passes Away at 89",
-        "summary": "Elia Zenghelis, Greek architect, co-founder of the Office for Metropolitan Architecture (OMA), and one of the most influential architectural educators of the late twentieth century, died on August 30, 2026, at the age of 89. His death marks the passing of a figure whose influence on architectural thought extended far b",
+        "title": "The Yakisugi Cabin / Alki Architecture + Design Studio",
+        "summary": "The Yakisugi Cabin explores architecture shaped by what is already available — where material constraint becomes a generative design tool rather than a limitation. Conceived as a compact, relocatable dwelling, the project brings together reclaimed materials, traditional craft and contemporary high-performance construct",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 31 Aug 2026 14:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1184274/elia-zenghelis-co-founder-of-oma-and-architectural-educator-passes-away-at-89",
-        "image_url": "https://images.adsttc.com/media/images/6a95/ca10/d541/d501/892c/d4ef/large_jpg/elia-zenghelis-co-founder-of-oma-and-architectural-educator-passes-away-at-89_1.jpg?1788201496",
+        "published_at": "Tue, 01 Sep 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1184115/the-yakisugi-cabin-alki-architecture-plus-design-studio",
+        "image_url": "https://images.adsttc.com/media/images/6a90/fdc6/b71a/0f01/89f1/b16a/large_jpg/the-yakisugi-cabin-alki-architecture-plus-design-studio_31.jpg?1787887073",
         "impact": 4
       },
       {
-        "title": "M+ Hong Kong Exhibition Traces Herzog & de Meuron's Design Process Across China",
-        "summary": "An exhibition tracing the vision behind Herzog &amp; de Meuron's ten selected projects in China will open on September 12, 2026, at the M+ Museum in Hong Kong. The exhibition marks the museum's fifth anniversary; since opening, M+ has built its collection around visual art, design and architecture, moving image, and Ho",
+        "title": "MVRDV \"prioritises human scale\" in design of colourful Miami building",
+        "summary": "Dutch architecture studio MVRDV has designed the Woma mixed-use building in Miami's Wynwood neighbourhood with a central plaza and a facade broken up into colour-blocked sections. Developed by Uribe Schwarzkopf, a firm behind several recent high-profile Quito buildings, Woma will have 163 residences in Wynwood, a forme",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 31 Aug 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1184216/m-plus-hong-kong-exhibition-traces-herzog-and-de-meurons-design-process-across-china",
-        "image_url": "https://images.adsttc.com/media/images/6a94/9916/c615/2701/88ac/46da/large_jpg/herzog-and-de-meuron_10.jpg?1788123460",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 01 Sep 2026 15:00:19 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -403,17 +403,6 @@
     ],
     "construction": [
       {
-        "title": "Punch List: Maryland accepts bids for Key Bridge demo work",
-        "summary": "Plus, an Irish subsidiary of Turner hits a data center milestone and Zachry Construction wins a San Antonio airport contract.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 28 Aug 2026 08:50:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/punch-list-maryland-key-bridge-demo-bids-turner-ireland/828988/",
-        "image_url": "https://imgproxy.divecdn.com/XLn6knkQE6iM0ap-9c6IJP2Z6ZXpuFgNUVLjDbNPvvI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxMTc3MTQxLmpwZw==.webp",
-        "impact": 4
-      },
-      {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
         "category": "Construction",
@@ -436,25 +425,36 @@
         "impact": 4
       },
       {
-        "title": "JE Dunn launches power generation unit, names leader",
-        "summary": "As data centers, onshoring and aging infrastructure create new opportunities, JE Dunn aims to capitalize beyond the 220 power projects already within its portfolio.",
+        "title": "Costain doubles apprentice intake as project pipeline projects expands",
+        "summary": "Costain has announced it will take on 50 apprentices in 2026, double last year’s intake, as the engineering contractor expands recruitment to meet demand across a growing portfolio of long‑term infrastructure contracts. The post Costain doubles apprentice intake as project pipeline projects expands appeared first on Ne",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 31 Aug 2026 15:53:12 -0400",
-        "source_url": "https://www.constructiondive.com/news/je-dunn-power-generation-unit-leader/829212/",
-        "image_url": "https://imgproxy.divecdn.com/sok-BzTPziieV3ALucXn2LBb8NuFPTzyhEHwJApRJ8I/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yNDAzMjBDR19LRklfQWJib3R0Tm9ydGh3ZXN0ZXJuXzAxNF9oaWdocmVzanBnLmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 01 Sep 2026 10:17:27 +0000",
+        "source_url": "https://www.newcivilengineer.com/uncategorized/costain-doubles-apprentice-intake-as-project-pipeline-projects-expands-01-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/costain-hires-record-number-of-apprentices-2_credit-costain.webp",
+        "impact": 4
       },
       {
-        "title": "Fluor to wrap $5B Alabama plant construction",
-        "summary": "Novelis, an aluminum manufacturer, expects the aluminum recycling facility in Bay Minette to begin commissioning this year.",
+        "title": "Movers and shakers: Biggest construction and engineering appointments August 2026",
+        "summary": "With summer drawing to a close, a number of major civil engineering and construction firms have made senior appointments. The post Movers and shakers: Biggest construction and engineering appointments August 2026 appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 01 Sep 2026 05:30:34 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-august-2026-01-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/08/MixCollage-25-Aug-2026-10-32-AM-2879-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Federal authorities disrupt China-backed hacking operation targeting US critical infrastructure",
+        "summary": "Compromised IoT devices were used in a yearslong campaign against key sectors and federal agencies.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 28 Aug 2026 11:27:09 -0400",
-        "source_url": "https://www.constructiondive.com/news/fluor-alabama-plant-construction-novelis/829026/",
-        "image_url": "https://imgproxy.divecdn.com/GdiP61TQ94CZ8bLvU2L2V3tq22HE3L2E3ydwCKnjYn0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CTS1UaHVtYi0xMDI0eDU3Ni5qcGc=.webp",
+        "published_at": "Tue, 01 Sep 2026 12:58:24 -0400",
+        "source_url": "https://www.constructiondive.com/news/federal-authorities-disrupt-china-backed-hacking-operation-targeting-us-cri/829311/",
+        "image_url": "https://imgproxy.divecdn.com/cHzi9njVRIRmL9XVlLqv9gwE_Jder0BHYundO00wb8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfWVk0RHIwRS5qcGc=.webp",
         "impact": 3
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.27646",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.27716",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.27790",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.27797",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2608.27808",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
