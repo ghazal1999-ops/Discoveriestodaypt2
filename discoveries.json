@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-02",
-  "last_updated": "2026-09-02 00:48 UTC",
+  "date": "2026-09-03",
+  "last_updated": "2026-09-03 00:57 UTC",
   "categories": {
     "science": [
       {
@@ -26,51 +26,40 @@
         "impact": 5
       },
       {
-        "title": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
-        "summary": "Scientists have cracked a long-standing chemistry problem, creating nanocrystals from tough metal nitrides that were previously extremely difficult to produce at this scale. The breakthrough could turn familiar materials used in LEDs, implants, and superconductors into building blocks for flexible electronics, printabl",
+        "title": "Alzheimer’s may leave a mark on the brain long before plaques appear",
+        "summary": "Brain changes associated with Alzheimer’s may begin at least seven years before amyloid plaques become detectable with current PET scans. Researchers uncovered the signal by tracking healthy older adults with repeated brain imaging over nearly 20 years. The discovery could help scientists identify Alzheimer’s earlier a",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sun, 30 Aug 2026 07:45:32 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/metal-nitride-nanocrystals.webp",
+        "published_at": "Wed, 02 Sep 2026 09:33:57 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/tau-tangles-amyloid-beta-neuron-cells-in-brain-alzheimers-dementia.webp",
         "impact": 5
       },
       {
-        "title": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
-        "summary": "Researchers today announced AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules with a 1,000-fold reduction in computational costs over existing methods. Developed and validated by scientists from St. Jude Children's Research Hospital, University of Pavia, Dana Farber Cancer ",
+        "title": "Trees use a 'muscle' to correct their posture—a newly discovered role for tension wood",
+        "summary": "A research team from INRAE and the University Clermont Auvergne has shown that trees are capable of correcting a curvature they detect in their stems through a specific biological process. In the study, young trees with bent stems were placed in an experimental set-up that prevented them from sensing their orientation ",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Tue, 01 Sep 2026 17:00:07 EDT",
-        "source_url": "https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-informed-adaptivefl-1.jpg",
+        "published_at": "Wed, 02 Sep 2026 19:00:05 EDT",
+        "source_url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-newly-discovered-rol.jpg",
         "impact": 5
       },
       {
-        "title": "A 250-Year-Old Heat Mystery Leads to a Surprising Discovery About Human Sweat",
-        "summary": "In extreme heat, sweat can lose much of its cooling power for a reason scientists have largely overlooked: the air directly above the skin can become almost perfectly still. Arizona State University researchers have identified a physical effect that can reduce sweat evaporation by more than half in hot, dry, windless c",
+        "title": "Fossil feet may be misleading scientists about human evolution",
+        "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and chimpanzees looked like and how it moved.",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Mon, 31 Aug 2026 14:29:29 +0000",
-        "source_url": "https://scitechdaily.com/a-250-year-old-heat-mystery-leads-to-a-surprising-discovery-about-human-sweat/",
-        "image_url": "https://scitechdaily.com/images/ANDI-the-Sweating-Manikin-777x518.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 31 Aug 2026 08:38:26 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/wild-sooty-mangabey-monkey.webp",
+        "impact": 4
       }
     ],
     "tech": [
-      {
-        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 01 Sep 2026 16:31:04 +0000",
-        "source_url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.jpg?resize=1200,844",
-        "impact": 4
-      },
       {
         "title": "How to sign up for a virtual power plant—and decide whether you should",
         "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household",
@@ -83,60 +72,71 @@
         "impact": 4
       },
       {
-        "title": "Think twice before installing this device promising free movies",
-        "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
+        "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+        "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Mon, 31 Aug 2026 16:33:38 +0000",
-        "source_url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp",
+        "published_at": "Wed, 02 Sep 2026 11:00:43 +0000",
+        "source_url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
         "impact": 3
       },
       {
-        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-        "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 01 Sep 2026 17:35:37 +0000",
-        "source_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+        "published_at": "Wed, 02 Sep 2026 22:24:09 +0000",
+        "source_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
         "impact": 3
       },
       {
-        "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-        "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+        "title": "Uber is laying off 10% of staff, or 3,300 people",
+        "summary": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Tue, 01 Sep 2026 14:40:00 +0000",
-        "source_url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-        "image_url": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/191:100/w_1280,c_limit/Sonos%20Ace%20Ultra%201.JPG",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 02 Sep 2026 12:14:35 +0000",
+        "source_url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Uber beats Waymo as first to launch robotaxis in London",
+        "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for ",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-02T19:00:00-04:00",
+        "source_url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Medical AI could move from treatment to prevention",
-        "summary": "Descriptive, Diagnostic, Predictive and Prescriptive—with two new domains: Critique and Creative. The result lays out where medical AI's greatest opportunities lie and how it could shift health care from treating disease to proactively reducing disease burden. At the same time, they emphasize that realizing this potent",
+        "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds",
+        "summary": "Investigators from the Mass General Brigham Cancer Institute have found that adults with newly diagnosed acute myeloid leukemia (AML) receiving a less-intensive combination of azacitidine and venetoclax had more than twice as much time before treatment failed, the leukemia returned or worsened, or they died, compared w",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 01 Sep 2026 17:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-medical-ai-treatment.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/medical-ai-could-move.jpg",
-        "impact": 4
+        "published_at": "Wed, 02 Sep 2026 17:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-intensive-drug-combination-effective-acute.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/acute-myeloid-leukemia.jpg",
+        "impact": 5
       },
       {
-        "title": "MS therapy uses patients' red blood cells to curb autoimmune attacks without broadly suppressing immunity",
-        "summary": "Multiple sclerosis (MS) is a chronic inflammatory autoimmune disease that particularly affects young adults. The disease is driven by immune cells—primarily what are known as T lymphocytes. These cells normally fight off pathogens such as viruses, bacteria and fungi, as well as tumors, but in MS they mistakenly attack ",
+        "title": "Lab-grown tissue reveals how inflammation may drive heart relaxation failure",
+        "summary": "Scientists study the underlying causes of a disease or test potential new drugs in animal models or cells obtained from human biopsy specimens before clinical trials. However, disease models in animals do not mimic actual human disease, and biopsy specimens are difficult to access for research purposes. Lab-grown tissu",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 01 Sep 2026 14:40:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-ms-therapy-patients-red-blood.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-therapy-for-ms-s.jpg",
+        "published_at": "Wed, 02 Sep 2026 15:00:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-lab-grown-tissue-reveals-inflammation.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/japanese-scientists-de.jpg",
         "impact": 4
       },
       {
@@ -151,25 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Ghanaian adults' diets fall short on sustainability, survey finds",
-        "summary": "There has been a rapid increase in cardiovascular and metabolic conditions in sub-Saharan Africa. What is the link between sustainable diets that are nutritious, environmentally friendly, economically affordable and socioculturally acceptable, and cardiometabolic conditions? An international research team led by Prof. ",
+        "title": "Boosting indoor light could help support healthy aging in older adults in urban areas",
+        "summary": "Bright light therapy lamps can improve sleep, activity levels and circadian rhythms among older adults in urban areas who have diminished exposure to natural light, a new study from the University of Surrey reports. Scientists believe such methods could provide a nonpharmacological, low-cost way to support healthy agin",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 01 Sep 2026 18:40:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-ghanaian-adults-diets-fall-short.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/diets-need-more-sustai.jpg",
+        "published_at": "Wed, 02 Sep 2026 19:10:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-boosting-indoor-healthy-aging-older.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/senior-window-indoors-1.jpg",
         "impact": 4
       },
       {
-        "title": "A full-control strategy could cut simulated mpox infections by 97.8%, suggests mathematical model",
-        "summary": "Mpox (formerly monkeypox), a viral zoonotic disease, remains a global public health concern because it can spread between animals and humans and among people. While measures like vaccination, treatment, quarantine and public education are available, combining them strategically and allocating resources during an outbre",
+        "title": "Daraxonrasib demonstrates initial antitumor activity in RAS-mutant lung cancer",
+        "summary": "Daraxonrasib, an oral RAS inhibitor therapy, achieved durable responses in pretreated patients with RAS-mutant non-small cell lung cancer (NSCLC) in a phase 1/2 trial led by The University of Texas MD Anderson Cancer Center.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 01 Sep 2026 16:40:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-full-strategy-simulated-mpox-infections.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-full-control-strateg.jpg",
+        "published_at": "Wed, 02 Sep 2026 17:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-daraxonrasib-antitumor-ras-mutant-lung.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/medication-3.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
+        "summary": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbi",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Wed, 02 Sep 2026 14:53:54 +0000",
+        "source_url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/09/wff-2022-063-002.webp",
+        "impact": 4
+      },
+      {
         "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
         "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value ",
         "category": "Space",
@@ -254,36 +265,25 @@
         "impact": 4
       },
       {
-        "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
-        "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
+        "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
+        "summary": "NASA has picked Blue Origin to build its next Mars telecommunications orbiter, awarding a $700 million contract to Jeff Bezos' spaceflight company.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 31 Aug 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1280-80.jpg",
+        "published_at": "Wed, 02 Sep 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/JyJ5ALNraocukdfjvdk6ca-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
-        "summary": "A SpaceX Falcon Heavy rocket is poised to lift off with the Nancy Grace Roman Space Telescope on Aug. 30. This observatory is on a mission to usher in a new wave of astronomical discovery.",
+        "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
+        "summary": "A SpaceX Falcon 9 rocket launched 27 Starlink satellites from California early this morning (Sept. 2). It was the 35th flight for the rocket's first stage.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sat, 29 Aug 2026 22:44:18 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/wisdPU8c2rGWaphW6ARWHM-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can'",
-        "summary": "On Aug. 29, 1965, two NASA astronauts returned to Earth after spending eight days in space on the record-setting Gemini 5 mission, setting the stage for longer trips to the moon.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 29 Aug 2026 14:14:12 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/VMxkhdTzPf9hfhUNMViCg6-1280-80.jpg",
+        "published_at": "Wed, 02 Sep 2026 11:24:21 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Ch9atZrfQZU3ZLbHnyXdfV-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -322,38 +322,60 @@
         "impact": 4
       },
       {
-        "title": "Gardening the Moon's Cosmic Archives",
-        "summary": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of Geophysics and Planetology have come up with a way to decode that history and lear",
+        "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
+        "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Sun, 30 Aug 2026 23:34:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/gardening-the-moons-cosmic-archives",
-        "image_url": "https://www.universetoday.com/article_images/s1_Keplers-1920_20260830_233807.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 31 Aug 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1280-80.jpg",
         "impact": 4
       },
       {
-        "title": "Roman Rises! Five Things to Know About NASA's New Space Telescope",
-        "summary": "NASA's newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and Earthlike planets — months ahead of schedule.",
+        "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
+        "summary": "NASA's Nancy Grace Roman Space Telescope has left Earth, but it'll be a while before it starts its highly anticipated science mission. Here are the next steps for the observatory.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Sun, 30 Aug 2026 18:57:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope",
-        "image_url": "https://www.universetoday.com/article_images/260830-roman1_20260830_190545.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 31 Aug 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nancy-grace-roman-space-telescope-next-steps-commissioning",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/aQQkTC5BPJTwMjCaTCD3r6-1280-80.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "The Yakisugi Cabin / Alki Architecture + Design Studio",
-        "summary": "The Yakisugi Cabin explores architecture shaped by what is already available — where material constraint becomes a generative design tool rather than a limitation. Conceived as a compact, relocatable dwelling, the project brings together reclaimed materials, traditional craft and contemporary high-performance construct",
+        "title": "KAYA Building / Jeff Svitak",
+        "summary": "At the intersection of Third Avenue and Nutmeg Street, KAYA rises alongside a new urban park in San Diego, opening up to a landscape that blends canyon, city, and ocean horizon. The central concept stems from a simple question: how can a building listen to its neighborhood rather than impose itself upon it? Inspiration",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 01 Sep 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1184115/the-yakisugi-cabin-alki-architecture-plus-design-studio",
-        "image_url": "https://images.adsttc.com/media/images/6a90/fdc6/b71a/0f01/89f1/b16a/large_jpg/the-yakisugi-cabin-alki-architecture-plus-design-studio_31.jpg?1787887073",
+        "published_at": "Wed, 02 Sep 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1184429/kaya-building-jeff-svitak",
+        "image_url": "https://images.adsttc.com/media/images/6a98/08d2/505a/cb00/0115/2582/large_jpg/_S__JEFF_SVITAK_INC_KAYA_19.jpg?1788350187",
+        "impact": 4
+      },
+      {
+        "title": "5 Women in the Building Industry Share How They Bring Light to Life",
+        "summary": "Across architecture and the building industry, women contribute to a wide range of fields, from design practice and construction to research and leadership. Their work reflects different approaches to some of the profession's most pressing questions, including environmental performance, adaptive reuse, and the creation",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 02 Sep 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1183467/5-women-in-the-building-industry-share-how-they-bring-light-to-life",
+        "image_url": "https://images.adsttc.com/media/images/6a84/462a/ac8b/af01/892c/d1d9/large_jpg/5-women-in-the-building-industry-share-how-they-bring-light-to-life_19.jpg?1787053659",
+        "impact": 4
+      },
+      {
+        "title": "Lighthouse Residence / Architecture Discipline",
+        "summary": "True luxury isn't characterized by excess, but the simple interplay of light, air, and landscape with the built. Lighthouse, a residence designed by Architecture Discipline in New Delhi, responds to this idea and challenges conventional urban living by treating natural elements, such as air and light, as fundamental fo",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 02 Sep 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline",
+        "image_url": "https://images.adsttc.com/media/images/6a95/0e72/b71a/0f01/89f1/b733/large_jpg/lighthouse-residence-architecture-discipline_12.jpg?1788153491",
         "impact": 4
       },
       {
@@ -377,31 +399,31 @@
         "source_url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "KFA set to transform 1970s brutalist LA office into apartments",
-        "summary": "Architecture studio KFA plans to convert a 1970s brutalist office in Los Angeles into housing after its recent designation as a historic landmark, taking advantage of a recently adopted adaptive reuse ordinance. KFA's plans include converting the stepped concrete building in the city's Sherman Oaks neighbourhood into 9",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 25 Aug 2026 14:00:39 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imt/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "ICON uses one construction system to 3D-print radically different ideas of home",
-        "summary": "ICON employs large-scale 3D-printing to build affordable housing, suburban communities, private homes and desert retreats. The post ICON uses one construction system to 3D-print radically different ideas of home appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Sat, 29 Aug 2026 07:45:24 +0000",
-        "source_url": "https://www.designboom.com/architecture/icon-construction-system-3d-print-home-modes-habitation/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/08/icon-modes-habitation-designboom-FB.jpg",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Welsh councils plan £800M civil engineering framework",
+        "summary": "Five Welsh councils are planning to establish an £800M framework for civil engineering related construction projects and other works acoss South West Wales, Bridgend and Neath Port Talbot, Swansea and Powys. The post Welsh councils plan £800M civil engineering framework appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Wed, 02 Sep 2026 14:20:46 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/welsh-councils-plan-800m-civil-engineering-framework-02-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Port-Talbot-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NCE opens judge nominations for 2027 awards programmes",
+        "summary": "New Civil Engineer (NCE) is inviting readers to nominate a judge for its 2027 awards portfolio - including the British Construction &amp; Infrastructure Awards, NCE Awards and NCE Bridges Awards - as it looks to refresh and expand its judging panels. The post NCE opens judge nominations for 2027 awards programmes appea",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Wed, 02 Sep 2026 10:39:15 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/nce-opens-judge-nominations-for-2027-awards-programmes-02-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/emap_BCIA2025-25-1-560x315.jpg",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -421,96 +443,74 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/08/13/GoFormz_ENR_CBC_Article_Image.webp?crop=true&height=257&t=1786628970&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/08/20/AON_ENR_Article_1_Image.webp?crop=true&height=257&t=1788372493&width=420",
         "impact": 4
       },
       {
-        "title": "Costain doubles apprentice intake as project pipeline projects expands",
-        "summary": "Costain has announced it will take on 50 apprentices in 2026, double last year’s intake, as the engineering contractor expands recruitment to meet demand across a growing portfolio of long‑term infrastructure contracts. The post Costain doubles apprentice intake as project pipeline projects expands appeared first on Ne",
+        "title": "First 55m Saltley Viaduct section installed for HS2",
+        "summary": "Construction of the new Saltley Viaduct moved a step closer over the August Bank Holiday weekend after HS2 engineers successfully installed the first section of the new bridge over the Birmingham to Derby railway lines. The post First 55m Saltley Viaduct section installed for HS2 appeared first on New Civil Engineer.",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Tue, 01 Sep 2026 10:17:27 +0000",
-        "source_url": "https://www.newcivilengineer.com/uncategorized/costain-doubles-apprentice-intake-as-project-pipeline-projects-expands-01-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/costain-hires-record-number-of-apprentices-2_credit-costain.webp",
+        "published_at": "Wed, 02 Sep 2026 13:45:01 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/first-55m-saltley-viaduct-section-installed-for-hs2-02-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/6797195e02ea4f60910ca761ab441861-560x315.jpg",
         "impact": 4
-      },
-      {
-        "title": "Movers and shakers: Biggest construction and engineering appointments August 2026",
-        "summary": "With summer drawing to a close, a number of major civil engineering and construction firms have made senior appointments. The post Movers and shakers: Biggest construction and engineering appointments August 2026 appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Tue, 01 Sep 2026 05:30:34 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-august-2026-01-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/08/MixCollage-25-Aug-2026-10-32-AM-2879-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Federal authorities disrupt China-backed hacking operation targeting US critical infrastructure",
-        "summary": "Compromised IoT devices were used in a yearslong campaign against key sectors and federal agencies.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 01 Sep 2026 12:58:24 -0400",
-        "source_url": "https://www.constructiondive.com/news/federal-authorities-disrupt-china-backed-hacking-operation-targeting-us-cri/829311/",
-        "image_url": "https://imgproxy.divecdn.com/cHzi9njVRIRmL9XVlLqv9gwE_Jder0BHYundO00wb8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfWVk0RHIwRS5qcGc=.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary",
-        "summary": "arXiv:2608.27646v1 Announce Type: new Abstract: Give an agent a human's credential and it inherits the person's reach without the judgment that limits its use. It can sweep every reachable record into model context, where hidden instructions steer its next call, and every request stays credential-valid while the agent ",
+        "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+        "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows s",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.27646",
+        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.00012",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "PCFBench: A Diagnostic Benchmark for Product Carbon Footprint Estimation",
-        "summary": "arXiv:2608.27716v1 Announce Type: new Abstract: AI systems are being deployed on high-stakes, domain-specific workflows that demand correctness not just in the final output, but at every intermediate step. One such workflow is estimating a product carbon footprint (PCF), the greenhouse-gas emissions attributable to a p",
+        "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+        "summary": "arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment. In such settings, safety becomes a sys",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.27716",
+        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.00015",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Credo: Reusable Declarative Primitives for Agentic Workflows",
-        "summary": "arXiv:2608.27790v1 Announce Type: new Abstract: An LLM application depends on both a model and a harness: the program that determines what each call sees, how many calls to make, and which answers to trust. Coding agents can now discover strong harnesses by searching over candidate programs, but the resulting artifact ",
+        "title": "Learning What to Retain: Gated-Memory Routing for Efficient Collaboration in Multi-Agent LLM Systems",
+        "summary": "arXiv:2609.00237v1 Announce Type: new Abstract: Large language model (LLM)-based multi-agent systems tackle complex reasoning by orchestrating how multiple agents are configured and how they collaborate. A central challenge is to adapt orchestration to the evolving collaboration state. Routing from the query alone cann",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.27790",
+        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.00237",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action",
-        "summary": "arXiv:2608.27797v1 Announce Type: new Abstract: Natural-language tasking of embodied agents is rarely just goal specification: users also impose constraints that must persist while the world changes. Code-generating LLM agents can produce plausible behaviors for such instructions, but their free-form programs provide n",
+        "title": "Invalidation Contracts for Cross-Episode Agent Memory",
+        "summary": "arXiv:2609.00243v1 Announce Type: new Abstract: LLM agents that cache recovery suggestions from API errors can skip re-derivation in later episodes, spending fewer tokens and fewer model calls on constraints they have already learned. Server-side data drift turns those cached fixes into silent failures, and the usual r",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.27797",
+        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.00243",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "CURA: Certified Runtime Alarms for Computer-Use Agents",
-        "summary": "arXiv:2608.27808v1 Announce Type: new Abstract: Self-report is the cheapest oversight channel a deployer has, and on capable computer-use agents (CUAs) it fails precisely where oversight matters. On 361 OSWorld tasks our pipeline, a read-only feasibility gate, a planner, and a GUI executor, reaches a mean task score of",
+        "title": "RestoreBench: Can AI Agents Restore Power Flow Convergence?",
+        "summary": "arXiv:2609.00384v1 Announce Type: new Abstract: Large Language Model (LLM) agents increasingly automate multi-step engineering workflows through tool use, interpretation of intermediate results, and iterative planning. Diagnosing and resolving non-convergent power flow cases is a promising yet largely unexplored applic",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2608.27808",
+        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.00384",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
