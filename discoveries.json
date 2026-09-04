@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-03",
-  "last_updated": "2026-09-03 00:57 UTC",
+  "date": "2026-09-04",
+  "last_updated": "2026-09-04 00:41 UTC",
   "categories": {
     "science": [
       {
@@ -37,108 +37,86 @@
         "impact": 5
       },
       {
-        "title": "Trees use a 'muscle' to correct their posture—a newly discovered role for tension wood",
-        "summary": "A research team from INRAE and the University Clermont Auvergne has shown that trees are capable of correcting a curvature they detect in their stems through a specific biological process. In the study, young trees with bent stems were placed in an experimental set-up that prevented them from sensing their orientation ",
+        "title": "From peas to potatoes, AI identifies nearly 800 promising plant proteins for food and cosmetics",
+        "summary": "Scientists from Leeds' School of Food Science and Nutrition have developed an advanced AI process that can rapidly identify plant proteins capable of acting as emulsifiers from tens of millions of initial candidates. To date, it has identified nearly 800. The discovery will cut years of costly trial-and-error research ",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Wed, 02 Sep 2026 19:00:05 EDT",
-        "source_url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-newly-discovered-rol.jpg",
+        "published_at": "Thu, 03 Sep 2026 19:00:04 EDT",
+        "source_url": "https://phys.org/news/2026-09-peas-potatoes-ai-proteins-food.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-identifies-hu.jpg",
         "impact": 5
       },
       {
-        "title": "Fossil feet may be misleading scientists about human evolution",
-        "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and chimpanzees looked like and how it moved.",
+        "title": "Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data",
+        "summary": "There are myriad ways of \"being a star,\" and scientists spend years trying to uncover and understand them. One unusual type is the so-called hot subdwarf—small stars that burn mysteriously hot for their size. Scientists from the Faculty of Physics and the Faculty of Mathematics and Informatics at Vilnius University (VU",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 31 Aug 2026 08:38:26 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/wild-sooty-mangabey-monkey.webp",
-        "impact": 4
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Thu, 03 Sep 2026 16:40:05 EDT",
+        "source_url": "https://phys.org/news/2026-09-hot-subdwarfs-focus-ai-scans.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-165-m-telescope-at.jpg",
+        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "How to sign up for a virtual power plant—and decide whether you should",
-        "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 28 Aug 2026 09:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/thermostat2.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-        "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 02 Sep 2026 11:00:43 +0000",
-        "source_url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 02 Sep 2026 22:24:09 +0000",
-        "source_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Uber is laying off 10% of staff, or 3,300 people",
-        "summary": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 02 Sep 2026 12:14:35 +0000",
-        "source_url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Uber beats Waymo as first to launch robotaxis in London",
-        "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for ",
+        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+        "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-09-02T19:00:00-04:00",
-        "source_url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-09-03T14:00:00-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
+      },
+      {
+        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+        "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 03 Sep 2026 13:34:13 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+        "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 03 Sep 2026 12:12:56 +0000",
+        "source_url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900",
+        "impact": 3
+      },
+      {
+        "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+        "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-03T18:00:00-04:00",
+        "source_url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0%2C10.776325370133%2C100%2C78.447349259734&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
+        "summary": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 03 Sep 2026 16:00:00 +0000",
+        "source_url": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
+        "image_url": "https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/191:100/w_1280,c_limit/comerce%20.jpg",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds",
-        "summary": "Investigators from the Mass General Brigham Cancer Institute have found that adults with newly diagnosed acute myeloid leukemia (AML) receiving a less-intensive combination of azacitidine and venetoclax had more than twice as much time before treatment failed, the leukemia returned or worsened, or they died, compared w",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 02 Sep 2026 17:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-intensive-drug-combination-effective-acute.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/acute-myeloid-leukemia.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Lab-grown tissue reveals how inflammation may drive heart relaxation failure",
-        "summary": "Scientists study the underlying causes of a disease or test potential new drugs in animal models or cells obtained from human biopsy specimens before clinical trials. However, disease models in animals do not mimic actual human disease, and biopsy specimens are difficult to access for research purposes. Lab-grown tissu",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 02 Sep 2026 15:00:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-lab-grown-tissue-reveals-inflammation.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/japanese-scientists-de.jpg",
-        "impact": 4
-      },
       {
         "title": "Keto diet cut liver fat by 67% in a clinical trial",
         "summary": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diet",
@@ -151,25 +129,47 @@
         "impact": 4
       },
       {
-        "title": "Boosting indoor light could help support healthy aging in older adults in urban areas",
-        "summary": "Bright light therapy lamps can improve sleep, activity levels and circadian rhythms among older adults in urban areas who have diminished exposure to natural light, a new study from the University of Surrey reports. Scientists believe such methods could provide a nonpharmacological, low-cost way to support healthy agin",
+        "title": "Fake doctor reviews often trusted more than real ones, study finds",
+        "summary": "New research reveals fraudulent clinician reviews often seem more credible because they include richer personal health details that real patients are reluctant to share publicly. Researchers say these detailed narratives exploit a gap between the information people want to read and what real patients are willing to sha",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 02 Sep 2026 19:10:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-boosting-indoor-healthy-aging-older.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/senior-window-indoors-1.jpg",
+        "published_at": "Thu, 03 Sep 2026 19:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-fake-doctor-real.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2018/reviewers.jpg",
         "impact": 4
       },
       {
-        "title": "Daraxonrasib demonstrates initial antitumor activity in RAS-mutant lung cancer",
-        "summary": "Daraxonrasib, an oral RAS inhibitor therapy, achieved durable responses in pretreated patients with RAS-mutant non-small cell lung cancer (NSCLC) in a phase 1/2 trial led by The University of Texas MD Anderson Cancer Center.",
+        "title": "Pig kidney xenotransplant successfully bridges patient with end-stage kidney disease to human transplant",
+        "summary": "In January 2026, Tim Andrews, who had received a genetically edited pig kidney in January 2025, became the recipient of a human kidney. A new Mass General Brigham paper, published in The Lancet, details Andrews' experience and how xenotransplantation could bridge the gap between end-stage kidney failure and a human tra",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 02 Sep 2026 17:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-daraxonrasib-antitumor-ras-mutant-lung.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/medication-3.jpg",
+        "published_at": "Thu, 03 Sep 2026 18:30:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-pig-kidney-xenotransplant-successfully-bridges.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/surgery-7.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Eating jetlag: Weekend meal shifts associated with higher heart disease risk in men",
+        "summary": "A team of researchers from INRAE, Inserm, Sorbonne Paris Nord University, Université Paris Cité and the CNAM has published the first study exploring the association between eating jetlag and the risk of cardiovascular disease. Eating jetlag refers to the difference in the timing of meals between weekdays—when mealtimes",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 03 Sep 2026 17:40:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-jetlag-weekend-meal-shifts-higher.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/brunch.jpg",
+        "impact": 4
+      },
+      {
+        "title": "FDA clears blood test for Alzheimer disease",
+        "summary": "The U.S. Food and Drug Administration has cleared the PrecivityAD2 test for adults 40 and older presenting with signs or symptoms of cognitive impairment and undergoing evaluation for Alzheimer's disease or other forms of cognitive decline.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 03 Sep 2026 15:20:11 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-fda-blood-alzheimer-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fda-clears-blood-test-3.jpg",
         "impact": 4
       }
     ],
@@ -208,6 +208,17 @@
         "impact": 4
       },
       {
+        "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
+        "summary": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What Is Math For in the Age of AI? first appeared on Quanta Magazin",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Thu, 03 Sep 2026 13:41:48 +0000",
+        "source_url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg",
+        "impact": 3
+      },
+      {
         "title": "‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
         "summary": "Mathematicians found that a broad class of networks will abruptly shift behavior past a critical point. The post ‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions first appeared on Quanta Magazine",
         "category": "Mathematics",
@@ -217,53 +228,9 @@
         "source_url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
         "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Percolation-cr-DVDP-Social.jpg",
         "impact": 3
-      },
-      {
-        "title": "Two Researchers Are Rebuilding Mathematics From the Ground Up",
-        "summary": "By replacing the most fundamental concept in topology, Peter Scholze and Dustin Clausen are taking the first step in a far bigger program to understand why numbers behave the way they do. The post Two Researchers Are Rebuilding Mathematics From the Ground Up first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Wed, 20 May 2026 14:52:19 +0000",
-        "source_url": "https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/TearInTopology-crKristinaArmitage-Social.jpg",
-        "impact": 3
       }
     ],
     "space": [
-      {
-        "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
-        "summary": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbi",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Wed, 02 Sep 2026 14:53:54 +0000",
-        "source_url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
-        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/09/wff-2022-063-002.webp",
-        "impact": 4
-      },
-      {
-        "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-        "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 01 Sep 2026 21:08:37 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Historic Engines Take Their Place on Artemis III",
-        "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight [&",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 01 Sep 2026 17:30:35 +0000",
-        "source_url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
-        "image_url": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
-        "impact": 4
-      },
       {
         "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
         "summary": "NASA has picked Blue Origin to build its next Mars telecommunications orbiter, awarding a $700 million contract to Jeff Bezos' spaceflight company.",
@@ -285,18 +252,51 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
         "image_url": "https://cdn.mos.cms.futurecdn.net/Ch9atZrfQZU3ZLbHnyXdfV-1280-80.jpg",
         "impact": 4
+      },
+      {
+        "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
+        "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 31 Aug 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
+        "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 03 Sep 2026 16:25:20 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/fCogfePheY7mvZBenMDVkE-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
+        "summary": "On Sept. 3, 2006, a European satellite named SMART-1 crashed into the moon! Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 03 Sep 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/38Kd6V3SShDsnGLmxArREF-1280-80.jpg",
+        "impact": 4
       }
     ],
     "astronomy": [
       {
-        "title": "Looking for Earth 2.0 in Binary Systems",
-        "summary": "While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them - they have yet to find an Earth-mass, rocky planet orbiting in the habitable zone of a Sun-like star. That’s partially just due to cosmic geography - around half of all sun-like stars near us aren’t a",
+        "title": "Penultimate Lunar Occultations Inbound for Jupiter, Venus and More in September",
+        "summary": "The Moon is busy in September. Coming off of eclipse season in August, the Moon visits no less than two planets, two bright stars and one open cluster in September, as it heads towards the Full Harvest Moon of 2026 on September 26th. No matter where on Earth you happen to be observing from this month, chances are, ther",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Mon, 31 Aug 2026 13:52:30 +0000",
-        "source_url": "https://www.universetoday.com/articles/looking-for-earth-20-in-binary-systems",
-        "image_url": "https://www.universetoday.com/article_images/weic2515a_20260831_135202.jpg",
+        "published_at": "Thu, 03 Sep 2026 19:34:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/penultimate-lunar-occultations-inbound-for-jupiter-venus-and-more-in-september",
+        "image_url": "https://www.universetoday.com/article_images/52904206092_60ee2f3cbd_c_20260903_145434.jpg",
         "impact": 4
       },
       {
@@ -357,28 +357,6 @@
         "impact": 4
       },
       {
-        "title": "5 Women in the Building Industry Share How They Bring Light to Life",
-        "summary": "Across architecture and the building industry, women contribute to a wide range of fields, from design practice and construction to research and leadership. Their work reflects different approaches to some of the profession's most pressing questions, including environmental performance, adaptive reuse, and the creation",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 02 Sep 2026 06:45:00 +0000",
-        "source_url": "https://www.archdaily.com/1183467/5-women-in-the-building-industry-share-how-they-bring-light-to-life",
-        "image_url": "https://images.adsttc.com/media/images/6a84/462a/ac8b/af01/892c/d1d9/large_jpg/5-women-in-the-building-industry-share-how-they-bring-light-to-life_19.jpg?1787053659",
-        "impact": 4
-      },
-      {
-        "title": "Lighthouse Residence / Architecture Discipline",
-        "summary": "True luxury isn't characterized by excess, but the simple interplay of light, air, and landscape with the built. Lighthouse, a residence designed by Architecture Discipline in New Delhi, responds to this idea and challenges conventional urban living by treating natural elements, such as air and light, as fundamental fo",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 02 Sep 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline",
-        "image_url": "https://images.adsttc.com/media/images/6a95/0e72/b71a/0f01/89f1/b733/large_jpg/lighthouse-residence-architecture-discipline_12.jpg?1788153491",
-        "impact": 4
-      },
-      {
         "title": "MVRDV \"prioritises human scale\" in design of colourful Miami building",
         "summary": "Dutch architecture studio MVRDV has designed the Woma mixed-use building in Miami's Wynwood neighbourhood with a central plaza and a facade broken up into colour-blocked sections. Developed by Uribe Schwarzkopf, a firm behind several recent high-profile Quito buildings, Woma will have 163 residences in Wynwood, a forme",
         "category": "Architecture",
@@ -398,6 +376,28 @@
         "published_at": "Thu, 27 Aug 2026 19:20:28 +0000",
         "source_url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "KFA set to transform 1970s brutalist LA office into apartments",
+        "summary": "Architecture studio KFA plans to convert a 1970s brutalist office in Los Angeles into housing after its recent designation as a historic landmark, taking advantage of a recently adopted adaptive reuse ordinance. KFA's plans include converting the stepped concrete building in the city's Sherman Oaks neighbourhood into 9",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 25 Aug 2026 14:00:39 +0000",
+        "source_url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imt/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "why japanese architects carve parking into tiny urban homes",
+        "summary": "across japanese cities, tiny urban houses carve parking directly into their plans and sections to create a car-sized void. The post why japanese architects carve parking into tiny urban homes appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 03 Sep 2026 20:35:30 +0000",
+        "source_url": "https://www.designboom.com/architecture/japanese-carve-parking-tiny-urban-homes-tokyo/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/car-shaped-hole-japanese-houses-tokyo-parking-architecture-designboom-FB.jpg",
         "impact": 4
       }
     ],
@@ -447,72 +447,72 @@
         "impact": 4
       },
       {
-        "title": "First 55m Saltley Viaduct section installed for HS2",
-        "summary": "Construction of the new Saltley Viaduct moved a step closer over the August Bank Holiday weekend after HS2 engineers successfully installed the first section of the new bridge over the Birmingham to Derby railway lines. The post First 55m Saltley Viaduct section installed for HS2 appeared first on New Civil Engineer.",
+        "title": "Cowi completes complex launch of Alaska’s Juneau Creek Bridge",
+        "summary": "Cowi engineers have completed the erection engineering for the launch of the Juneau Creek Bridge across one of Alaska’s most challenging bridge sites, moving nearly 3,175t of structural steel across a remote canyon. The post Cowi completes complex launch of Alaska’s Juneau Creek Bridge appeared first on New Civil Engin",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Wed, 02 Sep 2026 13:45:01 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/first-55m-saltley-viaduct-section-installed-for-hs2-02-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/6797195e02ea4f60910ca761ab441861-560x315.jpg",
+        "published_at": "Thu, 03 Sep 2026 08:00:32 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/cowi-completes-complex-launch-of-alaskas-juneau-creek-bridge-03-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Juneau-Creek-560x315.jpg",
         "impact": 4
       }
     ],
     "ai": [
       {
-        "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-        "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows s",
+        "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+        "summary": "arXiv:2609.01815v1 Announce Type: new Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and compute-efficient, (2)",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.00012",
+        "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.01815",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-        "summary": "arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment. In such settings, safety becomes a sys",
+        "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+        "summary": "arXiv:2609.01861v1 Announce Type: new Abstract: The performance of an LLM agent depends on the scaffold around a frozen model. A common way to improve that scaffold is to use a coding agent as an optimizer: it reads current scores and traces and iteratively edits the source, producing a new candidate each round. Each e",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.00015",
+        "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.01861",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Learning What to Retain: Gated-Memory Routing for Efficient Collaboration in Multi-Agent LLM Systems",
-        "summary": "arXiv:2609.00237v1 Announce Type: new Abstract: Large language model (LLM)-based multi-agent systems tackle complex reasoning by orchestrating how multiple agents are configured and how they collaborate. A central challenge is to adapt orchestration to the evolving collaboration state. Routing from the query alone cann",
+        "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+        "summary": "arXiv:2609.01873v1 Announce Type: new Abstract: Multi-agent AI systems improve inference by spawning agents and synthesizing reports. But another agent is not another observation: apparently independent reports may descend from the same evidence, and genuinely independent evidence can produce nearly identical reports. ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.00237",
+        "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.01873",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Invalidation Contracts for Cross-Episode Agent Memory",
-        "summary": "arXiv:2609.00243v1 Announce Type: new Abstract: LLM agents that cache recovery suggestions from API errors can skip re-derivation in later episodes, spending fewer tokens and fewer model calls on constraints they have already learned. Server-side data drift turns those cached fixes into silent failures, and the usual r",
+        "title": "SkillGLoW: Procedural-Family Skill Consolidation for Self-Improving Agents on Long-Horizon Task Streams",
+        "summary": "arXiv:2609.02217v1 Announce Type: new Abstract: LLM agents increasingly self-improve by writing and reusing textual skills, kept either as one global document or as a flat pool of per-task entries, though most of the evidence comes from domains with structurally similar tasks. On long-horizon workloads where each task ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.00243",
+        "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.02217",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "RestoreBench: Can AI Agents Restore Power Flow Convergence?",
-        "summary": "arXiv:2609.00384v1 Announce Type: new Abstract: Large Language Model (LLM) agents increasingly automate multi-step engineering workflows through tool use, interpretation of intermediate results, and iterative planning. Diagnosing and resolving non-convergent power flow cases is a promising yet largely unexplored applic",
+        "title": "The builder’s guide to GPT‑5.6",
+        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.00384",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
+        "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
