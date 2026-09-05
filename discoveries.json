@@ -1,19 +1,8 @@
 {
-  "date": "2026-09-04",
-  "last_updated": "2026-09-04 00:41 UTC",
+  "date": "2026-09-05",
+  "last_updated": "2026-09-05 00:36 UTC",
   "categories": {
     "science": [
-      {
-        "title": "This strange “spacetime crystal” can suddenly become a black hole",
-        "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, potentially giving researchers a new tool for studying primordi",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 30 Aug 2026 11:05:09 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/black-hole-spacetime-crystal.webp",
-        "impact": 5
-      },
       {
         "title": "Scientists discover why snake embryos twist into spirals",
         "summary": "Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and twist inside the egg. Researchers reached the conclusion after studying more than 900 embryos and usin",
@@ -37,86 +26,108 @@
         "impact": 5
       },
       {
-        "title": "From peas to potatoes, AI identifies nearly 800 promising plant proteins for food and cosmetics",
-        "summary": "Scientists from Leeds' School of Food Science and Nutrition have developed an advanced AI process that can rapidly identify plant proteins capable of acting as emulsifiers from tens of millions of initial candidates. To date, it has identified nearly 800. The discovery will cut years of costly trial-and-error research ",
+        "title": "A 100-Year-Old Mushroom Mystery Just Got Much More Complicated",
+        "summary": "Scientists found that bacterial blotch in white button mushrooms is caused by multiple bacteria, a discovery that could improve disease detection and lead to more sustainable treatments for growers. A University of Florida study has uncovered an important new clue about a disease that has affected white button mushroom",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 03 Sep 2026 19:00:04 EDT",
-        "source_url": "https://phys.org/news/2026-09-peas-potatoes-ai-proteins-food.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-identifies-hu.jpg",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Thu, 03 Sep 2026 11:05:02 +0000",
+        "source_url": "https://scitechdaily.com/a-100-year-old-mushroom-mystery-just-got-much-more-complicated/",
+        "image_url": "https://scitechdaily.com/images/Sameerika-Mudiyanselage-in-a-Mushroom-Farm-777x565.jpg",
         "impact": 5
       },
       {
-        "title": "Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data",
-        "summary": "There are myriad ways of \"being a star,\" and scientists spend years trying to uncover and understand them. One unusual type is the so-called hot subdwarf—small stars that burn mysteriously hot for their size. Scientists from the Faculty of Physics and the Faculty of Mathematics and Informatics at Vilnius University (VU",
+        "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
+        "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint o",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 03 Sep 2026 16:40:05 EDT",
-        "source_url": "https://phys.org/news/2026-09-hot-subdwarfs-focus-ai-scans.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-165-m-telescope-at.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 04 Sep 2026 02:46:01 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-antimatter-physics.webp",
+        "impact": 4
+      },
+      {
+        "title": "Scientists reveal the hidden instructions that build the human brain",
+        "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Tho",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 04 Sep 2026 02:04:06 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/thalamic-and-cortical-organoids.webp",
+        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-        "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity",
+        "title": "Architecting memory and storage in the AI era",
+        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-03T14:00:00-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 04 Sep 2026 18:39:19 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
         "impact": 4
       },
       {
-        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-        "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Thu, 03 Sep 2026 13:34:13 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-        "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 03 Sep 2026 12:12:56 +0000",
-        "source_url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900",
+        "published_at": "Fri, 04 Sep 2026 23:36:14 +0000",
+        "source_url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-        "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000",
+        "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+        "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-03T18:00:00-04:00",
-        "source_url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0%2C10.776325370133%2C100%2C78.447349259734&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 04 Sep 2026 16:51:23 +0000",
+        "source_url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
         "impact": 3
       },
       {
-        "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
-        "summary": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
+        "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
+        "summary": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 04 Sep 2026 13:21:37 +0000",
+        "source_url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-160989986.jpg?resize=1200,831",
+        "impact": 3
+      },
+      {
+        "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
+        "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
         "category": "Tech",
         "source": "wired.com",
         "journal": "wired.com",
-        "published_at": "Thu, 03 Sep 2026 16:00:00 +0000",
-        "source_url": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
-        "image_url": "https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/191:100/w_1280,c_limit/comerce%20.jpg",
+        "published_at": "Fri, 04 Sep 2026 11:08:00 +0000",
+        "source_url": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
+        "image_url": "https://media.wired.com/photos/69d4403d94490f13c636bd21/191:100/w_1280,c_limit/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Study finds liposuction reduces lipedema pain more than conservative treatment",
+        "summary": "A study titled \"Liposuction versus conservative therapy for patients with lipoedema: A randomized controlled multi-center clinical trial\" published in The Lancet, provides the first large-scale, multicenter evidence base for the surgical treatment of lipedema.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 04 Sep 2026 12:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-liposuction-lipedema-pain-treatment.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/surgeon.jpg",
+        "impact": 4
+      },
       {
         "title": "Keto diet cut liver fat by 67% in a clinical trial",
         "summary": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diet",
@@ -129,47 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Fake doctor reviews often trusted more than real ones, study finds",
-        "summary": "New research reveals fraudulent clinician reviews often seem more credible because they include richer personal health details that real patients are reluctant to share publicly. Researchers say these detailed narratives exploit a gap between the information people want to read and what real patients are willing to sha",
+        "title": "CRISPR gene-editing therapy safely and continuously lowers cholesterol and triglycerides, first-in-human trial shows",
+        "summary": "A Cleveland Clinic first-in-human clinical trial has shown that a one-time infusion of a gene-editing therapy using CRISPR-Cas9 was effective and safe in reducing LDL (\"bad\") cholesterol and triglycerides in people with medication-resistant lipid disorders through one year of follow-up across all doses.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 03 Sep 2026 19:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-fake-doctor-real.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2018/reviewers.jpg",
+        "published_at": "Fri, 04 Sep 2026 13:20:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-crispr-gene-therapy-safely-lowers.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cleveland-clinic-first.jpg",
         "impact": 4
       },
       {
-        "title": "Pig kidney xenotransplant successfully bridges patient with end-stage kidney disease to human transplant",
-        "summary": "In January 2026, Tim Andrews, who had received a genetically edited pig kidney in January 2025, became the recipient of a human kidney. A new Mass General Brigham paper, published in The Lancet, details Andrews' experience and how xenotransplantation could bridge the gap between end-stage kidney failure and a human tra",
+        "title": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain",
+        "summary": "Artificial intelligence may help radiologists identify subtle signs of breast cancers that are missed during routine mammograms, and some AI systems may even identify patterns associated with an increased risk of cancer before it becomes visible on a mammogram, but there are still many significant limitations, accordin",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 03 Sep 2026 18:30:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-pig-kidney-xenotransplant-successfully-bridges.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/surgery-7.jpg",
+        "published_at": "Fri, 04 Sep 2026 11:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-may-help-identify-b-1.jpg",
         "impact": 4
       },
       {
-        "title": "Eating jetlag: Weekend meal shifts associated with higher heart disease risk in men",
-        "summary": "A team of researchers from INRAE, Inserm, Sorbonne Paris Nord University, Université Paris Cité and the CNAM has published the first study exploring the association between eating jetlag and the risk of cardiovascular disease. Eating jetlag refers to the difference in the timing of meals between weekdays—when mealtimes",
+        "title": "Putting a price on preventive care: How Medicaid compares to other insurers in Virginia",
+        "summary": "Medicaid has a reputation for paying doctors less than other health insurers. But exactly how much less has been difficult to establish, particularly for the vast majority of Medicaid patients whose care is provided through private health plans.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 03 Sep 2026 17:40:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-jetlag-weekend-meal-shifts-higher.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/brunch.jpg",
-        "impact": 4
-      },
-      {
-        "title": "FDA clears blood test for Alzheimer disease",
-        "summary": "The U.S. Food and Drug Administration has cleared the PrecivityAD2 test for adults 40 and older presenting with signs or symptoms of cognitive impairment and undergoing evaluation for Alzheimer's disease or other forms of cognitive decline.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 03 Sep 2026 15:20:11 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-fda-blood-alzheimer-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fda-clears-blood-test-3.jpg",
+        "published_at": "Fri, 04 Sep 2026 11:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-price-medicaid-virginia.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/putting-a-price-on-pre.jpg",
         "impact": 4
       }
     ],
@@ -254,14 +254,14 @@
         "impact": 4
       },
       {
-        "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
-        "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
+        "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
+        "summary": "On Sept. 4, 1962, NASA's Mariner 2 spacecraft performed the first-ever rocket maneuver in deep space as it did a quick mid-course correction on its way to Venus. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 31 Aug 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1280-80.jpg",
+        "published_at": "Fri, 04 Sep 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/4oKVxhE93Pgz7pNukTUYG5-1280-80.jpg",
         "impact": 4
       },
       {
@@ -288,6 +288,28 @@
       }
     ],
     "astronomy": [
+      {
+        "title": "Venus is becoming a thinner crescent — and that's when it finally starts making sense",
+        "summary": "Venus is sinking into the sunset as it catches up with Earth — and a small telescope now reveals something the naked eye never can: another planet going through phases.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 04 Sep 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/fWJb98JcQ896PGHAtDVSte-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Pulsar Timing Arrays Could Look for Evidence of Dark Matter Stars",
+        "summary": "Pulsar Timing Arrays have been used to observe the background of gravitational waves in our galaxy. We aren't certain of their origin, but a new study shows a strong source could be early supermassive giants known as dark stars.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 04 Sep 2026 15:14:21 +0000",
+        "source_url": "https://www.universetoday.com/articles/pulsar-timing-arrays-could-look-for-evidence-of-dark-matter-stars",
+        "image_url": "https://www.universetoday.com/article_images/waves_20260904_151342.jpg",
+        "impact": 4
+      },
       {
         "title": "Penultimate Lunar Occultations Inbound for Jupiter, Venus and More in September",
         "summary": "The Moon is busy in September. Coming off of eclipse season in August, the Moon visits no less than two planets, two bright stars and one open cluster in September, as it heads towards the Full Harvest Moon of 2026 on September 26th. No matter where on Earth you happen to be observing from this month, chances are, ther",
@@ -320,40 +342,51 @@
         "source_url": "https://www.universetoday.com/articles/marss-interior-is-400c-hotter-under-southern-hemisphere",
         "image_url": "https://www.universetoday.com/article_images/image001_uZjYoHK.c1be2478.width-450_20260901_043011.png",
         "impact": 4
-      },
-      {
-        "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
-        "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 31 Aug 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
-        "summary": "NASA's Nancy Grace Roman Space Telescope has left Earth, but it'll be a while before it starts its highly anticipated science mission. Here are the next steps for the observatory.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 31 Aug 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/nancy-grace-roman-space-telescope-next-steps-commissioning",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/aQQkTC5BPJTwMjCaTCD3r6-1280-80.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "KAYA Building / Jeff Svitak",
-        "summary": "At the intersection of Third Avenue and Nutmeg Street, KAYA rises alongside a new urban park in San Diego, opening up to a landscape that blends canyon, city, and ocean horizon. The central concept stems from a simple question: how can a building listen to its neighborhood rather than impose itself upon it? Inspiration",
+        "title": "les caryatides de guyancourt: a photo essay on the postmodernist complex of suburban paris",
+        "summary": "designboom visits les caryatides in guyancourt to explore the iconic building in person and unveil its beauty and peculiarities. The post les caryatides de guyancourt: a photo essay on the postmodernist complex of suburban paris appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 04 Sep 2026 10:50:18 +0000",
+        "source_url": "https://www.designboom.com/architecture/caryatides-guyancourt-photo-essay-postmodernist-complex-suburban-paris-manuel-nunez-yanowsky-12-29-2025/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2025/06/18-giant-venuses-manuel-nunez-yanowskys-postmodern-housing-block-suburban-paris-caryatides-guyancourt-designboom-1200.jpg",
+        "impact": 5
+      },
+      {
+        "title": "UDL Thesis Publication Seminar 2026",
+        "summary": "The UDL Thesis Publication Seminar 2026 is a two-day international online seminar organized by Urban Design Lab, bringing together selected undergraduate and postgraduate thesis projects from across the world in the fields of urban design, landscape architecture, architecture, and planning. &nbsp; The 2026 edition brin",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 02 Sep 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1184429/kaya-building-jeff-svitak",
-        "image_url": "https://images.adsttc.com/media/images/6a98/08d2/505a/cb00/0115/2582/large_jpg/_S__JEFF_SVITAK_INC_KAYA_19.jpg?1788350187",
+        "published_at": "Fri, 04 Sep 2026 09:10:00 +0000",
+        "source_url": "https://www.archdaily.com/1184537/udl-thesis-publication-seminar-2026",
+        "image_url": "https://images.adsttc.com/media/images/6a9a/b2a2/15d8/6f00/01a2/ee94/large_jpg/Poster_UDL_Thesis_Publication_2026-01.jpg.jpg?1788523194",
+        "impact": 4
+      },
+      {
+        "title": "Tbilisi Architecture Forum",
+        "summary": "Tbilisi Architecture Forum 2026 Announces \"Places in Transition\"Tbilisi, Georgia &mdash; Tbilisi Architecture Forum (TAF) 2026 will take place 18&ndash;20 September 2026, bringing together leading international and regional voices in architecture, design, urbanism, and culture for three days of dialogue, exchange, and ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 04 Sep 2026 09:05:00 +0000",
+        "source_url": "https://www.archdaily.com/1184533/tbilisi-architecture-forum",
+        "image_url": "https://images.adsttc.com/media/images/6a9a/b1f2/15d8/6f00/01a2/ee73/large_jpg/BILLBOARD_MOCKUP.jpg?1788523002",
+        "impact": 4
+      },
+      {
+        "title": "First Look at the Completed Lucas Museum of Narrative Art, Opening September 22, 2026",
+        "summary": "The Lucas Museum of Narrative Art has confirmed that it will open to the public on September 22, 2026, releasing new images of its completed building. The date aligns with the announcement made by the institution nearly a year ago. The museum is housed in a building with a sculptural, curved silhouette designed by Ma Y",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 04 Sep 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1184508/first-look-at-the-completed-lucas-museum-of-narrative-art-opening-september-22-2026",
+        "image_url": "https://images.adsttc.com/media/images/6a99/bc4b/1fe7/3101/8863/0356/large_jpg/lucas-museum-of-narrative-art_1.jpg?1788460169",
         "impact": 4
       },
       {
@@ -366,64 +399,9 @@
         "source_url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "US government may demolish Kennedy Center due to \"structural death spiral\"",
-        "summary": "In the ongoing battle over a renovation of the Kennedy Center in Washington, DC, the administration of US president Donald Trump has said it may have to demolish the Edward Durell Stone-designed building and replace it with an amphitheatre. This week, a Justice Department attorney filed a civil action stating the admin",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Thu, 27 Aug 2026 19:20:28 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "KFA set to transform 1970s brutalist LA office into apartments",
-        "summary": "Architecture studio KFA plans to convert a 1970s brutalist office in Los Angeles into housing after its recent designation as a historic landmark, taking advantage of a recently adopted adaptive reuse ordinance. KFA's plans include converting the stepped concrete building in the city's Sherman Oaks neighbourhood into 9",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 25 Aug 2026 14:00:39 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imt/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "why japanese architects carve parking into tiny urban homes",
-        "summary": "across japanese cities, tiny urban houses carve parking directly into their plans and sections to create a car-sized void. The post why japanese architects carve parking into tiny urban homes appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 03 Sep 2026 20:35:30 +0000",
-        "source_url": "https://www.designboom.com/architecture/japanese-carve-parking-tiny-urban-homes-tokyo/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/car-shaped-hole-japanese-houses-tokyo-parking-architecture-designboom-FB.jpg",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Welsh councils plan £800M civil engineering framework",
-        "summary": "Five Welsh councils are planning to establish an £800M framework for civil engineering related construction projects and other works acoss South West Wales, Bridgend and Neath Port Talbot, Swansea and Powys. The post Welsh councils plan £800M civil engineering framework appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 02 Sep 2026 14:20:46 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/welsh-councils-plan-800m-civil-engineering-framework-02-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Port-Talbot-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NCE opens judge nominations for 2027 awards programmes",
-        "summary": "New Civil Engineer (NCE) is inviting readers to nominate a judge for its 2027 awards portfolio - including the British Construction &amp; Infrastructure Awards, NCE Awards and NCE Bridges Awards - as it looks to refresh and expand its judging panels. The post NCE opens judge nominations for 2027 awards programmes appea",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 02 Sep 2026 10:39:15 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/nce-opens-judge-nominations-for-2027-awards-programmes-02-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/emap_BCIA2025-25-1-560x315.jpg",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -447,72 +425,94 @@
         "impact": 4
       },
       {
-        "title": "Cowi completes complex launch of Alaska’s Juneau Creek Bridge",
-        "summary": "Cowi engineers have completed the erection engineering for the launch of the Juneau Creek Bridge across one of Alaska’s most challenging bridge sites, moving nearly 3,175t of structural steel across a remote canyon. The post Cowi completes complex launch of Alaska’s Juneau Creek Bridge appeared first on New Civil Engin",
+        "title": "DOT allocates $481M for airport infrastructure projects",
+        "summary": "The 191 grants will fund airport rehabilitation work through the Federal Aviation Administration's Airport Infrastructure Grants program.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 03 Sep 2026 08:00:32 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/cowi-completes-complex-launch-of-alaskas-juneau-creek-bridge-03-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Juneau-Creek-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 04 Sep 2026 14:03:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/dot-airport-infrastructure-projects-federal-aviation-administration-grants/829585/",
+        "image_url": "https://imgproxy.divecdn.com/5dBKWJPTvS3lYzPCrMyfXl-8VU7seG2xir6vksu9SaM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4MjQyNjg1LmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "Caterpillar partners with FieldAI for equipment automation",
+        "summary": "The heavy equipment manufacturer will combine its construction industry expertise with the startup&rsquo;s tech to enable autonomous capabilities for its machines.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 04 Sep 2026 12:46:15 -0400",
+        "source_url": "https://www.constructiondive.com/news/caterpillar-partners-fieldai-equipment-automation/829708/",
+        "image_url": "https://imgproxy.divecdn.com/xM8AExrrnXh3HeVVPcJZDBXwInzwEKT-8v2RNkVMsdQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXRlcnBpbGxhci1hbmQtRmllbGRBSS1Kb2JzaXRlLVYyLmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "The Lowe’s Foundation wants to train 1 million craft workers",
+        "summary": "The tool and DIY retailer&rsquo;s foundation has partnered with NVIDIA, General Motors and other U.S. business behemoths to help bolster the construction labor force by 2035.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 04 Sep 2026 11:26:31 -0400",
+        "source_url": "https://www.constructiondive.com/news/lowes-workforce-training-craft-workers-1-million/829691/",
+        "image_url": "https://imgproxy.divecdn.com/A60BYhJuxLAGVn3rIDba2-voviEfivUpVaUGE3d0ciA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzU3NDk5NjM2X1RPT21GdEguanBn.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
-        "summary": "arXiv:2609.01815v1 Announce Type: new Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and compute-efficient, (2)",
+        "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+        "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runt",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.01815",
+        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.03236",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
-        "summary": "arXiv:2609.01861v1 Announce Type: new Abstract: The performance of an LLM agent depends on the scaffold around a frozen model. A common way to improve that scaffold is to use a coding agent as an optimizer: it reads current scores and traces and iteratively edits the source, producing a new candidate each round. Each e",
+        "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+        "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-purpose LLM/RAG-based ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.01861",
+        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.03402",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
-        "summary": "arXiv:2609.01873v1 Announce Type: new Abstract: Multi-agent AI systems improve inference by spawning agents and synthesizing reports. But another agent is not another observation: apparently independent reports may descend from the same evidence, and genuinely independent evidence can produce nearly identical reports. ",
+        "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+        "summary": "arXiv:2609.03423v1 Announce Type: new Abstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing benchmarks largely test these behaviors through explicit turn-management instructions, while deployed agents are often con",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.01873",
+        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.03423",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SkillGLoW: Procedural-Family Skill Consolidation for Self-Improving Agents on Long-Horizon Task Streams",
-        "summary": "arXiv:2609.02217v1 Announce Type: new Abstract: LLM agents increasingly self-improve by writing and reusing textual skills, kept either as one global document or as a flat pool of per-task entries, though most of the evidence comes from domains with structurally similar tasks. On long-horizon workloads where each task ",
+        "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+        "summary": "arXiv:2609.03478v1 Announce Type: new Abstract: We report on our ongoing project to develop a computational pipeline, AutoGraphForge, for an automated graph-theoretic conjecturing-refuting-formalizing-proving system. Conjecture generation is counterexample-guided and runs in rounds: a Graffiti3 generator proposes conje",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 03 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.02217",
+        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.03478",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The builder’s guide to GPT‑5.6",
-        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
+        "summary": "arXiv:2609.03553v1 Announce Type: new Abstract: Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
-        "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.03553",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
