@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-05",
-  "last_updated": "2026-09-05 00:36 UTC",
+  "date": "2026-09-06",
+  "last_updated": "2026-09-06 00:33 UTC",
   "categories": {
     "science": [
       {
@@ -26,17 +26,6 @@
         "impact": 5
       },
       {
-        "title": "A 100-Year-Old Mushroom Mystery Just Got Much More Complicated",
-        "summary": "Scientists found that bacterial blotch in white button mushrooms is caused by multiple bacteria, a discovery that could improve disease detection and lead to more sustainable treatments for growers. A University of Florida study has uncovered an important new clue about a disease that has affected white button mushroom",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Thu, 03 Sep 2026 11:05:02 +0000",
-        "source_url": "https://scitechdaily.com/a-100-year-old-mushroom-mystery-just-got-much-more-complicated/",
-        "image_url": "https://scitechdaily.com/images/Sameerika-Mudiyanselage-in-a-Mushroom-Farm-777x565.jpg",
-        "impact": 5
-      },
-      {
         "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
         "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint o",
         "category": "Science",
@@ -56,6 +45,17 @@
         "published_at": "Fri, 04 Sep 2026 02:04:06 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/thalamic-and-cortical-organoids.webp",
+        "impact": 4
+      },
+      {
+        "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+        "summary": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 03 Sep 2026 08:41:39 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/decagon-encircling-saturns-south-pole.webp",
         "impact": 4
       }
     ],
@@ -105,14 +105,14 @@
         "impact": 3
       },
       {
-        "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-        "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
+        "title": "Robotaxis enter their villain era",
+        "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have [&#8230;]",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 04 Sep 2026 11:08:00 +0000",
-        "source_url": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
-        "image_url": "https://media.wired.com/photos/69d4403d94490f13c636bd21/191:100/w_1280,c_limit/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-05T07:00:00-04:00",
+        "source_url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
@@ -140,6 +140,28 @@
         "impact": 4
       },
       {
+        "title": "Two imaging techniques equally as effective to guide complex stenting",
+        "summary": "Optical coherence tomography was noninferior to intravascular ultrasound to guide stenting in patients with left main coronary artery disease, according to results presented in a Hot Line session today at ESC Congress 2026.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 05 Sep 2026 20:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-imaging-techniques-equally-effective-complex.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/coronary-stent.jpg",
+        "impact": 4
+      },
+      {
+        "title": "New insights on the optimal duration of antiplatelet therapy after stent implantation",
+        "summary": "Antiplatelet monotherapy reduced bleeding, but dual therapy provided greater cardiovascular event protection in patients at high ischemic risk who had undergone stent implantation 12 months earlier. These results, from the A-CLOSE trial, were presented in a Hot Line session at ESC Congress 2026 and were published simul",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 05 Sep 2026 08:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-08-insights-optimal-duration-antiplatelet-therapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/heart-surgery-4.jpg",
+        "impact": 4
+      },
+      {
         "title": "CRISPR gene-editing therapy safely and continuously lowers cholesterol and triglycerides, first-in-human trial shows",
         "summary": "A Cleveland Clinic first-in-human clinical trial has shown that a one-time infusion of a gene-editing therapy using CRISPR-Cas9 was effective and safe in reducing LDL (\"bad\") cholesterol and triglycerides in people with medication-resistant lipid disorders through one year of follow-up across all doses.",
         "category": "Medicine",
@@ -148,28 +170,6 @@
         "published_at": "Fri, 04 Sep 2026 13:20:02 EDT",
         "source_url": "https://medicalxpress.com/news/2026-09-crispr-gene-therapy-safely-lowers.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/cleveland-clinic-first.jpg",
-        "impact": 4
-      },
-      {
-        "title": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain",
-        "summary": "Artificial intelligence may help radiologists identify subtle signs of breast cancers that are missed during routine mammograms, and some AI systems may even identify patterns associated with an increased risk of cancer before it becomes visible on a mammogram, but there are still many significant limitations, accordin",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 04 Sep 2026 11:40:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-may-help-identify-b-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Putting a price on preventive care: How Medicaid compares to other insurers in Virginia",
-        "summary": "Medicaid has a reputation for paying doctors less than other health insurers. But exactly how much less has been difficult to establish, particularly for the vast majority of Medicaid patients whose care is provided through private health plans.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 04 Sep 2026 11:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-price-medicaid-virginia.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/putting-a-price-on-pre.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "Igniting Roman’s Journey",
+        "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pai",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 03 Sep 2026 14:24:23 +0000",
+        "source_url": "https://www.nasa.gov/image-article/igniting-romans-journey/",
+        "image_url": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Private German rocket makes history, reaches orbit from European soil",
+        "summary": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 05 Sep 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/K5YFiwFEXDGQeTecwrNxcY-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
         "summary": "NASA has picked Blue Origin to build its next Mars telecommunications orbiter, awarding a $700 million contract to Jeff Bezos' spaceflight company.",
         "category": "Space",
@@ -254,36 +276,14 @@
         "impact": 4
       },
       {
-        "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
-        "summary": "On Sept. 4, 1962, NASA's Mariner 2 spacecraft performed the first-ever rocket maneuver in deep space as it did a quick mid-course correction on its way to Venus. Here's why it mattered.",
+        "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+        "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 04 Sep 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/4oKVxhE93Pgz7pNukTUYG5-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
-        "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 03 Sep 2026 16:25:20 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/fCogfePheY7mvZBenMDVkE-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
-        "summary": "On Sept. 3, 2006, a European satellite named SMART-1 crashed into the moon! Here's why it mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 03 Sep 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/38Kd6V3SShDsnGLmxArREF-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Sat, 05 Sep 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       }
     ],
@@ -297,6 +297,17 @@
         "published_at": "Fri, 04 Sep 2026 18:00:00 +0000",
         "source_url": "https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense",
         "image_url": "https://cdn.mos.cms.futurecdn.net/fWJb98JcQ896PGHAtDVSte-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Could life exist on Venus? Peptides survive harsh acid.",
+        "summary": "The planet Venus is arguably the most mischievous planetary body in the solar system. This is because like Saturn’s largest moon, Titan, Venus is shrouded in a thick atmosphere that can’t be viewed with optical telescopes and require radar images to see the surface. Unlike Titan, whose atmosphere looks quite dull, Venu",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sat, 05 Sep 2026 08:40:20 +0000",
+        "source_url": "https://www.universetoday.com/articles/could-life-exist-on-venus-peptides-survive-harsh-acid",
+        "image_url": "https://www.universetoday.com/article_images/ezgif-8d7f317c4b9b8a6d_20260905_083440.jpg",
         "impact": 4
       },
       {
@@ -330,17 +341,6 @@
         "published_at": "Tue, 01 Sep 2026 15:41:44 +0000",
         "source_url": "https://www.universetoday.com/articles/scientists-model-the-true-darkness-of-venuss-mysterious-uv-absorber",
         "image_url": "https://www.universetoday.com/article_images/20180113_uvi_20160425_171339_283_l2b_v10_PseudoRGB.jpg_20260901_154143.webp",
-        "impact": 4
-      },
-      {
-        "title": "Mars's Interior is 400°C Hotter Under Southern Hemisphere",
-        "summary": "The planet Mars is a cold and dry world completely devoid of life, but billions of years ago things were much different. This is when Mars had a much warmer interior than it does today, resulting in active volcanism that replenished its atmosphere, a magnetic field that protected the planet from harmful solar and cosmi",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 01 Sep 2026 04:37:07 +0000",
-        "source_url": "https://www.universetoday.com/articles/marss-interior-is-400c-hotter-under-southern-hemisphere",
-        "image_url": "https://www.universetoday.com/article_images/image001_uZjYoHK.c1be2478.width-450_20260901_043011.png",
         "impact": 4
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "published_at": "Sat, 05 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.03236",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "published_at": "Sat, 05 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.03402",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "published_at": "Sat, 05 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.03423",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "published_at": "Sat, 05 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.03478",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+        "published_at": "Sat, 05 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.03553",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
