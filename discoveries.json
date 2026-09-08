@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-07",
-  "last_updated": "2026-09-07 00:40 UTC",
+  "date": "2026-09-08",
+  "last_updated": "2026-09-08 00:54 UTC",
   "categories": {
     "science": [
       {
@@ -15,14 +15,14 @@
         "impact": 5
       },
       {
-        "title": "Advanced optical imaging reveals hidden activity in blood immune cells",
-        "summary": "A routine blood sample contains a diverse collection of immune cells that can reveal important clues about health and disease. These cells, known as peripheral blood mononuclear cells (PBMCs), are widely used to study infections, autoimmune disorders, cancer and the immune system's response to treatment. Scientists typ",
+        "title": "Scientists Discover a Hidden Defect That Could Explain Why IBD Keeps Coming Back",
+        "summary": "A hidden molecular defect in inflammatory bowel disease may help explain why flare-ups can return even when patients appear well. Even when inflammatory bowel disease appears under control, intestinal cells may remain primed to die. In a WEHI-led study, researchers found this hidden molecular defect in patients with fe",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Sun, 06 Sep 2026 17:30:01 EDT",
-        "source_url": "https://phys.org/news/2026-09-advanced-optical-imaging-reveals-hidden.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/myeloidimmun.jpg",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Tue, 08 Sep 2026 00:34:20 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-a-hidden-defect-that-could-explain-why-ibd-keeps-coming-back/",
+        "image_url": "https://scitechdaily.com/images/Man-Abdominal-Pain-Irritable-Bowel-Syndrome-IBS-Inflammatory-Bowel-Disease-IBD-777x518.jpg",
         "impact": 5
       },
       {
@@ -83,7 +83,7 @@
         "impact": 3
       },
       {
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "summary": "The round is being raised just months after the robot data startup exited from stealth.",
         "category": "Tech",
         "source": "techcrunch.com",
@@ -105,28 +105,28 @@
         "impact": 3
       },
       {
-        "title": "Boox’s tiny Picco e-reader should land in November",
-        "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to [&#8230;]",
+        "title": "The real reason your phone is getting more expensive",
+        "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-09-06T12:28:58-04:00",
-        "source_url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&strip=all&crop=0%2C31.646199642026%2C100%2C39.267015706806&w=1200",
+        "published_at": "2026-09-07T08:00:00-04:00",
+        "source_url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Laughter therapy can help people with COPD breathe more easily",
-        "summary": "A clinical trial for patients with chronic obstructive pulmonary disease (COPD) shows that laughter therapy can reduce breathing difficulties and is as effective as more traditional breathing exercises. The research was presented at the European Respiratory Society (ERS) Congress in Barcelona, Spain.",
+        "title": "Markers of chronic disease discovered in young, healthy drinkers",
+        "summary": "Alcohol use appears to trigger specific biological changes in the human body that are linked to the development of chronic disease. These biological changes are already apparent in young adults with a short history of alcohol consumption. A new study published in Alcohol: Clinical and Experimental Research found specif",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 06 Sep 2026 18:10:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-laughter-therapy-people-copd-easily.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/laughter-therapy-can-h.jpg",
-        "impact": 5
+        "published_at": "Mon, 07 Sep 2026 12:40:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-markers-chronic-disease-young-healthy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/young-drinker.jpg",
+        "impact": 4
       },
       {
         "title": "Keto diet cut liver fat by 67% in a clinical trial",
@@ -140,36 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Brain signaling mechanism may explain clozapine weight gain",
-        "summary": "Researchers at UT Southwestern Medical Center have identified a key brain signaling pathway that appears to drive the substantial weight gain often associated with clozapine, a widely used antipsychotic medication. The preclinical findings, published in Nature Communications, point to a potential way to reduce the meta",
+        "title": "New framework boosts the accuracy of disease risk prediction from genetic data",
+        "summary": "Investigators at Cedars-Sinai Health Sciences University have developed a computational framework to improve how genetic data is used to estimate an individual's inherited risk of developing conditions like Alzheimer's disease, type 2 diabetes, high blood pressure and breast cancer.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 06 Sep 2026 17:00:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-brain-mechanism-clozapine-weight-gain.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-signaling-mechan.jpg",
+        "published_at": "Mon, 07 Sep 2026 16:00:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-framework-boosts-accuracy-disease-genetic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/blood-samples.jpg",
         "impact": 4
       },
       {
-        "title": "Focal therapy use remains uncommon in nonmetastatic prostate cancer",
-        "summary": "For patients with nonmetastatic prostate cancer, focal therapy use has remained uncommon across risk groups, and its use was defined as inappropriate in about half of recipients, according to a research letter published online Aug. 13 in the JAMA.",
+        "title": "New tool measures thyroid cancer patients' anxiety",
+        "summary": "A new tool created by Cedars-Sinai Health Sciences University investigators is the first to measure anxiety in patients with thyroid cancer. Described in the journal Thyroid, the Thyroid Cancer Modified Anxiety Scale (TC-MAX) could help doctors clarify patients' expectations, better match treatment to their needs and i",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 06 Sep 2026 12:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-focal-therapy-uncommon-nonmetastatic-prostate.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/focal-therapy-use-rema.jpg",
+        "published_at": "Mon, 07 Sep 2026 15:40:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-tool-thyroid-cancer-patients-anxiety.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/patient-1.jpg",
         "impact": 4
       },
       {
-        "title": "Six-month community program improves attention and diet scores in older adults",
-        "summary": "As aging populations drive rising global health care demands, finding scalable ways to prevent cognitive decline has become a public health priority. While intensive clinical trials have shown that multidomain lifestyle interventions can protect brain health, translating these resource-heavy protocols into everyday mun",
+        "title": "Atherosclerosis may meet key criteria for autoimmune disease, evidence suggests",
+        "summary": "In autoimmune diseases, the immune system turns against the body through pathogenic high-affinity B cells or T cells, leading to severe organ damage. Multiple sclerosis (nervous system paralysis), type 1 diabetes (a strong risk factor for atherosclerosis requiring lifelong treatment) and rheumatoid arthritis (debilitat",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 06 Sep 2026 08:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-month-community-attention-diet-scores.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/sharpening-minds-in-th.jpg",
+        "published_at": "Mon, 07 Sep 2026 14:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-atherosclerosis-key-criteria-autoimmune-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/atherosclerosis-may-me.jpg",
         "impact": 4
       }
     ],
@@ -243,25 +243,36 @@
         "impact": 4
       },
       {
-        "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
-        "summary": "NASA has picked Blue Origin to build its next Mars telecommunications orbiter, awarding a $700 million contract to Jeff Bezos' spaceflight company.",
+        "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+        "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 02 Sep 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/JyJ5ALNraocukdfjvdk6ca-1280-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Sat, 05 Sep 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       },
       {
-        "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
-        "summary": "A SpaceX Falcon 9 rocket launched 27 Starlink satellites from California early this morning (Sept. 2). It was the 35th flight for the rocket's first stage.",
+        "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
+        "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Thu, 03 Sep 2026 15:59:48 +0000",
+        "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04989_mhli_4989MH0001710001803430R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+        "summary": "On Sept. 7, 1995, the space shuttle Endeavour launched on mission STS-69, NASA's 100th astronaut flight. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 02 Sep 2026 11:24:21 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Ch9atZrfQZU3ZLbHnyXdfV-1280-80.jpg",
+        "published_at": "Mon, 07 Sep 2026 14:47:05 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/WAnsLKdunnnM4t4BZ3kgbj-1280-80.jpg",
         "impact": 4
       },
       {
@@ -273,17 +284,6 @@
         "published_at": "Sun, 06 Sep 2026 16:23:04 +0000",
         "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/pHgfCXA7kVaSm38x6g34UZ-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)",
-        "summary": "SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 06 Sep 2026 15:54:11 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/imDS9PFBXeyCh9pHYKrrsD-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -333,14 +333,14 @@
         "impact": 4
       },
       {
-        "title": "Stars forge and deliver the elements that make up your body — and scientists may finally know how",
-        "summary": "Scientists are close to understanding how stars forge the elements that comprise our planet, bodies and pretty much everything else around us, and how they explode to distribute these elements.",
+        "title": "Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching",
+        "summary": "20% off at Amazon, the Celestron FirstScope is the telescope I grab for quick stargazing sessions and it's ideal for beginners and kids too.",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Fri, 04 Sep 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/FiG6647SJbKCiciF5NHMUd-1280-80.png",
+        "published_at": "Mon, 07 Sep 2026 11:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/J24Qda3i6qjeuNd8kxtiNS-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -357,36 +357,25 @@
         "impact": 5
       },
       {
-        "title": "Chleboteka \"Okrąglak\" / CUDO:",
-        "summary": "The main inspiration was Okrąglak itself – one of Wrocław's iconic modernist buildings. Rather than recreating its historical interior, we translated its architectural language into a contemporary space for Chleboteka. The building's rounded geometry became the main design principle, reflected in the counter, cabinetry",
+        "title": "Chromatic Architecture",
+        "summary": "Colour is one of the most meaningful and expressive elements that can be used in the design of buildings. It is also the most neglected: students are rarely taught about it, and many architects are fearful of it. Chromatic Architecture explores the beauty of colour. How it is crafted into the fabric of buildings, openi",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 06 Sep 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
-        "image_url": "https://images.adsttc.com/media/images/6a8d/9d76/4253/0500/01ca/08ec/large_jpg/migdal_cudo_chleboteka_9.jpg?1787665835",
+        "published_at": "Mon, 07 Sep 2026 09:15:00 +0000",
+        "source_url": "https://www.archdaily.com/1184663/chromatic-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6a9e/c310/15d8/6f00/01a2/f6b7/large_jpg/Final_CA_Cover_Image.jpg?1788789527",
         "impact": 4
       },
       {
-        "title": "UDL Thesis Publication Seminar 2026",
-        "summary": "The UDL Thesis Publication Seminar 2026 is a two-day international online seminar organized by Urban Design Lab, bringing together selected undergraduate and postgraduate thesis projects from across the world in the fields of urban design, landscape architecture, architecture, and planning. &nbsp; The 2026 edition brin",
+        "title": "The German Pavilion Examines Coexistence and Democracy Through \"CONVIVERE\" at the 2027 Venice Architecture Biennale",
+        "summary": "The German Federal Ministry for Housing, Urban Development and Building has appointed Kawahara Krause Architects, Andres Lepik, and Olga Cobuscean as curators for the German Pavilion at the 20th International Architecture Exhibition — La Biennale di Venezia 2027. The exhibition is titled \"CONVIVERE — A Repertoire of Li",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 04 Sep 2026 09:10:00 +0000",
-        "source_url": "https://www.archdaily.com/1184537/udl-thesis-publication-seminar-2026",
-        "image_url": "https://images.adsttc.com/media/images/6a9a/b2a2/15d8/6f00/01a2/ee94/large_jpg/Poster_UDL_Thesis_Publication_2026-01.jpg.jpg?1788523194",
-        "impact": 4
-      },
-      {
-        "title": "Tbilisi Architecture Forum",
-        "summary": "Tbilisi Architecture Forum 2026 Announces \"Places in Transition\"Tbilisi, Georgia &mdash; Tbilisi Architecture Forum (TAF) 2026 will take place 18&ndash;20 September 2026, bringing together leading international and regional voices in architecture, design, urbanism, and culture for three days of dialogue, exchange, and ",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 04 Sep 2026 09:05:00 +0000",
-        "source_url": "https://www.archdaily.com/1184533/tbilisi-architecture-forum",
-        "image_url": "https://images.adsttc.com/media/images/6a9a/b1f2/15d8/6f00/01a2/ee73/large_jpg/BILLBOARD_MOCKUP.jpg?1788523002",
+        "published_at": "Mon, 07 Sep 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1184577/the-german-pavilion-examines-coexistence-and-democracy-through-convivere-at-the-2027-venice-architecture-biennale",
+        "image_url": "https://images.adsttc.com/media/images/6a9b/2d6a/cc78/e301/8820/e4b3/large_jpg/german-pavilion_8.jpg?1788554613",
         "impact": 4
       },
       {
@@ -397,6 +386,17 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 01 Sep 2026 15:00:19 +0000",
         "source_url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "US government may demolish Kennedy Center due to \"structural death spiral\"",
+        "summary": "In the ongoing battle over a renovation of the Kennedy Center in Washington, DC, the administration of US president Donald Trump has said it may have to demolish the Edward Durell Stone-designed building and replace it with an amphitheatre. This week, a Justice Department attorney filed a civil action stating the admin",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Thu, 27 Aug 2026 19:20:28 +0000",
+        "source_url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
@@ -425,6 +425,17 @@
         "impact": 4
       },
       {
+        "title": "Winvic delivering Witton-le-Wear bridge scheme",
+        "summary": "Winvic Construction has been appointed by Durham County Council to design the Witton Le Wear Bridge scheme on the A68. The post Winvic delivering Witton-le-Wear bridge scheme appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Mon, 07 Sep 2026 08:05:26 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/winvic-delivering-witton-le-wear-bridge-scheme-07-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Civils-Still-11-560x315.jpg",
+        "impact": 4
+      },
+      {
         "title": "DOT allocates $481M for airport infrastructure projects",
         "summary": "The 191 grants will fund airport rehabilitation work through the Federal Aviation Administration's Airport Infrastructure Grants program.",
         "category": "Construction",
@@ -445,74 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/caterpillar-partners-fieldai-equipment-automation/829708/",
         "image_url": "https://imgproxy.divecdn.com/xM8AExrrnXh3HeVVPcJZDBXwInzwEKT-8v2RNkVMsdQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXRlcnBpbGxhci1hbmQtRmllbGRBSS1Kb2JzaXRlLVYyLmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "The Lowe’s Foundation wants to train 1 million craft workers",
-        "summary": "The tool and DIY retailer&rsquo;s foundation has partnered with NVIDIA, General Motors and other U.S. business behemoths to help bolster the construction labor force by 2035.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 04 Sep 2026 11:26:31 -0400",
-        "source_url": "https://www.constructiondive.com/news/lowes-workforce-training-craft-workers-1-million/829691/",
-        "image_url": "https://imgproxy.divecdn.com/A60BYhJuxLAGVn3rIDba2-voviEfivUpVaUGE3d0ciA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzU3NDk5NjM2X1RPT21GdEguanBn.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Architecting memory and storage in the AI era",
-        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
+        "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+        "summary": "arXiv:2609.04286v1 Announce Type: new Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that developmen",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 04 Sep 2026 18:39:19 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.04286",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "The inside story on why OpenAI agents hacked Hugging Face",
-        "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confi",
+        "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+        "summary": "arXiv:2609.04373v1 Announce Type: new Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize t",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 26 Aug 2026 19:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.04373",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "AI models flub these intelligence tests. Can you fare any better?",
-        "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist",
+        "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+        "summary": "arXiv:2609.04444v1 Announce Type: new Abstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living creature. It is a farm simulation: LLM sub-agents drive a crew of two trac",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 26 Aug 2026 09:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.04444",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Research acceleration: The view inside OpenAI",
-        "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+        "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+        "summary": "arXiv:2609.04523v1 Announce Type: new Abstract: Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-time compiler feedback to build agentic systems for kernel generation. I",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
-        "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/CKNTAkrFq7W0JOjXP5np2/c26e2323a05dec6bd41f6515c5d6be0f/SEO_Card__11_.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.04523",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "How AI-native companies turn workflows into operating capability",
-        "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+        "title": "La Agente \\'Optima: Towards Agentic Self-Driving Laboratories",
+        "summary": "arXiv:2609.04564v1 Announce Type: new Abstract: Self-driving laboratories (SDLs) combine automated experimentation with adaptive decision-making to accelerate scientific discovery. Their operation nevertheless often depends on human specialists who translate scientific objectives into executable closed-loop campaigns. ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 01 Sep 2026 17:00:00 GMT",
-        "source_url": "https://openai.com/index/ai-native-company-workflows",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1Udre5SJ1jhUU27uMsD7Oe/6a7120a52e078e823a3c96388fac9241/index-how-ai-native-companies-turn-workflows-into-operating-capability--seo-v001.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.04564",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
