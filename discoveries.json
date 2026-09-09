@@ -1,8 +1,19 @@
 {
-  "date": "2026-09-08",
-  "last_updated": "2026-09-08 00:54 UTC",
+  "date": "2026-09-09",
+  "last_updated": "2026-09-09 01:01 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Not all eggs are the same—uncovering a tropical parasite's secret weapons",
+        "summary": "A team of scientists from the Faculty of Science at Charles University has achieved a major breakthrough in research into schistosomiasis, a serious tropical disease affecting more than 250 million people worldwide. Using advanced laser microdissection, the researchers have, for the first time, captured and analyzed pr",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Tue, 08 Sep 2026 16:40:07 EDT",
+        "source_url": "https://phys.org/news/2026-09-eggs-uncovering-tropical-parasite-secret.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/not-all-eggs-are-the-s.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists discover why snake embryos twist into spirals",
         "summary": "Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and twist inside the egg. Researchers reached the conclusion after studying more than 900 embryos and usin",
@@ -26,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+        "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspir",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 08 Sep 2026 09:54:56 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/venomous-red-bush-viper.webp",
+        "impact": 4
+      },
+      {
         "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
         "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint o",
         "category": "Science",
@@ -35,31 +57,20 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-antimatter-physics.webp",
         "impact": 4
-      },
-      {
-        "title": "Scientists reveal the hidden instructions that build the human brain",
-        "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Tho",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 04 Sep 2026 02:04:06 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/thalamic-and-cortical-organoids.webp",
-        "impact": 4
-      },
-      {
-        "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
-        "summary": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 03 Sep 2026 08:41:39 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/decagon-encircling-saturns-south-pole.webp",
-        "impact": 4
       }
     ],
     "tech": [
+      {
+        "title": "This founder is teaching chips how to recycle (their energy)",
+        "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Tue, 08 Sep 2026 10:36:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Hannah-0G6A8202-2.jpg?resize=1200,600",
+        "impact": 4
+      },
       {
         "title": "Architecting memory and storage in the AI era",
         "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
@@ -72,104 +83,93 @@
         "impact": 4
       },
       {
-        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-        "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+        "title": "LG TV shown scanning LAN for third-party phones and other devices",
+        "summary": "“It doesn’t cost a lot to store text forever.”",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 06 Sep 2026 16:45:00 +0000",
-        "source_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 08 Sep 2026 21:52:29 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600.jpg",
         "impact": 3
       },
       {
-        "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+        "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+        "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 04 Sep 2026 23:36:14 +0000",
-        "source_url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 08 Sep 2026 19:12:53 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ASML_HighNA_cleanroom_Veldhoven_068-1-2560x1440.jpg",
         "impact": 3
       },
       {
-        "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-        "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 04 Sep 2026 16:51:23 +0000",
-        "source_url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
-        "impact": 3
-      },
-      {
-        "title": "The real reason your phone is getting more expensive",
-        "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation",
+        "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
+        "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-controlled pedal-by-wire sys",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-09-07T08:00:00-04:00",
-        "source_url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-09-08T16:46:56-04:00",
+        "source_url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242247597.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Markers of chronic disease discovered in young, healthy drinkers",
-        "summary": "Alcohol use appears to trigger specific biological changes in the human body that are linked to the development of chronic disease. These biological changes are already apparent in young adults with a short history of alcohol consumption. A new study published in Alcohol: Clinical and Experimental Research found specif",
+        "title": "Hormone therapy use for hot flashes and night sweats in menopausal women linked to lower cardiovascular risk",
+        "summary": "A study led by Virginia Commonwealth University and the University of Pittsburgh provides pivotal insights into one of the most debated questions in women's health: How does hormone therapy for menopause symptoms affect cardiovascular disease risk when used in peri- or early postmenopause?",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 07 Sep 2026 12:40:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-markers-chronic-disease-young-healthy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/young-drinker.jpg",
+        "published_at": "Tue, 08 Sep 2026 15:40:12 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-hormone-therapy-hot-night-menopausal.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/woman-trouble-sleeping.jpg",
         "impact": 4
       },
       {
-        "title": "Keto diet cut liver fat by 67% in a clinical trial",
-        "summary": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diet",
+        "title": "Scientists find a new weakness in treatment-resistant prostate cancer",
+        "summary": "Researchers have found a potential way to attack prostate cancers that evade treatment by changing their cellular identity. Combining two types of drugs reversed many of these changes and sharply slowed tumor growth in preclinical experiments, offering a possible new strategy for aggressive, treatment-resistant disease",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sat, 29 Aug 2026 09:32:50 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/diseased-liver-illustration.webp",
+        "published_at": "Tue, 08 Sep 2026 06:46:38 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000324.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/precision-targeting-cancer-cells.webp",
         "impact": 4
       },
       {
-        "title": "New framework boosts the accuracy of disease risk prediction from genetic data",
-        "summary": "Investigators at Cedars-Sinai Health Sciences University have developed a computational framework to improve how genetic data is used to estimate an individual's inherited risk of developing conditions like Alzheimer's disease, type 2 diabetes, high blood pressure and breast cancer.",
+        "title": "Why is smoking linked to a lower risk of Parkinson's?",
+        "summary": "A link between carbon monoxide and Parkinson's disease may explain why smokers are at lower risk of developing the condition, according to international research. The team monitored the health of 512,701 Chinese adults over 12 years, including 1,131 people with Parkinson's and 2,949 with other neurodegenerative disease",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 07 Sep 2026 16:00:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-framework-boosts-accuracy-disease-genetic.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/blood-samples.jpg",
+        "published_at": "Tue, 08 Sep 2026 15:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-linked-parkinson.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/smoking.jpg",
         "impact": 4
       },
       {
-        "title": "New tool measures thyroid cancer patients' anxiety",
-        "summary": "A new tool created by Cedars-Sinai Health Sciences University investigators is the first to measure anxiety in patients with thyroid cancer. Described in the journal Thyroid, the Thyroid Cancer Modified Anxiety Scale (TC-MAX) could help doctors clarify patients' expectations, better match treatment to their needs and i",
+        "title": "New review highlights promise of intra-arterial stem cell therapy to improve stroke recovery",
+        "summary": "Researchers from the University of Miami Miller School of Medicine and collaborating institutions have published a comprehensive review examining the rapidly evolving field of intra-arterial stem cell therapy for ischemic stroke, highlighting its potential to improve recovery for patients who continue to face disabilit",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 07 Sep 2026 15:40:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-tool-thyroid-cancer-patients-anxiety.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/patient-1.jpg",
+        "published_at": "Tue, 08 Sep 2026 15:40:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-highlights-intra-arterial-stem-cell.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2017/stemcell.jpg",
         "impact": 4
       },
       {
-        "title": "Atherosclerosis may meet key criteria for autoimmune disease, evidence suggests",
-        "summary": "In autoimmune diseases, the immune system turns against the body through pathogenic high-affinity B cells or T cells, leading to severe organ damage. Multiple sclerosis (nervous system paralysis), type 1 diabetes (a strong risk factor for atherosclerosis requiring lifelong treatment) and rheumatoid arthritis (debilitat",
+        "title": "Specific CAR T-cell subgroup could make lower-dose cancer therapy more effective",
+        "summary": "Immunotherapies strengthen the body's own anticancer defenses in a highly targeted manner. In therapies using so-called CAR T cells (chimeric antigen receptor T cells), a patient's immune cells are genetically engineered and directed against individual cancer cells. Until now, it has remained unclear why even very low ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 07 Sep 2026 14:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-atherosclerosis-key-criteria-autoimmune-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/atherosclerosis-may-me.jpg",
+        "published_at": "Tue, 08 Sep 2026 15:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-specific-car-cell-subgroup-dose.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/quality-over-quantity.jpg",
         "impact": 4
       }
     ],
@@ -208,6 +208,17 @@
         "impact": 4
       },
       {
+        "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
+        "summary": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy. The post AI Has Solved One of Math’s $1 Million Millennium Prize Problems first appeared on Quanta Magazine",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Tue, 08 Sep 2026 08:43:52 +0000",
+        "source_url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Social.jpg",
+        "impact": 3
+      },
+      {
         "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
         "summary": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What Is Math For in the Age of AI? first appeared on Quanta Magazin",
         "category": "Mathematics",
@@ -217,20 +228,20 @@
         "source_url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
         "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg",
         "impact": 3
-      },
-      {
-        "title": "‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
-        "summary": "Mathematicians found that a broad class of networks will abruptly shift behavior past a critical point. The post ‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Mon, 31 Aug 2026 14:24:27 +0000",
-        "source_url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Percolation-cr-DVDP-Social.jpg",
-        "impact": 3
       }
     ],
     "space": [
+      {
+        "title": "Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch",
+        "summary": "Stoke Space announced a $1 billion round of funding to support development of its fully reusable Nova rockets, including the newly revealed Nova Block 2, which will be capable of delivering 15-ton payloads to low Earth orbit.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 08 Sep 2026 19:23:56 +0000",
+        "source_url": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/VUg6zqvQe7xXAdHeiruMFL-1280-80.jpg",
+        "impact": 4
+      },
       {
         "title": "Private German rocket makes history, reaches orbit from European soil",
         "summary": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
@@ -243,25 +254,14 @@
         "impact": 4
       },
       {
-        "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-        "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
+        "title": "SpaceX rocket taxi returns after Roman Telescope launch | Space photo of the day for Sept. 8, 2026",
+        "summary": "The Roman Space Telescope launched beyond Earth on Aug. 30. And one of the most amazing parts of the liftoff was the Falcon Heavy rocket's boosters returning back to our planet, safe and sound.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Sat, 05 Sep 2026 04:05:00 +0000",
-        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
-        "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Thu, 03 Sep 2026 15:59:48 +0000",
-        "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04989_mhli_4989MH0001710001803430R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 08 Sep 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/spacex-rocket-taxi-returns-after-roman-telescope-launch-space-photo-of-the-day-for-sept-8-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/oUdewA3iNC6kssgGbcC77h-1280-80.jpg",
         "impact": 4
       },
       {
@@ -333,29 +333,18 @@
         "impact": 4
       },
       {
-        "title": "Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching",
-        "summary": "20% off at Amazon, the Celestron FirstScope is the telescope I grab for quick stargazing sessions and it's ideal for beginners and kids too.",
+        "title": "'Star Trek' imagined strange new worlds 60 years ago, but are real exoplanets even stranger?",
+        "summary": "\"To explore strange new worlds; to seek out new life and new civilizations; to boldly go where no one has gone before!\"",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 07 Sep 2026 11:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/J24Qda3i6qjeuNd8kxtiNS-1280-80.jpg",
+        "published_at": "Tue, 08 Sep 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/entertainment/space-movies-shows/star-trek-imagined-strange-new-worlds-60-years-ago-but-are-real-exoplanets-even-stranger",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/SQBgqeqeCNz2EBUvM8dUkX-1280-80.jpg",
         "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "les caryatides de guyancourt: a photo essay on the postmodernist complex of suburban paris",
-        "summary": "designboom visits les caryatides in guyancourt to explore the iconic building in person and unveil its beauty and peculiarities. The post les caryatides de guyancourt: a photo essay on the postmodernist complex of suburban paris appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Fri, 04 Sep 2026 10:50:18 +0000",
-        "source_url": "https://www.designboom.com/architecture/caryatides-guyancourt-photo-essay-postmodernist-complex-suburban-paris-manuel-nunez-yanowsky-12-29-2025/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2025/06/18-giant-venuses-manuel-nunez-yanowskys-postmodern-housing-block-suburban-paris-caryatides-guyancourt-designboom-1200.jpg",
-        "impact": 5
-      },
       {
         "title": "Chromatic Architecture",
         "summary": "Colour is one of the most meaningful and expressive elements that can be used in the design of buildings. It is also the most neglected: students are rarely taught about it, and many architects are fearful of it. Chromatic Architecture explores the beauty of colour. How it is crafted into the fabric of buildings, openi",
@@ -365,17 +354,6 @@
         "published_at": "Mon, 07 Sep 2026 09:15:00 +0000",
         "source_url": "https://www.archdaily.com/1184663/chromatic-architecture",
         "image_url": "https://images.adsttc.com/media/images/6a9e/c310/15d8/6f00/01a2/f6b7/large_jpg/Final_CA_Cover_Image.jpg?1788789527",
-        "impact": 4
-      },
-      {
-        "title": "The German Pavilion Examines Coexistence and Democracy Through \"CONVIVERE\" at the 2027 Venice Architecture Biennale",
-        "summary": "The German Federal Ministry for Housing, Urban Development and Building has appointed Kawahara Krause Architects, Andres Lepik, and Olga Cobuscean as curators for the German Pavilion at the 20th International Architecture Exhibition — La Biennale di Venezia 2027. The exhibition is titled \"CONVIVERE — A Repertoire of Li",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 07 Sep 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1184577/the-german-pavilion-examines-coexistence-and-democracy-through-convivere-at-the-2027-venice-architecture-biennale",
-        "image_url": "https://images.adsttc.com/media/images/6a9b/2d6a/cc78/e301/8820/e4b3/large_jpg/german-pavilion_8.jpg?1788554613",
         "impact": 4
       },
       {
@@ -398,6 +376,28 @@
         "published_at": "Thu, 27 Aug 2026 19:20:28 +0000",
         "source_url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "BIG’s hanna johansson on designing ‘park rise’ as a vertical extension of athens’ landscape",
+        "summary": "as 'park rise' takes shape within the ellinikon, johansson discusses the project’s cascading form, its relationship with athens and the potential for a new model of urban living. The post BIG&#8217;s hanna johansson on designing &#8216;park rise&#8217; as a vertical extension of athens&#8217; landscape appeared first o",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Tue, 08 Sep 2026 10:50:15 +0000",
+        "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-interview/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-designboom-1200.jpg",
+        "impact": 4
+      },
+      {
+        "title": "what kind of life should housing make possible? 33 projects offer answers",
+        "summary": "the book brings together 33 european housing projects, asking how architecture can respond to existing buildings, care, and the everyday systems that shape domestic life. The post what kind of life should housing make possible? 33 projects offer answers appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Mon, 07 Sep 2026 10:50:09 +0000",
+        "source_url": "https://www.designboom.com/architecture/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -425,94 +425,94 @@
         "impact": 4
       },
       {
-        "title": "Winvic delivering Witton-le-Wear bridge scheme",
-        "summary": "Winvic Construction has been appointed by Durham County Council to design the Witton Le Wear Bridge scheme on the A68. The post Winvic delivering Witton-le-Wear bridge scheme appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Mon, 07 Sep 2026 08:05:26 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/winvic-delivering-witton-le-wear-bridge-scheme-07-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Civils-Still-11-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "DOT allocates $481M for airport infrastructure projects",
-        "summary": "The 191 grants will fund airport rehabilitation work through the Federal Aviation Administration's Airport Infrastructure Grants program.",
+        "title": "Bechtel reaches substantial completion on Texas LNG project",
+        "summary": "The milestone comes as Bechtel continues to hone in on liquefied natural gas infrastructure projects as a source of work and revenue.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 04 Sep 2026 14:03:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/dot-airport-infrastructure-projects-federal-aviation-administration-grants/829585/",
-        "image_url": "https://imgproxy.divecdn.com/5dBKWJPTvS3lYzPCrMyfXl-8VU7seG2xir6vksu9SaM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4MjQyNjg1LmpwZw==.webp",
+        "published_at": "Tue, 08 Sep 2026 10:42:38 -0400",
+        "source_url": "https://www.constructiondive.com/news/bechtel-substantial-completion-texas-lng-project/829715/",
+        "image_url": "https://imgproxy.divecdn.com/duTDiBKvMBCnqk1pWA2f3VI5_GlQE7YpHlCOFdgR4Pw/g:nowe:0:75/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYW5uZXJfaW1hZ2UuanBn.webp",
         "impact": 3
       },
       {
-        "title": "Caterpillar partners with FieldAI for equipment automation",
-        "summary": "The heavy equipment manufacturer will combine its construction industry expertise with the startup&rsquo;s tech to enable autonomous capabilities for its machines.",
+        "title": "Construction costs have moderated, but apartment development remains challenging",
+        "summary": "Multifamily firms are mixed on whether greater contractor competition and more stable materials prices have opened up opportunities in new markets.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 04 Sep 2026 12:46:15 -0400",
-        "source_url": "https://www.constructiondive.com/news/caterpillar-partners-fieldai-equipment-automation/829708/",
-        "image_url": "https://imgproxy.divecdn.com/xM8AExrrnXh3HeVVPcJZDBXwInzwEKT-8v2RNkVMsdQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXRlcnBpbGxhci1hbmQtRmllbGRBSS1Kb2JzaXRlLVYyLmpwZw==.webp",
+        "published_at": "Tue, 08 Sep 2026 10:21:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-costs-labor-materials-apartment-development/829772/",
+        "image_url": "https://imgproxy.divecdn.com/flVoh6HRdp97cgb8-3YFYHClnW7YNtJnagyYUknRico/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MjU2NDU1MzAuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "Bring Hard Hat Courage to your job sites to support mental health",
+        "summary": "This Construction Suicide Prevention Week, thousands of jobsites will pause in a moment of silence to honor those we've lost, and stand behind those still with us.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 08 Sep 2026 05:00:00 -0400",
+        "source_url": "https://www.constructiondive.com/spons/bring-hard-hat-courage-to-your-job-sites-to-support-mental-health/829648/",
+        "image_url": "https://imgproxy.divecdn.com/z0DBhwbgQ3lCoR4Zlj3wRug23uQg6SOtEzKB0fzO9Gw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZG9iZS1leHByZXNzLS0tZmlsZV85MTM4X3Byb2Nlc3NlZC5qcGc=.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-        "summary": "arXiv:2609.04286v1 Announce Type: new Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that developmen",
+        "title": "Architecting memory and storage in the AI era",
+        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.04286",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 04 Sep 2026 18:39:19 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-        "summary": "arXiv:2609.04373v1 Announce Type: new Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize t",
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confi",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.04373",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 26 Aug 2026 19:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
-        "summary": "arXiv:2609.04444v1 Announce Type: new Abstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living creature. It is a farm simulation: LLM sub-agents drive a crew of two trac",
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.04444",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 26 Aug 2026 09:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "MaxKernel: Agentic Kernel Generation for TPUs",
-        "summary": "arXiv:2609.04523v1 Announce Type: new Abstract: Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-time compiler feedback to build agentic systems for kernel generation. I",
+        "title": "Research acceleration: The view inside OpenAI",
+        "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.04523",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
+        "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/CKNTAkrFq7W0JOjXP5np2/c26e2323a05dec6bd41f6515c5d6be0f/SEO_Card__11_.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "La Agente \\'Optima: Towards Agentic Self-Driving Laboratories",
-        "summary": "arXiv:2609.04564v1 Announce Type: new Abstract: Self-driving laboratories (SDLs) combine automated experimentation with adaptive decision-making to accelerate scientific discovery. Their operation nevertheless often depends on human specialists who translate scientific objectives into executable closed-loop campaigns. ",
+        "title": "How AI-native companies turn workflows into operating capability",
+        "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.04564",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 01 Sep 2026 17:00:00 GMT",
+        "source_url": "https://openai.com/index/ai-native-company-workflows",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1Udre5SJ1jhUU27uMsD7Oe/6a7120a52e078e823a3c96388fac9241/index-how-ai-native-companies-turn-workflows-into-operating-capability--seo-v001.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
