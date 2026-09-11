@@ -1,39 +1,17 @@
 {
-  "date": "2026-09-10",
-  "last_updated": "2026-09-10 00:47 UTC",
+  "date": "2026-09-11",
+  "last_updated": "2026-09-11 00:49 UTC",
   "categories": {
     "science": [
       {
-        "title": "Molecular antennae make light-activated molecular switches more sensitive",
-        "summary": "From targeted cancer treatments to self-healing materials and microscopic robots, many emerging technologies depend on molecules that can be controlled with light. Researchers at Tohoku University have now developed a way to make these light-responsive molecules much more sensitive to visible light by using a molecular",
+        "title": "Cell wall transport disruption exposes weakness in antibiotic-resistant bacteria",
+        "summary": "Even highly antibiotic-resistant bacteria become more vulnerable when their cell wall transport system is disrupted, according to a new study from Umeå University. The discovery reveals a previously overlooked weakness that could help researchers develop new strategies to combat antibiotic resistance.",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Wed, 09 Sep 2026 17:40:01 EDT",
-        "source_url": "https://phys.org/news/2026-09-molecular-antennae-sensitive.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-antennae-mak.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Researchers chart new course for AI-powered biomedical discoveries",
-        "summary": "University of Missouri researchers are paving the way as artificial intelligence transforms biomedical research. A team from the College of Engineering and collaborators recently published one of the most comprehensive reviews to date of an emerging AI approach for biology known as flow matching. The work, published in",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 09 Sep 2026 16:40:05 EDT",
-        "source_url": "https://phys.org/news/2026-09-ai-powered-biomedical-discoveries.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-chart-new.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Discover a Hidden Defect That Could Explain Why IBD Keeps Coming Back",
-        "summary": "A hidden molecular defect in inflammatory bowel disease may help explain why flare-ups can return even when patients appear well. Even when inflammatory bowel disease appears under control, intestinal cells may remain primed to die. In a WEHI-led study, researchers found this hidden molecular defect in patients with fe",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Tue, 08 Sep 2026 00:34:20 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-a-hidden-defect-that-could-explain-why-ibd-keeps-coming-back/",
-        "image_url": "https://scitechdaily.com/images/Man-Abdominal-Pain-Irritable-Bowel-Syndrome-IBS-Inflammatory-Bowel-Disease-IBD-777x518.jpg",
+        "published_at": "Thu, 10 Sep 2026 18:00:01 EDT",
+        "source_url": "https://phys.org/news/2026-09-cell-wall-disruption-exposes-weakness.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-a-19.jpg",
         "impact": 5
       },
       {
@@ -57,40 +35,51 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/dna-genetics-cappuccino-coffee.webp",
         "impact": 4
+      },
+      {
+        "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+        "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspir",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 08 Sep 2026 09:54:56 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/venomous-red-bush-viper.webp",
+        "impact": 4
+      },
+      {
+        "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
+        "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint o",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 04 Sep 2026 02:46:01 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-antimatter-physics.webp",
+        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-        "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the brea",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-09T17:16:34-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 4
-      },
-      {
-        "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
-        "summary": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make iOS feel more at home on the new device. Preorders start on [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-09T15:45:00-04:00",
-        "source_url": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 4
-      },
-      {
-        "title": "This founder is teaching chips how to recycle (their energy)",
-        "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a",
+        "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli ",
         "category": "Tech",
         "source": "technologyreview.com",
         "journal": "technologyreview.com",
-        "published_at": "Tue, 08 Sep 2026 10:36:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Hannah-0G6A8202-2.jpg?resize=1200,600",
+        "published_at": "Thu, 10 Sep 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-mobile.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "This road map could help us decide whether to deploy solar geoengineering",
+        "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could co",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 10 Sep 2026 11:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/sky-roadmap2a.jpg?resize=1200,600",
         "impact": 4
       },
       {
@@ -105,27 +94,60 @@
         "impact": 3
       },
       {
-        "title": "LG TV shown scanning LAN for third-party phones and other devices",
-        "summary": "“It doesn’t cost a lot to store text forever.”",
+        "title": "Maven Robotics wants to steal your robot deployment deal",
+        "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 08 Sep 2026 21:52:29 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 10 Sep 2026 14:17:37 +0000",
+        "source_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
+        "impact": 3
+      },
+      {
+        "title": "Electric air taxis get the green light for test flights in Texas",
+        "summary": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administration's Advanced Air Mobility and Electric Vertical Takeoff and Landing",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-10T12:00:00-04:00",
+        "source_url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2273027720.jpg?quality=90&strip=all&crop=0%2C10.749374232131%2C100%2C78.501251535737&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Common genetic marker associated with faster Parkinson's disease progression",
-        "summary": "A new study by investigators from the Mass General Brigham Neuroscience Institute has identified common genetic variants in the MC1R gene as markers of faster motor decline in people with Parkinson's disease (PD). The findings, published in JAMA Neurology, suggest that MC1R could help identify a large subgroup of patie",
+        "title": "Combination therapy may improve immune response against advanced prostate cancer",
+        "summary": "Combining the targeted therapy olaparib with an additional immunotherapy may improve immune response in a subgroup of patients with metastatic castration-resistant prostate cancer who responded poorly to initial treatment, according to a Northwestern Medicine study published in The Journal of Clinical Investigation.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 09 Sep 2026 19:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-common-genetic-marker-faster-parkinson.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/gene-variant-2.jpg",
+        "published_at": "Thu, 10 Sep 2026 15:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-combination-therapy-immune-response-advanced.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/combination-therapy-ma.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Ancient viral remnants in our genome may help predict response to chemotherapy",
+        "summary": "In a new study, researchers from King's College London trained AI models on multiple types of clinical and biological data to determine whether they could predict which patients with acute myeloid leukemia (AML) would respond to chemotherapy. They found that behavior related to ancient viral sequences in the genome was",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 10 Sep 2026 14:40:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-ancient-viral-remnants-genome-response.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/5-dna.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Mitochondrial RNA escape may explain how chronic immune signaling helps tumors grow",
+        "summary": "Cancer biology—and, in turn, cancer treatment—have come a long way in the last few decades. Most people recognize this progress in breakthroughs like immunotherapy, a treatment strategy first deployed in 2011 that leverages the body's own immune cells to fight cancer. It has revolutionized the treatment landscape. Howe",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 10 Sep 2026 14:00:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-mitochondrial-rna-chronic-immune-tumors.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-does-the-immune-sy.jpg",
         "impact": 4
       },
       {
@@ -140,49 +162,27 @@
         "impact": 4
       },
       {
-        "title": "Most patients with appendix cancer may avoid chemotherapy after surgery, study suggests",
-        "summary": "Most patients with localized appendix cancer may be able to safely avoid chemotherapy after surgery, according to a new study from researchers at The University of Texas MD Anderson Cancer Center.",
+        "title": "Rare variant reveals new hereditary retinal disease that can first impair night vision",
+        "summary": "An international team of researchers led by the University Hospital and University of Bonn, as well as the universities of Edinburgh, Basel and Pennsylvania, has identified a previously unrecognized form of inherited retinal degeneration caused by a specific variant in the EFEMP1 gene. The disease primarily affects the",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 09 Sep 2026 19:00:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-patients-appendix-cancer-chemotherapy-surgery.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/stomach-pain-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Data reveal half of England's health boards deliberately delay patient care with 'minimum waits'",
-        "summary": "Nearly half of health boards in England are deliberately delaying care for patients by imposing minimum waiting times in an attempt to manage demand and control costs, exclusive data published by The BMJ reveal.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 09 Sep 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-reveal-england-health-boards-deliberately.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nhs-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Initial Rx length tied to long-term use of Z-drugs",
-        "summary": "Patients who receive a longer initial Z-drug prescription are more likely to fill additional prescriptions after the index fill year, including up to seven years later, according to a research letter published online Sept. 3 in JAMA Network Open.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 09 Sep 2026 16:20:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-rx-length-term-drugs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/initial-rx-length-tied.jpg",
+        "published_at": "Thu, 10 Sep 2026 16:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-rare-variant-reveals-hereditary-retinal.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-hereditary-retinal.jpg",
         "impact": 4
       }
     ],
     "mathematics": [
       {
-        "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-        "summary": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
+        "title": "The Four-Color Theorem Gets a Rare New Proof",
+        "summary": "By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs. The post The Four-Color Theorem Gets a Rare New Proof first appeared on Quanta Magazine",
         "category": "Mathematics",
         "source": "quantamagazine.org",
         "journal": "quantamagazine.org",
-        "published_at": "Fri, 21 Aug 2026 14:53:32 +0000",
-        "source_url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Vector-tugofwar-cr-Ada-Zejun-Shen-Social.jpg",
+        "published_at": "Thu, 10 Sep 2026 14:27:36 +0000",
+        "source_url": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/4C-Theorem-cr-Vico-Santos-Social.jpg",
         "impact": 4
       },
       {
@@ -232,14 +232,25 @@
     ],
     "space": [
       {
-        "title": "Artemis II Crew at NASA Marshall",
-        "summary": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportun",
+        "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
+        "summary": "On Sept. 10, 2011, NASA's GRAIL spacecraft launched on a mission to the moon! Here's why the moon gravity mapping mission mattered.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 09 Sep 2026 15:31:44 +0000",
-        "source_url": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 10 Sep 2026 18:01:18 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ateGHUyFH6R4im6QBekrw9-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
+        "summary": "Operations aboard the Katalyst Space LINK satellite continue, despite the spacecraft's inability to complete its mission of boosting the orbit of NASA's Swift Observatory.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 10 Sep 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/WLpTdmw6fbw7neCYmJxsuQ-1280-80.png",
         "impact": 4
       },
       {
@@ -254,14 +265,14 @@
         "impact": 4
       },
       {
-        "title": "Private German rocket makes history, reaches orbit from European soil",
-        "summary": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
+        "title": "NASA Answers President’s Call to Establish United States Space Academy",
+        "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the U",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 05 Sep 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/CQvDAjNriBWKJva9TUiy4Z-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 10 Sep 2026 20:26:52 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp",
         "impact": 4
       },
       {
@@ -274,20 +285,20 @@
         "source_url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
         "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
         "impact": 4
-      },
-      {
-        "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
-        "summary": "Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can c",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 09 Sep 2026 13:24:37 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/glover-and-wiseman-announcement-sept-9.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "JWST Ruled Out Finding Tiny Moons Around An Exoplanet - That's Great News",
+        "summary": "The James Webb Space Telescope (JWST) has opened up many wonders of the cosmos to scientists since it began its science operations a few years ago. But one thing that it hasn’t done is find an “exomoon”. These, as yet still theoretical, moons orbit exoplanets in other star systems, and JWST was supposed to find a pleth",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 10 Sep 2026 14:42:29 +0000",
+        "source_url": "https://www.universetoday.com/articles/jwst-ruled-out-finding-tiny-moons-around-an-exoplanet-thats-great-news",
+        "image_url": "https://www.universetoday.com/article_images/Super-Earth_LP_890-9_c_artists_rendering_20260910_144220.jpg",
+        "impact": 4
+      },
       {
         "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
         "summary": "\"When you look up at the night sky, most of those stars have planets.\"",
@@ -331,20 +342,31 @@
         "source_url": "https://www.space.com/space-exploration/missions/spacex-rocket-taxi-returns-after-roman-telescope-launch-space-photo-of-the-day-for-sept-8-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/oUdewA3iNC6kssgGbcC77h-1280-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching",
-        "summary": "20% off at Amazon, the Celestron FirstScope is the telescope I grab for quick stargazing sessions and it's ideal for beginners and kids too.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 07 Sep 2026 11:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/J24Qda3i6qjeuNd8kxtiNS-1280-80.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "National Open Competition for Architecture, Urbanism, and Landscape Architecture for the UFC Center for Arts, Culture, and Events",
+        "summary": "The Federal University of Ceará (UFC), in partnership with the Institute of Architects of Brazil – Ceará Department (IAB/CE), has launched the National Public Competition for Architecture, Urbanism, and Landscape Design for the UFC Arts, Culture, and Events Center, a project that will occupy one of the most symbolic si",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 10 Sep 2026 09:05:00 +0000",
+        "source_url": "https://www.archdaily.com/1184851/national-open-competition-for-architecture-urbanism-and-landscape-architecture-for-the-ufc-center-for-arts-culture-and-events",
+        "image_url": "https://images.adsttc.com/media/images/6aa2/6a88/05b6/9900/01b5/3732/large_jpg/CACE__banner_site_DN_2560_x_1059_.jpg?1789029011",
+        "impact": 5
+      },
+      {
+        "title": "Oslo Architecture City Guide: 12 Buildings Contrasting Historic and Contemporary Design",
+        "summary": "Oslo is the capital of Norway as well as its largest city, serving as the country's political, economic, and cultural center. Nestled at the head of the Oslofjord and surrounded by forested hills, it's home to roughly 700,000 people in the city, with over a million living in the greater metropolitan area. Founded aroun",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 10 Sep 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1184689/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design",
+        "image_url": "https://images.adsttc.com/media/images/6aa0/4082/875c/6501/89ea/b615/large_jpg/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design_16.jpg?1788887186",
+        "impact": 5
+      },
       {
         "title": "Coronation Park Sports and Recreation Centre / hcma architecture + design + Dub Architects + FaulknerBrowns Architects",
         "summary": "The City of Edmonton's Coronation Park Sports and Recreation Centre, designed in joint venture by hcma architecture + design and Dub Architects, in collaboration with velodrome experts FaulknerBrowns, offers the rare combination of a community recreation hub with a high-performance sports training facility. Its elevate",
@@ -368,36 +390,14 @@
         "impact": 4
       },
       {
-        "title": "US government may demolish Kennedy Center due to \"structural death spiral\"",
-        "summary": "In the ongoing battle over a renovation of the Kennedy Center in Washington, DC, the administration of US president Donald Trump has said it may have to demolish the Edward Durell Stone-designed building and replace it with an amphitheatre. This week, a Justice Department attorney filed a civil action stating the admin",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Thu, 27 Aug 2026 19:20:28 +0000",
-        "source_url": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "abandoned canal site in london transforms into a community playscape garden",
-        "summary": "what happens when a community center stops behaving like a building and starts becoming a landscape? The post abandoned canal site in london transforms into a community playscape garden appeared first on designboom | architecture &amp; design magazine.",
+        "title": "building a life in virtual worlds: the places we inhabit and lose",
+        "summary": "from minecraft shelters and animal crossing islands to VR bedrooms and contested digital real estate, video games have become places where people build a sense of home. The post building a life in virtual worlds: the places we inhabit and lose appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
         "source": "designboom.com",
         "journal": "designboom.com",
-        "published_at": "Wed, 09 Sep 2026 06:15:40 +0000",
-        "source_url": "https://www.designboom.com/architecture/abandoned-canal-site-london-community-playscape-garden/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/abandoned-canal-site-london-community-playscape-garden-designboom-1200-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "BIG’s hanna johansson on designing ‘park rise’ as a vertical extension of athens’ landscape",
-        "summary": "as 'park rise' takes shape within the ellinikon, johansson discusses the project’s cascading form, its relationship with athens and the potential for a new model of urban living. The post BIG&#8217;s hanna johansson on designing &#8216;park rise&#8217; as a vertical extension of athens&#8217; landscape appeared first o",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Tue, 08 Sep 2026 10:50:15 +0000",
-        "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-interview/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/big-bjarke-ingels-group-hanna-johansson-park-rise-vertical-extension-athens-landscape-ellinikon-designboom-1200.jpg",
+        "published_at": "Thu, 10 Sep 2026 20:35:23 +0000",
+        "source_url": "https://www.designboom.com/architecture/life-virtual-worlds-places-the-sims-minecraft-animal-crossing/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/life-virtual-worlds-places-the-sims-minecraft-animal-crossing-designboom-07.jpg",
         "impact": 4
       }
     ],
@@ -425,6 +425,17 @@
         "impact": 4
       },
       {
+        "title": "Rebuilding after 9/11 a ‘Herculean effort,’ AECOM Tishman execs say",
+        "summary": "Twenty-five years after the terrorist attacks, three construction veterans from the firm discussed the gargantuan undertaking of rebuilding, along with the impact of restoring New York City&rsquo;s skyline.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 10 Sep 2026 15:49:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/aecom-tishman-rebuild-9-11-world-trade-center-construction/830063/",
+        "image_url": "https://imgproxy.divecdn.com/Y4CFlW213OgN-6Gx7F8ky8CMVah4zmqE_0T12x2MFEE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PbmVfV29ybGRfVHJhZGVfLV9Db2Nvb25fU3lzdGVtLmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "Analyzing the US data center construction boom",
         "summary": "Construction Dive explores the top developers, the most active construction locations and the overall data center project pipeline.",
         "category": "Construction",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/sound-transit-delays-west-seattle-link-project-3-years/829933/",
         "image_url": "https://imgproxy.divecdn.com/zM5PQSNYhi3UwK6FyOCADPQf9SsfMxa1Hgi9Drj2IR4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kdXdhbWlzaC1icmlkZ2UtcmVuZGVyaW5nLTIucG5n.webp",
         "impact": 3
-      },
-      {
-        "title": "Data center planning cooled in August as other sectors gained ground",
-        "summary": "Most other sectors posted an acceleration in momentum amid a weaker data center planning environment, according to Dodge Construction Network.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 09 Sep 2026 11:50:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/data-center-planning-august-dodge-momentum-index/829925/",
-        "image_url": "https://imgproxy.divecdn.com/KWhI02Ijt1iDM4qE-MWIiFNmaWvwoSfLBXEaCi7cqtM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyNTAwNTY1LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-        "summary": "arXiv:2609.05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (Memory Evaluation for ",
+        "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+        "summary": "arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures a broad range of hum",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 09 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.05441",
+        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.09226",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-        "summary": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable inf",
+        "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+        "summary": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose failure modes,",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 09 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.05446",
+        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.09203",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
-        "summary": "arXiv:2609.05514v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents are increasingly used as proxies for human participants in social science research, yet it remains unclear whether they can faithfully simulate diverse and conflicting human value systems. We present a World Values Survey (WVS)-grou",
+        "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+        "summary": "arXiv:2609.09428v1 Announce Type: new Abstract: Evaluating the quality of explanations produced by explainable AI (XAI) methods remains challenging because existing approaches often rely on subjective human judgment, limiting reproducibility, scalability, and comparability between studies. We examine whether LLMs can s",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 09 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.05514",
+        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.09428",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "EnvCraft: Synthesizing Executable Environments in Agentic RL for Claw-like Agent",
-        "summary": "arXiv:2609.05576v1 Announce Type: new Abstract: The paradigm of LLMs has rapidly shifted from passive language interfaces to autonomous Claw-like agents that execute long-horizon tasks across stateful workspaces. While Agentic Reinforcement Learning (Agentic RL) provides a promising path to optimize these agents, its s",
+        "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+        "summary": "arXiv:2609.09448v1 Announce Type: new Abstract: As agentic systems getting adopted rapidly in safety critical applications, it is vital to measure the confidence associated with the agentic actions. In comparison to the traditional machine learning systems, agentic workflows have complex failure modes with planning, to",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 09 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.05576",
+        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.09448",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Agents Trust Tools Too Much: Measuring Reliance on Unreliable Tools",
-        "summary": "arXiv:2609.05587v1 Announce Type: new Abstract: Existing evaluations of tool-using agents primarily measure whether an agent can successfully complete diverse tasks with tools. These evaluations generally assume that tools return reliable information. However, tool returns in real-world systems can be plausible yet inc",
+        "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
+        "summary": "arXiv:2609.09647v1 Announce Type: new Abstract: Agentic systems are rapidly moving to production, where they read untrusted inputs, call tools with real permissions, and act autonomously, expanding the security surface beyond chat-only models. Yet standard evaluations remain single-turn and fail to capture multi-step a",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 09 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.05587",
+        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.09647",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
