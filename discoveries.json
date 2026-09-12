@@ -1,18 +1,51 @@
 {
-  "date": "2026-09-11",
-  "last_updated": "2026-09-11 00:49 UTC",
+  "date": "2026-09-12",
+  "last_updated": "2026-09-12 00:52 UTC",
   "categories": {
     "science": [
       {
-        "title": "Cell wall transport disruption exposes weakness in antibiotic-resistant bacteria",
-        "summary": "Even highly antibiotic-resistant bacteria become more vulnerable when their cell wall transport system is disrupted, according to a new study from Umeå University. The discovery reveals a previously overlooked weakness that could help researchers develop new strategies to combat antibiotic resistance.",
+        "title": "Scientists capture two DNA strands zipping together for the first time",
+        "summary": "Scientists have directly observed how two negatively charged DNA molecules can pair up despite normally repelling each other. Positively charged metal ions appear to bridge the gap, helping matching DNA helices align groove for groove like a molecular zipper. The discovery confirms a theory proposed two decades ago and",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 10 Sep 2026 18:00:01 EDT",
-        "source_url": "https://phys.org/news/2026-09-cell-wall-disruption-exposes-weakness.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-discover-a-19.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 10 Sep 2026 10:33:06 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/dna-strands-zip-together.webp",
         "impact": 5
+      },
+      {
+        "title": "Scientists discover the human heart can regrow muscle after a heart attack",
+        "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists now hope to identify ways to dramatically boost this natural repair process, potentially opening a ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 10 Sep 2026 22:56:49 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-heart-anatomy-science-discovery.webp",
+        "impact": 4
+      },
+      {
+        "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
+        "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as climate-driven flooding",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 10 Sep 2026 06:35:52 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/new-tomb-theban-necropolis.webp",
+        "impact": 4
+      },
+      {
+        "title": "Ancient teeth reveal humans were getting high 25,000 years ago",
+        "summary": "Ancient human remains from Sulawesi suggest people were habitually using the psychoactive betel nut as far back as 25,000 years ago. Researchers found both unusual tooth wear and traces of arecoline, the nut’s mind-altering compound, in the teeth of prehistoric hunter-gatherers. The practice may have started partly as ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 10 Sep 2026 03:58:25 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231705.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cpl-2a-skeleton.webp",
+        "impact": 4
       },
       {
         "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
@@ -23,39 +56,6 @@
         "published_at": "Wed, 09 Sep 2026 01:33:42 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/ni1o4ni4-active-structure.webp",
-        "impact": 4
-      },
-      {
-        "title": "Caffeine may flip an ancient cellular switch linked to slower aging",
-        "summary": "Scientists found that caffeine activates an ancient cellular energy system involved in stress resistance, DNA repair, and growth. The discovery could help explain caffeine’s links to healthier aging and may point toward new ways to target the same pathway.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 08 Sep 2026 20:28:13 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/dna-genetics-cappuccino-coffee.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-        "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspir",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 08 Sep 2026 09:54:56 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/venomous-red-bush-viper.webp",
-        "impact": 4
-      },
-      {
-        "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-        "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint o",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 04 Sep 2026 02:46:01 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-antimatter-physics.webp",
         "impact": 4
       }
     ],
@@ -83,71 +83,49 @@
         "impact": 4
       },
       {
-        "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-        "summary": "There's also a new thermal management system, reducing overheating.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 09 Sep 2026 17:38:53 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-17-Pro-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Maven Robotics wants to steal your robot deployment deal",
-        "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 10 Sep 2026 14:17:37 +0000",
-        "source_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
+        "published_at": "Fri, 11 Sep 2026 22:58:17 +0000",
+        "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
         "impact": 3
       },
       {
-        "title": "Electric air taxis get the green light for test flights in Texas",
-        "summary": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administration's Advanced Air Mobility and Electric Vertical Takeoff and Landing",
+        "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
+        "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonOS Prescription Lens firmware package,\" suggest Meta may be looking to compete with devices like thos",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-09-10T12:00:00-04:00",
-        "source_url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2273027720.jpg?quality=90&strip=all&crop=0%2C10.749374232131%2C100%2C78.501251535737&w=1200",
+        "published_at": "2026-09-11T11:38:31-04:00",
+        "source_url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rx_attach_thumb.jpg?quality=90&strip=all&crop=5.4765628342629%2C2.4549586366983%2C94.523437165737%2C79.181932059882&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
+        "summary": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 11 Sep 2026 09:15:00 +0000",
+        "source_url": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+        "image_url": "https://media.wired.com/photos/6aa1c319e3b72ced9abda322/191:100/w_1280,c_limit/drones%20M%C3%A9xico%20EE%20UU%20operativo%202244404487.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Combination therapy may improve immune response against advanced prostate cancer",
-        "summary": "Combining the targeted therapy olaparib with an additional immunotherapy may improve immune response in a subgroup of patients with metastatic castration-resistant prostate cancer who responded poorly to initial treatment, according to a Northwestern Medicine study published in The Journal of Clinical Investigation.",
+        "title": "First-in-human study attacks inoperable pancreatic tumors with laser light",
+        "summary": "UCI Health, the clinical enterprise of the University of California, Irvine, is conducting a first-in-human, Phase I clinical trial using laser light to target localized but inoperable pancreatic tumors to help patients become cancer-free.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 10 Sep 2026 15:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-combination-therapy-immune-response-advanced.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/combination-therapy-ma.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Ancient viral remnants in our genome may help predict response to chemotherapy",
-        "summary": "In a new study, researchers from King's College London trained AI models on multiple types of clinical and biological data to determine whether they could predict which patients with acute myeloid leukemia (AML) would respond to chemotherapy. They found that behavior related to ancient viral sequences in the genome was",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 10 Sep 2026 14:40:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-ancient-viral-remnants-genome-response.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/5-dna.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Mitochondrial RNA escape may explain how chronic immune signaling helps tumors grow",
-        "summary": "Cancer biology—and, in turn, cancer treatment—have come a long way in the last few decades. Most people recognize this progress in breakthroughs like immunotherapy, a treatment strategy first deployed in 2011 that leverages the body's own immune cells to fight cancer. It has revolutionized the treatment landscape. Howe",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 10 Sep 2026 14:00:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-mitochondrial-rna-chronic-immune-tumors.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-does-the-immune-sy.jpg",
+        "published_at": "Fri, 11 Sep 2026 12:40:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-human-inoperable-pancreatic-tumors-laser.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-in-human-study-a.jpg",
         "impact": 4
       },
       {
@@ -162,14 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Rare variant reveals new hereditary retinal disease that can first impair night vision",
-        "summary": "An international team of researchers led by the University Hospital and University of Bonn, as well as the universities of Edinburgh, Basel and Pennsylvania, has identified a previously unrecognized form of inherited retinal degeneration caused by a specific variant in the EFEMP1 gene. The disease primarily affects the",
+        "title": "Gene editing advance shows promise as long-lasting treatment for rare liver disease",
+        "summary": "Researchers have taken an important step toward solving one of the biggest challenges in gene therapy for children with metabolic liver disorders: growth itself. As a child's liver grows, some gene therapies that once worked can gradually lose their effect because the treated cells are eventually outnumbered by new, un",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 10 Sep 2026 16:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-rare-variant-reveals-hereditary-retinal.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-hereditary-retinal.jpg",
+        "published_at": "Fri, 11 Sep 2026 12:20:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-gene-advance-treatment-rare-liver.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-editing-advance-s.jpg",
+        "impact": 4
+      },
+      {
+        "title": "The secret to longer life may be hidden in bat DNA",
+        "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 11 Sep 2026 20:25:05 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/greater-bamboo-bat-tylonycteris-robustula.webp",
+        "impact": 4
+      },
+      {
+        "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
+        "summary": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to their effects on diabetes and obesity, but clinical trials a",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 09 Sep 2026 09:06:53 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/ozempic-semaglutide-injection-pens.webp",
         "impact": 4
       }
     ],
@@ -232,6 +232,39 @@
     ],
     "space": [
       {
+        "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
+        "summary": "Rocket Lab has filed a protest against NASA's decision to award Blue Origin a $700 million Mars orbiter contract, saying it's inconsistent with the eligibility rules laid out by Congress.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 11 Sep 2026 22:06:42 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/mfKob5LzHWiNYikL9MAAgB-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
+        "summary": "Rocket Lab launched an Earth-observation satellite to orbit for a confidential customer on Thursday night (Sept. 10), without providing a livestream or many details about the mission.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 11 Sep 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/kBheuqMF5cYky7WQbB2oyD-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026",
+        "summary": "A dune field on Mars, as seen by the Mars Reconnaissance Orbiter.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 11 Sep 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/mmvLJxd3i8Ptd8Tn34LBw-1280-80.png",
+        "impact": 4
+      },
+      {
         "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
         "summary": "On Sept. 10, 2011, NASA's GRAIL spacecraft launched on a mission to the moon! Here's why the moon gravity mapping mission mattered.",
         "category": "Space",
@@ -252,42 +285,20 @@
         "source_url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
         "image_url": "https://cdn.mos.cms.futurecdn.net/WLpTdmw6fbw7neCYmJxsuQ-1280-80.png",
         "impact": 4
-      },
-      {
-        "title": "Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch",
-        "summary": "Stoke Space announced a $1 billion round of funding to support development of its fully reusable Nova rockets, including the newly revealed Nova Block 2, which will be capable of delivering 15-ton payloads to low Earth orbit.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 08 Sep 2026 19:23:56 +0000",
-        "source_url": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/VUg6zqvQe7xXAdHeiruMFL-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Answers President’s Call to Establish United States Space Academy",
-        "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the U",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 10 Sep 2026 20:26:52 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp",
-        "impact": 4
-      },
-      {
-        "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
-        "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-awa",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 09 Sep 2026 20:11:58 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "How Big Can The Universe's First Starbursts Get?",
+        "summary": "As our telescopes have improved and we’ve been able to peer farther back in time, we’ve begun finding more fascinating features of the universe. But one thing we definitely haven’t found yet is Population III (Pop III) stars. These were the earliest stars in the universe, formed completely from pristine hydrogen and he",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 11 Sep 2026 14:19:27 +0000",
+        "source_url": "https://www.universetoday.com/articles/how-big-can-the-universes-first-starbursts-get",
+        "image_url": "https://www.universetoday.com/article_images/Massive_Population_III_Star_in_the_Early_Universe_1_20260911_141558.jpg",
+        "impact": 4
+      },
       {
         "title": "JWST Ruled Out Finding Tiny Moons Around An Exoplanet - That's Great News",
         "summary": "The James Webb Space Telescope (JWST) has opened up many wonders of the cosmos to scientists since it began its science operations a few years ago. But one thing that it hasn’t done is find an “exomoon”. These, as yet still theoretical, moons orbit exoplanets in other star systems, and JWST was supposed to find a pleth",
@@ -311,36 +322,25 @@
         "impact": 4
       },
       {
-        "title": "Widespread Turbulence is Upsetting Star Formation in Stephan's Quintet",
-        "summary": "Stephan's Quintet contains the most well-studied compact galaxy group. Japanese researchers have mapped star forming gas in the Quintet, along with its turbulence. The results show that the Quintet is an evolved group of interacting galaxies where gas struggles to settle down and form stars. Even where gas is concentra",
+        "title": "Dense Galaxies Are Carving Out A Bubble in the Early Universe",
+        "summary": "Light could only travel freely in the Universe after cosmic reionization. Before that, neutral hydrogen stopped photons from travelling. The JWST has found evidence of an overdensity of galaxies carving out a bubble of reionization. Is this how it all started?",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 09 Sep 2026 16:55:42 +0000",
-        "source_url": "https://www.universetoday.com/articles/widespread-turbulence-is-upsetting-star-formation-in-stephans-quintet",
-        "image_url": "https://www.universetoday.com/article_images/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb-1024x982.jpg",
+        "published_at": "Fri, 11 Sep 2026 22:51:28 +0000",
+        "source_url": "https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe",
+        "image_url": "https://www.universetoday.com/article_images/apjae7723f2_hr_20260911_213833.jpg",
         "impact": 4
       },
       {
-        "title": "'Star Trek' imagined strange new worlds 60 years ago, but real exoplanets are even stranger",
-        "summary": "\"To explore strange new worlds; to seek out new life and new civilizations; to boldly go where no one has gone before!\"",
+        "title": "NASA's Next Great Observatory Could Spot Oceans on Distant Worlds",
+        "summary": "We’ve found over 5,500 exoplanets so far. Dozens of them have been in the habitable zone of their parent stars, where, at least in theory, they could host an ocean. But we’ve never definitively found a liquid ocean on another planet. A new paper from researchers Eleanor Cornish and Tyler Robinson of the University of A",
         "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 08 Sep 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/star-trek-imagined-strange-new-worlds-60-years-ago-but-are-real-exoplanets-even-stranger",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/SQBgqeqeCNz2EBUvM8dUkX-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX rocket taxi returns after Roman Telescope launch | Space photo of the day for Sept. 8, 2026",
-        "summary": "The Roman Space Telescope launched beyond Earth on Aug. 30. And one of the most amazing parts of the liftoff was the Falcon Heavy rocket's boosters returning back to our planet, safe and sound.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 08 Sep 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/spacex-rocket-taxi-returns-after-roman-telescope-launch-space-photo-of-the-day-for-sept-8-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/oUdewA3iNC6kssgGbcC77h-1280-80.jpg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 11 Sep 2026 10:49:44 +0000",
+        "source_url": "https://www.universetoday.com/articles/nasas-next-great-observatory-could-spot-oceans-on-distant-worlds",
+        "image_url": "https://www.universetoday.com/article_images/PIA18432_20260911_104810.jpg",
         "impact": 4
       }
     ],
@@ -357,25 +357,14 @@
         "impact": 5
       },
       {
-        "title": "Oslo Architecture City Guide: 12 Buildings Contrasting Historic and Contemporary Design",
-        "summary": "Oslo is the capital of Norway as well as its largest city, serving as the country's political, economic, and cultural center. Nestled at the head of the Oslofjord and surrounded by forested hills, it's home to roughly 700,000 people in the city, with over a million living in the greater metropolitan area. Founded aroun",
+        "title": "Our thoughts on the Dyson CameraJet toothbrush",
+        "summary": "Dezeen Weekly returns with a conversation about Dyson's eye-catching new product launch, plus a building in north London that aims to kickstart a revival of stone architecture. In this episode, Dezeen features editor Nat Barker and design editor Jennifer Hahn are joined by editor Tom Ravenscroft to discuss the Dyson Ca",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 10 Sep 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1184689/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design",
-        "image_url": "https://images.adsttc.com/media/images/6aa0/4082/875c/6501/89ea/b615/large_jpg/oslo-architecture-city-guide-12-buildings-contrasting-historic-and-contemporary-design_16.jpg?1788887186",
-        "impact": 5
-      },
-      {
-        "title": "Coronation Park Sports and Recreation Centre / hcma architecture + design + Dub Architects + FaulknerBrowns Architects",
-        "summary": "The City of Edmonton's Coronation Park Sports and Recreation Centre, designed in joint venture by hcma architecture + design and Dub Architects, in collaboration with velodrome experts FaulknerBrowns, offers the rare combination of a community recreation hub with a high-performance sports training facility. Its elevate",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 09 Sep 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1184434/coronation-park-sports-and-recreation-centre-hcma-architecture-plus-design-plus-dub-architects-plus-faulknerbrowns-architects",
-        "image_url": "https://images.adsttc.com/media/images/6a98/0f35/505a/cb00/0115/25dd/large_jpg/_CPSRC__Aerial_of_entrance_and_link_to_Peter_Hemingway_Aquatic_Centre_Credit_Nic_Lehoux.jpg?1788350291",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 11 Sep 2026 09:00:28 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -387,6 +376,17 @@
         "published_at": "Tue, 01 Sep 2026 15:00:19 +0000",
         "source_url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "KOSMOS transforms mallorcan townhouse by giving old materials new roles",
+        "summary": "set on the steep slopes of banyalbufar, the family home turns the practical difficulties of building in a remote village into part of its architecture. The post KOSMOS transforms mallorcan townhouse by giving old materials new roles appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 11 Sep 2026 09:30:17 +0000",
+        "source_url": "https://www.designboom.com/architecture/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui-designboom-1200.jpg",
         "impact": 4
       },
       {
@@ -425,6 +425,17 @@
         "impact": 4
       },
       {
+        "title": "Cost spikes hit bevy of construction materials",
+        "summary": "Prices for copper, lumber, switchgear and several derivative metal products posted 10% or more increases year over year since August 2025, said Anirban Basu, chief economist at Associated Builders and Contractors.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 11 Sep 2026 10:43:17 -0400",
+        "source_url": "https://www.constructiondive.com/news/cost-spikes-construction-materials-producer-price-index/830165/",
+        "image_url": "https://imgproxy.divecdn.com/F1BW7LzpYLyFzNmIKZJS7zJu8e832cgrzVntJhjVe9s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNTAyMTAxLmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "Rebuilding after 9/11 a ‘Herculean effort,’ AECOM Tishman execs say",
         "summary": "Twenty-five years after the terrorist attacks, three construction veterans from the firm discussed the gargantuan undertaking of rebuilding, along with the impact of restoring New York City&rsquo;s skyline.",
         "category": "Construction",
@@ -445,17 +456,6 @@
         "source_url": "https://www.constructiondive.com/news/analyzing-us-data-center-construction-boom-developers-pipeline-state/829330/",
         "image_url": "https://imgproxy.divecdn.com/DMg4bHQG2K1NjvA8QmiUpoqvZgf5MVzoOMkrTsczVZk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMTgxMzAzX0R3MVhIY3cuanBn.webp",
         "impact": 3
-      },
-      {
-        "title": "Sound Transit delays West Seattle Link project by 3 years",
-        "summary": "The slower timeline stems from cost savings work and a longer construction schedule for some of the extension&rsquo;s most complex portions.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 09 Sep 2026 12:36:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/sound-transit-delays-west-seattle-link-project-3-years/829933/",
-        "image_url": "https://imgproxy.divecdn.com/zM5PQSNYhi3UwK6FyOCADPQf9SsfMxa1Hgi9Drj2IR4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kdXdhbWlzaC1icmlkZ2UtcmVuZGVyaW5nLTIucG5n.webp",
-        "impact": 3
       }
     ],
     "ai": [
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.09226",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.09203",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.09428",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.09448",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2609.09647",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
