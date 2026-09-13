@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-12",
-  "last_updated": "2026-09-12 00:52 UTC",
+  "date": "2026-09-13",
+  "last_updated": "2026-09-13 00:35 UTC",
   "categories": {
     "science": [
       {
@@ -61,6 +61,17 @@
     ],
     "tech": [
       {
+        "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+        "summary": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sat, 12 Sep 2026 10:00:00 +0000",
+        "source_url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+        "image_url": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg",
+        "impact": 4
+      },
+      {
         "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli ",
         "category": "Tech",
@@ -83,6 +94,17 @@
         "impact": 4
       },
       {
+        "title": "I spent $4,000 on a robot dog from China",
+        "summary": "Unitree might be the world’s most important robotics company.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Sat, 12 Sep 2026 11:00:53 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
+        "impact": 3
+      },
+      {
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
         "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
         "category": "Tech",
@@ -92,40 +114,29 @@
         "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
         "impact": 3
-      },
-      {
-        "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
-        "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonOS Prescription Lens firmware package,\" suggest Meta may be looking to compete with devices like thos",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-11T11:38:31-04:00",
-        "source_url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rx_attach_thumb.jpg?quality=90&strip=all&crop=5.4765628342629%2C2.4549586366983%2C94.523437165737%2C79.181932059882&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
-        "summary": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 11 Sep 2026 09:15:00 +0000",
-        "source_url": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
-        "image_url": "https://media.wired.com/photos/6aa1c319e3b72ced9abda322/191:100/w_1280,c_limit/drones%20M%C3%A9xico%20EE%20UU%20operativo%202244404487.jpg",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "First-in-human study attacks inoperable pancreatic tumors with laser light",
-        "summary": "UCI Health, the clinical enterprise of the University of California, Irvine, is conducting a first-in-human, Phase I clinical trial using laser light to target localized but inoperable pancreatic tumors to help patients become cancer-free.",
+        "title": "Investigational EGFR x HER3 therapy supports Phase III dose after lung cancer trial",
+        "summary": "An investigational EGFR x HER3 antibody-drug conjugate demonstrated promising efficacy with a tolerable safety profile in patients with previously treated EGFR-mutated non-small cell lung cancer (NSCLC), supporting selection of the 2.5 mg/kg dose for evaluation in the global Phase III IZABRIGHT-Lung01 registrational st",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 11 Sep 2026 12:40:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-human-inoperable-pancreatic-tumors-laser.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-in-human-study-a.jpg",
+        "published_at": "Sat, 12 Sep 2026 05:20:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-egfr-her3-therapy-phase-iii.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/lung-2.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Local consolidative therapy does not improve survival after dual immunotherapy in metastatic NSCLC",
+        "summary": "Adding local consolidative therapy (LCT) after induction treatment with nivolumab plus ipilimumab did not improve overall survival or progression-free survival in patients with metastatic non-small cell lung cancer (NSCLC), including those with oligometastatic disease, according to results presented at the Internationa",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 12 Sep 2026 05:20:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-local-therapy-survival-dual-immunotherapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/surgery-1.jpg",
         "impact": 4
       },
       {
@@ -140,36 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Gene editing advance shows promise as long-lasting treatment for rare liver disease",
-        "summary": "Researchers have taken an important step toward solving one of the biggest challenges in gene therapy for children with metabolic liver disorders: growth itself. As a child's liver grows, some gene therapies that once worked can gradually lose their effect because the treated cells are eventually outnumbered by new, un",
+        "title": "Perioperative atezolizumab + chemotherapy more than doubles event-free survival in resectable stage II–IIIB NSCLC",
+        "summary": "Patients with resectable stage II–IIIB non-small cell lung cancer (NSCLC) treated with perioperative atezolizumab plus platinum-based chemotherapy experienced a median event-free survival of 62.8 months compared with 34.9 months for patients receiving chemotherapy alone, according to final results from the Phase III IM",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 11 Sep 2026 12:20:09 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-gene-advance-treatment-rare-liver.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-editing-advance-s.jpg",
+        "published_at": "Sat, 12 Sep 2026 05:20:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-perioperative-atezolizumab-chemotherapy-event-free.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/lung.jpg",
         "impact": 4
       },
       {
-        "title": "The secret to longer life may be hidden in bat DNA",
-        "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
+        "title": "Pumitamig plus elfetabart drozuntecan shows encouraging early activity in small cell lung cancer",
+        "summary": "The investigational combination of pumitamig and elfetabart drozuntecan (elfe-D) demonstrated a manageable safety profile and encouraging early antitumor activity in patients with small cell lung cancer (SCLC), according to first clinical data from the ongoing Phase Ib/II BNT324-01 trial presented at the International ",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 11 Sep 2026 20:25:05 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/greater-bamboo-bat-tylonycteris-robustula.webp",
-        "impact": 4
-      },
-      {
-        "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
-        "summary": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to their effects on diabetes and obesity, but clinical trials a",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 09 Sep 2026 09:06:53 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/ozempic-semaglutide-injection-pens.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 12 Sep 2026 05:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-pumitamig-ifinatamab-deruxtecan-early-small.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/lung.jpg",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "Venus Moon Would Have Been Doomed From The Start, Says New Paper",
+        "summary": "Venus likely never had a moon and even if it did, it would have soon been torn asunder by the planet’s own gravity, says prominent planetary astrophysicist.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sat, 12 Sep 2026 01:45:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/venus-moon-would-have-been-doomed-from-the-start-says-new-paper",
+        "image_url": "https://www.universetoday.com/article_images/Venus_-_December_23_2016_2_20260912_014746.png",
+        "impact": 4
+      },
+      {
         "title": "Dense Galaxies Are Carving Out A Bubble in the Early Universe",
         "summary": "Light could only travel freely in the Universe after cosmic reionization. Before that, neutral hydrogen stopped photons from travelling. The JWST has found evidence of an overdensity of galaxies carving out a bubble of reionization. Is this how it all started?",
         "category": "Astronomy",
@@ -331,30 +342,19 @@
         "source_url": "https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe",
         "image_url": "https://www.universetoday.com/article_images/apjae7723f2_hr_20260911_213833.jpg",
         "impact": 4
-      },
-      {
-        "title": "NASA's Next Great Observatory Could Spot Oceans on Distant Worlds",
-        "summary": "We’ve found over 5,500 exoplanets so far. Dozens of them have been in the habitable zone of their parent stars, where, at least in theory, they could host an ocean. But we’ve never definitively found a liquid ocean on another planet. A new paper from researchers Eleanor Cornish and Tyler Robinson of the University of A",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 11 Sep 2026 10:49:44 +0000",
-        "source_url": "https://www.universetoday.com/articles/nasas-next-great-observatory-could-spot-oceans-on-distant-worlds",
-        "image_url": "https://www.universetoday.com/article_images/PIA18432_20260911_104810.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "National Open Competition for Architecture, Urbanism, and Landscape Architecture for the UFC Center for Arts, Culture, and Events",
-        "summary": "The Federal University of Ceará (UFC), in partnership with the Institute of Architects of Brazil – Ceará Department (IAB/CE), has launched the National Public Competition for Architecture, Urbanism, and Landscape Design for the UFC Arts, Culture, and Events Center, a project that will occupy one of the most symbolic si",
+        "title": "37 Dwellings in L'Hospitalet de Llobregat / b720 Fermín Vázquez Arquitectos",
+        "summary": "A humble \"build to rent\" building of 37 dwellings in L'Hospitalet de Llobregat, located in a peripheral area, in an urban fabric in constant transformation from an industrial to a residential area and with limited economic resources. The design choices were driven by the search for a solution that takes advantage of th",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 10 Sep 2026 09:05:00 +0000",
-        "source_url": "https://www.archdaily.com/1184851/national-open-competition-for-architecture-urbanism-and-landscape-architecture-for-the-ufc-center-for-arts-culture-and-events",
-        "image_url": "https://images.adsttc.com/media/images/6aa2/6a88/05b6/9900/01b5/3732/large_jpg/CACE__banner_site_DN_2560_x_1059_.jpg?1789029011",
-        "impact": 5
+        "published_at": "Sat, 12 Sep 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1024569/37-dwellings-in-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos",
+        "image_url": "https://images.adsttc.com/media/images/6757/6665/db5c/2001/8806/a88a/large_jpg/37-viviendas-en-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos_3.jpg?1733781234",
+        "impact": 4
       },
       {
         "title": "Our thoughts on the Dyson CameraJet toothbrush",
@@ -379,6 +379,17 @@
         "impact": 4
       },
       {
+        "title": "superstudio’s 12 ideal cities question the price of a perfectly designed life",
+        "summary": "in 1971, superstudio imagined twelve cities where architecture, technology, and urban systems could shape every part of everyday life. The post superstudio&#8217;s 12 ideal cities question the price of a perfectly designed life appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Sat, 12 Sep 2026 20:35:32 +0000",
+        "source_url": "https://www.designboom.com/architecture/superstudio-12-ideal-cities-price-perfectly-designed-life/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/superstudio-12-ideal-cities-price-perfectly-designed-life-designboom-1200.jpg",
+        "impact": 4
+      },
+      {
         "title": "KOSMOS transforms mallorcan townhouse by giving old materials new roles",
         "summary": "set on the steep slopes of banyalbufar, the family home turns the practical difficulties of building in a remote village into part of its architecture. The post KOSMOS transforms mallorcan townhouse by giving old materials new roles appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
@@ -387,17 +398,6 @@
         "published_at": "Fri, 11 Sep 2026 09:30:17 +0000",
         "source_url": "https://www.designboom.com/architecture/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui-designboom-1200.jpg",
-        "impact": 4
-      },
-      {
-        "title": "building a life in virtual worlds: the places we inhabit and lose",
-        "summary": "from minecraft shelters and animal crossing islands to VR bedrooms and contested digital real estate, video games have become places where people build a sense of home. The post building a life in virtual worlds: the places we inhabit and lose appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 10 Sep 2026 20:35:23 +0000",
-        "source_url": "https://www.designboom.com/architecture/life-virtual-worlds-places-the-sims-minecraft-animal-crossing/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/life-virtual-worlds-places-the-sims-minecraft-animal-crossing-designboom-07.jpg",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-        "summary": "arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures a broad range of hum",
+        "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+        "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Und",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.09226",
+        "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.10964",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-        "summary": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose failure modes,",
+        "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+        "summary": "arXiv:2609.11115v1 Announce Type: new Abstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a living database and sea",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.09203",
+        "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.11115",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
-        "summary": "arXiv:2609.09428v1 Announce Type: new Abstract: Evaluating the quality of explanations produced by explainable AI (XAI) methods remains challenging because existing approaches often rely on subjective human judgment, limiting reproducibility, scalability, and comparability between studies. We examine whether LLMs can s",
+        "title": "SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics",
+        "summary": "arXiv:2609.11180v1 Announce Type: new Abstract: Large language model (LLM) coding agents constantly decide whether a version satisfies a constraint such as ^1.2.3 or >=2.0,1.2 means >=1.3.0) traps every model on Cargo (near 60%), and although standard PEP 440 prefix matching is universal, on zero-pad/post-release corne",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.09428",
+        "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.11180",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
-        "summary": "arXiv:2609.09448v1 Announce Type: new Abstract: As agentic systems getting adopted rapidly in safety critical applications, it is vital to measure the confidence associated with the agentic actions. In comparison to the traditional machine learning systems, agentic workflows have complex failure modes with planning, to",
+        "title": "Architecting memory and storage in the AI era",
+        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.09448",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 04 Sep 2026 18:39:19 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
-        "summary": "arXiv:2609.09647v1 Announce Type: new Abstract: Agentic systems are rapidly moving to production, where they read untrusted inputs, call tools with real permissions, and act autonomously, expanding the security surface beyond chat-only models. Yet standard evaluations remain single-turn and fail to capture multi-step a",
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confi",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.09647",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 26 Aug 2026 19:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+        "impact": 4
       }
     ]
   }
