@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-13",
-  "last_updated": "2026-09-13 00:35 UTC",
+  "date": "2026-09-14",
+  "last_updated": "2026-09-14 00:39 UTC",
   "categories": {
     "science": [
       {
@@ -13,6 +13,17 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/dna-strands-zip-together.webp",
         "impact": 5
+      },
+      {
+        "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+        "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating A",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 13 Sep 2026 09:56:06 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-puzzle-alzheimers-dementia.webp",
+        "impact": 4
       },
       {
         "title": "Scientists discover the human heart can regrow muscle after a heart attack",
@@ -45,17 +56,6 @@
         "published_at": "Thu, 10 Sep 2026 03:58:25 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231705.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/cpl-2a-skeleton.webp",
-        "impact": 4
-      },
-      {
-        "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
-        "summary": "Scientists found that a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction. The discovery allowed a low-nickel catalyst to rival one containing 10 times more metal, potentially opening the door to cheaper and more eff",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 09 Sep 2026 01:33:42 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/ni1o4ni4-active-structure.webp",
         "impact": 4
       }
     ],
@@ -105,18 +105,40 @@
         "impact": 3
       },
       {
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+        "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Fri, 11 Sep 2026 22:58:17 +0000",
-        "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+        "published_at": "Sun, 13 Sep 2026 20:28:00 +0000",
+        "source_url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Trial shows risvutatug rezetecan significantly improves overall survival in relapsed small-cell lung cancer",
+        "summary": "Results from the randomized Phase III ARTEMIS-008 trial show that risvutatug rezetecan (Ris-Rez), a B7-H3-directed antibody-drug conjugate, significantly improved overall survival compared with topotecan in patients with relapsed small-cell lung cancer (SCLC) whose disease progressed on or after platinum-based chemothe",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 12 Sep 2026 21:50:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-trial-risvutatug-rezetecan-significantly-survival.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/lungs-4.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Early blood protein clues could identify children at risk of cardiometabolic disease",
+        "summary": "Researchers at Vanderbilt Health, UTHealth Houston and the University of North Carolina at Chapel Hill have identified early signs of cardiovascular-kidney-metabolic disease (CKMD) in children as young as 8 years old that potentially can be reversed with a new class of weight-loss drugs widely used by adults.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 13 Sep 2026 09:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-early-blood-protein-clues-children.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-bloodtest.jpg",
+        "impact": 4
+      },
       {
         "title": "Investigational EGFR x HER3 therapy supports Phase III dose after lung cancer trial",
         "summary": "An investigational EGFR x HER3 antibody-drug conjugate demonstrated promising efficacy with a tolerable safety profile in patients with previously treated EGFR-mutated non-small cell lung cancer (NSCLC), supporting selection of the 2.5 mg/kg dose for evaluation in the global Phase III IZABRIGHT-Lung01 registrational st",
@@ -148,28 +170,6 @@
         "published_at": "Tue, 08 Sep 2026 06:46:38 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000324.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/precision-targeting-cancer-cells.webp",
-        "impact": 4
-      },
-      {
-        "title": "Perioperative atezolizumab + chemotherapy more than doubles event-free survival in resectable stage II–IIIB NSCLC",
-        "summary": "Patients with resectable stage II–IIIB non-small cell lung cancer (NSCLC) treated with perioperative atezolizumab plus platinum-based chemotherapy experienced a median event-free survival of 62.8 months compared with 34.9 months for patients receiving chemotherapy alone, according to final results from the Phase III IM",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 12 Sep 2026 05:20:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-perioperative-atezolizumab-chemotherapy-event-free.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/lung.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Pumitamig plus elfetabart drozuntecan shows encouraging early activity in small cell lung cancer",
-        "summary": "The investigational combination of pumitamig and elfetabart drozuntecan (elfe-D) demonstrated a manageable safety profile and encouraging early antitumor activity in patients with small cell lung cancer (SCLC), according to first clinical data from the ongoing Phase Ib/II BNT324-01 trial presented at the International ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 12 Sep 2026 05:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-pumitamig-ifinatamab-deruxtecan-early-small.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/lung.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
+        "summary": "SpaceX lofted three of SES's O3b mPOWER communications satellites to orbit today (Sept. 13), on the 700th mission to date for the Falcon rocket family.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 13 Sep 2026 21:41:26 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Y9aohEns8vWiGtVtUkTw4h-1280-80.jpg",
+        "impact": 5
+      },
+      {
+        "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
+        "summary": "On Sept. 13, 2007, Japan launched the Kaguya spacecraft on a mission to the moon. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 13 Sep 2026 17:45:21 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/8DKRuAwboMH888u8Y28REB-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
         "summary": "Rocket Lab has filed a protest against NASA's decision to award Blue Origin a $700 million Mars orbiter contract, saying it's inconsistent with the eligibility rules laid out by Congress.",
         "category": "Space",
@@ -262,28 +284,6 @@
         "published_at": "Fri, 11 Sep 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/mmvLJxd3i8Ptd8Tn34LBw-1280-80.png",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
-        "summary": "On Sept. 10, 2011, NASA's GRAIL spacecraft launched on a mission to the moon! Here's why the moon gravity mapping mission mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 10 Sep 2026 18:01:18 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ateGHUyFH6R4im6QBekrw9-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
-        "summary": "Operations aboard the Katalyst Space LINK satellite continue, despite the spacecraft's inability to complete its mission of boosting the orbit of NASA's Swift Observatory.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 10 Sep 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/WLpTdmw6fbw7neCYmJxsuQ-1280-80.png",
         "impact": 4
       }
     ],
@@ -346,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "Costa Cabral Building / ATA - Atelier Tiago Antero + ENTRETEMPOS",
+        "summary": "The project intents to solve the urban void by constructing a building that takes as reference the heights, alignments and constructive principles of the adjacent structures. As such, the building was designed to sit flush with the street fa&ccedil;ade, in continuity with the dominant morphology of the street, but endi",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 13 Sep 2026 13:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1184924/costa-cabral-building-ata-atelier-tiago-antero-plus-entretempos",
+        "image_url": "https://images.adsttc.com/media/images/6aa1/4f5c/237b/e964/93ed/9bcc/large_jpg/edificio-costa-cabral-ata-atelier-tiago-antero-plus-entretempos_23.jpg?1788956557",
+        "impact": 4
+      },
+      {
         "title": "37 Dwellings in L'Hospitalet de Llobregat / b720 Fermín Vázquez Arquitectos",
         "summary": "A humble \"build to rent\" building of 37 dwellings in L'Hospitalet de Llobregat, located in a peripheral area, in an urban fabric in constant transformation from an industrial to a residential area and with limited economic resources. The design choices were driven by the search for a solution that takes advantage of th",
         "category": "Architecture",
@@ -354,6 +365,17 @@
         "published_at": "Sat, 12 Sep 2026 15:00:00 +0000",
         "source_url": "https://www.archdaily.com/1024569/37-dwellings-in-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos",
         "image_url": "https://images.adsttc.com/media/images/6757/6665/db5c/2001/8806/a88a/large_jpg/37-viviendas-en-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos_3.jpg?1733781234",
+        "impact": 4
+      },
+      {
+        "title": "Red facade \"evoking a hedgehog\" wraps ice hockey arena by Chybik + Kristof",
+        "summary": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybik + Kristof in the Czech Republic. Located in the heart of Jihlava, the 5,650-seat building was designed for a local ice hockey team, but will also serve as a \"cultural and civi",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sun, 13 Sep 2026 05:00:18 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -376,28 +398,6 @@
         "published_at": "Tue, 01 Sep 2026 15:00:19 +0000",
         "source_url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "superstudio’s 12 ideal cities question the price of a perfectly designed life",
-        "summary": "in 1971, superstudio imagined twelve cities where architecture, technology, and urban systems could shape every part of everyday life. The post superstudio&#8217;s 12 ideal cities question the price of a perfectly designed life appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Sat, 12 Sep 2026 20:35:32 +0000",
-        "source_url": "https://www.designboom.com/architecture/superstudio-12-ideal-cities-price-perfectly-designed-life/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/superstudio-12-ideal-cities-price-perfectly-designed-life-designboom-1200.jpg",
-        "impact": 4
-      },
-      {
-        "title": "KOSMOS transforms mallorcan townhouse by giving old materials new roles",
-        "summary": "set on the steep slopes of banyalbufar, the family home turns the practical difficulties of building in a remote village into part of its architecture. The post KOSMOS transforms mallorcan townhouse by giving old materials new roles appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Fri, 11 Sep 2026 09:30:17 +0000",
-        "source_url": "https://www.designboom.com/architecture/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -460,39 +460,6 @@
     ],
     "ai": [
       {
-        "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
-        "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Und",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.10964",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
-        "summary": "arXiv:2609.11115v1 Announce Type: new Abstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a living database and sea",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.11115",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
-        "title": "SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics",
-        "summary": "arXiv:2609.11180v1 Announce Type: new Abstract: Large language model (LLM) coding agents constantly decide whether a version satisfies a constraint such as ^1.2.3 or >=2.0,1.2 means >=1.3.0) traps every model on Cargo (near 60%), and although standard PEP 440 prefix matching is universal, on zero-pad/post-release corne",
-        "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.11180",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
-      },
-      {
         "title": "Architecting memory and storage in the AI era",
         "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
         "category": "AI",
@@ -512,6 +479,39 @@
         "published_at": "Wed, 26 Aug 2026 19:00:00 +0000",
         "source_url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "Now everyone can put data to work",
+        "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 10 Sep 2026 15:00:00 GMT",
+        "source_url": "https://openai.com/index/put-data-to-work",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2UxvYcTeyyfNcGIxHFKW06/82ff8662f3a80f6b7319afb2a25dc6ae/put-data-to-work--seo-v001.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "GPT-6 Astra: The next generation in intelligence for work",
+        "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 09 Sep 2026 11:00:00 GMT",
+        "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1UclxTs0019dGYT78njfV7/564c2815192122bcdcedce7b4ab36e3a/Business_blog_16x9.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "Research acceleration: The view inside OpenAI",
+        "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
+        "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/CKNTAkrFq7W0JOjXP5np2/c26e2323a05dec6bd41f6515c5d6be0f/SEO_Card__11_.png?w=1600&h=900&fit=fill",
         "impact": 4
       }
     ]
