@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-14",
-  "last_updated": "2026-09-14 00:39 UTC",
+  "date": "2026-09-15",
+  "last_updated": "2026-09-15 01:10 UTC",
   "categories": {
     "science": [
       {
-        "title": "Scientists capture two DNA strands zipping together for the first time",
+        "title": "Scientists finally see DNA “zip” itself together for the first time",
         "summary": "Scientists have directly observed how two negatively charged DNA molecules can pair up despite normally repelling each other. Positively charged metal ions appear to bridge the gap, helping matching DNA helices align groove for groove like a molecular zipper. The discovery confirms a theory proposed two decades ago and",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 10 Sep 2026 10:33:06 EDT",
+        "published_at": "Wed, 09 Sep 2026 23:17:17 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/dna-strands-zip-together.webp",
         "impact": 5
@@ -61,6 +61,17 @@
     ],
     "tech": [
       {
+        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 14 Sep 2026 20:07:37 +0000",
+        "source_url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
         "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
         "summary": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
         "category": "Tech",
@@ -94,72 +105,28 @@
         "impact": 4
       },
       {
-        "title": "I spent $4,000 on a robot dog from China",
-        "summary": "Unitree might be the world’s most important robotics company.",
+        "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+        "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Sat, 12 Sep 2026 11:00:53 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-        "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 13 Sep 2026 20:28:00 +0000",
-        "source_url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
+        "published_at": "Mon, 14 Sep 2026 19:38:46 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-2560x1440.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Trial shows risvutatug rezetecan significantly improves overall survival in relapsed small-cell lung cancer",
-        "summary": "Results from the randomized Phase III ARTEMIS-008 trial show that risvutatug rezetecan (Ris-Rez), a B7-H3-directed antibody-drug conjugate, significantly improved overall survival compared with topotecan in patients with relapsed small-cell lung cancer (SCLC) whose disease progressed on or after platinum-based chemothe",
+        "title": "Veterinary tranquilizer medetomidine leaves patients severely sedated and harder to treat for withdrawal",
+        "summary": "A brief research report explored patient experiences with the clinical effects of medetomidine, a veterinary sedative that has increasingly contaminated the illicit fentanyl supply, and its impact on treatment outcomes. Interviews with people exposed to the drug suggest that medetomidine can create medical complication",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 12 Sep 2026 21:50:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-trial-risvutatug-rezetecan-significantly-survival.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/lungs-4.jpg",
+        "published_at": "Mon, 14 Sep 2026 17:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-veterinary-tranquilizer-medetomidine-patients-severely.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/syringes.jpg",
         "impact": 5
-      },
-      {
-        "title": "Early blood protein clues could identify children at risk of cardiometabolic disease",
-        "summary": "Researchers at Vanderbilt Health, UTHealth Houston and the University of North Carolina at Chapel Hill have identified early signs of cardiovascular-kidney-metabolic disease (CKMD) in children as young as 8 years old that potentially can be reversed with a new class of weight-loss drugs widely used by adults.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 13 Sep 2026 09:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-early-blood-protein-clues-children.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-bloodtest.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Investigational EGFR x HER3 therapy supports Phase III dose after lung cancer trial",
-        "summary": "An investigational EGFR x HER3 antibody-drug conjugate demonstrated promising efficacy with a tolerable safety profile in patients with previously treated EGFR-mutated non-small cell lung cancer (NSCLC), supporting selection of the 2.5 mg/kg dose for evaluation in the global Phase III IZABRIGHT-Lung01 registrational st",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 12 Sep 2026 05:20:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-egfr-her3-therapy-phase-iii.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/lung-2.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Local consolidative therapy does not improve survival after dual immunotherapy in metastatic NSCLC",
-        "summary": "Adding local consolidative therapy (LCT) after induction treatment with nivolumab plus ipilimumab did not improve overall survival or progression-free survival in patients with metastatic non-small cell lung cancer (NSCLC), including those with oligometastatic disease, according to results presented at the Internationa",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 12 Sep 2026 05:20:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-local-therapy-survival-dual-immunotherapy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/surgery-1.jpg",
-        "impact": 4
       },
       {
         "title": "Scientists find a new weakness in treatment-resistant prostate cancer",
@@ -170,6 +137,39 @@
         "published_at": "Tue, 08 Sep 2026 06:46:38 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000324.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/precision-targeting-cancer-cells.webp",
+        "impact": 4
+      },
+      {
+        "title": "Study reveals how a blood biomarker tracks response to lecanemab in early Alzheimer's disease",
+        "summary": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by changes involving amyloid-beta and tau proteins in the brain. Lecanemab is an anti-amyloid therapy approved for people with early AD that has been shown to slow disease progression. However, treatment responses can vary among individu",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 14 Sep 2026 18:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-reveals-blood-biomarker-tracks-response.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/korea-university-study-2.jpg",
+        "impact": 4
+      },
+      {
+        "title": "AI tool successfully predicts outcomes of immunotherapy in lung cancer",
+        "summary": "Artificial intelligence (AI) tools can help physicians predict treatment and survival outcomes in patients with advanced non-small cell lung cancer (NSCLC) treated with immunotherapy, according to a new study published in Nature Medicine. The study reported findings from the I3LUNG project, a large international trial ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 14 Sep 2026 16:40:20 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-ai-tool-successfully-outcomes-immunotherapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-tool-successfully-p.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Magnetic pulses reprogram immune cells to fight breast cancer in preclinical models",
+        "summary": "Researchers from the National University of Singapore (NUS) have demonstrated an innovative approach for targeted breast cancer therapy using pulsed electromagnetic fields (PEMFs). The NUS team successfully reprogrammed tumor-associated macrophages (TAMs), a corrupted class of immune cells that typically promote cancer",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 14 Sep 2026 16:00:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-magnetic-pulses-reprogram-immune-cells.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-scientists-harness.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,28 @@
         "impact": 5
       },
       {
+        "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
+        "summary": "A Vega C rocket will launch Europe's FLEX and Copernicus-3C spacecraft to orbit from French Guiana tonight (Sept. 14), and you can watch the action live.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 14 Sep 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/X2XyksjuQ7SpwScsciDwz6-1280-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
+        "summary": "On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 14 Sep 2026 14:55:27 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ArnjPcAha8jdSCcBRXAvjn-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
         "summary": "On Sept. 13, 2007, Japan launched the Kaguya spacecraft on a mission to the moon. Here's why it mattered.",
         "category": "Space",
@@ -262,28 +284,6 @@
         "published_at": "Fri, 11 Sep 2026 22:06:42 +0000",
         "source_url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
         "image_url": "https://cdn.mos.cms.futurecdn.net/mfKob5LzHWiNYikL9MAAgB-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
-        "summary": "Rocket Lab launched an Earth-observation satellite to orbit for a confidential customer on Thursday night (Sept. 10), without providing a livestream or many details about the mission.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 11 Sep 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/kBheuqMF5cYky7WQbB2oyD-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026",
-        "summary": "A dune field on Mars, as seen by the Mars Reconnaissance Orbiter.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 11 Sep 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/mmvLJxd3i8Ptd8Tn34LBw-1280-80.png",
         "impact": 4
       }
     ],
@@ -311,17 +311,6 @@
         "impact": 4
       },
       {
-        "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
-        "summary": "\"When you look up at the night sky, most of those stars have planets.\"",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 09 Sep 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ygJ8QTDZkmgj4JNCzJmWmR-1280-80.jpg",
-        "impact": 4
-      },
-      {
         "title": "Venus Moon Would Have Been Doomed From The Start, Says New Paper",
         "summary": "Venus likely never had a moon and even if it did, it would have soon been torn asunder by the planet’s own gravity, says prominent planetary astrophysicist.",
         "category": "Astronomy",
@@ -342,9 +331,64 @@
         "source_url": "https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe",
         "image_url": "https://www.universetoday.com/article_images/apjae7723f2_hr_20260911_213833.jpg",
         "impact": 4
+      },
+      {
+        "title": "NASA's Next Great Observatory Could Spot Oceans on Distant Worlds",
+        "summary": "We’ve found over 5,500 exoplanets so far. Dozens of them have been in the habitable zone of their parent stars, where, at least in theory, they could host an ocean. But we’ve never definitively found a liquid ocean on another planet. A new paper from researchers Eleanor Cornish and Tyler Robinson of the University of A",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 11 Sep 2026 10:49:44 +0000",
+        "source_url": "https://www.universetoday.com/articles/nasas-next-great-observatory-could-spot-oceans-on-distant-worlds",
+        "image_url": "https://www.universetoday.com/article_images/PIA18432_20260911_104810.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "SAGA Space Architects and 3DCP Group Complete 36-Unit 3D-Printed Student Village in Denmark",
+        "summary": "3DCP Group has completed Skovsporet, a 3D-printed student housing development in Holstebro, Denmark, designed by SAGA Space Architects in collaboration with MS+. Located near VIA University College, the project comprises 36 ground-level apartments distributed across six building clusters, covering a total area of 1,650",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 14 Sep 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1185029/saga-space-architects-and-3dcp-group-complete-36-unit-3d-printed-student-village-in-denmark",
+        "image_url": "https://images.adsttc.com/media/images/6aa7/c9ce/069c/1b01/89fb/72fa/large_jpg/saga-space-architects-and-3dcp-group-complete-36-unit-3d-printed-student-village-in-denmark_5.jpg?1789381124",
+        "impact": 4
+      },
+      {
+        "title": "KEBAG Enova - Waste to Energy Plant / Penzel Valier",
+        "summary": "The spatial form of the building is shaped by two key design principles. First, rather than reinforcing the delivery and process bunkers - comprising both existing and new structures with ribs, extending them vertically, and continuing the new construction in the same manner as originally planned, we sought to avoid th",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 14 Sep 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1183744/kebag-enova-waste-to-energy-plant",
+        "image_url": "https://images.adsttc.com/media/images/6a88/322d/4253/0500/01c9/fe2b/large_jpg/89_260519_BAU_B0004446_web.jpg?1787310660",
+        "impact": 4
+      },
+      {
+        "title": "Assemble to Transform Grade II*-Listed Bromley Hall into a New Creative and Light Industrial Workspace in London",
+        "summary": "London-based art, architecture, and design collective Assemble has recently announced a new workspace project in the English capital. Since its founding in 2010, the studio has built a community around craft and making by providing creative and light industrial spaces resilient to market forces, working as a platform f",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 14 Sep 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1184991/assemble-to-transform-grade-ii-star-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london",
+        "image_url": "https://images.adsttc.com/media/images/6aa5/ea88/c1eb/5301/897f/18a9/large_jpg/assemble-to-transform-grade-ii-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london_6.jpg?1789258401",
+        "impact": 4
+      },
+      {
+        "title": "JH Gwangan Mixed-use building / U.GA Architects",
+        "summary": "Situated in Mangmi-dong, Busan, the site occupies a sharp, acute-angled corner where a dynamic, high-traffic arterial road heading towards Haeundae collides with the quaint charm of an old residential alleyway and antique shops. While this prominent location offers ideal commercial visibility, it simultaneously imposes",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 13 Sep 2026 21:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1184999/jh-gwangan-mixed-use-building-uga-architects",
+        "image_url": "https://images.adsttc.com/media/images/6aa6/ccc1/a74d/1200/0125/df93/large_jpg/LUCY__3_.jpg?1789316326",
+        "impact": 4
+      },
       {
         "title": "Costa Cabral Building / ATA - Atelier Tiago Antero + ENTRETEMPOS",
         "summary": "The project intents to solve the urban void by constructing a building that takes as reference the heights, alignments and constructive principles of the adjacent structures. As such, the building was designed to sit flush with the street fa&ccedil;ade, in continuity with the dominant morphology of the street, but endi",
@@ -354,50 +398,6 @@
         "published_at": "Sun, 13 Sep 2026 13:00:00 +0000",
         "source_url": "https://www.archdaily.com/1184924/costa-cabral-building-ata-atelier-tiago-antero-plus-entretempos",
         "image_url": "https://images.adsttc.com/media/images/6aa1/4f5c/237b/e964/93ed/9bcc/large_jpg/edificio-costa-cabral-ata-atelier-tiago-antero-plus-entretempos_23.jpg?1788956557",
-        "impact": 4
-      },
-      {
-        "title": "37 Dwellings in L'Hospitalet de Llobregat / b720 Fermín Vázquez Arquitectos",
-        "summary": "A humble \"build to rent\" building of 37 dwellings in L'Hospitalet de Llobregat, located in a peripheral area, in an urban fabric in constant transformation from an industrial to a residential area and with limited economic resources. The design choices were driven by the search for a solution that takes advantage of th",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sat, 12 Sep 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1024569/37-dwellings-in-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos",
-        "image_url": "https://images.adsttc.com/media/images/6757/6665/db5c/2001/8806/a88a/large_jpg/37-viviendas-en-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos_3.jpg?1733781234",
-        "impact": 4
-      },
-      {
-        "title": "Red facade \"evoking a hedgehog\" wraps ice hockey arena by Chybik + Kristof",
-        "summary": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybik + Kristof in the Czech Republic. Located in the heart of Jihlava, the 5,650-seat building was designed for a local ice hockey team, but will also serve as a \"cultural and civi",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Sun, 13 Sep 2026 05:00:18 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Our thoughts on the Dyson CameraJet toothbrush",
-        "summary": "Dezeen Weekly returns with a conversation about Dyson's eye-catching new product launch, plus a building in north London that aims to kickstart a revival of stone architecture. In this episode, Dezeen features editor Nat Barker and design editor Jennifer Hahn are joined by editor Tom Ravenscroft to discuss the Dyson Ca",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 11 Sep 2026 09:00:28 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "MVRDV \"prioritises human scale\" in design of colourful Miami building",
-        "summary": "Dutch architecture studio MVRDV has designed the Woma mixed-use building in Miami's Wynwood neighbourhood with a central plaza and a facade broken up into colour-blocked sections. Developed by Uribe Schwarzkopf, a firm behind several recent high-profile Quito buildings, Woma will have 163 residences in Wynwood, a forme",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 01 Sep 2026 15:00:19 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
     ],
@@ -425,94 +425,94 @@
         "impact": 4
       },
       {
-        "title": "Cost spikes hit bevy of construction materials",
-        "summary": "Prices for copper, lumber, switchgear and several derivative metal products posted 10% or more increases year over year since August 2025, said Anirban Basu, chief economist at Associated Builders and Contractors.",
+        "title": "The biggest project decisions occur before construction, says AECOM president",
+        "summary": "Lara Poloni, president at the contractor, talks with Construction Dive about data centers, project risk and construction opportunities.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 11 Sep 2026 10:43:17 -0400",
-        "source_url": "https://www.constructiondive.com/news/cost-spikes-construction-materials-producer-price-index/830165/",
-        "image_url": "https://imgproxy.divecdn.com/F1BW7LzpYLyFzNmIKZJS7zJu8e832cgrzVntJhjVe9s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNTAyMTAxLmpwZw==.webp",
+        "published_at": "Mon, 14 Sep 2026 15:35:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/Aecom-data-center-lara-poloni-president/830157/",
+        "image_url": "https://imgproxy.divecdn.com/hsmIE69Weifv7Yt0-PtHvW5FUixICfZ6ZEOLyCA8EcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUyNDgyMTM2LmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "Rebuilding after 9/11 a ‘Herculean effort,’ AECOM Tishman execs say",
-        "summary": "Twenty-five years after the terrorist attacks, three construction veterans from the firm discussed the gargantuan undertaking of rebuilding, along with the impact of restoring New York City&rsquo;s skyline.",
+        "title": "Labor squeeze prompts revised construction workforce strategies",
+        "summary": "During webinars from ABC and AGC this month, firms talked about ramping up investment in training and workforce development.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 10 Sep 2026 15:49:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/aecom-tishman-rebuild-9-11-world-trade-center-construction/830063/",
-        "image_url": "https://imgproxy.divecdn.com/Y4CFlW213OgN-6Gx7F8ky8CMVah4zmqE_0T12x2MFEE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PbmVfV29ybGRfVHJhZGVfLV9Db2Nvb25fU3lzdGVtLmpwZw==.webp",
+        "published_at": "Mon, 14 Sep 2026 09:03:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/labor-squeeze-revised-construction-workforce-strategies/830219/",
+        "image_url": "https://imgproxy.divecdn.com/m7qh7GcHEfpUjlCU3cZE5lw1oihmKRE41A9w2xhwd0k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc1MjMxNzIyLmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "Analyzing the US data center construction boom",
-        "summary": "Construction Dive explores the top developers, the most active construction locations and the overall data center project pipeline.",
+        "title": "Buildots raises $130M as data center projects surge",
+        "summary": "The startup, which works with contractors including JE Dunn, Mortenson and Turner Construction parent Hochtief, noted that seven-figure, multiyear contracts with clients are now the norm.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 09 Sep 2026 13:49:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/analyzing-us-data-center-construction-boom-developers-pipeline-state/829330/",
-        "image_url": "https://imgproxy.divecdn.com/DMg4bHQG2K1NjvA8QmiUpoqvZgf5MVzoOMkrTsczVZk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMTgxMzAzX0R3MVhIY3cuanBn.webp",
+        "published_at": "Mon, 14 Sep 2026 08:45:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/buildots-raises-130m-data-center-projects-surge/830222/",
+        "image_url": "https://imgproxy.divecdn.com/bk29djJ2ObcQ3RwJz4y5hDJ_DKVKpmCz4iySV8hVRQ8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMxODc0ODUxLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Architecting memory and storage in the AI era",
-        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
+        "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
+        "summary": "arXiv:2609.12105v1 Announce Type: new Abstract: The prevailing assumption in applied machine learning is that progress on consequential quantitative decisions such as pricing risk, allocating capital, triaging patients, or containing a network intrusion will follow from progress in large language models (LLMs). A langu",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 04 Sep 2026 18:39:19 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.12105",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "The inside story on why OpenAI agents hacked Hugging Face",
-        "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confi",
+        "title": "GTA: Graph Theory Agent and Benchmark for Algorithmic Graph Reasoning with LLMs",
+        "summary": "arXiv:2609.12265v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly asked to reason over structured data such as graphs, yet how reliably they can carry out multi-step graph algorithms in language remains unclear. Existing evaluations tend to use simple tasks on small graphs, to score code gen",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 26 Aug 2026 19:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.12265",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Now everyone can put data to work",
-        "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+        "title": "AIM: A Privacy-Aware Interoperable Memory Framework for Multi-Agent Multi-User LLM Systems",
+        "summary": "arXiv:2609.12320v1 Announce Type: new Abstract: Traditional large language models (LLMs) are scoped to individual user sessions, limiting their knowledge to a single conversation and preventing them from learning user preferences that evolve over time. Existing agentic memory systems address this limitation but general",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 10 Sep 2026 15:00:00 GMT",
-        "source_url": "https://openai.com/index/put-data-to-work",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2UxvYcTeyyfNcGIxHFKW06/82ff8662f3a80f6b7319afb2a25dc6ae/put-data-to-work--seo-v001.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.12320",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "GPT-6 Astra: The next generation in intelligence for work",
-        "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+        "title": "SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Consideration",
+        "summary": "arXiv:2609.12413v1 Announce Type: new Abstract: Large language models (LLMs) are rapidly evolving from conversational assistants into agentic AI systems that reason, plan, invoke tools, maintain persistent memory, communicate with other agents, and execute multi-step tasks. At the same time, modern models exhibit subst",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 09 Sep 2026 11:00:00 GMT",
-        "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1UclxTs0019dGYT78njfV7/564c2815192122bcdcedce7b4ab36e3a/Business_blog_16x9.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.12413",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Research acceleration: The view inside OpenAI",
-        "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+        "title": "LifeFuse-Mem: Lifecycle-Aware State Fusion Against Temporary Overwriting for Long-Term Memory",
+        "summary": "arXiv:2609.12436v1 Announce Type: new Abstract: Long-running LLM agents require memory mechanisms that maintain coherent internal states across interactions. We study a lifecycle-labeled memory setting in which write episodes provide lifecycle metadata during training, and phase-aware readout is used during evaluation.",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
-        "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/CKNTAkrFq7W0JOjXP5np2/c26e2323a05dec6bd41f6515c5d6be0f/SEO_Card__11_.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.12436",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
