@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-15",
-  "last_updated": "2026-09-15 01:10 UTC",
+  "date": "2026-09-16",
+  "last_updated": "2026-09-16 01:01 UTC",
   "categories": {
     "science": [
       {
@@ -13,6 +13,17 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/dna-strands-zip-together.webp",
         "impact": 5
+      },
+      {
+        "title": "Scientists discover a major brain shift between ages 50 and 75",
+        "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brai",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 15 Sep 2026 10:28:38 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-signal-processing.webp",
+        "impact": 4
       },
       {
         "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
@@ -46,29 +57,18 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/new-tomb-theban-necropolis.webp",
         "impact": 4
-      },
-      {
-        "title": "Ancient teeth reveal humans were getting high 25,000 years ago",
-        "summary": "Ancient human remains from Sulawesi suggest people were habitually using the psychoactive betel nut as far back as 25,000 years ago. Researchers found both unusual tooth wear and traces of arecoline, the nut’s mind-altering compound, in the teeth of prehistoric hunter-gatherers. The practice may have started partly as ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 10 Sep 2026 03:58:25 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231705.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cpl-2a-skeleton.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-        "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+        "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 14 Sep 2026 20:07:37 +0000",
-        "source_url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
+        "published_at": "Tue, 15 Sep 2026 14:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?resize=1200,675",
         "impact": 4
       },
       {
@@ -83,26 +83,15 @@
         "impact": 4
       },
       {
-        "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli ",
+        "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+        "summary": "Robots can start working outside physical cages and without safety barriers.",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 10 Sep 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-mobile.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "This road map could help us decide whether to deploy solar geoengineering",
-        "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could co",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 10 Sep 2026 11:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/sky-roadmap2a.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 15 Sep 2026 18:33:02 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Agility_Digit5_04-2560x1440.png",
+        "impact": 3
       },
       {
         "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
@@ -114,62 +103,73 @@
         "source_url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-2560x1440.jpg",
         "impact": 3
+      },
+      {
+        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "summary": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 16 Sep 2026 00:20:39 +0000",
+        "source_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Veterinary tranquilizer medetomidine leaves patients severely sedated and harder to treat for withdrawal",
-        "summary": "A brief research report explored patient experiences with the clinical effects of medetomidine, a veterinary sedative that has increasingly contaminated the illicit fentanyl supply, and its impact on treatment outcomes. Interviews with people exposed to the drug suggest that medetomidine can create medical complication",
+        "title": "Experimental drug shows potential for hard-to-treat heart disease",
+        "summary": "An experimental drug has been shown to improve symptoms, exercise capacity and heart failure status in patients with an inherited heart disease, according to a pair of newly published studies.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 14 Sep 2026 17:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-veterinary-tranquilizer-medetomidine-patients-severely.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/syringes.jpg",
-        "impact": 5
+        "published_at": "Tue, 15 Sep 2026 14:20:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-experimental-drug-potential-hard-heart.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-circulation.jpg",
+        "impact": 4
       },
       {
-        "title": "Scientists find a new weakness in treatment-resistant prostate cancer",
-        "summary": "Researchers have found a potential way to attack prostate cancers that evade treatment by changing their cellular identity. Combining two types of drugs reversed many of these changes and sharply slowed tumor growth in preclinical experiments, offering a possible new strategy for aggressive, treatment-resistant disease",
+        "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
+        "summary": "A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness, and mobility problems, while water-based therapy was especially effective for pain and regular exer",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Tue, 08 Sep 2026 06:46:38 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000324.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/precision-targeting-cancer-cells.webp",
+        "published_at": "Mon, 14 Sep 2026 23:57:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/hands-holding-knee-pain-arthritis.webp",
         "impact": 4
       },
       {
-        "title": "Study reveals how a blood biomarker tracks response to lecanemab in early Alzheimer's disease",
-        "summary": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by changes involving amyloid-beta and tau proteins in the brain. Lecanemab is an anti-amyloid therapy approved for people with early AD that has been shown to slow disease progression. However, treatment responses can vary among individu",
+        "title": "First dual-target high-intensity focused ultrasound procedure for people with advanced Parkinson's disease",
+        "summary": "A woman began walking with a more fluid gait, while another patient could suddenly eat using utensils. Both patients, in advanced stages of Parkinson's disease, experienced immediate relief from severe tremor on one side of their body.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 14 Sep 2026 18:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-reveals-blood-biomarker-tracks-response.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/korea-university-study-2.jpg",
+        "published_at": "Tue, 15 Sep 2026 20:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-dual-high-intensity-focused-ultrasound.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-can-focused-ultras.jpg",
         "impact": 4
       },
       {
-        "title": "AI tool successfully predicts outcomes of immunotherapy in lung cancer",
-        "summary": "Artificial intelligence (AI) tools can help physicians predict treatment and survival outcomes in patients with advanced non-small cell lung cancer (NSCLC) treated with immunotherapy, according to a new study published in Nature Medicine. The study reported findings from the I3LUNG project, a large international trial ",
+        "title": "IASLC tumor budding grade identifies high-risk patients with resected lung squamous cell carcinoma",
+        "summary": "A newly proposed International Association for the Study of Lung Cancer (IASLC) tumor budding–based grading system successfully identified patients with resected lung squamous cell carcinoma (SqCC) at higher risk of poor outcomes and showed potential to help guide selection for adjuvant chemotherapy, according to resea",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 14 Sep 2026 16:40:20 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-ai-tool-successfully-outcomes-immunotherapy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-tool-successfully-p.jpg",
+        "published_at": "Tue, 15 Sep 2026 20:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-iaslc-tumor-budding-grade-high.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/lung-cancer.jpg",
         "impact": 4
       },
       {
-        "title": "Magnetic pulses reprogram immune cells to fight breast cancer in preclinical models",
-        "summary": "Researchers from the National University of Singapore (NUS) have demonstrated an innovative approach for targeted breast cancer therapy using pulsed electromagnetic fields (PEMFs). The NUS team successfully reprogrammed tumor-associated macrophages (TAMs), a corrupted class of immune cells that typically promote cancer",
+        "title": "US adults may not understand their risk for vascular disease",
+        "summary": "Despite the high prevalence of vascular disease, few U.S. adults report discussing their vascular health, according to the results of a survey released by the Society for Vascular Surgery.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 14 Sep 2026 16:00:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-magnetic-pulses-reprogram-immune-cells.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-scientists-harness.jpg",
+        "published_at": "Tue, 15 Sep 2026 19:20:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-adults-vascular-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/us-adults-may-not-unde.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
+        "summary": "By making fuel on the Red Planet rather than bringing it from Earth, a Mars mission could save vital mass.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/cNUJh6WPZB3JHY5nSRH6Uh-1280-80.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Invites Media to International Observe the Moon Night",
+        "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space &#38; Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behin",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 15 Sep 2026 18:55:33 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/moreaboutinomn1.jpg",
+        "impact": 5
+      },
+      {
         "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
         "summary": "SpaceX lofted three of SES's O3b mPOWER communications satellites to orbit today (Sept. 13), on the 700th mission to date for the Falcon rocket family.",
         "category": "Space",
@@ -243,47 +265,25 @@
         "impact": 5
       },
       {
-        "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
-        "summary": "A Vega C rocket will launch Europe's FLEX and Copernicus-3C spacecraft to orbit from French Guiana tonight (Sept. 14), and you can watch the action live.",
+        "title": "Celebrate International Observe the Moon Night with NASA",
+        "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA&#8217;s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA&#8217;s God",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 14 Sep 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/X2XyksjuQ7SpwScsciDwz6-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 15 Sep 2026 16:15:12 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/55314049769-13385da00b-k.jpg",
         "impact": 4
       },
       {
-        "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
-        "summary": "On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered.",
+        "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+        "summary": "On Sept. 15, 1968, the Soviet Union launched the Zond 5 spacecraft carrying tortoises and more on a mission to loop around the moon and return to Earth. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Mon, 14 Sep 2026 14:55:27 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ArnjPcAha8jdSCcBRXAvjn-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
-        "summary": "On Sept. 13, 2007, Japan launched the Kaguya spacecraft on a mission to the moon. Here's why it mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 13 Sep 2026 17:45:21 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/8DKRuAwboMH888u8Y28REB-1280-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
-        "summary": "Rocket Lab has filed a protest against NASA's decision to award Blue Origin a $700 million Mars orbiter contract, saying it's inconsistent with the eligibility rules laid out by Congress.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 11 Sep 2026 22:06:42 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/mfKob5LzHWiNYikL9MAAgB-1280-80.jpg",
+        "published_at": "Tue, 15 Sep 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/oYMCJW8ZtGqdMskqZ2GLzG-1280-80.jpg",
         "impact": 4
       }
     ],
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
+        "summary": "By making fuel on the Red Planet rather than bringing it from Earth, a Mars mission could save vital mass.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/cNUJh6WPZB3JHY5nSRH6Uh-1280-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Venus Moon Would Have Been Doomed From The Start, Says New Paper",
         "summary": "Venus likely never had a moon and even if it did, it would have soon been torn asunder by the planet’s own gravity, says prominent planetary astrophysicist.",
         "category": "Astronomy",
@@ -331,77 +342,77 @@
         "source_url": "https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe",
         "image_url": "https://www.universetoday.com/article_images/apjae7723f2_hr_20260911_213833.jpg",
         "impact": 4
-      },
-      {
-        "title": "NASA's Next Great Observatory Could Spot Oceans on Distant Worlds",
-        "summary": "We’ve found over 5,500 exoplanets so far. Dozens of them have been in the habitable zone of their parent stars, where, at least in theory, they could host an ocean. But we’ve never definitively found a liquid ocean on another planet. A new paper from researchers Eleanor Cornish and Tyler Robinson of the University of A",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 11 Sep 2026 10:49:44 +0000",
-        "source_url": "https://www.universetoday.com/articles/nasas-next-great-observatory-could-spot-oceans-on-distant-worlds",
-        "image_url": "https://www.universetoday.com/article_images/PIA18432_20260911_104810.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "SAGA Space Architects and 3DCP Group Complete 36-Unit 3D-Printed Student Village in Denmark",
-        "summary": "3DCP Group has completed Skovsporet, a 3D-printed student housing development in Holstebro, Denmark, designed by SAGA Space Architects in collaboration with MS+. Located near VIA University College, the project comprises 36 ground-level apartments distributed across six building clusters, covering a total area of 1,650",
+        "title": "Brutalist Asia",
+        "summary": "Brutalist Asia is the first major survey of Brutalist architecture across the entire Asian continent. Spanning twenty-eight countries, from Japan to Lebanon, the book combines architectural history, photography and regional scholarship to explore how architects across Asia reinterpreted the architectural language of Br",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 14 Sep 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1185029/saga-space-architects-and-3dcp-group-complete-36-unit-3d-printed-student-village-in-denmark",
-        "image_url": "https://images.adsttc.com/media/images/6aa7/c9ce/069c/1b01/89fb/72fa/large_jpg/saga-space-architects-and-3dcp-group-complete-36-unit-3d-printed-student-village-in-denmark_5.jpg?1789381124",
+        "published_at": "Tue, 15 Sep 2026 09:05:00 +0000",
+        "source_url": "https://www.archdaily.com/1185121/brutalist-asia",
+        "image_url": "https://images.adsttc.com/media/images/6aa9/34bf/a74d/1200/0125/ecfa/large_jpg/Brutalist_Asia_-_Blue_Crow_Media_-_cover_on_white_wide.jpg?1789473994",
         "impact": 4
       },
       {
-        "title": "KEBAG Enova - Waste to Energy Plant / Penzel Valier",
-        "summary": "The spatial form of the building is shaped by two key design principles. First, rather than reinforcing the delivery and process bunkers - comprising both existing and new structures with ribs, extending them vertically, and continuing the new construction in the same manner as originally planned, we sought to avoid th",
+        "title": "Building at Scale: How Long-Span Steel Expands Architectural Possibilities",
+        "summary": "What happens when architecture is asked to create a room without boundaries? Convention halls, stadiums, factories, and logistics centers all begin with the same architectural challenge: creating large, uninterrupted interiors that can accommodate movement, visibility, and changing uses. The larger the span, the greate",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 14 Sep 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1183744/kebag-enova-waste-to-energy-plant",
-        "image_url": "https://images.adsttc.com/media/images/6a88/322d/4253/0500/01c9/fe2b/large_jpg/89_260519_BAU_B0004446_web.jpg?1787310660",
+        "published_at": "Tue, 15 Sep 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1184438/building-at-scale-how-long-span-steel-expands-architectural-possibilities",
+        "image_url": "https://images.adsttc.com/media/images/6a98/4384/e52b/d301/896a/810d/large_jpg/building-at-scale-how-long-span-steel-expands-architectural-possibilities_4.jpg?1788363658",
         "impact": 4
       },
       {
-        "title": "Assemble to Transform Grade II*-Listed Bromley Hall into a New Creative and Light Industrial Workspace in London",
-        "summary": "London-based art, architecture, and design collective Assemble has recently announced a new workspace project in the English capital. Since its founding in 2010, the studio has built a community around craft and making by providing creative and light industrial spaces resilient to market forces, working as a platform f",
+        "title": "Chromatic Architecture authors pick six of the world's best colourful buildings",
+        "summary": "A new book from designer Adam Nathaniel Furman and Dezeen contributor Kate Mazade spotlights the most radical examples of colourful architecture from across history. Here, the authors pick six favourites. Published by RIBA Publishing, Chromatic Architecture explores colour as an intrinsic element of architecture, rathe",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 14 Sep 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1184991/assemble-to-transform-grade-ii-star-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london",
-        "image_url": "https://images.adsttc.com/media/images/6aa5/ea88/c1eb/5301/897f/18a9/large_jpg/assemble-to-transform-grade-ii-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london_6.jpg?1789258401",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 15 Sep 2026 10:00:19 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/15/chromatic-architecture-worlds-best-colourful-buildings/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "JH Gwangan Mixed-use building / U.GA Architects",
-        "summary": "Situated in Mangmi-dong, Busan, the site occupies a sharp, acute-angled corner where a dynamic, high-traffic arterial road heading towards Haeundae collides with the quaint charm of an old residential alleyway and antique shops. While this prominent location offers ideal commercial visibility, it simultaneously imposes",
+        "title": "Red facade \"evoking a hedgehog\" wraps ice hockey arena by Chybík + Krištof",
+        "summary": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybík + Krištof in the Czech Republic. Located in the heart of Jihlava, the 5,650-seat building was designed for a local ice hockey team, but will also serve as a \"cultural and civi",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 13 Sep 2026 21:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1184999/jh-gwangan-mixed-use-building-uga-architects",
-        "image_url": "https://images.adsttc.com/media/images/6aa6/ccc1/a74d/1200/0125/df93/large_jpg/LUCY__3_.jpg?1789316326",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sun, 13 Sep 2026 05:00:18 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "Costa Cabral Building / ATA - Atelier Tiago Antero + ENTRETEMPOS",
-        "summary": "The project intents to solve the urban void by constructing a building that takes as reference the heights, alignments and constructive principles of the adjacent structures. As such, the building was designed to sit flush with the street fa&ccedil;ade, in continuity with the dominant morphology of the street, but endi",
+        "title": "Our thoughts on the Dyson CameraJet toothbrush",
+        "summary": "Dezeen Weekly returns with a conversation about Dyson's eye-catching new product launch, plus a building in north London that aims to kickstart a revival of stone architecture. In this episode, Dezeen features editor Nat Barker and design editor Jennifer Hahn are joined by editor Tom Ravenscroft to discuss the Dyson Ca",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 13 Sep 2026 13:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1184924/costa-cabral-building-ata-atelier-tiago-antero-plus-entretempos",
-        "image_url": "https://images.adsttc.com/media/images/6aa1/4f5c/237b/e964/93ed/9bcc/large_jpg/edificio-costa-cabral-ata-atelier-tiago-antero-plus-entretempos_23.jpg?1788956557",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 11 Sep 2026 09:00:28 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "The biggest project decisions occur before construction, says AECOM president",
+        "summary": "Lara Poloni talks with Construction Dive about how data centers are driving investment in power, water systems and transportation infrastructure.&nbsp;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 14 Sep 2026 15:35:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/Aecom-data-center-lara-poloni-president/830157/",
+        "image_url": "https://imgproxy.divecdn.com/hsmIE69Weifv7Yt0-PtHvW5FUixICfZ6ZEOLyCA8EcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUyNDgyMTM2LmpwZw==.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -425,92 +436,81 @@
         "impact": 4
       },
       {
-        "title": "The biggest project decisions occur before construction, says AECOM president",
-        "summary": "Lara Poloni, president at the contractor, talks with Construction Dive about data centers, project risk and construction opportunities.",
+        "title": "Why early engagement is critical to successful defence construction project delivery",
+        "summary": "As defence spending accelerates following the UK's Strategic Defence Review, project teams face increasing pressure to deliver secure, resilient infrastructure at pace. The post Why early engagement is critical to successful defence construction project delivery appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 14 Sep 2026 15:35:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/Aecom-data-center-lara-poloni-president/830157/",
-        "image_url": "https://imgproxy.divecdn.com/hsmIE69Weifv7Yt0-PtHvW5FUixICfZ6ZEOLyCA8EcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUyNDgyMTM2LmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 15 Sep 2026 05:30:44 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/why-early-engagement-is-critical-to-successful-defence-construction-project-delivery-15-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/MOD-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "Labor squeeze prompts revised construction workforce strategies",
-        "summary": "During webinars from ABC and AGC this month, firms talked about ramping up investment in training and workforce development.",
+        "title": "Why 2 infrastructure P3s have been turning contractors’ heads",
+        "summary": "Toll lane concession projects in Tennessee and Georgia illustrate how contractors can tap a multidecade revenue stream, an infrastructure consultant says.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 14 Sep 2026 09:03:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/labor-squeeze-revised-construction-workforce-strategies/830219/",
-        "image_url": "https://imgproxy.divecdn.com/m7qh7GcHEfpUjlCU3cZE5lw1oihmKRE41A9w2xhwd0k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc1MjMxNzIyLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Buildots raises $130M as data center projects surge",
-        "summary": "The startup, which works with contractors including JE Dunn, Mortenson and Turner Construction parent Hochtief, noted that seven-figure, multiyear contracts with clients are now the norm.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 14 Sep 2026 08:45:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/buildots-raises-130m-data-center-projects-surge/830222/",
-        "image_url": "https://imgproxy.divecdn.com/bk29djJ2ObcQ3RwJz4y5hDJ_DKVKpmCz4iySV8hVRQ8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMxODc0ODUxLmpwZw==.webp",
+        "published_at": "Tue, 15 Sep 2026 13:31:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/infrastructure-ppp-georgia-tennessee-contractors-heads/830425/",
+        "image_url": "https://imgproxy.divecdn.com/3Jvn2A_qDTdp_B5A0C_AzSz_Z0kn0LsaFl5VNQ6lDL0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JLTI0X19JLTQwX0ludGVyY2hhbmdlLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
-        "summary": "arXiv:2609.12105v1 Announce Type: new Abstract: The prevailing assumption in applied machine learning is that progress on consequential quantitative decisions such as pricing risk, allocating capital, triaging patients, or containing a network intrusion will follow from progress in large language models (LLMs). A langu",
+        "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
+        "summary": "arXiv:2609.13731v1 Announce Type: new Abstract: The transition from passive foundation models to autonomous, goal-directed agentic AI systems has introduced unprecedented capabilities by coupling recursive cognitive reasoning loops, persistent memory architectures, live tool execution planes, and multi-agent collaborat",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.12105",
+        "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.13731",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "GTA: Graph Theory Agent and Benchmark for Algorithmic Graph Reasoning with LLMs",
-        "summary": "arXiv:2609.12265v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly asked to reason over structured data such as graphs, yet how reliably they can carry out multi-step graph algorithms in language remains unclear. Existing evaluations tend to use simple tasks on small graphs, to score code gen",
+        "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+        "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluation. A separately-in",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.12265",
+        "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.13422",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AIM: A Privacy-Aware Interoperable Memory Framework for Multi-Agent Multi-User LLM Systems",
-        "summary": "arXiv:2609.12320v1 Announce Type: new Abstract: Traditional large language models (LLMs) are scoped to individual user sessions, limiting their knowledge to a single conversation and preventing them from learning user preferences that evolve over time. Existing agentic memory systems address this limitation but general",
+        "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+        "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as t",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.12320",
+        "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.13436",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Consideration",
-        "summary": "arXiv:2609.12413v1 Announce Type: new Abstract: Large language models (LLMs) are rapidly evolving from conversational assistants into agentic AI systems that reason, plan, invoke tools, maintain persistent memory, communicate with other agents, and execute multi-step tasks. At the same time, modern models exhibit subst",
+        "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+        "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals into actionable interventions. The sheer scale of the data renders human",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.12413",
+        "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.13463",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "LifeFuse-Mem: Lifecycle-Aware State Fusion Against Temporary Overwriting for Long-Term Memory",
-        "summary": "arXiv:2609.12436v1 Announce Type: new Abstract: Long-running LLM agents require memory mechanisms that maintain coherent internal states across interactions. We study a lifecycle-labeled memory setting in which write episodes provide lifecycle metadata during training, and phase-aware readout is used during evaluation.",
+        "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+        "summary": "arXiv:2609.13470v1 Announce Type: new Abstract: Although large language models (LLMs) have demonstrated remarkable capabilities, their reliance on cloud-scale infrastructure poses fundamental challenges for deployment in agentic pipelines, including latency, privacy, connectivity, and substantial computational cost. Sm",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.12436",
+        "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.13470",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
