@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-17",
-  "last_updated": "2026-09-17 01:04 UTC",
+  "date": "2026-09-18",
+  "last_updated": "2026-09-18 00:59 UTC",
   "categories": {
     "science": [
       {
@@ -48,29 +48,18 @@
         "impact": 4
       },
       {
-        "title": "Long-term oyster reef restoration shows clear success in murky waters",
-        "summary": "Large-scale oyster reef restoration in the Chesapeake Bay is successfully creating three-dimensional habitats that support larger, more diverse fish communities, according to new research from scientists at the University of Maryland, Baltimore County (UMBC), the Smithsonian Environmental Research Center and the Nation",
+        "title": "From toothbrushes to aerospace: Graphene research advances fibers that conduct heat efficiently",
+        "summary": "KAIST's discovery of graphene oxide liquid crystals in 2011 laid the foundation for 15 years of research worldwide, leading to technologies for producing graphene fibers with high strength and thermal conductivity. The fundamental materials research that helped bring antibacterial toothbrushes and functional sportswear",
         "category": "Science",
         "source": "phys.org",
         "journal": "phys.org",
-        "published_at": "Wed, 16 Sep 2026 19:50:01 EDT",
-        "source_url": "https://phys.org/news/2026-09-term-oyster-reef-success-murky.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-oyster-reef.jpg",
+        "published_at": "Thu, 17 Sep 2026 20:40:01 EDT",
+        "source_url": "https://phys.org/news/2026-09-toothbrushes-aerospace-graphene-advances-fibers.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-technology-behin.jpg",
         "impact": 4
       }
     ],
     "tech": [
-      {
-        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-        "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 16 Sep 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-        "impact": 4
-      },
       {
         "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
         "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
@@ -94,50 +83,50 @@
         "impact": 3
       },
       {
-        "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
-        "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+        "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+        "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 16 Sep 2026 23:43:09 +0000",
-        "source_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-812005316.jpg?w=1024",
+        "published_at": "Thu, 17 Sep 2026 23:08:24 +0000",
+        "source_url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
         "impact": 3
       },
       {
-        "title": "Your AI agents can now control your Google Home devices",
-        "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 16 Sep 2026 17:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755",
+        "published_at": "Thu, 17 Sep 2026 22:14:59 +0000",
+        "source_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
+        "impact": 3
+      },
+      {
+        "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+        "summary": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 17 Sep 2026 18:30:30 +0000",
+        "source_url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Study: AI-powered app lowers high blood pressure when part of care plan",
-        "summary": "Incorporating a free smartphone app featuring AI-driven health coaching, blood pressure monitoring and behavioral incentives into a hospital's existing clinical workflows helps patients make meaningful reductions in blood pressure, findings that suggest digital apps may offer an effective means of extending care beyond",
+        "title": "New mesothelioma drug turns cancer’s own defenses against it",
+        "summary": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it c",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 16 Sep 2026 15:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-ai-powered-app-lowers-high.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-ai-powered-app-l.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Minibeam radiotherapy studied in patients with difficult-to-treat cancers",
-        "summary": "Mayo Clinic researchers report encouraging results using a new radiation technique called minibeam radiotherapy to treat patients with treatment-resistant cancers in or near the skin. The technique delivers very high doses of radiation through closely spaced, extremely narrow beams while limiting radiation exposure to ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 16 Sep 2026 14:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-minibeam-radiotherapy-patients-difficult-cancers.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/minibeam-radiotherapy.jpg",
-        "impact": 4
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 17 Sep 2026 01:11:51 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/lung-cancer-tumor-anatomy.webp",
+        "impact": 5
       },
       {
         "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
@@ -151,25 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Simple urine test could guide kidney-protective treatment choices in type 2 diabetes",
-        "summary": "Type 2 diabetes increases the risk of chronic kidney disease, making prevention of kidney failure a key part of treatment. Newer diabetes medications, including GLP-1s and SGLT2 inhibitors, can reduce the risk of kidney disease, but previous studies have included large proportions of patients who already had signs of k",
+        "title": "HIV injections work better than tablets for young people, clinical trial finds",
+        "summary": "Young people living with HIV manage their condition better when their antiretroviral therapy is given by injections every eight weeks rather than daily tablets, according to results of a trial in Africa led by UCL (University College London) researchers.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 16 Sep 2026 18:30:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-simple-urine-kidney-treatment-choices.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/urine-test.jpg",
+        "published_at": "Thu, 17 Sep 2026 18:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-hiv-tablets-young-people-clinical.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/injections.jpg",
         "impact": 4
       },
       {
-        "title": "Early changes in the tumor environment may explain why immunotherapy works for some patients but not others",
-        "summary": "Two patients receive the same immunotherapy for the same cancer. In one, the tumor retreats and stays gone for years. In the other, the treatment does nothing. Oncologists still have no reliable way to tell these patients apart before therapy begins. Why does immunotherapy succeed for some and fail for others?",
+        "title": "Review finds inconsistent 'neurodivergence' language may complicate research and patient care",
+        "summary": "Researchers are warning that inconsistent use of the terms \"neurodiversity\" and \"neurodivergence\" in mental health research could obscure important differences between diagnoses and make findings harder to interpret. They also say using the terms without further specification could encourage \"one-size-fits-all\" approac",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 16 Sep 2026 18:20:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-early-tumor-environment-immunotherapy-patients.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-some-cancer-patien.jpg",
+        "published_at": "Thu, 17 Sep 2026 15:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-inconsistent-neurodivergence-language-complicate-patient.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/neurodiversity.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Teaching the immune system to control HIV",
+        "summary": "There is no cure for HIV. While scientists have made considerable progress in controlling the infection, patients still must take daily antiretroviral medication for the rest of their lives. Results from a clinical trial led by Rockefeller, Imperial College London, and the University of Oxford (RIO) have offered a new ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 17 Sep 2026 15:00:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-immune-hiv.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hiv-4.jpg",
         "impact": 4
       }
     ],
@@ -232,37 +232,26 @@
     ],
     "space": [
       {
-        "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
-        "summary": "By making fuel on the Red Planet rather than bringing it from Earth, a Mars mission could save vital mass.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/cNUJh6WPZB3JHY5nSRH6Uh-1280-80.jpg",
-        "impact": 5
-      },
-      {
-        "title": "NASA’s Integrated Medical Model (IMM)",
-        "summary": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiation, microgravity, and distance from Earth create unique health considerations for astronauts. To anticipate these needs ahead of time, NASA developed the Integrated Medica",
+        "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+        "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no ea",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 16 Sep 2026 14:50:23 +0000",
-        "source_url": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/",
-        "image_url": "https://images-assets.nasa.gov/image/iss075e0088825/iss075e0088825~large.jpg",
+        "published_at": "Thu, 17 Sep 2026 18:32:30 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spacex35.jpg",
         "impact": 5
       },
       {
-        "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
-        "summary": "SpaceX lofted three of SES's O3b mPOWER communications satellites to orbit today (Sept. 13), on the 700th mission to date for the Falcon rocket family.",
+        "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+        "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 13 Sep 2026 21:41:26 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Y9aohEns8vWiGtVtUkTw4h-1280-80.jpg",
-        "impact": 5
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 17 Sep 2026 20:37:09 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "impact": 4
       },
       {
         "title": "Passion Meets Precision at NASA’s Flight Research Lab",
@@ -276,40 +265,29 @@
         "impact": 4
       },
       {
-        "title": "Roman Space Telescope starts waking up as NASA powers on instruments for the 1st time",
-        "summary": "NASA has begun flipping on the instruments aboard the Roman Space Telescope to prepare the observatory for its scientific mission as it travels nearly a million miles to its final destination in orbit.",
+        "title": "NASA Unveils Enterprise, the First Space Shuttle",
+        "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 16 Sep 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/roman-space-telescope-starts-waking-up-as-nasa-powers-on-instruments-for-the-1st-time",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3ezNDd6niGyc53LaT4m9iB-1280-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 17 Sep 2026 15:22:42 +0000",
+        "source_url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+        "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Wed, 16 Sep 2026 18:06:35 +0000",
+        "source_url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/lro/McGetchin_Discovery_Reenactment.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "impact": 4
       }
     ],
     "astronomy": [
-      {
-        "title": "How Big Can The Universe's First Starbursts Get?",
-        "summary": "As our telescopes have improved and we’ve been able to peer farther back in time, we’ve begun finding more fascinating features of the universe. But one thing we definitely haven’t found yet is Population III (Pop III) stars. These were the earliest stars in the universe, formed completely from pristine hydrogen and he",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 11 Sep 2026 14:19:27 +0000",
-        "source_url": "https://www.universetoday.com/articles/how-big-can-the-universes-first-starbursts-get",
-        "image_url": "https://www.universetoday.com/article_images/Massive_Population_III_Star_in_the_Early_Universe_1_20260911_141558.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
-        "summary": "By making fuel on the Red Planet rather than bringing it from Earth, a Mars mission could save vital mass.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/cNUJh6WPZB3JHY5nSRH6Uh-1280-80.jpg",
-        "impact": 4
-      },
       {
         "title": "When Stars Engulf Rocky Planets, Beryllium Gives It Away",
         "summary": "Astronomers know that stars can engulf planets when they stray too close. But how can they know, by looking at a star, if it has ever done so? The answer lies in Beryllium, an element not synthesized inside stars.",
@@ -333,15 +311,37 @@
         "impact": 4
       },
       {
-        "title": "Venus Moon Would Have Been Doomed From The Start, Says New Paper",
-        "summary": "Venus likely never had a moon and even if it did, it would have soon been torn asunder by the planet’s own gravity, says prominent planetary astrophysicist.",
+        "title": "Researchers Develop a Way to Check the Weather on a Exoplanet",
+        "summary": "Scientists from Trinity have developed a powerful way to unravel the changing weather patterns on distant worlds. Using this approach, they discovered that the weather on a well-studied brown dwarf, “SIMP 0136”, previously linked with Northern Lights-like phenomena, is largely shaped by just two dominant processes: cha",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Sat, 12 Sep 2026 01:45:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/venus-moon-would-have-been-doomed-from-the-start-says-new-paper",
-        "image_url": "https://www.universetoday.com/article_images/Venus_-_December_23_2016_2_20260912_014746.png",
-        "impact": 4
+        "published_at": "Thu, 17 Sep 2026 23:18:54 +0000",
+        "source_url": "https://www.universetoday.com/articles/researchers-develop-a-way-to-check-the-weather-on-a-exoplanet",
+        "image_url": "https://www.universetoday.com/article_images/SIMP-0136-Still-RS-800X582_20260917_230300.jpg",
+        "impact": 3
+      },
+      {
+        "title": "A Zombie White Dwarf Star is Born Again. Hallelujah!",
+        "summary": "30 years ago, an amateur astronomer noticed a white dwarf star suddenly getting brighter. New research shows this is due to a Very Late Thermal Pulse, a type of helium flash. The star has heated up and become brighter, and is now called a 'born again' star. It's evolved into a Wolf-Rayet type star, and astronomers will",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 17 Sep 2026 19:11:55 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-zombie-white-dwarf-star-is-born-again-hallelujah",
+        "image_url": "https://www.universetoday.com/article_images/sakurai_20260917_185121.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The Sun May Have Swallowed a Planet",
+        "summary": "New research suggests that some unusual characteristics of the Sun may be explained if it swallowed a large planet sometime during the Solar System’s formation.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 17 Sep 2026 01:31:18 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-sun-may-have-swallowed-a-planet",
+        "image_url": "https://www.universetoday.com/article_images/star_swallowing_a_planet_20260917_011652.png",
+        "impact": 3
       }
     ],
     "architecture": [
@@ -355,6 +355,17 @@
         "source_url": "https://www.archdaily.com/1185206/brazil-in-focus-this-month-in-architecture-landscape-and-collective-practice",
         "image_url": "https://images.adsttc.com/media/images/6aaa/6b77/4f64/5201/8803/13a3/large_jpg/brazil-in-focus-this-month-in-architecture-landscape-and-collective-practice_4.jpg?1789553537",
         "impact": 5
+      },
+      {
+        "title": "Micro-regeneration on Ouyang Road / Scenic Architecture Office",
+        "summary": "This district-wide renewal was coordinated comprehensively by the Ouyang Road Sub-district Office. Shanghai Municipal Engineering Design Institute (Group) Co., Ltd. (SMEDI) led the overall territorial planning and EPC (Engineering, Procurement, and Construction) general contracting, with dedicated cultural and commerci",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 17 Sep 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1185088/micro-regeneration-on-ouyang-road-scenic-architecture-office",
+        "image_url": "https://images.adsttc.com/media/images/6aa8/55d2/069c/1b01/89fb/772a/large_jpg/micro-regeneration-on-ouyang-road-scenic-architecture-office_3.jpg?1789417021",
+        "impact": 4
       },
       {
         "title": "Arquitectonica designs world's largest cruise terminal to \"mirror directionality\" of ships",
@@ -388,17 +399,6 @@
         "source_url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
-      },
-      {
-        "title": "Our thoughts on the Dyson CameraJet toothbrush",
-        "summary": "Dezeen Weekly returns with a conversation about Dyson's eye-catching new product launch, plus a building in north London that aims to kickstart a revival of stone architecture. In this episode, Dezeen features editor Nat Barker and design editor Jennifer Hahn are joined by editor Tom Ravenscroft to discuss the Dyson Ca",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 11 Sep 2026 09:00:28 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
       }
     ],
     "construction": [
@@ -425,6 +425,17 @@
         "impact": 4
       },
       {
+        "title": "Winners: Inspiring Women in Construction and Engineering Awards 2026",
+        "summary": "The winners of this year’s Inspiring Women in Construction and Engineering Awards (IWCEA) were announced last night (16 September). The post Winners: Inspiring Women in Construction and Engineering Awards 2026 appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 17 Sep 2026 12:02:35 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/winners-inspiring-women-in-construction-and-engineering-awards-2026-17-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/IWCEA-560x315.jpg",
+        "impact": 4
+      },
+      {
         "title": "Full list of construction and engineering firms named for Universal resort development",
         "summary": "Universal has published the first list of contractors and consultants appointed to help deliver its planned resort near Bedford as enabling works for the multi-billion pound amusement park have begun The post Full list of construction and engineering firms named for Universal resort development appeared first on New Ci",
         "category": "Construction",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/mass-timber-ohio-state-student-housing-tops-out/830601/",
         "image_url": "https://imgproxy.divecdn.com/r78Jl1fE_EnKgh_fZCsoCSzYt92dB8z3E80jZ536qdI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTlRST19Db2x1bWJ1c190b3BwaW5nX291dDAyX0luZmluaXRlX0ltcGFjdC5qcGc=.webp",
         "impact": 3
-      },
-      {
-        "title": "Fed raises rates but construction has a bigger problem",
-        "summary": "Higher rates could force owners to delay or outright abandon projects, said Michael Guckes, chief economist at ConstructConnect, a commercial construction data provider.&nbsp;",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 16 Sep 2026 14:07:44 -0400",
-        "source_url": "https://www.constructiondive.com/news/fed-raises-rates-construction-inflation-september-2026/830559/",
-        "image_url": "https://imgproxy.divecdn.com/ky7OPK163Iqk9LNAIyYftJCTnwkISe2LDyRPJKnXLE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg4MTg3ODQ4LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
-        "summary": "arXiv:2609.13731v1 Announce Type: new Abstract: The transition from passive foundation models to autonomous, goal-directed agentic AI systems has introduced unprecedented capabilities by coupling recursive cognitive reasoning loops, persistent memory architectures, live tool execution planes, and multi-agent collaborat",
+        "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+        "summary": "arXiv:2609.17695v1 Announce Type: new Abstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence. GraphEcho tests whether agents mistake these repeated encounters for additional corroboration. The benchmark varies path counts and evidential origins while holding",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.13731",
+        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.17695",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-        "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluation. A separately-in",
+        "title": "When to Call an LLM: A Confidence-Gated Hybrid for Cost-Effective Emotion Recognition in Conversational AI",
+        "summary": "arXiv:2609.17977v1 Announce Type: new Abstract: Emotion recognition in conversation (ERC) is a production capability behind agent-assist prompts, escalation routing, and post-call analytics in contact-center-as-a-service (CCaaS) platforms, where cost and latency constraints matter as much as accuracy. We report a syste",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.13422",
+        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.17977",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
-        "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as t",
+        "title": "TuiML: Machine Learning for AI Agents",
+        "summary": "arXiv:2609.17984v1 Announce Type: new Abstract: Machine-learning libraries such as Weka and scikit-learn were designed for human programmers. Language-model agents now use these same libraries by recalling APIs from memory and writing code, an approach that hides what a library offers, delays errors until runtime, and ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.13436",
+        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.17984",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-        "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals into actionable interventions. The sheer scale of the data renders human",
+        "title": "AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines",
+        "summary": "arXiv:2609.18123v1 Announce Type: new Abstract: Large language model agents tune GPU kernels and serving engines through a closed loop of propose, measure, and keep, but the measurements behind this loop are not trustworthy. We characterize four failure modes from a four-day pilot corpus of 619 model calls: strawman ba",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.13463",
+        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.18123",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
-        "summary": "arXiv:2609.13470v1 Announce Type: new Abstract: Although large language models (LLMs) have demonstrated remarkable capabilities, their reliance on cloud-scale infrastructure poses fundamental challenges for deployment in agentic pipelines, including latency, privacy, connectivity, and substantial computational cost. Sm",
+        "title": "Symbolic Temporal Supervision of LLM Agents Using Contracts",
+        "summary": "arXiv:2609.18128v1 Announce Type: new Abstract: Large language model (LLM) agents augmented by tools can automate complex, multi-step tasks, such as web navigation, code generation, and workflow orchestration, by acting on external systems through tool calls. However, hallucinations, distributional instability, and adv",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.13470",
+        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.18128",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
