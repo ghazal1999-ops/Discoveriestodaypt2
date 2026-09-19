@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18",
-  "last_updated": "2026-09-18 00:59 UTC",
+  "date": "2026-09-19",
+  "last_updated": "2026-09-19 00:56 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "New Findings Could Help Build Computers That Think More Like Your Brain",
+        "summary": "Scientists have filmed a crystal of tiny magnetic vortices melting and reshaping in real time, a breakthrough that could bring ultra-efficient computers closer to reality. A crystal does not have to be made of atoms. In ultrathin magnetic materials, tiny whirlpools of magnetism known as skyrmions can arrange themselves",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 18 Sep 2026 18:29:57 +0000",
+        "source_url": "https://scitechdaily.com/new-findings-could-help-build-computers-that-think-more-like-your-brain/",
+        "image_url": "https://scitechdaily.com/images/Digital-Brain-Computer-777x518.jpg",
+        "impact": 5
+      },
+      {
         "title": "Scientists discover a major brain shift between ages 50 and 75",
         "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brai",
         "category": "Science",
@@ -46,73 +57,62 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-puzzle-alzheimers-dementia.webp",
         "impact": 4
-      },
-      {
-        "title": "From toothbrushes to aerospace: Graphene research advances fibers that conduct heat efficiently",
-        "summary": "KAIST's discovery of graphene oxide liquid crystals in 2011 laid the foundation for 15 years of research worldwide, leading to technologies for producing graphene fibers with high strength and thermal conductivity. The fundamental materials research that helped bring antibacterial toothbrushes and functional sportswear",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 17 Sep 2026 20:40:01 EDT",
-        "source_url": "https://phys.org/news/2026-09-toothbrushes-aerospace-graphene-advances-fibers.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-technology-behin.jpg",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-        "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 16 Sep 2026 22:02:46 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-2560x1440.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-        "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 16 Sep 2026 20:23:16 +0000",
-        "source_url": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/steam.jpeg",
-        "impact": 3
-      },
-      {
-        "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-        "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 17 Sep 2026 23:08:24 +0000",
-        "source_url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
+        "published_at": "Fri, 18 Sep 2026 18:49:30 +0000",
+        "source_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
         "impact": 3
       },
       {
-        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-        "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+        "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 17 Sep 2026 22:14:59 +0000",
-        "source_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
+        "published_at": "Fri, 18 Sep 2026 17:59:53 +0000",
+        "source_url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
         "impact": 3
       },
       {
-        "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
-        "summary": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+        "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+        "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 17 Sep 2026 18:30:30 +0000",
-        "source_url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
+        "published_at": "Fri, 18 Sep 2026 17:26:41 +0000",
+        "source_url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
+        "impact": 3
+      },
+      {
+        "title": "Disney’s first CTO is Character.AI’s former CEO",
+        "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recen",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-18T14:27:04-04:00",
+        "source_url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+        "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 18 Sep 2026 16:00:00 +0000",
+        "source_url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "image_url": "https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg",
         "impact": 3
       }
     ],
@@ -140,36 +140,36 @@
         "impact": 4
       },
       {
-        "title": "HIV injections work better than tablets for young people, clinical trial finds",
-        "summary": "Young people living with HIV manage their condition better when their antiretroviral therapy is given by injections every eight weeks rather than daily tablets, according to results of a trial in Africa led by UCL (University College London) researchers.",
+        "title": "Screening method identifies leukemia drug candidates from more than 4 million compounds",
+        "summary": "A cancer cell behaves differently from a healthy cell, with unique features that enable rapid growth and bypass quality controls. Rice University's Natasha Kirienko is interested in finding these unique features and exploiting them to advance cancer treatments. In a paper recently published in the journal Leukemia, her",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 17 Sep 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-hiv-tablets-young-people-clinical.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/injections.jpg",
+        "published_at": "Fri, 18 Sep 2026 13:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-screening-method-leukemia-drug-candidates.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-identifies.jpg",
         "impact": 4
       },
       {
-        "title": "Review finds inconsistent 'neurodivergence' language may complicate research and patient care",
-        "summary": "Researchers are warning that inconsistent use of the terms \"neurodiversity\" and \"neurodivergence\" in mental health research could obscure important differences between diagnoses and make findings harder to interpret. They also say using the terms without further specification could encourage \"one-size-fits-all\" approac",
+        "title": "New sepsis guidelines seek to reduce infection's deadly toll",
+        "summary": "A UVA Health doctor and other leading national experts have developed new guidelines to improve care for patients who develop sepsis, a dangerous full-body infection that kills at least 350,000 Americans every year.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 17 Sep 2026 15:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-inconsistent-neurodivergence-language-complicate-patient.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/neurodiversity.jpg",
+        "published_at": "Fri, 18 Sep 2026 09:40:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-sepsis-guidelines-infection-deadly-toll.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-sepsis-guidelines.jpg",
         "impact": 4
       },
       {
-        "title": "Teaching the immune system to control HIV",
-        "summary": "There is no cure for HIV. While scientists have made considerable progress in controlling the infection, patients still must take daily antiretroviral medication for the rest of their lives. Results from a clinical trial led by Rockefeller, Imperial College London, and the University of Oxford (RIO) have offered a new ",
+        "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
+        "summary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 17 Sep 2026 15:00:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-immune-hiv.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hiv-4.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 18 Sep 2026 05:48:31 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/glowing-human-brain-signals.webp",
         "impact": 4
       }
     ],
@@ -208,6 +208,17 @@
         "impact": 4
       },
       {
+        "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+        "summary": "The proof of a decades-old conjecture has given researchers a new way to understand complex networks. The post Mathematicians Build Long-Awaited Graph Sandwich first appeared on Quanta Magazine",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Fri, 18 Sep 2026 13:55:50 +0000",
+        "source_url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/GraphSandwiches-crKristinaArmitage-Social.jpg",
+        "impact": 3
+      },
+      {
         "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
         "summary": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy. The post AI Has Solved One of Math’s $1 Million Millennium Prize Problems first appeared on Quanta Magazine",
         "category": "Mathematics",
@@ -217,76 +228,9 @@
         "source_url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
         "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Social.jpg",
         "impact": 3
-      },
-      {
-        "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
-        "summary": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What Is Math For in the Age of AI? first appeared on Quanta Magazin",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Thu, 03 Sep 2026 13:41:48 +0000",
-        "source_url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg",
-        "impact": 3
       }
     ],
-    "space": [
-      {
-        "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-        "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no ea",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 17 Sep 2026 18:32:30 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spacex35.jpg",
-        "impact": 5
-      },
-      {
-        "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-        "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 17 Sep 2026 20:37:09 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Passion Meets Precision at NASA’s Flight Research Lab",
-        "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight R",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 16 Sep 2026 21:06:08 +0000",
-        "source_url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
-        "image_url": "https://images-assets.nasa.gov/image/AFRC2026-0179-08/AFRC2026-0179-08~large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Unveils Enterprise, the First Space Shuttle",
-        "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 17 Sep 2026 15:22:42 +0000",
-        "source_url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-        "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Wed, 16 Sep 2026 18:06:35 +0000",
-        "source_url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/lro/McGetchin_Discovery_Reenactment.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "impact": 4
-      }
-    ],
+    "space": [],
     "astronomy": [
       {
         "title": "When Stars Engulf Rocky Planets, Beryllium Gives It Away",
@@ -311,6 +255,28 @@
         "impact": 4
       },
       {
+        "title": "The Red Planet Has a Purple Side",
+        "summary": "Mars appears red because of iron oxides in the regolith. But it's not uniformly red. Different lighting conditions and different materials accumulated on the surface can make it appear purple, as in these images from Mars Express and its High-Resolution Stereo Camera.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 18 Sep 2026 19:16:32 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-red-planet-has-a-purple-side",
+        "image_url": "https://www.universetoday.com/article_images/A_view_from_above_a_glacier_near_Thyles_Rupes_pillars_20260917_192651.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Astronomy’s Decades-Long Quest To Understand Cosmic Topology",
+        "summary": "Cosmic topology is as esoteric as cosmology can get. But a growing number of astrophysicists think it holds keys to understanding the universe on its largest scales.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 18 Sep 2026 07:47:32 +0000",
+        "source_url": "https://www.universetoday.com/articles/astronomys-decades-long-quest-to-understand-cosmic-topology",
+        "image_url": "https://www.universetoday.com/article_images/IMG_8748_20260113_123911.png",
+        "impact": 3
+      },
+      {
         "title": "Researchers Develop a Way to Check the Weather on a Exoplanet",
         "summary": "Scientists from Trinity have developed a powerful way to unravel the changing weather patterns on distant worlds. Using this approach, they discovered that the weather on a well-studied brown dwarf, “SIMP 0136”, previously linked with Northern Lights-like phenomena, is largely shaped by just two dominant processes: cha",
         "category": "Astronomy",
@@ -320,84 +286,62 @@
         "source_url": "https://www.universetoday.com/articles/researchers-develop-a-way-to-check-the-weather-on-a-exoplanet",
         "image_url": "https://www.universetoday.com/article_images/SIMP-0136-Still-RS-800X582_20260917_230300.jpg",
         "impact": 3
-      },
-      {
-        "title": "A Zombie White Dwarf Star is Born Again. Hallelujah!",
-        "summary": "30 years ago, an amateur astronomer noticed a white dwarf star suddenly getting brighter. New research shows this is due to a Very Late Thermal Pulse, a type of helium flash. The star has heated up and become brighter, and is now called a 'born again' star. It's evolved into a Wolf-Rayet type star, and astronomers will",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 17 Sep 2026 19:11:55 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-zombie-white-dwarf-star-is-born-again-hallelujah",
-        "image_url": "https://www.universetoday.com/article_images/sakurai_20260917_185121.jpg",
-        "impact": 3
-      },
-      {
-        "title": "The Sun May Have Swallowed a Planet",
-        "summary": "New research suggests that some unusual characteristics of the Sun may be explained if it swallowed a large planet sometime during the Solar System’s formation.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 17 Sep 2026 01:31:18 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-sun-may-have-swallowed-a-planet",
-        "image_url": "https://www.universetoday.com/article_images/star_swallowing_a_planet_20260917_011652.png",
-        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "Brazil in Focus: This Month in Architecture, Landscape, and Collective Practice",
-        "summary": "Across Brazil, architecture continues to take shape through different forms of practice, scales, and relationships with place. This month's selection looks at practices working beyond conventional architectural boundaries, collective approaches that reconnect design and construction, and projects that respond to landsc",
+        "title": "Mini Atalhada Building / SO Arquitetura & Design",
+        "summary": "Mini Atalhada results from the conversion and extension of a small storage building with a footprint of only 13 m&sup2;, located in Atalhada, in the city of Lagoa, on the south coast of S&atilde;o Miguel Island, Azores. Set within a consolidated urban frontage and close to the sea, the building was acquired by the arch",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 16 Sep 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1185206/brazil-in-focus-this-month-in-architecture-landscape-and-collective-practice",
-        "image_url": "https://images.adsttc.com/media/images/6aaa/6b77/4f64/5201/8803/13a3/large_jpg/brazil-in-focus-this-month-in-architecture-landscape-and-collective-practice_4.jpg?1789553537",
-        "impact": 5
+        "published_at": "Fri, 18 Sep 2026 13:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1185340/mini-atalhada-building-so-arquitetura-and-design",
+        "image_url": "https://images.adsttc.com/media/images/6aac/4638/d8c8/8201/89ac/d1e4/large_jpg/edificio-mini-atalhada-so-arquitetura-and-design_22.jpg?1789675126",
+        "impact": 4
       },
       {
-        "title": "Micro-regeneration on Ouyang Road / Scenic Architecture Office",
-        "summary": "This district-wide renewal was coordinated comprehensively by the Ouyang Road Sub-district Office. Shanghai Municipal Engineering Design Institute (Group) Co., Ltd. (SMEDI) led the overall territorial planning and EPC (Engineering, Procurement, and Construction) general contracting, with dedicated cultural and commerci",
+        "title": "RSHP and ERRE Selected to Design New Valencia Central Station in Spain",
+        "summary": "The team led by engineering and technology group Sener, in collaboration with UK-based architecture practice RSHP and Valencia-based ERRE, has been selected to design the new Valencia Central Station in Spain. The proposal was chosen by Adif Alta Velocidad's Evaluation Committee following a competition for a new interm",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 17 Sep 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1185088/micro-regeneration-on-ouyang-road-scenic-architecture-office",
-        "image_url": "https://images.adsttc.com/media/images/6aa8/55d2/069c/1b01/89fb/772a/large_jpg/micro-regeneration-on-ouyang-road-scenic-architecture-office_3.jpg?1789417021",
+        "published_at": "Fri, 18 Sep 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1185353/rshp-and-erre-selected-to-design-new-valencia-central-station-in-spain",
+        "image_url": "https://images.adsttc.com/media/images/6aad/065e/8d91/7901/8920/558d/large_jpg/rshp-and-erre-selected-to-design-new-valencia-central-station_1.jpg?1789724275",
         "impact": 4
       },
       {
-        "title": "Arquitectonica designs world's largest cruise terminal to \"mirror directionality\" of ships",
-        "summary": "Local architecture studio Arquitectonica has shaped the MSC Cruise Terminal, the world's largest cruise terminal by size, in Miami to accommodate three ships at once. Arquitectonica designed a slim, elongated building for the building, which processes 36,000 daily passengers through its 492,000-square-feet (45,700 squa",
+        "title": "Mecanoo and RDHA's Lawson Centre for Sustainability Opens at Trinity College With a Farm-to-Table Approach",
+        "summary": "Mecanoo's Lawson Centre for Sustainability is the first new building for Trinity College since 1979. One of the most anticipated projects of 2026, it was designed to be one of Canada's most advanced sustainability-driven academic and residential buildings. Mecanoo worked in collaboration with Toronto architecture firm ",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Wed, 16 Sep 2026 16:00:05 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/16/arquitectonica-msc-cruise-terminal-port-miami/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 18 Sep 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1185316/mecanoo-and-rdhas-lawson-centre-for-sustainability-opens-at-trinity-college-with-a-farm-to-table-approach",
+        "image_url": "https://images.adsttc.com/media/images/6aac/1221/d8c8/8201/89ac/cfde/large_jpg/trinity-colleges-lawson-centre-for-sustainability-officially-opens-to-the-community_3.jpg?1789661809",
         "impact": 4
       },
       {
-        "title": "Chromatic Architecture authors pick six of the world's best colourful buildings",
-        "summary": "A new book from designer Adam Nathaniel Furman and Dezeen contributor Kate Mazade spotlights the most radical examples of colourful architecture from across history. Here, the authors pick six favourites. Published by RIBA Publishing, Chromatic Architecture explores colour as an intrinsic element of architecture, rathe",
+        "title": "Shenzhen Futian Lvzhou Primary School / CCDI Dongxiying Studio",
+        "summary": "Campus in a Village-Town — Xinzhou, located on the south side of Futian Central Area in Shenzhen, is an important residential and living district. Over the years, it has developed a unique blend of commercial, residential, and urban village spaces. This rich urban fabric has fostered diverse communities and vibrant str",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 15 Sep 2026 10:00:19 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/15/chromatic-architecture-worlds-best-colourful-buildings/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 18 Sep 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1038149/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio",
+        "image_url": "https://images.adsttc.com/media/images/6973/cb88/2755/8a01/8794/b8f3/large_jpg/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio_3.jpg?1769196442",
         "impact": 4
       },
       {
-        "title": "Red facade \"evoking a hedgehog\" wraps ice hockey arena by Chybík + Krištof",
-        "summary": "A zigzagging red facade and rooftop running track are among the key features of Jihlava Municipal Arena, completed by architecture studio Chybík + Krištof in the Czech Republic. Located in the heart of Jihlava, the 5,650-seat building was designed for a local ice hockey team, but will also serve as a \"cultural and civi",
+        "title": "Casa Bajura / MAPA Arquitectos LLC",
+        "summary": "Building on Puerto Rico's northern coast means responding to heat, humidity, salinity, hurricanes, flooding and the realities of island life, where available resources and materials inevitably shape architecture. The house emerges from its territory. Climate, culture and local material conditions inform every design de",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Sun, 13 Sep 2026 05:00:18 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/13/jihlava-municipal-arena-chybik-kristof/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 17 Sep 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1185168/casa-bajura-bed-and-breakfast",
+        "image_url": "https://images.adsttc.com/media/images/6aa9/781d/a74d/1200/0125/eee4/large_jpg/CasaBajura_MAPA_PaolaQuevedoSantos-17.jpg?1789491291",
         "impact": 4
       }
     ],
@@ -425,6 +369,17 @@
         "impact": 4
       },
       {
+        "title": "How Belfast Harbour is transforming reclaimed land into a new deep-water berth",
+        "summary": "Belfast Harbour’s £90M D3 development is transforming reclaimed land into a new deep-water quay for cruise ships and offshore wind. NCE looks at the engineering challenges behind the scheme, from ground and tidal constraints, to environmental sensitivities and innovative construction techniques. The post How Belfast Ha",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 18 Sep 2026 03:00:12 +0000",
+        "source_url": "https://www.newcivilengineer.com/in-depth/how-belfast-harbour-is-transforming-reclaimed-land-into-a-new-deep-water-berth-18-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/VMO03513-560x315.jpg",
+        "impact": 4
+      },
+      {
         "title": "Winners: Inspiring Women in Construction and Engineering Awards 2026",
         "summary": "The winners of this year’s Inspiring Women in Construction and Engineering Awards (IWCEA) were announced last night (16 September). The post Winners: Inspiring Women in Construction and Engineering Awards 2026 appeared first on New Civil Engineer.",
         "category": "Construction",
@@ -436,81 +391,70 @@
         "impact": 4
       },
       {
-        "title": "Full list of construction and engineering firms named for Universal resort development",
-        "summary": "Universal has published the first list of contractors and consultants appointed to help deliver its planned resort near Bedford as enabling works for the multi-billion pound amusement park have begun The post Full list of construction and engineering firms named for Universal resort development appeared first on New Ci",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 16 Sep 2026 13:41:13 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/full-list-of-construction-and-engineering-firms-named-to-build-universal-resort-16-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/05/universal-bedford-concept-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Mass timber student housing building tops out near Ohio State",
-        "summary": "Using glulam columns and beams, the construction team was able to reach the milestone nearly 10 weeks ahead of schedule.",
+        "title": "Why the U.S. can’t build high-speed rail — and how to change that",
+        "summary": "A national railroad infrastructure bank could bring federal, state and private-sector interests together to build and operate HSR corridors, a Commuter Rail Coalition board member writes.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 16 Sep 2026 16:20:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/mass-timber-ohio-state-student-housing-tops-out/830601/",
-        "image_url": "https://imgproxy.divecdn.com/r78Jl1fE_EnKgh_fZCsoCSzYt92dB8z3E80jZ536qdI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTlRST19Db2x1bWJ1c190b3BwaW5nX291dDAyX0luZmluaXRlX0ltcGFjdC5qcGc=.webp",
+        "published_at": "Fri, 18 Sep 2026 09:35:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/high-speed-rail-national-infrastructure-bank/830759/",
+        "image_url": "https://imgproxy.divecdn.com/-NU-LVejfaVMiw0JzcT1O6nQhO-e2rjvkwVAuuSqmfY/g:nowe:0:0/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzLTA2LTA3LVR1bGFyZS1TdHJlZXQtVW5kZXJjcm9zc2luZy5qcGVn.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
-        "summary": "arXiv:2609.17695v1 Announce Type: new Abstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence. GraphEcho tests whether agents mistake these repeated encounters for additional corroboration. The benchmark varies path counts and evidential origins while holding",
+        "title": "AutoData: Agentic Search for Pre-training Data Selection",
+        "summary": "arXiv:2609.19754v1 Announce Type: new Abstract: LLM agents have recently shown promise in automating machine learning engineering by editing model and training code under execution feedback. Data, however, remains largely outside this agentic optimisation loop. We frame pre-training data selection as heuristic engineer",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.17695",
+        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.19754",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "When to Call an LLM: A Confidence-Gated Hybrid for Cost-Effective Emotion Recognition in Conversational AI",
-        "summary": "arXiv:2609.17977v1 Announce Type: new Abstract: Emotion recognition in conversation (ERC) is a production capability behind agent-assist prompts, escalation routing, and post-call analytics in contact-center-as-a-service (CCaaS) platforms, where cost and latency constraints matter as much as accuracy. We report a syste",
+        "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+        "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what rese",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.17977",
+        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.19182",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "TuiML: Machine Learning for AI Agents",
-        "summary": "arXiv:2609.17984v1 Announce Type: new Abstract: Machine-learning libraries such as Weka and scikit-learn were designed for human programmers. Language-model agents now use these same libraries by recalling APIs from memory and writing code, an approach that hides what a library offers, delays errors until runtime, and ",
+        "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+        "summary": "arXiv:2609.19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-w",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.17984",
+        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.19244",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines",
-        "summary": "arXiv:2609.18123v1 Announce Type: new Abstract: Large language model agents tune GPU kernels and serving engines through a closed loop of propose, measure, and keep, but the measurements behind this loop are not trustworthy. We characterize four failure modes from a four-day pilot corpus of 619 model calls: strawman ba",
+        "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+        "summary": "arXiv:2609.19425v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass arguments no schema declares. Existing defenses either pick the right tool (selection) or constrain what an agent",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.18123",
+        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.19425",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Symbolic Temporal Supervision of LLM Agents Using Contracts",
-        "summary": "arXiv:2609.18128v1 Announce Type: new Abstract: Large language model (LLM) agents augmented by tools can automate complex, multi-step tasks, such as web navigation, code generation, and workflow orchestration, by acting on external systems through tool calls. However, hallucinations, distributional instability, and adv",
+        "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+        "summary": "arXiv:2609.19524v1 Announce Type: new Abstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models (MLLMs) require different forms of assessment, yet their evaluation evidenc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.18128",
+        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.19524",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
