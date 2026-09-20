@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-19",
-  "last_updated": "2026-09-19 00:56 UTC",
+  "date": "2026-09-20",
+  "last_updated": "2026-09-20 00:37 UTC",
   "categories": {
     "science": [
       {
@@ -83,25 +83,25 @@
         "impact": 3
       },
       {
-        "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-        "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 18 Sep 2026 17:26:41 +0000",
-        "source_url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
-        "impact": 3
-      },
-      {
-        "title": "Disney’s first CTO is Character.AI’s former CEO",
-        "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recen",
+        "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+        "summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-09-18T14:27:04-04:00",
-        "source_url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-09-19T11:00:00-04:00",
+        "source_url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anamanaguchi-2026-Credit-Joshua-Tarn-hires.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mell",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-19T10:00:00-04:00",
+        "source_url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
         "impact": 3
       },
       {
@@ -140,6 +140,17 @@
         "impact": 4
       },
       {
+        "title": "West African scientists warn of weakening health systems and urge stronger outbreak detection",
+        "summary": "West African laboratory scientists called on governments Friday to strengthen capacity to detect disease outbreaks to avoid another major outbreak, saying health systems across the region are becoming weaker.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 19 Sep 2026 11:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-west-african-scientists-weakening-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/west-african-scientist.jpg",
+        "impact": 4
+      },
+      {
         "title": "Screening method identifies leukemia drug candidates from more than 4 million compounds",
         "summary": "A cancer cell behaves differently from a healthy cell, with unique features that enable rapid growth and bypass quality controls. Rice University's Natasha Kirienko is interested in finding these unique features and exploiting them to advance cancer treatments. In a paper recently published in the journal Leukemia, her",
         "category": "Medicine",
@@ -148,17 +159,6 @@
         "published_at": "Fri, 18 Sep 2026 13:00:06 EDT",
         "source_url": "https://medicalxpress.com/news/2026-09-screening-method-leukemia-drug-candidates.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-identifies.jpg",
-        "impact": 4
-      },
-      {
-        "title": "New sepsis guidelines seek to reduce infection's deadly toll",
-        "summary": "A UVA Health doctor and other leading national experts have developed new guidelines to improve care for patients who develop sepsis, a dangerous full-body infection that kills at least 350,000 Americans every year.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 18 Sep 2026 09:40:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-sepsis-guidelines-infection-deadly-toll.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-sepsis-guidelines.jpg",
         "impact": 4
       },
       {
@@ -230,7 +230,63 @@
         "impact": 3
       }
     ],
-    "space": [],
+    "space": [
+      {
+        "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+        "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no ea",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 17 Sep 2026 18:32:30 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spacex35.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+        "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 17 Sep 2026 20:37:09 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+        "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 18 Sep 2026 16:02:31 +0000",
+        "source_url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/54387592956-0d0c5c9258-o.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA Unveils Enterprise, the First Space Shuttle",
+        "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 17 Sep 2026 15:22:42 +0000",
+        "source_url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
+        "impact": 4
+      },
+      {
+        "title": "APOD: 2026 September 19 – A Zodiacal Night",
+        "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Sat, 19 Sep 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 3
+      }
+    ],
     "astronomy": [
       {
         "title": "When Stars Engulf Rocky Planets, Beryllium Gives It Away",
@@ -290,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "Green by Law? Rethinking Sustainability and Architectural Responsibility Across Borders",
+        "summary": "Sustainability in architecture is often discussed as though it were a universal standard—and, in principle, it should be. Buildings are increasingly evaluated through energy performance, embodied carbon, certification systems, material efficiency, biodiversity, and whole-life impact. Yet the rules determining what must",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 19 Sep 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1185095/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders",
+        "image_url": "https://images.adsttc.com/media/images/6aa8/a531/069c/1b01/89fb/77a6/large_jpg/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders_1.jpg?1789437240",
+        "impact": 4
+      },
+      {
         "title": "Mini Atalhada Building / SO Arquitetura & Design",
         "summary": "Mini Atalhada results from the conversion and extension of a small storage building with a footprint of only 13 m&sup2;, located in Atalhada, in the city of Lagoa, on the south coast of S&atilde;o Miguel Island, Azores. Set within a consolidated urban frontage and close to the sea, the building was acquired by the arch",
         "category": "Architecture",
@@ -331,17 +398,6 @@
         "published_at": "Fri, 18 Sep 2026 00:00:00 +0000",
         "source_url": "https://www.archdaily.com/1038149/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio",
         "image_url": "https://images.adsttc.com/media/images/6973/cb88/2755/8a01/8794/b8f3/large_jpg/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio_3.jpg?1769196442",
-        "impact": 4
-      },
-      {
-        "title": "Casa Bajura / MAPA Arquitectos LLC",
-        "summary": "Building on Puerto Rico's northern coast means responding to heat, humidity, salinity, hurricanes, flooding and the realities of island life, where available resources and materials inevitably shape architecture. The house emerges from its territory. Climate, culture and local material conditions inform every design de",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 17 Sep 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1185168/casa-bajura-bed-and-breakfast",
-        "image_url": "https://images.adsttc.com/media/images/6aa9/781d/a74d/1200/0125/eee4/large_jpg/CasaBajura_MAPA_PaolaQuevedoSantos-17.jpg?1789491291",
         "impact": 4
       }
     ],
@@ -404,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "AutoData: Agentic Search for Pre-training Data Selection",
-        "summary": "arXiv:2609.19754v1 Announce Type: new Abstract: LLM agents have recently shown promise in automating machine learning engineering by editing model and training code under execution feedback. Data, however, remains largely outside this agentic optimisation loop. We frame pre-training data selection as heuristic engineer",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.19754",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "blog.google",
+        "journal": "blog.google",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+        "impact": 4
       },
       {
-        "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-        "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what rese",
+        "title": "Architecting memory and storage in the AI era",
+        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.19182",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 04 Sep 2026 18:39:19 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-        "summary": "arXiv:2609.19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-w",
+        "title": "Reimagining advertising with AI",
+        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.19244",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 16 Sep 2026 13:00:00 GMT",
+        "source_url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/55OzfM3w5QnfYsHGeqQPwD/da59df4251ec09b27e1855f4710f0c39/reimagining-advertising-with-ai-seo.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
-        "summary": "arXiv:2609.19425v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass arguments no schema declares. Existing defenses either pick the right tool (selection) or constrain what an agent",
+        "title": "Our framework for reporting model misalignment",
+        "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.19425",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 16 Sep 2026 17:00:00 GMT",
+        "source_url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1ZIYnl31jt9gPO8qCbMGBZ/aaf74083a5332be1cb265dbdb6e652e0/model-misalignment-reporting-framework--seo-v002.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
-        "summary": "arXiv:2609.19524v1 Announce Type: new Abstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models (MLLMs) require different forms of assessment, yet their evaluation evidenc",
+        "title": "How Fyxer built an AI executive assistant people trust",
+        "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.19524",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Mon, 14 Sep 2026 12:00:00 GMT",
+        "source_url": "https://openai.com/index/fyxer",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3mQ80ZMeQoDY9L8bTPbx7q/35320a6d450f2a8d3d91d45067867ea0/oai_Fyxer_SEO.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
