@@ -1,8 +1,19 @@
 {
-  "date": "2026-09-20",
-  "last_updated": "2026-09-20 00:37 UTC",
+  "date": "2026-09-21",
+  "last_updated": "2026-09-21 00:50 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Scientists find that “perfect” systems may be surprisingly fragile",
+        "summary": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely u",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 19 Sep 2026 07:26:53 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/evolving-paradigm-in-network-science.webp",
+        "impact": 5
+      },
       {
         "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
         "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s water may have been present much closer to the young Sun than scientists previously thought.",
@@ -26,82 +37,38 @@
         "impact": 5
       },
       {
-        "title": "New Findings Could Help Build Computers That Think More Like Your Brain",
-        "summary": "Scientists have filmed a crystal of tiny magnetic vortices melting and reshaping in real time, a breakthrough that could bring ultra-efficient computers closer to reality. A crystal does not have to be made of atoms. In ultrathin magnetic materials, tiny whirlpools of magnetism known as skyrmions can arrange themselves",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 18 Sep 2026 18:29:57 +0000",
-        "source_url": "https://scitechdaily.com/new-findings-could-help-build-computers-that-think-more-like-your-brain/",
-        "image_url": "https://scitechdaily.com/images/Digital-Brain-Computer-777x518.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Scientists discover a major brain shift between ages 50 and 75",
-        "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brai",
+        "title": "Scientists solve a 50-year mystery and discover a new human blood group",
+        "summary": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen, solving a puzzle that began in 1972 and establishing a new blood group system called MAL. The discovery could make it much easier to find extremely rare AnWj-negative patients and donors and protect them from potentially danger",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Tue, 15 Sep 2026 10:28:38 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-signal-processing.webp",
+        "published_at": "Sat, 19 Sep 2026 06:14:15 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/3d-rendering-of-red-blood-cells.webp",
         "impact": 4
       },
       {
-        "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
-        "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating A",
+        "title": "Scientists discover the first diplodocus ever found outside North America",
+        "summary": "A 150-million-year-old dinosaur fossil from Spain has been identified as the first confirmed Diplodocus ever found outside North America. The giant sauropod measured about 25 meters long and was preserved well enough for researchers to match distinctive features in its tail bones to the famous genus. Its unexpected app",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sun, 13 Sep 2026 09:56:06 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-puzzle-alzheimers-dementia.webp",
+        "published_at": "Fri, 18 Sep 2026 22:51:08 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260918024807.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/diplodocus-illustration.webp",
         "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+        "title": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
+        "summary": "“You know ‘Bang Bus’? We don’t want that.”",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 18 Sep 2026 18:49:30 +0000",
-        "source_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
-        "impact": 3
-      },
-      {
-        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-        "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 18 Sep 2026 17:59:53 +0000",
-        "source_url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-        "impact": 3
-      },
-      {
-        "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-        "summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-19T11:00:00-04:00",
-        "source_url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anamanaguchi-2026-Credit-Joshua-Tarn-hires.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mell",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-19T10:00:00-04:00",
-        "source_url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sun, 20 Sep 2026 10:00:00 +0000",
+        "source_url": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/",
+        "image_url": "https://media.wired.com/photos/6aad1f8e3467874a950d97a5/191:100/w_1280,c_limit/091826-Robotaxi%20No%20Sex.jpg",
         "impact": 3
       },
       {
@@ -114,9 +81,53 @@
         "source_url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
         "image_url": "https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg",
         "impact": 3
+      },
+      {
+        "title": "The Download: AI’s extinction risk and bioweapons threat",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking r",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 18 Sep 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+        "impact": 3
+      },
+      {
+        "title": "Could AI really kill us all? Your questions, answered.",
+        "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#82",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 18 Sep 2026 11:29:22 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+        "impact": 3
+      },
+      {
+        "title": "The Download: mice with part-human brains and climate tech innovators",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 17 Sep 2026 12:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_HumanBrainTissueMice.jpg?resize=1200,600",
+        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Activated donor immune cells may prevent severe complication after allogeneic stem cell transplantation",
+        "summary": "Researchers have successfully conducted the first clinical trial using activated regulatory T cells (ATregs, Actileucel)—derived from white blood cells of healthy blood donors. This novel cell therapy aims to prevent graft-versus-host disease (GvHD) following an allogeneic stem cell transplant. The Phase I/II study has",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 20 Sep 2026 14:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-donor-immune-cells-severe-complication.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/blood-test-2.jpg",
+        "impact": 5
+      },
       {
         "title": "New mesothelioma drug turns cancer’s own defenses against it",
         "summary": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it c",
@@ -140,6 +151,17 @@
         "impact": 4
       },
       {
+        "title": "One-third of older adults with cognitive disorders are taking prescription drugs that could harm them",
+        "summary": "Adults 65 and older with cognitive disorders such as dementia are more likely to suffer negative effects from drugs that treat central nervous system conditions, including anxiety, sleep problems and psychosis. This means more emergency department visits, more frequent and longer hospitalizations, poorer mental health ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 20 Sep 2026 08:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-older-adults-cognitive-disorders-prescription.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-one-third-of-old.jpg",
+        "impact": 4
+      },
+      {
         "title": "West African scientists warn of weakening health systems and urge stronger outbreak detection",
         "summary": "West African laboratory scientists called on governments Friday to strengthen capacity to detect disease outbreaks to avoid another major outbreak, saying health systems across the region are becoming weaker.",
         "category": "Medicine",
@@ -148,28 +170,6 @@
         "published_at": "Sat, 19 Sep 2026 11:40:01 EDT",
         "source_url": "https://medicalxpress.com/news/2026-09-west-african-scientists-weakening-health.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/west-african-scientist.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Screening method identifies leukemia drug candidates from more than 4 million compounds",
-        "summary": "A cancer cell behaves differently from a healthy cell, with unique features that enable rapid growth and bypass quality controls. Rice University's Natasha Kirienko is interested in finding these unique features and exploiting them to advance cancer treatments. In a paper recently published in the journal Leukemia, her",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 18 Sep 2026 13:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-screening-method-leukemia-drug-candidates.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-identifies.jpg",
-        "impact": 4
-      },
-      {
-        "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
-        "summary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 18 Sep 2026 05:48:31 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/glowing-human-brain-signals.webp",
         "impact": 4
       }
     ],
@@ -265,15 +265,15 @@
         "impact": 4
       },
       {
-        "title": "NASA Unveils Enterprise, the First Space Shuttle",
-        "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television",
+        "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+        "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 17 Sep 2026 15:22:42 +0000",
-        "source_url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
-        "impact": 4
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Sun, 20 Sep 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 3
       },
       {
         "title": "APOD: 2026 September 19 – A Zodiacal Night",
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "The Sun Is Physically Capable of Producing a \"Superflare\" According To A New Study",
+        "summary": "We have long known that the Sun is active. It “flares” quite often, sending huge amounts of energy off in a certain direction - sometimes directly at Earth. But we also know that, compared to other Sun-like stars, it seems relatively quiet, and not capable of producing the “superflares” we sometimes see in its stellar ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sun, 20 Sep 2026 22:36:31 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-sun-is-physically-capable-of-producing-a-superflare-according-to-a-new-study",
+        "image_url": "https://www.universetoday.com/article_images/original_2_20260920_223613.webp",
+        "impact": 3
+      },
+      {
         "title": "The Red Planet Has a Purple Side",
         "summary": "Mars appears red because of iron oxides in the regolith. But it's not uniformly red. Different lighting conditions and different materials accumulated on the surface can make it appear purple, as in these images from Mars Express and its High-Resolution Stereo Camera.",
         "category": "Astronomy",
@@ -330,17 +341,6 @@
         "published_at": "Fri, 18 Sep 2026 07:47:32 +0000",
         "source_url": "https://www.universetoday.com/articles/astronomys-decades-long-quest-to-understand-cosmic-topology",
         "image_url": "https://www.universetoday.com/article_images/IMG_8748_20260113_123911.png",
-        "impact": 3
-      },
-      {
-        "title": "Researchers Develop a Way to Check the Weather on a Exoplanet",
-        "summary": "Scientists from Trinity have developed a powerful way to unravel the changing weather patterns on distant worlds. Using this approach, they discovered that the weather on a well-studied brown dwarf, “SIMP 0136”, previously linked with Northern Lights-like phenomena, is largely shaped by just two dominant processes: cha",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 17 Sep 2026 23:18:54 +0000",
-        "source_url": "https://www.universetoday.com/articles/researchers-develop-a-way-to-check-the-weather-on-a-exoplanet",
-        "image_url": "https://www.universetoday.com/article_images/SIMP-0136-Still-RS-800X582_20260917_230300.jpg",
         "impact": 3
       }
     ],
@@ -368,36 +368,36 @@
         "impact": 4
       },
       {
-        "title": "RSHP and ERRE Selected to Design New Valencia Central Station in Spain",
-        "summary": "The team led by engineering and technology group Sener, in collaboration with UK-based architecture practice RSHP and Valencia-based ERRE, has been selected to design the new Valencia Central Station in Spain. The proposal was chosen by Adif Alta Velocidad's Evaluation Committee following a competition for a new interm",
+        "title": "Seven buildings that demonstrate the versatility of bamboo",
+        "summary": "Bamboo-clad parasols and a three-storey bamboo truss feature in this roundup of buildings from Southeast and South Asia built using the fast-growing plant. Mahamudra Meditation Centre, Nepal, by Abari A mandala-shaped bamboo truss crowns this Buddhist meditation centre in Tibet, Nepal, which is perched atop a mountain ",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 18 Sep 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1185353/rshp-and-erre-selected-to-design-new-valencia-central-station-in-spain",
-        "image_url": "https://images.adsttc.com/media/images/6aad/065e/8d91/7901/8920/558d/large_jpg/rshp-and-erre-selected-to-design-new-valencia-central-station_1.jpg?1789724275",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sun, 20 Sep 2026 09:00:12 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/20/bamboo-buildings-roundup/",
+        "image_url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_3.jpg",
         "impact": 4
       },
       {
-        "title": "Mecanoo and RDHA's Lawson Centre for Sustainability Opens at Trinity College With a Farm-to-Table Approach",
-        "summary": "Mecanoo's Lawson Centre for Sustainability is the first new building for Trinity College since 1979. One of the most anticipated projects of 2026, it was designed to be one of Canada's most advanced sustainability-driven academic and residential buildings. Mecanoo worked in collaboration with Toronto architecture firm ",
+        "title": "IF_DO transforms neglected building in Hastings into \"genuinely welcoming\" community centre",
+        "summary": "A green-concrete frontage marks the transformation of a neglected building in Hastings into Eagle House community centre, designed by London architecture studio IF_DO. Eagle House was completed for community-led developer Hastings Commons and provides a mixture of public space, work areas and youth facilities. Rather t",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 18 Sep 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1185316/mecanoo-and-rdhas-lawson-centre-for-sustainability-opens-at-trinity-college-with-a-farm-to-table-approach",
-        "image_url": "https://images.adsttc.com/media/images/6aac/1221/d8c8/8201/89ac/cfde/large_jpg/trinity-colleges-lawson-centre-for-sustainability-officially-opens-to-the-community_3.jpg?1789661809",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Sat, 19 Sep 2026 10:00:38 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/19/if-do-eagle-house/",
+        "image_url": "https://static.dezeen.com/uploads/2026/09/eagle-house-ifdo-hastings-architecture-uk-adaptive-reuse_dezeen_2364_hero.jpg",
         "impact": 4
       },
       {
-        "title": "Shenzhen Futian Lvzhou Primary School / CCDI Dongxiying Studio",
-        "summary": "Campus in a Village-Town — Xinzhou, located on the south side of Futian Central Area in Shenzhen, is an important residential and living district. Over the years, it has developed a unique blend of commercial, residential, and urban village spaces. This rich urban fabric has fostered diverse communities and vibrant str",
+        "title": "Arquitectonica designs world's largest cruise terminal to \"mirror directionality\" of ships",
+        "summary": "Local architecture studio Arquitectonica has shaped the MSC Cruise Terminal, the world's largest cruise terminal by size, in Miami to accommodate three ships at once. Arquitectonica designed a slim, elongated building for the building, which processes 36,000 daily passengers through its 492,000-square-feet (45,700 squa",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 18 Sep 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1038149/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio",
-        "image_url": "https://images.adsttc.com/media/images/6973/cb88/2755/8a01/8794/b8f3/large_jpg/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio_3.jpg?1769196442",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Wed, 16 Sep 2026 16:00:05 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/16/arquitectonica-msc-cruise-terminal-port-miami/",
+        "image_url": "https://static.dezeen.com/uploads/2026/09/port-miami-cruise-terminal-arquitectonica_dezeen_2364_hero.jpg",
         "impact": 4
       }
     ],
