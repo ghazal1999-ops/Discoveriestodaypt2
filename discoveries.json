@@ -1,8 +1,19 @@
 {
-  "date": "2026-09-21",
-  "last_updated": "2026-09-21 00:50 UTC",
+  "date": "2026-09-22",
+  "last_updated": "2026-09-22 01:26 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Stanford scientists discover the human brain may actually be two separate organs",
+        "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery also allowed researchers to grow human hindbrain neurons in the lab, opening new possibilities for studying ALS, spinal mus",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 21 Sep 2026 06:12:51 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/brain-scan-mri.webp",
+        "impact": 5
+      },
       {
         "title": "Scientists find that “perfect” systems may be surprisingly fragile",
         "summary": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely u",
@@ -26,40 +37,62 @@
         "impact": 5
       },
       {
-        "title": "Scientists recreated what mice saw from brain activity alone",
-        "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.",
+        "title": "Eat, prey, love: Nurse shark mating and Northeast angler conflicts offer conservation insights",
+        "summary": "While the Discovery Channel's annual Shark Week event has given the public greater familiarity with sharks, much about them—from their mysterious love lives to how their eating habits bring them into conflict with recreational anglers—remains a mystery to scientists. Now, two new studies led by researchers from the Uni",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 16 Sep 2026 08:33:18 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/mouse-brain-thoughts-video.webp",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Mon, 21 Sep 2026 19:00:01 EDT",
+        "source_url": "https://phys.org/news/2026-09-prey-nurse-shark-northeast-angler.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nurse-sharks-breeding.jpg",
         "impact": 5
       },
       {
-        "title": "Scientists solve a 50-year mystery and discover a new human blood group",
-        "summary": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen, solving a puzzle that began in 1972 and establishing a new blood group system called MAL. The discovery could make it much easier to find extremely rare AnWj-negative patients and donors and protect them from potentially danger",
+        "title": "Centenarian sea cucumbers at risk of overfishing",
+        "summary": "Marine scientists have been amazed to discover an endangered sea cucumber can live for decades, with some animals living more than 100 years, in a first-of-its-kind genetic mark-recapture study. Australian Institute of Marine Science (AIMS) Senior Principal Research Scientist Dr. Sven Uthicke said the findings suggeste",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 19 Sep 2026 06:14:15 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/3d-rendering-of-red-blood-cells.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists discover the first diplodocus ever found outside North America",
-        "summary": "A 150-million-year-old dinosaur fossil from Spain has been identified as the first confirmed Diplodocus ever found outside North America. The giant sauropod measured about 25 meters long and was preserved well enough for researchers to match distinctive features in its tail bones to the famous genus. Its unexpected app",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 18 Sep 2026 22:51:08 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260918024807.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/diplodocus-illustration.webp",
-        "impact": 4
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Mon, 21 Sep 2026 18:40:02 EDT",
+        "source_url": "https://phys.org/news/2026-09-centenarian-sea-cucumbers-overfishing.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/centenarian-sea-cucumb.jpg",
+        "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+        "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing from its electric vehicles in 2023. Naturally, this led to some confusi",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-21T13:47:54-04:00",
+        "source_url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple_CarPlay_Split_Home_View_Screen_Projections_Trailering_dd9a21.png?quality=90&strip=all&crop=8.4377612633535%2C0%2C83.124477473293%2C100&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+        "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Mon, 21 Sep 2026 18:33:02 +0000",
+        "source_url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+        "image_url": "https://media.wired.com/photos/6ab15a857fffb9bb745696eb/191:100/w_1280,c_limit/trumpxi.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+        "summary": "Apple has refreshed the Mac Mini with a brand-new chip, the M6. And this time, it’s more focused on AI than ever.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Mon, 21 Sep 2026 13:00:00 +0000",
+        "source_url": "https://www.wired.com/review/apple-mac-mini-m6/",
+        "image_url": "https://media.wired.com/photos/6aae22b9dc76ce434d3ced2e/191:100/w_1280,c_limit/Review--Apple-Mac-Mini-(M6)-2.jpg",
+        "impact": 3
+      },
       {
         "title": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
         "summary": "“You know ‘Bang Bus’? We don’t want that.”",
@@ -72,62 +105,18 @@
         "impact": 3
       },
       {
-        "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-        "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 18 Sep 2026 16:00:00 +0000",
-        "source_url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-        "image_url": "https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg",
-        "impact": 3
-      },
-      {
-        "title": "The Download: AI’s extinction risk and bioweapons threat",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking r",
+        "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day be",
         "category": "Tech",
         "source": "technologyreview.com",
         "journal": "technologyreview.com",
-        "published_at": "Fri, 18 Sep 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
-        "impact": 3
-      },
-      {
-        "title": "Could AI really kill us all? Your questions, answered.",
-        "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#82",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 18 Sep 2026 11:29:22 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
-        "impact": 3
-      },
-      {
-        "title": "The Download: mice with part-human brains and climate tech innovators",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 17 Sep 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_HumanBrainTissueMice.jpg?resize=1200,600",
+        "published_at": "Mon, 21 Sep 2026 12:20:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/082926-CengizYar-MITTechReview-68.jpg?resize=1200,600",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Activated donor immune cells may prevent severe complication after allogeneic stem cell transplantation",
-        "summary": "Researchers have successfully conducted the first clinical trial using activated regulatory T cells (ATregs, Actileucel)—derived from white blood cells of healthy blood donors. This novel cell therapy aims to prevent graft-versus-host disease (GvHD) following an allogeneic stem cell transplant. The Phase I/II study has",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 20 Sep 2026 14:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-donor-immune-cells-severe-complication.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/blood-test-2.jpg",
-        "impact": 5
-      },
       {
         "title": "New mesothelioma drug turns cancer’s own defenses against it",
         "summary": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it c",
@@ -138,6 +127,17 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/lung-cancer-tumor-anatomy.webp",
         "impact": 5
+      },
+      {
+        "title": "RNA therapy may help preserve muscle during GLP-1 weight loss",
+        "summary": "GLP-1 drugs have revolutionized obesity treatment, but they can lead people to lose muscle mass along with fat. And when patients stop treatment, they often regain their weight—primarily as fat.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 21 Sep 2026 15:00:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-rna-therapy-muscle-glp-weight.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna-therapy-may-help-p.jpg",
+        "impact": 4
       },
       {
         "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
@@ -151,25 +151,25 @@
         "impact": 4
       },
       {
-        "title": "One-third of older adults with cognitive disorders are taking prescription drugs that could harm them",
-        "summary": "Adults 65 and older with cognitive disorders such as dementia are more likely to suffer negative effects from drugs that treat central nervous system conditions, including anxiety, sleep problems and psychosis. This means more emergency department visits, more frequent and longer hospitalizations, poorer mental health ",
+        "title": "New bone glue tested on patients in clinical study for the first time",
+        "summary": "More than 10 years ago, Håkan Engqvist and Philip Procter began developing a bone glue designed to help repair fractures. Now, the glue has been used on a patient in England for the first time. In early August this year, the bone glue was used on a patient during knee surgery in England. The patient is the first partic",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 20 Sep 2026 08:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-older-adults-cognitive-disorders-prescription.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-one-third-of-old.jpg",
+        "published_at": "Mon, 21 Sep 2026 21:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-bone-patients-clinical.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/philip-and-hkan-are-st.jpg",
         "impact": 4
       },
       {
-        "title": "West African scientists warn of weakening health systems and urge stronger outbreak detection",
-        "summary": "West African laboratory scientists called on governments Friday to strengthen capacity to detect disease outbreaks to avoid another major outbreak, saying health systems across the region are becoming weaker.",
+        "title": "Common drugs older adults might be overusing",
+        "summary": "The scenario often unfolds like this: Medical researchers investigate a frequently used drug and report that it's less effective for older patients than previously thought, or that its risks outweigh its benefits in older adults. More studies follow, confirming those findings.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 19 Sep 2026 11:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-west-african-scientists-weakening-health.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/west-african-scientist.jpg",
+        "published_at": "Mon, 21 Sep 2026 18:40:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-common-drugs-older-adults-overusing.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/3-common-drugs-older-a.jpg",
         "impact": 4
       }
     ],
@@ -232,62 +232,73 @@
     ],
     "space": [
       {
-        "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-        "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no ea",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 17 Sep 2026 18:32:30 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spacex35.jpg",
-        "impact": 5
-      },
-      {
-        "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-        "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 17 Sep 2026 20:37:09 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-        "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 18 Sep 2026 16:02:31 +0000",
-        "source_url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/54387592956-0d0c5c9258-o.jpg",
-        "impact": 4
-      },
-      {
-        "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-        "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
+        "title": "Perseverance’s View of ‘Turquoise Bay’",
+        "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th Martian days, or sols",
         "category": "Space",
         "source": "science.nasa.gov",
         "journal": "science.nasa.gov",
-        "published_at": "Sun, 20 Sep 2026 04:05:00 +0000",
-        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "published_at": "Mon, 21 Sep 2026 19:17:59 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+        "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layer",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 21 Sep 2026 16:54:43 +0000",
+        "source_url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
+        "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space. “It is my privilege to welcome the Republic of Albania as the 73rd signat",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 21 Sep 2026 21:21:32 +0000",
+        "source_url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg",
         "impact": 3
       },
       {
-        "title": "APOD: 2026 September 19 – A Zodiacal Night",
-        "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
+        "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
+        "summary": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to align strategy and build momentum while focusing on partnerships, small business engagement, and next steps. “The NASA State Hubs initiative is",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Sat, 19 Sep 2026 04:05:00 +0000",
-        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 21 Sep 2026 21:03:04 +0000",
+        "source_url": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/state-hubs-kickoff.jpg",
+        "impact": 3
+      },
+      {
+        "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
+        "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&#38;T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore. NASA’s engagement at NFL games is part of the agency&#8217;s I",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 21 Sep 2026 18:43:13 +0000",
+        "source_url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/55540215826-eb77fe7409-o.jpg",
         "impact": 3
       }
     ],
     "astronomy": [
+      {
+        "title": "Solar Orbiter Catches the Sun’s Missing High-Speed Vibrations",
+        "summary": "The Sun’s magnetic fields are a twisty, curvy, ever changing mess. In particular, our star’s polar regions host regions called polar coronal holes that host invisible magnetic highways that stretch out into interplanetary space. But there’s a lot we don’t know about how those highways actually work, and in particular h",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Mon, 21 Sep 2026 14:18:11 +0000",
+        "source_url": "https://www.universetoday.com/articles/solar-orbiter-catches-the-suns-missing-high-speed-vibrations",
+        "image_url": "https://www.universetoday.com/article_images/Low-Res_34_20260921_141750.jpg",
+        "impact": 4
+      },
       {
         "title": "When Stars Engulf Rocky Planets, Beryllium Gives It Away",
         "summary": "Astronomers know that stars can engulf planets when they stray too close. But how can they know, by looking at a star, if it has ever done so? The answer lies in Beryllium, an element not synthesized inside stars.",
@@ -300,15 +311,26 @@
         "impact": 4
       },
       {
-        "title": "Webb Searches for Brown Dwarfs in a Stunning Star-Forming Region",
-        "summary": "How small can brown dwarfs be before the definition breaks down? That question is at the heart of new research, and new JWST images. Using the space telescope, researchers have discovered a new class of brown dwarfs with low masses, marked by a peculiar hydrocarbon feature.",
+        "title": "Smashed Icy Moons Cool Too Rapidly to Retain Oceans",
+        "summary": "There are more than 450 confirmed moons orbiting the eight major planets, but only a handful of them provide unique scientific value to pique the interests of the scientific community, specifically their potential for hosting life as we know it. This is due to the subsurface oceans that exist beneath icy crusts, includ",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 16 Sep 2026 18:21:27 +0000",
-        "source_url": "https://www.universetoday.com/articles/webb-searches-for-brown-dwarfs-in-a-stunning-star-forming-region",
-        "image_url": "https://www.universetoday.com/article_images/weic2619a_20260915_222658.jpg",
-        "impact": 4
+        "published_at": "Tue, 22 Sep 2026 00:56:25 +0000",
+        "source_url": "https://www.universetoday.com/articles/smashed-icy-moons-cool-too-rapidly-to-retain-oceans",
+        "image_url": "https://www.universetoday.com/article_images/inside-enceladus.jpg_750_20260922_003950.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Astronomers Uncover \"Hypersoft\" X-ray Sources",
+        "summary": "X-rays showcase some of the most unique astronomical objects in the universe. Neutron stars and black holes siphoning gas from companion stars stick out like sore thumbs at this level of radiation. However, according to a new paper by Mustafa Muhibullah and Jimmy Irwin from the University of Alabama and Rosanne Di Stef",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Mon, 21 Sep 2026 10:53:59 +0000",
+        "source_url": "https://www.universetoday.com/articles/astronomers-uncover-hypersoft-x-ray-sources",
+        "image_url": "https://www.universetoday.com/article_images/m101_525_20260921_105344.jpg",
+        "impact": 3
       },
       {
         "title": "The Sun Is Physically Capable of Producing a \"Superflare\" According To A New Study",
@@ -320,51 +342,18 @@
         "source_url": "https://www.universetoday.com/articles/the-sun-is-physically-capable-of-producing-a-superflare-according-to-a-new-study",
         "image_url": "https://www.universetoday.com/article_images/original_2_20260920_223613.webp",
         "impact": 3
-      },
-      {
-        "title": "The Red Planet Has a Purple Side",
-        "summary": "Mars appears red because of iron oxides in the regolith. But it's not uniformly red. Different lighting conditions and different materials accumulated on the surface can make it appear purple, as in these images from Mars Express and its High-Resolution Stereo Camera.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 18 Sep 2026 19:16:32 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-red-planet-has-a-purple-side",
-        "image_url": "https://www.universetoday.com/article_images/A_view_from_above_a_glacier_near_Thyles_Rupes_pillars_20260917_192651.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Astronomy’s Decades-Long Quest To Understand Cosmic Topology",
-        "summary": "Cosmic topology is as esoteric as cosmology can get. But a growing number of astrophysicists think it holds keys to understanding the universe on its largest scales.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 18 Sep 2026 07:47:32 +0000",
-        "source_url": "https://www.universetoday.com/articles/astronomys-decades-long-quest-to-understand-cosmic-topology",
-        "image_url": "https://www.universetoday.com/article_images/IMG_8748_20260113_123911.png",
-        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "Green by Law? Rethinking Sustainability and Architectural Responsibility Across Borders",
-        "summary": "Sustainability in architecture is often discussed as though it were a universal standard—and, in principle, it should be. Buildings are increasingly evaluated through energy performance, embodied carbon, certification systems, material efficiency, biodiversity, and whole-life impact. Yet the rules determining what must",
+        "title": "From the Classroom to the Courtyard: How 10 Brazilian Universities Rethink the Learning Space",
+        "summary": "In 1961, when conceiving the Faculty of Architecture and Urbanism of the University of São Paulo, in São Paulo, Vilanova Artigas and Carlos Cascaldi established a paradigm that continues to resonate throughout Brazilian university architecture: the building as a continuous territory, articulated by ramps, courtyards, a",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sat, 19 Sep 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1185095/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders",
-        "image_url": "https://images.adsttc.com/media/images/6aa8/a531/069c/1b01/89fb/77a6/large_jpg/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders_1.jpg?1789437240",
-        "impact": 4
-      },
-      {
-        "title": "Mini Atalhada Building / SO Arquitetura & Design",
-        "summary": "Mini Atalhada results from the conversion and extension of a small storage building with a footprint of only 13 m&sup2;, located in Atalhada, in the city of Lagoa, on the south coast of S&atilde;o Miguel Island, Azores. Set within a consolidated urban frontage and close to the sea, the building was acquired by the arch",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 18 Sep 2026 13:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1185340/mini-atalhada-building-so-arquitetura-and-design",
-        "image_url": "https://images.adsttc.com/media/images/6aac/4638/d8c8/8201/89ac/d1e4/large_jpg/edificio-mini-atalhada-so-arquitetura-and-design_22.jpg?1789675126",
+        "published_at": "Mon, 21 Sep 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1184932/from-the-classroom-to-the-courtyard-how-10-brazilian-universities-rethink-the-learning-space",
+        "image_url": "https://images.adsttc.com/media/images/6aa3/4310/fc84/8901/8778/4571/large_jpg/_33.jpg?1789084439",
         "impact": 4
       },
       {
@@ -399,6 +388,17 @@
         "source_url": "https://www.dezeen.com/2026/09/16/arquitectonica-msc-cruise-terminal-port-miami/",
         "image_url": "https://static.dezeen.com/uploads/2026/09/port-miami-cruise-terminal-arquitectonica_dezeen_2364_hero.jpg",
         "impact": 4
+      },
+      {
+        "title": "Chromatic Architecture authors pick six of the world's best colourful buildings",
+        "summary": "A new book from designer Adam Nathaniel Furman and Dezeen contributor Kate Mazade spotlights the most radical examples of colourful architecture from across history. Here, the authors pick six favourites. Published by RIBA Publishing, Chromatic Architecture explores colour as an intrinsic element of architecture, rathe",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 15 Sep 2026 10:00:19 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/15/chromatic-architecture-worlds-best-colourful-buildings/",
+        "image_url": "https://static.dezeen.com/uploads/2026/09/chromatic-architecture_dezeen_2364_sq_0.jpg",
+        "impact": 4
       }
     ],
     "construction": [
@@ -425,40 +425,62 @@
         "impact": 4
       },
       {
-        "title": "How Belfast Harbour is transforming reclaimed land into a new deep-water berth",
-        "summary": "Belfast Harbour’s £90M D3 development is transforming reclaimed land into a new deep-water quay for cruise ships and offshore wind. NCE looks at the engineering challenges behind the scheme, from ground and tidal constraints, to environmental sensitivities and innovative construction techniques. The post How Belfast Ha",
+        "title": "How can project teams develop more coordinated, buildable solutions?",
+        "summary": "Dean Sandells, head of infrastructure and major projects at Peri, explains how earlier collaboration and a designated ecosystem across formwork, temporary works, access, digital engineering and specialist capability can help project teams develop more coordinated, buildable solutions. The post How can project teams dev",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Fri, 18 Sep 2026 03:00:12 +0000",
-        "source_url": "https://www.newcivilengineer.com/in-depth/how-belfast-harbour-is-transforming-reclaimed-land-into-a-new-deep-water-berth-18-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/VMO03513-560x315.jpg",
+        "published_at": "Mon, 21 Sep 2026 14:57:23 +0000",
+        "source_url": "https://www.newcivilengineer.com/sponsored/how-can-project-teams-develop-more-coordinated-buildable-solutions-21-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/New-Civil-Engineer-003-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "Winners: Inspiring Women in Construction and Engineering Awards 2026",
-        "summary": "The winners of this year’s Inspiring Women in Construction and Engineering Awards (IWCEA) were announced last night (16 September). The post Winners: Inspiring Women in Construction and Engineering Awards 2026 appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 17 Sep 2026 12:02:35 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/winners-inspiring-women-in-construction-and-engineering-awards-2026-17-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/IWCEA-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Why the U.S. can’t build high-speed rail — and how to change that",
-        "summary": "A national railroad infrastructure bank could bring federal, state and private-sector interests together to build and operate HSR corridors, a Commuter Rail Coalition board member writes.",
+        "title": "Construction groundbreakings tumbled 25%, megaproject starts slowed",
+        "summary": "Activity through the first eight months of 2026 still outpaced levels at this time last year, according to Dodge Construction Network.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 18 Sep 2026 09:35:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/high-speed-rail-national-infrastructure-bank/830759/",
-        "image_url": "https://imgproxy.divecdn.com/-NU-LVejfaVMiw0JzcT1O6nQhO-e2rjvkwVAuuSqmfY/g:nowe:0:0/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzLTA2LTA3LVR1bGFyZS1TdHJlZXQtVW5kZXJjcm9zc2luZy5qcGVn.webp",
+        "published_at": "Mon, 21 Sep 2026 15:54:18 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-groundbreakings-plunge-August-2026/830940/",
+        "image_url": "https://imgproxy.divecdn.com/GBSbh9jAMy7vr7b4d9YiahLZjnfvZKb2W26Ql6vpO0M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcmthbnNhcy1BUksxLURhdGEtQ2VudGVyLUNhbXB1cy5qcGc=.webp",
+        "impact": 3
+      },
+      {
+        "title": "FAA greenlights $1.1B for airport upgrades",
+        "summary": "The awards, funded through the Airport Improvement Program, aim to upgrade critical airport infrastructure, including the addition of family-friendly features and vehicle movement area transmitters.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 21 Sep 2026 11:17:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/faa-greenlights-airport-upgrades/830861/",
+        "image_url": "https://imgproxy.divecdn.com/E6wqgphhFO01nBZYBC8Al6rjTmMxiKs0P_2KEanZIgs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzE2MDQ2ODM2X0FScmZ0NHguanBn.webp",
         "impact": 3
       }
     ],
     "ai": [
+      {
+        "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+        "summary": "arXiv:2609.21157v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct RTL Design, Agent-based HLS De",
+        "category": "AI",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.21157",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
+      },
+      {
+        "title": "LLM-Generated Feature Pools for Time Series Anomaly Detection",
+        "summary": "arXiv:2609.21801v1 Announce Type: new Abstract: We study how far a simple statistical pipeline can go on univariate time series anomaly detection under a strict selection protocol. The method extracts a small pool of statistics over sliding windows, scores each window with a transductive robust (MAD) model, and selects",
+        "category": "AI",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.21801",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
+      },
       {
         "title": "AI for Societal Impact",
         "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
@@ -471,47 +493,25 @@
         "impact": 4
       },
       {
-        "title": "Architecting memory and storage in the AI era",
-        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting a",
+        "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+        "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many i",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 04 Sep 2026 18:39:19 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.20971",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 4
       },
       {
-        "title": "Reimagining advertising with AI",
-        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+        "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+        "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 16 Sep 2026 13:00:00 GMT",
-        "source_url": "https://openai.com/index/reimagining-advertising-with-ai",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/55OzfM3w5QnfYsHGeqQPwD/da59df4251ec09b27e1855f4710f0c39/reimagining-advertising-with-ai-seo.png?w=1600&h=900&fit=fill",
-        "impact": 4
-      },
-      {
-        "title": "Our framework for reporting model misalignment",
-        "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-        "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 16 Sep 2026 17:00:00 GMT",
-        "source_url": "https://openai.com/index/model-misalignment-reporting-framework",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1ZIYnl31jt9gPO8qCbMGBZ/aaf74083a5332be1cb265dbdb6e652e0/model-misalignment-reporting-framework--seo-v002.png?w=1600&h=900&fit=fill",
-        "impact": 4
-      },
-      {
-        "title": "How Fyxer built an AI executive assistant people trust",
-        "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-        "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Mon, 14 Sep 2026 12:00:00 GMT",
-        "source_url": "https://openai.com/index/fyxer",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3mQ80ZMeQoDY9L8bTPbx7q/35320a6d450f2a8d3d91d45067867ea0/oai_Fyxer_SEO.png?w=1600&h=900&fit=fill",
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.21113",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 4
       }
     ]
