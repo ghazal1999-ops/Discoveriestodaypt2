@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-25",
-  "last_updated": "2026-09-25 01:09 UTC",
+  "date": "2026-09-26",
+  "last_updated": "2026-09-26 01:10 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "Molecular network resource identifies unknown compounds for biomarker discovery",
+        "summary": "Medical researchers, clinicians and pharmaceutical scientists often study small molecules called metabolites, which are produced in living cells through a variety of processes, including the breakdown of food, chemicals or drugs. This area of study is known as metabolomics, and it can be used to identify new signs of d",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Fri, 25 Sep 2026 13:20:12 EDT",
+        "source_url": "https://phys.org/news/2026-09-molecular-network-resource-unknown-compounds.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-resource-identifie.jpg",
+        "impact": 5
+      },
+      {
         "title": "Stanford Researchers Discover That the Human Brain May Be Two Separate Organs Fused Together",
         "summary": "A split in early brain development helped researchers grow human hindbrain neurons that could shed light on SMA and ALS. The human hindbrain, the region at the back of the brain that helps control breathing and swallowing, has been difficult to study in the laboratory. For decades, scientists have struggled to grow its",
         "category": "Science",
@@ -37,51 +48,18 @@
         "impact": 5
       },
       {
-        "title": "Distant time crystals can somehow fall into the same rhythm",
-        "summary": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried by spin-polarized electrons, allowing time crystals separated by up to 40 micrometers to lock to a common frequency. The",
+        "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
+        "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in the region.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 24 Sep 2026 09:16:41 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/time-crystal-oscillations-synchronization.webp",
-        "impact": 4
-      },
-      {
-        "title": "First stellar stream beyond the Milky Way could reveal dark matter",
-        "summary": "Astronomers have discovered the first globular cluster stellar stream beyond the Milky Way, opening a new way to study dark matter in distant galaxies. These faint trails of stars trace a galaxy’s gravitational structure and could eventually help scientists map invisible matter across the universe.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 23 Sep 2026 07:23:11 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081110.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/hubble-globular-cluster-stellar-stream.webp",
+        "published_at": "Fri, 25 Sep 2026 09:56:06 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/sea-spider-tanystylum-kiixin.webp",
         "impact": 4
       }
     ],
     "tech": [
-      {
-        "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of lingu",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Tue, 22 Sep 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-        "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 24 Sep 2026 18:52:38 +0000",
-        "source_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
-        "impact": 4
-      },
       {
         "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
         "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
@@ -94,25 +72,47 @@
         "impact": 3
       },
       {
-        "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-        "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+        "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+        "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 24 Sep 2026 20:45:00 +0000",
-        "source_url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/IMG_0951-rotated.jpeg?resize=900,1200",
+        "published_at": "Fri, 25 Sep 2026 17:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/aeropdsnew.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-        "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+        "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 24 Sep 2026 19:00:42 +0000",
-        "source_url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612",
+        "published_at": "Fri, 25 Sep 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
+        "impact": 3
+      },
+      {
+        "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+        "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creat",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-25T13:01:36-04:00",
+        "source_url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Therabody Promo Codes: 15% Off September 2026",
+        "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 25 Sep 2026 05:00:00 +0000",
+        "source_url": "https://www.wired.com/story/therabody-promo-code/",
+        "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/191:100/w_1280,c_limit/WIRED-Coupons-15.jpg",
         "impact": 3
       }
     ],
@@ -129,36 +129,25 @@
         "impact": 5
       },
       {
-        "title": "Landmark trial evaluates chemotherapy benefit in high-risk early-stage breast cancer",
-        "summary": "The addition of CDK4/6 inhibitors to endocrine therapy has changed the standard of care for patients with high-risk, early-stage estrogen receptor-positive, HER2-negative (ER+/HER2-) breast cancer by reducing the risk of recurrence. However, one patient subgroup continues to present a clinical dilemma. In current pract",
+        "title": "UACR, UPCR provide indistinguishable prognostic information in chronic kidney disease",
+        "summary": "In a cohort of patients with chronic kidney disease (CKD), urinary albumin-creatinine ratio (UACR) and urinary protein-creatinine ratio (UPCR) provide clinically indistinguishable prognostic information for kidney and cardiovascular outcomes, according to a research letter published online Sept. 23 in the Journal of th",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 24 Sep 2026 19:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-landmark-trial-chemotherapy-benefit-high.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/breast-cancer-6.jpg",
+        "published_at": "Fri, 25 Sep 2026 12:40:11 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-uacr-upcr-indistinguishable-prognostic-chronic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/uacr-upcr-provide-indi.jpg",
         "impact": 4
       },
       {
-        "title": "Blood proteins shift during Alzheimer's treatment and may help monitor the effects of the medication",
-        "summary": "Patients with early symptoms of Alzheimer's disease may be prescribed anti-amyloid therapy, which can help clear the sticky clumps of amyloid protein in the brain that characterize Alzheimer's. While these treatments cannot cure Alzheimer's or restore cognitive function to normal, they have been shown to slow the progr",
+        "title": "Radiotherapy after surgery significantly reduces atypical meningioma recurrence, clinical trial finds",
+        "summary": "Atypical meningiomas are tumors that originate in the meninges and are associated with a high risk of recurrence. Until now, it was unclear whether patients benefit from radiotherapy after complete surgical removal of the tumor. An international study in which MedUni Vienna played a key role provides new evidence that ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 24 Sep 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-blood-proteins-shift-alzheimer-treatment.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-proteins-reveal.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Wiskott-Aldrich syndrome: Long-term results of gene therapy developed",
-        "summary": "A single infusion of genetically corrected autologous hematopoietic stem cells can provide lasting clinical benefits for patients with Wiskott-Aldrich syndrome, a rare genetic disorder that impairs immune and platelet function, exposing affected children from an early age to severe infections, bleeding episodes, eczema",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 24 Sep 2026 17:20:12 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-wiskott-aldrich-syndrome-term-results.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/skin-bumps.jpg",
+        "published_at": "Fri, 25 Sep 2026 12:40:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-radiotherapy-surgery-significantly-atypical-meningioma.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/radiotherapy-significa.jpg",
         "impact": 4
       },
       {
@@ -170,6 +159,17 @@
         "published_at": "Wed, 23 Sep 2026 08:32:35 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/applying-cream-or-ointment.webp",
+        "impact": 4
+      },
+      {
+        "title": "Steatotic liver disease risk scores compared for predicting cirrhosis",
+        "summary": "For patients with steatotic liver disease (SLD), the steatosis-associated fibrosis estimator (SAFE) score demonstrated the greatest net benefit for predicting cirrhosis, according to a study published online Sept. 21 in JAMA Internal Medicine.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 25 Sep 2026 16:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-steatotic-liver-disease-scores-cirrhosis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/steatotic-liver-diseas-2.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+        "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 25 Sep 2026 19:36:10 +0000",
+        "source_url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+        "image_url": "https://images-assets.nasa.gov/image/933/933~large.jpg",
+        "impact": 4
+      },
+      {
         "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
         "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible explorat",
         "category": "Space",
@@ -243,48 +254,37 @@
         "impact": 4
       },
       {
-        "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
-        "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron&#160;and Chris Birch&#160;will serve as spacecraft commander and pilot, with JAXA (Japan Ae",
+        "title": "NASA, Boeing to Provide Update on Starliner Development",
+        "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Thu, 24 Sep 2026 21:15:46 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/20260724-crew-14-groupphoto-crop.jpg",
-        "impact": 4
+        "published_at": "Fri, 25 Sep 2026 22:06:50 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
+        "impact": 3
       },
       {
-        "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
-        "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated ",
+        "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+        "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of spac",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Thu, 24 Sep 2026 18:01:45 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
-        "image_url": "https://www.youtube.com/embed/pvxsvdgSZaI",
-        "impact": 4
+        "published_at": "Fri, 25 Sep 2026 19:53:03 +0000",
+        "source_url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
+        "impact": 3
       },
       {
-        "title": "Practicing for Safe Landings on the Moon and Beyond",
-        "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston develope",
+        "title": "2026-2027 DWU: Middle School Design Challenge",
+        "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”&#160; As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching ",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Thu, 24 Sep 2026 16:29:19 +0000",
-        "source_url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/afrc2026-0179-18orig.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
-        "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, eval",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 24 Sep 2026 13:53:48 +0000",
-        "source_url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
-        "image_url": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
-        "impact": 4
+        "published_at": "Fri, 25 Sep 2026 17:20:51 +0000",
+        "source_url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
+        "impact": 3
       }
     ],
     "astronomy": [
@@ -297,6 +297,17 @@
         "published_at": "Thu, 24 Sep 2026 03:07:08 +0000",
         "source_url": "https://www.universetoday.com/articles/strange-galaxies-in-the-early-universe-were-shaped-by-weird-stars",
         "image_url": "https://www.universetoday.com/article_images/GraceTelford_FirstStars_NASA_20260924_025410.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Astronomers Find a Sub-Neptune Orbiting Completely Backward Around a Red Dwarf",
+        "summary": "In our own solar system, all eight planets orbit our Sun in a nice, orderly fashion. None are more than 7° or so out of alignment with the equator, and all of them rotate in the same direction as the Sun itself. But that’s not the case for all solar systems, and a new paper published in Astronomy &amp; Astrophysics fro",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 25 Sep 2026 18:52:59 +0000",
+        "source_url": "https://www.universetoday.com/articles/astronomers-find-a-sub-neptune-orbiting-completely-backward-around-a-red-dwarf",
+        "image_url": "https://www.universetoday.com/article_images/WEB_eso1016a_20260923_134323.jpg",
         "impact": 4
       },
       {
@@ -331,40 +342,29 @@
         "source_url": "https://www.universetoday.com/articles/juice-mission-to-swing-by-earth-on-september-28",
         "image_url": "https://www.universetoday.com/article_images/Juice_flies_by_Earth_the_complete_path_20260923_212034.jpg",
         "impact": 3
-      },
-      {
-        "title": "Following Neptune Through Opposition 2026",
-        "summary": "Never seen Neptune for yourself? Late September 2026 presents an ideal opportunity to cross the outermost ice giant off of your ‘life list,’ as the planet reaches opposition for 2026, rising opposite to the setting Sun and riding high to the south towards local midnight.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 23 Sep 2026 13:50:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/following-neptune-through-opposition-2026",
-        "image_url": "https://www.universetoday.com/article_images/51935821827_8b49b64b45_c_20260922_183835.jpg",
-        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "Bigger Isn't Just an Aesthetic Choice: What Façade Systems Conceal Behind Their Materials",
-        "summary": "Seamless surfaces and minimal joints have become a defining signature of contemporary architecture, prized for the clean lines, and uniformity they bring to a building's envelope. Yet in façade engineering, this pursuit is rarely just about appearance. Regardless of the material used, increasing panel dimensions can in",
+        "title": "TC 175- Moneo Brock",
+        "summary": "This issue traces almost two decades of work by the international firm Moneo Brock, founded in New York in 1993 by Belén Moneo and Jeff Brock, and based in Madrid since 2002. Across 320 pages, the publication presents a selection of works built between 2007 and 2026, ranging from urban infrastructures and educational f",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 24 Sep 2026 01:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1183933/bigger-isnt-just-an-aesthetic-choice-what-facade-systems-conceal-behind-their-materials",
-        "image_url": "https://images.adsttc.com/media/images/6aa1/e9fe/237b/e901/8be9/62b8/large_jpg/bigger-isnt-just-an-aesthetic-choice-how-facade-systems-combine-simplicity-with-high-performance_13.jpg?1788996118",
+        "published_at": "Fri, 25 Sep 2026 09:55:00 +0000",
+        "source_url": "https://www.archdaily.com/1185807/tc-175-moneo-brock",
+        "image_url": "https://images.adsttc.com/media/images/6ab6/6f08/e944/b300/0137/3cff/large_jpg/TC175_Moneo_Brock_Portada_web.jpg?1790340878",
         "impact": 5
       },
       {
-        "title": "Multidisciplinary Health Center Bordeaux Dunant / Bartolo+Contré",
-        "summary": "The healthcare sector is currently undergoing significant changes. As medical practices become increasingly collaborative, architecture must evolve beyond the traditional model of isolated consultation rooms and technical facilities. The Centre de santé multidisciplinaire Dunant in Bordeaux was designed as the architec",
+        "title": "Space Architecture Week",
+        "summary": "During World Space Week, architecture expands its boundaries. The new space race raises a fundamental question for today's designers: how do we imagine, build, and inhabit beyond Earth? From October 5 to 8, 2026, the Faculty of Architecture, Design and Urbanism at the University of Buenos Aires will host Space Architec",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 23 Sep 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1185369/multidisciplinary-health-center-bordeaux-dunant-bartolo-plus-contre",
-        "image_url": "https://images.adsttc.com/media/images/6aad/2e7a/066f/0900/0145/75b8/large_jpg/sandrineiratcabal_2026_BARTOLOCONTRE_MEDICINA_BORDEAUX_WEB-8.jpg?1789734562",
+        "published_at": "Fri, 25 Sep 2026 09:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1185801/space-architecture-week",
+        "image_url": "https://images.adsttc.com/media/images/6ab6/6c22/e944/b300/0137/3cc1/large_jpg/Banner_Archdaily.jpg?1790340139",
         "impact": 4
       },
       {
@@ -403,28 +403,6 @@
     ],
     "construction": [
       {
-        "title": "Barhale to lead £14.6M Alconbury Weald pipeline project",
-        "summary": "Civil engineering, infrastructure and tunnelling firm Barhale has been appointed by Anglian Water to construct a £14.6M twin pumped rising main to provide wastewater network capacity for future development at Alconbury Weald in Cambridgeshire. The post Barhale to lead £14.6M Alconbury Weald pipeline project appeared fi",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 24 Sep 2026 07:44:16 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/barhale-to-lead-14-6m-alconbury-weald-pipeline-project-24-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Alconbury-Weald-1-Supporting-future-development-at-Alconbury-Weald-the-new-rising-main-will-pass-to-the-east-of-Huntingdon-560x315.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "How a construction newbie learned to manage O’Hare’s $8.8B infrastructure project",
-        "summary": "Chicago Department of Aviation&rsquo;s Zach Baughman is a lawyer, not a builder. That means he&rsquo;s constantly asking construction teams about every aspect of the build.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 22 Sep 2026 11:51:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/manage-ohare-airport-infrastructure-project-construction-newbie/831008/",
-        "image_url": "https://imgproxy.divecdn.com/tIYAIOQBPT4WJgJ4CiWCxf404i2n1H93JAiWdRwKloA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xX1pUbDFPNDguanBn.webp",
-        "impact": 4
-      },
-      {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
         "category": "Construction",
@@ -447,70 +425,92 @@
         "impact": 4
       },
       {
-        "title": "NC State to study adoption of upgraded construction helmets",
-        "summary": "Using a grant from the Job-Site Safety Institute, the university will analyze the path toward swapping out Type I for Type II construction helmets.",
+        "title": "Work begins on underground power station as Australia’s £6bn Snowy 2.0 moves into next phase",
+        "summary": "Construction of the underground power station for Australia's £6bn Snowy 2.0 pumped hydro project has entered a new phase, with permanent concrete pours commencing nearly 1km below ground and crews preparing to install major generating equipment. The post Work begins on underground power station as Australia&#8217;s £6",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 25 Sep 2026 14:53:04 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/work-begins-on-underground-power-station-as-australias-6bn-snowy-2-0-moves-into-next-phase-25-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/An-aerial-view-of-work-in-Snowy-2.0s-massive-machine-hall.-1920x1102-1-560x315.png",
+        "impact": 4
+      },
+      {
+        "title": "Watch webinar: Carbon capture and cement – How carbon capture technology is decarbonising construction today",
+        "summary": "Concrete is the second most used material on earth, behind only water. With cement, the binder in concrete, generating as much as 8% of global CO2 emissions, decarbonising construction is hard. The post Watch webinar: Carbon capture and cement – How carbon capture technology is decarbonising construction today appeared",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 25 Sep 2026 10:30:18 +0000",
+        "source_url": "https://www.newcivilengineer.com/technology/carbon-capture-and-cement-how-carbon-capture-technology-is-decarbonising-construction-today-25-09-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/watch-heidelberg-webinar-evozero-cement-JPEG-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Infrastructure contractors dodged a funding cliff, but another looms on Dec. 11",
+        "summary": "The deadline to extend federal surface transportation programs under the IIJA has been pushed to Dec. 11, &ldquo;but not all of the money moved with it,&rdquo; according to an attorney.&nbsp;",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Thu, 24 Sep 2026 09:30:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
-        "image_url": "https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp",
+        "published_at": "Fri, 25 Sep 2026 16:17:22 -0400",
+        "source_url": "https://www.constructiondive.com/news/infrastructure-contractors-funding-dec-11-iija-build-america-250/831433/",
+        "image_url": "https://imgproxy.divecdn.com/Cl3UDCwc93WlZD9jrwIvCO16Ec7ywrLmsAdV4U7p_Tk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNjM3MTEyLmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis",
-        "summary": "arXiv:2609.25254v1 Announce Type: new Abstract: Analyzing neuroimaging data requires specialized coding and statistical expertise, which limits accessibility for researchers without computational backgrounds. We present the AI Neuroscientist, a language agent for interactive data exploration. The system integrates a la",
+        "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+        "summary": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasting tasks, treating the choice to retrieve, ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.25254",
+        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.28475",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "When LLM Agents Fail to Read the Room: ReAdapt for Relational Social Reasoning",
-        "summary": "arXiv:2609.25284v1 Announce Type: new Abstract: A social agent's most basic decisions (should I react to this post? who should I reach out to?) are not purely content problems. The right action often hinges on the latent relationship between people -- tie strength, reciprocity, mutual connections -- rather than on whic",
+        "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+        "summary": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate established bioinformatics tools at scale. What remains manual is the decision layer surrounding that ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.25284",
+        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.28557",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing",
-        "summary": "arXiv:2609.25303v1 Announce Type: new Abstract: Large language models are increasingly deployed as course-specific tutors, but their usefulness depends on grounding in vetted instructional materials that are often revised mid-semester. Our prior work built a multimodal retrieval-augmented generation (RAG) system over a",
+        "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+        "summary": "arXiv:2609.28693v1 Announce Type: new Abstract: Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets. Providing an agent with access to every internal tool leads to oversized context windows, degraded tool selection, and severe governance vulnerabilities - as system polici",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.25303",
+        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.28693",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Recovering Agentic Sovereignty: Mitigating the Consensus Paradox via Contrastive Epistemic Decoding",
-        "summary": "arXiv:2609.25570v1 Announce Type: new Abstract: Large language models (LLMs) exhibit a parametric vulnerability to adversarial swarm consensus. To mitigate this sycophancy, we introduce Contrastive Epistemic Decoding (CED), a zero-shot inference intervention. Unlike standard Contrastive Decoding (CD) which relies on a ",
+        "title": "RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?",
+        "summary": "arXiv:2609.28850v1 Announce Type: new Abstract: Reproducing a machine learning paper involves most research steps, from installing software and debugging to running experiments, work that AI agents increasingly do. We introduce RECLAIM, a benchmark of 100 NeurIPS 2025 papers that can be rebuilt yearly from new conferen",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.25570",
+        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.28850",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "ArticleMiner: Ontology-Guided Knowledge Graph Construction from Scientific Publications",
-        "summary": "arXiv:2609.25607v1 Announce Type: new Abstract: Scientific papers keep much of their quantitative content in tables and supplementary files, where a number means something only through its header, caption, unit, analytical method, and the conventions of its field. Recovering the rows and columns of a table is therefore",
+        "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
+        "summary": "arXiv:2609.28876v1 Announce Type: new Abstract: We introduce Forecast-Dojo, a replayable environment for benchmarking and training LLM forecasting agents. It combines resolved prediction-market questions with dated news, allowing agents to research an event and revisit their predictions at successive historical dates. ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.25607",
+        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.28876",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
