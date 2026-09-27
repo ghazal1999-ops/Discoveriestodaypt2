@@ -1,8 +1,19 @@
 {
-  "date": "2026-09-26",
-  "last_updated": "2026-09-26 01:10 UTC",
+  "date": "2026-09-27",
+  "last_updated": "2026-09-27 01:05 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Quantum computer simulates matter “popping into existence”",
+        "summary": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 26 Sep 2026 09:47:38 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/string-breaking-dynamics-quantum-simulator.webp",
+        "impact": 5
+      },
       {
         "title": "For the first time, scientists watch sound jump between quantum states",
         "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based devices.",
@@ -15,28 +26,6 @@
         "impact": 5
       },
       {
-        "title": "Stanford scientists discover the human brain may actually be two separate organs",
-        "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery also allowed researchers to grow human hindbrain neurons in the lab, opening new possibilities for studying ALS, spinal mus",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 21 Sep 2026 06:12:51 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-scan-mri.webp",
-        "impact": 5
-      },
-      {
-        "title": "Molecular network resource identifies unknown compounds for biomarker discovery",
-        "summary": "Medical researchers, clinicians and pharmaceutical scientists often study small molecules called metabolites, which are produced in living cells through a variety of processes, including the breakdown of food, chemicals or drugs. This area of study is known as metabolomics, and it can be used to identify new signs of d",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Fri, 25 Sep 2026 13:20:12 EDT",
-        "source_url": "https://phys.org/news/2026-09-molecular-network-resource-unknown-compounds.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-resource-identifie.jpg",
-        "impact": 5
-      },
-      {
         "title": "Stanford Researchers Discover That the Human Brain May Be Two Separate Organs Fused Together",
         "summary": "A split in early brain development helped researchers grow human hindbrain neurons that could shed light on SMA and ALS. The human hindbrain, the region at the back of the brain that helps control breathing and swallowing, has been difficult to study in the laboratory. For decades, scientists have struggled to grow its",
         "category": "Science",
@@ -46,6 +35,17 @@
         "source_url": "https://scitechdaily.com/stanford-researchers-discover-that-the-human-brain-may-be-two-separate-organs-fused-together/",
         "image_url": "https://scitechdaily.com/images/Human-Brain-Neural-Network-Cerebral-Cortex-777x583.jpg",
         "impact": 5
+      },
+      {
+        "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
+        "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happening as oxygen transf",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 26 Sep 2026 10:38:02 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/pyrobitumen-rich-karelian-rocks.webp",
+        "impact": 4
       },
       {
         "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
@@ -61,14 +61,14 @@
     ],
     "tech": [
       {
-        "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-        "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+        "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Thu, 24 Sep 2026 18:39:47 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-ground-robot-2560x1440.jpg",
+        "published_at": "Fri, 25 Sep 2026 21:10:51 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
         "impact": 3
       },
       {
@@ -83,25 +83,25 @@
         "impact": 3
       },
       {
-        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-        "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 25 Sep 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
-        "impact": 3
-      },
-      {
-        "title": "Tesla&#8217;s Optimus robot is going through growing pains",
-        "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creat",
+        "title": "Apple hit with $5.7 billion in damages over haptic patents",
+        "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer ",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-09-25T13:01:36-04:00",
-        "source_url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-09-26T17:30:01-04:00",
+        "source_url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+        "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Sat, 26 Sep 2026 10:30:00 +0000",
+        "source_url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+        "image_url": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/191:100/w_1280,c_limit/GettyImages-2296209094.jpg",
         "impact": 3
       },
       {
@@ -118,6 +118,17 @@
     ],
     "medicine": [
       {
+        "title": "Inhaled drug shows promise for rare lung disease combination",
+        "summary": "A therapeutic principle rooted in decades of pulmonary vascular research is entering a new stage of clinical development. The investigational inhaled drug mosliciguat, a soluble guanylate cyclase (sGC) activator, has produced marked and consistent effects in a randomized phase 2 study involving patients with pulmonary ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 26 Sep 2026 11:00:03 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-inhaled-drug-rare-lung-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-riociguat-to-mosl.jpg",
+        "impact": 5
+      },
+      {
         "title": "New mesothelioma drug turns cancer’s own defenses against it",
         "summary": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it c",
         "category": "Medicine",
@@ -127,28 +138,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/lung-cancer-tumor-anatomy.webp",
         "impact": 5
-      },
-      {
-        "title": "UACR, UPCR provide indistinguishable prognostic information in chronic kidney disease",
-        "summary": "In a cohort of patients with chronic kidney disease (CKD), urinary albumin-creatinine ratio (UACR) and urinary protein-creatinine ratio (UPCR) provide clinically indistinguishable prognostic information for kidney and cardiovascular outcomes, according to a research letter published online Sept. 23 in the Journal of th",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 25 Sep 2026 12:40:11 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-uacr-upcr-indistinguishable-prognostic-chronic.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/uacr-upcr-provide-indi.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Radiotherapy after surgery significantly reduces atypical meningioma recurrence, clinical trial finds",
-        "summary": "Atypical meningiomas are tumors that originate in the meninges and are associated with a high risk of recurrence. Until now, it was unclear whether patients benefit from radiotherapy after complete surgical removal of the tumor. An international study in which MedUni Vienna played a key role provides new evidence that ",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 25 Sep 2026 12:40:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-radiotherapy-surgery-significantly-atypical-meningioma.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/radiotherapy-significa.jpg",
-        "impact": 4
       },
       {
         "title": "Breakthrough drug reverses skin aging and dramatically speeds healing",
@@ -170,6 +159,17 @@
         "published_at": "Fri, 25 Sep 2026 16:20:01 EDT",
         "source_url": "https://medicalxpress.com/news/2026-09-steatotic-liver-disease-scores-cirrhosis.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/steatotic-liver-diseas-2.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Hidden E. coli survive in bladder cells, but existing drug helps antibiotics reach them in lab tests",
+        "summary": "Urinary tract infections, or UTIs, are among the most common bacterial infections and are caused mostly by the uropathogenic bacterium Escherichia coli. But even after antibiotic treatment, many patients experience another UTI.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 25 Sep 2026 14:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-hidden-coli-survive-bladder-cells.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/helping-bladder-cells.jpg",
         "impact": 4
       }
     ],
@@ -230,63 +230,7 @@
         "impact": 3
       }
     ],
-    "space": [
-      {
-        "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-        "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 25 Sep 2026 19:36:10 +0000",
-        "source_url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
-        "image_url": "https://images-assets.nasa.gov/image/933/933~large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
-        "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible explorat",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 24 Sep 2026 21:27:17 +0000",
-        "source_url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-cote-divoire-75-092426.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA, Boeing to Provide Update on Starliner Development",
-        "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 25 Sep 2026 22:06:50 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
-        "impact": 3
-      },
-      {
-        "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-        "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of spac",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 25 Sep 2026 19:53:03 +0000",
-        "source_url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
-        "impact": 3
-      },
-      {
-        "title": "2026-2027 DWU: Middle School Design Challenge",
-        "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”&#160; As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 25 Sep 2026 17:20:51 +0000",
-        "source_url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
-        "impact": 3
-      }
-    ],
+    "space": [],
     "astronomy": [
       {
         "title": "Strange Galaxies in the Early Universe Were Shaped by Weird Stars",
@@ -375,7 +319,7 @@
         "journal": "dezeen.com",
         "published_at": "Thu, 24 Sep 2026 09:00:39 +0000",
         "source_url": "https://www.dezeen.com/2026/09/24/line-ramstad-oslo-architecture-triennale/",
-        "image_url": "https://static.dezeen.com/uploads/2026/09/line-ramstad-oslo-architecture-triennale_dezeen_2364_col_2.jpg",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -386,7 +330,7 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 22 Sep 2026 09:00:24 +0000",
         "source_url": "https://www.dezeen.com/2026/09/22/grimshaw-city-rail-link-stations-auckland/",
-        "image_url": "https://static.dezeen.com/uploads/2026/09/grimshaw-city-rail-link-stations-auckland-new-zealand_dezeen_2364_col_hero.jpg",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -397,7 +341,7 @@
         "journal": "dezeen.com",
         "published_at": "Sun, 20 Sep 2026 09:00:12 +0000",
         "source_url": "https://www.dezeen.com/2026/09/20/bamboo-buildings-roundup/",
-        "image_url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_3.jpg",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
     ],
@@ -425,28 +369,6 @@
         "impact": 4
       },
       {
-        "title": "Work begins on underground power station as Australia’s £6bn Snowy 2.0 moves into next phase",
-        "summary": "Construction of the underground power station for Australia's £6bn Snowy 2.0 pumped hydro project has entered a new phase, with permanent concrete pours commencing nearly 1km below ground and crews preparing to install major generating equipment. The post Work begins on underground power station as Australia&#8217;s £6",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 25 Sep 2026 14:53:04 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/work-begins-on-underground-power-station-as-australias-6bn-snowy-2-0-moves-into-next-phase-25-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/An-aerial-view-of-work-in-Snowy-2.0s-massive-machine-hall.-1920x1102-1-560x315.png",
-        "impact": 4
-      },
-      {
-        "title": "Watch webinar: Carbon capture and cement – How carbon capture technology is decarbonising construction today",
-        "summary": "Concrete is the second most used material on earth, behind only water. With cement, the binder in concrete, generating as much as 8% of global CO2 emissions, decarbonising construction is hard. The post Watch webinar: Carbon capture and cement – How carbon capture technology is decarbonising construction today appeared",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 25 Sep 2026 10:30:18 +0000",
-        "source_url": "https://www.newcivilengineer.com/technology/carbon-capture-and-cement-how-carbon-capture-technology-is-decarbonising-construction-today-25-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/watch-heidelberg-webinar-evozero-cement-JPEG-560x315.jpg",
-        "impact": 4
-      },
-      {
         "title": "Infrastructure contractors dodged a funding cliff, but another looms on Dec. 11",
         "summary": "The deadline to extend federal surface transportation programs under the IIJA has been pushed to Dec. 11, &ldquo;but not all of the money moved with it,&rdquo; according to an attorney.&nbsp;",
         "category": "Construction",
@@ -456,63 +378,85 @@
         "source_url": "https://www.constructiondive.com/news/infrastructure-contractors-funding-dec-11-iija-build-america-250/831433/",
         "image_url": "https://imgproxy.divecdn.com/Cl3UDCwc93WlZD9jrwIvCO16Ec7ywrLmsAdV4U7p_Tk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNjM3MTEyLmpwZw==.webp",
         "impact": 3
+      },
+      {
+        "title": "Punch List: Piedmont Healthcare commits to $600M Georgia hospital, Skanska wins $84M data center",
+        "summary": "Plus, Fortis Construction expands its manufacturing and tech unit and NIBS&rsquo; CEO joins a federal advisory committee.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 25 Sep 2026 09:53:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/punch-list-piedmont-georgia-hospital-skanska-data-center/831355/",
+        "image_url": "https://imgproxy.divecdn.com/cHnP5aT1lVrPCqW4ptTQV7B_IVFd2DIzs9B8AoILZcM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5OTMwOTMxXzEuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "NC State to study adoption of upgraded construction helmets",
+        "summary": "Using a grant from the Job-Site Safety Institute, the university will analyze the path toward swapping out Type I for Type II construction helmets.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 24 Sep 2026 09:30:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/study-construction-safety-helmets-jsi-nc-state/831191/",
+        "image_url": "https://imgproxy.divecdn.com/fWPR-7KNXNsGNRnB0dg9ac6bfjN3TTNYNcgbl6ZLMS0/g:nowe:0:16/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzk2MV9VOWg4dW9YLmpwZw==.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-        "summary": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasting tasks, treating the choice to retrieve, ",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.28475",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "blog.google",
+        "journal": "blog.google",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+        "impact": 4
       },
       {
-        "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-        "summary": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate established bioinformatics tools at scale. What remains manual is the decision layer surrounding that ",
+        "title": "The AI Hype Index: AI loves cheating",
+        "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.28557",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 23 Sep 2026 09:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
-        "summary": "arXiv:2609.28693v1 Announce Type: new Abstract: Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets. Providing an agent with access to every internal tool leads to oversized context windows, degraded tool selection, and severe governance vulnerabilities - as system polici",
+        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.28693",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 23 Sep 2026 12:00:00 GMT",
+        "source_url": "https://openai.com/index/ringg",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/773XsnwO9QT1z6x55Ku0BG/678970983193f3c32961714f6eb63320/og.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?",
-        "summary": "arXiv:2609.28850v1 Announce Type: new Abstract: Reproducing a machine learning paper involves most research steps, from installing software and debugging to running experiments, work that AI agents increasingly do. We introduce RECLAIM, a benchmark of 100 NeurIPS 2025 papers that can be rebuilt yearly from new conferen",
+        "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+        "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.28850",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 23 Sep 2026 01:00:00 GMT",
+        "source_url": "https://openai.com/index/airbnb-gpt-6-astra",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4EjU7S9AFpxyMlaAUQAoiu/9ad3eb003d32e0f6857f2e0e41d40e84/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-seo.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
-        "summary": "arXiv:2609.28876v1 Announce Type: new Abstract: We introduce Forecast-Dojo, a replayable environment for benchmarking and training LLM forecasting agents. It combines resolved prediction-market questions with dated news, allowing agents to research an event and revisit their predictions at successive historical dates. ",
+        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.28876",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 22 Sep 2026 12:00:00 GMT",
+        "source_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/28YD6O3zzNEdYaQ7MGhWfI/f27161b782112d8594c2f4c8035ccad1/parallel-option-c-seo-og-balanced.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
