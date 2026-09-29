@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-28",
-  "last_updated": "2026-09-28 01:23 UTC",
+  "date": "2026-09-29",
+  "last_updated": "2026-09-29 02:29 UTC",
   "categories": {
     "science": [
       {
@@ -15,15 +15,26 @@
         "impact": 5
       },
       {
-        "title": "Scientists Discover a New Potential Treatment Target for High Blood Pressure",
-        "summary": "The discovery could lead to more targeted treatments that reduce inflammation linked to high blood pressure. For nearly half of U.S. adults who have high blood pressure, controlling the condition can be a persistent challenge. Researchers at the University of Missouri are investigating whether a protein called TG2, fou",
+        "title": "Scientists Discover a Molecular “Memory” That Could Make Lost Weight Come Back",
+        "summary": "Obesity may leave behind a cellular memory that pushes the body to regain lost weight. Researchers at the Harrington Discovery Institute at University Hospitals and Case Western Reserve University have uncovered a mechanism that could help explain two stubborn features of obesity: why lost weight so often returns and w",
         "category": "Science",
         "source": "scitechdaily.com",
         "journal": "scitechdaily.com",
-        "published_at": "Sun, 27 Sep 2026 02:58:54 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-a-new-potential-treatment-target-for-high-blood-pressure/",
-        "image_url": "https://scitechdaily.com/images/Measurement-of-Blood-Pressure-Heart-Cardiology-777x518.jpg",
+        "published_at": "Mon, 28 Sep 2026 09:22:27 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-a-molecular-memory-that-could-make-lost-weight-come-back/",
+        "image_url": "https://scitechdaily.com/images/Doctor-Measuring-Waist-Obese-Man-777x515.jpg",
         "impact": 5
+      },
+      {
+        "title": "Scientists just discovered what coffee really does to your gut and brain",
+        "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learnin",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 28 Sep 2026 09:37:05 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/woman-enjoying-morning-coffee-and-sunshine.webp",
+        "impact": 4
       },
       {
         "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
@@ -46,108 +57,75 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/sea-spider-tanystylum-kiixin.webp",
         "impact": 4
-      },
-      {
-        "title": "Earth is tearing apart beneath the Pacific Northwest",
-        "summary": "Scientists have captured a subduction zone off Vancouver Island in the process of tearing itself apart, revealing that these massive tectonic systems may die piece by piece rather than all at once. The discovery could help explain ancient plate fragments, volcanic activity, and how hidden breaks beneath Cascadia may in",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 25 Sep 2026 08:20:18 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/deep-crack-subduction-zone-ocean-underwater.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-        "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+        "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+        "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 28 Sep 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sorbom-Kirtley-16x9-Dark.png?resize=1200,675",
+        "impact": 4
+      },
+      {
+        "title": "Bose starts adding Auracast to its headphones",
+        "summary": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the company plans to bring to more devices soon. Only a few major manufactur",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-28T15:31:24-04:00",
+        "source_url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24844791/BoseQCUltra.jpg?quality=90&strip=all&crop=0%2C10.718772561125%2C100%2C78.562454877751&w=1200",
+        "impact": 4
+      },
+      {
+        "title": "OpenAI keeps bulldozing mathematicians",
+        "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mat",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-09-28T13:00:00-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
+      },
+      {
+        "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+        "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Fri, 25 Sep 2026 21:10:51 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
+        "published_at": "Mon, 28 Sep 2026 21:49:10 +0000",
+        "source_url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
         "impact": 3
       },
       {
-        "title": "Engram is a sampler that turns broken AI hallucinations into music",
-        "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating som",
+        "title": "New device captures carbon dioxide by pumping it across a battery",
+        "summary": "The design requires less energy to capture CO2 than current systems.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-27T16:46:36-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "The smart home graveyard is getting crowded",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started A decade ago, a [&#",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-27T08:00:00-04:00",
-        "source_url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_190131_3100_0022.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Apple hit with $5.7 billion in damages over haptic patents",
-        "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer ",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-26T17:30:01-04:00",
-        "source_url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "You Don’t Need to Pay for Distraction-Blocking Software",
-        "summary": "These free iOS and Android apps create the physical friction you need to put down your phone.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Sun, 27 Sep 2026 10:15:00 +0000",
-        "source_url": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
-        "image_url": "https://media.wired.com/photos/6ab3c0e97606c9b90debea17/191:100/w_1280,c_limit/092326%20-%20Driving%20Phone%20Distraction.jpg",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 28 Sep 2026 20:31:06 +0000",
+        "source_url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1695996169-1152x648.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Inhaled drug shows promise for rare lung disease combination",
-        "summary": "A therapeutic principle rooted in decades of pulmonary vascular research is entering a new stage of clinical development. The investigational inhaled drug mosliciguat, a soluble guanylate cyclase (sGC) activator, has produced marked and consistent effects in a randomized phase 2 study involving patients with pulmonary ",
+        "title": "Experimental mRNA therapy dramatically extends treatment window for acetaminophen overdose in preclinical models",
+        "summary": "When a patient arrives at the hospital with an acetaminophen overdose, it's often a race against the clock. The only FDA-approved antidote for overdose-related liver injury, N‑acetylcysteine, must be administered within hours to be effective.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 26 Sep 2026 11:00:03 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-inhaled-drug-rare-lung-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-riociguat-to-mosl.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Low-dose radiation therapy may slow progression of knee osteoarthritis, long-term study indicates",
-        "summary": "Low-dose radiation therapy may do more than relieve pain from early knee osteoarthritis, with a long-term analysis suggesting it could also influence how the disease progresses. The findings come from a new analysis of a randomized trial conducted in Russia that followed nearly 300 patients for almost 12 years.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 27 Sep 2026 14:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-dose-therapy-knee-osteoarthritis-term.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/knee-pain.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Ultra-low-dose radiation therapy relieves bone pain from multiple myeloma",
-        "summary": "A short course of ultra-low-dose radiation therapy relieved painful bone lesions from multiple myeloma for most patients in a multi-institutional Phase II clinical trial. The findings suggest that a lower-intensity approach could help ease patients' pain without interrupting other treatment and with almost no side effe",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sun, 27 Sep 2026 14:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-ultra-dose-therapy-relieves-bone.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2015/multiplemyel.jpg",
+        "published_at": "Mon, 28 Sep 2026 15:00:23 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-experimental-mrna-therapy-treatment-window.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/mrna-vaccine.jpg",
         "impact": 4
       },
       {
@@ -162,14 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Millions more people with overweight could benefit from GLP-1 drugs to protect heart health, study suggests",
-        "summary": "New research being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, makes a case for extending the indication for GLP-1 receptor agonists (GLP1-RAs) to millions more people to protect their heart health.",
+        "title": "Supervised physical therapy improves short-term knee pain and function after ACL surgery in young adults",
+        "summary": "A randomized clinical trial found that supervised physical therapy after anterior cruciate ligament (ACL) surgery yielded greater improvements in pain, function and muscle strength than a self-directed exercise program, at least in the short term. The findings can inform care for people with ongoing knee symptoms after",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 27 Sep 2026 18:10:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-millions-people-overweight-benefit-glp.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/glp-1-medications.jpg",
+        "published_at": "Mon, 28 Sep 2026 17:00:12 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-physical-therapy-short-term-knee.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/physical-therapy.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Noninvasive nerve stimulation shows potential for treating uncontrolled high blood pressure",
+        "summary": "A noninvasive technique that stimulates nerves through the ear has been shown to be safe, well tolerated and easy for patients with uncontrolled high blood pressure to use at home, according to a clinical trial led by researchers at Queen Mary University of London.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 28 Sep 2026 13:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-noninvasive-nerve-potential-uncontrolled-high.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/non-invasive-nerve-sti-1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+        "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical tri",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 27 Sep 2026 09:53:39 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/senior-woman-taking-vitamin-supplement-medication-pill.webp",
         "impact": 4
       }
     ],
@@ -232,59 +232,59 @@
     ],
     "space": [
       {
-        "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-        "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests",
+        "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
+        "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. ",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Fri, 25 Sep 2026 19:36:10 +0000",
-        "source_url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
-        "image_url": "https://images-assets.nasa.gov/image/933/933~large.jpg",
+        "published_at": "Mon, 28 Sep 2026 19:26:57 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
+        "summary": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Mon, 28 Sep 2026 17:44:33 +0000",
+        "source_url": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/misc--spacecraft-art/Swift_in_space_09.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       },
       {
-        "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
-        "summary": "APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Sun, 27 Sep 2026 04:05:00 +0000",
-        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 3
-      },
-      {
-        "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-        "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professiona",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Sat, 26 Sep 2026 04:05:00 +0000",
-        "source_url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 3
-      },
-      {
-        "title": "NASA, Boeing to Provide Update on Starliner Development",
-        "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed",
+        "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
+        "summary": "Editor’s Note: This advisory was updated on Sept. 28, 2026, with ticketing information for the public. The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Fri, 25 Sep 2026 22:06:50 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
-        "impact": 3
+        "published_at": "Mon, 28 Sep 2026 16:16:40 +0000",
+        "source_url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-ii-crew.jpg",
+        "impact": 4
       },
       {
-        "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-        "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of spac",
+        "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
+        "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Fri, 25 Sep 2026 19:53:03 +0000",
-        "source_url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
-        "impact": 3
+        "published_at": "Mon, 28 Sep 2026 16:09:09 +0000",
+        "source_url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/",
+        "image_url": "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA ORBIT Challenge 2027",
+        "summary": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve prob",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Mon, 28 Sep 2026 14:56:39 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/nasa-orbit-challenge-2026.png",
+        "impact": 4
       }
     ],
     "astronomy": [
@@ -300,6 +300,28 @@
         "impact": 4
       },
       {
+        "title": "Diving into an Out-of-sync Galaxy",
+        "summary": "Galaxies are like snowflakes, no two exactly alike, even the spirals. The Hubble Space Telescope did a visual dive into the distant spiral NGC 4693 and found some intriguing hints to its past. For one thing, this member of the Virgo Cluster seems to have a central region that's rotating out of sync with the spiral arms",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Mon, 28 Sep 2026 23:30:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/diving-into-an-out-of-sync-galaxy",
+        "image_url": "https://www.universetoday.com/article_images/potm2609a_20260928_210459.jpg",
+        "impact": 4
+      },
+      {
+        "title": "How the Infant Universe Got Its First Heavy Elements",
+        "summary": "Way back in the earliest epochs of the Universe, the Big Bang was followed by a period called the Cosmic Dark Ages. It was a time when the cosmic soup of primordial particles was so thick that light couldn't propagate. Hence the term \"dark\"; also, because, even with our best telescopes, we can't see \"into\" that epoch. ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Mon, 28 Sep 2026 16:12:33 +0000",
+        "source_url": "https://www.universetoday.com/articles/how-the-infant-universe-got-its-first-heavy-elements",
+        "image_url": "https://www.universetoday.com/article_images/fire_yt_yz_white_core_feature.png_20260927_220325.webp",
+        "impact": 4
+      },
+      {
         "title": "Astronomers Find a Sub-Neptune Orbiting Completely Backward Around a Red Dwarf",
         "summary": "In our own solar system, all eight planets orbit our Sun in a nice, orderly fashion. None are more than 7° or so out of alignment with the equator, and all of them rotate in the same direction as the Sun itself. But that’s not the case for all solar systems, and a new paper published in Astronomy &amp; Astrophysics fro",
         "category": "Astronomy",
@@ -311,50 +333,28 @@
         "impact": 4
       },
       {
-        "title": "SKA May Detect Magnetic Fields on Distant Exoplanets",
-        "summary": "Studying exoplanets has provided astronomers with a plethora of insights regarding what characteristics need to be searched to find life beyond Earth. For the longest time, astronomers merely thought an exoplanet in a star’s habitable zone was a sufficient criterion for an Earth-like world. However, astronomers have le",
+        "title": "Cornell Lightsail Experiment Paves the Way for Interstellar Missions",
+        "summary": "Students in Cornell’s Space Systems Design Studio have published results from two lightsail experiments (Alpha CubeSat and Sailing to the Stars) built by engineering students at Cornell University.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 23 Sep 2026 06:35:18 +0000",
-        "source_url": "https://www.universetoday.com/articles/ska-may-detect-magnetic-fields-on-distant-exoplanets",
-        "image_url": "https://www.universetoday.com/article_images/eso2606a.jpg_750_20260923_062658.jpg",
-        "impact": 4
-      },
-      {
-        "title": "JWST Finds Dynamic Structural Evolution in Chariklo’s Rings",
-        "summary": "When we think of asteroids, we often think of the main asteroid belt between Mars and Jupiter that contains the majority of the known asteroids in our solar system. However, our solar system hosts several other populations of asteroids and icy rocks, including the Jupiter Trojan asteroids that orbit in Jupiter’s orbit,",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Sun, 27 Sep 2026 05:12:59 +0000",
-        "source_url": "https://www.universetoday.com/articles/jwst-finds-dynamic-structural-evolution-in-chariklos-rings",
-        "image_url": "https://www.universetoday.com/article_images/chariklo_vignette2.jpg_750_20260927_050850.jpg",
-        "impact": 3
-      },
-      {
-        "title": "JUICE Mission to Swing by Earth on September 28",
-        "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 23 Sep 2026 21:20:43 +0000",
-        "source_url": "https://www.universetoday.com/articles/juice-mission-to-swing-by-earth-on-september-28",
-        "image_url": "https://www.universetoday.com/article_images/Juice_flies_by_Earth_the_complete_path_20260923_212034.jpg",
+        "published_at": "Mon, 28 Sep 2026 23:49:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/cornell-university-successfully-deploys-free-flying-light-sails-in-orbit",
+        "image_url": "https://www.universetoday.com/article_images/Low-Res_ISS_Experiment-SailingToTheStars_20260928_233923.jpg",
         "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "TC 175- Moneo Brock",
-        "summary": "This issue traces almost two decades of work by the international firm Moneo Brock, founded in New York in 1993 by Belén Moneo and Jeff Brock, and based in Madrid since 2002. Across 320 pages, the publication presents a selection of works built between 2007 and 2026, ranging from urban infrastructures and educational f",
+        "title": "Story Space: Two Places for Storytelling",
+        "summary": "Norwich University School of Architecture and Art is proud to announce the 2026 High School Architecture Design Competition. Architecture is about solving problems for people through the composition of light, space, and material. It is about embracing the way space can be sculpted to improve how we live. Many standards",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 25 Sep 2026 09:55:00 +0000",
-        "source_url": "https://www.archdaily.com/1185807/tc-175-moneo-brock",
-        "image_url": "https://images.adsttc.com/media/images/6ab6/6f08/e944/b300/0137/3cff/large_jpg/TC175_Moneo_Brock_Portada_web.jpg?1790340878",
-        "impact": 5
+        "published_at": "Mon, 28 Sep 2026 09:15:00 +0000",
+        "source_url": "https://www.archdaily.com/1185906/story-space-two-places-for-storytelling",
+        "image_url": "https://images.adsttc.com/media/images/6aba/6c72/5c4d/8600/0165/6ca3/large_jpg/Norwich_University_Architecture_High_School_Competition_Poster2026.jpg?1790602362",
+        "impact": 4
       },
       {
         "title": "Office 101 Casa Andina / Caliza Arquitectura",
@@ -368,14 +368,14 @@
         "impact": 4
       },
       {
-        "title": "Pabellón El Eco 2020: Cronoboros / TANAT",
-        "summary": "Through the Manifesto of Emotional Architecture (published in 1953), Mathias Goeritz expressed a new form of architecture that goes beyond a logical and rational understanding of space, opening up the possibility of creating buildings capable of evoking deep sensations. As an exemplar of this architecture, Goeritz conc",
+        "title": "Farshid Moussavi wins 2026 Soane Medal for architecture",
+        "summary": "British-Iranian architect Farshid Moussavi has been awarded this year's Soane Medal for her \"sustained and rigorous\" contribution to architecture through building, teaching and writing. Moussavi, who founded Farshid Moussavi Architects in 2011 and is an architecture professor at the Harvard University Graduate School o",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sat, 26 Sep 2026 16:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1185654/pabellon-el-eco-2020-cronoboros-tanat",
-        "image_url": "https://images.adsttc.com/media/images/6ab1/86c0/c765/2000/0134/7190/large_jpg/Cronoboros_Sergio_Beltr_n_05.jpg?1790019279",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 28 Sep 2026 09:00:00 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
@@ -436,83 +436,83 @@
         "impact": 4
       },
       {
-        "title": "Watch webinar: Carbon capture and cement – How carbon capture technology is decarbonising construction today",
-        "summary": "Concrete is the second most used material on earth, behind only water. With cement, the binder in concrete, generating as much as 8% of global CO2 emissions, decarbonising construction is hard. The post Watch webinar: Carbon capture and cement – How carbon capture technology is decarbonising construction today appeared",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 25 Sep 2026 10:30:18 +0000",
-        "source_url": "https://www.newcivilengineer.com/technology/carbon-capture-and-cement-how-carbon-capture-technology-is-decarbonising-construction-today-25-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/07/watch-heidelberg-webinar-evozero-cement-JPEG-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Infrastructure contractors dodged a funding cliff, but another looms on Dec. 11",
-        "summary": "The deadline to extend federal surface transportation programs under the IIJA has been pushed to Dec. 11, &ldquo;but not all of the money moved with it,&rdquo; according to an attorney.&nbsp;",
+        "title": "Fluor, Balfour Beatty complete $677M Texas highway project",
+        "summary": "Five years after construction broke ground, the JV marked the opening of the Oak Hill Parkway project in Austin, Texas.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 25 Sep 2026 16:17:22 -0400",
-        "source_url": "https://www.constructiondive.com/news/infrastructure-contractors-funding-dec-11-iija-build-america-250/831433/",
-        "image_url": "https://imgproxy.divecdn.com/Cl3UDCwc93WlZD9jrwIvCO16Ec7ywrLmsAdV4U7p_Tk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNjM3MTEyLmpwZw==.webp",
+        "published_at": "Mon, 28 Sep 2026 16:12:26 -0400",
+        "source_url": "https://www.constructiondive.com/news/fluor-balfour-beatty-completion-texas-highway-project/831538/",
+        "image_url": "https://imgproxy.divecdn.com/1EW5b0v8G38STZ8CgmalaK09dZZ8TT4DQ6bC3i9gKAw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UUkIxNjU3Mi1FZGl0LmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "3 leadership phases define construction firms. Which one are you in?",
+        "summary": "There&rsquo;s a difference between putting out an immediate fire and shaping a business for long-term growth and success, writes a construction consultant.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 28 Sep 2026 09:40:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/3-leadership-phases-construction-where-are-you/830917/",
+        "image_url": "https://imgproxy.divecdn.com/UxP73rZ_UOGYZDvTo6WuWngoL-sxK9ZmJIJzQY3Fd9o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3NDIxMjk2LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "AI for Societal Impact",
-        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+        "summary": "arXiv:2609.30489v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into model performance on frontier and multimodal ",
         "category": "AI",
-        "source": "blog.google",
-        "journal": "blog.google",
-        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
-        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.30489",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "The AI Hype Index: AI loves cheating",
-        "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems",
+        "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+        "summary": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article prese",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 23 Sep 2026 09:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.30341",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+        "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
+        "summary": "arXiv:2609.30563v1 Announce Type: new Abstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreement with human behaviour and has paid little ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 23 Sep 2026 12:00:00 GMT",
-        "source_url": "https://openai.com/index/ringg",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/773XsnwO9QT1z6x55Ku0BG/678970983193f3c32961714f6eb63320/og.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.30563",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-        "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+        "title": "LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents",
+        "summary": "arXiv:2609.30662v1 Announce Type: new Abstract: Large language models (LLMs) can plan, use tools, write code, and execute long-horizon workflows, yet strong local competence does not guarantee project-level executive control. Agents may continue acting after the original objective is satisfied, producing low-value refi",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 23 Sep 2026 01:00:00 GMT",
-        "source_url": "https://openai.com/index/airbnb-gpt-6-astra",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4EjU7S9AFpxyMlaAUQAoiu/9ad3eb003d32e0f6857f2e0e41d40e84/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-seo.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.30662",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-        "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+        "title": "Learning What to Skip: Counterfactual Credit Assignment for Efficient Multi-Agent LLM Workflows",
+        "summary": "arXiv:2609.30734v1 Announce Type: new Abstract: Multi-agent LLM workflows use planning, execution, verification, and summarization to improve task performance, yet the value of each component depends on the state already produced. Executing every component can waste computation or overwrite a correct intermediate answe",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 22 Sep 2026 12:00:00 GMT",
-        "source_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/28YD6O3zzNEdYaQ7MGhWfI/f27161b782112d8594c2f4c8035ccad1/parallel-option-c-seo-og-balanced.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.30734",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
