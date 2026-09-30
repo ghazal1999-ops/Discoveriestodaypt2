@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-29",
-  "last_updated": "2026-09-29 02:29 UTC",
+  "date": "2026-09-30",
+  "last_updated": "2026-09-30 01:49 UTC",
   "categories": {
     "science": [
       {
@@ -61,36 +61,14 @@
     ],
     "tech": [
       {
-        "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-        "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
+        "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+        "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 28 Sep 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sorbom-Kirtley-16x9-Dark.png?resize=1200,675",
-        "impact": 4
-      },
-      {
-        "title": "Bose starts adding Auracast to its headphones",
-        "summary": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the company plans to bring to more devices soon. Only a few major manufactur",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-28T15:31:24-04:00",
-        "source_url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24844791/BoseQCUltra.jpg?quality=90&strip=all&crop=0%2C10.718772561125%2C100%2C78.562454877751&w=1200",
-        "impact": 4
-      },
-      {
-        "title": "OpenAI keeps bulldozing mathematicians",
-        "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mat",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-09-28T13:00:00-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "Tue, 29 Sep 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1362873121.jpg?resize=1200,800",
         "impact": 4
       },
       {
@@ -114,19 +92,41 @@
         "source_url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1695996169-1152x648.jpg",
         "impact": 3
+      },
+      {
+        "title": "OpenAI’s latest features take direct aim at the app store model",
+        "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 29 Sep 2026 20:15:47 +0000",
+        "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+        "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 29 Sep 2026 17:45:51 +0000",
+        "source_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
+        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Experimental mRNA therapy dramatically extends treatment window for acetaminophen overdose in preclinical models",
-        "summary": "When a patient arrives at the hospital with an acetaminophen overdose, it's often a race against the clock. The only FDA-approved antidote for overdose-related liver injury, N‑acetylcysteine, must be administered within hours to be effective.",
+        "title": "Promising therapy for fatty liver disease reduces fat, inflammation, and scarring in preclinical models",
+        "summary": "For millions of people living with metabolic dysfunction-associated steatohepatitis (MASH), treatment options remain limited. The progressive form of fatty liver disease develops when excess fat accumulates in the liver, leading to inflammation, tissue damage and fibrosis—the buildup of scar tissue that can eventually ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 28 Sep 2026 15:00:23 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-experimental-mrna-therapy-treatment-window.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/mrna-vaccine.jpg",
-        "impact": 4
+        "published_at": "Tue, 29 Sep 2026 14:40:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-therapy-fatty-liver-disease-fat.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-photo-of-a-researche.jpg",
+        "impact": 5
       },
       {
         "title": "Breakthrough drug reverses skin aging and dramatically speeds healing",
@@ -140,36 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Supervised physical therapy improves short-term knee pain and function after ACL surgery in young adults",
-        "summary": "A randomized clinical trial found that supervised physical therapy after anterior cruciate ligament (ACL) surgery yielded greater improvements in pain, function and muscle strength than a self-directed exercise program, at least in the short term. The findings can inform care for people with ongoing knee symptoms after",
+        "title": "Can exercise do more harm than good? Mini-heart research is uncovering new answers",
+        "summary": "\"Exercise is medicine\" is a commonly quoted phrase. But as is so often the case with medications, more is not always better. What counts as too much exercise, and how can it affect the heart? Does running a marathon or competing in an Ironman triathlon boost your health, or might it do the opposite? The development of ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 28 Sep 2026 17:00:12 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-physical-therapy-short-term-knee.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/physical-therapy.jpg",
+        "published_at": "Tue, 29 Sep 2026 21:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-good-mini-heart-uncovering.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-exercise-do-more-h.jpg",
         "impact": 4
       },
       {
-        "title": "Noninvasive nerve stimulation shows potential for treating uncontrolled high blood pressure",
-        "summary": "A noninvasive technique that stimulates nerves through the ear has been shown to be safe, well tolerated and easy for patients with uncontrolled high blood pressure to use at home, according to a clinical trial led by researchers at Queen Mary University of London.",
+        "title": "Detecting diseases through body odor? New laser technology shows potential for non-invasive diagnostics",
+        "summary": "Researchers at the Fraunhofer Institute for Integrated Circuits IIS and the Technical University of Dresden have tested a new approach for investigating disease-related changes in body odor. Using laser-based photoacoustic spectroscopy, they analyzed volatile organic compounds in simple body swabs. An initial study rev",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 28 Sep 2026 13:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-noninvasive-nerve-potential-uncontrolled-high.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/non-invasive-nerve-sti-1.jpg",
+        "published_at": "Tue, 29 Sep 2026 15:20:15 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-diseases-body-odor-laser-technology.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-diseases-thr.jpg",
         "impact": 4
       },
       {
-        "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-        "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical tri",
+        "title": "New genetic testing guidance could improve patient diagnosis worldwide",
+        "summary": "New guidance co-led by University of Otago researchers could help more people with suspected inherited diseases receive a clear genetic diagnosis.",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 27 Sep 2026 09:53:39 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/senior-woman-taking-vitamin-supplement-medication-pill.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 29 Sep 2026 13:40:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-genetic-guidance-patient-diagnosis-worldwide.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/gene-variant-1.jpg",
         "impact": 4
       }
     ],
@@ -232,71 +232,82 @@
     ],
     "space": [
       {
-        "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-        "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. ",
+        "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
+        "summary": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions. Developed at NASA’s Glenn Research Center in Cleveland, the material could be created directly on the Moon or Mars, allowing NASA to pac",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Mon, 28 Sep 2026 19:26:57 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg",
+        "published_at": "Tue, 29 Sep 2026 14:00:00 +0000",
+        "source_url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/jez-1-100x.jpg",
         "impact": 5
       },
       {
-        "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
-        "summary": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Mon, 28 Sep 2026 17:44:33 +0000",
-        "source_url": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/misc--spacecraft-art/Swift_in_space_09.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
-        "summary": "Editor’s Note: This advisory was updated on Sept. 28, 2026, with ticketing information for the public. The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft",
+        "title": "NASA Features Exploration, Science at International Space Conference",
+        "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the ",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Mon, 28 Sep 2026 16:16:40 +0000",
-        "source_url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-ii-crew.jpg",
+        "published_at": "Tue, 29 Sep 2026 20:55:24 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/iac.jpg",
         "impact": 4
       },
       {
-        "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
-        "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
+        "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
+        "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut ",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Mon, 28 Sep 2026 16:09:09 +0000",
-        "source_url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/",
-        "image_url": "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg",
+        "published_at": "Tue, 29 Sep 2026 15:31:56 +0000",
+        "source_url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg",
         "impact": 4
       },
       {
-        "title": "NASA ORBIT Challenge 2027",
-        "summary": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve prob",
+        "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+        "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems w",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Mon, 28 Sep 2026 14:56:39 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/nasa-orbit-challenge-2026.png",
+        "published_at": "Tue, 29 Sep 2026 21:27:56 +0000",
+        "source_url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-thumbnail-a-new-arrival-on-the-moon.png",
+        "impact": 4
+      },
+      {
+        "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+        "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunc",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 29 Sep 2026 21:00:00 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
       {
-        "title": "Strange Galaxies in the Early Universe Were Shaped by Weird Stars",
-        "summary": "Galaxies and their stars in the early Universe look a lot weirder than those we see today, and astronomers want to know why. A team of researchers at the University of Utah decided to survey certain stars in nearby galaxies as analogs of those that existed when the Universe was still in its infancy. The survey, called ",
+        "title": "Older Alien Worlds Might Still Be Stuck in the Slime Age",
+        "summary": "There’s an active debate in the astrobiology community of where to use our best telescopes to look for our best chance of seeing alien life. That debate has been going on for decades, and will continue for some time to come, but now there’s another option up for consideration. A new paper in the International Journal o",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 24 Sep 2026 03:07:08 +0000",
-        "source_url": "https://www.universetoday.com/articles/strange-galaxies-in-the-early-universe-were-shaped-by-weird-stars",
-        "image_url": "https://www.universetoday.com/article_images/GraceTelford_FirstStars_NASA_20260924_025410.jpg",
+        "published_at": "Tue, 29 Sep 2026 13:43:58 +0000",
+        "source_url": "https://www.universetoday.com/articles/older-alien-worlds-might-still-be-stuck-in-the-slime-age",
+        "image_url": "https://www.universetoday.com/article_images/eso1629a_20260928_140126.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Direct neutral gas found in galaxies 700M yrs post-Big Bang",
+        "summary": "Approximately 13.8 billion years ago, the Big Bang is hypothesized to have occurred, kickstarting our universe and eventually life on our small, blue world. While the Big Bang has yet to be directly observed, scientists have worked tirelessly to piece together the events that happened immediately after the Big Bang, sp",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 29 Sep 2026 05:14:39 +0000",
+        "source_url": "https://www.universetoday.com/articles/direct-neutral-gas-found-in-galaxies-700m-yrs-post-big-bang",
+        "image_url": "https://www.universetoday.com/article_images/Low-Res_CHIBJ_191_6_CHIBJ_191_5_Image_20260929_050556.jpg",
         "impact": 4
       },
       {
@@ -331,20 +342,31 @@
         "source_url": "https://www.universetoday.com/articles/astronomers-find-a-sub-neptune-orbiting-completely-backward-around-a-red-dwarf",
         "image_url": "https://www.universetoday.com/article_images/WEB_eso1016a_20260923_134323.jpg",
         "impact": 4
-      },
-      {
-        "title": "Cornell Lightsail Experiment Paves the Way for Interstellar Missions",
-        "summary": "Students in Cornell’s Space Systems Design Studio have published results from two lightsail experiments (Alpha CubeSat and Sailing to the Stars) built by engineering students at Cornell University.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 28 Sep 2026 23:49:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/cornell-university-successfully-deploys-free-flying-light-sails-in-orbit",
-        "image_url": "https://www.universetoday.com/article_images/Low-Res_ISS_Experiment-SailingToTheStars_20260928_233923.jpg",
-        "impact": 3
       }
     ],
     "architecture": [
+      {
+        "title": "Danish Architecture Center Celebrates Urbanist Jan Gehl's 90th Birthday with a Calendar of Activities and an Exhibition",
+        "summary": "For the second year running, Copenhagen was named the world's most livable city in the 2026 Economist Intelligence Unit's Global Liveability Index. According to the Danish Architecture Center, part of this progress in urban quality of life is due to the work of Danish architect and urban planner Jan Gehl, who celebrate",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 29 Sep 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1185868/danish-architecture-center-celebrates-urbanist-jan-gehls-90th-birthday-with-a-calendar-of-activities-and-an-exhibition",
+        "image_url": "https://images.adsttc.com/media/images/6ab8/8a0f/df03/a301/88d4/affd/large_jpg/jan-gehl_1.jpg?1790479042",
+        "impact": 4
+      },
+      {
+        "title": "Brick on Sticks Retail Store / DOT BOT STUDIO",
+        "summary": "Along the dense commercial fabric of Domlur-Indiranagar, a G+3 structure on a modest 40×60 plot announces itself quietly, almost evasively. In a landscape where dimensions are more often associated with compromise than ambition, the architecture resists the instinct to maximize presence through bulk or spectacle. Inste",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 29 Sep 2026 03:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1185580/brick-on-sticks-retail-store",
+        "image_url": "https://images.adsttc.com/media/images/6ab2/850d/325b/9100/01c4/6006/large_jpg/5.jpg?1790084411",
+        "impact": 4
+      },
       {
         "title": "Story Space: Two Places for Storytelling",
         "summary": "Norwich University School of Architecture and Art is proud to announce the 2026 High School Architecture Design Competition. Architecture is about solving problems for people through the composition of light, space, and material. It is about embracing the way space can be sculpted to improve how we live. Many standards",
@@ -357,51 +379,40 @@
         "impact": 4
       },
       {
-        "title": "Office 101 Casa Andina / Caliza Arquitectura",
-        "summary": "The intervention is located in the Laureles neighborhood of Medellín, inside a structure representative of the area's traditional residential architecture. In response to new urban dynamics, the building was adapted over time to host other uses—first a printing press and currently a coworking space for architecture fir",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 27 Sep 2026 16:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura",
-        "image_url": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c2/large_jpg/15_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019886",
-        "impact": 4
-      },
-      {
-        "title": "Farshid Moussavi wins 2026 Soane Medal for architecture",
-        "summary": "British-Iranian architect Farshid Moussavi has been awarded this year's Soane Medal for her \"sustained and rigorous\" contribution to architecture through building, teaching and writing. Moussavi, who founded Farshid Moussavi Architects in 2011 and is an architecture professor at the Harvard University Graduate School o",
+        "title": "Stanton Williams designs boarding houses to \"support the culture\" of Winchester College",
+        "summary": "Architecture studio Stanton Williams has completed two boarding houses for girls at Winchester College, wrapping courtyards with gabled brick buildings that reference the historic layout and architecture of the 640-year-old site. Winchester College was originally founded in 1382, and the project is its first new boardi",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
-        "published_at": "Mon, 28 Sep 2026 09:00:00 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
+        "published_at": "Tue, 29 Sep 2026 10:30:23 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       },
       {
-        "title": "\"It's time Norway realises that we also need to change\" says Line Ramstad",
-        "summary": "As a wealthy nation, Norway has a responsibility to tackle climate change by developing a nature-first approach to designing buildings, Oslo Architecture Triennale director Line Ramstad tells Dezeen in this interview. At this year's Oslo Architecture Triennale, built environment professionals and the general public gat",
+        "title": "Renovated warehouse becomes permanent home of African Futures Institute in Ghana",
+        "summary": "A former tile warehouse in Accra, Ghana, has been transformed into the headquarters of the African Futures Institute, an independent architecture school founded by Ghanaian-Scottish architect Lesley Lokko. Designed by Lokko with designer Fred Swart and architects Patrick Gentilezza, Patti Anahory and Laurence Lord, the",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
-        "published_at": "Thu, 24 Sep 2026 09:00:39 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/24/line-ramstad-oslo-architecture-triennale/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Grimshaw unveils trio of Auckland stations informed by Māori narratives",
-        "summary": "Architecture studio Grimshaw has designed three stations for City Rail Link in Auckland, New Zealand, guided by Māori cultural values that aim to connect the buildings to their sites. The three city-centre stations, named Te Waihorotiu, Karanga-a-Hape and Maungawhau, form part of development of the City Rail Link, whic",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 22 Sep 2026 09:00:24 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/22/grimshaw-city-rail-link-stations-auckland/",
+        "published_at": "Tue, 29 Sep 2026 09:02:33 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Contractors nail down infrastructure projects to wrap up construction season",
+        "summary": "Builders reported project wins for roads, highways, airports, rail projects and water facilities in the infrastructure sector to close the summer.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 29 Sep 2026 09:25:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/contractors-winning-us-infrastructure-projects/831485/",
+        "image_url": "https://imgproxy.divecdn.com/vCZ2oLYCrmWmiqVNLXxy1Nzgkmvrwl9hh-63xsLs4tM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxMTc3MTUzLmpwZw==.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -425,15 +436,15 @@
         "impact": 4
       },
       {
-        "title": "Work begins on underground power station as Australia’s £6bn Snowy 2.0 moves into next phase",
-        "summary": "Construction of the underground power station for Australia's £6bn Snowy 2.0 pumped hydro project has entered a new phase, with permanent concrete pours commencing nearly 1km below ground and crews preparing to install major generating equipment. The post Work begins on underground power station as Australia&#8217;s £6",
+        "title": "Dotted Line: How construction is dealing with cybersecurity in the age of AI",
+        "summary": "Contractors rank cybersecurity low on their priority lists. But lawyers say being prepared is critical when the inevitable breach occurs.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 25 Sep 2026 14:53:04 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/work-begins-on-underground-power-station-as-australias-6bn-snowy-2-0-moves-into-next-phase-25-09-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/An-aerial-view-of-work-in-Snowy-2.0s-massive-machine-hall.-1920x1102-1-560x315.png",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 29 Sep 2026 09:41:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/not-if-when-how-construction-is-dealing-with-cybersecurity-in-the-age-of/831567/",
+        "image_url": "https://imgproxy.divecdn.com/Z9ibnnXJCFAbeaFBP-wdQ9HFoh8GHibvssb76jgSxVc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db25zdHJ1Y3Rpb24taWxsdXN0cmF0aW9uLWNlbnN1c19jb3N0cy0wMzIzMjAtRFRfMS5qcGc=.webp",
+        "impact": 3
       },
       {
         "title": "Fluor, Balfour Beatty complete $677M Texas highway project",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/fluor-balfour-beatty-completion-texas-highway-project/831538/",
         "image_url": "https://imgproxy.divecdn.com/1EW5b0v8G38STZ8CgmalaK09dZZ8TT4DQ6bC3i9gKAw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UUkIxNjU3Mi1FZGl0LmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "3 leadership phases define construction firms. Which one are you in?",
-        "summary": "There&rsquo;s a difference between putting out an immediate fire and shaping a business for long-term growth and success, writes a construction consultant.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 28 Sep 2026 09:40:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/3-leadership-phases-construction-where-are-you/830917/",
-        "image_url": "https://imgproxy.divecdn.com/UxP73rZ_UOGYZDvTo6WuWngoL-sxK9ZmJIJzQY3Fd9o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3NDIxMjk2LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
-        "summary": "arXiv:2609.30489v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into model performance on frontier and multimodal ",
+        "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
+        "summary": "arXiv:2609.31790v1 Announce Type: new Abstract: Crystal plasticity (CP) simulations predict the mechanical behavior of polycrystalline metals, yet their routine use is hindered by the manual effort of configuring heterogeneous tools, orchestrating multi-step data pipelines, and calibrating constitutive parameters again",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.30489",
+        "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.31790",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-        "summary": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article prese",
+        "title": "COUNTERMEM: World-Model Verified Counter-Factual Memory for Language Agents",
+        "summary": "arXiv:2609.31874v1 Announce Type: new Abstract: Existing agent memory frameworks mainly create memory through an agent's interaction with the factual world, e.g., remembering feedback from actions taken to improve performance on future tasks. However, these frameworks seldom ask the \"what if\" question during memory con",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.30341",
+        "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.31874",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
-        "summary": "arXiv:2609.30563v1 Announce Type: new Abstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreement with human behaviour and has paid little ",
+        "title": "BioDyad: Synchronize Biomedical Discovery and Machine Learning Engineering",
+        "summary": "arXiv:2609.31939v1 Announce Type: new Abstract: Agentic biomedical machine learning (ML) draws on complementary advances in biomedical evidence acquisition and executable program search. Existing systems connect aspects of these capabilities, but coordinating them throughout program search remains challenging. New evid",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.30563",
+        "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.31939",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents",
-        "summary": "arXiv:2609.30662v1 Announce Type: new Abstract: Large language models (LLMs) can plan, use tools, write code, and execute long-horizon workflows, yet strong local competence does not guarantee project-level executive control. Agents may continue acting after the original objective is satisfied, producing low-value refi",
+        "title": "Symbolic Guidance for LLM Agents in Distributed Multiagent Coordination",
+        "summary": "arXiv:2609.31963v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents in multi-agent systems, yet their ability to reliably execute distributed coordination protocols remains poorly understood. While AgentsNet, a benchmark framework for distributed coordination amon",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.30662",
+        "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.31963",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Learning What to Skip: Counterfactual Credit Assignment for Efficient Multi-Agent LLM Workflows",
-        "summary": "arXiv:2609.30734v1 Announce Type: new Abstract: Multi-agent LLM workflows use planning, execution, verification, and summarization to improve task performance, yet the value of each component depends on the state already produced. Executing every component can waste computation or overwrite a correct intermediate answe",
+        "title": "CSI-Agent: LLM-Assisted Few-Shot Adaptation for Cross-Domain Wi-Fi CSI Sensing",
+        "summary": "arXiv:2609.31990v1 Announce Type: new Abstract: Wi-Fi channel state information (CSI) has enabled device-free sensing applications such as human activity recognition. However, CSI sensing models remain brittle in cross-domain deployment, where changes in users or environments can produce incorrect predictions. Existing",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.30734",
+        "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2609.31990",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
