@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-02",
-  "last_updated": "2026-10-02 01:58 UTC",
+  "date": "2026-10-03",
+  "last_updated": "2026-10-03 01:42 UTC",
   "categories": {
     "science": [
       {
@@ -12,17 +12,6 @@
         "published_at": "Tue, 29 Sep 2026 08:02:30 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/measuring-the-quantum-w-state.webp",
-        "impact": 5
-      },
-      {
-        "title": "New method generates nearly indistinguishable photons for quantum communication",
-        "summary": "Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a breakthrough in quantum communication. In their recently published paper in the journal Physical Review Letters, they demonstrate how special semiconductor nanostructures can be used to ",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 01 Oct 2026 17:40:10 EDT",
-        "source_url": "https://phys.org/news/2026-10-method-generates-indistinguishable-photons-quantum.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-communication-2.jpg",
         "impact": 5
       },
       {
@@ -57,9 +46,31 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/woman-enjoying-morning-coffee-and-sunshine.webp",
         "impact": 4
+      },
+      {
+        "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
+        "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happening as oxygen transf",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 26 Sep 2026 10:38:02 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/pyrobitumen-rich-karelian-rocks.webp",
+        "impact": 4
       }
     ],
     "tech": [
+      {
+        "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+        "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 02 Oct 2026 18:39:36 +0000",
+        "source_url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg",
+        "impact": 3
+      },
       {
         "title": "Can good design stop content creators from having sex in robotaxis?",
         "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
@@ -72,8 +83,30 @@
         "impact": 3
       },
       {
+        "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+        "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 02 Oct 2026 15:31:20 +0000",
+        "source_url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/laytr2.jpg?resize=1200,738",
+        "impact": 3
+      },
+      {
+        "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
+        "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 02 Oct 2026 13:23:09 +0000",
+        "source_url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/faulkner-1825451690.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
         "title": "Robotaxi operators will face fines for blocking first responders",
-        "summary": "A new California law places new rules on autonomous vehicles operators",
+        "summary": "A new California law places new rules on autonomous vehicles operators.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
@@ -81,51 +114,18 @@
         "source_url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
         "impact": 3
-      },
-      {
-        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-        "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 01 Oct 2026 19:18:03 +0000",
-        "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Google’s new Guided Vision feature can help you read the fine print",
-        "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or id",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-01T15:47:51-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-        "summary": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-01T14:52:58-04:00",
-        "source_url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Developing sustainable printing inks for functional organs",
-        "summary": "The organ transplant waiting list numbers 8,000 people each year in Germany alone, and about 10% of them never receive an organ. 3D bioprinting could help address the global shortage of donor organs by making it possible to automatically produce implantable organs or organ components tailored to individual patients \"at",
+        "title": "Generic, brand-name multiple sclerosis drugs may produce varied effects",
+        "summary": "A study led by UTSW researchers found that patients with multiple sclerosis (MS) taking generic versions of three commonly prescribed oral therapies had greater variability in blood proteins associated with MS disease activity than patients taking brand-name versions of the drugs.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 01 Oct 2026 16:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-sustainable-inks-functional.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/sustainable-printing-i-1.jpg",
+        "published_at": "Fri, 02 Oct 2026 11:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-generic-brand-multiple-sclerosis-drugs.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/generic-brand-name-ms.jpg",
         "impact": 4
       },
       {
@@ -140,36 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Functional decline precedes cardiovascular disease events by many years",
-        "summary": "Functional decline begins many years before clinically apparent cardiovascular disease (CVD) events, according to a study published online Sept. 23 in JAMA Cardiology.",
+        "title": "Metabolite-inspired compounds show promise for ulcerative colitis drug discovery",
+        "summary": "Two structurally modified compounds derived from an anti-inflammatory metabolite demonstrated enhanced anti-inflammatory activity in experimental ulcerative colitis in mice and human tissue, offering an underexplored drug discovery opportunity for this chronic inflammatory disease, according to a study led by researche",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 01 Oct 2026 20:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-functional-decline-cardiovascular-disease-events.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/functional-decline-pre.jpg",
+        "published_at": "Fri, 02 Oct 2026 13:20:13 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-metabolite-compounds-ulcerative-colitis-drug.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/metabolite-inspired-co.jpg",
         "impact": 4
       },
       {
-        "title": "Alzheimer's disease and aging reshape brain communication in different ways",
-        "summary": "Both normal aging and Alzheimer's change how different brain regions communicate with each other. But a new study from Lund University reveals that these alterations follow distinct patterns, with disease-related shifts distinguishable from those linked to normal aging. And the alterations seen in Alzheimer's patients ",
+        "title": "Same-day chemotherapy boosts cancer vaccine responses in preclinical models",
+        "summary": "Both the clinical effects and the unpleasant side effects of chemotherapies, from hair loss to mouth sores to gastrointestinal discomfort, stem from their indiscriminate destruction of cells prone to rapid proliferation. That includes CD8+ T cells, the body's frontline soldiers against viral infections and cancer, whic",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 01 Oct 2026 16:00:36 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-alzheimer-disease-aging-reshape-brain.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/alzheimers-disease-and.jpg",
+        "published_at": "Fri, 02 Oct 2026 13:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-day-chemotherapy-boosts-cancer-vaccine.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/same-day-chemotherapy.jpg",
         "impact": 4
       },
       {
-        "title": "How sex chromosomes influence lifelong health beyond determining biological sex",
-        "summary": "A new review published in Science brings together growing evidence that the X and Y chromosomes do more than determine biological sex. They also shape how cells function, age and respond to disease.",
+        "title": "Moms overcome barriers to postpartum care with help from patient navigators",
+        "summary": "While the transition to motherhood can be challenging for anyone, barriers such as inadequate health literacy, unreliable transportation, difficulty navigating a complex health care system, limited access to child care or insecure housing can be the tipping point between a new mom accessing needed care or going without",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 01 Oct 2026 14:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-sex-chromosomes-lifelong-health-biological.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-sex-chromosomes.jpg",
+        "published_at": "Fri, 02 Oct 2026 11:00:13 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-moms-barriers-postpartum-patient.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/postpartum.jpg",
         "impact": 4
       }
     ],
@@ -230,63 +230,7 @@
         "impact": 3
       }
     ],
-    "space": [
-      {
-        "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
-        "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shapi",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Thu, 01 Oct 2026 14:00:00 +0000",
-        "source_url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "10 Things: Movie Night",
-        "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Daw",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 02 Oct 2026 00:25:36 +0000",
-        "source_url": "https://science.nasa.gov/solar-system/10-things-movie-night/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s SpaceX Crew-13 Launches",
-        "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Serg",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 01 Oct 2026 18:05:38 +0000",
-        "source_url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
-        "summary": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight a",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 01 Oct 2026 15:59:24 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-crew13.jpg",
-        "impact": 4
-      },
-      {
-        "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
-        "summary": "APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional a",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Thu, 01 Oct 2026 04:05:00 +0000",
-        "source_url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      }
-    ],
+    "space": [],
     "astronomy": [
       {
         "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
@@ -346,25 +290,36 @@
     ],
     "architecture": [
       {
-        "title": "Mitte Oblique Garden / RAD+ar (Research Artistic Design + architecture)",
-        "summary": "The Mitte Oblique Garden positions design as a spatial intervention—a project that reclaims the human scale within the hyper-density of Jakarta. By dismantling the traditional boundaries between building, landscape, and climate, it offers a new architectural manifesto for the Asian megacity.",
+        "title": "Climate, Density, and Spatial Layers: 18 Houses Shaping Contemporary Vietnamese Architecture",
+        "summary": "Contemporary Vietnamese residential architecture stands out for its deep sensitivity to local microclimates and context. Detailed studies of weather patterns consistently drive strategic design decisions, resulting in buildings that act as adaptive shelters. Facing conditions that range from scorching summers to dry, c",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 01 Oct 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186064/mitte-oblique-garden-rad-plus-ar-research-artistic-design-plus-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6abd/11fc/a979/aa00/0118/7fa3/large_jpg/000_hero.jpg?1790775897",
+        "published_at": "Fri, 02 Oct 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1186158/climate-density-and-spatial-layers-18-houses-shaping-contemporary-vietnamese-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6abe/8b1e/87ec/5401/8809/f521/large_jpg/climate-density-and-spatial-layers-18-houses-shaping-contemporary-vietnamese-architecture_1.jpg?1790872362",
         "impact": 4
       },
       {
-        "title": "Fondation Beyeler’s Expansion and Safdie Architects’ Carnegie Library Restoration: This Week’s Review",
-        "summary": "Architecture this week reflects on how buildings and cities adapt to changing cultural, social, and environmental conditions. From the expansion of established institutions and the preservation of architectural archives to new approaches to housing and the use of domestic space, several stories consider how architectur",
+        "title": "\"Beauty in Itself Is Dangerous:\" Xu Tiantian on Moving Beyond Starchitecture in Louisiana Channel Interview",
+        "summary": "Xu Tiantian is the founding principal of DnA_Design and Architecture, an interdisciplinary practice that addresses both the physical and social dimensions of the contemporary living environment, across scales. Born in 1975 in Fujian, China, she received a Master of Architecture in Urban Design from the Harvard Graduate",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 01 Oct 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1186117/fondation-beyelers-expansion-and-safdie-architects-carnegie-library-restoration-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6abd/71c9/fdbd/f801/8857/ee3d/large_jpg/fondation-beyelers-expansion-and-safdie-architects-carnegie-library-restoration-this-weeks-review_8.jpg?1790800426",
+        "published_at": "Fri, 02 Oct 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1041129/beauty-in-itself-is-dangerous-xu-tiantian-on-moving-beyond-starchitecture-in-louisiana-channel-interview",
+        "image_url": "https://images.adsttc.com/media/images/69f3/e069/e0a7/c201/892c/b37e/large_jpg/beauty-in-itself-is-dangerous-xu-tiantian-in-louisiana-channel-interview_8.jpg?1777590389",
+        "impact": 4
+      },
+      {
+        "title": "From Buildings to Worldbuilding: Designing the Narratives of Space",
+        "summary": "The most innovative and impactful design projects arise from the intersection of different fields. The architecture community has always borrowed from, or been inspired by, other forms of cultural production such as film, photography, literature, and theatre. In the theatricality of Baroque churches and the cinematic s",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 02 Oct 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1185530/from-buildings-to-worldbuilding-designing-the-narratives-of-space",
+        "image_url": "https://images.adsttc.com/media/images/6ab2/1984/472c/aa01/8aa1/4edd/large_jpg/from-buildings-to-world-building-the-narrative-of-space_2.jpg?1790056849",
         "impact": 4
       },
       {
@@ -386,17 +341,6 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 29 Sep 2026 09:02:33 +0000",
         "source_url": "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Farshid Moussavi wins 2026 Soane Medal for architecture",
-        "summary": "British-Iranian architect Farshid Moussavi has been awarded this year's Soane Medal for her \"sustained and rigorous\" contribution to architecture through building, teaching and writing. Moussavi, who founded Farshid Moussavi Architects in 2011 and is an architecture professor at the Harvard University Graduate School o",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 28 Sep 2026 09:00:00 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
       }
@@ -425,6 +369,17 @@
         "impact": 4
       },
       {
+        "title": "Hungarian railway bridge installed over one weekend",
+        "summary": "Dutch engineering and heavy lifting firm Mammoet said it used self-propelled modular transporters (SPMTs) to install the first of two bridge structures forming the new Közvágóhíd railway bridge in Budapest, Hungary. The post Hungarian railway bridge installed over one weekend appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 02 Oct 2026 11:16:10 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/hungarian-railway-bridge-installed-over-one-weekend-02-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/25374a8b-54fe-3543-5b88-c3bc8b52bfd4-560x315.jpg",
+        "impact": 4
+      },
+      {
         "title": "Major firms secure places on £4.29bn civil engineering and infrastructure framework",
         "summary": "AtkinsRéalis, Costain, Graham, M Group and Octavius are among the firms appointed to Pagabo’s £4.29bn National Framework for Civil Engineering, Infrastructure and Enabling Works 2026. The post Major firms secure places on £4.29bn civil engineering and infrastructure framework appeared first on New Civil Engineer.",
         "category": "Construction",
@@ -436,81 +391,70 @@
         "impact": 4
       },
       {
-        "title": "Movers and shakers: Biggest construction and engineering appointments September 2026",
-        "summary": "With autumn now here, a number of major civil engineering and construction firms have made senior appointments. Here is a selection of the biggest moves across the sector in September: The post Movers and shakers: Biggest construction and engineering appointments September 2026 appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 01 Oct 2026 05:30:33 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-september-2026-01-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/sept-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "AI didn’t fix our construction data problem. It exposed it.",
-        "summary": "One contractor's data director has documentation tips for construction firms adopting artificial intelligence tools.",
+        "title": "Data center construction spending raced further ahead in August",
+        "summary": "&ldquo;Frankly, it&rsquo;s becoming difficult to contextualize the size and speed of this boom,&rdquo; said Anirban Basu, ABC chief economist.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Wed, 30 Sep 2026 12:33:20 -0400",
-        "source_url": "https://www.constructiondive.com/news/ai-doesnt-fix-data-problem-construction-need-unified-language/831774/",
-        "image_url": "https://imgproxy.divecdn.com/30cFlJnz_sICK-MJyFXUZ29vx-Ud5aKuJTsAv5O23j8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3Mjg5ODQzLmpwZw==.webp",
+        "published_at": "Fri, 02 Oct 2026 09:38:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/data-center-construction-spending-august/831954/",
+        "image_url": "https://imgproxy.divecdn.com/wg5iGCvbuLfc9FwQ-wJOjzYOxBroEGDxYGUiAfwexAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMDU1MTg2LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-        "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solution better than the c",
+        "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+        "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retr",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.38288",
+        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.00010",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AI Agents are Vulnerable to Radicalization",
-        "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and ",
+        "title": "When Do Causal World Models Help Modular LLM Agents",
+        "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity n",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.38296",
+        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.00012",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AIM: Agentic Idea Management for Automated Research",
-        "summary": "arXiv:2609.38445v1 Announce Type: new Abstract: Frontier LLMs are increasingly used to automate scientific research through iterative search. We distinguish idea-driven search from solution-driven search and identify three core challenges: organizing evolving research ideas, selecting promising directions, and maintain",
+        "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+        "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practit",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.38445",
+        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.00025",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "PrivMeSA: Privacy-Aware Self-Evolving Multi-Agent System for Medicine via Local-Remote LLM Collaboration",
-        "summary": "arXiv:2609.38458v1 Announce Type: new Abstract: Clinical large language model (LLM) agents deployed locally can consult more capable remote models, but doing so risks exposing patient information. Privacy-conscious delegation places disclosure decisions with a local agent, yet removing explicit identifiers is insuffici",
+        "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+        "summary": "arXiv:2610.00313v1 Announce Type: new Abstract: Scientific coding agents receive equations, boundary conditions, and output requirements in writing, then must assess the programs they revise. Rules to Tools (R2T) supplies prepared executable checks of public scientific requirements. Matched SciCode repair groups share ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.38458",
+        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.00313",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Learning to Route in Visual Space via Multi-Step Embedding Retrieval",
-        "summary": "arXiv:2609.38743v1 Announce Type: new Abstract: LLM agents rely on retrieval tools to access external knowledge, yet visual agentic search remains severely bottlenecked by standard single-step retrievers. In current pipelines, the agent must issue text queries for every intermediate step, struggling when visual clues a",
+        "title": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
+        "summary": "arXiv:2610.00372v1 Announce Type: new Abstract: Large language model agents rely on external harnesses to pass information between the model and its environment and to recover from execution errors. Yet recovery is usually judged only by average task success. This hides an important tension. The same operation can resc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2609.38743",
+        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.00372",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
