@@ -1,8 +1,19 @@
 {
-  "date": "2026-10-03",
-  "last_updated": "2026-10-03 01:42 UTC",
+  "date": "2026-10-04",
+  "last_updated": "2026-10-04 02:22 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Scientists just made a superconductor stronger using “empty space”",
+        "summary": "Researchers have demonstrated that quantum fluctuations in supposedly empty space can strengthen superconductivity, raising the transition temperature of an ultrathin material by as much as 5.4%. The discovery opens the possibility of using specially engineered vacuum environments to control quantum materials without d",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 03 Oct 2026 08:03:23 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/vacuum-fluctuation-enhanced-superconductivity.webp",
+        "impact": 5
+      },
       {
         "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
         "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communication, and computing.",
@@ -15,51 +26,51 @@
         "impact": 5
       },
       {
-        "title": "This giant stick insect fooled scientists for decades",
-        "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick insect had been misidentified for decades, showing how much biodiversity may still be hiding in plain si",
+        "title": "Newly discovered hair cells on squid may offer clues to understanding hearing loss in humans",
+        "summary": "Scientists have known for years that squid have cells with bundles of tiny, hairlike protrusions on their heads and arms, similar to those buried deep inside the human ear that allow us to hear. Now, researchers at Case Western Reserve University have discovered that these animals have hundreds more of these cells, cal",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Sat, 03 Oct 2026 11:00:02 EDT",
+        "source_url": "https://phys.org/news/2026-10-newly-hair-cells-squid-clues.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-hair-1.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+        "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron can preserve a stable magnetic signal, potentially acting like a microscopic fossil of the Moon’s long",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/adult-female-clemencantha-goliath.webp",
+        "published_at": "Sat, 03 Oct 2026 09:12:14 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/lunar-topography-and-magnetic-anomalies.webp",
         "impact": 4
       },
       {
-        "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-        "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits or serve as a new ki",
+        "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
+        "summary": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the Cajon Pass junction may be increasingly primed for a rupture that could cross both systems, although th",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 01 Oct 2026 09:17:13 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists just discovered what coffee really does to your gut and brain",
-        "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learnin",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 28 Sep 2026 09:37:05 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/woman-enjoying-morning-coffee-and-sunshine.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
-        "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happening as oxygen transf",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 26 Sep 2026 10:38:02 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/pyrobitumen-rich-karelian-rocks.webp",
+        "published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/coulomb-stress-accumulation-of-southern-san-andreas-fault-system-2025.webp",
         "impact": 4
       }
     ],
     "tech": [
+      {
+        "title": "The dawn of the age of the exoskeleton",
+        "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Sat, 03 Oct 2026 11:15:33 +0000",
+        "source_url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-2560x1440.jpg",
+        "impact": 3
+      },
       {
         "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
         "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
@@ -69,17 +80,6 @@
         "published_at": "Fri, 02 Oct 2026 18:39:36 +0000",
         "source_url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Can good design stop content creators from having sex in robotaxis?",
-        "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Thu, 01 Oct 2026 19:19:42 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-boink-taxi-1152x648.jpg",
         "impact": 3
       },
       {
@@ -94,82 +94,82 @@
         "impact": 3
       },
       {
-        "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-        "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
+        "title": "3D movies are finally worth watching",
+        "summary": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wowed me on the big screen and went on to become the highest-grossing film [&#8230;]",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 02 Oct 2026 13:23:09 +0000",
-        "source_url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/faulkner-1825451690.jpg?resize=1200,800",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-03T08:00:00-04:00",
+        "source_url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       },
       {
-        "title": "Robotaxi operators will face fines for blocking first responders",
-        "summary": "A new California law places new rules on autonomous vehicles operators.",
+        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 02 Oct 2026 00:57:57 +0000",
-        "source_url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-02T14:00:00-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Generic, brand-name multiple sclerosis drugs may produce varied effects",
-        "summary": "A study led by UTSW researchers found that patients with multiple sclerosis (MS) taking generic versions of three commonly prescribed oral therapies had greater variability in blood proteins associated with MS disease activity than patients taking brand-name versions of the drugs.",
+        "title": "Mapping parasite mitochondria reveals ancient pathways and dozens of potential new drug targets",
+        "summary": "Cut the power, and the machine stops. That was part of the motivation behind a four-year effort to map all the proteins in the mitochondria—often called the powerhouse of the cell—of the parasites that cause sleeping sickness, giardiasis, leishmaniasis and babesiosis, diseases that together affect nearly a billion peop",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 02 Oct 2026 11:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-generic-brand-multiple-sclerosis-drugs.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/generic-brand-name-ms.jpg",
+        "published_at": "Sat, 03 Oct 2026 15:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-parasite-mitochondria-reveals-ancient-pathways.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fluorescence-microscop-3.jpg",
         "impact": 4
       },
       {
-        "title": "Breakthrough drug reverses skin aging and dramatically speeds healing",
-        "summary": "A topical drug that removes aging, damaged cells helped older mice heal skin wounds significantly faster. The treatment appeared to reactivate repair pathways involved in inflammation, collagen production, and new blood vessel growth.",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 23 Sep 2026 08:32:35 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/applying-cream-or-ointment.webp",
-        "impact": 4
-      },
-      {
-        "title": "Metabolite-inspired compounds show promise for ulcerative colitis drug discovery",
-        "summary": "Two structurally modified compounds derived from an anti-inflammatory metabolite demonstrated enhanced anti-inflammatory activity in experimental ulcerative colitis in mice and human tissue, offering an underexplored drug discovery opportunity for this chronic inflammatory disease, according to a study led by researche",
+        "title": "Climate change affects Indigenous children's health worldwide, review of 53 studies finds",
+        "summary": "Indigenous children across the globe are experiencing significant climate-related health impacts, ranging from malnutrition and infectious diseases to effects on mental health and cultural well-being and problems before birth, according to a new study.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 02 Oct 2026 13:20:13 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-metabolite-compounds-ulcerative-colitis-drug.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/metabolite-inspired-co.jpg",
+        "published_at": "Sat, 03 Oct 2026 11:00:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-climate-affects-indigenous-children-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/australia-outback.jpg",
         "impact": 4
       },
       {
-        "title": "Same-day chemotherapy boosts cancer vaccine responses in preclinical models",
-        "summary": "Both the clinical effects and the unpleasant side effects of chemotherapies, from hair loss to mouth sores to gastrointestinal discomfort, stem from their indiscriminate destruction of cells prone to rapid proliferation. That includes CD8+ T cells, the body's frontline soldiers against viral infections and cancer, whic",
+        "title": "Brain scans show shared changes during depression treatment and distinct antidepressant effects in some patients",
+        "summary": "Major depressive disorder (MDD) is a common mental health condition primarily characterized by persistent low mood or loss of interest in daily activities. While several medications are available to treat depression, finding one that works for each patient can take time.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 02 Oct 2026 13:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-day-chemotherapy-boosts-cancer-vaccine.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/same-day-chemotherapy.jpg",
+        "published_at": "Sat, 03 Oct 2026 10:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-brain-scans-depression-treatment-distinct.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/shared-and-drug-specif.jpg",
         "impact": 4
       },
       {
-        "title": "Moms overcome barriers to postpartum care with help from patient navigators",
-        "summary": "While the transition to motherhood can be challenging for anyone, barriers such as inadequate health literacy, unreliable transportation, difficulty navigating a complex health care system, limited access to child care or insecure housing can be the tipping point between a new mom accessing needed care or going without",
+        "title": "Menopause is a major health milestone, yet health records barely track it—new research",
+        "summary": "Anyone with ovaries who lives long enough will experience menopause. While menopause is a natural transition in midlife, it can strongly affect a person's quality of life and their current and future risk of heart disease, osteoporosis and other issues. So you might think that whether someone is experiencing or has gon",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 02 Oct 2026 11:00:13 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-moms-barriers-postpartum-patient.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/postpartum.jpg",
+        "published_at": "Sat, 03 Oct 2026 08:00:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-menopause-major-health-milestone-track.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/menopausal-women.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Research reveals a specific brain circuit implicated in OCD",
+        "summary": "Treatment for obsessive-compulsive disorder (OCD), a mental health condition characterized by distressing, uncontrollable thoughts and repetitive behaviors, has centered on psychotherapy and medication to curb symptoms. New research identifying a previously unknown brain circuit involved in OCD could be a key step towa",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 03 Oct 2026 08:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-reveals-specific-brain-circuit-implicated.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-reveals-a-spe.jpg",
         "impact": 4
       }
     ],
@@ -230,7 +230,63 @@
         "impact": 3
       }
     ],
-    "space": [],
+    "space": [
+      {
+        "title": "NASA Opens Applications for Next Class of Flight Directors",
+        "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 02 Oct 2026 15:49:26 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+        "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that bene",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 02 Oct 2026 19:30:00 +0000",
+        "source_url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+        "image_url": "https://www.youtube.com/embed/5GeAORj0Nw0",
+        "impact": 4
+      },
+      {
+        "title": "10 Things: Movie Night",
+        "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Daw",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 02 Oct 2026 00:25:36 +0000",
+        "source_url": "https://science.nasa.gov/solar-system/10-things-movie-night/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "impact": 4
+      },
+      {
+        "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+        "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional a",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Sat, 03 Oct 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 3
+      },
+      {
+        "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+        "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 02 Oct 2026 19:54:54 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20260828-admin-0031large.jpg",
+        "impact": 3
+      }
+    ],
     "astronomy": [
       {
         "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
@@ -290,6 +346,17 @@
     ],
     "architecture": [
       {
+        "title": "Foundations House / Holger Cuadrado",
+        "summary": "The house is located in a residential neighborhood of the city of Loja, at 2,060 meters above sea level in the lower Andes in southern Ecuador. Situated on a small plot of 7.60 m x 13.50 m, this project seeks to reflect on issues related to the structural principle in the definition of architecture and spatial flexibil",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 02 Oct 2026 19:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1022179/foundations-house-holger-cuadrado",
+        "image_url": "https://images.adsttc.com/media/images/6707/3594/4003/1832/7544/18f2/large_jpg/casa-fundamentos-holger-cuadrado_10.jpg?1728525741",
+        "impact": 4
+      },
+      {
         "title": "Climate, Density, and Spatial Layers: 18 Houses Shaping Contemporary Vietnamese Architecture",
         "summary": "Contemporary Vietnamese residential architecture stands out for its deep sensitivity to local microclimates and context. Detailed studies of weather patterns consistently drive strategic design decisions, resulting in buildings that act as adaptive shelters. Facing conditions that range from scorching summers to dry, c",
         "category": "Architecture",
@@ -330,18 +397,7 @@
         "journal": "dezeen.com",
         "published_at": "Tue, 29 Sep 2026 10:30:23 +0000",
         "source_url": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
-        "impact": 4
-      },
-      {
-        "title": "Renovated warehouse becomes permanent home of African Futures Institute in Ghana",
-        "summary": "A former tile warehouse in Accra, Ghana, has been transformed into the headquarters of the African Futures Institute, an independent architecture school founded by Ghanaian-Scottish architect Lesley Lokko. Designed by Lokko with designer Fred Swart and architects Patrick Gentilezza, Patti Anahory and Laurence Lord, the",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 29 Sep 2026 09:02:33 +0000",
-        "source_url": "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "image_url": "https://static.dezeen.com/uploads/2026/09/winchester-college-stanton-williams-education-residential-architectre-uk_dezeen_2364_hero.jpg",
         "impact": 4
       }
     ],
@@ -404,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-        "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retr",
+        "title": "The eternal complement",
+        "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.00010",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
+        "source_url": "https://openai.com/index/the-eternal-complement",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2lnidMsGW3gfP6p4fYJZTg/be8ebadd2bf9e9d83adea7a6f28f0501/eternal-complement-seo-white-preview.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "When Do Causal World Models Help Modular LLM Agents",
-        "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity n",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.00012",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "blog.google",
+        "journal": "blog.google",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+        "impact": 4
       },
       {
-        "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-        "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practit",
+        "title": "The AI Hype Index: AI loves cheating",
+        "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.00025",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 23 Sep 2026 09:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
-        "summary": "arXiv:2610.00313v1 Announce Type: new Abstract: Scientific coding agents receive equations, boundary conditions, and output requirements in writing, then must assess the programs they revise. Rules to Tools (R2T) supplies prepared executable checks of public scientific requirements. Matched SciCode repair groups share ",
+        "title": "Disrupting a coordinated model-distillation campaign",
+        "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.00313",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 30 Sep 2026 10:30:00 GMT",
+        "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7MP5Bq8wKRpAAnnhqfdA8o/3ca1f00ae7ec16c5a569eb6195e24c90/disrupting-a-coordinated-model-distillation-campaign-seo.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
-        "summary": "arXiv:2610.00372v1 Announce Type: new Abstract: Large language model agents rely on external harnesses to pass information between the model and its environment and to recover from execution errors. Yet recovery is usually judged only by average task success. This hides an important tension. The same operation can resc",
+        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.00372",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 23 Sep 2026 12:00:00 GMT",
+        "source_url": "https://openai.com/index/ringg",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/773XsnwO9QT1z6x55Ku0BG/678970983193f3c32961714f6eb63320/og.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
