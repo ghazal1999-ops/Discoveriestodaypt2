@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-04",
-  "last_updated": "2026-10-04 02:22 UTC",
+  "date": "2026-10-05",
+  "last_updated": "2026-10-05 01:32 UTC",
   "categories": {
     "science": [
       {
@@ -83,40 +83,84 @@
         "impact": 3
       },
       {
-        "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
-        "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+        "title": "TechCrunch Mobility: Reining in robotaxis",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Fri, 02 Oct 2026 15:31:20 +0000",
-        "source_url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/laytr2.jpg?resize=1200,738",
+        "published_at": "Sun, 04 Oct 2026 16:05:00 +0000",
+        "source_url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/zoox-waymo-getty.jpg?resize=1200,801",
         "impact": 3
       },
       {
-        "title": "3D movies are finally worth watching",
-        "summary": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wowed me on the big screen and went on to become the highest-grossing film [&#8230;]",
+        "title": "The MacBook Air M5 is $200 off for the first time in months",
+        "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, ",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-10-03T08:00:00-04:00",
-        "source_url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-10-04T08:34:01-04:00",
+        "source_url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       },
       {
-        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-        "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
+        "title": "The iPad Mini is slightly cheaper again during Prime Day",
+        "summary": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model [&#82",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-10-02T14:00:00-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "published_at": "2026-10-04T08:31:50-04:00",
+        "source_url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
+        "summary": "A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially in patients whose tumors had high levels of the vitamin D receptor.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 03 Oct 2026 23:10:23 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/destroying-cancer-tumor-from-inside-out.webp",
+        "impact": 5
+      },
+      {
+        "title": "Trial results show no survival benefit with the use of proton therapy in patients with advanced hepatocellular carcinoma",
+        "summary": "Initial results of the NRG Oncology NRG-GI003 clinical study comparing proton and photon therapy for patients with advanced hepatocellular carcinoma (HCC) indicate that proton therapy did not improve the primary objective of overall survival (OS). At the planned interim analysis, the trial was released for reporting af",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 04 Oct 2026 20:30:06 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-09-trial-results-survival-benefit-proton.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/liver-genes.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Brain tissue removed during surgery reveals potential way to curb inflammation linked to Alzheimer's",
+        "summary": "Inflammatory conditions in the brain, including traumatic brain injury and degenerative diseases like Alzheimer's, could be targeted with an existing drug thanks to new research that shows it can work in brain cells.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 04 Oct 2026 19:10:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-brain-tissue-surgery-reveals-potential.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2018/2-braincells.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Health records from 68 adults link plant-based grocery support to lower blood pressure and weight",
+        "summary": "Providing people with nutritious foods can improve the management of chronic metabolic diseases such as type 2 diabetes and hypertension. However, most studies of \"Food Is Medicine\" programs have only looked at their short-term impacts—on the scale of weeks to months.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 04 Oct 2026 15:24:58 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-health-adults-link-based-grocery.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-food-is-medi.jpg",
+        "impact": 4
+      },
       {
         "title": "Mapping parasite mitochondria reveals ancient pathways and dozens of potential new drug targets",
         "summary": "Cut the power, and the machine stops. That was part of the motivation behind a four-year effort to map all the proteins in the mitochondria—often called the powerhouse of the cell—of the parasites that cause sleeping sickness, giardiasis, leishmaniasis and babesiosis, diseases that together affect nearly a billion peop",
@@ -126,50 +170,6 @@
         "published_at": "Sat, 03 Oct 2026 15:00:01 EDT",
         "source_url": "https://medicalxpress.com/news/2026-10-parasite-mitochondria-reveals-ancient-pathways.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fluorescence-microscop-3.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Climate change affects Indigenous children's health worldwide, review of 53 studies finds",
-        "summary": "Indigenous children across the globe are experiencing significant climate-related health impacts, ranging from malnutrition and infectious diseases to effects on mental health and cultural well-being and problems before birth, according to a new study.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 03 Oct 2026 11:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-climate-affects-indigenous-children-health.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/australia-outback.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Brain scans show shared changes during depression treatment and distinct antidepressant effects in some patients",
-        "summary": "Major depressive disorder (MDD) is a common mental health condition primarily characterized by persistent low mood or loss of interest in daily activities. While several medications are available to treat depression, finding one that works for each patient can take time.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 03 Oct 2026 10:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-brain-scans-depression-treatment-distinct.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/shared-and-drug-specif.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Menopause is a major health milestone, yet health records barely track it—new research",
-        "summary": "Anyone with ovaries who lives long enough will experience menopause. While menopause is a natural transition in midlife, it can strongly affect a person's quality of life and their current and future risk of heart disease, osteoporosis and other issues. So you might think that whether someone is experiencing or has gon",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 03 Oct 2026 08:00:08 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-menopause-major-health-milestone-track.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/menopausal-women.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Research reveals a specific brain circuit implicated in OCD",
-        "summary": "Treatment for obsessive-compulsive disorder (OCD), a mental health condition characterized by distressing, uncontrollable thoughts and repetitive behaviors, has centered on psychotherapy and medication to curb symptoms. New research identifying a previously unknown brain circuit involved in OCD could be a key step towa",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 03 Oct 2026 08:00:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-09-reveals-specific-brain-circuit-implicated.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-reveals-a-spe.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+        "summary": "&#8220;I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’&#8221; That&#8217;s how Richard Spolzino describes the thing he&#8217;s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At [&#8230",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Sun, 04 Oct 2026 19:10:59 +0000",
+        "source_url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/flip-rover-3k10-1.jpg",
+        "impact": 4
+      },
+      {
         "title": "NASA Opens Applications for Next Class of Flight Directors",
         "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon",
         "category": "Space",
@@ -254,15 +265,15 @@
         "impact": 4
       },
       {
-        "title": "10 Things: Movie Night",
-        "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Daw",
+        "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+        "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional a",
         "category": "Space",
         "source": "science.nasa.gov",
         "journal": "science.nasa.gov",
-        "published_at": "Fri, 02 Oct 2026 00:25:36 +0000",
-        "source_url": "https://science.nasa.gov/solar-system/10-things-movie-night/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "impact": 4
+        "published_at": "Sun, 04 Oct 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 3
       },
       {
         "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
@@ -273,17 +284,6 @@
         "published_at": "Sat, 03 Oct 2026 04:05:00 +0000",
         "source_url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
         "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 3
-      },
-      {
-        "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-        "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 02 Oct 2026 19:54:54 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20260828-admin-0031large.jpg",
         "impact": 3
       }
     ],
@@ -357,39 +357,6 @@
         "impact": 4
       },
       {
-        "title": "Climate, Density, and Spatial Layers: 18 Houses Shaping Contemporary Vietnamese Architecture",
-        "summary": "Contemporary Vietnamese residential architecture stands out for its deep sensitivity to local microclimates and context. Detailed studies of weather patterns consistently drive strategic design decisions, resulting in buildings that act as adaptive shelters. Facing conditions that range from scorching summers to dry, c",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 02 Oct 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1186158/climate-density-and-spatial-layers-18-houses-shaping-contemporary-vietnamese-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6abe/8b1e/87ec/5401/8809/f521/large_jpg/climate-density-and-spatial-layers-18-houses-shaping-contemporary-vietnamese-architecture_1.jpg?1790872362",
-        "impact": 4
-      },
-      {
-        "title": "\"Beauty in Itself Is Dangerous:\" Xu Tiantian on Moving Beyond Starchitecture in Louisiana Channel Interview",
-        "summary": "Xu Tiantian is the founding principal of DnA_Design and Architecture, an interdisciplinary practice that addresses both the physical and social dimensions of the contemporary living environment, across scales. Born in 1975 in Fujian, China, she received a Master of Architecture in Urban Design from the Harvard Graduate",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 02 Oct 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1041129/beauty-in-itself-is-dangerous-xu-tiantian-on-moving-beyond-starchitecture-in-louisiana-channel-interview",
-        "image_url": "https://images.adsttc.com/media/images/69f3/e069/e0a7/c201/892c/b37e/large_jpg/beauty-in-itself-is-dangerous-xu-tiantian-in-louisiana-channel-interview_8.jpg?1777590389",
-        "impact": 4
-      },
-      {
-        "title": "From Buildings to Worldbuilding: Designing the Narratives of Space",
-        "summary": "The most innovative and impactful design projects arise from the intersection of different fields. The architecture community has always borrowed from, or been inspired by, other forms of cultural production such as film, photography, literature, and theatre. In the theatricality of Baroque churches and the cinematic s",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 02 Oct 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1185530/from-buildings-to-worldbuilding-designing-the-narratives-of-space",
-        "image_url": "https://images.adsttc.com/media/images/6ab2/1984/472c/aa01/8aa1/4edd/large_jpg/from-buildings-to-world-building-the-narrative-of-space_2.jpg?1790056849",
-        "impact": 4
-      },
-      {
         "title": "Stanton Williams designs boarding houses to \"support the culture\" of Winchester College",
         "summary": "Architecture studio Stanton Williams has completed two boarding houses for girls at Winchester College, wrapping courtyards with gabled brick buildings that reference the historic layout and architecture of the 640-year-old site. Winchester College was originally founded in 1382, and the project is its first new boardi",
         "category": "Architecture",
@@ -398,6 +365,39 @@
         "published_at": "Tue, 29 Sep 2026 10:30:23 +0000",
         "source_url": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/",
         "image_url": "https://static.dezeen.com/uploads/2026/09/winchester-college-stanton-williams-education-residential-architectre-uk_dezeen_2364_hero.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Renovated warehouse becomes permanent home of African Futures Institute in Ghana",
+        "summary": "A former tile warehouse in Accra, Ghana, has been transformed into the headquarters of the African Futures Institute, an independent architecture school founded by Ghanaian-Scottish architect Lesley Lokko. Designed by Lokko with designer Fred Swart and architects Patrick Gentilezza, Patti Anahory and Laurence Lord, the",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 29 Sep 2026 09:02:33 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/",
+        "image_url": "https://static.dezeen.com/uploads/2026/09/african-futures-institute-headquarters-lesley-lokko-ghana_dezeen_2364_hero2_0.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Farshid Moussavi wins 2026 Soane Medal for architecture",
+        "summary": "British-Iranian architect Farshid Moussavi has been awarded this year's Soane Medal for her \"sustained and rigorous\" contribution to architecture through building, teaching and writing. Moussavi, who founded Farshid Moussavi Architects in 2011 and is an architecture professor at the Harvard University Graduate School o",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 28 Sep 2026 09:00:00 +0000",
+        "source_url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
+        "image_url": "https://static.dezeen.com/uploads/2026/09/farshid-moussavi-2026-soane-medal_dezeen_2364_col_1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "design museum gent reopens with new wing built from locally made waste bricks",
+        "summary": "carmody groarke and ATAMA lead the new extension, while RE-ST restores the historic buildings as part of a wider transformation that rethinks the museum’s collection, exhibitions and public spaces. The post design museum gent reopens with new wing built from locally made waste bricks appeared first on designboom | arch",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 01 Oct 2026 08:30:02 +0000",
+        "source_url": "https://www.designboom.com/architecture/design-museum-gent-new-wing-locally-made-waste-brick-re-st-carmody-groarke-atama-ghent-belgium/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/09/design-museum-gent-new-wing-locally-made-waste-brick-re-st-carmody-groarke-atama-ghent-belgium-designboom-1800.jpg",
         "impact": 4
       }
     ],
