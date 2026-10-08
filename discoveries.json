@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "last_updated": "2026-10-07 02:02 UTC",
+  "date": "2026-10-08",
+  "last_updated": "2026-10-08 02:26 UTC",
   "categories": {
     "science": [
       {
@@ -13,6 +13,28 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/vacuum-fluctuation-enhanced-superconductivity.webp",
         "impact": 5
+      },
+      {
+        "title": "Webb finds a surprising atmosphere on a scorching lava world",
+        "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looke",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 07 Oct 2026 07:58:25 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/lava-world-molten-rock-exoplanet-with-atmosphere.webp",
+        "impact": 4
+      },
+      {
+        "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
+        "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing drugs for conditions including traumatic brain injury, Alzheimer’s, Parkinson’s, depr",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 07 Oct 2026 08:13:35 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
+        "impact": 4
       },
       {
         "title": "The “glue” holding your cells together has a surprising second job",
@@ -35,84 +57,62 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/dna-mutation-genetics-bioengineering-cancer-disease.webp",
         "impact": 4
-      },
-      {
-        "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-        "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron can preserve a stable magnetic signal, potentially acting like a microscopic fossil of the Moon’s long",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 03 Oct 2026 09:12:14 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/lunar-topography-and-magnetic-anomalies.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
-        "summary": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the Cajon Pass junction may be increasingly primed for a rupture that could cross both systems, although th",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/coulomb-stress-accumulation-of-southern-san-andreas-fault-system-2025.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "OpenAI drops another batch of mathematical breakthroughs",
-        "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community whi",
+        "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+        "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 07 Oct 2026 21:56:42 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
+        "impact": 3
+      },
+      {
+        "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+        "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 07 Oct 2026 23:36:57 +0000",
+        "source_url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+        "impact": 3
+      },
+      {
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 07 Oct 2026 20:22:37 +0000",
+        "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+        "impact": 3
+      },
+      {
+        "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+        "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 07 Oct 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Justin-Hitesh-Chris-1.jpg?resize=1200,900",
+        "impact": 3
+      },
+      {
+        "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+        "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. ",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-10-06T19:26:38-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0%2C10.744316765259%2C100%2C78.511366469482&w=1200",
-        "impact": 4
-      },
-      {
-        "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-        "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 06 Oct 2026 22:53:09 +0000",
-        "source_url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
-        "impact": 3
-      },
-      {
-        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-        "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 06 Oct 2026 20:47:01 +0000",
-        "source_url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "LibreOffice says ‘no AI’ is now a software feature",
-        "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 06 Oct 2026 15:25:00 +0000",
-        "source_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "impact": 3
-      },
-      {
-        "title": "The best robot vacuum and mop deals during October Prime Day",
-        "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some of our favorite models are [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-06T18:00:00-04:00",
-        "source_url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6007-1.jpeg?quality=90&strip=all&crop=0%2C10.725996036261%2C100%2C78.548007927479&w=1200",
+        "published_at": "2026-10-07T17:19:54-04:00",
+        "source_url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
@@ -129,47 +129,47 @@
         "impact": 5
       },
       {
-        "title": "International consensus sets updated framework for CAR T-cell therapy in severe autoimmune diseases",
-        "summary": "An international multidisciplinary group of 31 experts has updated consensus recommendations to guide the use of CAR T-cell therapy in patients with severe, treatment-refractory autoimmune diseases.",
+        "title": "New guidance outlines how to protect people living with heart disease during heat waves",
+        "summary": "A major new report from the European Society of Cardiology (ESC) sets out how health services need to protect vulnerable patients during heat waves. The report by a group of international experts is published in the European Heart Journal and brings together all existing research on how to prevent deaths and hospitaliz",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 06 Oct 2026 18:00:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-international-consensus-framework-car-cell.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/treatment.jpg",
+        "published_at": "Wed, 07 Oct 2026 18:10:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-guidance-outlines-people-heart-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/fan.jpg",
         "impact": 4
       },
       {
-        "title": "Pausing certain arthritis drugs after COVID-19 vaccination raises flare risk without improving antibody response",
-        "summary": "For patients with inflammatory arthritis, holding certain disease-modifying antirheumatic drugs (DMARDs), namely select biologic or Janus kinase inhibitor (JAKi) therapies, for two weeks at the time of a supplemental COVID-19 vaccine dose does not enhance humoral immunogenicity, according to a study published online Oc",
+        "title": "Global study finds stark differences in maternal RSV vaccine uptake",
+        "summary": "Vaccination against a common respiratory virus during pregnancy lowers the risk of severe disease in babies by 74%, but uptake in many countries remains low, a new review suggests. The report also reveals evidence of lower uptake of the respiratory syncytial virus (RSV) vaccine among some socioeconomic and ethnic group",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 06 Oct 2026 17:00:13 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-arthritis-drugs-covid-vaccination-flare.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/holding-dmards-at-time.jpg",
+        "published_at": "Wed, 07 Oct 2026 18:30:18 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-global-stark-differences-maternal-rsv.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/maternal-vaccination.jpg",
         "impact": 4
       },
       {
-        "title": "Tumor markers reveal which HER2+ breast cancer patients may respond to less intensive chemotherapy",
-        "summary": "The Journal of Clinical Oncology has published secondary results from the ECOG-ACRIN Cancer Research Group's CompassHER2-pCR clinical trial (EA1181, NCT04266249). The findings help identify which early-stage HER2-positive (HER2+) breast cancers may be most likely to respond to less intensive chemotherapy than the curre",
+        "title": "NHS labs fail to share data vital for diagnosis and care of rare diseases, investigation finds",
+        "summary": "Three of England's seven NHS genetics laboratories are failing to routinely share vital information about genetic variants in public databases that helps patients with rare diseases access diagnosis and care, an investigation by The BMJ reveals.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 06 Oct 2026 15:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-tumor-markers-reveal-her2-breast.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/breast-cancer-6.jpg",
+        "published_at": "Wed, 07 Oct 2026 18:30:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-nhs-labs-vital-diagnosis-rare.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/genome-sequence.jpg",
         "impact": 4
       },
       {
-        "title": "PSMA PET/CT-targeted biopsy improves detection of clinically significant prostate cancer",
-        "summary": "PSMA PET/CT-targeted biopsy detects more clinically significant prostate cancer than systematic biopsy alone in men with negative or inconclusive MRI findings but persistent clinical risk factors. According to new research published in The Journal of Nuclear Medicine, combining the two biopsy approaches is even more ef",
+        "title": "Approved cancer drug may reduce kidney damage linked to nail-patella syndrome",
+        "summary": "Researchers led by Dr. Ralph Witzgall, a professor at the Chair of Molecular and Cellular Anatomy at the University of Regensburg, have deciphered a key disease mechanism underlying the hereditary kidney disorder nail-patella syndrome and identified a potential therapeutic strategy. Their findings demonstrate that an a",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 06 Oct 2026 16:00:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-psma-petct-biopsy-clinically-significant.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/psma-petct-targeted-bi.jpg",
+        "published_at": "Wed, 07 Oct 2026 17:40:09 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-cancer-drug-kidney-linked-patella.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nail-patella-syndrome.jpg",
         "impact": 4
       }
     ],
@@ -232,59 +232,59 @@
     ],
     "space": [
       {
-        "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-        "summary": "After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumman’s Cygnus XL spacecraft is scheduled to depart Friday, Oct. 9, as part of the company’s Commercial Resupply Services-24 mission, or Northrop Grumman CRS-24. Watch NASA’",
+        "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+        "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital c",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Tue, 06 Oct 2026 18:31:40 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
-        "image_url": "https://images-assets.nasa.gov/image/iss074e0458241/iss074e0458241~large.jpg",
+        "published_at": "Wed, 07 Oct 2026 21:16:42 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg",
         "impact": 4
       },
       {
-        "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
-        "summary": "A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close. The scene was snapped at 8:30 a.m. local Mars time, showing striking blue hues in the foreground a",
+        "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
+        "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Tue, 06 Oct 2026 15:30:07 +0000",
-        "source_url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.png",
+        "published_at": "Wed, 07 Oct 2026 20:17:16 +0000",
+        "source_url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-falcon9-dragon.png",
         "impact": 4
       },
       {
-        "title": "Lunar Grounding Challenge",
-        "summary": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded when entering lunar shadows and Permanently Shadowed Regions (PSRs). In these dark zones, the spacesu",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 06 Oct 2026 18:22:24 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img-2f4057.png",
-        "impact": 3
-      },
-      {
-        "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
-        "summary": "NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory. The principal purpose of this procurement is to deliver a laboratory facility to support the testing and development of power systems, with associated site work, infrastructu",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 06 Oct 2026 17:55:52 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
-        "impact": 3
-      },
-      {
-        "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
-        "summary": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles t",
+        "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+        "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Expl",
         "category": "Space",
         "source": "science.nasa.gov",
         "journal": "science.nasa.gov",
-        "published_at": "Tue, 06 Oct 2026 13:00:00 +0000",
-        "source_url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "impact": 3
+        "published_at": "Wed, 07 Oct 2026 20:15:49 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26355/PIA26355.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+        "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer [",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Wed, 07 Oct 2026 17:00:47 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26781/PIA26781.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "impact": 4
+      },
+      {
+        "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
+        "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yard",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Wed, 07 Oct 2026 16:49:50 +0000",
+        "source_url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25629/PIA25629.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "impact": 4
       }
     ],
     "astronomy": [
@@ -333,71 +333,71 @@
         "impact": 4
       },
       {
-        "title": "Strange giant planet TOI-1355 b set to vanish from view in 2033",
-        "summary": "Since their first discovery in 1995, hot Jupiter exoplanets (hot Jupiters, for short) quickly challenged our understanding of exoplanet formation and evolution, including exoplanetary system architecture. This is because, as their name implies, they orbit at extremely close distances to their host stars, ranging from a",
+        "title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site",
+        "summary": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 30 Sep 2026 02:11:36 +0000",
-        "source_url": "https://www.universetoday.com/articles/strange-giant-planet-toi-1355-b-set-to-vanish-from-view-in-2033",
-        "image_url": "https://www.universetoday.com/article_images/MIT_Shortest-Giant-02-press.jpg_750_20260930_020639.jpg",
-        "impact": 4
+        "published_at": "Thu, 08 Oct 2026 00:30:16 +0000",
+        "source_url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+        "image_url": "https://www.universetoday.com/article_images/Screenshot_2026-10-07_at_16-08-10_The_surface_of_the_moon_is_hostile._A_newly_found_cave_could_be_a_lifesaver._National_Geographic_20261008_001029.png",
+        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "Conference: \"Architecture Shaped by Place: Espacio Común on practice, people, and context\"",
-        "summary": "The lecture \"Architecture Shaped by Place: Espacio Com&uacute;n on Practice, People, and Context,\" led by ArchDaily Editor-in-Chief Christele Harrouk, will take place on Wednesday, October 14, at 3:30 p. m. in the main auditorium of Obra Blanca Expo, featuring Paula Villa Pastor, co-founder of Espacio Com&uacute;n, a P",
+        "title": "RICHAUS / Vari Architects",
+        "summary": "Nested within the layered folds of this mountain city, RICHAUS inserts itself as a contemporary geometric volume engaged in a dialogue with nature, embedded into the vast, complex terrain of Southwest China. Throughout the design process, Vari Architects persistently explored how to create an interlaced condition betwe",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 06 Oct 2026 09:15:00 +0000",
-        "source_url": "https://www.archdaily.com/1186415/conference-architecture-shaped-by-place-espacio-comun-on-practice-people-and-context",
-        "image_url": "https://images.adsttc.com/media/images/6ac4/ecdf/07c3/d100/017f/d869/large_jpg/1200x800_Talk_Expo_Obra_Blanca_Expo_Obra_Blanca.jpg?1791290596",
+        "published_at": "Wed, 07 Oct 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1039371/richaus-vari-architects",
+        "image_url": "https://images.adsttc.com/media/images/69aa/27ba/314f/6601/8902/b45d/large_jpg/richaus-vari-architects_7.jpg?1772759004",
+        "impact": 5
+      },
+      {
+        "title": "AIA UK/RIBA Keynote Lecture featuring Craig Dykers of Snøhetta",
+        "summary": "When: Tuesday, 27th October 2026; 6:30 pm &nbsp; Tickets:https://www.eventbrite.co.uk/e/2026-aia-uk-riba-keynote-lecture-craig-dykers-of-snhetta-tickets-2001240272527?aff=oddtdtcreatorThis event is being held in person with drinks to be served after the lecture. About Craig Dykers Born in Frankfurt, Germany, Craig Dyke",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 07 Oct 2026 09:05:00 +0000",
+        "source_url": "https://www.archdaily.com/1186418/aia-uk-riba-keynote-lecture-featuring-craig-dykers-of-snohetta",
+        "image_url": "https://images.adsttc.com/media/images/6ac4/edb9/07c3/d100/017f/d889/large_jpg/AIA_UK___RIBA_-_KEYNOTE_LECTURE_-_Craig_Dykers_V23.jpg?1791290846",
         "impact": 4
       },
       {
-        "title": "Open House Valencia",
-        "summary": "Open House Valencia is an international architecture and urbanism festival that opens the doors to some of Val&egrave;ncia&rsquo;s most iconic buildings, offering free guided tours for everyone. It is part of the Open House Worldwide network, present in more than 60 cities around the world, as well as the European Open",
+        "title": "HENN Launches CarbonBudget, a Free Tool for Calculating Project-Specific CO2 Emissions",
+        "summary": "Architecture firm HENN has launched CarbonBudget, a digital tool that calculates project-specific CO2 budgets for buildings. The new platform, free of charge, is a contribution for designers to help reach the 1.5°C target, a global goal from the Paris Agreement to limit long-term global warming to 1.5°C above pre-indus",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 06 Oct 2026 09:05:00 +0000",
-        "source_url": "https://www.archdaily.com/1186406/open-house-valencia",
-        "image_url": "https://images.adsttc.com/media/images/6ac4/eab1/07c3/d100/017f/d829/large_jpg/02_OHV26_Cartel_A3_Digital_Vale_ncia.jpg?1791290051",
+        "published_at": "Wed, 07 Oct 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1186439/henn-launches-carbonbudget-a-free-tool-for-calculating-project-specific-co2-emissions",
+        "image_url": "https://images.adsttc.com/media/images/6ac5/44e7/27ac/8d01/89cb/bd36/large_jpg/carbonbudget_5.jpg?1791313138",
         "impact": 4
       },
       {
-        "title": "Ammodo Architecture Announces First Edition of Architecture Days in Amsterdam",
-        "summary": "Ammodo Architecture will launch the first edition of Ammodo Architecture Days in Amsterdam on November 9 and 10, 2026. Organized by Ammodo Architecture, a programme of the Ammodo Foundation, the event will bring together architects, landscape architects, urban planners, artists, communities, collectives and multidiscip",
+        "title": "Building and Unbuilding: An Approach to Circular Timber Construction Addressing Material Waste",
+        "summary": "In the face of the climate crisis and within the framework of the United Nations Sustainable Development Goals, the reuse of materials has become prominent in the fields of construction and architecture in recent years. From \"urban mining\" to life cycle assessments (LCAs), professionals, organizations, and researchers ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 06 Oct 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1186296/ammodo-architecture-announces-first-edition-of-architecture-days-in-amsterdam",
-        "image_url": "https://images.adsttc.com/media/images/6ac3/749a/90e2/9d01/89d2/dd81/large_jpg/ammodo-architecture-announces-inaugural-architecture-days-in-amsterdam_4.jpg?1791194305",
+        "published_at": "Wed, 07 Oct 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1185836/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste",
+        "image_url": "https://images.adsttc.com/media/images/6ab6/d4d1/205c/9801/887f/5fe9/large_jpg/building-and-unbuilding-an-approach-to-circular-timber-construction-addressing-material-waste_19.jpg?1790367013",
         "impact": 4
       },
       {
-        "title": "Yumoto Electric INC. Factory / YKAD ARCHITECTURAL DESIGN OFFICE",
-        "summary": "Small-scale factories in semi-industrial districts often have minimal setbacks from the street, resulting in urban environments that can feel somewhat monotonous and utilitarian. In response, we explored a factory that could engage more closely with the surrounding city by incorporating greenery into the building's fro",
+        "title": "Skin of Skin House / CANs architecture studio",
+        "summary": "Set in Yunlin, Taiwan, the project sits on the peri-urban edge of the region's plains—an in-between landscape where farming fields and small-town infrastructure overlap. In a subtropical climate of heat, humidity, and strong solar exposure, corrugated metal sheets and light-gauge steel frames have long been common in e",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 06 Oct 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186173/yumoto-electric-inc-factory-ykad-architectural-design-office",
-        "image_url": "https://images.adsttc.com/media/images/6abe/9858/07c3/d100/017f/c686/large_jpg/002.jpg?1790875754",
-        "impact": 4
-      },
-      {
-        "title": "Call for Entries Open | 1st Design + AI Hackathon URP 2026: Transformable Multifunctional Furniture",
-        "summary": "On Friday, October 9, 2026, Ricardo Palma University will host the 1st URP Design + AI Hackathon 2026, an intensive one-day event where students and alumni will work in multidisciplinary teams to propose multifunctional and transformable furniture that addresses a real-world need. The activity is organized by the Resea",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 05 Oct 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186350/call-for-entries-open-1st-design-plus-ai-hackathon-urp-2026-transformable-multifunctional-furniture",
-        "image_url": "https://images.adsttc.com/media/images/6ac3/bb21/07c3/d100/017f/d15c/large_jpg/Instagram.jpg?1791212334",
+        "published_at": "Wed, 07 Oct 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1186181/skin-of-skin-house-cans-architecture-studio",
+        "image_url": "https://images.adsttc.com/media/images/6abe/9c2e/07c3/d100/017f/c6ea/large_jpg/skin_of_skin__23__View_from_the_street.jpg?1790876849",
         "impact": 4
       }
     ],
@@ -436,6 +436,17 @@
         "impact": 4
       },
       {
+        "title": "Sage acquires Paperless Environments for construction payroll tech",
+        "summary": "The move furthers Sage&rsquo;s M&amp;A strategy and builds on deal momentum across construction.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 07 Oct 2026 11:50:11 -0400",
+        "source_url": "https://www.constructiondive.com/news/sage-acquires-paperless-environments-construction-payroll-tech/832130/",
+        "image_url": "https://imgproxy.divecdn.com/IPbvMCHXMpmpqDtQ53SFdJsUcHSpUO5I7GmCHE7ANLg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjg2OTcxNTE2LmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "DOT awards $426M for critical infrastructure projects",
         "summary": "The largest awards include $85.1 million for an 8-mile, four-lane highway in Kentucky and $85 million to add lanes along about 20 miles of I-4 in Florida.",
         "category": "Construction",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/dot-awards-critical-infrastructure-projects/832265/",
         "image_url": "https://imgproxy.divecdn.com/8lHSN2V4ec2WNE5ZQ03SBQaV-0ped_RqX9xUqpAE2LE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYwMzk2MDc1LmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "2027’s top construction trade shows",
-        "summary": "Construction Dive has you covered with a full list of the industry conferences and expos on tap for 2027 with events focused on emerging technologies and innovative building methods.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 06 Oct 2026 10:33:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/2027-top-construction-trade-shows/832065/",
-        "image_url": "https://imgproxy.divecdn.com/h45onmoyVMt60fYZWIcd1Jksr4p_rfezYW6dYC6xs3Y/g:nowe:0:464/c:2400:1355/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNTU5MC5qcGVn.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
-        "summary": "arXiv:2610.03894v1 Announce Type: new Abstract: A deployed LLM agent emits tool calls, queries, and code that can be silently wrong -- by the time the error surfaces, the action has run. Frontier chat APIs hide the model's token probabilities; the agent's stated confidence barely beats chance on the mistakes that matte",
+        "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+        "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex multi-turn workflows o",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 06 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.03894",
+        "published_at": "Wed, 07 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.06910",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MLLMs Fail to Refuse when Using Tools Agentically",
-        "summary": "arXiv:2610.03938v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) have recently pushed the frontier of visual reasoning by calling tools such as zooming and tagging. Despite the recent strong success of agentic MLLMs, this work uncovers a critical safety failure in the tool-use paradigm: ",
+        "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+        "summary": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow from treatment decision-",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 06 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.03938",
+        "published_at": "Wed, 07 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.06923",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown",
-        "summary": "arXiv:2610.04008v1 Announce Type: new Abstract: Executable Agent Skills combine natural-language instructions and scripts into reusable packages for LLM agents, and revising them requires fixing errors without breaking correct behavior. Existing benchmarks do not systematically distinguish documentation repair, script ",
+        "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+        "summary": "arXiv:2610.06964v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remains limited. Although fine-tuning enables adaptation, its dependence on parameter access and high computational",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 06 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.04008",
+        "published_at": "Wed, 07 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.06964",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The Cost of a Hop: Benchmarking NLIP and A2A",
-        "summary": "arXiv:2610.04053v1 Announce Type: new Abstract: Autonomous agents built on Large Language Models (LLMs) need standardized protocols to interoperate across systems. Several now exist (A2A, MCP, ACP, ANP, NLIP), but the Natural Language Interaction Protocol (NLIP) has not appeared in any controlled performance study, and",
+        "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+        "summary": "arXiv:2610.06971v1 Announce Type: new Abstract: Traditional data pipelines are notoriously brittle, often failing due to upstream schema drift, API contract changes, or website DOM modifications. Present observability tools only raise alerts but for human engineers, resulting in a high Mean Time to Repair (MTTR) and op",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 06 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.04053",
+        "published_at": "Wed, 07 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.06971",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Self-Propagating Misalignment in LLM Agents, and Why Auditing or Disabling Memory Is Not Enough",
-        "summary": "arXiv:2610.04083v1 Announce Type: new Abstract: Memory poisoning attacks on LLM agents typically assume an external adversary who plants content in the agent's persistent memory to steer its behavior. We instead study, with no adversary involved, whether a misaligned agent can write a goal it cannot yet act on to persi",
+        "title": "CuratorMAS: Automating Dataset Curation via Multi-Agent Orchestration",
+        "summary": "arXiv:2610.07075v1 Announce Type: new Abstract: High-quality datasets are essential for reliable machine learning, but dataset curation remains costly and hard to generalize across domains. Existing methods typically rely on manually designed heuristics or model-dependent signals, limiting their applicability across ta",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 06 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.04083",
+        "published_at": "Wed, 07 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.07075",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
