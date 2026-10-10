@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-09",
-  "last_updated": "2026-10-09 02:43 UTC",
+  "date": "2026-10-10",
+  "last_updated": "2026-10-10 02:04 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "Bacteria turn a virus’ own weapon against it",
+        "summary": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective phage therapies against antibiotic-resistant bacteria and provide insight into ancient immune mechanisms ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 09 Oct 2026 05:51:19 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/bacteriophage-infection.webp",
+        "impact": 4
+      },
+      {
         "title": "Webb finds a surprising atmosphere on a scorching lava world",
         "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looke",
         "category": "Science",
@@ -45,17 +56,6 @@
         "published_at": "Wed, 07 Oct 2026 08:13:35 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
-        "impact": 4
-      },
-      {
-        "title": "The “glue” holding your cells together has a surprising second job",
-        "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 04 Oct 2026 23:12:55 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/living-zebrafish-embryo-with-actin.webp",
         "impact": 4
       }
     ],
@@ -94,25 +94,25 @@
         "impact": 4
       },
       {
-        "title": "Spotify is getting more serious about selling enterprise software",
-        "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 08 Oct 2026 14:34:33 +0000",
-        "source_url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
-        "impact": 4
-      },
-      {
-        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-        "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+        "title": "AI coding agents generate more code, but not more software",
+        "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Thu, 08 Oct 2026 11:15:33 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+        "published_at": "Fri, 09 Oct 2026 19:43:50 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Danu Robotics’ fight to build a better recycling robot",
+        "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 09 Oct 2026 16:45:00 +0000",
+        "source_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
         "impact": 3
       }
     ],
@@ -129,47 +129,47 @@
         "impact": 5
       },
       {
-        "title": "Pharmaceutical company marketing negatively influences prescribing",
-        "summary": "Doctors' prescribing habits are heavily influenced by payments, gifts and free meals from pharmaceutical companies, leading to more prescriptions for more expensive, less appropriate drugs, a new Cochrane review finds. This can seriously harm both individual patients and health systems.",
+        "title": "Blood cancer study links blood formation and bone health",
+        "summary": "Myelodysplastic syndromes (MDS) belong to the malignant diseases of the hematopoietic system that occur primarily in older adults. In patients with MDS, blood formation in bone marrow is impaired. Medical care therefore typically focuses on blood counts and the treatment of the resulting anemia and other changes in the",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 08 Oct 2026 20:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-pharmaceutical-company-negatively.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/pharmaceutical-company.jpg",
+        "published_at": "Fri, 09 Oct 2026 15:40:04 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-blood-cancer-links-formation-bone.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood.jpg",
         "impact": 4
       },
       {
-        "title": "How health care can benefit from AI, without costing the world",
-        "summary": "Artificial intelligence (AI) has had a transformative effect on health care. The technology has been tested and applied in almost every area, from disease diagnostics to AI-powered digital clinics.",
+        "title": "Researchers identify high-IgA MASLD subtype linked to liver-related events",
+        "summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a common liver condition that can follow very different paths among patients. Although fibrosis is a key indicator, some patients without advanced fibrosis can still develop serious liver-related events. This variation led researchers to investigate wh",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 08 Oct 2026 20:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-health-benefit-ai-world.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-health-care-can-be.jpg",
+        "published_at": "Fri, 09 Oct 2026 14:20:20 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-high-iga-masld-subtype-linked.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-h-2.jpg",
         "impact": 4
       },
       {
-        "title": "Novel radiotherapy may save increasingly many rectal cancer patients from surgery and a stoma",
-        "summary": "Tampere University Hospital (Tays) has begun offering a new form of radiotherapy to treat rectal cancer in which a high dose of radiation is targeted at the tumor surface. The aim is to destroy the tumor so that more patients may avoid major surgery and a potentially permanent stoma. Finland is at the forefront of impl",
+        "title": "Deep learning model using ECGs during sleep studies can predict cardiovascular outcomes",
+        "summary": "A research team supported by the National Institutes of Health (NIH) has found that electrocardiograms (ECGs) administered during sleep and paired with sleep stage information can be used to determine the risk of future adverse cardiac events. The study, which used a deep learning approach, suggests that using ECGs to ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 08 Oct 2026 19:20:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-radiotherapy-rectal-cancer-patients-surgery.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/oncologist.jpg",
+        "published_at": "Fri, 09 Oct 2026 11:20:20 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-deep-ecgs-cardiovascular-outcomes.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-learning-model-us.jpg",
         "impact": 4
       },
       {
-        "title": "Peanut consumption affects the lipid profile circulating in the blood",
-        "summary": "Unhealthy dietary patterns are among the leading drivers of the global health crisis, significantly contributing to rising rates of obesity, cardiovascular disease (CVD) and type 2 diabetes (T2D). Nutritional science has long established that the quality of fat in our diet is crucial for metabolic health. Reducing satu",
+        "title": "Gut microbes help set the body's inflammatory response to vaccination",
+        "summary": "Vaccination is one of the most important tools for preventing infectious diseases and protecting public health. However, immune responses after vaccination vary dramatically from person to person: If you give many people the exact same vaccine, some will experience side effects such as fever and flulike symptoms while ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 08 Oct 2026 18:40:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-peanut-consumption-affects-lipid-profile.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/peanuts.jpg",
+        "published_at": "Fri, 09 Oct 2026 14:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-gut-microbes-body-inflammatory-response.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/gut-microbes-help-set.jpg",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+        "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designe",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 09 Oct 2026 16:59:24 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
+        "impact": 5
+      },
+      {
         "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
         "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 ED",
         "category": "Space",
@@ -254,37 +265,26 @@
         "impact": 4
       },
       {
-        "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
-        "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant ",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Thu, 08 Oct 2026 18:00:00 +0000",
-        "source_url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-        "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the agency’s Johnson Sp",
+        "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+        "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment wit",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Thu, 08 Oct 2026 17:02:28 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/crew12splashdown1.jpg",
+        "published_at": "Fri, 09 Oct 2026 18:11:44 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
         "impact": 4
       },
       {
-        "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
-        "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. C",
+        "title": "Cosmic House of Mirrors",
+        "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA&#8217;s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not act",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Thu, 08 Oct 2026 15:31:24 +0000",
-        "source_url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-        "image_url": "https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg",
-        "impact": 4
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 09 Oct 2026 13:57:24 +0000",
+        "source_url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
+        "impact": 3
       }
     ],
     "astronomy": [
@@ -311,6 +311,17 @@
         "impact": 4
       },
       {
+        "title": "A Student Finds Three Galaxies and Possibly Solves a Mystery",
+        "summary": "It's not too often that a high school student-turned undergraduate gets three galaxies named after him, especially ones that are breaking the rules of star formation. Julian Shapiro, an astrophysics student at the University of California, Berkeley, found strange dwarf galaxies in the vicinity of the large spiral M101 ",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 09 Oct 2026 06:01:48 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-student-finds-three-galaxies-and-possibly-solves-a-mystery",
+        "image_url": "https://www.universetoday.com/article_images/backsplash_galaxies-768x512_20261009_055346.webp",
+        "impact": 3
+      },
+      {
         "title": "Webb Observes \"Extreme Debris Disks,\" Providing a Window into the Early Solar System",
         "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, creating the Earth-Moon system. Using Webb, astronomers are studying young star systems to learn more about the early Solar System's evolution.",
         "category": "Astronomy",
@@ -331,51 +342,18 @@
         "source_url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
         "image_url": "https://www.universetoday.com/article_images/Screenshot_2026-10-07_at_16-08-10_The_surface_of_the_moon_is_hostile._A_newly_found_cave_could_be_a_lifesaver._National_Geographic_20261008_001029.png",
         "impact": 3
-      },
-      {
-        "title": "New Study Shows That Earth and Mars Had Different Origins",
-        "summary": "A surprising discovery suggests that Mars and Earth formed through different processes, which could help scientists confirm whether exoplanets are habitable.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 07 Oct 2026 21:58:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/new-study-shows-that-earth-and-mars-had-different-origins",
-        "image_url": "https://www.universetoday.com/article_images/Earth-and-Mars-1024x512_20261007_031951.jpg",
-        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "Housing as a Human Right and an Exhibition Reassessing Le Corbusier: This Week's Review",
-        "summary": "The week began with World Architecture Day, drawing attention to the global housing crisis as a fundamental element of human dignity, inclusion, and well-being. In a joint message between the UIA and the United Nations, this year's call is to focus disciplinary efforts on building not only residential structures but al",
+        "title": "Jingzhou City Wall Archaeological Site Exhibition Pavilion / Qing Studio",
+        "summary": "A Millennium Cross-Section on a Living Street — This project originates from a major breakthrough in the archaeological discovery and conservation practice at Bastion No. 11 of the Jingzhou City Wall. Since 2016, this section of the ancient wall had been listed for emergency conservation due to foundation settlement an",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 08 Oct 2026 05:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186539/housing-as-a-human-right-and-an-exhibition-reassessing-le-corbusier-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6ac7/2bc4/27ac/8d01/89cb/c2d7/large_jpg/this-weeks-review_13.jpg?1791437775",
-        "impact": 4
-      },
-      {
-        "title": "Heritage as Urban Anchor: Beimen and the Redesign of Taipei's Gateway District",
-        "summary": "The North Gate of Taipei, also known as Beimen, stands not only as a reminder of the city's complex history but also as a witness to the changing urban landscape around it and its shifting attitudes towards the urban spaces bordering heritage buildings. Initially a Chinese imperial frontier, spared from demolition duri",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 08 Oct 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1034420/shifting-urban-perspectives-beimens-journey-from-obstacle-to-urban-anchor-in-taipei",
-        "image_url": "https://images.adsttc.com/media/images/68d4/ff38/47eb/f701/80b8/9b47/large_jpg/integrating-heritage-and-modernity-beimen-and-taipeis-urban-planning-strategy-in-taiwan_12.jpg?1758789513",
-        "impact": 4
-      },
-      {
-        "title": "AIA UK/RIBA Keynote Lecture featuring Craig Dykers of Snøhetta",
-        "summary": "When: Tuesday, 27th October 2026; 6:30 pm &nbsp; Tickets:https://www.eventbrite.co.uk/e/2026-aia-uk-riba-keynote-lecture-craig-dykers-of-snhetta-tickets-2001240272527?aff=oddtdtcreatorThis event is being held in person with drinks to be served after the lecture. About Craig Dykers Born in Frankfurt, Germany, Craig Dyke",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 07 Oct 2026 09:05:00 +0000",
-        "source_url": "https://www.archdaily.com/1186418/aia-uk-riba-keynote-lecture-featuring-craig-dykers-of-snohetta",
-        "image_url": "https://images.adsttc.com/media/images/6ac4/edb9/07c3/d100/017f/d889/large_jpg/AIA_UK___RIBA_-_KEYNOTE_LECTURE_-_Craig_Dykers_V23.jpg?1791290846",
+        "published_at": "Fri, 09 Oct 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1038713/jingzhou-city-wall-archaeological-site-exhibition-pavilion-qing-studio",
+        "image_url": "https://images.adsttc.com/media/images/698c/a970/ad00/0f62/0459/41ad/large_jpg/jingzhou-city-wall-archaeological-site-exhibition-pavilion-qing-studio_12.jpg?1770826163",
         "impact": 4
       },
       {
@@ -399,20 +377,31 @@
         "source_url": "https://www.dezeen.com/2026/10/06/herman-coliver-locus-congregatio-rodef-sholom-synagogue/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
         "impact": 4
+      },
+      {
+        "title": "Estúdio Módulo releases designs for Itaú Cultural headquarters in São Paulo",
+        "summary": "Brazilian architecture practice Estúdio Módulo has released its competition-winning designs for the headquarters of Itaú Cultural, which feature a tall, slender building wrapped in glass and white louvres. The São Paulo-based architectural studio's design for Itaú Cultural, an arts research institute, was selected thro",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 05 Oct 2026 19:15:33 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/05/estudio-modulo-itau-cultural-sao-paulo-design/",
+        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "burgundy wood and blue ceilings shape café, bookshop, and wine bar in valencia",
+        "summary": "sahuquillodearriba renovates a 59-sqm space in el botànic neighborhood retaining elements of the building’s original character. The post burgundy wood and blue ceilings shape café, bookshop, and wine bar in valencia appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 09 Oct 2026 14:55:11 +0000",
+        "source_url": "https://www.designboom.com/architecture/burgundy-wood-blue-ceilings-cafe-bookshop-wine-bar-valencia-sahuquillodearriba/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/10/chiquita-sahuquillodearriba-caf-ebookshop-wine-bar-valencia-designboom-1200.jpg",
+        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Megaprojects grab 1 in 4 nonresidential construction dollars",
-        "summary": "Construction appears strongest in areas connected to infrastructure, power, advanced manufacturing and data centers, economists say. Other segments, not so much.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 06 Oct 2026 14:56:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/megaprojects-grab-1-in-4-nonresidential-construction-dollars/832256/",
-        "image_url": "https://imgproxy.divecdn.com/7GP-0rKcERKCcuzWOxIpyV7Yz3vS9jNxe-lX7gyeiv0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg4MDU1MTAzLmpwZw==.webp",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -436,6 +425,28 @@
         "impact": 4
       },
       {
+        "title": "Mott MacDonald appointed to design East Coast Hydrogen infrastructure",
+        "summary": "Mott MacDonald has been appointed by Northern Gas Networks to deliver front-end engineering design (Feed) for East Coast Hydrogen in its network area. The post Mott MacDonald appointed to design East Coast Hydrogen infrastructure appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 08 Oct 2026 09:46:58 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/mott-macdonald-appointed-to-design-east-coast-hydrogen-infrastructure-08-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2025/07/national-gas-pipeline-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Punch List: Bechtel teams with Ted Danson, Hensel Phelps breaks ground on new HQ",
+        "summary": "Plus, Sakrete brings back &ldquo;Concrete Combat,&rdquo; McCarthy appoints a new exec, HUD taps NIBS for multifamily modular and Rosendin touts its nonprofit&rsquo;s grants.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 09 Oct 2026 09:04:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/punch-list-bechtel-ted-danson-hensel-phelps-hq/832590/",
+        "image_url": "https://imgproxy.divecdn.com/BpJ0HIJ3PP1_CFt7qF3_uuP7PPe1xtBvVeGMBoDDLE0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IUEhRLUdyb3VuZGJyZWFraW5nX3Nob3ZlbHMuanBn.webp",
+        "impact": 3
+      },
+      {
         "title": "Education, healthcare projects boosted construction planning in September",
         "summary": "Strength outside the data center boom helped lift the Dodge Momentum Index 3.7% above its September 2025 level.",
         "category": "Construction",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
         "image_url": "https://imgproxy.divecdn.com/8ZqnwDc3YOEmSZX4lYtm1wGyluDblMsEzzaadAeayl0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9qZWN0c19EdWtlUmFsZWlnaE1lZGljYWxDZW50ZXItMjA0OHB4LTE5MjB4MTQ0MC5qcGc=.webp",
         "impact": 3
-      },
-      {
-        "title": "A $6 trillion question hangs over the AI construction boom",
-        "summary": "Four factors will need to go right to justify eye-popping investments into the sector, said Peter Hanbury, a partner at global management consulting firm Bain.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 08 Oct 2026 09:24:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/a-question-hangs-over-ai-construction-boom/832470/",
-        "image_url": "https://imgproxy.divecdn.com/O6A9_W3nY5rc50NesbLQ9SJVgTP3NEi0w9rFHz40nGs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk4MzQwODc4LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
-        "summary": "arXiv:2610.08793v1 Announce Type: new Abstract: Enterprise systems increasingly rely on automated workflows, yet many AI-driven solutions remain brittle under non-stationary conditions, evolving policies, and delayed operational feedback. While reinforcement learning and large language model (LLM) agents offer partial ",
+        "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+        "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a natural alternative, ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 08 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.08793",
+        "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.10549",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "An Empirical Study of Agent Skills' Downstream Utility",
-        "summary": "arXiv:2610.08875v2 Announce Type: new Abstract: Agent Skills package procedural guidance and resources for reuse, but a relevant Skill does not necessarily improve task performance. Existing studies characterize Skill content and evaluate downstream performance, yet provide limited explanations of how utility depends o",
+        "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+        "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it is confined to the ru",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 08 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.08875",
+        "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.10629",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
-        "summary": "arXiv:2610.08966v2 Announce Type: new Abstract: Humans perceive far more in a scene than what is explicitly depicted: a single glance captures past causes and future trajectories; a quick peek determines if a vehicle can fit between two parked cars; a few seconds of video reveals who holds authority in a room; and a fl",
+        "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+        "summary": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. Yet assumptions made during planning may be invalidated by the environment, tools may return unexpec",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 08 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.08966",
+        "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.10786",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Verify Less, Evolve More: Training Idea-Level Critics for Verification-Efficient ML Evolving Agents",
-        "summary": "arXiv:2610.08993v1 Announce Type: new Abstract: As large language models become more powerful, self-evolving agents are able to tackle challenging tasks including AI for machine learning (AI4ML). In AI4ML, while empirical verification is available, it often requires computationally costly model training and evaluation,",
+        "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+        "summary": "arXiv:2610.10906v1 Announce Type: new Abstract: Human communities are governed by normative systems: shared standards that produce \\textit{norms} dictating acceptable behavior, enforced through community sanctioning. Aligning increasingly autonomous AI systems with these norms is a central alignment challenge, complica",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 08 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.08993",
+        "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.10906",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Whose Memory Is It? Scope-Aware Commit Rules for Long-Term LLM Memory",
-        "summary": "arXiv:2610.09008v1 Announce Type: new Abstract: Persistent memory allows an LLM agent to carry experience across conversations, but it also turns a local reasoning mistake into a durable one. During deliberation, an agent may consider a plan, simulate a tool result, report another speaker's belief, and then reject all ",
+        "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+        "summary": "arXiv:2610.10942v1 Announce Type: new Abstract: Reinforcement learning environments are now a primary lever for improving large language model (LLM) capabilities in post-training, yet most agentic benchmarks remain static: the world moves only when the agent acts, the reward is a terminal verdict, and the pass bar is s",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 08 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.09008",
+        "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.10942",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
