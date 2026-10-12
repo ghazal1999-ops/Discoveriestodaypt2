@@ -1,8 +1,19 @@
 {
-  "date": "2026-10-11",
-  "last_updated": "2026-10-11 01:32 UTC",
+  "date": "2026-10-12",
+  "last_updated": "2026-10-12 02:02 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+        "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far le",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 10 Oct 2026 23:06:35 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/nuclear-clock-concept.webp",
+        "impact": 5
+      },
       {
         "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
         "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise, the organism uses ",
@@ -46,17 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
         "impact": 4
-      },
-      {
-        "title": "The “glue” holding your cells together has a surprising second job",
-        "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 04 Oct 2026 23:12:55 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/living-zebrafish-embryo-with-actin.webp",
-        "impact": 4
       }
     ],
     "tech": [
@@ -83,17 +83,6 @@
         "impact": 5
       },
       {
-        "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-        "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Thu, 08 Oct 2026 20:15:53 +0000",
-        "source_url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hamilton2-1152x648-1791480892.jpg",
-        "impact": 4
-      },
-      {
         "title": "AI coding agents generate more code, but not more software",
         "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
         "category": "Tech",
@@ -105,49 +94,38 @@
         "impact": 3
       },
       {
-        "title": "Danu Robotics’ fight to build a better recycling robot",
-        "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+        "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+        "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a [&#8230;]",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 09 Oct 2026 16:45:00 +0000",
-        "source_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-11T13:31:07-04:00",
+        "source_url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "What to expect from Apple’s ‘Welcome Home’ event",
+        "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner devices [&#8230;]",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-11T09:00:00-04:00",
+        "source_url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/appleevent.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
-        "summary": "A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially in patients whose tumors had high levels of the vitamin D receptor.",
+        "title": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
+        "summary": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person's foot while walking reduced osteoarthritis pain by an amount comparable to medication, without requiring drugs or surgery",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sat, 03 Oct 2026 23:10:23 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/destroying-cancer-tumor-from-inside-out.webp",
-        "impact": 5
-      },
-      {
-        "title": "Blood cancer study links blood formation and bone health",
-        "summary": "Myelodysplastic syndromes (MDS) belong to the malignant diseases of the hematopoietic system that occur primarily in older adults. In patients with MDS, blood formation in bone marrow is impaired. Medical care therefore typically focuses on blood counts and the treatment of the resulting anemia and other changes in the",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 09 Oct 2026 15:40:04 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-blood-cancer-links-formation-bone.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Researchers identify high-IgA MASLD subtype linked to liver-related events",
-        "summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a common liver condition that can follow very different paths among patients. Although fibrosis is a key indicator, some patients without advanced fibrosis can still develop serious liver-related events. This variation led researchers to investigate wh",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 09 Oct 2026 14:20:20 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-high-iga-masld-subtype-linked.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-identify-h-2.jpg",
+        "published_at": "Sat, 10 Oct 2026 20:00:24 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261009025434.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/hands-holding-knee-pain-arthritis.webp",
         "impact": 4
       },
       {
@@ -159,6 +137,28 @@
         "published_at": "Sat, 10 Oct 2026 14:42:35 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
+        "impact": 4
+      },
+      {
+        "title": "Blood proteins may offer new clues to gut health in celiac disease",
+        "summary": "Celiac disease is an autoimmune condition in which the immune system reacts adversely to gluten. Eating gluten causes inflammation in the gut, which can damage the intestine and impair its ability to absorb nutrients.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 11 Oct 2026 16:00:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-blood-proteins-clues-gut-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-proteins-may-off.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries",
+        "summary": "Effective management of high blood pressure could prevent more than 518,000 annual deaths from cardiovascular disease around the world, according to preliminary research presented at the American Heart Association's Hypertension Scientific Sessions 2026. The meeting is in Arlington, Virginia, Oct. 7–11, 2026, and focus",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 11 Oct 2026 10:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-high-blood-pressure-500k-cvd.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-blood-pressure-2.jpg",
         "impact": 4
       },
       {
@@ -254,17 +254,6 @@
         "impact": 4
       },
       {
-        "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
-        "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in C",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 08 Oct 2026 18:56:25 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/otter-2.png",
-        "impact": 4
-      },
-      {
         "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
         "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment wit",
         "category": "Space",
@@ -274,6 +263,17 @@
         "source_url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
         "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
         "impact": 4
+      },
+      {
+        "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+        "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Sun, 11 Oct 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 3
       },
       {
         "title": "APOD: 2026 October 10 – Lunar Farside",
@@ -300,6 +300,28 @@
         "impact": 4
       },
       {
+        "title": "Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations",
+        "summary": "As I’m writing this I’m able to stare out into my driveway at my trusty Honda Odyssey. Most of the public’s association with Honda is through their “mobility” products - i.e. their cars. But the company has an impressive track record of other technical achievements, not the least of which has been in robotics. Now, it’",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sun, 11 Oct 2026 12:33:57 +0000",
+        "source_url": "https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations",
+        "image_url": "https://www.universetoday.com/article_images/Embed_20261007_121216.webp",
+        "impact": 3
+      },
+      {
+        "title": "Astronomers Detect Potential ‘Second Generation’ Planet Around Dying Stellar White Dwarf",
+        "summary": "Potential ‘Second generation’ planet detection around a dying stellar white dwarf opens a whole new chapter of exoplanetary science.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sun, 11 Oct 2026 02:49:08 +0000",
+        "source_url": "https://www.universetoday.com/articles/astronomers-detect-potential-second-generation-planet-around-dying-stellar-white-dwarf",
+        "image_url": "https://www.universetoday.com/article_images/STScI-01M3CBK3T6SRKP4Q7WV9CGFGW9_20261011_024203.jpg",
+        "impact": 3
+      },
+      {
         "title": "Stratospheric Balloon Telescope Peeks Above The Clouds At The Sun",
         "summary": "There’s lots of things you can do with balloons. Children’s birthday parties come to mind, as do retirement parties. But you can also observe the Sun in unprecedented detail with one - or at least with a suite of equipment attached to a gondola floating beneath one. That’s what the SUNRISE III mission did back in 2024,",
         "category": "Astronomy",
@@ -320,28 +342,6 @@
         "source_url": "https://www.universetoday.com/articles/a-student-finds-three-galaxies-and-possibly-solves-a-mystery",
         "image_url": "https://www.universetoday.com/article_images/backsplash_galaxies-768x512_20261009_055346.webp",
         "impact": 3
-      },
-      {
-        "title": "Webb Observes \"Extreme Debris Disks,\" Providing a Window into the Early Solar System",
-        "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, creating the Earth-Moon system. Using Webb, astronomers are studying young star systems to learn more about the early Solar System's evolution.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 09 Oct 2026 02:25:49 +0000",
-        "source_url": "https://www.universetoday.com/articles/webb-observes-extreme-debris-disks-providing-a-window-into-the-early-solar-system",
-        "image_url": "https://www.universetoday.com/article_images/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4_20261008_213502.jpg",
-        "impact": 3
-      },
-      {
-        "title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site",
-        "summary": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 08 Oct 2026 00:30:16 +0000",
-        "source_url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
-        "image_url": "https://www.universetoday.com/article_images/Screenshot_2026-10-07_at_16-08-10_The_surface_of_the_moon_is_hostile._A_newly_found_cave_could_be_a_lifesaver._National_Geographic_20261008_001029.png",
-        "impact": 3
       }
     ],
     "architecture": [
@@ -354,17 +354,6 @@
         "published_at": "Fri, 09 Oct 2026 19:00:00 +0000",
         "source_url": "https://www.archdaily.com/1186647/gutierrez-cafe-toro-arquitectos",
         "image_url": "https://images.adsttc.com/media/images/6ac9/05e2/b2c4/c300/0178/e578/large_jpg/Guti_rrez_Caf__002.jpg?1791559163",
-        "impact": 4
-      },
-      {
-        "title": "Jingzhou City Wall Archaeological Site Exhibition Pavilion / Qing Studio",
-        "summary": "A Millennium Cross-Section on a Living Street — This project originates from a major breakthrough in the archaeological discovery and conservation practice at Bastion No. 11 of the Jingzhou City Wall. Since 2016, this section of the ancient wall had been listed for emergency conservation due to foundation settlement an",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 09 Oct 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1038713/jingzhou-city-wall-archaeological-site-exhibition-pavilion-qing-studio",
-        "image_url": "https://images.adsttc.com/media/images/698c/a970/ad00/0f62/0459/41ad/large_jpg/jingzhou-city-wall-archaeological-site-exhibition-pavilion-qing-studio_12.jpg?1770826163",
         "impact": 4
       },
       {
@@ -398,6 +387,17 @@
         "published_at": "Mon, 05 Oct 2026 19:15:33 +0000",
         "source_url": "https://www.dezeen.com/2026/10/05/estudio-modulo-itau-cultural-sao-paulo-design/",
         "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "impact": 4
+      },
+      {
+        "title": "burgundy wood and blue ceilings shape café, bookshop, and wine bar in valencia",
+        "summary": "sahuquillodearriba renovates a 59-sqm space in el botànic neighborhood retaining elements of the building’s original character. The post burgundy wood and blue ceilings shape café, bookshop, and wine bar in valencia appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 09 Oct 2026 14:55:11 +0000",
+        "source_url": "https://www.designboom.com/architecture/burgundy-wood-blue-ceilings-cafe-bookshop-wine-bar-valencia-sahuquillodearriba/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/10/chiquita-sahuquillodearriba-caf-ebookshop-wine-bar-valencia-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-        "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a natural alternative, ",
+        "title": "The eternal complement",
+        "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 10 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.10549",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
+        "source_url": "https://openai.com/index/the-eternal-complement",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2lnidMsGW3gfP6p4fYJZTg/be8ebadd2bf9e9d83adea7a6f28f0501/eternal-complement-seo-white-preview.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-        "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it is confined to the ru",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 10 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.10629",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "blog.google",
+        "journal": "blog.google",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+        "impact": 4
       },
       {
-        "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-        "summary": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. Yet assumptions made during planning may be invalidated by the environment, tools may return unexpec",
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 10 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.10786",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 08 Oct 2026 09:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
-        "summary": "arXiv:2610.10906v1 Announce Type: new Abstract: Human communities are governed by normative systems: shared standards that produce \\textit{norms} dictating acceptable behavior, enforced through community sanctioning. Aligning increasingly autonomous AI systems with these norms is a central alignment challenge, complica",
+        "title": "Building a safer path to autonomous industrial AI",
+        "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, indus",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 10 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.10906",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 08 Oct 2026 08:17:32 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
-        "summary": "arXiv:2610.10942v1 Announce Type: new Abstract: Reinforcement learning environments are now a primary lever for improving large language model (LLM) capabilities in post-training, yet most agentic benchmarks remain static: the world moves only when the agent acts, the reward is a terminal verdict, and the pass bar is s",
+        "title": "Bringing predictive analytics to the agentic AI era",
+        "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomo",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 10 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.10942",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 05 Oct 2026 13:29:32 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b-e1791293413974.png?resize=1200,600",
+        "impact": 4
       }
     ]
   }
