@@ -1,8 +1,19 @@
 {
-  "date": "2026-10-13",
-  "last_updated": "2026-10-13 03:20 UTC",
+  "date": "2026-10-14",
+  "last_updated": "2026-10-14 01:36 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Alzheimer’s Breakthrough: Scientists Protect Brain Cells Without Removing Toxic Tau",
+        "summary": "Mice kept more brain tissue and performed better on a memory test after researchers blocked an immune attack, without removing the tau tangles linked to Alzheimer’s. Scientists at Washington University School of Medicine in St. Louis have identified a potential way to protect the brain from damage associated with tau b",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Tue, 13 Oct 2026 23:55:16 +0000",
+        "source_url": "https://scitechdaily.com/alzheimers-breakthrough-scientists-protect-brain-cells-without-removing-toxic-tau/",
+        "image_url": "https://scitechdaily.com/images/Brain-Connections-Network-Concept-Illustration-777x518.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
         "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far le",
@@ -46,77 +57,99 @@
         "source_url": "https://scitechdaily.com/scientists-discover-a-strange-new-quantum-state-where-two-materials-meet/",
         "image_url": "https://scitechdaily.com/images/Heavy-Fermion-at-Interface-777x437.jpg",
         "impact": 5
-      },
-      {
-        "title": "Scientists make stunning discovery that could help explain why life exists",
-        "summary": "Scientists have discovered that the universe's fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential biological processes, potentially preventing life as we know it. Surprisingly, these life-friendly condi",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 11 Oct 2026 12:35:58 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/universe-laws-liquids.webp",
-        "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 08 Oct 2026 12:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a-updated-mobile.jpg?resize=1200,600",
-        "impact": 5
-      },
-      {
-        "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-        "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Mon, 12 Oct 2026 12:43:10 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg",
-        "impact": 3
-      },
-      {
-        "title": "AI coding agents generate more code, but not more software",
-        "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 09 Oct 2026 19:43:50 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-        "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+        "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+        "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 12 Oct 2026 15:27:59 +0000",
-        "source_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
+        "published_at": "Tue, 13 Oct 2026 20:59:11 +0000",
+        "source_url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
+        "impact": 4
+      },
+      {
+        "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+        "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 13 Oct 2026 15:17:59 +0000",
+        "source_url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg",
         "impact": 3
       },
       {
-        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-        "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 12 Oct 2026 12:47:59 +0000",
-        "source_url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
+        "published_at": "Tue, 13 Oct 2026 23:13:31 +0000",
+        "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 13 Oct 2026 23:05:34 +0000",
+        "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+        "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 13 Oct 2026 23:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "After 30 years, scientists finally have a drug for a deadly brain disease",
+        "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed promising results in clinical trials, stabilizing motor function and even improving movement in some pati",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 12 Oct 2026 20:43:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/transparent-brain-inflammation-disease.webp",
+        "impact": 5
+      },
+      {
+        "title": "Enhanced CAR T-cell therapy shows early promise for B-cell cancers in first-in-human trial",
+        "summary": "Results from a Phase I clinical trial led by The Ohio State University Comprehensive Cancer Center—Arthur G. James Cancer Hospital and Richard J. Solove Research Institute (OSUCCC—James) show a possible way to improve therapy options for patients with relapsed or treatment-resistant B-cell blood cancers. The findings a",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 13 Oct 2026 19:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-car-cell-therapy-early-cancers.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/enhanced-car-t-cell-th.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Drug tapering noninferior to treatment continuation for rheumatoid arthritis with low disease activity",
+        "summary": "For patients with rheumatoid arthritis (RA) with sustained low disease activity (LDA), structured tapering of biologic or targeted synthetic disease-modifying antirheumatic drugs (b/tsDMARDs) is noninferior to treatment continuation for maintaining disease control over 24 weeks, according to a study published online Oc",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 13 Oct 2026 15:00:24 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-drug-tapering-noninferior-treatment-rheumatoid.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/medicine-3.jpg",
+        "impact": 4
+      },
       {
         "title": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
         "summary": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person's foot while walking reduced osteoarthritis pain by an amount comparable to medication, without requiring drugs or surgery",
@@ -137,39 +170,6 @@
         "published_at": "Sat, 10 Oct 2026 14:42:35 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
-        "impact": 4
-      },
-      {
-        "title": "Females with autoimmune diseases 'less likely to be believed' than males and face longer diagnostic delays",
-        "summary": "Females with autoimmune diseases are significantly more likely than males to have their autoimmune disease misdiagnosed as a psychiatric or psychosomatic condition, according to a study of more than 6,600 patients.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 12 Oct 2026 18:30:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-females-autoimmune-diseases-believed-males.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/woman-talking-to-docto.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Stem cell–like tumor state may help identify high-risk small-cell lung cancer",
-        "summary": "Northwestern Medicine scientists have identified a stem-like state in small-cell lung cancer that distinguishes a group of patients with exceptionally poor outcomes following chemoimmunotherapy, according to a study published in Cell Reports Medicine.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 12 Oct 2026 16:20:18 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-stem-celllike-tumor-state-high.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tumor-state-helps-1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Drug combination that reduces oxygen levels in tissues improves Parkinson's symptoms in mice",
-        "summary": "In a new study, Broad Institute researchers report that two small-molecule chemicals that reduce oxygen delivery to cells improved symptoms of neurodegeneration in a mouse model of Parkinson's disease. The scientists had previously found that excess oxygen in the brain is associated with neuronal death in Parkinson's—a",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 12 Oct 2026 15:20:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-drug-combination-oxygen-tissues-parkinson.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/drug-combination-that.jpg",
         "impact": 4
       }
     ],
@@ -232,18 +232,7 @@
     ],
     "space": [
       {
-        "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-        "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designe",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 09 Oct 2026 16:59:24 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
-        "impact": 5
-      },
-      {
-        "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (photo)",
+        "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (video)",
         "summary": "SpaceX launched 27 of its Starlink broadband satellites to orbit today (Oct. 12), the first such mission for a Falcon 9 rocket since Sept. 19.",
         "category": "Space",
         "source": "space.com",
@@ -254,6 +243,39 @@
         "impact": 5
       },
       {
+        "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+        "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense s",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 13 Oct 2026 13:00:00 +0000",
+        "source_url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+        "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch,",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 13 Oct 2026 11:12:18 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png",
+        "impact": 4
+      },
+      {
+        "title": "2 spacecraft in orbit and 8 more coming soon: Varda has big plans for in-space manufacturing",
+        "summary": "Reentry provider Varda Space Industries is currently flying two spacecraft in Earth orbit and has eight more missions planned in the next year.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 13 Oct 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/2-spacecraft-in-orbit-and-8-more-coming-soon-varda-has-big-plans-for-in-space-manufacturing",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/KdPbfCkmeAvuToZ38GyxwX-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft",
         "summary": "NASA is asking for ideas to stop static electricity from zapping astronauts or critical hardware during moon missions.",
         "category": "Space",
@@ -262,28 +284,6 @@
         "published_at": "Mon, 12 Oct 2026 18:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/moon/the-moon-could-turn-astronauts-into-walking-high-voltage-capacitors-that-accidentally-zap-spacecraft",
         "image_url": "https://cdn.mos.cms.futurecdn.net/DVEtr9vCydjYEWwrGZpyKo-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "UAE unveils lander for bold 7-asteroid mission set to launch in 2028 (photos)",
-        "summary": "In March 2028, the UAE is set to launch an ambitious mission to the asteroid belt between Mars and Jupiter that will culminate with a landing attempt on a mysteriously reddish space rock.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 12 Oct 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/asteroids/uae-unveils-lander-for-bold-7-asteroid-mission-set-to-launch-in-2028-photos",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3C5JGK3wwziHfrTzVevXYG-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
-        "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploratio",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Mon, 12 Oct 2026 17:45:27 +0000",
-        "source_url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/bps/bps_investigations/wholemiBrainMicroglia_AVATAR_org1.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       }
     ],
@@ -297,17 +297,6 @@
         "published_at": "Mon, 12 Oct 2026 18:11:45 +0000",
         "source_url": "https://www.universetoday.com/articles/hubble-spots-a-suspected-second-generation-planet",
         "image_url": "https://www.universetoday.com/article_images/STScI-01M3CHMXXDAPRY7D9RW017N188_20261011_201348.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Galaxy Evolution Can be Affected by Black Hole Jets",
-        "summary": "In recent decades, astronomers have found evidence that supermassive black holes can really mess with their galaxies' evolution. They gobble up material intended for star formation, quenching the birth of stars. Conversely, jets streaming away from those hungry monsters can also energize gas-rich regions and enhance th",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 07 Oct 2026 01:25:41 +0000",
-        "source_url": "https://www.universetoday.com/articles/galaxy-evolution-can-be-affected-by-black-hole-jets",
-        "image_url": "https://www.universetoday.com/article_images/radiojets_20261007_011539.webp",
         "impact": 4
       },
       {
@@ -333,38 +322,49 @@
         "impact": 4
       },
       {
-        "title": "Primordial Helium Further Confirms Our Understanding Of The Big Bang",
-        "summary": "Most helium in the Universe is primordial helium, formed during the Big Bang. But a fraction of helium was formed by long-dead stars. Distinguishing between the two allows astronomers to further confirm our observations of the Big Bang.",
+        "title": "New Data from the Juno Spacecraft Reveals that Jupiter's Has a Rippling, Wavy Magnetodisk",
+        "summary": "Using observations from NASA's Juno spacecraft, an international team led by Shandong University shows that Jupiter's magnetodisk is a rippling structure that rotates with the planet, contrary to what scientists previously thought.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Mon, 12 Oct 2026 15:18:18 +0000",
-        "source_url": "https://www.universetoday.com/articles/primordial-helium-further-confirms-our-understanding-of-the-big-bang",
-        "image_url": "https://www.universetoday.com/article_images/helium_20261012_151738.jpg",
+        "published_at": "Tue, 13 Oct 2026 23:13:34 +0000",
+        "source_url": "https://www.universetoday.com/articles/new-data-from-the-juno-spacecraft-reveals-that-jupiters-has-a-rippling-wavy-magnetodisk",
+        "image_url": "https://www.universetoday.com/article_images/Jupiter_magnetosphere_schematic_20261013_230747.jpg",
+        "impact": 3
+      },
+      {
+        "title": "A Red Dwarf is Taking its Time Eating a Brown Dwarf",
+        "summary": "Astronomers detected an unusual triangular light curve about 300 light years away. They were searching for Black Widow Binaries, where a dense neutron star eats its companion. But they found something different: an M dwarf slowly eating its binary companion brown dwarf.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 13 Oct 2026 17:07:30 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-red-dwarf-is-taking-its-time-eating-a-brown-dwarf",
+        "image_url": "https://www.universetoday.com/article_images/MIT-Slow-Stellar-Feeding-01-press_0_20261012_170808.jpg",
         "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "“Cities Are Mental Weapons”: Utopian Hours 2026 Returns to Turin with Sir Peter Cook and a Program on City-Making",
-        "summary": "The second part of the Utopian Hours 2026 international city-making festival will be held in Turin on October 16 and 17. After a first chapter in Rotterdam, the festival is marking its tenth anniversary edition by returning to its hometown in Italy. The event's lineup and cultural program are designed to explore how ci",
+        "title": "Coral House / Sidney Quintela Architecture + Urban Planning",
+        "summary": "Located on Praia do Forte, on the northern coast of Bahia, Casa Coral is a project designed by architect Sidney Quintela that accurately translates the concept of contemporary tropical architecture. With 501m² distributed over two floors, the residence was conceived to accommodate an extensive family during their leisu",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 12 Oct 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1186668/cities-are-mental-weapons-utopian-hours-2026-returns-to-turin-with-sir-peter-cook-and-a-program-on-city-making",
-        "image_url": "https://images.adsttc.com/media/images/6acc/35ee/7887/fb01/8910/6745/large_jpg/utopian-hours-2026_6.jpg?1791768073",
+        "published_at": "Tue, 13 Oct 2026 13:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning",
+        "image_url": "https://images.adsttc.com/media/images/688c/a379/4460/0500/01e0/d202/large_jpg/Sidney_Quintela_-_Faf__-_72dpi_-_Foto_Gabriela_Daltro_-_Rev_1--15-min.jpg?1754047408",
         "impact": 4
       },
       {
-        "title": "Yanqing Li Commercial Renovation / Mix Architecture",
-        "summary": "Yanqing Li is located in Hankou's historic district, at the intersection of Shengli Street and Eryao Xiaolu. It consists of seven buildings blending Eastern and Western styles, arranged around four intertwined alleyways. Originally built in 1933 by Zhong Yansheng, this traditional lifen was named after him. Having suff",
+        "title": "Built-in Agility and the Architecture of the Infinite Lifecycle",
+        "summary": "While architecture often responds to a specific program of uses, taking into account areas, contexts, and various economic and technical conditions, buildings rarely remain the same throughout their lifespan. Programs, spatial dynamics, and users' needs change, as do environmental, economic, and technological condition",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 12 Oct 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186545/yanqing-li-commercial-renovation-mix-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6ac7/48a0/27ac/8d01/89cb/c349/large_jpg/yanqing-li-commercial-renovation-mix-architecture_45.jpg?1791445165",
+        "published_at": "Tue, 13 Oct 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1186391/built-in-agility-and-the-architecture-of-the-infinite-lifecycle",
+        "image_url": "https://images.adsttc.com/media/images/6ac4/6637/27ac/8d01/89cb/bab1/large_jpg/built-in-agility-and-the-architecture-of-the-infinite-lifecycle_2.jpg?1791256133",
         "impact": 4
       },
       {
@@ -425,8 +425,30 @@
         "impact": 4
       },
       {
+        "title": "DOT moves ahead on effort to tie new construction funds to marriage, birth rates",
+        "summary": "The Federal Transit Authority has published new guidance on the demographic factors proposed in early 2025 to determine the share of a project DOT pays for.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 13 Oct 2026 13:38:41 -0400",
+        "source_url": "https://www.constructiondive.com/news/dot-funding-construction-marriage-birth-rates/832874/",
+        "image_url": "https://imgproxy.divecdn.com/St8GXMReOY1mKgeHL4YQDQUqfSM62Q453CUcQQFNjLw/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyNDAxNzczLmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "3 economic factors determining construction’s winners and losers: ABC",
+        "summary": "The economy has &ldquo;become more extreme&rdquo; as strong sectors boom even more, and weak sectors face more challenges, said Anirban Basu, ABC chief economist.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 13 Oct 2026 08:22:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/constructions-winners-losers-drift-farther-apart/832780/",
+        "image_url": "https://imgproxy.divecdn.com/exLPyqkTi81Jxd1Rawc7IJO11FNIIziisKOXO_k3vRU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk5MTEzODczLmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "DPR breaks ground on $230M Kaiser Permanente project in Colorado",
-        "summary": "The contractor will use prefabricated and modular construction to build the offices, which will help the contractor cut down on jobsite complexity and scheduled time.",
+        "summary": "The contractor will use prefabricated and modular construction to build the offices, cutting down on jobsite complexity.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -434,85 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/dpr-breaks-ground-kaiser-permanente-project-colorado/832793/",
         "image_url": "https://imgproxy.divecdn.com/XalRB__3_LEhNvb0_OeN9S2eC_sHTsg5DJEETO8Ltcc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LYWlzZXJfUGVybWFuZW50ZV9XZXN0bWluc3Rlcl9yZW5kZXJpbmcuanBn.webp",
         "impact": 3
-      },
-      {
-        "title": "JE Dunn-Alberici JV breaks ground on $3.2B Texas shipyard",
-        "summary": "The greenfield shipyard under construction for military contractor Saronic is the first in the U.S. since World War II, according to the JV.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 12 Oct 2026 09:49:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/je-dunn-alberici-jv-breaks-ground-texas-shipyard/832709/",
-        "image_url": "https://imgproxy.divecdn.com/QWWe6g1hZohJeecZLYuLQ2aX5Eb1q0Tw7P0Z7-BgjY4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYXJvbmljLVBvcnRBbHBoYS0xNTUtMjA0OHgxMzk2LmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "The future of the construction trades depends on what employers do next",
-        "summary": "Recruiting more craft workers is key, but investing in career education and upskilling are vital to the labor shortage, writes an executive at Adolfson &amp; Peterson.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 12 Oct 2026 08:45:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-trades-future-depends-training-coaching/832589/",
-        "image_url": "https://imgproxy.divecdn.com/aE3I8mpdV5CRO3CyaR4xcwSWMApsA8wDqWxM6hBG7ms/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU4ODg1ODIxLmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-        "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and luck. We introduce Sp",
+        "title": "The eternal complement",
+        "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.12596",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
+        "source_url": "https://openai.com/index/the-eternal-complement",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2lnidMsGW3gfP6p4fYJZTg/be8ebadd2bf9e9d83adea7a6f28f0501/eternal-complement-seo-white-preview.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
-        "summary": "arXiv:2610.12789v1 Announce Type: new Abstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynamics are incomplete, incorrect, or outdated. We study a complementary axis",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.12789",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "blog.google",
+        "journal": "blog.google",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+        "impact": 4
       },
       {
-        "title": "Collaborative Learning and Reasoning over Model Slices",
-        "summary": "arXiv:2610.12927v1 Announce Type: new Abstract: Large language models (LLMs) excel across diverse tasks, benefiting from knowledge priors, in-context reasoning, and test-time computation. Despite these strengths, single-model reasoning remains vulnerable to error propagation, as later steps depend on the model's earlie",
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.12927",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 08 Oct 2026 09:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
-        "summary": "arXiv:2610.12975v1 Announce Type: new Abstract: We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psychologically grounded, resistant buyer personas. Existing task-oriented dialogue benchmarks assume cooperative user",
+        "title": "Building a safer path to autonomous industrial AI",
+        "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, indus",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.12975",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 08 Oct 2026 08:17:32 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
-        "summary": "arXiv:2610.13092v1 Announce Type: new Abstract: AI agents depend on repeated decisions to accomplish tasks, with large language models (LLMs) commonly serving as their core decision makers. The recent emergence of Jev offers an opportunity to make these decisions faster and at lower cost. However, it remains unclear wh",
+        "title": "Bringing predictive analytics to the agentic AI era",
+        "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomo",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.13092",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 05 Oct 2026 13:29:32 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b-e1791293413974.png?resize=1200,600",
+        "impact": 4
       }
     ]
   }
