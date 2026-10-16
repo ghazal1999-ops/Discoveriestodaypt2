@@ -1,8 +1,19 @@
 {
-  "date": "2026-10-15",
-  "last_updated": "2026-10-15 01:12 UTC",
+  "date": "2026-10-16",
+  "last_updated": "2026-10-16 00:59 UTC",
   "categories": {
     "science": [
+      {
+        "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+        "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once. The breakthrough could eventually lead to crops wi",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 15 Oct 2026 07:45:43 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/diseased-rice-plants-agricultural-farm.webp",
+        "impact": 5
+      },
       {
         "title": "A planet 320 light-years away confirms what scientists long suspected",
         "summary": "Astronomers have discovered that a scorching-hot planet 320 light-years away shares a striking chemical similarity with its host star, providing the first direct evidence for a fundamental assumption about planet formation. The breakthrough could help scientists predict what distant rocky planets are made of and identi",
@@ -15,14 +26,14 @@
         "impact": 5
       },
       {
-        "title": "Alzheimer’s Breakthrough: Scientists Protect Brain Cells Without Removing Toxic Tau",
-        "summary": "Mice kept more brain tissue and performed better on a memory test after researchers blocked an immune attack, without removing the tau tangles linked to Alzheimer’s. Scientists at Washington University School of Medicine in St. Louis have identified a potential way to protect the brain from damage associated with tau b",
+        "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+        "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Tue, 13 Oct 2026 23:55:16 +0000",
-        "source_url": "https://scitechdaily.com/alzheimers-breakthrough-scientists-protect-brain-cells-without-removing-toxic-tau/",
-        "image_url": "https://scitechdaily.com/images/Brain-Connections-Network-Concept-Illustration-777x518.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 15 Oct 2026 08:52:05 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-consciousness-signal-processing.webp",
         "impact": 5
       },
       {
@@ -37,25 +48,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-        "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise, the organism uses ",
+        "title": "Newly discovered viruses reveal an evolutionary missing link",
+        "summary": "Researchers at the University of Miami have identified a group of previously unknown viruses that bridge an evolutionary gap between viruses and cellular protein compartments, a discovery with implications for both biotechnology and scientists' understanding of the origins of life.",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 08 Oct 2026 09:31:39 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/disintegrating-plastic-dna.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Discover a Hidden Trigger That Keeps Inflammation Alive",
-        "summary": "Inflammation persists after proteins detach from immune receptors, revealing a potential target for autoimmune treatments. Since a Nobel Prize-winning discovery in the 1990s identified molecules called Toll-like Receptors as the guardians of the human immune system, researchers have pursued a straightforward strategy f",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Wed, 14 Oct 2026 21:07:39 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-a-hidden-trigger-that-keeps-inflammation-alive/",
-        "image_url": "https://scitechdaily.com/images/Immune-System-Cells-777x429.jpg",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Thu, 15 Oct 2026 19:40:10 EDT",
+        "source_url": "https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-virus.jpg",
         "impact": 5
       }
     ],
@@ -83,40 +83,51 @@
         "impact": 3
       },
       {
-        "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-        "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 14 Oct 2026 16:41:49 +0000",
-        "source_url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-        "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 14 Oct 2026 12:55:06 +0000",
-        "source_url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+        "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+        "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 15 Oct 2026 01:01:32 +0000",
-        "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
+        "published_at": "Thu, 15 Oct 2026 20:38:13 +0000",
+        "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 15 Oct 2026 19:55:25 +0000",
+        "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
+        "impact": 3
+      },
+      {
+        "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+        "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Thu, 15 Oct 2026 16:45:37 +0000",
+        "source_url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2021/12/gettyimages-1157261963-594x594-1.jpg?w=594",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Who gets Alzheimer's drugs? Race, vulnerability and health status shape access",
+        "summary": "The first disease-modifying drugs for Alzheimer's disease offer patients the ability to slow cognitive decline by targeting amyloid plaques in the brain. But a new study suggests that not all patients have the same opportunity to receive these treatments.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 15 Oct 2026 16:00:15 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-alzheimer-drugs-vulnerability-health-status.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/alzheimers-7.jpg",
+        "impact": 5
+      },
       {
         "title": "After 30 years, scientists finally have a drug for a deadly brain disease",
         "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed promising results in clinical trials, stabilizing motor function and even improving movement in some pati",
@@ -129,47 +140,36 @@
         "impact": 5
       },
       {
-        "title": "Medical device adverse event reports are often incomplete, inaccurate and delayed",
-        "summary": "Permitting medical device manufacturers to submit bulk summary reports of adverse events to the U.S. Food and Drug Administration (FDA), rather than reporting individual cases, often fails to promptly detect potential safety signals, finds a study published by The BMJ. This is a public health concern, argue the researc",
+        "title": "Protein modification partially reverses cancer-related muscle wasting in preclinical study",
+        "summary": "Cachexia is one of the most severe forms of muscle wasting in humans. It affects up to 80% of cancer patients and is caused by cancer cytokines—pro-inflammatory signaling molecules—that are released by the tumor cells themselves. Depending on the type of cancer, cancer-induced cachexia (CIC) is responsible for 30% to 5",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 14 Oct 2026 18:30:26 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-medical-device-adverse-event-incomplete.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/medical-device-2.jpg",
+        "published_at": "Thu, 15 Oct 2026 16:50:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-protein-modification-partially-reverses-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/potential-new-therapeu.jpg",
         "impact": 4
       },
       {
-        "title": "Neighborhood conditions linked to childhood cancer survivors' long-term health",
-        "summary": "Survivors of childhood cancer can make lifestyle changes to reduce later-in-life chronic health conditions, such as diabetes and heart disease. Still, some survivors report local environmental barriers to taking these actions. According to a new study from St. Jude Children's Research Hospital scientists, survivors fro",
+        "title": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
+        "summary": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person's foot while walking reduced osteoarthritis pain by an amount comparable to medication, without requiring drugs or surgery",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 14 Oct 2026 17:10:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-neighborhood-conditions-linked-childhood-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/bad-neighborhood.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 10 Oct 2026 20:00:24 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261009025434.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/hands-holding-knee-pain-arthritis.webp",
         "impact": 4
       },
       {
-        "title": "Active acupressure offers clinical benefits for rosacea",
-        "summary": "A device-free, on-demand active acupressure intervention offers clinical benefits for patients with rosacea when combined with pharmacotherapy, according to a study published online Oct. 14 in JAMA Dermatology.",
+        "title": "Bowel cancer “melted away” after immunotherapy, then stayed away",
+        "summary": "A short course of immunotherapy before surgery may offer remarkably durable protection for some patients with stage two or three bowel cancer. In the NEOPRISM-CRC trial, 32 patients with a specific genetic form of bowel cancer received pembrolizumab for up to nine weeks before surgery instead of the usual post-surgery ",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 14 Oct 2026 16:20:13 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-acupressure-clinical-benefits-rosacea.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rosacea.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Common deworming drug helps restore lung cancer's sensitivity to targeted therapy in mice",
-        "summary": "A form of lung cancer, which is found in about 10%–15% of Western patients and 40%–50% of Asian patients, is driven by a mutation in the epidermal growth factor receptor (EGFR) gene. Gefitinib is a go-to drug that shuts down this protein's signals. However, over time, cancer cells develop resistance to the drug and kee",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 14 Oct 2026 15:20:23 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-common-deworming-drug-lung-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/common-deworming-drug.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 10 Oct 2026 14:42:35 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
         "impact": 4
       }
     ],
@@ -289,6 +289,17 @@
     ],
     "astronomy": [
       {
+        "title": "SPHEREx Just Took the Fingerprints of Failed Stars Across Our Cosmic Neighborhood",
+        "summary": "Brown dwarfs are the black (or brown?) sheep of astronomy. They’re too big to be considered a traditional gas planet, but they are too small to have started nuclear fusion and made the full transition to star-hood. They also change dramatically over time, cooling, shrinking, and spinning faster as they age. Or at least",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 15 Oct 2026 13:08:24 +0000",
+        "source_url": "https://www.universetoday.com/articles/spherex-just-took-the-fingerprints-of-failed-stars-across-our-cosmic-neighborhood",
+        "image_url": "https://www.universetoday.com/article_images/1-Brown_dwarf_grid.width-1320_20261015_130642.jpg",
+        "impact": 4
+      },
+      {
         "title": "Hubble Spots a Suspected Second-Generation Planet",
         "summary": "Diligent sleuthing by astronomers has broken open a cold case in the data archive of NASA’s Hubble Space Telescope. In a study published Monday in Nature Astronomy, researchers report uncovering a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet.",
         "category": "Astronomy",
@@ -300,108 +311,108 @@
         "impact": 4
       },
       {
-        "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find",
-        "summary": "Scientists have performed a cosmic genealogy on planetary systems in the Milky Way, finding two distinct families that influence the evolution and fate of these systems.",
+        "title": "Host Stars Shape Their Planetary Systems Into Two Families",
+        "summary": "New research draws a link between a host star and the characteristics of its planetary system. Higher mass stars create one family of systems, while lower mass stars create another. These results provide a new, more detailed template for understanding exoplanet systems.",
         "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 14 Oct 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/2hhjsHRacj2LrS7kazdKDZ-1920-80.png",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 15 Oct 2026 17:07:40 +0000",
+        "source_url": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
+        "image_url": "https://www.universetoday.com/article_images/solar_system_architecture_20261015_154150.jpg",
         "impact": 4
       },
       {
-        "title": "Astronomers Observe The Limb Darkening Effect On Nearby Stars",
-        "summary": "The edge of the Sun appears darker than its central region. This effect is known as limb darkening and tells us about the solar atmosphere. This same limb darkening effect has now been observed on several nearby stars and could help us improve our understanding of stellar atmospheres.",
+        "title": "Astronomers discover the 1st ever green star, a cosmic zombie just in time for Halloween",
+        "summary": "Imagine if the sun could take on a spooky green glow for Halloween. Scientists have discovered that our star may go green if it turns into a cosmic zombie after its death in billions of years.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 14 Oct 2026 16:04:42 +0000",
-        "source_url": "https://www.universetoday.com/articles/astronomers-observe-the-limb-darkening-effect-on-nearby-stars",
-        "image_url": "https://www.universetoday.com/article_images/darklimb_20261014_160402.png",
-        "impact": 3
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 15 Oct 2026 20:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/uoJqSudUWa95XGygiVtysF-1920-80.png",
+        "impact": 4
       },
       {
-        "title": "Curiosity Greets a Spectacular Dawn Sky on Mars",
-        "summary": "Mars is a planetary geologist’s paradise. NASA’s Curiosity rover drove that home recently, with a captivating panorama seen from the slopes of Mount Sharp. The image shows a stunning vista, and was not white-balance adjusted during processing, to show just what a viewer might really see at sunrise standing of Mars.",
+        "title": "Beat light pollution with these six portable telescopes",
+        "summary": "Sick of skyglow spoiling your stargazing? These six telescopes are portable enough that you can easily pack them away and seek out darker skies.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 14 Oct 2026 13:51:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/curiosity-greets-a-spectacular-dawn-sky-on-mars",
-        "image_url": "https://www.universetoday.com/article_images/1-Figure_A-PIA26728-Curiosity_Captures_Dawn_B.width-1320_20261014_131831.jpg",
-        "impact": 3
-      },
-      {
-        "title": "A Trip to Mars Could Break Your Heart - Literally",
-        "summary": "When astronauts first travel to Mars, or anywhere else in deep space, they will have to contend with two problems that our planet itself protects us from on its surface - radiation and weightlessness. Scientists already know both can have a profound impact on the human body, but just how much of one, and how long that ",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 14 Oct 2026 11:57:41 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-trip-to-mars-could-break-your-heart-literally",
-        "image_url": "https://www.universetoday.com/article_images/Low-Res_Striking_image_20261014_115132.png",
-        "impact": 3
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 15 Oct 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/tagaccN2B423BVxCHJ2Qj6-1920-80.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Architecture & Design Film Festival (ADFF): Toronto",
-        "summary": "The Architecture &amp; Design Film Festival (ADFF) returns to Toronto, with a fresh fall lineup of films, panel conversations, and social gatherings at the TIFF Lightbox from November 4-7, 2026. Presented by Eventscape, this year&rsquo;s program, curated by festival director Kyle Bergman, offers thought-provoking films",
+        "title": "OODA Transforms a Prague City Block into a Permeable Mixed-Use Complex with a Lanscaped Central Plaza",
+        "summary": "Portuguese architecture and urbanism practice OODA has released new images of an urban design project in Prague, Czech Republic. The design transforms an existing building block into a permeable site with municipal social housing, commercial units, and a landscaped central plaza. The project, titled Kodaňská 1441, prio",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 14 Oct 2026 09:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186781/architecture-and-design-film-festival-adff-toronto",
-        "image_url": "https://images.adsttc.com/media/images/6ace/e494/b2c4/c300/0178/f02d/large_jpg/TOR_2026_27_1920_X_1080.png.jpg?1791943838",
-        "impact": 4
+        "published_at": "Thu, 15 Oct 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1186855/ooda-transforms-a-prague-city-block-into-a-permeable-mixed-use-complex-with-a-lanscaped-central-plaza",
+        "image_url": "https://images.adsttc.com/media/images/6acf/dd25/51c8/2d01/89ac/062e/large_jpg/ooda_3.jpg?1792007497",
+        "impact": 5
       },
       {
-        "title": "Brazil in Focus: This Month in Architecture, Housing, Learning Spaces, and Urban Life",
-        "summary": "This month's Brazil in Focus looks at how architecture and urban development intersect with questions of housing, education, public space, and mobility across the country. This month's selection includes an indigenous settlement in Maricá recognized by UN-Habitat for its approach to adequate housing, editorials examini",
+        "title": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS Wins RIBA Stirling Prize 2026",
+        "summary": "The RIBA Stirling Prize 2026 has been awarded to Lion Green Road, a housing development in Coulsdon, South London, designed by Mary Duggan Architects with RUFFARCHITECTS for Croydon Council. Comprising 157 homes across five residential blocks, the project combines privately owned and socially rented housing on a former",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 14 Oct 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1186807/brazil-in-focus-this-month-in-architecture-housing-learning-spaces-and-urban-life",
-        "image_url": "https://images.adsttc.com/media/images/6acf/54af/7887/fb01/8910/70b0/large_jpg/brazil-in-focus-this-month-in-architecture-housing-and-public-space_9.jpg?1791972534",
+        "published_at": "Thu, 15 Oct 2026 16:35:00 +0000",
+        "source_url": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026",
+        "image_url": "https://images.adsttc.com/media/images/6ad0/e7bb/51c8/2d01/89ac/0a59/large_jpg/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026_1.jpg?1792075740",
         "impact": 4
       },
       {
-        "title": "Coral House / Sidney Quintela Architecture + Urban Planning",
-        "summary": "Located on Praia do Forte, on the northern coast of Bahia, Casa Coral is a project designed by architect Sidney Quintela that accurately translates the concept of contemporary tropical architecture. With 501m² distributed over two floors, the residence was conceived to accommodate an extensive family during their leisu",
+        "title": "Architectures of Ageing in Place",
+        "summary": "Architectures of Ageing in Place provides curated critical perspectives, from a practice-based research point of view, of buildings that are purpose built and/or refurbished to accommodate housing and care needs of older people ageing in place in high rise/medium rise integrated communities.This book identifies design ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 13 Oct 2026 13:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning",
-        "image_url": "https://images.adsttc.com/media/images/688c/a379/4460/0500/01e0/d202/large_jpg/Sidney_Quintela_-_Faf__-_72dpi_-_Foto_Gabriela_Daltro_-_Rev_1--15-min.jpg?1754047408",
+        "published_at": "Thu, 15 Oct 2026 09:35:00 +0000",
+        "source_url": "https://www.archdaily.com/1186911/architectures-of-ageing-in-place",
+        "image_url": "https://images.adsttc.com/media/images/6ad0/cf6a/b2c4/c300/0178/f7ce/large_jpg/Architectures_of_Ageing_in_Place_HB_v02.jpg?1792069526",
         "impact": 4
       },
       {
-        "title": "BIG designs cloud-like Tirana Fountain Plaza raised above public park",
-        "summary": "Cloaked in layers of white disks, architecture studio BIG has revealed plans for a mixed-use building in Tirana containing apartments, offices, cultural spaces and water features. Named Tirana Fountain Plaza, the cloud-like building will be raised on slim white columns over Rinia Park, designed to keep the ground level",
+        "title": "SHIFT 2026: Fernando de Mello Franco proposes viewing the landscape as an instrument for the socio-ecological recomposition of territories",
+        "summary": "Organized by Casa da Arquitetura and curated by Brazilian architect and urban planner Fernando de Mello Franco, the fourth edition of SHIFT – International Seminar on Architecture and Sustainability will take place from October 16 to 17 in Matosinhos, Portugal. Under the theme \"Continuities — Socio-ecological recomposi",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 12 Oct 2026 09:30:56 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/12/tirana-fountain-tower-big-albania/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 15 Oct 2026 09:15:00 +0000",
+        "source_url": "https://www.archdaily.com/1186893/shift-2026-fernando-de-mello-franco-proposes-viewing-the-landscape-as-an-instrument-for-the-socio-ecological-recomposition-of-territories",
+        "image_url": "https://images.adsttc.com/media/images/6ad0/b9fc/b2c4/c300/0178/f6ec/large_jpg/Rio_le_a.jpg?1792064008",
         "impact": 4
       },
       {
-        "title": "East unveils updated images of its plans to pedestrianise Oxford Street",
-        "summary": "Ahead of Oxford Street closing to traffic later this month, local architecture studio East has released its latest renders revealing how the popular London shopping destination will look when pedestrianised. East is working with landscape architecture studio JL Gibbons and urban design studios Gehl and Publica on the f",
+        "title": "Humanist modernity: Maciej and Stanisława Nowicki opens in New York",
+        "summary": "On October 1, the exhibition Humanist modernity: Maciej and Stanisława Nowicki, opens in the Center for Architecture in New York. Alongside the opening, the Center will host a public talk and a guided tour led by the exhibition&rsquo;s curator, Kacper Kępiński, Deputy Director of NIAiU.Humanist modernity presents the w",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Thu, 08 Oct 2026 09:00:19 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/08/oxford-street-pedestrianised-east/",
-        "image_url": "https://picsum.photos/seed/architecturefallback/1200/800",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 15 Oct 2026 09:10:00 +0000",
+        "source_url": "https://www.archdaily.com/1186888/humanist-modernity-maciej-and-stanislawa-nowicki-opens-in-new-york",
+        "image_url": "https://images.adsttc.com/media/images/6ad0/b8e0/b2c4/c300/0178/f6cd/large_jpg/2026_HUMANIZNM_MODERNISTYCZNY_NY-3-Email_graphic_.jpg?1792063715",
         "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Drammen City Bridge shows how smart engineering decisions can facilitate foundation construction",
+        "summary": "Having two separate teams and clients for one continuous structure is rather unusual and challenging, but Norway’s Drammen City Bridge shows it can be done efficiently. The 2026 NCE International Bridge Project of the Year is also an exemplar of how smart engineering decisions can&hellip; The post Drammen City Bridge s",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 15 Oct 2026 03:00:49 +0000",
+        "source_url": "https://www.newcivilengineer.com/in-depth/drammen-city-bridge-shows-how-smart-engineering-decisions-can-facilitate-foundation-construction-15-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/Bybrua_3_Copyright_Nadia-Frantsen_-560x315.jpg",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -425,37 +436,26 @@
         "impact": 4
       },
       {
-        "title": "Roofer sues after allegedly being told ‘no one pays overtime in construction work’",
-        "summary": "While it is common for certain salaried workers to be exempt from the FLSA&rsquo;s overtime requirement, blue-collar workers are nonexempt.",
+        "title": "Local jobs and spending generate 97% of construction social value",
+        "summary": "Local jobs and spending accounted for 97% of the social value generated across 445 construction and civil engineering projects in England, Scotland and Wales during 2025, according to Scape’s annual Social Value Benchmarking Report. The post Local jobs and spending generate 97% of construction social value appeared fir",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 14 Oct 2026 13:36:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/roofer-sues-after-allegedly-being-told-no-one-pays-overtime-in-constructio/833002/",
-        "image_url": "https://imgproxy.divecdn.com/1FxRULITANdDo_0GQm2-uq7XkEAPtnEFQNvH4915aeg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTcyNTgxMjIyLmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 15 Oct 2026 09:15:31 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/local-jobs-and-spending-generate-97-of-construction-social-value-15-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/constructionpic-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "Contractors’ backlog jumped in September as profit outlook fell",
-        "summary": "High construction costs are taking a toll on sales and margin expectations, according to Associated Builders and Contractors.",
+        "title": "BCIA 2026: Winners revealed",
+        "summary": "More than 900 industry leaders gathered in London yesterday (14 October) for the 39th British Construction &amp; Infrastructure Awards (BCIA), celebrating outstanding projects, teams and organisations across the construction and infrastructure sectors. The post BCIA 2026: Winners revealed appeared first on New Civil En",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 14 Oct 2026 09:47:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/contractors-backlog-jumped-september-profit-outlook-fell/832949/",
-        "image_url": "https://imgproxy.divecdn.com/uIHu8ltZ-Mn3D-S0lR4paQNFXlNc9jtzg8pTlKdIJu4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk4MzQwNjQzLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "‘I’ve lived it’: How HITT’s CEO brings trade experience to her role",
-        "summary": "HITT Contracting&rsquo;s Kim Roy discusses the company&rsquo;s key markets, future M&amp;A plans and changes in data center construction.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 14 Oct 2026 09:13:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/hitt-contracting-ceo-kim-roy-data-centers-labor/832938/",
-        "image_url": "https://imgproxy.divecdn.com/wg5iGCvbuLfc9FwQ-wJOjzYOxBroEGDxYGUiAfwexAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMDU1MTg2LmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 15 Oct 2026 05:30:47 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/bcia-2026-winners-revealed-15-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/emap_BCIA_Winners-28-1-560x315.jpg",
+        "impact": 4
       }
     ],
     "ai": [
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 14 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.14005",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 14 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.14118",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 14 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.14180",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 14 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.14224",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 14 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.14381",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
