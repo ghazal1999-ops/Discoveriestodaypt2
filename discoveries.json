@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "last_updated": "2026-10-16 00:59 UTC",
+  "date": "2026-10-17",
+  "last_updated": "2026-10-17 01:01 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Thu, 15 Oct 2026 07:45:43 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/diseased-rice-plants-agricultural-farm.webp",
+        "impact": 5
+      },
+      {
+        "title": "Astronomers discover a strange universal rule behind black hole eruptions",
+        "summary": "Scientists have discovered that black holes of vastly different sizes appear to launch powerful jets according to the same universal rule. The breakthrough could explain why some black holes suddenly erupt years after devouring a star and help astronomers predict when these spectacular outbursts will happen.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 16 Oct 2026 06:45:33 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/tidal-disruption-event-close-up.webp",
         "impact": 5
       },
       {
@@ -37,49 +48,60 @@
         "impact": 5
       },
       {
-        "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
-        "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far le",
+        "title": "Scientists Discover a Terrifying New Dinosaur Hidden for 100 Years",
+        "summary": "A dinosaur fossil that sat unnoticed in a museum collection for nearly a century has turned out to belong to a previously unknown predator with enormous curved claws. The animal, roughly the size of a large tiger, lived in what is now Britain about 120 million years ago. The discovery was made by a research [...]",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 10 Oct 2026 23:06:35 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/nuclear-clock-concept.webp",
-        "impact": 5
-      },
-      {
-        "title": "Newly discovered viruses reveal an evolutionary missing link",
-        "summary": "Researchers at the University of Miami have identified a group of previously unknown viruses that bridge an evolutionary gap between viruses and cellular protein compartments, a discovery with implications for both biotechnology and scientists' understanding of the origins of life.",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Thu, 15 Oct 2026 19:40:10 EDT",
-        "source_url": "https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/newly-discovered-virus.jpg",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Fri, 16 Oct 2026 23:46:11 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-a-terrifying-new-dinosaur-hidden-for-100-years/",
+        "image_url": "https://scitechdaily.com/images/Invictibellatrix-amberina-777x425.jpg",
         "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-        "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that ",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 16 Oct 2026 16:30:00 +0000",
+        "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+        "impact": 4
+      },
+      {
+        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+        "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Wed, 14 Oct 2026 21:35:09 +0000",
-        "source_url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+        "published_at": "Fri, 16 Oct 2026 14:03:25 +0000",
+        "source_url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Software development and rules stability: Prototype racing in 2030",
-        "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+        "title": "Waymo’s robotaxis are headed to Canada",
+        "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 14 Oct 2026 19:44:26 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/img_3-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 16 Oct 2026 16:06:38 +0000",
+        "source_url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
+        "impact": 3
+      },
+      {
+        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+        "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 16 Oct 2026 14:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
         "impact": 3
       },
       {
@@ -92,42 +114,9 @@
         "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
         "impact": 3
-      },
-      {
-        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-        "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 15 Oct 2026 19:55:25 +0000",
-        "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
-        "impact": 3
-      },
-      {
-        "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-        "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 15 Oct 2026 16:45:37 +0000",
-        "source_url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2021/12/gettyimages-1157261963-594x594-1.jpg?w=594",
-        "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Who gets Alzheimer's drugs? Race, vulnerability and health status shape access",
-        "summary": "The first disease-modifying drugs for Alzheimer's disease offer patients the ability to slow cognitive decline by targeting amyloid plaques in the brain. But a new study suggests that not all patients have the same opportunity to receive these treatments.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 15 Oct 2026 16:00:15 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-alzheimer-drugs-vulnerability-health-status.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/alzheimers-7.jpg",
-        "impact": 5
-      },
       {
         "title": "After 30 years, scientists finally have a drug for a deadly brain disease",
         "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed promising results in clinical trials, stabilizing motor function and even improving movement in some pati",
@@ -140,14 +129,25 @@
         "impact": 5
       },
       {
-        "title": "Protein modification partially reverses cancer-related muscle wasting in preclinical study",
-        "summary": "Cachexia is one of the most severe forms of muscle wasting in humans. It affects up to 80% of cancer patients and is caused by cancer cytokines—pro-inflammatory signaling molecules—that are released by the tumor cells themselves. Depending on the type of cancer, cancer-induced cachexia (CIC) is responsible for 30% to 5",
+        "title": "Brain PET scans help select and monitor patients for new Alzheimer's drugs",
+        "summary": "Nuclear medicine is playing an increasingly important role in the diagnosis and treatment of Alzheimer's disease, helping clinicians visualize the biological changes associated with the condition and guide decisions about new therapies. Amyloid PET imaging is being used to confirm the presence of amyloid pathology and ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 15 Oct 2026 16:50:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-protein-modification-partially-reverses-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/potential-new-therapeu.jpg",
+        "published_at": "Fri, 16 Oct 2026 20:40:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-scan.jpg",
+        "impact": 4
+      },
+      {
+        "title": "New drug-delivery method offers promise in fight against neurodegenerative diseases",
+        "summary": "For patients battling neurodegenerative diseases like ALS, Parkinson's, Alzheimer's and other dementias, delivering disease-fighting antibody drugs directly to the brain has proven to be a difficult task. Our bodies set up tight walls to prevent infections from spreading to the brain, where they often become fatal.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 16 Oct 2026 14:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-drug-delivery-method-neurodegenerative-diseases.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/neurodegenerative.jpg",
         "impact": 4
       },
       {
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+        "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and De",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Thu, 15 Oct 2026 19:58:08 +0000",
+        "source_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/mars/mmx/jaxa-mmx-spacecraft.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "impact": 5
+      },
+      {
         "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
         "summary": "A decade after Elon Musk publicly unveiled plans for the fully reusable megarocket, Starship has reached orbit. How far away is Mars?",
         "category": "Space",
@@ -243,15 +254,26 @@
         "impact": 5
       },
       {
-        "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (video)",
-        "summary": "SpaceX launched 27 of its Starlink broadband satellites to orbit today (Oct. 12), the first such mission for a Falcon 9 rocket since Sept. 19.",
+        "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+        "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contribution",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 16 Oct 2026 20:14:39 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg",
+        "impact": 4
+      },
+      {
+        "title": "'Mission: 60s' event promises passport back to the Space Age",
+        "summary": "Your invitation to revisit the Space Age has arrived.Whether you miss the days when people got dressed up to fly or wish your other ride was a rocket, Mission: 60s has a *space* reserved for you.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Tue, 13 Oct 2026 03:15:45 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/KhGk6baPFS3pFkMFBVNJ6i-1920-80.jpg",
-        "impact": 5
+        "published_at": "Fri, 16 Oct 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/apollo/rocket-back-to-the-space-age-with-mission-60s-event-in-nyc-next-weekend",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/QzLMmdSDXdfYVfceuu7zc4-1920-80.jpg",
+        "impact": 4
       },
       {
         "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
@@ -263,31 +285,20 @@
         "source_url": "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty",
         "image_url": "https://cdn.mos.cms.futurecdn.net/srm5QgGPesHZUwwF9z2CAn-1920-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "2 spacecraft in orbit and 8 more coming soon: Varda has big plans for in-space manufacturing",
-        "summary": "Reentry provider Varda Space Industries is currently flying two spacecraft in Earth orbit and has eight more missions planned in the next year.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 13 Oct 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/2-spacecraft-in-orbit-and-8-more-coming-soon-varda-has-big-plans-for-in-space-manufacturing",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/KdPbfCkmeAvuToZ38GyxwX-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft",
-        "summary": "NASA is asking for ideas to stop static electricity from zapping astronauts or critical hardware during moon missions.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 12 Oct 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/moon/the-moon-could-turn-astronauts-into-walking-high-voltage-capacitors-that-accidentally-zap-spacecraft",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/DVEtr9vCydjYEWwrGZpyKo-1920-80.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "In the Search for Exoplanets, Some Failures Are A Success",
+        "summary": "Astronomers used decades of archival data and new radial velocity measurements to search for exoplanets around a neaby binary star, 70 Oph AB. They didn't find any, which can seem like a failure. But in this case, their work only ruled out large, Jupiter-mass planets at certain distances. There could still be Earth-siz",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 16 Oct 2026 19:30:07 +0000",
+        "source_url": "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success",
+        "image_url": "https://www.universetoday.com/article_images/suns-set-on-hunt-for-giant-planets-in-nearby-binary-system-70_oph_ab_painted_stars_20261016_161708.jpg",
+        "impact": 4
+      },
       {
         "title": "SPHEREx Just Took the Fingerprints of Failed Stars Across Our Cosmic Neighborhood",
         "summary": "Brown dwarfs are the black (or brown?) sheep of astronomy. They’re too big to be considered a traditional gas planet, but they are too small to have started nuclear fusion and made the full transition to star-hood. They also change dramatically over time, cooling, shrinking, and spinning faster as they age. Or at least",
@@ -322,39 +333,28 @@
         "impact": 4
       },
       {
-        "title": "Astronomers discover the 1st ever green star, a cosmic zombie just in time for Halloween",
-        "summary": "Imagine if the sun could take on a spooky green glow for Halloween. Scientists have discovered that our star may go green if it turns into a cosmic zombie after its death in billions of years.",
+        "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
+        "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 15 Oct 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/uoJqSudUWa95XGygiVtysF-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Beat light pollution with these six portable telescopes",
-        "summary": "Sick of skyglow spoiling your stargazing? These six telescopes are portable enough that you can easily pack them away and seek out darker skies.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 15 Oct 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/tagaccN2B423BVxCHJ2Qj6-1920-80.jpg",
+        "published_at": "Fri, 16 Oct 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/oia4vBoTLGvrQj2mmGVunM-1920-80.png",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "OODA Transforms a Prague City Block into a Permeable Mixed-Use Complex with a Lanscaped Central Plaza",
-        "summary": "Portuguese architecture and urbanism practice OODA has released new images of an urban design project in Prague, Czech Republic. The design transforms an existing building block into a permeable site with municipal social housing, commercial units, and a landscaped central plaza. The project, titled Kodaňská 1441, prio",
+        "title": "City Pride School / A Threshold",
+        "summary": "This primary educational institution, known as City Pride School, is situated in the newly developed region of Ravet Pradhikaran, Pune, characterized by densely populated urban neighborhoods. The school occupies a compact, high-rise urban landscape where the scarcity of space and significant commercial value necessitat",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 15 Oct 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1186855/ooda-transforms-a-prague-city-block-into-a-permeable-mixed-use-complex-with-a-lanscaped-central-plaza",
-        "image_url": "https://images.adsttc.com/media/images/6acf/dd25/51c8/2d01/89ac/062e/large_jpg/ooda_3.jpg?1792007497",
-        "impact": 5
+        "published_at": "Fri, 16 Oct 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1186698/city-pride-school-a-threshold",
+        "image_url": "https://images.adsttc.com/media/images/6acc/fe20/c599/0e01/8860/0e4e/large_jpg/city-pride-school-a-threshold_18.jpg?1791819332",
+        "impact": 4
       },
       {
         "title": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS Wins RIBA Stirling Prize 2026",
@@ -362,55 +362,55 @@
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 15 Oct 2026 16:35:00 +0000",
+        "published_at": "Fri, 16 Oct 2026 06:30:00 +0000",
         "source_url": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026",
         "image_url": "https://images.adsttc.com/media/images/6ad0/e7bb/51c8/2d01/89ac/0a59/large_jpg/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026_1.jpg?1792075740",
         "impact": 4
       },
       {
-        "title": "Architectures of Ageing in Place",
-        "summary": "Architectures of Ageing in Place provides curated critical perspectives, from a practice-based research point of view, of buildings that are purpose built and/or refurbished to accommodate housing and care needs of older people ageing in place in high rise/medium rise integrated communities.This book identifies design ",
+        "title": "In Conversation with Liu Jiakun, Dong Gong, and Luo Yujie: Small-Scale Timber Buildings—Why Build Them and How?",
+        "summary": "As timber architecture moves beyond traditional residential and rural settings to find new applications in urban regeneration, commercial spaces, public activities, and everyday life, we face new challenges and a growing need for \"new architecture\" that continues to evolve.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 15 Oct 2026 09:35:00 +0000",
-        "source_url": "https://www.archdaily.com/1186911/architectures-of-ageing-in-place",
-        "image_url": "https://images.adsttc.com/media/images/6ad0/cf6a/b2c4/c300/0178/f7ce/large_jpg/Architectures_of_Ageing_in_Place_HB_v02.jpg?1792069526",
+        "published_at": "Fri, 16 Oct 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1186963/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how",
+        "image_url": "https://images.adsttc.com/media/images/6ad1/87cd/8008/f401/8ba5/3d42/large_jpg/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how_4.jpg?1792116706",
         "impact": 4
       },
       {
-        "title": "SHIFT 2026: Fernando de Mello Franco proposes viewing the landscape as an instrument for the socio-ecological recomposition of territories",
-        "summary": "Organized by Casa da Arquitetura and curated by Brazilian architect and urban planner Fernando de Mello Franco, the fourth edition of SHIFT – International Seminar on Architecture and Sustainability will take place from October 16 to 17 in Matosinhos, Portugal. Under the theme \"Continuities — Socio-ecological recomposi",
+        "title": "Renovation of the Core Area of TAFA Art Block / Mix Architecture",
+        "summary": "To the west of the Tianjin Academy of Fine Arts lies a century-old urban fabric. With the completion of the Tianjin Eye, the Haihe River's cultural and tourism flows converge at the Sancha Estuary, yet this nearby old town had remained a value depression dormant for two or three decades in the heart of the city. In 202",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 15 Oct 2026 09:15:00 +0000",
-        "source_url": "https://www.archdaily.com/1186893/shift-2026-fernando-de-mello-franco-proposes-viewing-the-landscape-as-an-instrument-for-the-socio-ecological-recomposition-of-territories",
-        "image_url": "https://images.adsttc.com/media/images/6ad0/b9fc/b2c4/c300/0178/f6ec/large_jpg/Rio_le_a.jpg?1792064008",
+        "published_at": "Fri, 16 Oct 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
         "impact": 4
       },
       {
-        "title": "Humanist modernity: Maciej and Stanisława Nowicki opens in New York",
-        "summary": "On October 1, the exhibition Humanist modernity: Maciej and Stanisława Nowicki, opens in the Center for Architecture in New York. Alongside the opening, the Center will host a public talk and a guided tour led by the exhibition&rsquo;s curator, Kacper Kępiński, Deputy Director of NIAiU.Humanist modernity presents the w",
+        "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
+        "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. The 4,330-square-metre building was designed to provide learning space for a local education centre, as well as to house commun",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 15 Oct 2026 09:10:00 +0000",
-        "source_url": "https://www.archdaily.com/1186888/humanist-modernity-maciej-and-stanislawa-nowicki-opens-in-new-york",
-        "image_url": "https://images.adsttc.com/media/images/6ad0/b8e0/b2c4/c300/0178/f6cd/large_jpg/2026_HUMANIZNM_MODERNISTYCZNY_NY-3-Email_graphic_.jpg?1792063715",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 16 Oct 2026 10:30:32 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
+        "image_url": "https://static.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-hero_dezeen_2364_col_0.jpg",
         "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Drammen City Bridge shows how smart engineering decisions can facilitate foundation construction",
-        "summary": "Having two separate teams and clients for one continuous structure is rather unusual and challenging, but Norway’s Drammen City Bridge shows it can be done efficiently. The 2026 NCE International Bridge Project of the Year is also an exemplar of how smart engineering decisions can&hellip; The post Drammen City Bridge s",
+        "title": "Flintco-Mortenson JV begins concrete deck at $900M Oklahoma City NBA arena",
+        "summary": "The construction team on the future home of the Oklahoma City Thunder also started work on the loading dock walls on the east side of the venue.a",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 15 Oct 2026 03:00:49 +0000",
-        "source_url": "https://www.newcivilengineer.com/in-depth/drammen-city-bridge-shows-how-smart-engineering-decisions-can-facilitate-foundation-construction-15-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/Bybrua_3_Copyright_Nadia-Frantsen_-560x315.jpg",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 16 Oct 2026 15:39:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/flintco-mortenson-jv-concrete-oklahoma-city-nba-arena/833271/",
+        "image_url": "https://imgproxy.divecdn.com/O9f588CKMalv4jICJkl-rLDpfFd03zf24AeQ1WRN6GM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9va2Nfc3RhZGl1bS5qcGc=.webp",
         "impact": 4
       },
       {
@@ -432,85 +432,85 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/09/28/Suffolk_ENR_CBC_WSC_Image_900x500.webp?crop=true&height=257&t=1790628362&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/10/15/Aon_ENR_CBC_PH_Article2_Image_GettyImages-2282607313.webp?crop=true&height=257&t=1792083365&width=420",
         "impact": 4
       },
       {
-        "title": "Local jobs and spending generate 97% of construction social value",
-        "summary": "Local jobs and spending accounted for 97% of the social value generated across 445 construction and civil engineering projects in England, Scotland and Wales during 2025, according to Scape’s annual Social Value Benchmarking Report. The post Local jobs and spending generate 97% of construction social value appeared fir",
+        "title": "£800M South West Wales civil engineering framework put out to tender",
+        "summary": "Five Welsh councils have launched a tender for a civil engineering framework with an estimated value of £800M excluding VAT (£960M including VAT), covering civil engineering construction projects and specialist works across the regions. The post £800M South West Wales civil engineering framework put out to tender appea",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Thu, 15 Oct 2026 09:15:31 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/local-jobs-and-spending-generate-97-of-construction-social-value-15-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/constructionpic-560x315.jpg",
+        "published_at": "Fri, 16 Oct 2026 08:10:40 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/800m-south-west-wales-civil-engineering-framework-put-out-to-tender-16-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Port-Talbot-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "BCIA 2026: Winners revealed",
-        "summary": "More than 900 industry leaders gathered in London yesterday (14 October) for the 39th British Construction &amp; Infrastructure Awards (BCIA), celebrating outstanding projects, teams and organisations across the construction and infrastructure sectors. The post BCIA 2026: Winners revealed appeared first on New Civil En",
+        "title": "13-year, $2B NYC bridge rehab completes 8th of 11 projects",
+        "summary": "Skanska&rsquo;s $452 million contract to replace the bridge&rsquo;s 592 suspender ropes included the 1.5-mile pedestrian pathway rebuild.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Thu, 15 Oct 2026 05:30:47 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/bcia-2026-winners-revealed-15-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/emap_BCIA_Winners-28-1-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 16 Oct 2026 15:30:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/nyc-george-washington-bridge-rehab-completes-8th-11-projects/833265/",
+        "image_url": "https://imgproxy.divecdn.com/3el4pxHBn9S1ufI2kRfnoweZ0GTONJGy1fDFLaMQPUM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTU5MTc1NTQ2MF9mNjJiNmZmNTAyX28uanBn.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-        "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who wr",
+        "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+        "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to eval",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.14005",
+        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.20665",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-        "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines e",
+        "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+        "summary": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a learned policy for int",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.14118",
+        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.20780",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Unconstrained CTI-REALM with Open-Weights",
-        "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (arXiv:2603.13517), a benchmark in which an ",
+        "title": "Defining and Generating Compositional Structure",
+        "summary": "arXiv:2610.20922v1 Announce Type: new Abstract: Compositional structure is pervasive in nature and across scales: atoms combine into molecules, molecules into cells, and cells into organisms, while further compositional hierarchies appear within each level. More broadly, compositionality, the reuse and recombination of",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.14180",
+        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.20922",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Harness^2: Recursive Agent Harnessing for an Open World",
-        "summary": "arXiv:2610.14224v1 Announce Type: new Abstract: LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these harnesses. However, deploying RSI in open-world settings still faces two c",
+        "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+        "summary": "arXiv:2610.20926v1 Announce Type: new Abstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. However, improvement may require several inte",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.14224",
+        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.20926",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
-        "summary": "arXiv:2610.14381v1 Announce Type: new Abstract: Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful evaluation must let agents choose experiments, interpret finite evidence, a",
+        "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+        "summary": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult because research decisions are open-ended an",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.14381",
+        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.21082",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
