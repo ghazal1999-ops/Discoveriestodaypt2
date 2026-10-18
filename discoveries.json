@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17",
-  "last_updated": "2026-10-17 01:01 UTC",
+  "date": "2026-10-18",
+  "last_updated": "2026-10-18 00:35 UTC",
   "categories": {
     "science": [
       {
@@ -37,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+        "summary": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather patterns on distant",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 17 Oct 2026 08:26:49 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/simp-0136.webp",
+        "impact": 5
+      },
+      {
         "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
         "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable",
         "category": "Science",
@@ -45,17 +56,6 @@
         "published_at": "Thu, 15 Oct 2026 08:52:05 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-consciousness-signal-processing.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists Discover a Terrifying New Dinosaur Hidden for 100 Years",
-        "summary": "A dinosaur fossil that sat unnoticed in a museum collection for nearly a century has turned out to belong to a previously unknown predator with enormous curved claws. The animal, roughly the size of a large tiger, lived in what is now Britain about 120 million years ago. The discovery was made by a research [...]",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Fri, 16 Oct 2026 23:46:11 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-a-terrifying-new-dinosaur-hidden-for-100-years/",
-        "image_url": "https://scitechdaily.com/images/Invictibellatrix-amberina-777x425.jpg",
         "impact": 5
       }
     ],
@@ -105,27 +105,38 @@
         "impact": 3
       },
       {
-        "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-        "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+        "title": "Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins",
+        "summary": "This direct-to-consumer brand’s latest top-of-the-line devices work well but only showcase incremental improvements over previous models.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 15 Oct 2026 20:38:13 +0000",
-        "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 16 Oct 2026 10:00:00 +0000",
+        "source_url": "https://www.wired.com/review/review-jabra-enhance-select-m3/",
+        "image_url": "https://media.wired.com/photos/6ad1031a254a54edd86f4f5e/191:100/w_1280,c_limit/Review%20Jabra%20Enhance%20Select%20M3%20102025%20top%20art%20SOURCE%20Jabra.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "After 30 years, scientists finally have a drug for a deadly brain disease",
-        "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed promising results in clinical trials, stabilizing motor function and even improving movement in some pati",
+        "title": "New drug reverses severe fatty liver disease by repairing the gut",
+        "summary": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new treatments for liver disease and potentially other serious conditions, including cardi",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Mon, 12 Oct 2026 20:43:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/transparent-brain-inflammation-disease.webp",
+        "published_at": "Sat, 17 Oct 2026 09:45:06 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
+        "impact": 5
+      },
+      {
+        "title": "Stanford’s new microscope reveals living cells like never before",
+        "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new insights into cancer, infectious diseases, and how drugs interact with cells.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 16 Oct 2026 21:06:05 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/laser-array-interferometric-image-scanning-microscopy-technology.webp",
         "impact": 5
       },
       {
@@ -140,17 +151,6 @@
         "impact": 4
       },
       {
-        "title": "New drug-delivery method offers promise in fight against neurodegenerative diseases",
-        "summary": "For patients battling neurodegenerative diseases like ALS, Parkinson's, Alzheimer's and other dementias, delivering disease-fighting antibody drugs directly to the brain has proven to be a difficult task. Our bodies set up tight walls to prevent infections from spreading to the brain, where they often become fatal.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 16 Oct 2026 14:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-drug-delivery-method-neurodegenerative-diseases.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/neurodegenerative.jpg",
-        "impact": 4
-      },
-      {
         "title": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
         "summary": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person's foot while walking reduced osteoarthritis pain by an amount comparable to medication, without requiring drugs or surgery",
         "category": "Medicine",
@@ -162,14 +162,14 @@
         "impact": 4
       },
       {
-        "title": "Bowel cancer “melted away” after immunotherapy, then stayed away",
-        "summary": "A short course of immunotherapy before surgery may offer remarkably durable protection for some patients with stage two or three bowel cancer. In the NEOPRISM-CRC trial, 32 patients with a specific genetic form of bowel cancer received pembrolizumab for up to nine weeks before surgery instead of the usual post-surgery ",
+        "title": "Continuous glucose monitors help type 2 diabetes patients spend 5 more hours a day in healthy blood sugar range",
+        "summary": "Continuous glucose monitors (CGMs) could transform diabetes management for millions of Americans with type 2 diabetes who don't take insulin, according to findings published in the New England Journal of Medicine.",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 10 Oct 2026 14:42:35 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 17 Oct 2026 15:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-glucose-diabetes-patients-hours-day.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/continuous-glucose-mon.jpg",
         "impact": 4
       }
     ],
@@ -311,17 +311,6 @@
         "impact": 4
       },
       {
-        "title": "Hubble Spots a Suspected Second-Generation Planet",
-        "summary": "Diligent sleuthing by astronomers has broken open a cold case in the data archive of NASA’s Hubble Space Telescope. In a study published Monday in Nature Astronomy, researchers report uncovering a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 12 Oct 2026 18:11:45 +0000",
-        "source_url": "https://www.universetoday.com/articles/hubble-spots-a-suspected-second-generation-planet",
-        "image_url": "https://www.universetoday.com/article_images/STScI-01M3CHMXXDAPRY7D9RW017N188_20261011_201348.jpg",
-        "impact": 4
-      },
-      {
         "title": "Host Stars Shape Their Planetary Systems Into Two Families",
         "summary": "New research draws a link between a host star and the characteristics of its planetary system. Higher mass stars create one family of systems, while lower mass stars create another. These results provide a new, more detailed template for understanding exoplanet systems.",
         "category": "Astronomy",
@@ -330,6 +319,17 @@
         "published_at": "Thu, 15 Oct 2026 17:07:40 +0000",
         "source_url": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
         "image_url": "https://www.universetoday.com/article_images/solar_system_architecture_20261015_154150.jpg",
+        "impact": 4
+      },
+      {
+        "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
+        "summary": "These six realistic star projectors are much more than mood lighting. Their projections are scientifically accurate enough to serve as actual stargazing practice, perfect for budding astronomers, young and old.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 17 Oct 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/DXCuH9B4Degd8JLcdLJFHP-1920-80.jpg",
         "impact": 4
       },
       {
@@ -379,17 +379,6 @@
         "impact": 4
       },
       {
-        "title": "Renovation of the Core Area of TAFA Art Block / Mix Architecture",
-        "summary": "To the west of the Tianjin Academy of Fine Arts lies a century-old urban fabric. With the completion of the Tianjin Eye, the Haihe River's cultural and tourism flows converge at the Sancha Estuary, yet this nearby old town had remained a value depression dormant for two or three decades in the heart of the city. In 202",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 16 Oct 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6ac8/958c/7887/fb21/1c77/dbea/large_jpg/renovation-of-the-core-area-of-tafa-art-block-mix-architecture_50.jpg?1791530410",
-        "impact": 4
-      },
-      {
         "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
         "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. The 4,330-square-metre building was designed to provide learning space for a local education centre, as well as to house commun",
         "category": "Architecture",
@@ -398,6 +387,17 @@
         "published_at": "Fri, 16 Oct 2026 10:30:32 +0000",
         "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
         "image_url": "https://static.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-hero_dezeen_2364_col_0.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Factory in Bangladesh that \"redefines manufacturing architecture\" wins RIBA International Prize",
+        "summary": "A rug factory in Rangpur, Bangladesh, designed by Dhaka-based studio Nakshabid Architects to dismantle workplace hierarchies, has won the RIBA International Prize for 2026. Named Green Field Factory, the project is the fifth winner of the biennial award, presented by the Royal Institute of British Architects (RIBA) to ",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 16 Oct 2026 10:00:02 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
+        "image_url": "https://static.dezeen.com/uploads/2026/10/green-field-factory-nakshabid-architects-riba-international-prize_dezeen_2364_hero_1.jpg",
         "impact": 4
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.20665",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.20780",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.20922",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.20926",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.21082",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
