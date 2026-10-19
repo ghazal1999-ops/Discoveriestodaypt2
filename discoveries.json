@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-18",
-  "last_updated": "2026-10-18 00:35 UTC",
+  "date": "2026-10-19",
+  "last_updated": "2026-10-19 00:44 UTC",
   "categories": {
     "science": [
       {
@@ -26,14 +26,25 @@
         "impact": 5
       },
       {
-        "title": "A planet 320 light-years away confirms what scientists long suspected",
-        "summary": "Astronomers have discovered that a scorching-hot planet 320 light-years away shares a striking chemical similarity with its host star, providing the first direct evidence for a fundamental assumption about planet formation. The breakthrough could help scientists predict what distant rocky planets are made of and identi",
+        "title": "Scientists who discovered a third form of magnetism win major physics prize",
+        "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Tue, 13 Oct 2026 20:24:40 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/ultra-hot-jupiter-illustration.webp",
+        "published_at": "Sun, 18 Oct 2026 05:41:44 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/altermagnetic-crystal.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+        "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, b",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 18 Oct 2026 09:46:34 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
         "impact": 5
       },
       {
@@ -45,17 +56,6 @@
         "published_at": "Sat, 17 Oct 2026 08:26:49 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/simp-0136.webp",
-        "impact": 5
-      },
-      {
-        "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-        "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 15 Oct 2026 08:52:05 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-consciousness-signal-processing.webp",
         "impact": 5
       }
     ],
@@ -94,25 +94,25 @@
         "impact": 3
       },
       {
-        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-        "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+        "title": "A woman was arrested in Philly for blocking a delivery robot",
+        "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 16 Oct 2026 14:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-18T14:28:10-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
         "impact": 3
       },
       {
-        "title": "Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins",
-        "summary": "This direct-to-consumer brand’s latest top-of-the-line devices work well but only showcase incremental improvements over previous models.",
+        "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+        "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage [&#8230;]",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 16 Oct 2026 10:00:00 +0000",
-        "source_url": "https://www.wired.com/review/review-jabra-enhance-select-m3/",
-        "image_url": "https://media.wired.com/photos/6ad1031a254a54edd86f4f5e/191:100/w_1280,c_limit/Review%20Jabra%20Enhance%20Select%20M3%20102025%20top%20art%20SOURCE%20Jabra.jpg",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-18T11:00:00-04:00",
+        "source_url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
@@ -162,14 +162,14 @@
         "impact": 4
       },
       {
-        "title": "Continuous glucose monitors help type 2 diabetes patients spend 5 more hours a day in healthy blood sugar range",
-        "summary": "Continuous glucose monitors (CGMs) could transform diabetes management for millions of Americans with type 2 diabetes who don't take insulin, according to findings published in the New England Journal of Medicine.",
+        "title": "Two omicron variants replicate more efficiently in gut tissue models, experiments reveal",
+        "summary": "A research team from the School of Public Health at the LKS Faculty of Medicine, the University of Hong Kong (HKUMed), has discovered that emerging omicron sublineages of SARS-CoV-2 use distinct biological strategies to spread and cause disease. Specifically, the XBB.1.5 and EG.5.1 variants are better adapted for respi",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 17 Oct 2026 15:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-glucose-diabetes-patients-hours-day.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/continuous-glucose-mon.jpg",
+        "published_at": "Sun, 18 Oct 2026 09:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-omicron-variants-replicate-efficiently-gut.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkumed-reveals-emergin.jpg",
         "impact": 4
       }
     ],
@@ -232,14 +232,14 @@
     ],
     "space": [
       {
-        "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-        "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and De",
+        "title": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
+        "summary": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of the Red Planet.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Thu, 15 Oct 2026 19:58:08 +0000",
-        "source_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/mars/mmx/jaxa-mmx-spacecraft.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 18 Oct 2026 19:20:03 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/CaXZHsGkC3ELaPgT7WG92k-1920-80.png",
         "impact": 5
       },
       {
@@ -254,17 +254,6 @@
         "impact": 5
       },
       {
-        "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
-        "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contribution",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 16 Oct 2026 20:14:39 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg",
-        "impact": 4
-      },
-      {
         "title": "'Mission: 60s' event promises passport back to the Space Age",
         "summary": "Your invitation to revisit the Space Age has arrived.Whether you miss the days when people got dressed up to fly or wish your other ride was a rocket, Mission: 60s has a *space* reserved for you.",
         "category": "Space",
@@ -276,14 +265,25 @@
         "impact": 4
       },
       {
-        "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
-        "summary": "Artemis II mission specialist Christina Koch will become NASA's acting deputy chief engineer on Nov. 1. All four Artemis II crewmates have now stepped away from active spaceflight duties.",
+        "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
+        "summary": "On Oct. 17, 2016, the Antares rocket now built by Northrop Grumman Space Systems returned to flight to come back from a catastrophic explosion. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 14 Oct 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/srm5QgGPesHZUwwF9z2CAn-1920-80.jpg",
+        "published_at": "Sat, 17 Oct 2026 14:49:01 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/FDbTCyYXMwim6Gu7m9fRiF-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
+        "summary": "On Episode 232 of This Week In Space, Rod Pyle and Tariq Malik are joined by Chelsea Gohd to talk about the recent large data dump from the Artemis II mission.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 17 Oct 2026 14:17:38 +0000",
+        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/nrZpxNdBSVXYVpdJLm4XfN-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+        "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 18 Oct 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1920-80.png",
+        "impact": 4
+      },
+      {
         "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
         "summary": "These six realistic star projectors are much more than mood lighting. Their projections are scientifically accurate enough to serve as actual stargazing practice, perfect for budding astronomers, young and old.",
         "category": "Astronomy",
@@ -331,53 +342,9 @@
         "source_url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
         "image_url": "https://cdn.mos.cms.futurecdn.net/DXCuH9B4Degd8JLcdLJFHP-1920-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
-        "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 16 Oct 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/oia4vBoTLGvrQj2mmGVunM-1920-80.png",
-        "impact": 4
       }
     ],
     "architecture": [
-      {
-        "title": "City Pride School / A Threshold",
-        "summary": "This primary educational institution, known as City Pride School, is situated in the newly developed region of Ravet Pradhikaran, Pune, characterized by densely populated urban neighborhoods. The school occupies a compact, high-rise urban landscape where the scarcity of space and significant commercial value necessitat",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 16 Oct 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186698/city-pride-school-a-threshold",
-        "image_url": "https://images.adsttc.com/media/images/6acc/fe20/c599/0e01/8860/0e4e/large_jpg/city-pride-school-a-threshold_18.jpg?1791819332",
-        "impact": 4
-      },
-      {
-        "title": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS Wins RIBA Stirling Prize 2026",
-        "summary": "The RIBA Stirling Prize 2026 has been awarded to Lion Green Road, a housing development in Coulsdon, South London, designed by Mary Duggan Architects with RUFFARCHITECTS for Croydon Council. Comprising 157 homes across five residential blocks, the project combines privately owned and socially rented housing on a former",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 16 Oct 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026",
-        "image_url": "https://images.adsttc.com/media/images/6ad0/e7bb/51c8/2d01/89ac/0a59/large_jpg/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026_1.jpg?1792075740",
-        "impact": 4
-      },
-      {
-        "title": "In Conversation with Liu Jiakun, Dong Gong, and Luo Yujie: Small-Scale Timber Buildings—Why Build Them and How?",
-        "summary": "As timber architecture moves beyond traditional residential and rural settings to find new applications in urban regeneration, commercial spaces, public activities, and everyday life, we face new challenges and a growing need for \"new architecture\" that continues to evolve.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 16 Oct 2026 02:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186963/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how",
-        "image_url": "https://images.adsttc.com/media/images/6ad1/87cd/8008/f401/8ba5/3d42/large_jpg/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how_4.jpg?1792116706",
-        "impact": 4
-      },
       {
         "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
         "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. The 4,330-square-metre building was designed to provide learning space for a local education centre, as well as to house commun",
@@ -398,6 +365,39 @@
         "published_at": "Fri, 16 Oct 2026 10:00:02 +0000",
         "source_url": "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
         "image_url": "https://static.dezeen.com/uploads/2026/10/green-field-factory-nakshabid-architects-riba-international-prize_dezeen_2364_hero_1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "BIG designs cloud-like Tirana Fountain Plaza raised above public park",
+        "summary": "Cloaked in layers of white disks, architecture studio BIG has revealed plans for a mixed-use building in Tirana containing apartments, offices, cultural spaces and water features. Named Tirana Fountain Plaza, the cloud-like building will be raised on slim white columns over Rinia Park, designed to keep the ground level",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 12 Oct 2026 09:30:56 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/12/tirana-fountain-tower-big-albania/",
+        "image_url": "https://static.dezeen.com/uploads/2026/10/tirana-fountain-tower-big_dezeen_2364_hero_0.jpg",
+        "impact": 4
+      },
+      {
+        "title": "East unveils updated images of its plans to pedestrianise Oxford Street",
+        "summary": "Ahead of Oxford Street closing to traffic later this month, local architecture studio East has released its latest renders revealing how the popular London shopping destination will look when pedestrianised. East is working with landscape architecture studio JL Gibbons and urban design studios Gehl and Publica on the f",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Thu, 08 Oct 2026 09:00:19 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/08/oxford-street-pedestrianised-east/",
+        "image_url": "https://static.dezeen.com/uploads/2026/10/oxford-street-pedestrianised-east_dezeen_2364_hero_1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "sardinian school wraps in perforated aluminum facade to enclose flexible agorà",
+        "summary": "wrapped in a textured skin of micro-perforated corrugated panels, the building presents a light-reactive metallic shell that softens along curved edges, concealing a permeable two-story layout. The post sardinian school wraps in perforated aluminum facade to enclose flexible agorà appeared first on designboom | archite",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Sun, 18 Oct 2026 07:45:45 +0000",
+        "source_url": "https://www.designboom.com/architecture/sardinian-school-perforated-aluminum-facade-flexible-agora-leicho-architettura/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/10/leicho-architettura-via-caravaggio-school-sinnai-sardinia-designboom-1200-1.jpg",
         "impact": 4
       }
     ],
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-        "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to eval",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.20665",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
+        "source_url": "https://openai.com/index/amp-beyond-coding",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4cxTIUhXa03TEYCnkIcMCu/29e6065058ed969022021186f994dad6/amp-beyond-coding-coiled-connection-seo-open-graph-1920x1080.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-        "summary": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a learned policy for int",
+        "title": "The eternal complement",
+        "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.20780",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
+        "source_url": "https://openai.com/index/the-eternal-complement",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2lnidMsGW3gfP6p4fYJZTg/be8ebadd2bf9e9d83adea7a6f28f0501/eternal-complement-seo-white-preview.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Defining and Generating Compositional Structure",
-        "summary": "arXiv:2610.20922v1 Announce Type: new Abstract: Compositional structure is pervasive in nature and across scales: atoms combine into molecules, molecules into cells, and cells into organisms, while further compositional hierarchies appear within each level. More broadly, compositionality, the reuse and recombination of",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.20922",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "blog.google",
+        "journal": "blog.google",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+        "impact": 4
       },
       {
-        "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
-        "summary": "arXiv:2610.20926v1 Announce Type: new Abstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. However, improvement may require several inte",
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.20926",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 08 Oct 2026 09:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
-        "summary": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult because research decisions are open-ended an",
+        "title": "Building a safer path to autonomous industrial AI",
+        "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, indus",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 17 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.21082",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 08 Oct 2026 08:17:32 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600",
+        "impact": 4
       }
     ]
   }
