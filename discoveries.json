@@ -1,28 +1,39 @@
 {
-  "date": "2026-10-19",
-  "last_updated": "2026-10-19 00:44 UTC",
+  "date": "2026-10-20",
+  "last_updated": "2026-10-20 01:30 UTC",
   "categories": {
     "science": [
       {
-        "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
-        "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once. The breakthrough could eventually lead to crops wi",
+        "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+        "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 15 Oct 2026 07:45:43 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/diseased-rice-plants-agricultural-farm.webp",
+        "published_at": "Mon, 19 Oct 2026 06:02:32 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/translucent-glowing-human-brain-signals-waves.webp",
         "impact": 5
       },
       {
-        "title": "Astronomers discover a strange universal rule behind black hole eruptions",
-        "summary": "Scientists have discovered that black holes of vastly different sizes appear to launch powerful jets according to the same universal rule. The breakthrough could explain why some black holes suddenly erupt years after devouring a star and help astronomers predict when these spectacular outbursts will happen.",
+        "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
+        "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Fri, 16 Oct 2026 06:45:33 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/tidal-disruption-event-close-up.webp",
+        "published_at": "Mon, 19 Oct 2026 05:19:45 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+        "impact": 5
+      },
+      {
+        "title": "Nanoscale tech tracks proteins inside living neurons to guide Alzheimer's and Parkinson's drug discovery",
+        "summary": "A technology developed at The University of Queensland allowing scientists to observe how disease-related proteins behave inside living neurons will be used to advance early drug discovery for neurodegenerative diseases. The NASTIC (Nanoscale Spatiotemporal Indexing Clustering) platform, spun out into Brisbane-based st",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Mon, 19 Oct 2026 21:00:02 EDT",
+        "source_url": "https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/neuron.jpg",
         "impact": 5
       },
       {
@@ -46,73 +57,62 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
         "impact": 5
-      },
-      {
-        "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
-        "summary": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather patterns on distant",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 17 Oct 2026 08:26:49 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/simp-0136.webp",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that ",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Fri, 16 Oct 2026 16:30:00 +0000",
-        "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-        "impact": 4
-      },
-      {
-        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-        "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 16 Oct 2026 14:03:25 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg",
+        "published_at": "Mon, 19 Oct 2026 20:09:24 +0000",
+        "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Waymo’s robotaxis are headed to Canada",
-        "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Fri, 16 Oct 2026 16:06:38 +0000",
-        "source_url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
+        "published_at": "Mon, 19 Oct 2026 18:37:27 +0000",
+        "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
         "impact": 3
       },
       {
-        "title": "A woman was arrested in Philly for blocking a delivery robot",
-        "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&",
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-18T14:28:10-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 19 Oct 2026 15:37:09 +0000",
+        "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-        "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage [&#8230;]",
+        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 19 Oct 2026 12:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+        "impact": 3
+      },
+      {
+        "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+        "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident response and roadside assi",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-10-18T11:00:00-04:00",
-        "source_url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-10-19T17:00:17-04:00",
+        "source_url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6271.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
@@ -129,6 +129,17 @@
         "impact": 5
       },
       {
+        "title": "A rapid clinical care program increased cancer care access for vulnerable patients",
+        "summary": "The rapid-access cancer care program Same Day/Next Day (SDND) served a higher proportion of patients with high socioeconomic risk for poor outcomes than the traditional health care path, and more socially vulnerable patients initiated therapy, according to results presented at the 19th AACR Conference on The Science of",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 19 Oct 2026 15:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-rapid-clinical-cancer-access-vulnerable.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/vulnerable-patients.jpg",
+        "impact": 5
+      },
+      {
         "title": "Stanford’s new microscope reveals living cells like never before",
         "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new insights into cancer, infectious diseases, and how drugs interact with cells.",
         "category": "Medicine",
@@ -140,51 +151,29 @@
         "impact": 5
       },
       {
-        "title": "Brain PET scans help select and monitor patients for new Alzheimer's drugs",
-        "summary": "Nuclear medicine is playing an increasingly important role in the diagnosis and treatment of Alzheimer's disease, helping clinicians visualize the biological changes associated with the condition and guide decisions about new therapies. Amyloid PET imaging is being used to confirm the presence of amyloid pathology and ",
+        "title": "Percival AI can uncover unseen health issues in CT scans",
+        "summary": "When analyzed by a new artificial intelligence model developed at Penn Medicine, CT scans reveal much about a patient's health beyond the specific condition they were originally ordered for, according to a new study published in npj Digital Medicine. The AI model, dubbed Percival, can uncover nearly hidden patterns in ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 16 Oct 2026 20:40:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/pet-scan.jpg",
+        "published_at": "Mon, 19 Oct 2026 17:30:02 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-percival-ai-uncover-unseen-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-can-uncover-u-1.jpg",
         "impact": 4
       },
       {
-        "title": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
-        "summary": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person's foot while walking reduced osteoarthritis pain by an amount comparable to medication, without requiring drugs or surgery",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 10 Oct 2026 20:00:24 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261009025434.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/hands-holding-knee-pain-arthritis.webp",
-        "impact": 4
-      },
-      {
-        "title": "Two omicron variants replicate more efficiently in gut tissue models, experiments reveal",
-        "summary": "A research team from the School of Public Health at the LKS Faculty of Medicine, the University of Hong Kong (HKUMed), has discovered that emerging omicron sublineages of SARS-CoV-2 use distinct biological strategies to spread and cause disease. Specifically, the XBB.1.5 and EG.5.1 variants are better adapted for respi",
+        "title": "Tongue exercises for ALS patients show promise in preclinical study",
+        "summary": "Research at the University of Missouri could lead to new therapies for people with amyotrophic lateral sclerosis (ALS) and other motor neuron diseases. In a preclinical model, the researchers discovered that tongue exercise can improve the activity of surviving neurons that control tongue movement, helping them compens",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 18 Oct 2026 09:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-omicron-variants-replicate-efficiently-gut.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkumed-reveals-emergin.jpg",
+        "published_at": "Mon, 19 Oct 2026 12:20:14 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-tongue-als-patients-preclinical.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/tongue-exercises-for-a.jpg",
         "impact": 4
       }
     ],
     "mathematics": [
-      {
-        "title": "The Four-Color Theorem Gets a Rare New Proof",
-        "summary": "By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs. The post The Four-Color Theorem Gets a Rare New Proof first appeared on Quanta Magazine",
-        "category": "Mathematics",
-        "source": "quantamagazine.org",
-        "journal": "quantamagazine.org",
-        "published_at": "Thu, 10 Sep 2026 14:27:36 +0000",
-        "source_url": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
-        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/4C-Theorem-cr-Vico-Santos-Social.jpg",
-        "impact": 4
-      },
       {
         "title": "MIT affiliates win 2026 Breakthrough, New Horizons prizes",
         "summary": "Faculty member Shu-Heng Shao, in addition to four MIT alumni, are honored by the Breakthrough Prize Foundation.",
@@ -206,6 +195,17 @@
         "source_url": "https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922",
         "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202509/mit-mathematics-roe-sutherland.jpg?itok=GaIs7BPh",
         "impact": 4
+      },
+      {
+        "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+        "summary": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
+        "category": "Mathematics",
+        "source": "quantamagazine.org",
+        "journal": "quantamagazine.org",
+        "published_at": "Mon, 19 Oct 2026 15:40:26 +0000",
+        "source_url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+        "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Social.jpg",
+        "impact": 3
       },
       {
         "title": "Mathematicians Build Long-Awaited Graph Sandwich",
@@ -243,47 +243,47 @@
         "impact": 5
       },
       {
-        "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
-        "summary": "A decade after Elon Musk publicly unveiled plans for the fully reusable megarocket, Starship has reached orbit. How far away is Mars?",
+        "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos (video)",
+        "summary": "Japan just launched an epic mission to Mars' moons that could make history as the first spacecraft to return to Earth from the Red Planet — and it plans to come back with samples onboard.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 14 Oct 2026 18:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/cNUJh6WPZB3JHY5nSRH6Uh-1920-80.jpg",
+        "published_at": "Mon, 19 Oct 2026 19:53:21 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/yuBChjmdEXDVkmGVcyG4AZ-1920-80.jpg",
         "impact": 5
       },
       {
-        "title": "'Mission: 60s' event promises passport back to the Space Age",
-        "summary": "Your invitation to revisit the Space Age has arrived.Whether you miss the days when people got dressed up to fly or wish your other ride was a rocket, Mission: 60s has a *space* reserved for you.",
+        "title": "On this day in space! Oct. 19, 2016: Europe's ExoMars orbiter and Schiaparelli lander arrive at Mars",
+        "summary": "On Oct. 19, 2016, the European Space Agency's ExoMars orbiter and Schiaparelli arrived at Mars! Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Fri, 16 Oct 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/apollo/rocket-back-to-the-space-age-with-mission-60s-event-in-nyc-next-weekend",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/QzLMmdSDXdfYVfceuu7zc4-1920-80.jpg",
+        "published_at": "Mon, 19 Oct 2026 19:40:28 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-19-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/B4wx4Hs8F5EgLkjuUUyqeS-1920-80.jpg",
         "impact": 4
       },
       {
-        "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
-        "summary": "On Oct. 17, 2016, the Antares rocket now built by Northrop Grumman Space Systems returned to flight to come back from a catastrophic explosion. Here's why it mattered.",
+        "title": "Elephant Island is an icy sight from orbit | Space photo of the day for Oct. 19, 2026",
+        "summary": "The European Space Agency's Copernicus Sentinel-3 satellite mission captured a close-up of West Antarctica from its perch high above Earth.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sat, 17 Oct 2026 14:49:01 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/FDbTCyYXMwim6Gu7m9fRiF-1920-80.jpg",
+        "published_at": "Mon, 19 Oct 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/PUousf8rxyijU5fSXhxE6B-1920-80.png",
         "impact": 4
       },
       {
-        "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
-        "summary": "On Episode 232 of This Week In Space, Rod Pyle and Tariq Malik are joined by Chelsea Gohd to talk about the recent large data dump from the Artemis II mission.",
+        "title": "Watch Japan launch a bold sample-return mission to Mars moon Phobos today",
+        "summary": "Japan will launch its audacious MMX sample-return mission to Mars today (Oct. 19), and you can watch the historic action live.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sat, 17 Oct 2026 14:17:38 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/nrZpxNdBSVXYVpdJLm4XfN-1920-80.jpg",
+        "published_at": "Mon, 19 Oct 2026 10:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/4DsFbvWr5WTHjshqesfFqK-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -311,6 +311,28 @@
         "impact": 4
       },
       {
+        "title": "Webb Captures This Golden Galaxy Cluster in All it's Glory",
+        "summary": "The NASA/ESA/CSA James Webb Space Telescope Picture of the Month features the brilliant golden galaxies belonging to the MACS J0454.1-0300 galaxy cluster.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Mon, 19 Oct 2026 22:02:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/webb-captures-the-golden-galaxy-cluster-in-all-its-glory",
+        "image_url": "https://www.universetoday.com/article_images/Galaxies_in_a_cosmic_house_of_mirrors_pillars_20261018_215301.jpg",
+        "impact": 4
+      },
+      {
+        "title": "New Observations Show How Black Holes Stir Up Material Surrounding A Galaxy",
+        "summary": "Supermassive black holes power tremendous jets that extend far beyond their galaxy. A new study finds how they can also warm material at the outer edge of a galaxy and reduce the rate of star production over time.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Mon, 19 Oct 2026 17:10:49 +0000",
+        "source_url": "https://www.universetoday.com/articles/new-observations-show-how-black-holes-stir-up-material-surrounding-a-galaxy",
+        "image_url": "https://www.universetoday.com/article_images/radiojets_20261019_170846.jpg",
+        "impact": 4
+      },
+      {
         "title": "Host Stars Shape Their Planetary Systems Into Two Families",
         "summary": "New research draws a link between a host star and the characteristics of its planetary system. Higher mass stars create one family of systems, while lower mass stars create another. These results provide a new, more detailed template for understanding exoplanet systems.",
         "category": "Astronomy",
@@ -320,31 +342,53 @@
         "source_url": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
         "image_url": "https://www.universetoday.com/article_images/solar_system_architecture_20261015_154150.jpg",
         "impact": 4
-      },
-      {
-        "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
-        "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 18 Oct 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
-        "summary": "These six realistic star projectors are much more than mood lighting. Their projections are scientifically accurate enough to serve as actual stargazing practice, perfect for budding astronomers, young and old.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 17 Oct 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/DXCuH9B4Degd8JLcdLJFHP-1920-80.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "Call for Submissions: Figures of Architecture",
+        "summary": "Architecture is often understood through finished buildings. &ldquo;Figures of Architecture&rdquo; asks students to look closer at the things that make architecture possible: the materials, assemblies, and methods that are often concealed, overlooked, or misunderstood once a building is complete. The competition challe",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 19 Oct 2026 09:15:00 +0000",
+        "source_url": "https://www.archdaily.com/1187101/call-for-submissions-figures-of-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6ad6/0881/aadf/a000/01e3/aeff/large_jpg/Figures_of_Architecture_Poster_Square.jpg?1792411821",
+        "impact": 4
+      },
+      {
+        "title": "The Dallas Architecture Forum announces it 2026-2027 Lecture Season",
+        "summary": "The Dallas Architecture Forum, a non-profit organization dedicated to providing public education about architecture, design, public space and the urban environment, announces its 2026-2027 Lecture Series. The Forum is pleased to present nationally and internationally known and respected thought leaders in our outstandi",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 19 Oct 2026 09:05:00 +0000",
+        "source_url": "https://www.archdaily.com/1187092/the-dallas-architecture-forum-announces-it-2026-2027-lecture-season",
+        "image_url": "https://images.adsttc.com/media/images/6ad6/047e/aadf/a000/01e3/ae93/large_jpg/EXH2_JanBitter_04979_Crop_V1.jpg?1792410761",
+        "impact": 4
+      },
+      {
+        "title": "DUA Villa / Architecture BRIO",
+        "summary": "DUA Villa is a weekend residence located in Alibaug, designed for a Mumbai-based couple and their three young adult children. As urban dwellers accustomed to the pace and density of city life, they sought a retreat offering proximity to nature without being overwhelmed by it.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 19 Oct 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1186756/dua-villa-architecture-brio",
+        "image_url": "https://images.adsttc.com/media/images/6ace/5114/7887/fb01/8910/6dce/large_jpg/dua-villa-architecture-brio_16.jpg?1791906086",
+        "impact": 4
+      },
+      {
+        "title": "Eyes on the Street: Jane Jacobs’ Concept and Contemporary Residential Architecture in Brazil",
+        "summary": "The concept of \"eyes on the street\" is perhaps the most famous within architectural and urban literature when it comes to urban security. Jane Jacobs uses this expression to refer to people who - consciously or unconsciously - use public spaces or observe them from their homes, generating natural surveillance. A moveme",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 19 Oct 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1014363/eyes-on-the-street-jane-jacobs-concept-and-contemporary-residential-architecture-in-brazil",
+        "image_url": "https://images.adsttc.com/media/images/65ea/506e/855b/f264/9e6f/814a/large_jpg/os-olhos-da-rua-o-conceito-de-jane-jacobs-e-a-arquitetura-residencial-contemporanea-no-brasil_10.jpg?1709854838",
+        "impact": 4
+      },
       {
         "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
         "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. The 4,330-square-metre building was designed to provide learning space for a local education centre, as well as to house commun",
@@ -355,56 +399,12 @@
         "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
         "image_url": "https://static.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-hero_dezeen_2364_col_0.jpg",
         "impact": 4
-      },
-      {
-        "title": "Factory in Bangladesh that \"redefines manufacturing architecture\" wins RIBA International Prize",
-        "summary": "A rug factory in Rangpur, Bangladesh, designed by Dhaka-based studio Nakshabid Architects to dismantle workplace hierarchies, has won the RIBA International Prize for 2026. Named Green Field Factory, the project is the fifth winner of the biennial award, presented by the Royal Institute of British Architects (RIBA) to ",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 16 Oct 2026 10:00:02 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
-        "image_url": "https://static.dezeen.com/uploads/2026/10/green-field-factory-nakshabid-architects-riba-international-prize_dezeen_2364_hero_1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "BIG designs cloud-like Tirana Fountain Plaza raised above public park",
-        "summary": "Cloaked in layers of white disks, architecture studio BIG has revealed plans for a mixed-use building in Tirana containing apartments, offices, cultural spaces and water features. Named Tirana Fountain Plaza, the cloud-like building will be raised on slim white columns over Rinia Park, designed to keep the ground level",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Mon, 12 Oct 2026 09:30:56 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/12/tirana-fountain-tower-big-albania/",
-        "image_url": "https://static.dezeen.com/uploads/2026/10/tirana-fountain-tower-big_dezeen_2364_hero_0.jpg",
-        "impact": 4
-      },
-      {
-        "title": "East unveils updated images of its plans to pedestrianise Oxford Street",
-        "summary": "Ahead of Oxford Street closing to traffic later this month, local architecture studio East has released its latest renders revealing how the popular London shopping destination will look when pedestrianised. East is working with landscape architecture studio JL Gibbons and urban design studios Gehl and Publica on the f",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Thu, 08 Oct 2026 09:00:19 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/08/oxford-street-pedestrianised-east/",
-        "image_url": "https://static.dezeen.com/uploads/2026/10/oxford-street-pedestrianised-east_dezeen_2364_hero_1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "sardinian school wraps in perforated aluminum facade to enclose flexible agorà",
-        "summary": "wrapped in a textured skin of micro-perforated corrugated panels, the building presents a light-reactive metallic shell that softens along curved edges, concealing a permeable two-story layout. The post sardinian school wraps in perforated aluminum facade to enclose flexible agorà appeared first on designboom | archite",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Sun, 18 Oct 2026 07:45:45 +0000",
-        "source_url": "https://www.designboom.com/architecture/sardinian-school-perforated-aluminum-facade-flexible-agora-leicho-architettura/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/10/leicho-architettura-via-caravaggio-school-sinnai-sardinia-designboom-1200-1.jpg",
-        "impact": 4
       }
     ],
     "construction": [
       {
         "title": "Flintco-Mortenson JV begins concrete deck at $900M Oklahoma City NBA arena",
-        "summary": "The construction team on the future home of the Oklahoma City Thunder also started work on the loading dock walls on the east side of the venue.a",
+        "summary": "The construction team on the future home of the Oklahoma City Thunder also started work on the loading dock walls on the east side of the venue.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -436,25 +436,25 @@
         "impact": 4
       },
       {
-        "title": "£800M South West Wales civil engineering framework put out to tender",
-        "summary": "Five Welsh councils have launched a tender for a civil engineering framework with an estimated value of £800M excluding VAT (£960M including VAT), covering civil engineering construction projects and specialist works across the regions. The post £800M South West Wales civil engineering framework put out to tender appea",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 16 Oct 2026 08:10:40 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/800m-south-west-wales-civil-engineering-framework-put-out-to-tender-16-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/09/Port-Talbot-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "13-year, $2B NYC bridge rehab completes 8th of 11 projects",
-        "summary": "Skanska&rsquo;s $452 million contract to replace the bridge&rsquo;s 592 suspender ropes included the 1.5-mile pedestrian pathway rebuild.",
+        "title": "Halmar completes Yankee Stadium stop on $965M subway upgrades",
+        "summary": "The contractor expects construction at the remaining 12 stations to finish in early 2027, according to a company statement sent to Construction Dive.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 16 Oct 2026 15:30:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/nyc-george-washington-bridge-rehab-completes-8th-11-projects/833265/",
-        "image_url": "https://imgproxy.divecdn.com/3el4pxHBn9S1ufI2kRfnoweZ0GTONJGy1fDFLaMQPUM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTU5MTc1NTQ2MF9mNjJiNmZmNTAyX28uanBn.webp",
+        "published_at": "Mon, 19 Oct 2026 15:33:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/halmar-completes-yankee-stadium-stop-subway-upgrades/833390/",
+        "image_url": "https://imgproxy.divecdn.com/q-MdgY_vY-ACtl0PMYs2Gq3beEqX76iFPyT5Va4iz_k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95YW5rZWVfc3RhZGl1bV9sci5qcGVn.webp",
+        "impact": 3
+      },
+      {
+        "title": "Balfour Beatty sells stake in Gammon Construction",
+        "summary": "The London-based contractor divested from its business to focus on its core U.S. and U.K. markets.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 19 Oct 2026 15:11:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/balfour-beatty-sells-stake-gammon-construction/833376/",
+        "image_url": "https://imgproxy.divecdn.com/1zJOBmBzYaQpTNSeWlv2U5fUPhIUA87lKDl8vNTzJ-8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2ODg1MDUxLmpwZw==.webp",
         "impact": 3
       }
     ],
