@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-20",
-  "last_updated": "2026-10-20 01:30 UTC",
+  "date": "2026-10-21",
+  "last_updated": "2026-10-21 01:14 UTC",
   "categories": {
     "science": [
       {
@@ -15,6 +15,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists reach the ultimate quantum limit on a surface",
+        "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technologies.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 19 Oct 2026 23:02:41 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/optically-excited-molecule-on-crystal-surface.webp",
+        "impact": 5
+      },
+      {
         "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
         "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
         "category": "Science",
@@ -26,14 +37,14 @@
         "impact": 5
       },
       {
-        "title": "Nanoscale tech tracks proteins inside living neurons to guide Alzheimer's and Parkinson's drug discovery",
-        "summary": "A technology developed at The University of Queensland allowing scientists to observe how disease-related proteins behave inside living neurons will be used to advance early drug discovery for neurodegenerative diseases. The NASTIC (Nanoscale Spatiotemporal Indexing Clustering) platform, spun out into Brisbane-based st",
+        "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
+        "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision. Using one of the world’s most powerful telescopes, an international team studied 15 remarkably pristine galaxie",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Mon, 19 Oct 2026 21:00:02 EDT",
-        "source_url": "https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2020/neuron.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 20 Oct 2026 08:34:15 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/leo-p-dwarf-galaxy-webb.webp",
         "impact": 5
       },
       {
@@ -46,73 +57,62 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/altermagnetic-crystal.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-        "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, b",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 18 Oct 2026 09:46:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-        "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+        "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+        "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 19 Oct 2026 20:09:24 +0000",
-        "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 20 Oct 2026 20:07:58 +0000",
+        "source_url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-        "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 19 Oct 2026 18:37:27 +0000",
-        "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+        "published_at": "Tue, 20 Oct 2026 20:35:10 +0000",
+        "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-        "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+        "title": "ChatGPT now lets you lock your chats",
+        "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 19 Oct 2026 15:37:09 +0000",
-        "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+        "published_at": "Tue, 20 Oct 2026 18:36:53 +0000",
+        "source_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-        "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+        "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 19 Oct 2026 12:30:00 +0000",
-        "source_url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+        "published_at": "Tue, 20 Oct 2026 16:20:06 +0000",
+        "source_url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-        "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident response and roadside assi",
+        "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+        "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-19T17:00:17-04:00",
-        "source_url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6271.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 20 Oct 2026 13:17:36 +0000",
+        "source_url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Autonomous-Flight_820-Autoland_2026-09.jpg?resize=1200,675",
         "impact": 3
       }
     ],
@@ -129,17 +129,6 @@
         "impact": 5
       },
       {
-        "title": "A rapid clinical care program increased cancer care access for vulnerable patients",
-        "summary": "The rapid-access cancer care program Same Day/Next Day (SDND) served a higher proportion of patients with high socioeconomic risk for poor outcomes than the traditional health care path, and more socially vulnerable patients initiated therapy, according to results presented at the 19th AACR Conference on The Science of",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 19 Oct 2026 15:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-rapid-clinical-cancer-access-vulnerable.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/vulnerable-patients.jpg",
-        "impact": 5
-      },
-      {
         "title": "Stanford’s new microscope reveals living cells like never before",
         "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new insights into cancer, infectious diseases, and how drugs interact with cells.",
         "category": "Medicine",
@@ -151,25 +140,36 @@
         "impact": 5
       },
       {
-        "title": "Percival AI can uncover unseen health issues in CT scans",
-        "summary": "When analyzed by a new artificial intelligence model developed at Penn Medicine, CT scans reveal much about a patient's health beyond the specific condition they were originally ordered for, according to a new study published in npj Digital Medicine. The AI model, dubbed Percival, can uncover nearly hidden patterns in ",
+        "title": "Q&A: Gene editing is coming for common diseases. Cardiologists discuss if we are ready",
+        "summary": "Gene therapy is no longer the future of medicine—it's reality. Treatments that replace, silence or edit genes are already changing clinical care.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 19 Oct 2026 17:30:02 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-percival-ai-uncover-unseen-health.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-model-can-uncover-u-1.jpg",
+        "published_at": "Tue, 20 Oct 2026 16:20:15 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-qa-gene-common-diseases-cardiologists.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnified-dna-helix.jpg",
         "impact": 4
       },
       {
-        "title": "Tongue exercises for ALS patients show promise in preclinical study",
-        "summary": "Research at the University of Missouri could lead to new therapies for people with amyotrophic lateral sclerosis (ALS) and other motor neuron diseases. In a preclinical model, the researchers discovered that tongue exercise can improve the activity of surviving neurons that control tongue movement, helping them compens",
+        "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
+        "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 19 Oct 2026 05:19:45 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+        "impact": 4
+      },
+      {
+        "title": "Would subsidizing weight-loss drugs make health care fairer?",
+        "summary": "GLP-1 medicines such as Ozempic, Wegovy and Mounjaro have transformed the treatment of obesity, but access to them in Australia increasingly depends on something much less medical: whether you can afford them.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 19 Oct 2026 12:20:14 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-tongue-als-patients-preclinical.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/tongue-exercises-for-a.jpg",
+        "published_at": "Tue, 20 Oct 2026 20:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-subsidizing-weight-loss-drugs-health.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/weight-loss-drugs.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 5
       },
       {
+        "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+        "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuc",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 20 Oct 2026 18:11:33 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg",
+        "impact": 5
+      },
+      {
         "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos (video)",
         "summary": "Japan just launched an epic mission to Mars' moons that could make history as the first spacecraft to return to Earth from the Red Planet — and it plans to come back with samples onboard.",
         "category": "Space",
@@ -254,6 +265,17 @@
         "impact": 5
       },
       {
+        "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
+        "summary": "On Oct. 20, 1970, the Soviet Union launched the Zond 8 spacecraft on a mission to the moon. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 20 Oct 2026 20:59:48 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/jCa3PH9LDuQSYgKeP4U3ME-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "On this day in space! Oct. 19, 2016: Europe's ExoMars orbiter and Schiaparelli lander arrive at Mars",
         "summary": "On Oct. 19, 2016, the European Space Agency's ExoMars orbiter and Schiaparelli arrived at Mars! Here's why it mattered.",
         "category": "Space",
@@ -262,28 +284,6 @@
         "published_at": "Mon, 19 Oct 2026 19:40:28 +0000",
         "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-19-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/B4wx4Hs8F5EgLkjuUUyqeS-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Elephant Island is an icy sight from orbit | Space photo of the day for Oct. 19, 2026",
-        "summary": "The European Space Agency's Copernicus Sentinel-3 satellite mission captured a close-up of West Antarctica from its perch high above Earth.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 19 Oct 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/PUousf8rxyijU5fSXhxE6B-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Watch Japan launch a bold sample-return mission to Mars moon Phobos today",
-        "summary": "Japan will launch its audacious MMX sample-return mission to Mars today (Oct. 19), and you can watch the historic action live.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 19 Oct 2026 10:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/4DsFbvWr5WTHjshqesfFqK-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -300,14 +300,14 @@
         "impact": 4
       },
       {
-        "title": "SPHEREx Just Took the Fingerprints of Failed Stars Across Our Cosmic Neighborhood",
-        "summary": "Brown dwarfs are the black (or brown?) sheep of astronomy. They’re too big to be considered a traditional gas planet, but they are too small to have started nuclear fusion and made the full transition to star-hood. They also change dramatically over time, cooling, shrinking, and spinning faster as they age. Or at least",
+        "title": "JWST Tracks Shifting Water Clouds and Churning Gases on the Coldest Known Brown Dwarf",
+        "summary": "When picturing a star, typically people think of giant balls of burning gas in the sky that emit enough light they are hard to miss. Planets, on the other hand, come in one of two general categories - rocky worlds like Earth or gas giants similar to Jupiter. But there is a third category of astronomical object that doe",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 15 Oct 2026 13:08:24 +0000",
-        "source_url": "https://www.universetoday.com/articles/spherex-just-took-the-fingerprints-of-failed-stars-across-our-cosmic-neighborhood",
-        "image_url": "https://www.universetoday.com/article_images/1-Brown_dwarf_grid.width-1320_20261015_130642.jpg",
+        "published_at": "Tue, 20 Oct 2026 11:30:05 +0000",
+        "source_url": "https://www.universetoday.com/articles/jwst-tracks-shifting-water-clouds-and-churning-gases-on-the-coldest-known-brown-dwarf",
+        "image_url": "https://www.universetoday.com/article_images/Y-Dwarf-NASA.jpg_20261020_112052.webp",
         "impact": 4
       },
       {
@@ -346,71 +346,71 @@
     ],
     "architecture": [
       {
-        "title": "Call for Submissions: Figures of Architecture",
-        "summary": "Architecture is often understood through finished buildings. &ldquo;Figures of Architecture&rdquo; asks students to look closer at the things that make architecture possible: the materials, assemblies, and methods that are often concealed, overlooked, or misunderstood once a building is complete. The competition challe",
+        "title": "Courtyard House / Hennessey Architecture",
+        "summary": "For this modestly-scaled renovation of a classic suburban Mill Valley house, the home was thought not only as a shelter, but also as a bridge: from past to present; from one landscape condition to another; and from what a family wanted to what they could have. Designed for a couple with two young children, the house is",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 19 Oct 2026 09:15:00 +0000",
-        "source_url": "https://www.archdaily.com/1187101/call-for-submissions-figures-of-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6ad6/0881/aadf/a000/01e3/aeff/large_jpg/Figures_of_Architecture_Poster_Square.jpg?1792411821",
+        "published_at": "Tue, 20 Oct 2026 12:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1186975/courtyard-house-hennessey-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6ad1/338b/aadf/a000/01e3/a6d9/large_jpg/11.jpg?1792095137",
         "impact": 4
       },
       {
-        "title": "The Dallas Architecture Forum announces it 2026-2027 Lecture Season",
-        "summary": "The Dallas Architecture Forum, a non-profit organization dedicated to providing public education about architecture, design, public space and the urban environment, announces its 2026-2027 Lecture Series. The Forum is pleased to present nationally and internationally known and respected thought leaders in our outstandi",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 19 Oct 2026 09:05:00 +0000",
-        "source_url": "https://www.archdaily.com/1187092/the-dallas-architecture-forum-announces-it-2026-2027-lecture-season",
-        "image_url": "https://images.adsttc.com/media/images/6ad6/047e/aadf/a000/01e3/ae93/large_jpg/EXH2_JanBitter_04979_Crop_V1.jpg?1792410761",
-        "impact": 4
-      },
-      {
-        "title": "DUA Villa / Architecture BRIO",
-        "summary": "DUA Villa is a weekend residence located in Alibaug, designed for a Mumbai-based couple and their three young adult children. As urban dwellers accustomed to the pace and density of city life, they sought a retreat offering proximity to nature without being overwhelmed by it.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 19 Oct 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186756/dua-villa-architecture-brio",
-        "image_url": "https://images.adsttc.com/media/images/6ace/5114/7887/fb01/8910/6dce/large_jpg/dua-villa-architecture-brio_16.jpg?1791906086",
-        "impact": 4
-      },
-      {
-        "title": "Eyes on the Street: Jane Jacobs’ Concept and Contemporary Residential Architecture in Brazil",
-        "summary": "The concept of \"eyes on the street\" is perhaps the most famous within architectural and urban literature when it comes to urban security. Jane Jacobs uses this expression to refer to people who - consciously or unconsciously - use public spaces or observe them from their homes, generating natural surveillance. A moveme",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 19 Oct 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1014363/eyes-on-the-street-jane-jacobs-concept-and-contemporary-residential-architecture-in-brazil",
-        "image_url": "https://images.adsttc.com/media/images/65ea/506e/855b/f264/9e6f/814a/large_jpg/os-olhos-da-rua-o-conceito-de-jane-jacobs-e-a-arquitetura-residencial-contemporanea-no-brasil_10.jpg?1709854838",
-        "impact": 4
-      },
-      {
-        "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
-        "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. The 4,330-square-metre building was designed to provide learning space for a local education centre, as well as to house commun",
+        "title": "STG Design unveils upcoming “unconventional, sinuous” Houston skyscraper",
+        "summary": "Texas architecture studio STG Design has released renderings of O27, an office skyscraper covered with triangular panels that is planned for Houston’s River Oaks area. The 32-storey building will contain flexible office floors, as well as luxury amenities and a rooftop terrace on top of its nine-storey base. It will ha",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
-        "published_at": "Fri, 16 Oct 2026 10:30:32 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
-        "image_url": "https://static.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-hero_dezeen_2364_col_0.jpg",
+        "published_at": "Tue, 20 Oct 2026 20:40:36 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/20/stg-design-unveils-upcoming-unconventional-sinuous-houston-skyscraper/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/o27-broadview-capital-skyscraper-stg-design_dezeen_2364_hero.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Factory in Bangladesh that \"redefines manufacturing architecture\" wins RIBA International Prize",
+        "summary": "A rug factory in Rangpur, Bangladesh, designed by Dhaka-based studio Nakshabid Architects to dismantle workplace hierarchies, has won the RIBA International Prize for 2026. Named Green Field Factory, the project is the fifth winner of the biennial award, presented&#160;by the Royal Institute of British Architects (RIBA",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 16 Oct 2026 10:00:00 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/green-field-factory-nakshabid-architects-riba-international-prize_dezeen_2364_hero_1.jpg",
+        "impact": 4
+      },
+      {
+        "title": "BIG designs cloud-like Tirana Fountain Plaza raised above public park",
+        "summary": "Cloaked in layers of white disks, architecture studio BIG has revealed plans for a mixed-use building in Tirana containing apartments, offices, cultural spaces and water features. Named Tirana Fountain Plaza, the cloud-like building will be raised on slim white columns over Rinia Park, designed to keep the ground level",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 12 Oct 2026 09:30:56 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/12/tirana-fountain-tower-big-albania/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/tirana-fountain-tower-big_dezeen_2364_hero_0.jpg",
+        "impact": 4
+      },
+      {
+        "title": "East unveils updated images of its plans to pedestrianise Oxford Street",
+        "summary": "Ahead of Oxford Street closing to traffic later this month, local architecture studio East has released its latest renders revealing how the popular London shopping destination will look when pedestrianised. East is working with landscape architecture studio JL Gibbons and urban design studios Gehl and Publica on the f",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Thu, 08 Oct 2026 09:00:19 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/08/oxford-street-pedestrianised-east/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/oxford-street-pedestrianised-east_dezeen_2364_hero_1.jpg",
         "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Flintco-Mortenson JV begins concrete deck at $900M Oklahoma City NBA arena",
-        "summary": "The construction team on the future home of the Oklahoma City Thunder also started work on the loading dock walls on the east side of the venue.",
+        "title": "Beyond data centers, infrastructure builds draw funding",
+        "summary": "Builders have touted recent wins on road, bridge, rail and military jobs as the sector continues to evolve.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 16 Oct 2026 15:39:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/flintco-mortenson-jv-concrete-oklahoma-city-nba-arena/833271/",
-        "image_url": "https://imgproxy.divecdn.com/O9f588CKMalv4jICJkl-rLDpfFd03zf24AeQ1WRN6GM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9va2Nfc3RhZGl1bS5qcGc=.webp",
+        "published_at": "Tue, 20 Oct 2026 13:10:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/constructions-other-news-infrastructure-projects-funding-keep-coming/833176/",
+        "image_url": "https://imgproxy.divecdn.com/mcP1XKVzs8nm4c9dftIX7szMy4Y8uhmBjvQ0Eoz2QFs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ESklfRWRpdDNfMDYuMjMuMjAyNi5KUEc=.webp",
         "impact": 4
       },
       {
@@ -436,7 +436,18 @@
         "impact": 4
       },
       {
-        "title": "Halmar completes Yankee Stadium stop on $965M subway upgrades",
+        "title": "Help Wanted: Clayco uses $5B Rivian factory as training opportunity",
+        "summary": "The EV manufacturer pledged $50,000 to help kickstart training in pre-apprenticeship programs as well as scholarships to support construction recruiting on the Atlanta build.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 20 Oct 2026 14:07:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/help-wanted-clayco-rivian-factory-training/833364/",
+        "image_url": "https://imgproxy.divecdn.com/f7gX8LpLnm4yxde7l8QyQZuoxozNDAU4hg4aHashbZk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DbGF5Y28tQ0NESS1FeHBhbmRlZC1Ta2lsbGVkLVRyYWRlcy1UcmFpbmluZy1Qcm9ncmFtLUdyb3VwLVBob3RvLXNjYWxlZC0tMTUwMC53ZWJw.webp",
+        "impact": 3
+      },
+      {
+        "title": "Halmar completes Yankee Stadium stop on $965M subway upgrade",
         "summary": "The contractor expects construction at the remaining 12 stations to finish in early 2027, according to a company statement sent to Construction Dive.",
         "category": "Construction",
         "source": "constructiondive.com",
@@ -445,74 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/halmar-completes-yankee-stadium-stop-subway-upgrades/833390/",
         "image_url": "https://imgproxy.divecdn.com/q-MdgY_vY-ACtl0PMYs2Gq3beEqX76iFPyT5Va4iz_k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95YW5rZWVfc3RhZGl1bV9sci5qcGVn.webp",
         "impact": 3
-      },
-      {
-        "title": "Balfour Beatty sells stake in Gammon Construction",
-        "summary": "The London-based contractor divested from its business to focus on its core U.S. and U.K. markets.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 19 Oct 2026 15:11:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/balfour-beatty-sells-stake-gammon-construction/833376/",
-        "image_url": "https://imgproxy.divecdn.com/1zJOBmBzYaQpTNSeWlv2U5fUPhIUA87lKDl8vNTzJ-8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2ODg1MDUxLmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Amp puts AI agents to work beyond code with OpenAI models",
-        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "title": "Unified Multiparadigm Fusion Intelligence for Rare Disease Diagnosis",
+        "summary": "arXiv:2610.24024v1 Announce Type: new Abstract: Rare diseases (RDs) affect an estimated 300 million people globally, leaving patients to navigate a protracted diagnostic odyssey constrained by clinical scarcity and fragmented medical knowledge. Artificial intelligence (AI) has progressively advanced RD diagnostics, fro",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
-        "source_url": "https://openai.com/index/amp-beyond-coding",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4cxTIUhXa03TEYCnkIcMCu/29e6065058ed969022021186f994dad6/amp-beyond-coding-coiled-connection-seo-open-graph-1920x1080.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 20 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.24024",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "The eternal complement",
-        "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+        "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+        "summary": "arXiv:2610.23921v1 Announce Type: new Abstract: There is growing interest in automating business activities with Agentic Artificial Intelligence (AI) due to latter's seeming ease of use. Never has it been easier, or costlier, to do less with more. However, little is known about when agents are preferable to established",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
-        "source_url": "https://openai.com/index/the-eternal-complement",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2lnidMsGW3gfP6p4fYJZTg/be8ebadd2bf9e9d83adea7a6f28f0501/eternal-complement-seo-white-preview.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 20 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.23921",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "AI for Societal Impact",
-        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "title": "Cortex: A Fixed-Point Theory of Governed Coding Agents - Technical Report",
+        "summary": "arXiv:2610.24255v1 Announce Type: new Abstract: A coding agent combines a large language model (LLM) with a harness that plans, edits, and executes code. We study Cortex, a supervisory layer for pre-execution governance, requirement tracking, and iterative validation and repair. We formalize requirement closure on a fi",
         "category": "AI",
-        "source": "blog.google",
-        "journal": "blog.google",
-        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
-        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 20 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.24255",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "AI breakthroughs in robotics won’t change your life any time soon",
-        "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen",
+        "title": "AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment",
+        "summary": "arXiv:2610.24264v1 Announce Type: new Abstract: As LLM-based agents are deployed with increasing autonomy in real-world environments, a critical failure mode emerges: agentic misalignment, where agents choose harmful actions over failure. However, existing safety benchmarks primarily evaluate whether agents comply with",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 08 Oct 2026 09:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 20 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.24264",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Building a safer path to autonomous industrial AI",
-        "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, indus",
+        "title": "Who Speaks, Who Authorizes, Who Acts? Understanding Trust Boundaries in Multi-Agent LLMs",
+        "summary": "arXiv:2610.24298v1 Announce Type: new Abstract: Multi-agent LLM systems exchange messages before acting through tools, but message delivery, signing authority, and tool-side enforcement are separate trust boundaries. We represent them as communication, authorization, and execution structures, and use the authority cut ",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 08 Oct 2026 08:17:32 +0000",
-        "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 20 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.24298",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
