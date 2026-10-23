@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "last_updated": "2026-10-22 01:10 UTC",
+  "date": "2026-10-23",
+  "last_updated": "2026-10-23 01:11 UTC",
   "categories": {
     "science": [
       {
@@ -61,58 +61,58 @@
     ],
     "tech": [
       {
-        "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-        "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+        "title": "The Foundations of Scalable AI",
+        "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 21 Oct 2026 21:48:52 +0000",
-        "source_url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg",
-        "impact": 3
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 22 Oct 2026 18:48:04 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-        "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 20 Oct 2026 20:07:58 +0000",
-        "source_url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Tesla says it will start selling Cybercabs by end of year",
-        "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&#8217;s third-quarter ear",
+        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+        "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 22 Oct 2026 00:17:54 +0000",
-        "source_url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+        "published_at": "Thu, 22 Oct 2026 21:05:05 +0000",
+        "source_url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
         "impact": 3
       },
       {
-        "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-        "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+        "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+        "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 21 Oct 2026 20:33:09 +0000",
-        "source_url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
+        "published_at": "Thu, 22 Oct 2026 18:38:47 +0000",
+        "source_url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
         "impact": 3
       },
       {
-        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-        "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+        "title": "Tesla is prepping a Cybercab onslaught",
+        "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 21 Oct 2026 19:30:00 +0000",
-        "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
+        "published_at": "Thu, 22 Oct 2026 15:44:39 +0000",
+        "source_url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
+        "impact": 3
+      },
+      {
+        "title": "Fall 2026 earnings watch",
+        "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-22T17:15:16-04:00",
+        "source_url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
@@ -129,17 +129,6 @@
         "impact": 5
       },
       {
-        "title": "Personalized medicine breakthrough for childhood leukemia",
-        "summary": "Researchers from Newcastle University and Great Ormond Street Hospital have identified new predictors of relapse in children and young people with acute lymphoblastic leukemia (ALL) treated with the immunotherapy drug blinatumomab, as part of a U.K.-wide study.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 21 Oct 2026 15:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-personalized-medicine-breakthrough-childhood-leukemia.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/iv-tubing-1.jpg",
-        "impact": 5
-      },
-      {
         "title": "Stanford’s new microscope reveals living cells like never before",
         "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new insights into cancer, infectious diseases, and how drugs interact with cells.",
         "category": "Medicine",
@@ -151,14 +140,25 @@
         "impact": 5
       },
       {
-        "title": "AI identifies tumor aging patterns to predict immunotherapy response across multiple cancer types",
-        "summary": "Even when given the same drug, some patients respond well while others show little or no response. This is particularly true of immunotherapy. A research team at POSTECH (Pohang University of Science and Technology) has developed an artificial intelligence (AI) technology that can predict, in advance, which patients ar",
+        "title": "Clinical support tool helps primary care health professionals detect and treat chronic kidney disease",
+        "summary": "Investigators have developed and validated a clinical decision support tool to improve the diagnosis and treatment of chronic kidney disease (CKD) at the point of care. The research was presented at ASN Kidney Week 2026, Oct. 22–25.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 21 Oct 2026 17:40:22 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-ai-tumor-aging-patterns-immunotherapy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-identifies-tumor-ag.jpg",
+        "published_at": "Thu, 22 Oct 2026 18:30:30 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-clinical-tool-primary-health-professionals.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/kidney-3.jpg",
+        "impact": 4
+      },
+      {
+        "title": "No disease recurrences after short course of neoadjuvant immunotherapy, according to follow-up",
+        "summary": "A short course of neoadjuvant immunotherapy continues to show long-term outcomes in patients with locally advanced mismatch repair–deficient (dMMR) colon cancer. In the NICHE-2 study, none of the 111 patients in the primary efficacy population experienced disease recurrence, and all were alive at their most recent foll",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 22 Oct 2026 15:20:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-disease-recurrences-short-neoadjuvant-immunotherapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/infusion-pump.jpg",
         "impact": 4
       },
       {
@@ -266,7 +266,7 @@
       },
       {
         "title": "On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1",
-        "summary": "On Oct. 21, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
+        "summary": "1, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
@@ -300,39 +300,6 @@
         "impact": 4
       },
       {
-        "title": "JWST Tracks Shifting Water Clouds and Churning Gases on the Coldest Known Brown Dwarf",
-        "summary": "When picturing a star, typically people think of giant balls of burning gas in the sky that emit enough light they are hard to miss. Planets, on the other hand, come in one of two general categories - rocky worlds like Earth or gas giants similar to Jupiter. But there is a third category of astronomical object that doe",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 20 Oct 2026 11:30:05 +0000",
-        "source_url": "https://www.universetoday.com/articles/jwst-tracks-shifting-water-clouds-and-churning-gases-on-the-coldest-known-brown-dwarf",
-        "image_url": "https://www.universetoday.com/article_images/Y-Dwarf-NASA.jpg_20261020_112052.webp",
-        "impact": 4
-      },
-      {
-        "title": "Webb Captures This Golden Galaxy Cluster in All it's Glory",
-        "summary": "The NASA/ESA/CSA James Webb Space Telescope Picture of the Month features the brilliant golden galaxies belonging to the MACS J0454.1-0300 galaxy cluster.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 19 Oct 2026 22:02:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/webb-captures-the-golden-galaxy-cluster-in-all-its-glory",
-        "image_url": "https://www.universetoday.com/article_images/Galaxies_in_a_cosmic_house_of_mirrors_pillars_20261018_215301.jpg",
-        "impact": 4
-      },
-      {
-        "title": "New Observations Show How Black Holes Stir Up Material Surrounding A Galaxy",
-        "summary": "Supermassive black holes power tremendous jets that extend far beyond their galaxy. A new study finds how they can also warm material at the outer edge of a galaxy and reduce the rate of star production over time.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 19 Oct 2026 17:10:49 +0000",
-        "source_url": "https://www.universetoday.com/articles/new-observations-show-how-black-holes-stir-up-material-surrounding-a-galaxy",
-        "image_url": "https://www.universetoday.com/article_images/radiojets_20261019_170846.jpg",
-        "impact": 4
-      },
-      {
         "title": "New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video)",
         "summary": "'More human than human. That's not a slogan; it's a shackle'",
         "category": "Astronomy",
@@ -342,40 +309,62 @@
         "source_url": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video",
         "image_url": "https://cdn.mos.cms.futurecdn.net/nSLAzxuy57KBrEsGG94Tgk-1920-80.jpg",
         "impact": 4
+      },
+      {
+        "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+        "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 18 Oct 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1920-80.png",
+        "impact": 4
+      },
+      {
+        "title": "From Dusk, Towards Dawn: Venus Slides Past the Sun This Weekend",
+        "summary": "Where have all the planets gone? Late October 2026 sees a decided dearth of planets in the dusk sky, with only bashful Mercury receding from view, and Saturn fresh off of opposition. Venus, the former lucida of the evening sky is now lost from view, taking the plunge sunward. But this vanishing act allows for a dramati",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 22 Oct 2026 15:30:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend",
+        "image_url": "https://www.universetoday.com/article_images/44619460185_3c3ed1e20f_c_20261022_141854.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Supernova Explosions First Aided, Then Later Impeded, the Epoch of Reionization",
+        "summary": "The Epoch of Reionization is when radiation from early galaxies and their stars reionized neutral hydrogen and let light travel freely through the cosmos. Some research shows that supernovae helped the process. But new research shows that, though they may have helped initially, supernovae eventually slowed reionization",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 22 Oct 2026 14:53:56 +0000",
+        "source_url": "https://www.universetoday.com/articles/supernova-explosions-first-aided-then-later-impeded-the-epoch-of-reionization",
+        "image_url": "https://www.universetoday.com/article_images/researchers-pinpoint-t_20261022_145220.jpg",
+        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "Campus du Parc / IT'S Studio",
-        "summary": "For twenty years, the former Nanterre School of Architecture was a ghost building, yet its spatial power never faded. Designed in 1971 by Jacques Kalisz and Roger Salem, it was the first public building of a vast social redevelopment project. It stands in the heart of the André-Malraux Park, conceived from the beginnin",
+        "title": "Parkside Villa / Studio B Architecture + Interiors",
+        "summary": "Situated in a rural Boulder neighborhood, Parkside Villa is a comprehensive transformation of an existing 9,100-square-foot residence, reimagined for the evolving lifestyle of an active family. Rather than demolishing and rebuilding, Studio B Architecture + Interiors approached the project as an opportunity to redefine",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 21 Oct 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186926/campus-du-parc-its-studio",
-        "image_url": "https://images.adsttc.com/media/images/6ad0/d77b/7887/fb01/8910/778e/large_jpg/campus-du-parc-its-studio_1.jpg?1792071586",
+        "published_at": "Thu, 22 Oct 2026 12:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187144/parkside-villa-studio-b-architecture-plus-interiors",
+        "image_url": "https://images.adsttc.com/media/images/6ad6/4fe8/aadf/a000/01e3/b14a/large_jpg/StudioB-ParksideVilla-Exterior-DaylightFacade-Boulder.jpg?1792430129",
         "impact": 4
       },
       {
-        "title": "Impermanence by Design: An Architectural History of Antarctica",
-        "summary": "\"Antarctica is known through narratives,\" states Victoria Nuviala Antelo during the lecture on Inhabiting the Extreme: An Architectural Biography of Antarctica, presented at the Buenos Aires International Architecture Biennial. Indeed, throughout architectural history, numerous stories, experiences, ways of inhabiting,",
+        "title": "Small Houses in Uruguay: How Three Studios Build Light on Rural and Coastal Sites",
+        "summary": "In Uruguay, small-scale residential projects increasingly occupy rural and coastal landscapes, from the hills of Villa Serrana to the maritime forests along the Atlantic coast. Building in these areas often requires structural materials that balance durability, thermal efficiency, and transport feasibility. In these en",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 21 Oct 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1186713/impermanence-by-design-an-architectural-history-of-antarctica",
-        "image_url": "https://images.adsttc.com/media/images/6acd/a431/7887/fb01/8910/6ab7/large_jpg/exploring-inhabiting-and-designing-antarctica-constructing-an-architectural-biography-of-a-fictional-void_1.jpg?1791861837",
-        "impact": 4
-      },
-      {
-        "title": "Courtyard House / Hennessey Architecture",
-        "summary": "For this modestly-scaled renovation of a classic suburban Mill Valley house, the home was thought not only as a shelter, but also as a bridge: from past to present; from one landscape condition to another; and from what a family wanted to what they could have. Designed for a couple with two young children, the house is",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 20 Oct 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1186975/courtyard-house-hennessey-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6ad1/338b/aadf/a000/01e3/a6d9/large_jpg/11.jpg?1792095137",
+        "published_at": "Thu, 22 Oct 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187165/small-houses-in-uruguay-how-three-studios-build-light-on-rural-and-coastal-sites",
+        "image_url": "https://images.adsttc.com/media/images/6ad6/dac9/c720/ac01/8896/2ffd/large_jpg/compact-rural-dwellings-small-footprint-housing-systems-in-uruguay_6.jpg?1792465617",
         "impact": 4
       },
       {
@@ -391,13 +380,24 @@
       },
       {
         "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
-        "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. The 4,330-square-metre building was designed to provide learning space for a local education centre, as well as to house commun",
+        "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. Perched on a 4,330-square-metre site, the single-storey building was designed to provide learning space for a local education c",
         "category": "Architecture",
         "source": "dezeen.com",
         "journal": "dezeen.com",
         "published_at": "Fri, 16 Oct 2026 10:30:00 +0000",
         "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-sq2_dezeen_2364_col_0.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Factory in Bangladesh that \"redefines manufacturing architecture\" wins RIBA International Prize",
+        "summary": "A rug factory in Rangpur, Bangladesh, designed by Dhaka-based studio Nakshabid Architects to dismantle workplace hierarchies, has won the RIBA International Prize for 2026. Named Green Field Factory, the project is the fifth winner of the biennial award, presented&#160;by the Royal Institute of British Architects (RIBA",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Fri, 16 Oct 2026 10:00:00 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/green-field-factory-nakshabid-architects-riba-international-prize_dezeen_2364_hero_1.jpg",
         "impact": 4
       }
     ],
@@ -436,8 +436,19 @@
         "impact": 4
       },
       {
+        "title": "Commercial groundbreakings plunged 18% in September",
+        "summary": "Fewer starts in manufacturing and data centers caused total construction activity to slip for a second straight month, according to Dodge Construction Network.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Thu, 22 Oct 2026 12:41:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/commercial-groundbreakings-plunged-september/833741/",
+        "image_url": "https://imgproxy.divecdn.com/2WW1LhXtfNyFe--7w9OHmEIYlWgvQZ2jHbDIy1cf6TU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxMzQyNjM5LmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "AI reshapes construction teams more often than it cuts jobs: report",
-        "summary": "According to a Berkeley Research Group survey, artificial intelligence has not led to significant headcount reductions, though construction lagged other industries on policies for human oversight.",
+        "summary": "According to a BRG survey, artificial intelligence has not led to significant headcount reductions, though construction lagged other industries on policies for human oversight.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/construction-ai-reshape-teams-replace-jobs/833612/",
         "image_url": "https://imgproxy.divecdn.com/21omkgLhbj0rs2KGk7T4Xp-zfHtM9pSHrTsiiuZGVXU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4OTUzMzMxLmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "Construction must preserve trades knowledge to know when AI is wrong",
-        "summary": "Incorporating technology training into construction apprenticeship programs can maintain institutional wisdom while still making advancements, writes an exec and union carpenter.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 21 Oct 2026 13:05:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/preserve-trades-knowledge-when-ai-is-wrong/833505/",
-        "image_url": "https://imgproxy.divecdn.com/O7scnUmm9iA8XedcznnsMxJcDEj6QVvcsfCxRTsx36Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3ODUyODY5LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
-        "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numer",
+        "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+        "summary": "arXiv:2610.28909v1 Announce Type: new Abstract: Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bottleneck for interactive use. Almost all production systems are built on autoregressive (AR) language models and inherit left-to-right decoding in planning a",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.26887",
+        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.28909",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
-        "summary": "arXiv:2610.26941v1 Announce Type: new Abstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufacturing. However, dynamic environments, complex physical constraints, and stringent reliability requir",
+        "title": "Self-Improving Agents with World Model Predictive Paths",
+        "summary": "arXiv:2610.28945v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience can jointly support decision-making remains",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.26941",
+        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.28945",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-        "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown gr",
+        "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
+        "summary": "arXiv:2610.28982v1 Announce Type: new Abstract: While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text transfers to tool use. We construct a benc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.26943",
+        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.28982",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
-        "summary": "arXiv:2610.27027v1 Announce Type: new Abstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the conclusion, so whether collabo",
+        "title": "Inheritance as an Admission Test for LLM Prompt Merge Operators",
+        "summary": "arXiv:2610.29023v1 Announce Type: new Abstract: Large language model (LLM) agents are often improved by iterating until a fixed verifier is done. Once that verifier saturates, the loop has nothing left to climb. We instead score agents against the current population, and a frozen panel records whether anyone got better",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.27027",
+        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.29023",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
-        "summary": "arXiv:2610.27032v1 Announce Type: new Abstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key limitation of single LLMs is their difficulty",
+        "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
+        "summary": "arXiv:2610.29139v1 Announce Type: new Abstract: Frontier black-box Large Language Model (LLM) agents are proficient at long-horizon reasoning and precise action generation. However, when it comes to a specific agentic task, they have no internalized knowledge of how that particular environment unfolds. A world model of",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.27032",
+        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.29139",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
