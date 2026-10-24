@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "last_updated": "2026-10-23 01:11 UTC",
+  "date": "2026-10-24",
+  "last_updated": "2026-10-24 01:22 UTC",
   "categories": {
     "science": [
       {
@@ -37,14 +37,14 @@
         "impact": 5
       },
       {
-        "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
-        "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
+        "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+        "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for othe",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Mon, 19 Oct 2026 05:19:45 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+        "published_at": "Fri, 23 Oct 2026 07:02:25 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
         "impact": 5
       },
       {
@@ -61,6 +61,28 @@
     ],
     "tech": [
       {
+        "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+        "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Fri, 23 Oct 2026 17:18:31 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+        "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-23T15:35:15-04:00",
+        "source_url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&strip=all&crop=0,9.1765918577712,100,81.646816284458",
+        "impact": 4
+      },
+      {
         "title": "The Foundations of Scalable AI",
         "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible",
         "category": "Tech",
@@ -72,47 +94,25 @@
         "impact": 4
       },
       {
-        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-        "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 22 Oct 2026 21:05:05 +0000",
-        "source_url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
+        "published_at": "Fri, 23 Oct 2026 21:59:19 +0000",
+        "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
         "impact": 3
       },
       {
-        "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-        "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+        "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+        "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 22 Oct 2026 18:38:47 +0000",
-        "source_url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
-        "impact": 3
-      },
-      {
-        "title": "Tesla is prepping a Cybercab onslaught",
-        "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 22 Oct 2026 15:44:39 +0000",
-        "source_url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
-        "impact": 3
-      },
-      {
-        "title": "Fall 2026 earnings watch",
-        "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-22T17:15:16-04:00",
-        "source_url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "Fri, 23 Oct 2026 15:00:09 +0000",
+        "source_url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1200,743",
         "impact": 3
       }
     ],
@@ -129,47 +129,47 @@
         "impact": 5
       },
       {
-        "title": "Stanford’s new microscope reveals living cells like never before",
-        "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new insights into cancer, infectious diseases, and how drugs interact with cells.",
+        "title": "Tegoprubart preserves kidney function better than tacrolimus in first-time transplant patients, trial suggests",
+        "summary": "The phase 2 BESTOW clinical trial showed that tegoprubart (a novel anti-CD40L antibody therapy) was better at preserving kidney function than tacrolimus (the current standard of care) in immunosuppressive regimens in adults receiving their first kidney transplant. Kidney graft function stabilized after the first month ",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 16 Oct 2026 21:06:05 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/laser-array-interferometric-image-scanning-microscopy-technology.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 23 Oct 2026 18:30:14 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2018/transplant.jpg",
         "impact": 5
       },
       {
-        "title": "Clinical support tool helps primary care health professionals detect and treat chronic kidney disease",
-        "summary": "Investigators have developed and validated a clinical decision support tool to improve the diagnosis and treatment of chronic kidney disease (CKD) at the point of care. The research was presented at ASN Kidney Week 2026, Oct. 22–25.",
+        "title": "ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer",
+        "summary": "A new analysis of a phase 3 clinical trial found that the targeted drug daraxonrasib improved survival compared with standard chemotherapy across multiple groups of patients with advanced pancreatic cancer, including those with different RAS mutations and those without an identified RAS mutation.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 22 Oct 2026 18:30:30 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-clinical-tool-primary-health-professionals.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/kidney-3.jpg",
-        "impact": 4
+        "published_at": "Fri, 23 Oct 2026 14:00:31 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/reversingcan.jpg",
+        "impact": 5
       },
       {
-        "title": "No disease recurrences after short course of neoadjuvant immunotherapy, according to follow-up",
-        "summary": "A short course of neoadjuvant immunotherapy continues to show long-term outcomes in patients with locally advanced mismatch repair–deficient (dMMR) colon cancer. In the NICHE-2 study, none of the 111 patients in the primary efficacy population experienced disease recurrence, and all were alive at their most recent foll",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 22 Oct 2026 15:20:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-disease-recurrences-short-neoadjuvant-immunotherapy.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/infusion-pump.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-        "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-relate",
+        "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+        "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for othe",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 21 Oct 2026 07:03:52 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/embryonic-stem-cells-cellular-therapy-regeneration.webp",
+        "published_at": "Fri, 23 Oct 2026 07:02:25 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
+        "impact": 5
+      },
+      {
+        "title": "Study identifies potential new treatment targets for the most common type of bowel cancer",
+        "summary": "Research published today identifies potential new ways to treat the most common type of colorectal cancer in Ireland. The study, conducted by an international research team led by RCSI University of Medicine and Health Sciences and The Institute of Cancer Research, London, provides a roadmap for repurposing existing dr",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 23 Oct 2026 15:20:08 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-potential-treatment-common-bowel-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-poten-7.jpg",
         "impact": 4
       }
     ],
@@ -232,14 +232,14 @@
     ],
     "space": [
       {
-        "title": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
-        "summary": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of the Red Planet.",
+        "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+        "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano abo",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 18 Oct 2026 19:20:03 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/CaXZHsGkC3ELaPgT7WG92k-1920-80.png",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 23 Oct 2026 22:37:53 +0000",
+        "source_url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
         "impact": 5
       },
       {
@@ -254,47 +254,69 @@
         "impact": 5
       },
       {
-        "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-        "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch Sys",
+        "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+        "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established i",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 21 Oct 2026 20:51:50 +0000",
-        "source_url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
+        "published_at": "Fri, 23 Oct 2026 22:39:39 +0000",
+        "source_url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+        "image_url": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
         "impact": 4
       },
       {
-        "title": "On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1",
-        "summary": "1, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
+        "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+        "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its fina",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 21 Oct 2026 21:41:37 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/XYSXm8VMcSGEYE32UYqTAA-1920-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 23 Oct 2026 21:51:19 +0000",
+        "source_url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       },
       {
-        "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update)",
-        "summary": "NASA has updated the timeline for its Artemis III mission and mapped out the expected progress for SpaceX and Blue Origin's respective moon landers.",
+        "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
+        "summary": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 21 Oct 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ySjXaUojZJ8Piuq3edDhbn-1920-80.webp",
+        "published_at": "Fri, 23 Oct 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/yZxSJ4zbEYk5Q8FVpPXRPd-1920-80.png",
         "impact": 4
       }
     ],
     "astronomy": [
       {
-        "title": "How Inversion and NASA Plan to Unlock Interplanetary Aerocapture MB edits",
+        "title": "27 Exoplanet Targets for the World's First Private Space Telescope",
+        "summary": "Get ready for the age of private space telescopes. The Lazuli Space Telescope will launch in a few years and part of its mission is to observe exoplanets. New research presents a list of 27 exoplanet targets, some of which are very well-known and will certainly benefit from deeper observations.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 23 Oct 2026 22:33:37 +0000",
+        "source_url": "https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope",
+        "image_url": "https://www.universetoday.com/article_images/gasgiant-7_20261023_204718.jpg",
+        "impact": 4
+      },
+      {
+        "title": "JWST Reveals a Lopsided Alien World with Blistering Evening Winds",
+        "summary": "Typically, when we think of exoplanets, we think of neat spheres floating directly in front of their star, which acts as a giant spotlight. From our vantage point, they would look more like two perfect two dimensional circles than spheres, though. But nature is almost never so clean-cut. A new paper published in Nature",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 23 Oct 2026 10:54:33 +0000",
+        "source_url": "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
+        "image_url": "https://www.universetoday.com/article_images/figure1_wasp-17b_shape-of-the-atmosphere_20261023_104933.png",
+        "impact": 4
+      },
+      {
+        "title": "How Inversion and NASA Plan to Unlock Interplanetary Aerocapture",
         "summary": "Using a planet’s atmosphere to secure a satellite’s place in orbit, a process known as “aerocapture”, has been the dream of flight engineers for decades. The only problem? It’s really hard to actually do. It requires control systems, thermal management, and orbital mechanics to all coordinate in a dance that allows a s",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 21 Oct 2026 16:12:33 +0000",
+        "published_at": "Wed, 21 Oct 2026 16:12:00 +0000",
         "source_url": "https://www.universetoday.com/articles/how-inversion-and-nasa-plan-to-unlock-interplanetary-aerocapture-mb-edits",
         "image_url": "https://www.universetoday.com/article_images/Arc_Aerocapture_Hero_Image_20261021_160720.jpg",
         "impact": 4
@@ -311,17 +333,6 @@
         "impact": 4
       },
       {
-        "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
-        "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 18 Oct 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1920-80.png",
-        "impact": 4
-      },
-      {
         "title": "From Dusk, Towards Dawn: Venus Slides Past the Sun This Weekend",
         "summary": "Where have all the planets gone? Late October 2026 sees a decided dearth of planets in the dusk sky, with only bashful Mercury receding from view, and Saturn fresh off of opposition. Venus, the former lucida of the evening sky is now lost from view, taking the plunge sunward. But this vanishing act allows for a dramati",
         "category": "Astronomy",
@@ -331,20 +342,31 @@
         "source_url": "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend",
         "image_url": "https://www.universetoday.com/article_images/44619460185_3c3ed1e20f_c_20261022_141854.jpg",
         "impact": 3
-      },
-      {
-        "title": "Supernova Explosions First Aided, Then Later Impeded, the Epoch of Reionization",
-        "summary": "The Epoch of Reionization is when radiation from early galaxies and their stars reionized neutral hydrogen and let light travel freely through the cosmos. Some research shows that supernovae helped the process. But new research shows that, though they may have helped initially, supernovae eventually slowed reionization",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 22 Oct 2026 14:53:56 +0000",
-        "source_url": "https://www.universetoday.com/articles/supernova-explosions-first-aided-then-later-impeded-the-epoch-of-reionization",
-        "image_url": "https://www.universetoday.com/article_images/researchers-pinpoint-t_20261022_145220.jpg",
-        "impact": 3
       }
     ],
     "architecture": [
+      {
+        "title": "CHYBÍK + KRIŠTOF Turns Aedes Into a Live Architecture Studio to Develop Four Berlin Projects",
+        "summary": "CHYBÍK + KRIŠTOF has opened Building the Existing City, an exhibition at Aedes Architecture Forum in Berlin that transforms the gallery into a working architecture studio. Running from October 23 to December 3, 2026, the exhibition centres on four architectural and urban design proposals for sites or urban situations i",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 23 Oct 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1187409/chybik-plus-kristof-turns-aedes-into-a-live-architecture-studio-to-develop-four-berlin-projects",
+        "image_url": "https://images.adsttc.com/media/images/6adb/28b4/db5c/2001/882c/fd5b/large_jpg/chybik-plus-kristof-turns-aedes-into-a-live-architecture-studio-to-develop-four-berlin-projects_6.jpg?1792747794",
+        "impact": 5
+      },
+      {
+        "title": "Scaffolding as Interior Architecture: The Longevity of Temporary Structures",
+        "summary": "Scaffolding is perhaps one of architecture's most familiar temporary structures. It accompanies buildings through construction, maintenance, and renovation, only to disappear once its work is complete. Yet its apparent impermanence conceals a different kind of longevity. Scaffolding systems are designed to be assembled",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 23 Oct 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1187248/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures",
+        "image_url": "https://images.adsttc.com/media/images/6ad9/1864/20d6/d801/8852/0411/large_jpg/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures_26.jpg?1792612464",
+        "impact": 4
+      },
       {
         "title": "Parkside Villa / Studio B Architecture + Interiors",
         "summary": "Situated in a rural Boulder neighborhood, Parkside Villa is a comprehensive transformation of an existing 9,100-square-foot residence, reimagined for the evolving lifestyle of an active family. Rather than demolishing and rebuilding, Studio B Architecture + Interiors approached the project as an opportunity to redefine",
@@ -354,17 +376,6 @@
         "published_at": "Thu, 22 Oct 2026 12:00:00 +0000",
         "source_url": "https://www.archdaily.com/1187144/parkside-villa-studio-b-architecture-plus-interiors",
         "image_url": "https://images.adsttc.com/media/images/6ad6/4fe8/aadf/a000/01e3/b14a/large_jpg/StudioB-ParksideVilla-Exterior-DaylightFacade-Boulder.jpg?1792430129",
-        "impact": 4
-      },
-      {
-        "title": "Small Houses in Uruguay: How Three Studios Build Light on Rural and Coastal Sites",
-        "summary": "In Uruguay, small-scale residential projects increasingly occupy rural and coastal landscapes, from the hills of Villa Serrana to the maritime forests along the Atlantic coast. Building in these areas often requires structural materials that balance durability, thermal efficiency, and transport feasibility. In these en",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 22 Oct 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187165/small-houses-in-uruguay-how-three-studios-build-light-on-rural-and-coastal-sites",
-        "image_url": "https://images.adsttc.com/media/images/6ad6/dac9/c720/ac01/8896/2ffd/large_jpg/compact-rural-dwellings-small-footprint-housing-systems-in-uruguay_6.jpg?1792465617",
         "impact": 4
       },
       {
@@ -388,31 +399,9 @@
         "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-sq2_dezeen_2364_col_0.jpg",
         "impact": 4
-      },
-      {
-        "title": "Factory in Bangladesh that \"redefines manufacturing architecture\" wins RIBA International Prize",
-        "summary": "A rug factory in Rangpur, Bangladesh, designed by Dhaka-based studio Nakshabid Architects to dismantle workplace hierarchies, has won the RIBA International Prize for 2026. Named Green Field Factory, the project is the fifth winner of the biennial award, presented&#160;by the Royal Institute of British Architects (RIBA",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 16 Oct 2026 10:00:00 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
-        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/green-field-factory-nakshabid-architects-riba-international-prize_dezeen_2364_hero_1.jpg",
-        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Beyond data centers, infrastructure builds draw funding",
-        "summary": "Builders have touted recent wins on road, bridge, rail and military jobs as the sector continues to evolve.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 20 Oct 2026 13:10:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/constructions-other-news-infrastructure-projects-funding-keep-coming/833176/",
-        "image_url": "https://imgproxy.divecdn.com/mcP1XKVzs8nm4c9dftIX7szMy4Y8uhmBjvQ0Eoz2QFs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ESklfRWRpdDNfMDYuMjMuMjAyNi5KUEc=.webp",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -436,8 +425,30 @@
         "impact": 4
       },
       {
+        "title": "ICE’s Women in Fellowship programme scoops national award",
+        "summary": "The ICE Connects: Women in Fellowship programme has won Women’s Network of the Year at the 2026 Inspiring Women in Construction and Engineering Awards. The post ICE’s Women in Fellowship programme scoops national award appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 23 Oct 2026 14:32:56 +0000",
+        "source_url": "https://www.newcivilengineer.com/ice/ices-women-in-fellowship-programme-scoops-national-award-23-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/ICE-Connects-accepting-the-award-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Royal Engineers investigate low-resource concrete for crisis-zone construction",
+        "summary": "Soldiers from the Corps of Royal Engineers have investigated ways to produce concrete using recycled bricks, salt water and 3D printing for use in conflict zones, disaster areas and other environments with limited resources. The post Royal Engineers investigate low-resource concrete for crisis-zone construction appeare",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 23 Oct 2026 11:38:13 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/royal-engineers-investigate-low-resource-concrete-for-crisis-zone-construction-23-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/Screenshot-2026-10-23-122710-560x315.png",
+        "impact": 4
+      },
+      {
         "title": "Commercial groundbreakings plunged 18% in September",
-        "summary": "Fewer starts in manufacturing and data centers caused total construction activity to slip for a second straight month, according to Dodge Construction Network.",
+        "summary": "Fewer starts in manufacturing and data centers caused total construction activity to slip month over month, according to Dodge Construction Network.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/commercial-groundbreakings-plunged-september/833741/",
         "image_url": "https://imgproxy.divecdn.com/2WW1LhXtfNyFe--7w9OHmEIYlWgvQZ2jHbDIy1cf6TU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxMzQyNjM5LmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "AI reshapes construction teams more often than it cuts jobs: report",
-        "summary": "According to a BRG survey, artificial intelligence has not led to significant headcount reductions, though construction lagged other industries on policies for human oversight.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 21 Oct 2026 13:06:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-ai-reshape-teams-replace-jobs/833612/",
-        "image_url": "https://imgproxy.divecdn.com/21omkgLhbj0rs2KGk7T4Xp-zfHtM9pSHrTsiiuZGVXU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4OTUzMzMxLmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
-        "summary": "arXiv:2610.28909v1 Announce Type: new Abstract: Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bottleneck for interactive use. Almost all production systems are built on autoregressive (AR) language models and inherit left-to-right decoding in planning a",
+        "title": "Feedback That Backfires in Games: Do LLM Players Repeat the Move They Just Watched Fail?",
+        "summary": "arXiv:2610.30205v1 Announce Type: new Abstract: When an LLM agent's move fails, the harness writes the move and the failure message into the transcript and asks again. In tool calling, this record makes small models more likely to repeat the failed action. We test whether the same holds in games (Sokoban, Connect Four,",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.28909",
+        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.30205",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Self-Improving Agents with World Model Predictive Paths",
-        "summary": "arXiv:2610.28945v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience can jointly support decision-making remains",
+        "title": "Route-and-Generate: KL-Regularized Router Improvement for Reasoning Routing in LLMs",
+        "summary": "arXiv:2610.30351v1 Announce Type: new Abstract: Large language models often apply complex reasoning indiscriminately, leading to overthinking on simple tasks and underthinking on harder ones. We present Route-and-Generate (Rouge), a hierarchical training framework that enables LLMs to adaptively decide when and how muc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.28945",
+        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.30351",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
-        "summary": "arXiv:2610.28982v1 Announce Type: new Abstract: While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text transfers to tool use. We construct a benc",
+        "title": "RoleFlow: Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation",
+        "summary": "arXiv:2610.30429v1 Announce Type: new Abstract: Large language model (LLM) based multi-agent systems often rely on predefined collaboration structures, limiting their adaptability to evolving task requirements. Although recent approaches enable dynamic orchestration, trajectory-level rewards they apply assign one outco",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.28982",
+        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.30429",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Inheritance as an Admission Test for LLM Prompt Merge Operators",
-        "summary": "arXiv:2610.29023v1 Announce Type: new Abstract: Large language model (LLM) agents are often improved by iterating until a fixed verifier is done. Once that verifier saturates, the loop has nothing left to climb. We instead score agents against the current population, and a frozen panel records whether anyone got better",
+        "title": "Same Beliefs, Different Policies: Learning Reusable Representations for Early Stopping in LLM Reasoning",
+        "summary": "arXiv:2610.30450v1 Announce Type: new Abstract: Reasoning LLMs often continue reasoning after reaching a correct answer, wasting computation and sometimes replacing it with an incorrect one. Deciding when to stop is a metareasoning problem: the model must weigh what further reasoning could achieve against its cost, giv",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.29023",
+        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.30450",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
-        "summary": "arXiv:2610.29139v1 Announce Type: new Abstract: Frontier black-box Large Language Model (LLM) agents are proficient at long-horizon reasoning and precise action generation. However, when it comes to a specific agentic task, they have no internalized knowledge of how that particular environment unfolds. A world model of",
+        "title": "From Single-Actor Environments to Multi-Actor Event Worlds: Can LLMs Be Event World Models?",
+        "summary": "arXiv:2610.30488v1 Announce Type: new Abstract: World models help agents assess the consequences of their actions before acting. Many real systems, however, involve multiple actors who make their own decisions, can evolve even when the agent takes no action, and are only partially observed through event logs. We formal",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.29139",
+        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.30488",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
