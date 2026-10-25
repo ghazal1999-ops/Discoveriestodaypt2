@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-24",
-  "last_updated": "2026-10-24 01:22 UTC",
+  "date": "2026-10-25",
+  "last_updated": "2026-10-25 00:46 UTC",
   "categories": {
     "science": [
       {
@@ -15,25 +15,25 @@
         "impact": 5
       },
       {
-        "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
-        "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
+        "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
+        "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approach to weight-loss tr",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Mon, 19 Oct 2026 06:02:32 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/translucent-glowing-human-brain-signals-waves.webp",
+        "published_at": "Sat, 24 Oct 2026 07:16:08 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
         "impact": 5
       },
       {
-        "title": "Scientists reach the ultimate quantum limit on a surface",
-        "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technologies.",
+        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that cou",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Mon, 19 Oct 2026 23:02:41 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/optically-excited-molecule-on-crystal-surface.webp",
+        "published_at": "Fri, 23 Oct 2026 20:48:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp",
         "impact": 5
       },
       {
@@ -72,17 +72,6 @@
         "impact": 4
       },
       {
-        "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-        "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-23T15:35:15-04:00",
-        "source_url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&strip=all&crop=0,9.1765918577712,100,81.646816284458",
-        "impact": 4
-      },
-      {
         "title": "The Foundations of Scalable AI",
         "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible",
         "category": "Tech",
@@ -92,6 +81,17 @@
         "source_url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
         "impact": 4
+      },
+      {
+        "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+        "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sat, 24 Oct 2026 15:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
+        "impact": 3
       },
       {
         "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -105,29 +105,18 @@
         "impact": 3
       },
       {
-        "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-        "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+        "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
+        "summary": "CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 23 Oct 2026 15:00:09 +0000",
-        "source_url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1200,743",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 23 Oct 2026 10:30:00 +0000",
+        "source_url": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
+        "image_url": "https://media.wired.com/photos/6ada7a9b8628ec861188a3e4/191:100/w_1280,c_limit/TDM%20Neo%20review%20102026%20top%20art%20(3)%20SOURCE%20TDM.jpg",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "New drug reverses severe fatty liver disease by repairing the gut",
-        "summary": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new treatments for liver disease and potentially other serious conditions, including cardi",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 17 Oct 2026 09:45:06 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
-        "impact": 5
-      },
       {
         "title": "Tegoprubart preserves kidney function better than tacrolimus in first-time transplant patients, trial suggests",
         "summary": "The phase 2 BESTOW clinical trial showed that tegoprubart (a novel anti-CD40L antibody therapy) was better at preserving kidney function than tacrolimus (the current standard of care) in immunosuppressive regimens in adults receiving their first kidney transplant. Kidney graft function stabilized after the first month ",
@@ -170,6 +159,17 @@
         "published_at": "Fri, 23 Oct 2026 15:20:08 EDT",
         "source_url": "https://medicalxpress.com/news/2026-10-potential-treatment-common-bowel-cancer.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-identifies-poten-7.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+        "summary": "Early results of the first clinical trial to evaluate the drug invikafusp alfa (invika) in humans indicate that the treatment may be capable of managing cancers that have rebuffed most other interventions, including standard immunotherapy.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 23 Oct 2026 15:00:11 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-precision-cell-therapy-stalls-treatment.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-series-of-chest-ct-s.jpg",
         "impact": 4
       }
     ],
@@ -232,50 +232,6 @@
     ],
     "space": [
       {
-        "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-        "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano abo",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 23 Oct 2026 22:37:53 +0000",
-        "source_url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos (video)",
-        "summary": "Japan just launched an epic mission to Mars' moons that could make history as the first spacecraft to return to Earth from the Red Planet — and it plans to come back with samples onboard.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 19 Oct 2026 19:53:21 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/yuBChjmdEXDVkmGVcyG4AZ-1920-80.jpg",
-        "impact": 5
-      },
-      {
-        "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-        "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established i",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 23 Oct 2026 22:39:39 +0000",
-        "source_url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-        "image_url": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-        "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its fina",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 23 Oct 2026 21:51:19 +0000",
-        "source_url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
         "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
         "summary": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
         "category": "Space",
@@ -284,6 +240,50 @@
         "published_at": "Fri, 23 Oct 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/yZxSJ4zbEYk5Q8FVpPXRPd-1920-80.png",
+        "impact": 4
+      },
+      {
+        "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+        "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 23 Oct 2026 10:57:51 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/L6jMi8Cb66ZnEJVs8Mimc9-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1",
+        "summary": "1, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 21 Oct 2026 21:41:37 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/XYSXm8VMcSGEYE32UYqTAA-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update)",
+        "summary": "NASA has updated the timeline for its Artemis III mission and mapped out the expected progress for SpaceX and Blue Origin's respective moon landers.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 21 Oct 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ySjXaUojZJ8Piuq3edDhbn-1920-80.webp",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
+        "summary": "On Oct. 20, 1970, the Soviet Union launched the Zond 8 spacecraft on a mission to the moon. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 20 Oct 2026 20:59:48 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/jCa3PH9LDuQSYgKeP4U3ME-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -333,14 +333,14 @@
         "impact": 4
       },
       {
-        "title": "From Dusk, Towards Dawn: Venus Slides Past the Sun This Weekend",
-        "summary": "Where have all the planets gone? Late October 2026 sees a decided dearth of planets in the dusk sky, with only bashful Mercury receding from view, and Saturn fresh off of opposition. Venus, the former lucida of the evening sky is now lost from view, taking the plunge sunward. But this vanishing act allows for a dramati",
+        "title": "White Dwarfs Are Actually…Yellow, Green, Pink, and Purple?",
+        "summary": "The universe hosts a myriad of star types, including supergiants, giants, main sequence, red dwarfs, brown dwarfs, white dwarfs, and neutron stars. What makes these stars stand out are just their sizes, but their colors, as each one hosts a distinct color based on their surface temperature, specifically orange, red, bl",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 22 Oct 2026 15:30:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend",
-        "image_url": "https://www.universetoday.com/article_images/44619460185_3c3ed1e20f_c_20261022_141854.jpg",
+        "published_at": "Sat, 24 Oct 2026 01:32:55 +0000",
+        "source_url": "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple",
+        "image_url": "https://www.universetoday.com/article_images/Low-Res_Green_WD_V3_20261024_012308.jpg",
         "impact": 3
       }
     ],
@@ -357,6 +357,39 @@
         "impact": 5
       },
       {
+        "title": "Legombang Treehouse / Cave Urban",
+        "summary": "Legombang Treehouse reinterprets traditional Balinese architecture as a contemporary tropical family home, using reclaimed timber, passive design, and a treehouse-like structure woven around the site's existing trees. Designed by Cave Urban co-founder Jed Long for his own family, the house is located in Pantai Lembeng,",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 24 Oct 2026 17:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1186813/legombang-treehouse-cave-urban",
+        "image_url": "https://images.adsttc.com/media/images/6acf/83d8/51c8/2d01/89ac/0499/large_jpg/legombang-treehouse-cave-urban_12.jpg?1791984628",
+        "impact": 4
+      },
+      {
+        "title": "\"Camposoto\" Health Center / Estudio Suárez Corchete",
+        "summary": "The plot is located in a relatively consolidated area of urban expansion, integrated into a block designated for public facilities within a residential environment composed of multi-family apartment buildings and semi-detached single-family homes.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 24 Oct 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187184/camposoto-health-center-estudio-suarez-corchete",
+        "image_url": "https://images.adsttc.com/media/images/6a8e/ac0a/4253/0500/01ca/0d5d/large_jpg/9834_11_Fernando_Alda.jpg?1787735085",
+        "impact": 4
+      },
+      {
+        "title": "Eyes on the Street: Jane Jacobs’ Concept and Contemporary Residential Architecture in Brazil",
+        "summary": "The concept of \"eyes on the street\" is perhaps the most famous within architectural and urban literature when it comes to urban security. Jane Jacobs uses this expression to refer to people who - consciously or unconsciously - use public spaces or observe them from their homes, generating natural surveillance. A moveme",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 24 Oct 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1014363/eyes-on-the-street-jane-jacobs-concept-and-contemporary-residential-architecture-in-brazil",
+        "image_url": "https://images.adsttc.com/media/images/65ea/506e/855b/f264/9e6f/814a/large_jpg/os-olhos-da-rua-o-conceito-de-jane-jacobs-e-a-arquitetura-residencial-contemporanea-no-brasil_10.jpg?1709854838",
+        "impact": 4
+      },
+      {
         "title": "Scaffolding as Interior Architecture: The Longevity of Temporary Structures",
         "summary": "Scaffolding is perhaps one of architecture's most familiar temporary structures. It accompanies buildings through construction, maintenance, and renovation, only to disappear once its work is complete. Yet its apparent impermanence conceals a different kind of longevity. Scaffolding systems are designed to be assembled",
         "category": "Architecture",
@@ -365,39 +398,6 @@
         "published_at": "Fri, 23 Oct 2026 07:30:00 +0000",
         "source_url": "https://www.archdaily.com/1187248/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures",
         "image_url": "https://images.adsttc.com/media/images/6ad9/1864/20d6/d801/8852/0411/large_jpg/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures_26.jpg?1792612464",
-        "impact": 4
-      },
-      {
-        "title": "Parkside Villa / Studio B Architecture + Interiors",
-        "summary": "Situated in a rural Boulder neighborhood, Parkside Villa is a comprehensive transformation of an existing 9,100-square-foot residence, reimagined for the evolving lifestyle of an active family. Rather than demolishing and rebuilding, Studio B Architecture + Interiors approached the project as an opportunity to redefine",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 22 Oct 2026 12:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187144/parkside-villa-studio-b-architecture-plus-interiors",
-        "image_url": "https://images.adsttc.com/media/images/6ad6/4fe8/aadf/a000/01e3/b14a/large_jpg/StudioB-ParksideVilla-Exterior-DaylightFacade-Boulder.jpg?1792430129",
-        "impact": 4
-      },
-      {
-        "title": "STG Design unveils upcoming “unconventional, sinuous” Houston skyscraper",
-        "summary": "Texas architecture studio STG Design has released renderings of O27, an office skyscraper covered with triangular panels that is planned for Houston’s River Oaks area. The 32-storey building will contain flexible office floors, as well as luxury amenities and a rooftop terrace on top of its nine-storey base. It will ha",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 20 Oct 2026 20:40:36 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/20/stg-design-unveils-upcoming-unconventional-sinuous-houston-skyscraper/",
-        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/o27-broadview-capital-skyscraper-stg-design_dezeen_2364_hero.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
-        "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. Perched on a 4,330-square-metre site, the single-storey building was designed to provide learning space for a local education c",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 16 Oct 2026 10:30:00 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
-        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-sq2_dezeen_2364_col_0.jpg",
         "impact": 4
       }
     ],
@@ -425,28 +425,6 @@
         "impact": 4
       },
       {
-        "title": "ICE’s Women in Fellowship programme scoops national award",
-        "summary": "The ICE Connects: Women in Fellowship programme has won Women’s Network of the Year at the 2026 Inspiring Women in Construction and Engineering Awards. The post ICE’s Women in Fellowship programme scoops national award appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 23 Oct 2026 14:32:56 +0000",
-        "source_url": "https://www.newcivilengineer.com/ice/ices-women-in-fellowship-programme-scoops-national-award-23-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/ICE-Connects-accepting-the-award-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Royal Engineers investigate low-resource concrete for crisis-zone construction",
-        "summary": "Soldiers from the Corps of Royal Engineers have investigated ways to produce concrete using recycled bricks, salt water and 3D printing for use in conflict zones, disaster areas and other environments with limited resources. The post Royal Engineers investigate low-resource concrete for crisis-zone construction appeare",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 23 Oct 2026 11:38:13 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/royal-engineers-investigate-low-resource-concrete-for-crisis-zone-construction-23-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/Screenshot-2026-10-23-122710-560x315.png",
-        "impact": 4
-      },
-      {
         "title": "Commercial groundbreakings plunged 18% in September",
         "summary": "Fewer starts in manufacturing and data centers caused total construction activity to slip month over month, according to Dodge Construction Network.",
         "category": "Construction",
@@ -456,63 +434,85 @@
         "source_url": "https://www.constructiondive.com/news/commercial-groundbreakings-plunged-september/833741/",
         "image_url": "https://imgproxy.divecdn.com/2WW1LhXtfNyFe--7w9OHmEIYlWgvQZ2jHbDIy1cf6TU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxMzQyNjM5LmpwZw==.webp",
         "impact": 3
+      },
+      {
+        "title": "AI reshapes construction teams more often than it cuts jobs: report",
+        "summary": "According to a BRG survey, artificial intelligence has not led to significant headcount reductions, though construction lagged other industries on policies for human oversight.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 21 Oct 2026 13:06:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/construction-ai-reshape-teams-replace-jobs/833612/",
+        "image_url": "https://imgproxy.divecdn.com/21omkgLhbj0rs2KGk7T4Xp-zfHtM9pSHrTsiiuZGVXU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4OTUzMzMxLmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "Construction must preserve trades knowledge to know when AI is wrong",
+        "summary": "Incorporating technology training into construction apprenticeship programs can maintain institutional wisdom while still making advancements, writes an exec and union carpenter.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 21 Oct 2026 13:05:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/preserve-trades-knowledge-when-ai-is-wrong/833505/",
+        "image_url": "https://imgproxy.divecdn.com/O7scnUmm9iA8XedcznnsMxJcDEj6QVvcsfCxRTsx36Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3ODUyODY5LmpwZw==.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Feedback That Backfires in Games: Do LLM Players Repeat the Move They Just Watched Fail?",
-        "summary": "arXiv:2610.30205v1 Announce Type: new Abstract: When an LLM agent's move fails, the harness writes the move and the failure message into the transcript and asks again. In tool calling, this record makes small models more likely to repeat the failed action. We test whether the same holds in games (Sokoban, Connect Four,",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.30205",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
+        "source_url": "https://openai.com/index/amp-beyond-coding",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4cxTIUhXa03TEYCnkIcMCu/29e6065058ed969022021186f994dad6/amp-beyond-coding-coiled-connection-seo-open-graph-1920x1080.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Route-and-Generate: KL-Regularized Router Improvement for Reasoning Routing in LLMs",
-        "summary": "arXiv:2610.30351v1 Announce Type: new Abstract: Large language models often apply complex reasoning indiscriminately, leading to overthinking on simple tasks and underthinking on harder ones. We present Route-and-Generate (Rouge), a hierarchical training framework that enables LLMs to adaptively decide when and how muc",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.30351",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "blog.google",
+        "journal": "blog.google",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+        "impact": 4
       },
       {
-        "title": "RoleFlow: Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation",
-        "summary": "arXiv:2610.30429v1 Announce Type: new Abstract: Large language model (LLM) based multi-agent systems often rely on predefined collaboration structures, limiting their adaptability to evolving task requirements. Although recent approaches enable dynamic orchestration, trajectory-level rewards they apply assign one outco",
+        "title": "The Foundations of Scalable AI",
+        "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.30429",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Thu, 22 Oct 2026 18:48:04 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Same Beliefs, Different Policies: Learning Reusable Representations for Early Stopping in LLM Reasoning",
-        "summary": "arXiv:2610.30450v1 Announce Type: new Abstract: Reasoning LLMs often continue reasoning after reaching a correct answer, wasting computation and sometimes replacing it with an incorrect one. Deciding when to stop is a metareasoning problem: the model must weigh what further reasoning could achieve against its cost, giv",
+        "title": "Securing our frontier model training environment",
+        "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.30450",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 23 Oct 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5Ho5AoUkijZ1OWhqcDlVvT/84af1aa075c5e8e44d9dc93d0146c31f/new-approach-to-research-model-containment-social.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "From Single-Actor Environments to Multi-Actor Event Worlds: Can LLMs Be Event World Models?",
-        "summary": "arXiv:2610.30488v1 Announce Type: new Abstract: World models help agents assess the consequences of their actions before acting. Many real systems, however, involve multiple actors who make their own decisions, can evolve even when the agent takes no action, and are only partially observed through event logs. We formal",
+        "title": "OpenAI models are coming to Google Cloud",
+        "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.30488",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 21 Oct 2026 12:00:00 GMT",
+        "source_url": "https://openai.com/index/openai-models-google-cloud",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
