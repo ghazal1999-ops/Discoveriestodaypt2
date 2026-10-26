@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-25",
-  "last_updated": "2026-10-25 00:46 UTC",
+  "date": "2026-10-26",
+  "last_updated": "2026-10-26 00:58 UTC",
   "categories": {
     "science": [
       {
@@ -83,6 +83,17 @@
         "impact": 4
       },
       {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 25 Oct 2026 16:57:32 +0000",
+        "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
         "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
         "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
         "category": "Tech",
@@ -102,17 +113,6 @@
         "published_at": "Fri, 23 Oct 2026 21:59:19 +0000",
         "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
-        "impact": 3
-      },
-      {
-        "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
-        "summary": "CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Fri, 23 Oct 2026 10:30:00 +0000",
-        "source_url": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
-        "image_url": "https://media.wired.com/photos/6ada7a9b8628ec861188a3e4/191:100/w_1280,c_limit/TDM%20Neo%20review%20102026%20top%20art%20(3)%20SOURCE%20TDM.jpg",
         "impact": 3
       }
     ],
@@ -243,7 +243,7 @@
         "impact": 4
       },
       {
-        "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+        "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence (video)",
         "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
         "category": "Space",
         "source": "space.com",
@@ -322,17 +322,6 @@
         "impact": 4
       },
       {
-        "title": "New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video)",
-        "summary": "'More human than human. That's not a slogan; it's a shackle'",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 19 Oct 2026 22:00:00 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/nSLAzxuy57KBrEsGG94Tgk-1920-80.jpg",
-        "impact": 4
-      },
-      {
         "title": "White Dwarfs Are Actually…Yellow, Green, Pink, and Purple?",
         "summary": "The universe hosts a myriad of star types, including supergiants, giants, main sequence, red dwarfs, brown dwarfs, white dwarfs, and neutron stars. What makes these stars stand out are just their sizes, but their colors, as each one hosts a distinct color based on their surface temperature, specifically orange, red, bl",
         "category": "Astronomy",
@@ -342,19 +331,30 @@
         "source_url": "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple",
         "image_url": "https://www.universetoday.com/article_images/Low-Res_Green_WD_V3_20261024_012308.jpg",
         "impact": 3
+      },
+      {
+        "title": "From Dusk, Towards Dawn: Venus Slides Past the Sun This Weekend",
+        "summary": "Where have all the planets gone? Late October 2026 sees a decided dearth of planets in the dusk sky, with only bashful Mercury receding from view, and Saturn fresh off of opposition. Venus, the former lucida of the evening sky is now lost from view, taking the plunge sunward. But this vanishing act allows for a dramati",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 22 Oct 2026 15:30:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend",
+        "image_url": "https://www.universetoday.com/article_images/44619460185_3c3ed1e20f_c_20261022_141854.jpg",
+        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "CHYBÍK + KRIŠTOF Turns Aedes Into a Live Architecture Studio to Develop Four Berlin Projects",
-        "summary": "CHYBÍK + KRIŠTOF has opened Building the Existing City, an exhibition at Aedes Architecture Forum in Berlin that transforms the gallery into a working architecture studio. Running from October 23 to December 3, 2026, the exhibition centres on four architectural and urban design proposals for sites or urban situations i",
+        "title": "Dunhua Tower / Oyler Wu Collaborative",
+        "summary": "Rising 17 stories above one of Taipei's principal promenades, Dunhua Tower redefines the residential high-rise typology through a sophisticated interplay of materiality, geometry, and sustainable design. The tower's distinctive L-shaped footprint creates two contrasting facades—one slender and elegantly proportioned, t",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 23 Oct 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1187409/chybik-plus-kristof-turns-aedes-into-a-live-architecture-studio-to-develop-four-berlin-projects",
-        "image_url": "https://images.adsttc.com/media/images/6adb/28b4/db5c/2001/882c/fd5b/large_jpg/chybik-plus-kristof-turns-aedes-into-a-live-architecture-studio-to-develop-four-berlin-projects_6.jpg?1792747794",
-        "impact": 5
+        "published_at": "Sun, 25 Oct 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187401/dunhua-tower-oyler-wu-collaborative",
+        "image_url": "https://images.adsttc.com/media/images/6ada/54a3/20d6/d818/84a5/69d7/large_jpg/dunhua-tower-oyler-wu-collaborative_2.jpg?1792693424",
+        "impact": 4
       },
       {
         "title": "Legombang Treehouse / Cave Urban",
@@ -390,14 +390,14 @@
         "impact": 4
       },
       {
-        "title": "Scaffolding as Interior Architecture: The Longevity of Temporary Structures",
-        "summary": "Scaffolding is perhaps one of architecture's most familiar temporary structures. It accompanies buildings through construction, maintenance, and renovation, only to disappear once its work is complete. Yet its apparent impermanence conceals a different kind of longevity. Scaffolding systems are designed to be assembled",
+        "title": "STG Design unveils upcoming “unconventional, sinuous” Houston skyscraper",
+        "summary": "Texas architecture studio STG Design has released renderings of O27, an office skyscraper covered with triangular panels that is planned for Houston’s River Oaks area. The 32-storey building will contain flexible office floors, as well as luxury amenities and a rooftop terrace on top of its nine-storey base. It will ha",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 23 Oct 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1187248/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures",
-        "image_url": "https://images.adsttc.com/media/images/6ad9/1864/20d6/d801/8852/0411/large_jpg/scaffolding-as-interior-architecture-the-longevity-of-temporary-structures_26.jpg?1792612464",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 20 Oct 2026 20:40:36 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/20/stg-design-unveils-upcoming-unconventional-sinuous-houston-skyscraper/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/o27-broadview-capital-skyscraper-stg-design_dezeen_2364_hero.jpg",
         "impact": 4
       }
     ],
@@ -425,6 +425,28 @@
         "impact": 4
       },
       {
+        "title": "ICE’s Women in Fellowship programme scoops national award",
+        "summary": "The ICE Connects: Women in Fellowship programme has won Women’s Network of the Year at the 2026 Inspiring Women in Construction and Engineering Awards. The post ICE’s Women in Fellowship programme scoops national award appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 23 Oct 2026 14:32:56 +0000",
+        "source_url": "https://www.newcivilengineer.com/ice/ices-women-in-fellowship-programme-scoops-national-award-23-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/ICE-Connects-accepting-the-award-560x315.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Royal Engineers investigate low-resource concrete for crisis-zone construction",
+        "summary": "Soldiers from the Corps of Royal Engineers have investigated ways to produce concrete using recycled bricks, salt water and 3D printing for use in conflict zones, disaster areas and other environments with limited resources. The post Royal Engineers investigate low-resource concrete for crisis-zone construction appeare",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 23 Oct 2026 11:38:13 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/royal-engineers-investigate-low-resource-concrete-for-crisis-zone-construction-23-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/Screenshot-2026-10-23-122710-560x315.png",
+        "impact": 4
+      },
+      {
         "title": "Commercial groundbreakings plunged 18% in September",
         "summary": "Fewer starts in manufacturing and data centers caused total construction activity to slip month over month, according to Dodge Construction Network.",
         "category": "Construction",
@@ -433,28 +455,6 @@
         "published_at": "Thu, 22 Oct 2026 12:41:00 -0400",
         "source_url": "https://www.constructiondive.com/news/commercial-groundbreakings-plunged-september/833741/",
         "image_url": "https://imgproxy.divecdn.com/2WW1LhXtfNyFe--7w9OHmEIYlWgvQZ2jHbDIy1cf6TU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxMzQyNjM5LmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "AI reshapes construction teams more often than it cuts jobs: report",
-        "summary": "According to a BRG survey, artificial intelligence has not led to significant headcount reductions, though construction lagged other industries on policies for human oversight.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 21 Oct 2026 13:06:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/construction-ai-reshape-teams-replace-jobs/833612/",
-        "image_url": "https://imgproxy.divecdn.com/21omkgLhbj0rs2KGk7T4Xp-zfHtM9pSHrTsiiuZGVXU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4OTUzMzMxLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Construction must preserve trades knowledge to know when AI is wrong",
-        "summary": "Incorporating technology training into construction apprenticeship programs can maintain institutional wisdom while still making advancements, writes an exec and union carpenter.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 21 Oct 2026 13:05:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/preserve-trades-knowledge-when-ai-is-wrong/833505/",
-        "image_url": "https://imgproxy.divecdn.com/O7scnUmm9iA8XedcznnsMxJcDEj6QVvcsfCxRTsx36Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3ODUyODY5LmpwZw==.webp",
         "impact": 3
       }
     ],
