@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-27",
-  "last_updated": "2026-10-27 01:49 UTC",
+  "date": "2026-10-28",
+  "last_updated": "2026-10-28 02:01 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+        "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way for more precise dia",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 26 Oct 2026 19:57:03 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-body-digestive-system-boost.webp",
+        "impact": 5
+      },
+      {
         "title": "Tiny magnetic vortices could help computers work more like your brain",
         "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technolog",
         "category": "Science",
@@ -46,20 +57,31 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
         "impact": 5
-      },
-      {
-        "title": "Too much RNA can starve cells of energy, scientists discover",
-        "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system. The discovery co",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 21 Oct 2026 09:02:34 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
-        "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+        "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antic",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-27T16:48:58-04:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
+      },
+      {
+        "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+        "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Tue, 27 Oct 2026 19:39:04 +0000",
+        "source_url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+        "image_url": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/191:100/w_1280,c_limit/102726-Anthropic%20Bio.jpg",
+        "impact": 4
+      },
       {
         "title": "The Foundations of Scalable AI",
         "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible",
@@ -72,51 +94,40 @@
         "impact": 4
       },
       {
-        "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-        "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+        "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Mon, 26 Oct 2026 18:50:41 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
+        "published_at": "Tue, 27 Oct 2026 22:37:30 +0000",
+        "source_url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-        "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+        "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+        "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 26 Oct 2026 17:45:00 +0000",
-        "source_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
-        "impact": 3
-      },
-      {
-        "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-        "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 26 Oct 2026 14:25:43 +0000",
-        "source_url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-9.44.29-AM.png?resize=1200,792",
-        "impact": 3
-      },
-      {
-        "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-        "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 26 Oct 2026 12:58:40 +0000",
-        "source_url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/tesla-fsd-GettyImages-2277686230.jpg?resize=1200,800",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 27 Oct 2026 18:49:08 +0000",
+        "source_url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+        "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way for more precise dia",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 26 Oct 2026 19:57:03 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-body-digestive-system-boost.webp",
+        "impact": 5
+      },
       {
         "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
         "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for othe",
@@ -129,47 +140,36 @@
         "impact": 5
       },
       {
-        "title": "Patients given apalutamide and hormone therapy around surgery may cut their risk of metastasis or death",
-        "summary": "An international phase 3 clinical trial that treated patients with high-risk localized and locally advanced prostate cancer with apalutamide—a next-generation neoadjuvant androgen-receptor pathway inhibitor (ARPI)—plus hormone therapy before and after prostate cancer surgery was further validated by a substudy demonstr",
+        "title": "Guideline on shorter-course radiation therapy for localized prostate cancer updated",
+        "summary": "An updated clinical guideline from the American Society for Radiation Oncology (ASTRO) provides evidence-based recommendations on the use of hypofractionated radiation therapy for patients with localized prostate cancer. The guideline replaces ASTRO's 2018 recommendations and reflects a matured evidence base showing th",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 26 Oct 2026 17:00:06 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-patients-apalutamide-hormone-therapy-surgery.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/perioperative-apalutam.jpg",
+        "published_at": "Tue, 27 Oct 2026 17:40:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-guideline-shorter-therapy-localized-prostate.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-3.jpg",
         "impact": 4
       },
       {
-        "title": "New targeted therapy improved survival for patients with KRAS-mutated lung cancer",
-        "summary": "Patients with previously treated advanced KRAS G12C-mutant non-small cell lung cancer (NSCLC) lived significantly longer and saw improved disease control when treated with the next-generation KRAS-targeted therapy divarasib, according to researchers from The University of Texas MD Anderson Cancer Center.",
+        "title": "Common drugs may help dangerous viruses spread through the body",
+        "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and othe",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 26 Oct 2026 16:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-therapy-survival-patients-kras-mutated.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/lung-2.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 27 Oct 2026 06:46:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
         "impact": 4
       },
       {
-        "title": "Previously unrecognized immune cells may drive harmful blood vessel growth in blinding eye diseases",
-        "summary": "A Northwestern Medicine study has identified a previously unrecognized population of immune cells that appears to fuel harmful blood vessel growth in multiple blinding eye diseases, according to the study published in the Journal of Clinical Investigation. The discovery could open the door to new treatments for patient",
+        "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
+        "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-relate",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 26 Oct 2026 14:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-previously-unrecognized-immune-cells-blood.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-how-immu.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Biomarkers identified for cytokine release syndrome risk after CAR T-cell therapy",
-        "summary": "For patients with autoimmune disease, higher baseline B-cell counts and systemic inflammation are associated with development of cytokine release syndrome (CRS) after chimeric antigen receptor (CAR) T-cell therapy, according to a study published in the November issue of The Lancet Rheumatology.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 26 Oct 2026 14:20:19 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-biomarkers-cytokine-syndrome-car-cell.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/biomarker-research.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 21 Oct 2026 07:03:52 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/embryonic-stem-cells-cellular-therapy-regeneration.webp",
         "impact": 4
       }
     ],
@@ -232,6 +232,39 @@
     ],
     "space": [
       {
+        "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
+        "summary": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 27 Oct 2026 11:04:19 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/u2GBTVG4W2akErAzmYLbSg-1920-80.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+        "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 27 Oct 2026 19:27:22 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
+        "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 27 Oct 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/HSHB7NyZsy82FurftpXRnc-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "NASA ends Swift space telescope mission after failed rescue attempt",
         "summary": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
         "category": "Space",
@@ -252,39 +285,6 @@
         "source_url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/yZxSJ4zbEYk5Q8FVpPXRPd-1920-80.png",
         "impact": 4
-      },
-      {
-        "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence (video)",
-        "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 23 Oct 2026 10:57:51 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/L6jMi8Cb66ZnEJVs8Mimc9-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1",
-        "summary": "1, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 21 Oct 2026 21:41:37 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/XYSXm8VMcSGEYE32UYqTAA-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-        "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that f",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Mon, 26 Oct 2026 22:48:12 +0000",
-        "source_url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
       }
     ],
     "astronomy": [
@@ -297,6 +297,28 @@
         "published_at": "Mon, 26 Oct 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/NbPaKaNC8LLVJ4MnmneTRT-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Dead Planets Orbiting a Dead Star",
+        "summary": "When a star like our Sun reaches its end, it becomes a kind of zombie star called a white dwarf. These bodies have left fusion behind and will radiate only remnant heat for a long, long time. Before they become white dwarfs, they expand, engulf, and destroy any nearby planets. Astronomers have spotted a debris disk aro",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 27 Oct 2026 22:04:16 +0000",
+        "source_url": "https://www.universetoday.com/articles/dead-planets-orbiting-a-dead-star",
+        "image_url": "https://www.universetoday.com/article_images/eso2613a_20261027_185205.jpg",
+        "impact": 4
+      },
+      {
+        "title": "This Oddbal Reflective Lava World is Challenging to Understand",
+        "summary": "Exoplanets extremely close to their stars are expected to have lost their atmospheres. But one of them, TOI-561 b, seems to have a thick atmosphere. Understanding how this super-Earth has an atmosphere is challenging.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 27 Oct 2026 16:02:28 +0000",
+        "source_url": "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand",
+        "image_url": "https://www.universetoday.com/article_images/lisadang-suncloudsv1-web.x78a95895_20261027_133719.jpg",
         "impact": 4
       },
       {
@@ -320,40 +342,40 @@
         "source_url": "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
         "image_url": "https://www.universetoday.com/article_images/figure1_wasp-17b_shape-of-the-atmosphere_20261023_104933.png",
         "impact": 4
-      },
-      {
-        "title": "Asymmetric space waves map pressure on Earth's magnetic shield",
-        "summary": "The Earth’s magnetic field is responsible for shielding us from harmful space weather, including solar radiation from the Sun but also cosmic rays originating from outside our solar system. Cosmic rays can include deep space supernovas, so the magnetic field takes the majority of the brunt from solar radiation. Without",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 27 Oct 2026 01:19:08 +0000",
-        "source_url": "https://www.universetoday.com/articles/asymmetric-space-waves-map-pressure-on-earths-magnetic-shield",
-        "image_url": "https://www.universetoday.com/article_images/Low-Res_waves_LauriHolappa_1920x1080_20261027_011433.jpg",
-        "impact": 3
-      },
-      {
-        "title": "A Merger Solves a Puzzling Paradox in Orion",
-        "summary": "Some of the Hubble Space Telescope's earliest observations were of the Orion Nebula. Those images showed proplyds, and subsequent observations uncovered a paradox centered on them. Given their rate of mass loss, those disks should have been destroyed long ago. Why weren't they?",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 26 Oct 2026 16:18:35 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-merger-solves-a-puzzling-paradox-in-orion",
-        "image_url": "https://www.universetoday.com/article_images/d1180x428_20261025_202154.jpg",
-        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "Dunhua Tower / Oyler Wu Collaborative",
-        "summary": "Rising 17 stories above one of Taipei's principal promenades, Dunhua Tower redefines the residential high-rise typology through a sophisticated interplay of materiality, geometry, and sustainable design. The tower's distinctive L-shaped footprint creates two contrasting facades—one slender and elegantly proportioned, t",
+        "title": "Grande Nef de l'Île-des-Vannes Renovation / Chatillon Architectes",
+        "summary": "Following seven years of closure, Chatillon Architectes implements contemporary solutions and state-of-the-art facilities, bringing this distinctive building back to life, first as an Olympic training site and then for its subsequent return to the local community. The first images of the restored Grande Nef de l'Île-d",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 25 Oct 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187401/dunhua-tower-oyler-wu-collaborative",
-        "image_url": "https://images.adsttc.com/media/images/6ada/54a3/20d6/d818/84a5/69d7/large_jpg/dunhua-tower-oyler-wu-collaborative_2.jpg?1792693424",
+        "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
+        "image_url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770",
+        "impact": 4
+      },
+      {
+        "title": "Büro Ziyu Zhuang designs Chinese museum cluster to \"blend seamlessly\" into meadow",
+        "summary": "Chinese architecture studio Büro Ziyu Zhuang embedded four cultural buildings, including a viewing tower and a rammed-earth workshop, into parkland in Xianning, China, to create the Zi Museum. The post Büro Ziyu Zhuang designs Chinese museum cluster to &quot;blend seamlessly&quot; into meadow appeared first on Dezeen.",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 27 Oct 2026 11:30:00 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/27/buro-ziyu-zhuang-zi-museum-cluster-xianning/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/zi-museum-Buro-Ziyu-Zhuang_dezeen_2364_col_sq5.jpg",
+        "impact": 4
+      },
+      {
+        "title": "OHLAB experiments with colour-blocking and cork in old and new buildings of Terreno Barrio Hotel in Mallorca",
+        "summary": "Mallorca-based architecture and interiors studio OHLAB has overseen the design of a hotel in Palma, including a renovated heritage building from 1935 and a new structure built from cross-laminated timber and cork. The 41-room Terreno Barrio Hotel was envisioned as \"a catalyst for the neighbourhood\" of El Terreno, in th",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Tue, 27 Oct 2026 09:30:00 +0000",
+        "source_url": "https://www.dezeen.com/2026/10/27/ohlab-experiments-with-colour-blocking-and-cork-in-old-and-new-buildings-of-terreno-barrio-hotel-in-mallorca/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/terreno-barrio-hotel-ohlab_dezeen_2364_sq_1.jpg",
         "impact": 4
       },
       {
@@ -376,28 +398,6 @@
         "published_at": "Fri, 16 Oct 2026 10:30:00 +0000",
         "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-sq2_dezeen_2364_col_0.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Factory in Bangladesh that \"redefines manufacturing architecture\" wins RIBA International Prize",
-        "summary": "A rug factory in Rangpur, Bangladesh, designed by Dhaka-based studio Nakshabid Architects to dismantle workplace hierarchies, has won the RIBA International Prize for 2026. Named Green Field Factory, the project is the fifth winner of the biennial award, presented&#160;by the Royal Institute of British Architects (RIBA",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 16 Oct 2026 10:00:00 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
-        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/green-field-factory-nakshabid-architects-riba-international-prize_dezeen_2364_hero_1.jpg",
-        "impact": 4
-      },
-      {
-        "title": "stefano boeri transforms former locomotive factory into green neighborhood in tbilisi",
-        "summary": "the winning loco park masterplan reimagines a 73,600-square-meter industrial site in tbilisi, georgia, with nine residential buildings, public parks, and pedestrian routes. The post stefano boeri transforms former locomotive factory into green neighborhood in tbilisi appeared first on designboom | architecture &amp; de",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Mon, 26 Oct 2026 07:55:37 +0000",
-        "source_url": "https://www.designboom.com/architecture/stefano-boeri-architetti-loco-park-green-neighborhood-tbilisi/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/10/1200-x-628.jpg",
         "impact": 4
       }
     ],
@@ -425,26 +425,26 @@
         "impact": 4
       },
       {
-        "title": "World’s longest and highest sea railway bridge project in China completes major milestone",
-        "summary": "A high-speed railway structure in China is set to become the world's longest and tallest sea-crossing railway bridge as it reached a major construction milestone this week when it closed its Northern Navigation Channel Bridge. The post World’s longest and highest sea railway bridge project in China completes major mile",
+        "title": "JE Dunn tapped for $480M Minneapolis airport upgrade",
+        "summary": "The Metropolitan Airports Commission selected the Kansas City-based GC to serve as construction manager at risk for a modernization and expansion project at Minneapolis-Saint Paul International Airport.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Mon, 26 Oct 2026 06:30:47 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/worlds-longest-and-highest-sea-railway-bridge-project-in-china-completes-major-milestone-26-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/Screenshot-2026-10-23-153623-560x315.png",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 27 Oct 2026 16:13:48 -0400",
+        "source_url": "https://www.constructiondive.com/news/je-dunn-minneapolis-airport-upgrade/872957/",
+        "image_url": "https://imgproxy.divecdn.com/oLAbUXreBBZZJ1zqPovT3qQeDJ2RvrYXDD6KiKqgpG4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ3OTYzNjkwLmpwZw==.webp",
+        "impact": 3
       },
       {
-        "title": "ICE’s Women in Fellowship programme scoops national award",
-        "summary": "The ICE Connects: Women in Fellowship programme has won Women’s Network of the Year at the 2026 Inspiring Women in Construction and Engineering Awards. The post ICE’s Women in Fellowship programme scoops national award appeared first on New Civil Engineer.",
+        "title": "Suffolk sees hospital construction crunch ahead of California’s earthquake rule",
+        "summary": "Two Suffolk executives say the state&rsquo;s 2030 seismic deadline presents multiple challenges on hospital builds, including strained equipment lead times and pricing.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 23 Oct 2026 14:32:56 +0000",
-        "source_url": "https://www.newcivilengineer.com/ice/ices-women-in-fellowship-programme-scoops-national-award-23-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/ICE-Connects-accepting-the-award-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 27 Oct 2026 10:57:01 -0400",
+        "source_url": "https://www.constructiondive.com/news/suffolk-hospital-construction-crunch-california-earthquake/872854/",
+        "image_url": "https://imgproxy.divecdn.com/FXdZ-TiTCEuPY1a2U01smQxUkuh2PIUxERq-TNqwIMU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VQ0xBLU1QLTIwMC0yLmpwZw==.webp",
+        "impact": 3
       },
       {
         "title": "Megaprojects in the face of moratoriums: The latest in data center construction news",
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.32026",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.31882",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.31918",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.31971",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.31985",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
