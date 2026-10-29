@@ -1,8 +1,19 @@
 {
-  "date": "2026-10-28",
-  "last_updated": "2026-10-28 02:01 UTC",
+  "date": "2026-10-29",
+  "last_updated": "2026-10-29 02:05 UTC",
   "categories": {
     "science": [
+      {
+        "title": "The autistic brain processes faces differently than scientists thought",
+        "summary": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but show much less change i",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 27 Oct 2026 23:02:38 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/confused-girl-with-stickers-on-face.webp",
+        "impact": 5
+      },
       {
         "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
         "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approach to weight-loss tr",
@@ -12,17 +23,6 @@
         "published_at": "Sat, 24 Oct 2026 07:16:08 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
-        "impact": 5
-      },
-      {
-        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that cou",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 23 Oct 2026 20:48:21 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp",
         "impact": 5
       },
       {
@@ -61,17 +61,6 @@
     ],
     "tech": [
       {
-        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-        "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antic",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-27T16:48:58-04:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 4
-      },
-      {
         "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
         "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
         "category": "Tech",
@@ -80,17 +69,6 @@
         "published_at": "Tue, 27 Oct 2026 19:39:04 +0000",
         "source_url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
         "image_url": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/191:100/w_1280,c_limit/102726-Anthropic%20Bio.jpg",
-        "impact": 4
-      },
-      {
-        "title": "The Foundations of Scalable AI",
-        "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 22 Oct 2026 18:48:04 +0000",
-        "source_url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
         "impact": 4
       },
       {
@@ -105,14 +83,36 @@
         "impact": 3
       },
       {
-        "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-        "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+        "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+        "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 27 Oct 2026 18:49:08 +0000",
-        "source_url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 28 Oct 2026 14:34:25 +0000",
+        "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676",
+        "impact": 3
+      },
+      {
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-28T17:34:04-04:00",
+        "source_url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
+        "impact": 3
+      },
+      {
+        "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+        "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up [&#8230",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-28T16:20:00-04:00",
+        "source_url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
@@ -140,17 +140,6 @@
         "impact": 5
       },
       {
-        "title": "Guideline on shorter-course radiation therapy for localized prostate cancer updated",
-        "summary": "An updated clinical guideline from the American Society for Radiation Oncology (ASTRO) provides evidence-based recommendations on the use of hypofractionated radiation therapy for patients with localized prostate cancer. The guideline replaces ASTRO's 2018 recommendations and reflects a matured evidence base showing th",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 27 Oct 2026 17:40:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-guideline-shorter-therapy-localized-prostate.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-3.jpg",
-        "impact": 4
-      },
-      {
         "title": "Common drugs may help dangerous viruses spread through the body",
         "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and othe",
         "category": "Medicine",
@@ -162,14 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-        "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-relate",
+        "title": "Can an AI chatbot help women recognize heart disease?",
+        "summary": "HeartBot, created by a team of UC researchers, regularly answers questions from women seeking information on heart disease. The project was led by Yoshimi Fukuoka, Ph.D., RN, FAAN, a nurse scientist and professor at UC San Francisco's School of Nursing. The goal was to study whether having a heart-health chatbot on the",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 21 Oct 2026 07:03:52 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/embryonic-stem-cells-cellular-therapy-regeneration.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 28 Oct 2026 22:00:05 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-ai-chatbot-women-heart-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-an-ai-chatbot-help.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Video decision aid increases advance care planning in seniors with chronic kidney disease",
+        "summary": "Among older adults with advanced chronic kidney disease (CKD), a video decision aid increases advance care planning (ACP) documentation in the electronic health record, according to a study published in JAMA Internal Medicine to coincide with Kidney Week, the annual meeting of the American Society of Nephrology, held f",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 28 Oct 2026 20:00:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-video-decision-aid-advance-seniors.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/asn-video-decision-aid.jpg",
         "impact": 4
       }
     ],
@@ -250,7 +250,7 @@
         "journal": "nasa.gov",
         "published_at": "Tue, 27 Oct 2026 19:27:22 +0000",
         "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2cropped.jpg",
         "impact": 4
       },
       {
@@ -276,14 +276,14 @@
         "impact": 4
       },
       {
-        "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
-        "summary": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
+        "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+        "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind ",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 23 Oct 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/yZxSJ4zbEYk5Q8FVpPXRPd-1920-80.png",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 28 Oct 2026 18:59:44 +0000",
+        "source_url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+        "image_url": "https://images-assets.nasa.gov/image/KSC-20261026-PH-FMX01_0018/KSC-20261026-PH-FMX01_0018~large.jpg",
         "impact": 4
       }
     ],
@@ -297,6 +297,28 @@
         "published_at": "Mon, 26 Oct 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/NbPaKaNC8LLVJ4MnmneTRT-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
+        "summary": "The Vera Rubin Observatory found a distant Solar System object before its decade-long Legacy Survey of Space and Time even got started. The object is a dwarf planet candidate named 2026 ED138, and if confirmed, it will be one of the largest dwarf planets beyond Neptune. It may be up to 1500 km in diameter.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 28 Oct 2026 15:34:33 +0000",
+        "source_url": "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate",
+        "image_url": "https://www.universetoday.com/article_images/noirlab2626a_20261028_121609.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA Systems Engineering Team Details HWO Mission Architecture",
+        "summary": "Finding an Earth-like world beyond the solar system is the Holy Grail of exoplanet research, and the field has experienced incredible technological advancements in searching for and identifying exoplanets since the first exoplanet was discovered in 1995. This includes both ground- and space-based telescopes, specifical",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 28 Oct 2026 03:11:32 +0000",
+        "source_url": "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture",
+        "image_url": "https://www.universetoday.com/article_images/JATIS_12_4_041017_f001.png_750_20261028_030246.png",
         "impact": 4
       },
       {
@@ -320,40 +342,29 @@
         "source_url": "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand",
         "image_url": "https://www.universetoday.com/article_images/lisadang-suncloudsv1-web.x78a95895_20261027_133719.jpg",
         "impact": 4
-      },
-      {
-        "title": "27 Exoplanet Targets for the World's First Private Space Telescope",
-        "summary": "Get ready for the age of private space telescopes. The Lazuli Space Telescope will launch in a few years and part of its mission is to observe exoplanets. New research presents a list of 27 exoplanet targets, some of which are very well-known and will certainly benefit from deeper observations.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 23 Oct 2026 22:33:37 +0000",
-        "source_url": "https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope",
-        "image_url": "https://www.universetoday.com/article_images/gasgiant-7_20261023_204718.jpg",
-        "impact": 4
-      },
-      {
-        "title": "JWST Reveals a Lopsided Alien World with Blistering Evening Winds",
-        "summary": "Typically, when we think of exoplanets, we think of neat spheres floating directly in front of their star, which acts as a giant spotlight. From our vantage point, they would look more like two perfect two dimensional circles than spheres, though. But nature is almost never so clean-cut. A new paper published in Nature",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Fri, 23 Oct 2026 10:54:33 +0000",
-        "source_url": "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
-        "image_url": "https://www.universetoday.com/article_images/figure1_wasp-17b_shape-of-the-atmosphere_20261023_104933.png",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Grande Nef de l'Île-des-Vannes Renovation / Chatillon Architectes",
-        "summary": "Following seven years of closure, Chatillon Architectes implements contemporary solutions and state-of-the-art facilities, bringing this distinctive building back to life, first as an Olympic training site and then for its subsequent return to the local community. The first images of the restored Grande Nef de l'Île-d",
+        "title": "AD—WO to Renovate the Heinz Architectural Center at Pittsburgh’s Carnegie Museum of Art",
+        "summary": "Pittsburgh's Carnegie Museum of Art has commissioned architecture and urban design practice AD—WO to reimagine the Heinz Architectural Center. The practice, led by Emanuel Admassu and Jen Wood and one of the winners of the ArchDaily 2026 Next Practices Awards, was recognized for exploring relationships among people, pl",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
-        "image_url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770",
+        "published_at": "Wed, 28 Oct 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
+        "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
+        "impact": 5
+      },
+      {
+        "title": "Dust Egypt's Forgotten Architecture, Revised and Expanded Edition",
+        "summary": "Between 1860 and 1940, Cairo and other large cities in Egypt witnessed a major construction boom that gave birth to extraordinary palaces and lavish buildings. These incorporated a mix of architectural styles, such as Beaux-Arts and Art Deco, with local design influences and materials. Today, many lie empty and neglect",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 28 Oct 2026 09:15:00 +0000",
+        "source_url": "https://www.archdaily.com/1187662/dust-egypts-forgotten-architecture-revised-and-expanded-edition",
+        "image_url": "https://images.adsttc.com/media/images/6ae1/cba7/3271/8400/01d0/f4f8/large_jpg/cover.jpg?1793182671",
         "impact": 4
       },
       {
@@ -388,17 +399,6 @@
         "source_url": "https://www.dezeen.com/2026/10/20/stg-design-unveils-upcoming-unconventional-sinuous-houston-skyscraper/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/10/o27-broadview-capital-skyscraper-stg-design_dezeen_2364_hero.jpg",
         "impact": 4
-      },
-      {
-        "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
-        "summary": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. Perched on a 4,330-square-metre site, the single-storey building was designed to provide learning space for a local education c",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Fri, 16 Oct 2026 10:30:00 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
-        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-sq2_dezeen_2364_col_0.jpg",
-        "impact": 4
       }
     ],
     "construction": [
@@ -421,12 +421,23 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/10/15/Aon_ENR_CBC_PH_Article2_Image_GettyImages-2282607313.webp?crop=true&height=257&t=1792083365&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/10/22/SW-ENR-CBC-PH-Article1-Image.webp?crop=true&height=257&t=1792676193&width=420",
         "impact": 4
       },
       {
+        "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+        "summary": "The new manufacturing and engineering center will expand the company's U.S. production capacity for advanced thermal management systems,&nbsp;Carrier said.&nbsp;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 28 Oct 2026 09:40:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+        "image_url": "https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp",
+        "impact": 3
+      },
+      {
         "title": "JE Dunn tapped for $480M Minneapolis airport upgrade",
-        "summary": "The Metropolitan Airports Commission selected the Kansas City-based GC to serve as construction manager at risk for a modernization and expansion project at Minneapolis-Saint Paul International Airport.",
+        "summary": "The Metropolitan Airports Commission selected the general contractor to serve as construction manager at risk for an expansion project at Minneapolis-Saint Paul International Airport.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -445,72 +456,61 @@
         "source_url": "https://www.constructiondive.com/news/suffolk-hospital-construction-crunch-california-earthquake/872854/",
         "image_url": "https://imgproxy.divecdn.com/FXdZ-TiTCEuPY1a2U01smQxUkuh2PIUxERq-TNqwIMU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VQ0xBLU1QLTIwMC0yLmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "Megaprojects in the face of moratoriums: The latest in data center construction news",
-        "summary": "With evolving design considerations and state restrictions, hyperscalers continue to pursue multibillion-dollar data center builds, keeping them front and center on builders&rsquo; radar.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 26 Oct 2026 15:41:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/data-center-construction-spending-backlash-pile-up/872768/",
-        "image_url": "https://imgproxy.divecdn.com/9r2C_Xux5opH7LwH4mCs-MuueCmjn0CSC_hnF6qDJKg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMTgyMTgxLmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
-        "summary": "arXiv:2610.32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experience across runs. We i",
+        "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+        "summary": "arXiv:2610.36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository development and maintenance. However, repository-specific skills must evolve with changing code structures, imple",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.32026",
+        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.36188",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-        "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadenc",
+        "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+        "summary": "arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model that replicates the d",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.31882",
+        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.36298",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-        "summary": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinction is inherently hi",
+        "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+        "summary": "arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and inconsistent reasoning. Large Language Models (LLMs) have recently shown promis",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.31918",
+        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.36325",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-        "summary": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge throu",
+        "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
+        "summary": "arXiv:2610.36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answers must be grounded in established knowledge. Retrieval-augmented generation (RAG",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.31971",
+        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.36335",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-        "summary": "arXiv:2610.31985v1 Announce Type: new Abstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply t",
+        "title": "WAKMan: Workload Aware KVCache Manager",
+        "summary": "arXiv:2610.36355v1 Announce Type: new Abstract: Prefix caching enables a Large Language Model (LLM) servers to reuse the Key-Value (KV) states and accelerate prefill computation stage for requests that share a prefix with earlier prompts, thus reducing latency and serving cost. With limited memory resource, the KV cach",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.31985",
+        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.36355",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
