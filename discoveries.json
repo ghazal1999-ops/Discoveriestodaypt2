@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-29",
-  "last_updated": "2026-10-29 02:05 UTC",
+  "date": "2026-10-30",
+  "last_updated": "2026-10-30 02:23 UTC",
   "categories": {
     "science": [
       {
@@ -15,14 +15,14 @@
         "impact": 5
       },
       {
-        "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
-        "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approach to weight-loss tr",
+        "title": "Scientists just broke a textbook rule of physics",
+        "summary": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sat, 24 Oct 2026 07:16:08 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+        "published_at": "Wed, 28 Oct 2026 23:39:27 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/physics-discovery-breaking-textbook-rule.webp",
         "impact": 5
       },
       {
@@ -48,75 +48,86 @@
         "impact": 5
       },
       {
-        "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
-        "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for othe",
+        "title": "Scientists Discover a Hidden Weakness in Cancer Cells That Could Transform Treatment",
+        "summary": "A new study reveals a previously overlooked weakness in certain cancer cells that could help researchers refine targeted treatments and reduce harmful side effects. Cancer cells that have lost one safeguard against DNA damage can become dependent on another, an enzyme called Wee1. Drugs that block Wee1 aim to exploit t",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 23 Oct 2026 07:02:25 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Wed, 28 Oct 2026 15:14:30 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-a-hidden-weakness-in-cancer-cells-that-could-transform-treatment/",
+        "image_url": "https://scitechdaily.com/images/Ultrasound-Cancer-Treatment-Target-777x518.jpg",
         "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-        "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+        "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+        "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
         "category": "Tech",
         "source": "wired.com",
         "journal": "wired.com",
-        "published_at": "Tue, 27 Oct 2026 19:39:04 +0000",
-        "source_url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-        "image_url": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/191:100/w_1280,c_limit/102726-Anthropic%20Bio.jpg",
+        "published_at": "Thu, 29 Oct 2026 10:45:00 +0000",
+        "source_url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+        "image_url": "https://media.wired.com/photos/6ae293587359ba945850d8f8/191:100/w_1280,c_limit/science_math_ai_breakthrough_research.jpg",
         "impact": 4
       },
       {
-        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-        "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+        "title": "Trump declares robot imports a national security threat",
+        "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Tue, 27 Oct 2026 22:37:30 +0000",
-        "source_url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
+        "published_at": "Thu, 29 Oct 2026 19:07:53 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-        "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+        "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+        "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 28 Oct 2026 14:34:25 +0000",
-        "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676",
+        "published_at": "Thu, 29 Oct 2026 16:42:32 +0000",
+        "source_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
         "impact": 3
       },
       {
-        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-        "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will",
+        "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+        "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-op",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-10-28T17:34:04-04:00",
-        "source_url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
+        "published_at": "2026-10-29T19:42:21-04:00",
+        "source_url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       },
       {
-        "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-        "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up [&#8230",
+        "title": "Apple’s new laptop supports one of the coolest features for color pros",
+        "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it use",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-10-28T16:20:00-04:00",
-        "source_url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "2026-10-29T13:48:09-04:00",
+        "source_url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "How psychedelics could deliver antidepressant benefits without hallucinogenic effects",
+        "summary": "Could psychedelics become a new generation of treatments for depression and other psychiatric disorders? This question is no longer confined to basic research. Several therapies based on classical psychedelics have advanced into late-stage clinical development and have reported encouraging results. DT120, an LSD-based ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 29 Oct 2026 18:00:10 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-psychedelics-antidepressant-benefits-hallucinogenic-effects.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/hallucinate.jpg",
+        "impact": 5
+      },
       {
         "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
         "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way for more precise dia",
@@ -140,36 +151,25 @@
         "impact": 5
       },
       {
-        "title": "Common drugs may help dangerous viruses spread through the body",
-        "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and othe",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 27 Oct 2026 06:46:21 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
-        "impact": 4
-      },
-      {
-        "title": "Can an AI chatbot help women recognize heart disease?",
-        "summary": "HeartBot, created by a team of UC researchers, regularly answers questions from women seeking information on heart disease. The project was led by Yoshimi Fukuoka, Ph.D., RN, FAAN, a nurse scientist and professor at UC San Francisco's School of Nursing. The goal was to study whether having a heart-health chatbot on the",
+        "title": "ASN: Low protein intake linked to kidney failure risk in Asian patients with CKD",
+        "summary": "Among patients with non-dialysis-dependent chronic kidney disease (CKD), low protein intake is associated with an increased risk for kidney failure requiring replacement therapy (KFRT) and all-cause mortality, according to a study published online Oct. 22 in JAMA Network Open to coincide with Kidney Week, the annual me",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 28 Oct 2026 22:00:05 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-ai-chatbot-women-heart-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-an-ai-chatbot-help.jpg",
+        "published_at": "Thu, 29 Oct 2026 17:00:13 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-asn-protein-intake-linked-kidney.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/kidney-1.jpg",
         "impact": 4
       },
       {
-        "title": "Video decision aid increases advance care planning in seniors with chronic kidney disease",
-        "summary": "Among older adults with advanced chronic kidney disease (CKD), a video decision aid increases advance care planning (ACP) documentation in the electronic health record, according to a study published in JAMA Internal Medicine to coincide with Kidney Week, the annual meeting of the American Society of Nephrology, held f",
+        "title": "Tumor mutations and immune activity may reveal who benefits from investigational lymphoma drug",
+        "summary": "Researchers at the University of Tsukuba conducted a physician-initiated phase 2 clinical trial of dasatinib in patients with relapsed or refractory T-follicular helper cell lymphoma (TFHL), an aggressive and difficult-to-treat blood cancer. The study identified genetic alterations and features of the immune microenvir",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 28 Oct 2026 20:00:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-video-decision-aid-advance-seniors.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/asn-video-decision-aid.jpg",
+        "published_at": "Thu, 29 Oct 2026 16:40:12 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-tumor-mutations-immune-reveal-benefits.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/predictive-biomarkers.jpg",
         "impact": 4
       }
     ],
@@ -243,14 +243,14 @@
         "impact": 5
       },
       {
-        "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-        "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods ",
+        "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
+        "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 27 Oct 2026 19:27:22 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2cropped.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 29 Oct 2026 18:55:22 +0000",
+        "source_url": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/54fSmWhNnaSojscHCvLYrh-1920-80.jpg",
         "impact": 4
       },
       {
@@ -276,27 +276,27 @@
         "impact": 4
       },
       {
-        "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-        "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind ",
+        "title": "Halloween Aboard the International Space Station",
+        "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative cost",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 28 Oct 2026 18:59:44 +0000",
-        "source_url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-        "image_url": "https://images-assets.nasa.gov/image/KSC-20261026-PH-FMX01_0018/KSC-20261026-PH-FMX01_0018~large.jpg",
+        "published_at": "Thu, 29 Oct 2026 21:44:23 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/iss057e057509.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
       {
-        "title": "Glowing 'cauldron' of new stars | Space photo of the day for Oct. 26, 2026",
-        "summary": "The James Webb Space Telescope captured a spectacular star-forming region glowing 161,000 light-years from Earth in a satellite galaxy of the Milky Way.",
+        "title": "It's a Ghost! No, It's a Stellar Crèche!",
+        "summary": "Astronomers using the Chandra X-ray Observatory (CXO), the James Webb Space Telescope (JWST) zeroed in on a wispy-looking region of the Carina Nebula and found a ghostly looking cloud seemingly floating in isolation among the other clouds of gas and dust. Just in time for Hallowe'en, although, it turns out that little ",
         "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 26 Oct 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/NbPaKaNC8LLVJ4MnmneTRT-1920-80.jpg",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 29 Oct 2026 23:25:37 +0000",
+        "source_url": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
+        "image_url": "https://www.universetoday.com/article_images/reaper_20261029_231145.jpg",
         "impact": 4
       },
       {
@@ -346,25 +346,14 @@
     ],
     "architecture": [
       {
-        "title": "AD—WO to Renovate the Heinz Architectural Center at Pittsburgh’s Carnegie Museum of Art",
-        "summary": "Pittsburgh's Carnegie Museum of Art has commissioned architecture and urban design practice AD—WO to reimagine the Heinz Architectural Center. The practice, led by Emanuel Admassu and Jen Wood and one of the winners of the ArchDaily 2026 Next Practices Awards, was recognized for exploring relationships among people, pl",
+        "title": "Constructed Fictions: Inside the Work of Balsa Crosetto Piazzi",
+        "summary": "Balsa Crosetto Piazzi is an architecture practice founded in 2015, based in Córdoba, Argentina, and Boston, USA. Led by architects Juan Manuel Balsa, Rocío Crosetto Brizzio, and Leandro Piazzi, the core of their work is the material side of architecture. For them, a building is not just a finished object, but rather a ",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 28 Oct 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1187645/ad-wo-to-renovate-the-heinz-architectural-center-at-pittsburghs-carnegie-museum-of-art",
-        "image_url": "https://images.adsttc.com/media/images/6ae1/57bb/db5c/2001/882d/0d18/large_jpg/heinz-architectural-center_3.jpg?1793152992",
-        "impact": 5
-      },
-      {
-        "title": "Dust Egypt's Forgotten Architecture, Revised and Expanded Edition",
-        "summary": "Between 1860 and 1940, Cairo and other large cities in Egypt witnessed a major construction boom that gave birth to extraordinary palaces and lavish buildings. These incorporated a mix of architectural styles, such as Beaux-Arts and Art Deco, with local design influences and materials. Today, many lie empty and neglect",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 28 Oct 2026 09:15:00 +0000",
-        "source_url": "https://www.archdaily.com/1187662/dust-egypts-forgotten-architecture-revised-and-expanded-edition",
-        "image_url": "https://images.adsttc.com/media/images/6ae1/cba7/3271/8400/01d0/f4f8/large_jpg/cover.jpg?1793182671",
+        "published_at": "Thu, 29 Oct 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187467/constructed-fictions-inside-the-work-of-balsa-crosetto-piazzi",
+        "image_url": "https://images.adsttc.com/media/images/6ae2/4762/20d6/d801/8852/1d8f/large_jpg/traditional-materials-new-possibilities-inside-the-work-of-balsa-crosetto-piazzi_13.jpg?1793214320",
         "impact": 4
       },
       {
@@ -398,6 +387,17 @@
         "published_at": "Tue, 20 Oct 2026 20:40:36 +0000",
         "source_url": "https://www.dezeen.com/2026/10/20/stg-design-unveils-upcoming-unconventional-sinuous-houston-skyscraper/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/10/o27-broadview-capital-skyscraper-stg-design_dezeen_2364_hero.jpg",
+        "impact": 4
+      },
+      {
+        "title": "stefano boeri transforms former locomotive factory into green neighborhood in tbilisi",
+        "summary": "the winning loco park masterplan reimagines a 73,600-square-meter industrial site in tbilisi, georgia, with nine residential buildings, public parks, and pedestrian routes. The post stefano boeri transforms former locomotive factory into green neighborhood in tbilisi appeared first on designboom | architecture &amp; de",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Mon, 26 Oct 2026 07:55:37 +0000",
+        "source_url": "https://www.designboom.com/architecture/stefano-boeri-architetti-loco-park-green-neighborhood-tbilisi/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/10/1200-x-628.jpg",
         "impact": 4
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.36188",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.36298",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.36325",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.36335",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.36355",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
