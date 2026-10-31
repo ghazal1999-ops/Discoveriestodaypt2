@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "last_updated": "2026-10-30 02:23 UTC",
+  "date": "2026-10-31",
+  "last_updated": "2026-10-31 01:59 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Tue, 27 Oct 2026 23:02:38 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/confused-girl-with-stickers-on-face.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists discover why chronic back pain feels so personal",
+        "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this ne",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 29 Oct 2026 20:26:37 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/woman-back-pain-spinal-cord.webp",
         "impact": 5
       },
       {
@@ -46,20 +57,31 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/magnetic-swirls-brain-computer.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists Discover a Hidden Weakness in Cancer Cells That Could Transform Treatment",
-        "summary": "A new study reveals a previously overlooked weakness in certain cancer cells that could help researchers refine targeted treatments and reduce harmful side effects. Cancer cells that have lost one safeguard against DNA damage can become dependent on another, an enzyme called Wee1. Drugs that block Wee1 aim to exploit t",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Wed, 28 Oct 2026 15:14:30 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-a-hidden-weakness-in-cancer-cells-that-could-transform-treatment/",
-        "image_url": "https://scitechdaily.com/images/Ultrasound-Cancer-Treatment-Target-777x518.jpg",
-        "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some cli",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 30 Oct 2026 11:30:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "Exclusive details about Akai’s MPC Sample Key",
+        "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of [&#8230;]",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-10-30T17:01:32-04:00",
+        "source_url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
+      },
       {
         "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
         "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
@@ -72,60 +94,38 @@
         "impact": 4
       },
       {
-        "title": "Trump declares robot imports a national security threat",
-        "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+        "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+        "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 a",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Thu, 29 Oct 2026 19:07:53 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
-        "impact": 3
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 30 Oct 2026 09:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-        "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Thu, 29 Oct 2026 16:42:32 +0000",
-        "source_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
-        "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-op",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-29T19:42:21-04:00",
-        "source_url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Apple’s new laptop supports one of the coolest features for color pros",
-        "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it use",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-29T13:48:09-04:00",
-        "source_url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_at": "Sat, 31 Oct 2026 01:20:05 +0000",
+        "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "How psychedelics could deliver antidepressant benefits without hallucinogenic effects",
-        "summary": "Could psychedelics become a new generation of treatments for depression and other psychiatric disorders? This question is no longer confined to basic research. Several therapies based on classical psychedelics have advanced into late-stage clinical development and have reported encouraging results. DT120, an LSD-based ",
+        "title": "First patient undergoes pioneering stem-cell treatment for Parkinson's",
+        "summary": "A patient has undergone pioneering stem-cell therapy to treat Parkinson's disease, the Japanese drugmaker behind the treatment said on Friday, in a world first following its conditional approval in the country.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 29 Oct 2026 18:00:10 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-psychedelics-antidepressant-benefits-hallucinogenic-effects.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/hallucinate.jpg",
+        "published_at": "Fri, 30 Oct 2026 13:20:24 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-patient-stem-cell-treatment-parkinson.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons.jpg",
         "impact": 5
       },
       {
@@ -151,25 +151,25 @@
         "impact": 5
       },
       {
-        "title": "ASN: Low protein intake linked to kidney failure risk in Asian patients with CKD",
-        "summary": "Among patients with non-dialysis-dependent chronic kidney disease (CKD), low protein intake is associated with an increased risk for kidney failure requiring replacement therapy (KFRT) and all-cause mortality, according to a study published online Oct. 22 in JAMA Network Open to coincide with Kidney Week, the annual me",
+        "title": "Acute kidney injury up for older patients, men with OD-involved hospitalization",
+        "summary": "Acute kidney injury (AKI) occurs more often among older patients and men with drug overdose–involved hospitalizations, while severe inpatient courses disproportionately affect younger patients, according to research published in the U.S. Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 29 Oct 2026 17:00:13 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-asn-protein-intake-linked-kidney.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/kidney-1.jpg",
+        "published_at": "Fri, 30 Oct 2026 19:20:01 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-acute-kidney-injury-older-patients.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/emergency-care.jpg",
         "impact": 4
       },
       {
-        "title": "Tumor mutations and immune activity may reveal who benefits from investigational lymphoma drug",
-        "summary": "Researchers at the University of Tsukuba conducted a physician-initiated phase 2 clinical trial of dasatinib in patients with relapsed or refractory T-follicular helper cell lymphoma (TFHL), an aggressive and difficult-to-treat blood cancer. The study identified genetic alterations and features of the immune microenvir",
+        "title": "Common drugs may help dangerous viruses spread through the body",
+        "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and othe",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 29 Oct 2026 16:40:12 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-tumor-mutations-immune-reveal-benefits.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/predictive-biomarkers.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 27 Oct 2026 06:46:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
         "impact": 4
       }
     ],
@@ -232,17 +232,6 @@
     ],
     "space": [
       {
-        "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
-        "summary": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 27 Oct 2026 11:04:19 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/u2GBTVG4W2akErAzmYLbSg-1920-80.jpg",
-        "impact": 5
-      },
-      {
         "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
         "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
         "category": "Space",
@@ -265,14 +254,14 @@
         "impact": 4
       },
       {
-        "title": "NASA ends Swift space telescope mission after failed rescue attempt",
-        "summary": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
+        "title": "November’s Night Sky Notes: Light-Day Away",
+        "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice gi",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 26 Oct 2026 18:43:21 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1920-80.jpg",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 30 Oct 2026 10:00:00 +0000",
+        "source_url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26353/PIA26353.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       },
       {
@@ -284,6 +273,17 @@
         "published_at": "Thu, 29 Oct 2026 21:44:23 +0000",
         "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
         "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/iss057e057509.jpg",
+        "impact": 4
+      },
+      {
+        "title": "India launches next-gen navigation satellite to orbit (video)",
+        "summary": "India launched the NVS-03 navigation satellite to orbit today (Oct. 30) atop a GSLV rocket. It was the fourth orbital launch from Indian soil so far this year.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 30 Oct 2026 20:29:58 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/tSwfy5XpAPEB3fe7ucbgqR-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -311,49 +311,71 @@
         "impact": 4
       },
       {
-        "title": "NASA Systems Engineering Team Details HWO Mission Architecture",
-        "summary": "Finding an Earth-like world beyond the solar system is the Holy Grail of exoplanet research, and the field has experienced incredible technological advancements in searching for and identifying exoplanets since the first exoplanet was discovered in 1995. This includes both ground- and space-based telescopes, specifical",
+        "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
+        "summary": "\"He wore his heart on his sleeve, which made him a man to rely on, to admire and, in my case, love.\"",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 28 Oct 2026 03:11:32 +0000",
-        "source_url": "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture",
-        "image_url": "https://www.universetoday.com/article_images/JATIS_12_4_041017_f001.png_750_20261028_030246.png",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 30 Oct 2026 23:26:14 +0000",
+        "source_url": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/95DGgxycx5HJysdhc2yEv9-1920-80.png",
         "impact": 4
       },
       {
-        "title": "Dead Planets Orbiting a Dead Star",
-        "summary": "When a star like our Sun reaches its end, it becomes a kind of zombie star called a white dwarf. These bodies have left fusion behind and will radiate only remnant heat for a long, long time. Before they become white dwarfs, they expand, engulf, and destroy any nearby planets. Astronomers have spotted a debris disk aro",
+        "title": "Cosmic graveyard of zombie planets offers a grisly warning about our own solar system's fate",
+        "summary": "Two zombie exoplanets that rose from the grave to shuffle through the gory remains of their fellow planets may just agree with these immortal words from horror maestro Stephen King.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 27 Oct 2026 22:04:16 +0000",
-        "source_url": "https://www.universetoday.com/articles/dead-planets-orbiting-a-dead-star",
-        "image_url": "https://www.universetoday.com/article_images/eso2613a_20261027_185205.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 29 Oct 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Kja7G4PLLXQSasLn3kGfrg-1920-80.png",
         "impact": 4
       },
       {
-        "title": "This Oddbal Reflective Lava World is Challenging to Understand",
-        "summary": "Exoplanets extremely close to their stars are expected to have lost their atmospheres. But one of them, TOI-561 b, seems to have a thick atmosphere. Understanding how this super-Earth has an atmosphere is challenging.",
+        "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
+        "summary": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 27 Oct 2026 16:02:28 +0000",
-        "source_url": "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand",
-        "image_url": "https://www.universetoday.com/article_images/lisadang-suncloudsv1-web.x78a95895_20261027_133719.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 27 Oct 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/UxSnXkJcnBna79YHmjQnwL-1920-80.png",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Constructed Fictions: Inside the Work of Balsa Crosetto Piazzi",
-        "summary": "Balsa Crosetto Piazzi is an architecture practice founded in 2015, based in Córdoba, Argentina, and Boston, USA. Led by architects Juan Manuel Balsa, Rocío Crosetto Brizzio, and Leandro Piazzi, the core of their work is the material side of architecture. For them, a building is not just a finished object, but rather a ",
+        "title": "Modern Architecture in Bahia: Climate and Culture in the Work of Assis Reis",
+        "summary": "Last October 24th marked the centenary of the birth of Brazilian architect Francisco de Assis Couto Reis (1926–2011), who lived and built most of his work in the city of Salvador, Bahia. Assis Reis, as he was better known, had a career shaped not only by the buildings he designed but also by his urban renewal proposals",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 29 Oct 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187467/constructed-fictions-inside-the-work-of-balsa-crosetto-piazzi",
-        "image_url": "https://images.adsttc.com/media/images/6ae2/4762/20d6/d801/8852/1d8f/large_jpg/traditional-materials-new-possibilities-inside-the-work-of-balsa-crosetto-piazzi_13.jpg?1793214320",
+        "published_at": "Fri, 30 Oct 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187788/modern-architecture-in-bahia-climate-and-culture-in-the-work-of-assis-reis",
+        "image_url": "https://images.adsttc.com/media/images/6ae3/99b5/a04f/d001/89cd/3ef0/large_jpg/centenario-de-assis-reis-a-celebracao-de-um-legado-moderno-regional_13.jpg?1793300930",
+        "impact": 5
+      },
+      {
+        "title": "Rotiers - Renovation of 46 housing units in Brussels / MULTIPLE Architecture & Urbanism",
+        "summary": "The Rotiers project aims to give a renewed architectural identity to a 1960s social housing building while preserving the qualities of its setting. Located at the edge of the Sonian Forest and surrounded by mature trees, the building is renovated in close relation to its landscape. The intervention addresses several sc",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 30 Oct 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
+        "image_url": "https://images.adsttc.com/media/images/6adf/8efb/3271/8400/01d0/ecee/large_jpg/Rotiers_08_Bruno_Dias_Ventura.jpg?1793036122",
+        "impact": 4
+      },
+      {
+        "title": "GCA Architects",
+        "summary": "This issue brings together, across 326 pages, forty years of work by the Barcelona-based studio GCA Architects, founded in 1986 by Josep Juanpere and Antonio Puig, through a selection of nineteen works —most from the past decade and a half— spanning its practice in corporate, hospitality and residential architecture. A",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 30 Oct 2026 09:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1187840/gca-architects",
+        "image_url": "https://images.adsttc.com/media/images/6ae4/8a5a/bfbd/4c00/01ee/5868/large_jpg/TC176_GCA_Architects_Portada_web.jpg?1793362526",
         "impact": 4
       },
       {
@@ -377,31 +399,20 @@
         "source_url": "https://www.dezeen.com/2026/10/27/ohlab-experiments-with-colour-blocking-and-cork-in-old-and-new-buildings-of-terreno-barrio-hotel-in-mallorca/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/10/terreno-barrio-hotel-ohlab_dezeen_2364_sq_1.jpg",
         "impact": 4
-      },
-      {
-        "title": "STG Design unveils upcoming “unconventional, sinuous” Houston skyscraper",
-        "summary": "Texas architecture studio STG Design has released renderings of O27, an office skyscraper covered with triangular panels that is planned for Houston’s River Oaks area. The 32-storey building will contain flexible office floors, as well as luxury amenities and a rooftop terrace on top of its nine-storey base. It will ha",
-        "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 20 Oct 2026 20:40:36 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/20/stg-design-unveils-upcoming-unconventional-sinuous-houston-skyscraper/",
-        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/o27-broadview-capital-skyscraper-stg-design_dezeen_2364_hero.jpg",
-        "impact": 4
-      },
-      {
-        "title": "stefano boeri transforms former locomotive factory into green neighborhood in tbilisi",
-        "summary": "the winning loco park masterplan reimagines a 73,600-square-meter industrial site in tbilisi, georgia, with nine residential buildings, public parks, and pedestrian routes. The post stefano boeri transforms former locomotive factory into green neighborhood in tbilisi appeared first on designboom | architecture &amp; de",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Mon, 26 Oct 2026 07:55:37 +0000",
-        "source_url": "https://www.designboom.com/architecture/stefano-boeri-architetti-loco-park-green-neighborhood-tbilisi/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/10/1200-x-628.jpg",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Punch List: Granite wins infrastructure jobs, Hensel Phelps reaches Tampa airport milestone",
+        "summary": "Plus, Bechtel invests $1 million into the trades in Wyoming and the U.S. Navy awards an autonomous construction contract.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 30 Oct 2026 09:57:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/punch-list-granite-wins-civil-contracts-skyline-bechtel/873292/",
+        "image_url": "https://imgproxy.divecdn.com/qiL-l_quOw7suUvl6lVnJIQwBgU-Hcx0XV2RCez-880/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS84MDBfYXNkcHJlY2FzdGNvbmNyZXRlOC5qcGVn.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -425,92 +436,81 @@
         "impact": 4
       },
       {
-        "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
-        "summary": "The new manufacturing and engineering center will expand the company's U.S. production capacity for advanced thermal management systems,&nbsp;Carrier said.&nbsp;",
+        "title": "Movers and shakers: Biggest construction and engineering appointments October 2026",
+        "summary": "With winter drawing in, civil engineering and construction firms have made a range of appointments. The post Movers and shakers: Biggest construction and engineering appointments October 2026 appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 28 Oct 2026 09:40:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
-        "image_url": "https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 30 Oct 2026 16:16:37 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-october-2026-30-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/MixCollage-30-Oct-2026-03-47-PM-70-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "JE Dunn tapped for $480M Minneapolis airport upgrade",
-        "summary": "The Metropolitan Airports Commission selected the general contractor to serve as construction manager at risk for an expansion project at Minneapolis-Saint Paul International Airport.",
+        "title": "Granite rides infrastructure spending to revenue growth, record backlog",
+        "summary": "The contractor&rsquo;s third quarter results included $7.5 billion in backlog while revenue increased by 23% year over year to $1.77 billion.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Tue, 27 Oct 2026 16:13:48 -0400",
-        "source_url": "https://www.constructiondive.com/news/je-dunn-minneapolis-airport-upgrade/872957/",
-        "image_url": "https://imgproxy.divecdn.com/oLAbUXreBBZZJ1zqPovT3qQeDJ2RvrYXDD6KiKqgpG4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ3OTYzNjkwLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Suffolk sees hospital construction crunch ahead of California’s earthquake rule",
-        "summary": "Two Suffolk executives say the state&rsquo;s 2030 seismic deadline presents multiple challenges on hospital builds, including strained equipment lead times and pricing.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 27 Oct 2026 10:57:01 -0400",
-        "source_url": "https://www.constructiondive.com/news/suffolk-hospital-construction-crunch-california-earthquake/872854/",
-        "image_url": "https://imgproxy.divecdn.com/FXdZ-TiTCEuPY1a2U01smQxUkuh2PIUxERq-TNqwIMU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VQ0xBLU1QLTIwMC0yLmpwZw==.webp",
+        "published_at": "Fri, 30 Oct 2026 10:04:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/granite-earnings-infrastructure-spending-record-backlog/873282/",
+        "image_url": "https://imgproxy.divecdn.com/AXCySMJQ8gWU868YsGVW_uebBL4chqRPQGTVpVtvheY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk3MjUzODY4LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-        "summary": "arXiv:2610.36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository development and maintenance. However, repository-specific skills must evolve with changing code structures, imple",
+        "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+        "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-discipli",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.36188",
+        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.37739",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
-        "summary": "arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model that replicates the d",
+        "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+        "summary": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies across related documents, acquiring missing company facts, a",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.36298",
+        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.37905",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
-        "summary": "arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and inconsistent reasoning. Large Language Models (LLMs) have recently shown promis",
+        "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
+        "summary": "arXiv:2610.37926v1 Announce Type: new Abstract: Cooperative multi-agent reinforcement learning (MARL) enables teams of agents, such as robots and autonomous vehicles, to learn coordinated behavior, but what such teams learn is largely determined by their reward function. Because task success alone provides too little g",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.36325",
+        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.37926",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
-        "summary": "arXiv:2610.36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answers must be grounded in established knowledge. Retrieval-augmented generation (RAG",
+        "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+        "summary": "arXiv:2610.37935v1 Announce Type: new Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied as text or stored as layer-wise Key-Value states or skill-specific model parame",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.36335",
+        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.37935",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "WAKMan: Workload Aware KVCache Manager",
-        "summary": "arXiv:2610.36355v1 Announce Type: new Abstract: Prefix caching enables a Large Language Model (LLM) servers to reuse the Key-Value (KV) states and accelerate prefill computation stage for requests that share a prefix with earlier prompts, thus reducing latency and serving cost. With limited memory resource, the KV cach",
+        "title": "DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms",
+        "summary": "arXiv:2610.38175v1 Announce Type: new Abstract: Benders decomposition and column generation solve large optimization problems by passing cuts, columns, and dual values between a master problem and subproblems, and are hard to implement correctly. Large language models now automate parts of algorithm design, which point",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 29 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.36355",
+        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "source_url": "https://arxiv.org/abs/2610.38175",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
