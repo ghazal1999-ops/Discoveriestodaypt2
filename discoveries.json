@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-31",
-  "last_updated": "2026-10-31 01:59 UTC",
+  "date": "2026-11-01",
+  "last_updated": "2026-11-01 01:48 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,28 @@
         "published_at": "Tue, 27 Oct 2026 23:02:38 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/confused-girl-with-stickers-on-face.webp",
+        "impact": 5
+      },
+      {
+        "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+        "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 30 Oct 2026 20:59:52 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/alzheimers-disease-blood-test-tube.webp",
+        "impact": 5
+      },
+      {
+        "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+        "summary": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work togethe",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 31 Oct 2026 00:31:41 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/light-blue-iris-eye-close-up.webp",
         "impact": 5
       },
       {
@@ -35,28 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/physics-discovery-breaking-textbook-rule.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
-        "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way for more precise dia",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 26 Oct 2026 19:57:03 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/human-body-digestive-system-boost.webp",
-        "impact": 5
-      },
-      {
-        "title": "Tiny magnetic vortices could help computers work more like your brain",
-        "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technolog",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 26 Oct 2026 06:06:16 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/magnetic-swirls-brain-computer.webp",
-        "impact": 5
       }
     ],
     "tech": [
@@ -69,17 +69,6 @@
         "published_at": "Fri, 30 Oct 2026 11:30:00 +0000",
         "source_url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Exclusive details about Akai’s MPC Sample Key",
-        "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-10-30T17:01:32-04:00",
-        "source_url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 4
       },
       {
@@ -113,6 +102,17 @@
         "published_at": "Sat, 31 Oct 2026 01:20:05 +0000",
         "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+        "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Fri, 30 Oct 2026 20:38:46 +0000",
+        "source_url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+        "image_url": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/191:100/w_1280,c_limit/103026-HACK_.jpg",
         "impact": 3
       }
     ],
@@ -151,6 +151,17 @@
         "impact": 5
       },
       {
+        "title": "Personalized score uses ten blood markers to flag disease risk and assess healthy aging",
+        "summary": "Studies conducted in various countries indicate that approximately 60% of people over age 65 currently live with two or more chronic conditions. With the aim of reversing this trend and promoting healthy aging, European researchers have created a new personalized indicator that provides a detailed snapshot of a patient",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 30 Oct 2026 22:40:07 EDT",
+        "source_url": "https://medicalxpress.com/news/2026-10-personalized-score-ten-blood-markers.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-metabolic-marker-p.jpg",
+        "impact": 4
+      },
+      {
         "title": "Acute kidney injury up for older patients, men with OD-involved hospitalization",
         "summary": "Acute kidney injury (AKI) occurs more often among older patients and men with drug overdose–involved hospitalizations, while severe inpatient courses disproportionately affect younger patients, according to research published in the U.S. Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report.",
         "category": "Medicine",
@@ -159,17 +170,6 @@
         "published_at": "Fri, 30 Oct 2026 19:20:01 EDT",
         "source_url": "https://medicalxpress.com/news/2026-10-acute-kidney-injury-older-patients.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/emergency-care.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Common drugs may help dangerous viruses spread through the body",
-        "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and othe",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 27 Oct 2026 06:46:21 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
         "impact": 4
       }
     ],
@@ -243,36 +243,36 @@
         "impact": 4
       },
       {
-        "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
-        "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
+        "title": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
+        "summary": "On Episode 234 of This Week In Space, Tariq Malik and Mike Wall are joined by Than Putzig of the Planetary Science Institute about a NASA-backed payload bound for the Marius Hills Pit on the moon.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Tue, 27 Oct 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/HSHB7NyZsy82FurftpXRnc-1920-80.jpg",
+        "published_at": "Sat, 31 Oct 2026 13:36:59 +0000",
+        "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/dzt42xPBYCwWmBWnZa5gBE-1920-80.jpg",
         "impact": 4
       },
       {
-        "title": "November’s Night Sky Notes: Light-Day Away",
-        "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice gi",
+        "title": "The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2",
+        "summary": "The waning moon shines with Jupiter, Mars and the brilliant star Regulus in the eastern sky overnight Nov. 1-2.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 30 Oct 2026 10:00:00 +0000",
-        "source_url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26353/PIA26353.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 31 Oct 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/tkuSdzmgxQzkixeXhxY3ph-1920-80.jpg",
         "impact": 4
       },
       {
-        "title": "Halloween Aboard the International Space Station",
-        "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative cost",
+        "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
+        "summary": "SpaceX sent another batch of its Starlink broadband satellites to orbit from California just after midnight on Halloween (Oct. 31).",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 29 Oct 2026 21:44:23 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/iss057e057509.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 31 Oct 2026 05:24:11 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Bv6cX3eJVG9R8i6gxerymQ-1920-80.jpg",
         "impact": 4
       },
       {
@@ -300,14 +300,14 @@
         "impact": 4
       },
       {
-        "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
-        "summary": "The Vera Rubin Observatory found a distant Solar System object before its decade-long Legacy Survey of Space and Time even got started. The object is a dwarf planet candidate named 2026 ED138, and if confirmed, it will be one of the largest dwarf planets beyond Neptune. It may be up to 1500 km in diameter.",
+        "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
+        "summary": "Radio images show the supergiant's atmosphere recovering from its dramatic dimming, while a companion plows through its outer layers.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 28 Oct 2026 15:34:33 +0000",
-        "source_url": "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate",
-        "image_url": "https://www.universetoday.com/article_images/noirlab2626a_20261028_121609.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 31 Oct 2026 12:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ti44BXu7RTPBs2VejfL6kV-1920-80.png",
         "impact": 4
       },
       {
@@ -333,29 +333,18 @@
         "impact": 4
       },
       {
-        "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
-        "summary": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
+        "title": "Ceres' Water Ice Can Mask Massive Surface Salt Deposits",
+        "summary": "The dwarf planet Ceres is arguably one of the most overlooked and underappreciated planetary objects in the entire solar system. This could be because while Ceres has the same dwarf planet designation as Pluto, Ceres is largely considered an “asteroid” since it resides the in main asteroid belt. However, along with bei",
         "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 27 Oct 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/UxSnXkJcnBna79YHmjQnwL-1920-80.png",
-        "impact": 4
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Sat, 31 Oct 2026 23:35:52 +0000",
+        "source_url": "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits",
+        "image_url": "https://www.universetoday.com/article_images/ceres_bright_spots_750_20261031_233536.jpg",
+        "impact": 3
       }
     ],
     "architecture": [
-      {
-        "title": "Modern Architecture in Bahia: Climate and Culture in the Work of Assis Reis",
-        "summary": "Last October 24th marked the centenary of the birth of Brazilian architect Francisco de Assis Couto Reis (1926–2011), who lived and built most of his work in the city of Salvador, Bahia. Assis Reis, as he was better known, had a career shaped not only by the buildings he designed but also by his urban renewal proposals",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 30 Oct 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187788/modern-architecture-in-bahia-climate-and-culture-in-the-work-of-assis-reis",
-        "image_url": "https://images.adsttc.com/media/images/6ae3/99b5/a04f/d001/89cd/3ef0/large_jpg/centenario-de-assis-reis-a-celebracao-de-um-legado-moderno-regional_13.jpg?1793300930",
-        "impact": 5
-      },
       {
         "title": "Rotiers - Renovation of 46 housing units in Brussels / MULTIPLE Architecture & Urbanism",
         "summary": "The Rotiers project aims to give a renewed architectural identity to a 1960s social housing building while preserving the qualities of its setting. Located at the edge of the Sonian Forest and surrounded by mature trees, the building is renovated in close relation to its landscape. The intervention addresses several sc",
@@ -399,6 +388,17 @@
         "source_url": "https://www.dezeen.com/2026/10/27/ohlab-experiments-with-colour-blocking-and-cork-in-old-and-new-buildings-of-terreno-barrio-hotel-in-mallorca/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/10/terreno-barrio-hotel-ohlab_dezeen_2364_sq_1.jpg",
         "impact": 4
+      },
+      {
+        "title": "DamDam House / Studio SMA + Ground Architects",
+        "summary": "DamDam is a compact house for a couple, their twins, and two cats, designed with solid exterior walls to ensure privacy on a small site surrounded by taller buildings. Working within the constraints of the parking layout, the functions of each floor were carefully separated, and the circulation was precisely planned to",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 31 Oct 2026 17:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187430/damdam-house-studio-sma-plus-ground-architects",
+        "image_url": "https://images.adsttc.com/media/images/6adb/6ccc/3271/8400/01d0/e4db/large_jpg/damdam_004_2.jpg?1792765164",
+        "impact": 4
       }
     ],
     "construction": [
@@ -436,17 +436,6 @@
         "impact": 4
       },
       {
-        "title": "Movers and shakers: Biggest construction and engineering appointments October 2026",
-        "summary": "With winter drawing in, civil engineering and construction firms have made a range of appointments. The post Movers and shakers: Biggest construction and engineering appointments October 2026 appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 30 Oct 2026 16:16:37 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-october-2026-30-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/MixCollage-30-Oct-2026-03-47-PM-70-560x315.jpg",
-        "impact": 4
-      },
-      {
         "title": "Granite rides infrastructure spending to revenue growth, record backlog",
         "summary": "The contractor&rsquo;s third quarter results included $7.5 billion in backlog while revenue increased by 23% year over year to $1.77 billion.",
         "category": "Construction",
@@ -455,6 +444,17 @@
         "published_at": "Fri, 30 Oct 2026 10:04:00 -0400",
         "source_url": "https://www.constructiondive.com/news/granite-earnings-infrastructure-spending-record-backlog/873282/",
         "image_url": "https://imgproxy.divecdn.com/AXCySMJQ8gWU868YsGVW_uebBL4chqRPQGTVpVtvheY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk3MjUzODY4LmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
+        "summary": "The new manufacturing and engineering center will expand the company's U.S. production capacity for advanced thermal management systems,&nbsp;Carrier said.&nbsp;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 28 Oct 2026 09:40:00 -0400",
+        "source_url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
+        "image_url": "https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp",
         "impact": 3
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.37739",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.37905",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.37926",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.37935",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Fri, 30 Oct 2026 00:00:00 -0400",
+        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
         "source_url": "https://arxiv.org/abs/2610.38175",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
