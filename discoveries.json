@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01",
-  "last_updated": "2026-11-01 01:48 UTC",
+  "date": "2026-11-02",
+  "last_updated": "2026-11-02 02:03 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Tue, 27 Oct 2026 23:02:38 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/confused-girl-with-stickers-on-face.webp",
+        "impact": 5
+      },
+      {
+        "title": "“Nearly Everybody Had Given Up” – Scientists Finally Solve a 60-Year Chemistry Mystery",
+        "summary": "After more than six decades of failed attempts, chemists have achieved a breakthrough involving a class of molecules long considered too unstable to isolate. Chemists have succeeded in isolating a group of molecules that researchers have struggled to capture for more than 60 years. Known as oxoboranes, these compounds ",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sun, 01 Nov 2026 16:02:46 +0000",
+        "source_url": "https://scitechdaily.com/nearly-everybody-had-given-up-scientists-finally-solve-a-60-year-chemistry-mystery/",
+        "image_url": "https://scitechdaily.com/images/Newly-Prepared-Oxoborane-777x499.jpg",
         "impact": 5
       },
       {
@@ -46,17 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/woman-back-pain-spinal-cord.webp",
         "impact": 5
-      },
-      {
-        "title": "Scientists just broke a textbook rule of physics",
-        "summary": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 28 Oct 2026 23:39:27 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/physics-discovery-breaking-textbook-rule.webp",
-        "impact": 5
       }
     ],
     "tech": [
@@ -69,17 +69,6 @@
         "published_at": "Fri, 30 Oct 2026 11:30:00 +0000",
         "source_url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
-        "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 29 Oct 2026 10:45:00 +0000",
-        "source_url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
-        "image_url": "https://media.wired.com/photos/6ae293587359ba945850d8f8/191:100/w_1280,c_limit/science_math_ai_breakthrough_research.jpg",
         "impact": 4
       },
       {
@@ -105,14 +94,25 @@
         "impact": 3
       },
       {
-        "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-        "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+        "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+        "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than [&#8230;]",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-01T09:00:00-05:00",
+        "source_url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&strip=all&crop=0%2C19.336604742637%2C80.59453125%2C63.294399383614&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+        "summary": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
         "category": "Tech",
         "source": "wired.com",
         "journal": "wired.com",
-        "published_at": "Fri, 30 Oct 2026 20:38:46 +0000",
-        "source_url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-        "image_url": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/191:100/w_1280,c_limit/103026-HACK_.jpg",
+        "published_at": "Sun, 01 Nov 2026 12:00:00 +0000",
+        "source_url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+        "image_url": "https://media.wired.com/photos/6adf47c4094d0f0ff2dda226/191:100/w_1280,c_limit/102626-Google%20Vids.jpg",
         "impact": 3
       }
     ],
@@ -140,15 +140,15 @@
         "impact": 5
       },
       {
-        "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
-        "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for othe",
+        "title": "Tumor index can identify breast cancer patients' drug response",
+        "summary": "Researchers at The Hong Kong Polytechnic University (PolyU) have developed an imaging biomarker, the Tumour Heterogeneity Index (THI), which enables noninvasive assessment of breast cancer patients' response to AKT inhibitors before treatment, helping clinicians identify patients most likely to benefit from therapy. Th",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 23 Oct 2026 07:02:25 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
-        "impact": 5
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sun, 01 Nov 2026 17:00:10 EST",
+        "source_url": "https://medicalxpress.com/news/2026-10-tumor-index-breast-cancer-patients.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/polyu-develops-tumour.jpg",
+        "impact": 4
       },
       {
         "title": "Personalized score uses ten blood markers to flag disease risk and assess healthy aging",
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+        "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 01 Nov 2026 14:50:15 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
         "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
         "category": "Space",
@@ -243,6 +254,28 @@
         "impact": 4
       },
       {
+        "title": "APOD: 2026 November 1 – Colors of the Moon",
+        "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Sun, 01 Nov 2026 04:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
+        "title": "November’s Night Sky Notes: Light-Day Away",
+        "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice gi",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 30 Oct 2026 10:00:00 +0000",
+        "source_url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26353/PIA26353.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 4
+      },
+      {
         "title": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
         "summary": "On Episode 234 of This Week In Space, Tariq Malik and Mike Wall are joined by Than Putzig of the Planetary Science Institute about a NASA-backed payload bound for the Marius Hills Pit on the moon.",
         "category": "Space",
@@ -251,39 +284,6 @@
         "published_at": "Sat, 31 Oct 2026 13:36:59 +0000",
         "source_url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
         "image_url": "https://cdn.mos.cms.futurecdn.net/dzt42xPBYCwWmBWnZa5gBE-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2",
-        "summary": "The waning moon shines with Jupiter, Mars and the brilliant star Regulus in the eastern sky overnight Nov. 1-2.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 31 Oct 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/tkuSdzmgxQzkixeXhxY3ph-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
-        "summary": "SpaceX sent another batch of its Starlink broadband satellites to orbit from California just after midnight on Halloween (Oct. 31).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 31 Oct 2026 05:24:11 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Bv6cX3eJVG9R8i6gxerymQ-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "India launches next-gen navigation satellite to orbit (video)",
-        "summary": "India launched the NVS-03 navigation satellite to orbit today (Oct. 30) atop a GSLV rocket. It was the fourth orbital launch from Indian soil so far this year.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 30 Oct 2026 20:29:58 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/tSwfy5XpAPEB3fe7ucbgqR-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -333,18 +333,29 @@
         "impact": 4
       },
       {
-        "title": "Ceres' Water Ice Can Mask Massive Surface Salt Deposits",
-        "summary": "The dwarf planet Ceres is arguably one of the most overlooked and underappreciated planetary objects in the entire solar system. This could be because while Ceres has the same dwarf planet designation as Pluto, Ceres is largely considered an “asteroid” since it resides the in main asteroid belt. However, along with bei",
+        "title": "Martian Polar Crater Ice Shifts with Seasonal Frost",
+        "summary": "The planet Mars shares many landforms and weather patterns with the Earth, including changing seasons, volcanoes, canyons, dust storms and dust devils, and water ice. But one feature that Earth and Mars share among the eight planets in our solar system are polar ice caps. Both are one of each planet’s striking features",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Sat, 31 Oct 2026 23:35:52 +0000",
-        "source_url": "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits",
-        "image_url": "https://www.universetoday.com/article_images/ceres_bright_spots_750_20261031_233536.jpg",
+        "published_at": "Sun, 01 Nov 2026 03:06:40 +0000",
+        "source_url": "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost",
+        "image_url": "https://www.universetoday.com/article_images/7061_Mars-Crater-North-Layered-Deposits-MRO-HIRISE-full2.jpg_750_20261101_030553.jpg",
         "impact": 3
       }
     ],
     "architecture": [
+      {
+        "title": "KOI Restaurant / SOA Architekti",
+        "summary": "The restaurant in Košice occupies a corner building in the historic city centre, in a space that previously housed a clothing or furniture store. The business is run by a father and son. The father brings personal experience, a strong sense of family tradition, and an openness to blending diverse culinary influences in",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187623/koi-soa-architekti",
+        "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/large_jpg/koi-soa-architekti_3.jpg?1793118369",
+        "impact": 4
+      },
       {
         "title": "Rotiers - Renovation of 46 housing units in Brussels / MULTIPLE Architecture & Urbanism",
         "summary": "The Rotiers project aims to give a renewed architectural identity to a 1960s social housing building while preserving the qualities of its setting. Located at the edge of the Sonian Forest and surrounded by mature trees, the building is renovated in close relation to its landscape. The intervention addresses several sc",
@@ -354,17 +365,6 @@
         "published_at": "Fri, 30 Oct 2026 10:00:00 +0000",
         "source_url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
         "image_url": "https://images.adsttc.com/media/images/6adf/8efb/3271/8400/01d0/ecee/large_jpg/Rotiers_08_Bruno_Dias_Ventura.jpg?1793036122",
-        "impact": 4
-      },
-      {
-        "title": "GCA Architects",
-        "summary": "This issue brings together, across 326 pages, forty years of work by the Barcelona-based studio GCA Architects, founded in 1986 by Josep Juanpere and Antonio Puig, through a selection of nineteen works —most from the past decade and a half— spanning its practice in corporate, hospitality and residential architecture. A",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 30 Oct 2026 09:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1187840/gca-architects",
-        "image_url": "https://images.adsttc.com/media/images/6ae4/8a5a/bfbd/4c00/01ee/5868/large_jpg/TC176_GCA_Architects_Portada_web.jpg?1793362526",
         "impact": 4
       },
       {
@@ -390,14 +390,14 @@
         "impact": 4
       },
       {
-        "title": "DamDam House / Studio SMA + Ground Architects",
-        "summary": "DamDam is a compact house for a couple, their twins, and two cats, designed with solid exterior walls to ensure privacy on a small site surrounded by taller buildings. Working within the constraints of the parking layout, the functions of each floor were carefully separated, and the circulation was precisely planned to",
+        "title": "Escola Sant Ignasi-Jesuïtes de Sarrià / Aquidos",
+        "summary": "Sant Ignasi School, inaugurated in 1892 and designed by architect Joan Martorell, is an emblematic building in Barcelona that has welcomed thousands of students since its foundation. Its architectural composition is characterized by symmetry, organized around a central axis defined by the garden and pond.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sat, 31 Oct 2026 17:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187430/damdam-house-studio-sma-plus-ground-architects",
-        "image_url": "https://images.adsttc.com/media/images/6adb/6ccc/3271/8400/01d0/e4db/large_jpg/damdam_004_2.jpg?1792765164",
+        "published_at": "Sun, 01 Nov 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187783/escola-sant-ignasi-jesuites-de-sarria-aquidos",
+        "image_url": "https://images.adsttc.com/media/images/6ae3/7638/495d/0300/01a7/652a/large_jpg/archdaily_SantIgnasi_1.jpg?1793291853",
         "impact": 4
       }
     ],
@@ -432,7 +432,18 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/10/22/SW-ENR-CBC-PH-Article1-Image.webp?crop=true&height=257&t=1792676193&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/10/09/GettyImages-2197655235.webp?crop=true&height=257&t=1791563503&width=420",
+        "impact": 4
+      },
+      {
+        "title": "Movers and shakers: Biggest construction and engineering appointments October 2026",
+        "summary": "With winter drawing in, civil engineering and construction firms have made a range of appointments. The post Movers and shakers: Biggest construction and engineering appointments October 2026 appeared first on New Civil Engineer.",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Fri, 30 Oct 2026 16:16:37 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-october-2026-30-10-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/MixCollage-30-Oct-2026-03-47-PM-70-560x315.jpg",
         "impact": 4
       },
       {
@@ -445,74 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/granite-earnings-infrastructure-spending-record-backlog/873282/",
         "image_url": "https://imgproxy.divecdn.com/AXCySMJQ8gWU868YsGVW_uebBL4chqRPQGTVpVtvheY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk3MjUzODY4LmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "Carrier Global to spend more than $600M on campus in Fort Worth, Texas",
-        "summary": "The new manufacturing and engineering center will expand the company's U.S. production capacity for advanced thermal management systems,&nbsp;Carrier said.&nbsp;",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 28 Oct 2026 09:40:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/carrier-600m-ft-worth-manufacturing-campus-HVAC/873003/",
-        "image_url": "https://imgproxy.divecdn.com/A3rmgVoSljGPeXZXUqD4mjVRki7Qduo8S6IxPRprCIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb25jZXB0dWFsLWNhcnJpZXItZmFjaWxpdHktcmVuZGVyaW5nLTEuanBn.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-        "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-discipli",
+        "title": "How we detect frontier model misalignment",
+        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.37739",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 29 Oct 2026 09:00:00 GMT",
+        "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5gtjUYZjCpVMAAv0AbX0Cs/510ae35e592775228a8ef7b7f0911237/how-we-detect-frontier-model-misalignment-social.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
-        "summary": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies across related documents, acquiring missing company facts, a",
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.37905",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
+        "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/Gp8jNpLlW9YG0p7vG3UfM/c73fa4b5caa4ad978b022dc0123b801b/openai-servicenow-partnership-expansion-social.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
-        "summary": "arXiv:2610.37926v1 Announce Type: new Abstract: Cooperative multi-agent reinforcement learning (MARL) enables teams of agents, such as robots and autonomous vehicles, to learn coordinated behavior, but what such teams learn is largely determined by their reward function. Because task success alone provides too little g",
+        "title": "Legora is building the agentic operating system for legal work",
+        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.37926",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
+        "source_url": "https://openai.com/index/legora",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3u1CdSoTYE4igNYP08r65b/3aff62c6d68495f495218a2ccbbf48f3/legora-smoked-glass-seo-image-1920x1080.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
-        "summary": "arXiv:2610.37935v1 Announce Type: new Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied as text or stored as layer-wise Key-Value states or skill-specific model parame",
+        "title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.37935",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
+        "source_url": "https://openai.com/index/retell-ai",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5uWhs4tBhdZ4XPHsi9IaMG/06f4b61c4303de24a65075b3eaf500b2/retell-ai-customer-story-open-graph-acoustic-fabric.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms",
-        "summary": "arXiv:2610.38175v1 Announce Type: new Abstract: Benders decomposition and column generation solve large optimization problems by passing cuts, columns, and dual values between a master problem and subproblems, and are hard to implement correctly. Large language models now automate parts of algorithm design, which point",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
-        "source_url": "https://arxiv.org/abs/2610.38175",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "blog.google",
+        "journal": "blog.google",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+        "impact": 4
       }
     ]
   }
