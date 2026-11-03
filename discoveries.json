@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "last_updated": "2026-11-02 02:03 UTC",
+  "date": "2026-11-03",
+  "last_updated": "2026-11-03 03:51 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,28 @@
         "published_at": "Tue, 27 Oct 2026 23:02:38 EDT",
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/confused-girl-with-stickers-on-face.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists Discover a Powerful New Way To Destroy Toxic “Forever Chemicals”",
+        "summary": "A new water-treatment technology could offer a breakthrough in the fight against forever chemicals. Scientists have developed a new way to destroy toxic “forever chemicals” in water rather than simply filter them out. During a 58-day experiment, the system removed more than 90% of each of six PFAS compounds and strippe",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Mon, 02 Nov 2026 19:48:55 +0000",
+        "source_url": "https://scitechdaily.com/scientists-discover-a-powerful-new-way-to-destroy-toxic-forever-chemicals/",
+        "image_url": "https://scitechdaily.com/images/Palladium-Coated-Membrane-Forever-Chemicals-777x437.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Scientists Create a Tiny Electronic Device That Can Learn Like the Human Brain",
+        "summary": "A breakthrough in brain-inspired electronics could lead to devices that process information and learn without relying on conventional computing architectures. A single nanoscale electronic component can perform three different jobs, switching electrical current, storing information through resistance, and remembering p",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Mon, 02 Nov 2026 02:42:28 +0000",
+        "source_url": "https://scitechdaily.com/scientists-create-a-tiny-electronic-device-that-can-learn-like-the-human-brain/",
+        "image_url": "https://scitechdaily.com/images/Innovative-Components-Based-on-an-Oxide-Interface-777x504.jpg",
         "impact": 5
       },
       {
@@ -35,28 +57,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/alzheimers-disease-blood-test-tube.webp",
         "impact": 5
-      },
-      {
-        "title": "A surprising vitamin A discovery is changing what scientists know about vision",
-        "summary": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work togethe",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 31 Oct 2026 00:31:41 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/light-blue-iris-eye-close-up.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists discover why chronic back pain feels so personal",
-        "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this ne",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 29 Oct 2026 20:26:37 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/woman-back-pain-spinal-cord.webp",
-        "impact": 5
       }
     ],
     "tech": [
@@ -72,6 +72,39 @@
         "impact": 4
       },
       {
+        "title": "Apple’s inventory surges 154% as memory chip costs climb",
+        "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 02 Nov 2026 23:04:57 +0000",
+        "source_url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+        "impact": 4
+      },
+      {
+        "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+        "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or sel",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-02T15:37:49-05:00",
+        "source_url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&strip=all&crop=12.458333333333%2C0%2C87.541666666667%2C100&w=1200",
+        "impact": 4
+      },
+      {
+        "title": "The Download: the agentic web arrives and the drive for safer roads",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agent",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 02 Nov 2026 13:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
         "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
         "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 a",
         "category": "Tech",
@@ -81,53 +114,9 @@
         "source_url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
         "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
         "impact": 4
-      },
-      {
-        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-        "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 31 Oct 2026 01:20:05 +0000",
-        "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-        "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-11-01T09:00:00-05:00",
-        "source_url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&strip=all&crop=0%2C19.336604742637%2C80.59453125%2C63.294399383614&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
-        "summary": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Sun, 01 Nov 2026 12:00:00 +0000",
-        "source_url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-        "image_url": "https://media.wired.com/photos/6adf47c4094d0f0ff2dda226/191:100/w_1280,c_limit/102626-Google%20Vids.jpg",
-        "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "First patient undergoes pioneering stem-cell treatment for Parkinson's",
-        "summary": "A patient has undergone pioneering stem-cell therapy to treat Parkinson's disease, the Japanese drugmaker behind the treatment said on Friday, in a world first following its conditional approval in the country.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 30 Oct 2026 13:20:24 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-patient-stem-cell-treatment-parkinson.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/parkinsons.jpg",
-        "impact": 5
-      },
       {
         "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
         "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way for more precise dia",
@@ -140,36 +129,47 @@
         "impact": 5
       },
       {
-        "title": "Tumor index can identify breast cancer patients' drug response",
-        "summary": "Researchers at The Hong Kong Polytechnic University (PolyU) have developed an imaging biomarker, the Tumour Heterogeneity Index (THI), which enables noninvasive assessment of breast cancer patients' response to AKT inhibitors before treatment, helping clinicians identify patients most likely to benefit from therapy. Th",
+        "title": "ASN: Fruits and vegetables improve outcomes in stage 3 chronic kidney disease",
+        "summary": "For patients with stage 3 chronic kidney disease (CKD), receiving fruits and vegetables (F&amp;V) is associated with better clinical outcomes than standard treatment with sodium bicarbonate (NaHCO₃ [HCO₃]) or usual care, according to a study presented at Kidney Week, the annual meeting of the American Society of Nephro",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 01 Nov 2026 17:00:10 EST",
-        "source_url": "https://medicalxpress.com/news/2026-10-tumor-index-breast-cancer-patients.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/polyu-develops-tumour.jpg",
+        "published_at": "Mon, 02 Nov 2026 15:00:24 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-asn-fruits-vegetables-outcomes-stage.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/fruits-and-vegetables.jpg",
         "impact": 4
       },
       {
-        "title": "Personalized score uses ten blood markers to flag disease risk and assess healthy aging",
-        "summary": "Studies conducted in various countries indicate that approximately 60% of people over age 65 currently live with two or more chronic conditions. With the aim of reversing this trend and promoting healthy aging, European researchers have created a new personalized indicator that provides a detailed snapshot of a patient",
+        "title": "Engineers address key hurdle for exhaled breath diagnostics",
+        "summary": "Chronic obstructive pulmonary disease (COPD), a chronic condition that causes increasing difficulty in breathing as it progresses, is the third leading cause of death worldwide. The clinical diagnosis and monitoring of COPD and other pulmonary diseases can be taxing, often requiring blood testing, which can be uncomfor",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 30 Oct 2026 22:40:07 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-personalized-score-ten-blood-markers.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-metabolic-marker-p.jpg",
+        "published_at": "Mon, 02 Nov 2026 14:20:19 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-key-hurdle-exhaled-diagnostics.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/notre-dame-engineers-a.jpg",
         "impact": 4
       },
       {
-        "title": "Acute kidney injury up for older patients, men with OD-involved hospitalization",
-        "summary": "Acute kidney injury (AKI) occurs more often among older patients and men with drug overdose–involved hospitalizations, while severe inpatient courses disproportionately affect younger patients, according to research published in the U.S. Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report.",
+        "title": "US approves cheap generic of breakthrough HIV shot for poorer countries",
+        "summary": "The U.S. Food and Drug Administration on Monday approved a low-cost version of a twice-yearly HIV prevention shot, bringing the breakthrough drug closer to market in low-income countries.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 30 Oct 2026 19:20:01 EDT",
-        "source_url": "https://medicalxpress.com/news/2026-10-acute-kidney-injury-older-patients.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/emergency-care.jpg",
+        "published_at": "Mon, 02 Nov 2026 13:55:27 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-cheap-generic-breakthrough-hiv-shot.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-clinician-fills-a-sy.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Common drugs may help dangerous viruses spread through the body",
+        "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and othe",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 27 Oct 2026 06:46:21 EDT",
+        "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
+        "summary": "Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 02 Nov 2026 06:20:05 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/szkgT2bv2ViuYuz35aGhGZ-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
         "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
         "category": "Space",
@@ -254,25 +265,14 @@
         "impact": 4
       },
       {
-        "title": "APOD: 2026 November 1 – Colors of the Moon",
-        "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional ",
+        "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+        "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
         "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Sun, 01 Nov 2026 04:05:00 +0000",
-        "source_url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "November’s Night Sky Notes: Light-Day Away",
-        "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice gi",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Fri, 30 Oct 2026 10:00:00 +0000",
-        "source_url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26353/PIA26353.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 02 Nov 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/qrVGgKSEJE8WP8FDPfjT3h-1920-80.png",
         "impact": 4
       },
       {
@@ -288,6 +288,17 @@
       }
     ],
     "astronomy": [
+      {
+        "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
+        "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 02 Nov 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/9mA3zrpui3mS5HYJHvw4fD-1920-80.jpg",
+        "impact": 4
+      },
       {
         "title": "It's a Ghost! No, It's a Stellar Crèche!",
         "summary": "Astronomers using the Chandra X-ray Observatory (CXO), the James Webb Space Telescope (JWST) zeroed in on a wispy-looking region of the Carina Nebula and found a ghostly looking cloud seemingly floating in isolation among the other clouds of gas and dust. Just in time for Hallowe'en, although, it turns out that little ",
@@ -331,42 +342,9 @@
         "source_url": "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate",
         "image_url": "https://cdn.mos.cms.futurecdn.net/Kja7G4PLLXQSasLn3kGfrg-1920-80.png",
         "impact": 4
-      },
-      {
-        "title": "Martian Polar Crater Ice Shifts with Seasonal Frost",
-        "summary": "The planet Mars shares many landforms and weather patterns with the Earth, including changing seasons, volcanoes, canyons, dust storms and dust devils, and water ice. But one feature that Earth and Mars share among the eight planets in our solar system are polar ice caps. Both are one of each planet’s striking features",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Sun, 01 Nov 2026 03:06:40 +0000",
-        "source_url": "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost",
-        "image_url": "https://www.universetoday.com/article_images/7061_Mars-Crater-North-Layered-Deposits-MRO-HIRISE-full2.jpg_750_20261101_030553.jpg",
-        "impact": 3
       }
     ],
     "architecture": [
-      {
-        "title": "KOI Restaurant / SOA Architekti",
-        "summary": "The restaurant in Košice occupies a corner building in the historic city centre, in a space that previously housed a clothing or furniture store. The business is run by a father and son. The father brings personal experience, a strong sense of family tradition, and an openness to blending diverse culinary influences in",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sun, 01 Nov 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187623/koi-soa-architekti",
-        "image_url": "https://images.adsttc.com/media/images/6ae0/d075/20d6/d801/8852/1884/large_jpg/koi-soa-architekti_3.jpg?1793118369",
-        "impact": 4
-      },
-      {
-        "title": "Rotiers - Renovation of 46 housing units in Brussels / MULTIPLE Architecture & Urbanism",
-        "summary": "The Rotiers project aims to give a renewed architectural identity to a 1960s social housing building while preserving the qualities of its setting. Located at the edge of the Sonian Forest and surrounded by mature trees, the building is renovated in close relation to its landscape. The intervention addresses several sc",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 30 Oct 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187565/rotiers-renovation-of-46-housing-units-in-brussels-multiple-architecture-and-urbanism",
-        "image_url": "https://images.adsttc.com/media/images/6adf/8efb/3271/8400/01d0/ecee/large_jpg/Rotiers_08_Bruno_Dias_Ventura.jpg?1793036122",
-        "impact": 4
-      },
       {
         "title": "Büro Ziyu Zhuang designs Chinese museum cluster to \"blend seamlessly\" into meadow",
         "summary": "Chinese architecture studio Büro Ziyu Zhuang embedded four cultural buildings, including a viewing tower and a rammed-earth workshop, into parkland in Xianning, China, to create the Zi Museum. The post Büro Ziyu Zhuang designs Chinese museum cluster to &quot;blend seamlessly&quot; into meadow appeared first on Dezeen.",
@@ -390,18 +368,51 @@
         "impact": 4
       },
       {
-        "title": "Escola Sant Ignasi-Jesuïtes de Sarrià / Aquidos",
-        "summary": "Sant Ignasi School, inaugurated in 1892 and designed by architect Joan Martorell, is an emblematic building in Barcelona that has welcomed thousands of students since its foundation. Its architectural composition is characterized by symmetry, organized around a central axis defined by the garden and pond.",
+        "title": "Making the City: ArchDaily Student Project Awards 2027 Open for Submissions",
+        "summary": "The second edition of the ArchDaily Student Project Awards is now open for submissions, and this year we are proud to present it in partnership with Dropcity, a center for architecture and design in Milan. Together, we are asking students around the world one question: What can architecture enable in the city?",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 01 Nov 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187783/escola-sant-ignasi-jesuites-de-sarria-aquidos",
-        "image_url": "https://images.adsttc.com/media/images/6ae3/7638/495d/0300/01a7/652a/large_jpg/archdaily_SantIgnasi_1.jpg?1793291853",
+        "published_at": "Mon, 02 Nov 2026 08:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1187728/making-the-city-archdaily-student-project-awards-2027-open-for-submissions",
+        "image_url": "https://images.adsttc.com/media/images/6ae2/5cb2/db5c/2001/882d/11f0/large_jpg/making-the-city-the-archdaily-student-project-awards-are-now-open-for-submissions_1.jpg?1793219780",
+        "impact": 4
+      },
+      {
+        "title": "Open Call for Architecture Students: ArchDaily Student Project Awards 2027",
+        "summary": "The second edition of the ArchDaily Student Project Awards is now open for submissions, and this year we are proud to present it in partnership with Dropcity, a center for architecture and design in Milan. Together, we are asking students around the world one question: What can architecture enable in the city?",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 02 Nov 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1187913/open-call-for-architecture-students-archdaily-student-project-awards-2027",
+        "image_url": "https://images.adsttc.com/media/images/6ae5/25d0/a04f/d001/89cd/454c/large_jpg/open-call-for-architecture-students-archdaily-student-project-awards-2027_1.jpg?1793402338",
+        "impact": 4
+      },
+      {
+        "title": "In the Wake of the 2024 Floods in Southern Brazil: Restore the Past or Rethink the Future?",
+        "summary": "In May 2024, the floods that hit Rio Grande do Sul exposed a contradiction common to contemporary cities. Many were built alongside rivers and shaped by their presence, yet spent decades trying to control water without incorporating its dynamics into urban planning. Extreme weather events will intensify that vulnerabil",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 02 Nov 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1187403/in-the-wake-of-the-2024-floods-in-southern-brazil-restore-the-past-or-rethink-the-future",
+        "image_url": "https://images.adsttc.com/media/images/6ada/61a8/db5c/2001/882c/fc18/large_jpg/two-years-after-the-floods-in-southern-brazil-restore-the-past-or-rethink-the-future_1.jpg?1792696750",
         "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Trade adoption: The missing ingredient in construction technology transformation",
+        "summary": "True digital transformation doesn&rsquo;t happen in the corporate office &mdash; it succeeds or fails where the steel meets the concrete.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 02 Nov 2026 05:00:00 -0500",
+        "source_url": "https://www.constructiondive.com/spons/trade-adoption-the-missing-ingredient-in-construction-technology-transform/833766/",
+        "image_url": "https://imgproxy.divecdn.com/kMXZuqB5ycMYpo2AT4VELtKxgL25tFfi1mVGGDC-_Nk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db25zdHJ1Y3Rpb25fRGl2ZV9hcnRpY2xlXy1fdmlzdWFsX2Fzc2V0cy5wbmc=.webp",
+        "impact": 4
+      },
       {
         "title": "Punch List: Granite wins infrastructure jobs, Hensel Phelps reaches Tampa airport milestone",
         "summary": "Plus, Bechtel invests $1 million into the trades in Wyoming and the U.S. Navy awards an autonomous construction contract.",
@@ -436,83 +447,72 @@
         "impact": 4
       },
       {
-        "title": "Movers and shakers: Biggest construction and engineering appointments October 2026",
-        "summary": "With winter drawing in, civil engineering and construction firms have made a range of appointments. The post Movers and shakers: Biggest construction and engineering appointments October 2026 appeared first on New Civil Engineer.",
+        "title": "Engineers replace 125-year-old bridge and prepare line for TRU electrification between Leeds and York",
+        "summary": "Major engineering works over a nine-day closure between Leeds and York have seen the railway prepare for future Transpennine Route Upgrade (TRU) electrification. The post Engineers replace 125-year-old bridge and prepare line for TRU electrification between Leeds and York appeared first on New Civil Engineer.",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Fri, 30 Oct 2026 16:16:37 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/movers-and-shakers-biggest-construction-and-engineering-appointments-october-2026-30-10-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/10/MixCollage-30-Oct-2026-03-47-PM-70-560x315.jpg",
+        "published_at": "Mon, 02 Nov 2026 15:11:13 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/engineers-replace-125-year-old-bridge-and-prepare-line-for-tru-electrification-between-leeds-and-york-02-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/Common-Lane-Church-Fenton_cropped-560x315.jpg",
         "impact": 4
-      },
-      {
-        "title": "Granite rides infrastructure spending to revenue growth, record backlog",
-        "summary": "The contractor&rsquo;s third quarter results included $7.5 billion in backlog while revenue increased by 23% year over year to $1.77 billion.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 30 Oct 2026 10:04:00 -0400",
-        "source_url": "https://www.constructiondive.com/news/granite-earnings-infrastructure-spending-record-backlog/873282/",
-        "image_url": "https://imgproxy.divecdn.com/AXCySMJQ8gWU868YsGVW_uebBL4chqRPQGTVpVtvheY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk3MjUzODY4LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "How we detect frontier model misalignment",
-        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "title": "P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior",
+        "summary": "arXiv:2610.40959v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for personal tasks, yet evaluating their safe use of personal context remains difficult because such contexts are private, fragmented, dynamic, and socially situated. We introduce P-ContextBench, a realistic, verifiable, ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 29 Oct 2026 09:00:00 GMT",
-        "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5gtjUYZjCpVMAAv0AbX0Cs/510ae35e592775228a8ef7b7f0911237/how-we-detect-frontier-model-misalignment-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2610.40959",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "title": "The psychophysics of affect in large language models",
+        "summary": "arXiv:2610.40985v1 Announce Type: new Abstract: Good decisions often require considering how outcomes will feel. Yet large language models (LLMs) increasingly enter decision workflows, despite little being known about how they map outcomes to feelings or use those mappings in choice. We tested how LLMs anticipated gamb",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
-        "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/Gp8jNpLlW9YG0p7vG3UfM/c73fa4b5caa4ad978b022dc0123b801b/openai-servicenow-partnership-expansion-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2610.40985",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Legora is building the agentic operating system for legal work",
-        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "title": "Can Personal Requirements Become Supervision for Planning?",
+        "summary": "arXiv:2610.40992v1 Announce Type: new Abstract: Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requirements are public in clinical guidelines and drug labels, yet turning ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
-        "source_url": "https://openai.com/index/legora",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3u1CdSoTYE4igNYP08r65b/3aff62c6d68495f495218a2ccbbf48f3/legora-smoked-glass-seo-image-1920x1080.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2610.40992",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Retell uses OpenAI models to help power 100M monthly calls",
-        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+        "title": "Capability-Grounded Agentic Planning",
+        "summary": "arXiv:2610.41040v1 Announce Type: new Abstract: LLM agents serve natural-language requests through tools, data sources, and other agents, and even simple requests often need several interdependent calls. Typically, the LLM picks these calls by trial and error, with no guarantee of an executable plan. We present Capabil",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
-        "source_url": "https://openai.com/index/retell-ai",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5uWhs4tBhdZ4XPHsi9IaMG/06f4b61c4303de24a65075b3eaf500b2/retell-ai-customer-story-open-graph-acoustic-fabric.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2610.41040",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "AI for Societal Impact",
-        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+        "summary": "arXiv:2610.41044v1 Announce Type: new Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distributed across autonomous LLM agents, particularly when communication is un",
         "category": "AI",
-        "source": "blog.google",
-        "journal": "blog.google",
-        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
-        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2610.41044",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
