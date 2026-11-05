@@ -1,17 +1,50 @@
 {
-  "date": "2026-11-04",
-  "last_updated": "2026-11-04 02:54 UTC",
+  "date": "2026-11-05",
+  "last_updated": "2026-11-05 03:04 UTC",
   "categories": {
     "science": [
       {
-        "title": "Scientists Discover a Powerful New Way To Destroy Toxic “Forever Chemicals”",
-        "summary": "A new water-treatment technology could offer a breakthrough in the fight against forever chemicals. Scientists have developed a new way to destroy toxic “forever chemicals” in water rather than simply filter them out. During a 58-day experiment, the system removed more than 90% of each of six PFAS compounds and strippe",
+        "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+        "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets ",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Mon, 02 Nov 2026 19:48:55 +0000",
-        "source_url": "https://scitechdaily.com/scientists-discover-a-powerful-new-way-to-destroy-toxic-forever-chemicals/",
-        "image_url": "https://scitechdaily.com/images/Palladium-Coated-Membrane-Forever-Chemicals-777x437.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 04 Nov 2026 05:43:44 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
+        "impact": 5
+      },
+      {
+        "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+        "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and applications in electro",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 04 Nov 2026 07:23:36 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/mit-nanoparticle-assembly.webp",
+        "impact": 5
+      },
+      {
+        "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
+        "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties and electrical behavior of exotic materials called altermagnets. The surprising breakthrough could open the door to faster, more energy-efficient electronics and new technologies for quantum computing.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 04 Nov 2026 07:37:52 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/neutron-diffraction-patterns.webp",
+        "impact": 5
+      },
+      {
+        "title": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
+        "summary": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Wed, 04 Nov 2026 17:20:01 EST",
+        "source_url": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-cosmic-hy.jpg",
         "impact": 5
       },
       {
@@ -24,152 +57,119 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/3d-human-liver-anatomy.webp",
         "impact": 5
-      },
-      {
-        "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
-        "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 30 Oct 2026 20:59:52 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/alzheimers-disease-blood-test-tube.webp",
-        "impact": 5
-      },
-      {
-        "title": "A surprising vitamin A discovery is changing what scientists know about vision",
-        "summary": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work togethe",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 31 Oct 2026 00:31:41 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/light-blue-iris-eye-close-up.webp",
-        "impact": 5
-      },
-      {
-        "title": "Mosquitoes Are Picky Eaters – and Scientists Just Figured Out Why They Prefer Certain People",
-        "summary": "Scientists have discovered that different mosquito species are attracted to distinct human scent signatures. A person who attracts one mosquito species may be far less appealing to another. In a study involving 119 volunteers, researchers at Florida International University (FIU) found that three major disease-carrying",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Tue, 03 Nov 2026 23:17:24 +0000",
-        "source_url": "https://scitechdaily.com/mosquitoes-are-picky-eaters-and-scientists-just-figured-out-why-they-prefer-certain-people/",
-        "image_url": "https://scitechdaily.com/images/Infected-Mosquito-Biting-Human-Skin-Yellow-Fever-Malaria-Zika-Virus-777x518.jpg",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some cli",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 30 Oct 2026 11:30:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "The Download: the agentic web arrives and the drive for safer roads",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agent",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 02 Nov 2026 13:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-        "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 a",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 30 Oct 2026 09:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-        "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "summary": "And what that could mean for physical Switch game costs.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Mon, 02 Nov 2026 18:32:21 +0000",
-        "source_url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg",
+        "published_at": "Wed, 04 Nov 2026 22:47:51 +0000",
+        "source_url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-        "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 03 Nov 2026 17:56:52 +0000",
-        "source_url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2281430305.jpg?w=1024",
+        "published_at": "Thu, 05 Nov 2026 01:26:22 +0000",
+        "source_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 04 Nov 2026 22:13:16 +0000",
+        "source_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
+        "impact": 3
+      },
+      {
+        "title": "Meta acquires AI coding startup Conductor",
+        "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 04 Nov 2026 21:10:56 +0000",
+        "source_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
+        "impact": 3
+      },
+      {
+        "title": "Nothing teases a screen-free AI device ahead of launch next month",
+        "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [&#8230;]",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-04T13:26:07-05:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
-        "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way for more precise dia",
+        "title": "How a CRISPR sickle cell therapy moved from lab to clinical trial",
+        "summary": "A UCLA-led team has described how it advanced an experimental CRISPR approach for sickle cell disease into a blood stem cell therapy that can be manufactured at the scale and quality required for a clinical trial.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 04 Nov 2026 18:20:02 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-crispr-sickle-cell-therapy-lab.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-crispr-sickle-ce.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Scientists trick cancer cells into making the drugs that kill them",
+        "summary": "Scientists have developed a promising new cancer-fighting strategy that uses carbon monoxide naturally produced by tumor cells to manufacture powerful drugs inside the cancer cells themselves. Early laboratory experiments suggest the technique could selectively attack cancer while sparing healthy cells, potentially pav",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Mon, 26 Oct 2026 19:57:03 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/human-body-digestive-system-boost.webp",
-        "impact": 5
-      },
-      {
-        "title": "Earlier valve replacement benefits some patients with moderate aortic stenosis",
-        "summary": "Patients with moderate aortic stenosis, a narrowing of the heart's aortic valve, may benefit from undergoing transcatheter aortic valve replacement (TAVR) before the disease becomes severe, according to findings from a clinical trial co-led by Cedars-Sinai investigators.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 03 Nov 2026 11:40:02 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-earlier-valve-benefits-patients-moderate.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2017/heart.jpg",
+        "published_at": "Tue, 03 Nov 2026 23:05:31 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/cancer-killing-drug-made-inside-tumor-cells.webp",
         "impact": 4
       },
       {
-        "title": "Common drugs may help dangerous viruses spread through the body",
-        "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and othe",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 27 Oct 2026 06:46:21 EDT",
-        "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
-        "impact": 4
-      },
-      {
-        "title": "Single dose of healthy liver vesicles may protect against alcohol damage",
-        "summary": "Alcohol-related liver disease (ALD) is characterized by hepatocellular injury, oxidative stress, inflammation and extracellular matrix remodeling, yet effective therapies remain limited. New research in The American Journal of Pathology, found that a single dose of liver matrix-bound nanovesicles (MBVs) derived from he",
+        "title": "Chronic illness linked to higher prescription drug misuse",
+        "summary": "Working-age adults who manage more chronic health conditions are more likely to misuse prescription medications, researchers in the Maxwell School of Citizenship and Public Affairs found.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 03 Nov 2026 21:00:02 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-dose-healthy-liver-vesicles-alcohol.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/single-dose-of-healthy.jpg",
+        "published_at": "Wed, 04 Nov 2026 16:40:12 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-chronic-illness-linked-higher-prescription.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/prescription-drug.jpg",
         "impact": 4
       },
       {
-        "title": "Health system analysis reveals shift toward less invasive heart valve replacement among younger patients",
-        "summary": "New research simultaneously published in the Journal of the Society for Cardiovascular Angiography & Interventions and presented at TCT 2026 found that the annual number of transcatheter aortic valve replacement (TAVR) procedures among patients younger than 70 increased nearly ninefold within one health system, rising ",
+        "title": "WHO hails progress against neglected tropical diseases",
+        "summary": "The World Health Organization on Wednesday celebrated \"major progress\" against neglected tropical diseases, with some like sleeping sickness all but disappearing, but urged more investment and faster and broader action.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 03 Nov 2026 17:20:04 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-health-analysis-reveals-shift-invasive.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-health-2.jpg",
+        "published_at": "Wed, 04 Nov 2026 16:20:02 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-hails-neglected-tropical-diseases.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/world-health-organizat.jpg",
+        "impact": 4
+      },
+      {
+        "title": "WHO approves clinical trials on two new Ebola vaccines",
+        "summary": "The World Health Organization on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 04 Nov 2026 16:00:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-clinical-trials-ebola-vaccines.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/1-vaccine.jpg",
         "impact": 4
       }
     ],
@@ -232,17 +232,6 @@
     ],
     "space": [
       {
-        "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-        "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grum",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Mon, 02 Nov 2026 17:33:22 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-        "image_url": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg",
-        "impact": 5
-      },
-      {
         "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
         "summary": "NASA's Artemis IV moon mission will be a complicated affair — especially if SpaceX's Starship ends up being the lunar lander. The massive spacecraft will need an unknown number of refuel flights in two separate orbits.",
         "category": "Space",
@@ -252,17 +241,6 @@
         "source_url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
         "image_url": "https://cdn.mos.cms.futurecdn.net/Nu5bWDwZmhSzFr3qifWiqj-1920-80.jpg",
         "impact": 5
-      },
-      {
-        "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-        "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s U",
-        "category": "Space",
-        "source": "science.nasa.gov",
-        "journal": "science.nasa.gov",
-        "published_at": "Mon, 02 Nov 2026 18:19:58 +0000",
-        "source_url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
-        "image_url": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg",
-        "impact": 4
       },
       {
         "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
@@ -285,6 +263,28 @@
         "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg",
         "impact": 4
+      },
+      {
+        "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
+        "summary": "On Nov. 4, 2015, the United States Air Force launched an experimental Super Strypi rail-launched rocket carrying 13 tiny satellites, but it failed just after liftoff from Hawaii.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 04 Nov 2026 23:00:36 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/RLwiYvR97AgM2qiaxieDDg-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
+        "summary": "NASA's Swift space telescope crashed back to Earth today (Nov. 4), three months after a private spacecraft was supposed to boost the observatory to a higher orbit.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 04 Nov 2026 19:06:08 +0000",
+        "source_url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/FPZUTd9PY8i9Q9d4pN8f6B-1920-80.jpg",
+        "impact": 4
       }
     ],
     "astronomy": [
@@ -297,17 +297,6 @@
         "published_at": "Mon, 02 Nov 2026 17:00:00 +0000",
         "source_url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
         "image_url": "https://cdn.mos.cms.futurecdn.net/9mA3zrpui3mS5HYJHvw4fD-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "It's a Ghost! No, It's a Stellar Crèche!",
-        "summary": "Astronomers using the Chandra X-ray Observatory (CXO), the James Webb Space Telescope (JWST) zeroed in on a wispy-looking region of the Carina Nebula and found a ghostly looking cloud seemingly floating in isolation among the other clouds of gas and dust. Just in time for Hallowe'en, although, it turns out that little ",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 29 Oct 2026 23:25:37 +0000",
-        "source_url": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
-        "image_url": "https://www.universetoday.com/article_images/reaper_20261029_231145.jpg",
         "impact": 4
       },
       {
@@ -342,40 +331,40 @@
         "source_url": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
         "image_url": "https://cdn.mos.cms.futurecdn.net/ti44BXu7RTPBs2VejfL6kV-1920-80.png",
         "impact": 4
+      },
+      {
+        "title": "Giant Impacts Help Rocky Planets Retain Their Atmospheres",
+        "summary": "For a long time, planetary scientists thought that giant impacts drove a young planet's atmosphere away into space with all the heat they generated. But it turns out the opposite could be true. The mass a young planet gains through a giant impact increases its gravitational hold on its atmosphere.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 04 Nov 2026 16:14:46 +0000",
+        "source_url": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres",
+        "image_url": "https://www.universetoday.com/article_images/1280px-Artists_concept_of_collision_at_HD_172555_20261104_160231.jpg",
+        "impact": 3
       }
     ],
     "architecture": [
       {
-        "title": "SFJ6 Building / MARMOLBRAVO + MADhel",
-        "summary": "SFJ6 is a project of 102 dwellings designed to adapt to the complexity of the city, solving several urban problems and generating quality public spaces in its surroundings. The building is integrated into the city as a folded volume that embraces the disparate existing buildings, taking special care of the contact area",
+        "title": "Human-Centered Design: How does design shape the way we live, feel, and connect?",
+        "summary": "To say that we design \"for people\" seems like a fundamental premise of architecture. However, this statement presents a problem: people are not a homogeneous category. Human-Centered Design invites us to question whom we observe, listen to, and represent when making design decisions. Through an interdisciplinary conver",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 03 Nov 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1010105/sfj6-building-marmolbravo-plus-madhel",
-        "image_url": "https://images.adsttc.com/media/images/655e/42ed/0ca0/c301/7c6e/2878/large_jpg/edificio-sfj6-marmolbravo-plus-madhel_2.jpg?1700676342",
+        "published_at": "Wed, 04 Nov 2026 09:15:00 +0000",
+        "source_url": "https://www.archdaily.com/1188071/human-centered-design-how-does-design-shape-the-way-we-live-feel-and-connect",
+        "image_url": "https://images.adsttc.com/media/images/6aeb/2438/1f37/4900/010d/10a3/large_jpg/HCD_MTY.jpg?1793795136",
         "impact": 4
       },
       {
-        "title": "Ar-Rahbah Market at Amman Design Week 2026 / Laith Matarweh Studio for Architecture",
-        "summary": "The proposal conceives Ar-Rahbah as an open urban void that mediates movement while accommodating social and commercial activities. Its cubic form draws from the cubic geometries that characterize the urban fabric of Amman, abstracting the continuous aggregation of built volumes into a lightweight and permeable market ",
+        "title": "Black Miller House / Three Sixty Architecture",
+        "summary": "Black Miller House is conceived as a cluster of contemporary pavilions embedded within a 32-hectare coastal hill landscape. The design retains much of the existing dwelling while introducing new living and sleeping wings, creating a relaxed, climate-responsive retreat that feels grounded in the land and open to the exp",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 03 Nov 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187738/ar-rahbah-market-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6ae3/1ebf/3271/8400/01d0/faf7/large_jpg/03_Ar-Rahbah_Market_Mohanad_Jihad.jpg?1793269506",
-        "impact": 4
-      },
-      {
-        "title": "Architecture and Neurodivergence: Designing for Different Ways of Perceiving Space",
-        "summary": "Wide doorways, properly designed ramps, and elevators are essential to a building's accessibility. But whether people can actually use its spaces also depends on the sensory conditions they offer. For some neurodivergent people, this is critical, as bright lights, overlapping sounds, or confusing circulation routes can",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 03 Nov 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187145/architecture-and-neurodivergence-designing-for-different-ways-of-perceiving-space",
-        "image_url": "https://images.adsttc.com/media/images/6ad6/5a14/8008/f401/8ba5/45de/large_jpg/architecture-and-neurodivergence-designing-for-different-ways-of-perceiving-space_12.jpg?1792432690",
+        "published_at": "Wed, 04 Nov 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187590/black-miller-house-three-sixty-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6ae0/a572/20d6/d811/3b1a/5848/large_jpg/black-miller-house-three-sixty-architecture_7.jpg?1793107332",
         "impact": 4
       },
       {
@@ -399,12 +388,23 @@
         "source_url": "https://www.dezeen.com/2026/10/27/ohlab-experiments-with-colour-blocking-and-cork-in-old-and-new-buildings-of-terreno-barrio-hotel-in-mallorca/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/10/terreno-barrio-hotel-ohlab_dezeen_2364_sq_1.jpg",
         "impact": 4
+      },
+      {
+        "title": "podcast: curing urban isolation through collective care and architectural intuition",
+        "summary": "the room for utopias podcast continues with indian architects and designers examining how spatial layouts foster connection and decode desires clients never think to ask for. The post podcast: curing urban isolation through collective care and architectural intuition appeared first on designboom | architecture &amp; de",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Wed, 04 Nov 2026 11:00:48 +0000",
+        "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-03-04/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/indx-global-room-for-utopias-podcast-02-designboom-1200.jpg",
+        "impact": 4
       }
     ],
     "construction": [
       {
         "title": "Clark Construction details ‘unique puzzle’ in DC Metro upgrades",
-        "summary": "Constructing and demoing within existing rail stops meant using specialized equipment for cramped spaces and getting creative with concrete placement.",
+        "summary": "With specialized remote-demolition robots, crews removed over 18,000 square feet of platform tile and concrete topping slab.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
@@ -436,81 +436,81 @@
         "impact": 4
       },
       {
-        "title": "Balfour Beatty completes nine-day renewal in Saxmundham to accommodate Sizewell C freight",
-        "summary": "Infrastructure group Balfour Beatty completed a nine‑day programme of work to renew a key junction on the East Suffolk Line which will aim to help accommodate future freight traffic to the Sizewell C construction site. The post Balfour Beatty completes nine-day renewal in Saxmundham to accommodate Sizewell C freight ap",
+        "title": "New ICE President seeks custodians of outcomes",
+        "summary": "In her Presidential address upon becoming Institution of Civil Engineers (ICE) President, Julie Wood put a focus on the purpose of infrastructure, industrialisation of engineering and the importance of social mobility within the industry. The post New ICE President seeks custodians of outcomes appeared first on New Civ",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Tue, 03 Nov 2026 10:19:37 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/balfour-beatty-completes-nine-day-renewal-in-saxmundham-to-accommodate-for-sizewell-c-freight-03-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/Saxmundham-Junction-October-2026-Anglia-1-560x315.jpg",
+        "published_at": "Wed, 04 Nov 2026 13:50:55 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/new-ice-president-seeks-custodians-of-outcomes-04-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/VEC725_015-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "Engineers replace 125-year-old bridge and prepare line for TRU electrification between Leeds and York",
-        "summary": "Major engineering works over a nine-day closure between Leeds and York have seen the railway prepare for future Transpennine Route Upgrade (TRU) electrification. The post Engineers replace 125-year-old bridge and prepare line for TRU electrification between Leeds and York appeared first on New Civil Engineer.",
+        "title": "Dotted Line: Faster military construction creates opportunities, risks for contractors",
+        "summary": "Attorneys warn design errors and cost overruns from accelerated&nbsp;federal construction delivery could be passed on to builders.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Mon, 02 Nov 2026 15:11:13 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/engineers-replace-125-year-old-bridge-and-prepare-line-for-tru-electrification-between-leeds-and-york-02-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/Common-Lane-Church-Fenton_cropped-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 04 Nov 2026 13:51:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/dotted-line-faster-military-construction-opportunities-risks/873712/",
+        "image_url": "https://imgproxy.divecdn.com/Z9ibnnXJCFAbeaFBP-wdQ9HFoh8GHibvssb76jgSxVc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db25zdHJ1Y3Rpb24taWxsdXN0cmF0aW9uLWNlbnN1c19jb3N0cy0wMzIzMjAtRFRfMS5qcGc=.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies",
-        "summary": "arXiv:2611.00171v1 Announce Type: new Abstract: Text-to-SQL systems translate natural language questions into executable SQL queries, democratizing access to relational data. Early approaches relied on handcrafted rules and template matching, while subsequent neural methods introduced encoder-decoder architectures, sch",
+        "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
+        "summary": "arXiv:2611.03721v1 Announce Type: new Abstract: Recent breakthroughs in artificial-intelligence-assisted mathematics show that open-ended machine search can outperform human mathematicians, yet transferring this paradigm to physics requires refactoring the research workflow. We introduce Simjecture, an open-source fram",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 03 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.00171",
+        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.03721",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Taurus: LLM-in-the-Loop CT Annotation Matches Coding Agents at Half the Cost",
-        "summary": "arXiv:2611.00247v1 Announce Type: new Abstract: Dense labels of the aorta in CT are slow to draw, and the public aortic CT datasets that could stand in for them each label different structures under their own conventions. Large language model (LLM) agents can now write code and read images. We asked whether such a mode",
+        "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+        "summary": "arXiv:2611.03662v1 Announce Type: new Abstract: The Model Context Protocol (MCP) connects large language model agents to external tools and services through official SDKs that implement message validation and session logic. Specification constraints omitted by these SDKs may propagate to downstream applications, highli",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 03 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.00247",
+        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.03662",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Dependence-Aware Risk Assessment and Optimal Design of AI-Agent Safeguard Systems",
-        "summary": "arXiv:2611.00386v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on safeguards to prevent unauthorized actions while preserving legitimate service. However, existing risk assessments often focus on individual safeguard performance while overlooking dependence among safeguard decisions",
+        "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+        "summary": "arXiv:2611.03698v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) aims to enable AI systems to autonomously build and improve AI systems themselves, including models, harnesses, and underlying infrastructure. Within this broader agenda, a central capability is enabling agents to train and improve base mo",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 03 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.00386",
+        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.03698",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Hacking or Just Failing? A More Capable LLM Monitor Better Separates Reward Hacking from Honest Failure",
-        "summary": "arXiv:2611.00407v1 Announce Type: new Abstract: An agent's visible score can exceed its real progress because it gamed the score or because it simply made mistakes, so a useful reward-hacking monitor must tell the two apart. We built a sandboxed task in which an agent can game a completion score, labelled every episode",
+        "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
+        "summary": "arXiv:2611.03713v1 Announce Type: new Abstract: Before a scientist fits any parameter, they must decide what the model contains: which quantities exist, which are hidden, how they interact, and how they are measured. Physicists call such a trial form an ansatz. Benchmarks for automated equation discovery mostly supply ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 03 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.00407",
+        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.03713",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Agentic Context Management for Multi-Turn Human-AI Conversations",
-        "summary": "arXiv:2611.00518v1 Announce Type: new Abstract: LLMs degrade in multi-turn conversation partly because of context pollution: the model's own earlier outputs stay in context and anchor later turns, so an early misreading of the user's intent can persist after the user corrects it. Assistant omission (AO), dropping every",
+        "title": "EMBERS: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing",
+        "summary": "arXiv:2611.03723v1 Announce Type: new Abstract: Deep Research (DR) systems extend large language models into autonomous agents that decompose complex information needs, iteratively search the web, and synthesize evidence to answer challenging questions. However, their multi-stage execution may introduce robustness risk",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 03 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.00518",
+        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.03723",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
