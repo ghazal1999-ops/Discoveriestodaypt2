@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "last_updated": "2026-11-05 03:04 UTC",
+  "date": "2026-11-06",
+  "last_updated": "2026-11-06 03:05 UTC",
   "categories": {
     "science": [
       {
@@ -26,6 +26,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists discover that a clogged filter could revolutionize oil refining",
+        "summary": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Thu, 05 Nov 2026 09:04:07 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/membrane-technolog-separates-crude-oil-without-boiling.webp",
+        "impact": 5
+      },
+      {
         "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
         "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties and electrical behavior of exotic materials called altermagnets. The surprising breakthrough could open the door to faster, more energy-efficient electronics and new technologies for quantum computing.",
         "category": "Science",
@@ -34,17 +45,6 @@
         "published_at": "Wed, 04 Nov 2026 07:37:52 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/neutron-diffraction-patterns.webp",
-        "impact": 5
-      },
-      {
-        "title": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
-        "summary": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Wed, 04 Nov 2026 17:20:01 EST",
-        "source_url": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-cosmic-hy.jpg",
         "impact": 5
       },
       {
@@ -61,6 +61,50 @@
     ],
     "tech": [
       {
+        "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+        "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 05 Nov 2026 23:09:36 +0000",
+        "source_url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+        "summary": "Software optimizes a physical model of the telescope to reduce noise.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 05 Nov 2026 19:59:22 +0000",
+        "source_url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png",
+        "impact": 3
+      },
+      {
+        "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+        "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 05 Nov 2026 17:40:27 +0000",
+        "source_url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png",
+        "impact": 3
+      },
+      {
+        "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+        "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Thu, 05 Nov 2026 12:00:41 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
+        "impact": 3
+      },
+      {
         "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
         "summary": "And what that could mean for physical Switch game costs.",
         "category": "Tech",
@@ -70,62 +114,18 @@
         "source_url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
         "impact": 3
-      },
-      {
-        "title": "Apple is reportedly cutting budgets for its internal AI usage",
-        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Thu, 05 Nov 2026 01:26:22 +0000",
-        "source_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-        "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 04 Nov 2026 22:13:16 +0000",
-        "source_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
-        "impact": 3
-      },
-      {
-        "title": "Meta acquires AI coding startup Conductor",
-        "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Wed, 04 Nov 2026 21:10:56 +0000",
-        "source_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
-        "impact": 3
-      },
-      {
-        "title": "Nothing teases a screen-free AI device ahead of launch next month",
-        "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [&#8230;]",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-11-04T13:26:07-05:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "How a CRISPR sickle cell therapy moved from lab to clinical trial",
-        "summary": "A UCLA-led team has described how it advanced an experimental CRISPR approach for sickle cell disease into a blood stem cell therapy that can be manufactured at the scale and quality required for a clinical trial.",
+        "title": "Scientists turn viruses into weapons against deadly superbugs",
+        "summary": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this experimental treatmen",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 04 Nov 2026 18:20:02 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-crispr-sickle-cell-therapy-lab.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-a-crispr-sickle-ce.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 04 Nov 2026 21:40:33 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/phage-therapy-bacteriophages-attcking-bacteria.webp",
         "impact": 4
       },
       {
@@ -140,36 +140,36 @@
         "impact": 4
       },
       {
-        "title": "Chronic illness linked to higher prescription drug misuse",
-        "summary": "Working-age adults who manage more chronic health conditions are more likely to misuse prescription medications, researchers in the Maxwell School of Citizenship and Public Affairs found.",
+        "title": "Putty-like electrode could improve vocal rehabilitation",
+        "summary": "A team of McGill University researchers has developed a putty-like electrode that molds to the skin to improve treatment and monitoring of voice disorders and upper airway diseases. In a proof-of-concept study, the sensor matched a standard clinical electrode for noise and stability while recording activity from small ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 04 Nov 2026 16:40:12 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-chronic-illness-linked-higher-prescription.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/prescription-drug.jpg",
+        "published_at": "Thu, 05 Nov 2026 13:40:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-putty-electrode-vocal.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/putty-like-electrode-c.jpg",
         "impact": 4
       },
       {
-        "title": "WHO hails progress against neglected tropical diseases",
-        "summary": "The World Health Organization on Wednesday celebrated \"major progress\" against neglected tropical diseases, with some like sleeping sickness all but disappearing, but urged more investment and faster and broader action.",
+        "title": "Nasal spray duo offers relief for stubborn blocked noses without rebound congestion in early clinical trial",
+        "summary": "A blocked nose can make it difficult to sleep and taste food, and it can get really annoying after a while. Nasal decongestant sprays like oxymetazoline can provide relief, but continued use can worsen nasal obstruction by causing irritation and inflammation in the nasal passages. A recent clinical trial was on a missi",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 04 Nov 2026 16:20:02 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-hails-neglected-tropical-diseases.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/world-health-organizat.jpg",
+        "published_at": "Thu, 05 Nov 2026 13:00:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-nasal-spray-duo-relief-stubborn.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasal-spray-duo-offers.jpg",
         "impact": 4
       },
       {
-        "title": "WHO approves clinical trials on two new Ebola vaccines",
-        "summary": "The World Health Organization on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people.",
+        "title": "Study links clinical characteristics to brain network connectivity in disorders of consciousness",
+        "summary": "Predicting recovery for patients with disorders of consciousness (DoC) is exceptionally difficult due to the vast differences in injury causes and demographic backgrounds. In a new study published in The Innovation Life, researchers from the Institute of Biophysics of the Chinese Academy of Sciences, Beijing Tiantan Ho",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 04 Nov 2026 16:00:06 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-clinical-trials-ebola-vaccines.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2021/1-vaccine.jpg",
+        "published_at": "Thu, 05 Nov 2026 12:40:01 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-links-clinical-characteristics-brain-network.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-links-clinical-c-1.jpg",
         "impact": 4
       }
     ],
@@ -243,51 +243,73 @@
         "impact": 5
       },
       {
-        "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
-        "summary": "Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit.",
+        "title": "Midwestern City Lights",
+        "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 02 Nov 2026 06:20:05 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/szkgT2bv2ViuYuz35aGhGZ-1920-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 05 Nov 2026 15:17:19 +0000",
+        "source_url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg",
         "impact": 4
       },
       {
-        "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-        "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
+        "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+        "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 01 Nov 2026 14:50:15 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 04 Nov 2026 18:00:02 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
         "impact": 4
       },
       {
-        "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
-        "summary": "On Nov. 4, 2015, the United States Air Force launched an experimental Super Strypi rail-launched rocket carrying 13 tiny satellites, but it failed just after liftoff from Hawaii.",
+        "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+        "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulat",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 04 Nov 2026 23:00:36 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/RLwiYvR97AgM2qiaxieDDg-1920-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 04 Nov 2026 16:52:43 +0000",
+        "source_url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+        "image_url": "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg",
         "impact": 4
       },
       {
-        "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
-        "summary": "NASA's Swift space telescope crashed back to Earth today (Nov. 4), three months after a private spacecraft was supposed to boost the observatory to a higher orbit.",
+        "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Amalthea only to find it's a 'pile of icy rubble less dense than water'",
+        "summary": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 04 Nov 2026 19:06:08 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/FPZUTd9PY8i9Q9d4pN8f6B-1920-80.jpg",
+        "published_at": "Thu, 05 Nov 2026 18:27:44 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/sdurotGsCyT4bvayfsvTxb-1920-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
+        "summary": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these galaxies should have been far less common so soon after the Big Bang. Researchers may have figured t",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 05 Nov 2026 17:11:33 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+        "image_url": "https://www.universetoday.com/article_images/Lede_LymanAlpha_c.Matt-Twombly_Simons-Foundation.jpg-1024x576_20261105_133649.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
+        "summary": "Finding dim exoplanets hidden in the glare of their stars is an ongoing challenge in astronomy. Telescopes use coronagraphs to block out starlight, but even they have their limitations. Researchers have developed a new technique with the JWST that can find dim exoplanets more easily than ever.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 05 Nov 2026 12:42:40 +0000",
+        "source_url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
+        "image_url": "https://www.universetoday.com/article_images/STScI-01F3NW8E6TFNH2PDM8S6CSVA3P_20261104_225248.jpg",
+        "impact": 4
+      },
       {
         "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
         "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
@@ -300,71 +322,49 @@
         "impact": 4
       },
       {
-        "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
-        "summary": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 03 Nov 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/KckHSz3cKUaFQJHGiYko5E-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times",
-        "summary": "Using the Hubble Space Telescope, astronomers have investigated a cosmic cat's tail formed when two Pluto-sized bodies smashed together.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 03 Nov 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/JdhwuurXREwXnvn9qQXeU7-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
-        "summary": "Radio images show the supergiant's atmosphere recovering from its dramatic dimming, while a companion plows through its outer layers.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 31 Oct 2026 12:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ti44BXu7RTPBs2VejfL6kV-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Giant Impacts Help Rocky Planets Retain Their Atmospheres",
-        "summary": "For a long time, planetary scientists thought that giant impacts drove a young planet's atmosphere away into space with all the heat they generated. But it turns out the opposite could be true. The mass a young planet gains through a giant impact increases its gravitational hold on its atmosphere.",
+        "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
+        "summary": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capab",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 04 Nov 2026 16:14:46 +0000",
-        "source_url": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres",
-        "image_url": "https://www.universetoday.com/article_images/1280px-Artists_concept_of_collision_at_HD_172555_20261104_160231.jpg",
-        "impact": 3
+        "published_at": "Thu, 05 Nov 2026 15:08:44 +0000",
+        "source_url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
+        "image_url": "https://www.universetoday.com/article_images/opo2520_20261105_150830.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Early Black Friday beginner telescope deal — this portable Celestron is now 25% off at Amazon",
+        "summary": "This portable and beginner-friendly telescope is perfect for stargazing newbies or those who want better views but aren't ready to spend thousands.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 05 Nov 2026 12:05:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/early-black-friday-beginner-telescope-deal-this-portable-celestron-is-now-25-percent-off-at-amazon",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Y2oRe3rasGbzzDMZYKSiqT-1920-80.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Human-Centered Design: How does design shape the way we live, feel, and connect?",
-        "summary": "To say that we design \"for people\" seems like a fundamental premise of architecture. However, this statement presents a problem: people are not a homogeneous category. Human-Centered Design invites us to question whom we observe, listen to, and represent when making design decisions. Through an interdisciplinary conver",
+        "title": "Milan’s New San Siro Stadium and the BIAU’s 12 Awarded Projects: This Week’s Review",
+        "summary": "This week started with World Cities Day, which this year, in line with World Architecture Day, was an occasion to spotlight deficient access to adequate housing, secure tenure, basic services, and affordable living conditions worldwide. Once again, we are faced with a call to approach architecture and urban design diff",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 04 Nov 2026 09:15:00 +0000",
-        "source_url": "https://www.archdaily.com/1188071/human-centered-design-how-does-design-shape-the-way-we-live-feel-and-connect",
-        "image_url": "https://images.adsttc.com/media/images/6aeb/2438/1f37/4900/010d/10a3/large_jpg/HCD_MTY.jpg?1793795136",
-        "impact": 4
+        "published_at": "Thu, 05 Nov 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1188109/milans-new-san-siro-stadium-and-the-biaus-12-awarded-projects-this-weeks-review",
+        "image_url": "https://images.adsttc.com/media/images/6aec/0e71/c723/9a01/895a/2979/large_jpg/a-new-stadium-replacing-milans-san-siro-and-the-unveiling-of-the-biaus-12-awarded-projects-this-weeks-review_6.jpg?1793855130",
+        "impact": 5
       },
       {
-        "title": "Black Miller House / Three Sixty Architecture",
-        "summary": "Black Miller House is conceived as a cluster of contemporary pavilions embedded within a 32-hectare coastal hill landscape. The design retains much of the existing dwelling while introducing new living and sleeping wings, creating a relaxed, climate-responsive retreat that feels grounded in the land and open to the exp",
+        "title": "What AI Reveals About Architecture That Was Never Built",
+        "summary": "Some architectural projects only survive as drawings, competition entries, or models in archives. Others were built, but not as first imagined, and the completed building gradually replaced the original proposal in collective memory. Christopher Wren's St. Paul's Cathedral is familiar to many, but less well known is hi",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 04 Nov 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187590/black-miller-house-three-sixty-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6ae0/a572/20d6/d811/3b1a/5848/large_jpg/black-miller-house-three-sixty-architecture_7.jpg?1793107332",
+        "published_at": "Thu, 05 Nov 2026 06:45:00 +0000",
+        "source_url": "https://www.archdaily.com/1187519/what-ai-reveals-about-architecture-that-was-never-built",
+        "image_url": "https://images.adsttc.com/media/images/6adf/570c/db5c/2001/882d/04f1/large_jpg/what-ai-reveals-about-architecture-that-was-never-built_3.jpg?1793021726",
         "impact": 4
       },
       {
@@ -390,27 +390,27 @@
         "impact": 4
       },
       {
-        "title": "podcast: curing urban isolation through collective care and architectural intuition",
-        "summary": "the room for utopias podcast continues with indian architects and designers examining how spatial layouts foster connection and decode desires clients never think to ask for. The post podcast: curing urban isolation through collective care and architectural intuition appeared first on designboom | architecture &amp; de",
+        "title": "architecture that invites nature as a designer, from dissolving walls to insect-built pavilions",
+        "summary": "these built spaces invite natural forces into the design process, allowing materials to dissolve and buildings to change. The post architecture that invites nature as a designer, from dissolving walls to insect-built pavilions appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
         "source": "designboom.com",
         "journal": "designboom.com",
-        "published_at": "Wed, 04 Nov 2026 11:00:48 +0000",
-        "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-03-04/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/indx-global-room-for-utopias-podcast-02-designboom-1200.jpg",
+        "published_at": "Thu, 05 Nov 2026 22:35:12 +0000",
+        "source_url": "https://www.designboom.com/architecture/nature-take-over-dissolving-walls-insect-built-pavilions/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/architecture-shaped-natural-forces-posthuman-utopias-designboom-FB.jpg",
         "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Clark Construction details ‘unique puzzle’ in DC Metro upgrades",
-        "summary": "With specialized remote-demolition robots, crews removed over 18,000 square feet of platform tile and concrete topping slab.",
+        "title": "Skanska reports record order intake 2 quarters in a row",
+        "summary": "Booming U.S. data center construction kept the firm&rsquo;s third-quarter backlog robust, and CEO Anders Danielsson told Construction Dive the company is looking to grow its U.S. infrastructure footprint.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Tue, 03 Nov 2026 10:20:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/clark-construction-dc-metro-upgrade-purple-line/873563/",
-        "image_url": "https://imgproxy.divecdn.com/4x-hralHAXBJduEijp5-1fLLfBnFeg7d7TNmRsuEeVI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XTUFUQV9Qcm9qZWN0LmpwZw==.webp",
+        "published_at": "Thu, 05 Nov 2026 15:40:27 -0500",
+        "source_url": "https://www.constructiondive.com/news/skanska-record-order-intake-earnings-q3-2026/873921/",
+        "image_url": "https://imgproxy.divecdn.com/EBBQVE2QuJm-vj-DfuzYR89JIfGDVnW5cfm5FqF8-jY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMDVfMTUyMDM2LnBuZw==.webp",
         "impact": 4
       },
       {
@@ -436,81 +436,81 @@
         "impact": 4
       },
       {
-        "title": "New ICE President seeks custodians of outcomes",
-        "summary": "In her Presidential address upon becoming Institution of Civil Engineers (ICE) President, Julie Wood put a focus on the purpose of infrastructure, industrialisation of engineering and the importance of social mobility within the industry. The post New ICE President seeks custodians of outcomes appeared first on New Civ",
+        "title": "Cowi subsidiary providing detailed design for road and bridge project in Ireland",
+        "summary": "A planned road and bridge scheme in County Kildare, Ireland is moving into detailed design and tender preparation after Evara Developments appointed engineering firm Punch Consulting Engineers to progress the next stage. The post Cowi subsidiary providing detailed design for road and bridge project in Ireland appeared ",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Wed, 04 Nov 2026 13:50:55 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/new-ice-president-seeks-custodians-of-outcomes-04-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/VEC725_015-560x315.jpg",
+        "published_at": "Thu, 05 Nov 2026 14:30:27 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/cowi-subsidiary-providing-detailed-design-for-road-and-bridge-project-in-ireland-05-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/River-Liffey-560x315.jpg",
         "impact": 4
       },
       {
-        "title": "Dotted Line: Faster military construction creates opportunities, risks for contractors",
-        "summary": "Attorneys warn design errors and cost overruns from accelerated&nbsp;federal construction delivery could be passed on to builders.",
+        "title": "Army begins £206M Beacon Barracks infrastructure upgrade",
+        "summary": "Construction has begun on £206M of new and improved infrastructure at Beacon Barracks in Stafford following a ground-breaking ceremony. The post Army begins £206M Beacon Barracks infrastructure upgrade appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Wed, 04 Nov 2026 13:51:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/dotted-line-faster-military-construction-opportunities-risks/873712/",
-        "image_url": "https://imgproxy.divecdn.com/Z9ibnnXJCFAbeaFBP-wdQ9HFoh8GHibvssb76jgSxVc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db25zdHJ1Y3Rpb24taWxsdXN0cmF0aW9uLWNlbnN1c19jb3N0cy0wMzIzMjAtRFRfMS5qcGc=.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Thu, 05 Nov 2026 06:30:45 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/armys-206m-beacon-barracks-infrastructure-upgrade-begins-05-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/20261029-Belinda-Lunn-Warren-Webster-and-the-project-team-at-Beacon-Barracks-groundbreaking-3-Crown-Copyright-560x315.jpeg",
+        "impact": 4
       }
     ],
     "ai": [
       {
-        "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
-        "summary": "arXiv:2611.03721v1 Announce Type: new Abstract: Recent breakthroughs in artificial-intelligence-assisted mathematics show that open-ended machine search can outperform human mathematicians, yet transferring this paradigm to physics requires refactoring the research workflow. We introduce Simjecture, an open-source fram",
+        "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+        "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: conditional on the same propos",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.03721",
+        "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.05390",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
-        "summary": "arXiv:2611.03662v1 Announce Type: new Abstract: The Model Context Protocol (MCP) connects large language model agents to external tools and services through official SDKs that implement message validation and session logic. Specification constraints omitted by these SDKs may propagate to downstream applications, highli",
+        "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+        "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budget is exhausted. Unlik",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.03662",
+        "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.05392",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
-        "summary": "arXiv:2611.03698v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) aims to enable AI systems to autonomously build and improve AI systems themselves, including models, harnesses, and underlying infrastructure. Within this broader agenda, a central capability is enabling agents to train and improve base mo",
+        "title": "Route to Remember: Adaptive Memory Selection for LLM Agents",
+        "summary": "arXiv:2611.05636v1 Announce Type: new Abstract: The memory of production agents is increasingly becoming a bottleneck and is built almost exclusively from text: key points are extracted from out-of-limit context and retrieved into context at query time. Therefore, every new query incurs an additional cost that grows wi",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.03698",
+        "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.05636",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
-        "summary": "arXiv:2611.03713v1 Announce Type: new Abstract: Before a scientist fits any parameter, they must decide what the model contains: which quantities exist, which are hidden, how they interact, and how they are measured. Physicists call such a trial form an ansatz. Benchmarks for automated equation discovery mostly supply ",
+        "title": "Agents, Think Only When it Helps",
+        "summary": "arXiv:2611.05709v1 Announce Type: new Abstract: LLM agent distillation transfers agentic capabilities to student models by training on complete teacher trajectories that typically interleave thoughts and actions. We question how critical thought supervision is for agents' ultimate action performance. To answer this, we",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.03713",
+        "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.05709",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "EMBERS: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing",
-        "summary": "arXiv:2611.03723v1 Announce Type: new Abstract: Deep Research (DR) systems extend large language models into autonomous agents that decompose complex information needs, iteratively search the web, and synthesize evidence to answer challenging questions. However, their multi-stage execution may introduce robustness risk",
+        "title": "PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?",
+        "summary": "arXiv:2611.05759v1 Announce Type: new Abstract: Before an AI agent takes on a paid job, someone has to judge whether it is likely to succeed. We test whether frontier language models can make this call before any attempt. We propose PAYWORTHY which contains 1{,}494 real freelance job postings, sampled from 18.8M postin",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.03723",
+        "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.05759",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
