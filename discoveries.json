@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-08",
-  "last_updated": "2026-11-08 02:01 UTC",
+  "date": "2026-11-09",
+  "last_updated": "2026-11-09 02:21 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Wed, 04 Nov 2026 05:43:44 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
+        "impact": 5
+      },
+      {
+        "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+        "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 07 Nov 2026 18:34:19 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/extremely-short-electron-wave-packet-at-limits-of-space-and-time.webp",
         "impact": 5
       },
       {
@@ -37,25 +48,14 @@
         "impact": 5
       },
       {
-        "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
-        "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties and electrical behavior of exotic materials called altermagnets. The surprising breakthrough could open the door to faster, more energy-efficient electronics and new technologies for quantum computing.",
+        "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+        "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer on",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 04 Nov 2026 07:37:52 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/neutron-diffraction-patterns.webp",
-        "impact": 5
-      },
-      {
-        "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-        "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the stronge",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 05 Nov 2026 20:11:19 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cerebral-angiogram-brain-blood-vessels.webp",
+        "published_at": "Sun, 08 Nov 2026 17:45:01 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/paja-formation-ecosystem-during-biotic-inflection.webp",
         "impact": 5
       }
     ],
@@ -83,6 +83,17 @@
         "impact": 3
       },
       {
+        "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+        "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 08 Nov 2026 15:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722",
+        "impact": 3
+      },
+      {
         "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
         "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
         "category": "Tech",
@@ -103,20 +114,20 @@
         "source_url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
         "impact": 3
-      },
-      {
-        "title": "Physicl raises $10M to make the digital world real enough for robots",
-        "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 06 Nov 2026 13:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "A 24-hour fast triggers a surprising repair response in the gut",
+        "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 08 Nov 2026 06:06:30 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/rnascope-image-of-small-intestinal-crypts.webp",
+        "impact": 5
+      },
       {
         "title": "Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial",
         "summary": "Like cholesterol, inflammation causally contributes to the risk of cardiovascular disease, but findings from the clinical trial ZEUS indicate that the road to targeting inflammation may be less straightforward than once thought. ZEUS, a global phase 3 clinical trial led by Mass General Brigham researcher Paul Ridker, M",
@@ -151,25 +162,14 @@
         "impact": 4
       },
       {
-        "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
-        "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery could lead to an affordable treatment, although clinical trials are still needed t",
+        "title": "MIT scientists turn immune cells into cancer killers inside the body",
+        "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make powerful immune therapies dramatically simpler and less expensive while opening new ",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Fri, 06 Nov 2026 18:30:16 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/scientist-analyzes-broccoli.webp",
-        "impact": 4
-      },
-      {
-        "title": "Scientists turn viruses into weapons against deadly superbugs",
-        "summary": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this experimental treatmen",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 04 Nov 2026 21:40:33 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/phage-therapy-bacteriophages-attcking-bacteria.webp",
+        "published_at": "Sun, 08 Nov 2026 05:52:31 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/targeted-lipid-nanoparticles-deliver-mrna-to-nk-cells.webp",
         "impact": 4
       }
     ],
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+        "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation [&",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Sat, 07 Nov 2026 18:11:57 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
+        "impact": 5
+      },
+      {
+        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+        "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructu",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Sat, 07 Nov 2026 22:47:03 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+        "impact": 4
+      },
+      {
         "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
         "summary": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
         "category": "Space",
@@ -243,47 +265,25 @@
         "impact": 4
       },
       {
-        "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
-        "summary": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan.",
+        "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+        "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Ba",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 07 Nov 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/4TsvmNPsG8o4nXmHcQLzbX-1920-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Sun, 08 Nov 2026 15:26:38 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
         "impact": 4
       },
       {
-        "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
-        "summary": "NASA Administrator Jared Isaacman during a a Dec. 3, 2025 confirmation hearing. In October of 2026, Isaacman sat down with Space.com to discuss the future of the space agency.",
+        "title": "Midwestern City Lights",
+        "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 07 Nov 2026 11:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/hdXEWy2dVNKmQrF4BoLQZW-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
-        "summary": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 07 Nov 2026 01:41:58 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "AST SpaceMobile announces new 'Blacklift' rocket, targets 2028 launch debut",
-        "summary": "AST SpaceMobile plans to launch its broadband satellites on a new rocket called Blacklift, which it will build in house and plans to start flying in 2028.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 06 Nov 2026 22:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/5xcziDsQosAzwaJEameuc8-1920-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 05 Nov 2026 15:17:19 +0000",
+        "source_url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg",
         "impact": 4
       }
     ],
@@ -346,25 +346,25 @@
     ],
     "architecture": [
       {
-        "title": "Powerhouse Parramatta Museum to Open on November 7, 2026, in Sydney",
-        "summary": "Designed by Franco-Japanese architects Moreau Kusunoki, with Australian architecture firm Genton as local architects, Powerhouse Parramatta is, according to the NSW Government, the largest cultural infrastructure project in Australia since the Sydney Opera House. The project was first announced in 2019, construction be",
+        "title": "Populus / Studio Gang",
+        "summary": "Studio Gang, the international architecture and urban design firm led by Jeanne Gang, has completed Populus, a 265-room hotel poised to become a new social center for downtown Denver. Marking Studio Gang's first completed project in Colorado and the American Southwest region, Populus's design draws from the growth proc",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Fri, 06 Nov 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1188166/powerhouse-parramatta-museum-to-open-on-november-7-2026-in-sydney",
-        "image_url": "https://images.adsttc.com/media/images/6aed/4588/d2cc/6001/8a4f/72b5/large_jpg/powerhouse-parramatta-to-open-on-november-7-2026_29.jpg?1793934747",
-        "impact": 4
+        "published_at": "Sun, 08 Nov 2026 15:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1031563/populus-hotel-and-social-hub-studio-gang",
+        "image_url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b27/d367/0bcd/large_jpg/populus-hotel-and-social-hub-studio-gang_3.jpg?1750950365",
+        "impact": 5
       },
       {
-        "title": "Büro Ziyu Zhuang designs Chinese museum cluster to \"blend seamlessly\" into meadow",
-        "summary": "Chinese architecture studio Büro Ziyu Zhuang embedded four cultural buildings, including a viewing tower and a rammed-earth workshop, into parkland in Xianning, China, to create the Zi Museum. The post Büro Ziyu Zhuang designs Chinese museum cluster to &quot;blend seamlessly&quot; into meadow appeared first on Dezeen.",
+        "title": "One Orient Headquarters / gmp Architects",
+        "summary": "One Orient, the new corporate headquarters of technology group Telling in China's third-largest metropolis, Shenzhen, has been completed to plans by architects von Gerkan, Marg and Partners (gmp). The project is defined by its modular design and unitized facade, whose frames seamlessly integrate all technical component",
         "category": "Architecture",
-        "source": "dezeen.com",
-        "journal": "dezeen.com",
-        "published_at": "Tue, 27 Oct 2026 11:30:00 +0000",
-        "source_url": "https://www.dezeen.com/2026/10/27/buro-ziyu-zhuang-zi-museum-cluster-xianning/",
-        "image_url": "https://static-2026.dezeen.com/uploads/2026/10/zi-museum-Buro-Ziyu-Zhuang_dezeen_2364_col_sq5.jpg",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 08 Nov 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187779/one-orient-headquarters-von-gerkan-marg-and-partners-architects",
+        "image_url": "https://images.adsttc.com/media/images/6ae3/7392/1c13/4b01/a2d9/b95f/large_jpg/one-orient-headquarters-von-gerkan-marg-and-partners-architects_1.jpg?1793291175",
         "impact": 4
       },
       {
