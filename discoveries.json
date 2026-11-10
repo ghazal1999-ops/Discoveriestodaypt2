@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "last_updated": "2026-11-09 02:21 UTC",
+  "date": "2026-11-10",
+  "last_updated": "2026-11-10 04:30 UTC",
   "categories": {
     "science": [
       {
@@ -48,18 +48,40 @@
         "impact": 5
       },
       {
-        "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-        "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer on",
+        "title": "New perovskite system extends room-temperature spin polarization via successive quantum wells",
+        "summary": "A research team led by Lu Haipeng, a professor in the Department of Chemistry at The Hong Kong University of Science and Technology (HKUST), has achieved a breakthrough in preserving spin information for optoelectronic technologies. The team has developed a perovskite chiral multiple quantum-well system that maintains ",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 08 Nov 2026 17:45:01 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/paja-formation-ecosystem-during-biotic-inflection.webp",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Mon, 09 Nov 2026 17:20:10 EST",
+        "source_url": "https://phys.org/news/2026-11-perovskite-room-temperature-polarization-successive.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-no-2.jpg",
         "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+        "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Mon, 09 Nov 2026 15:24:59 +0000",
+        "source_url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+        "impact": 4
+      },
+      {
+        "title": "What could China get from Jensen Huang?",
+        "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent ",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-09T18:51:58-05:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 4
+      },
       {
         "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#823",
@@ -72,6 +94,17 @@
         "impact": 4
       },
       {
+        "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+        "summary": "\"*sshole\" poses a serious threat to Internet security.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 09 Nov 2026 19:41:34 +0000",
+        "source_url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+        "impact": 3
+      },
+      {
         "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
         "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
         "category": "Tech",
@@ -81,42 +114,31 @@
         "source_url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
         "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
         "impact": 3
-      },
-      {
-        "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-        "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 08 Nov 2026 15:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722",
-        "impact": 3
-      },
-      {
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 07 Nov 2026 21:17:08 +0000",
-        "source_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-        "impact": 3
-      },
-      {
-        "title": "Parents want safer phones for kids. These companies are answering the call.",
-        "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 07 Nov 2026 19:00:00 +0000",
-        "source_url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
-        "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "New drug combination improves survival in patients with muscle-invasive bladder cancer",
+        "summary": "A new treatment approach could help people with an aggressive form of bladder cancer live longer and reduce the chances of their cancer returning or progressing, particularly those who cannot receive standard chemotherapy, according to findings from a large international clinical trial co-led by researchers at the UCLA",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 09 Nov 2026 18:30:01 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-drug-combination-survival-patients-muscle.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hand-on-bladder.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Routine invasive procedures for stable heart disease found to offer no long-term survival advantage over drug therapy",
+        "summary": "Patients with stable heart disease and abnormal stress tests who have invasive procedures early in their care do not live longer than those initially treated with drugs and lifestyle changes alone, an international study shows.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 09 Nov 2026 19:40:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-routine-invasive-procedures-stable-heart.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-surgery.jpg",
+        "impact": 5
+      },
       {
         "title": "A 24-hour fast triggers a surprising repair response in the gut",
         "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.",
@@ -127,28 +149,6 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/rnascope-image-of-small-intestinal-crypts.webp",
         "impact": 5
-      },
-      {
-        "title": "Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial",
-        "summary": "Like cholesterol, inflammation causally contributes to the risk of cardiovascular disease, but findings from the clinical trial ZEUS indicate that the road to targeting inflammation may be less straightforward than once thought. ZEUS, a global phase 3 clinical trial led by Mass General Brigham researcher Paul Ridker, M",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 07 Nov 2026 09:40:02 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/heart-ekg.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Two compounds target drug-resistant brain cancer cells in laboratory tests",
-        "summary": "Cancer remains among the most deadly diseases worldwide. Globally, more than 300,000 new cases of brain cancer are reported each year, with glioblastoma, an aggressive form of brain cancer, accounting for over 250,000 deaths. The current standard of care involves the use of temozolomide (TMZ), a chemotherapy medication",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 06 Nov 2026 15:00:06 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-compounds-drug-resistant-brain-cancer.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/iit-gandhinagar-resear-5.jpg",
-        "impact": 4
       },
       {
         "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
@@ -232,25 +232,25 @@
     ],
     "space": [
       {
-        "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-        "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation [&",
+        "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+        "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Sat, 07 Nov 2026 18:11:57 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
-        "impact": 5
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 09 Nov 2026 22:11:05 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/hUSPTRGCxYkCF5ChXZL9aF-1920-80.jpg",
+        "impact": 4
       },
       {
-        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-        "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructu",
+        "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
+        "summary": "Starfish Space's first Otter servicing spacecraft suffered a glitch in orbit recently, ending its technology-demonstrating mission for NASA.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Sat, 07 Nov 2026 22:47:03 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 09 Nov 2026 18:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/EPxAVj6mJ5xND94v4YiYXA-1920-80.jpg",
         "impact": 4
       },
       {
@@ -265,25 +265,25 @@
         "impact": 4
       },
       {
-        "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-        "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Ba",
+        "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+        "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challen",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Sun, 08 Nov 2026 15:26:38 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
+        "published_at": "Mon, 09 Nov 2026 17:42:42 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
         "impact": 4
       },
       {
-        "title": "Midwestern City Lights",
-        "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259",
+        "title": "NASA needs more astronauts for moon missions and beyond. You can apply now, but only until Dec. 3",
+        "summary": "On Saturday (Nov. 7), NASA put out the call for applications for a new class of astronauts. Applications are due by Dec. 3.",
         "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Thu, 05 Nov 2026 15:17:19 +0000",
-        "source_url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 09 Nov 2026 16:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/uKcp2YwMdfHRKw3V3tyPb-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "Nearby Dwarf Galaxies Show Surprising Lack Of Oxygen, Says Paper",
+        "summary": "A new study of more than three dozen dwarf galaxies has surprised researchers with just how little oxygen they have been able to retain over cosmic time. The results reveal that we still have major gaps in our understanding of galaxy evolution.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Mon, 09 Nov 2026 08:11:11 +0000",
+        "source_url": "https://www.universetoday.com/articles/nearby-dwarf-galaxies-show-surprising-lack-of-oxygen-says-paper",
+        "image_url": "https://www.universetoday.com/article_images/STScI-01M4RST3TGWT2T53FVXQBSP75D_1_20261109_080246.jpg",
+        "impact": 4
+      },
+      {
         "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
         "summary": "Ultra-Diffuse Galaxies are strange because they're as large as the Milky Way, but have far fewer stars. It's as if they're puffed up for some reason. Determining what's going on with them could help confirm the Lambda-CDM model. A new proposed instrument for the Extremely Large Telescope could give astronomers their be",
         "category": "Astronomy",
@@ -331,88 +342,66 @@
         "source_url": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries",
         "image_url": "https://www.universetoday.com/article_images/1280px-NGC_1052-DF2_a_ghostly_galaxy_lacking_dark_matter_20261106_190049.jpg",
         "impact": 4
-      },
-      {
-        "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
-        "summary": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capab",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 05 Nov 2026 15:08:44 +0000",
-        "source_url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
-        "image_url": "https://www.universetoday.com/article_images/opo2520_20261105_150830.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Populus / Studio Gang",
-        "summary": "Studio Gang, the international architecture and urban design firm led by Jeanne Gang, has completed Populus, a 265-room hotel poised to become a new social center for downtown Denver. Marking Studio Gang's first completed project in Colorado and the American Southwest region, Populus's design draws from the growth proc",
+        "title": "Grande Nef de l'Île-des-Vannes Renovation / Chatillon Architectes",
+        "summary": "Following seven years of closure, Chatillon Architectes implements contemporary solutions and state-of-the-art facilities, bringing this distinctive building back to life, first as an Olympic training site and then for its subsequent return to the local community. The first images of the restored Grande Nef de l'Île-d",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 08 Nov 2026 15:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1031563/populus-hotel-and-social-hub-studio-gang",
-        "image_url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b27/d367/0bcd/large_jpg/populus-hotel-and-social-hub-studio-gang_3.jpg?1750950365",
-        "impact": 5
+        "published_at": "Mon, 09 Nov 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
+        "image_url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770",
+        "impact": 4
       },
       {
-        "title": "One Orient Headquarters / gmp Architects",
-        "summary": "One Orient, the new corporate headquarters of technology group Telling in China's third-largest metropolis, Shenzhen, has been completed to plans by architects von Gerkan, Marg and Partners (gmp). The project is defined by its modular design and unitized facade, whose frames seamlessly integrate all technical component",
+        "title": "\"Earth Craft\" at the U.S. Pavilion Will Trace the Work of Builders at the 2027 Venice Architecture Biennale",
+        "summary": "The United States' contribution to the 20th International Architecture Exhibition of La Biennale di Venezia will explore the relationship between the country's architecture, landscapes, and the people who shape it. Titled Earth Craft, the exhibition will be commissioned, organized, and curated by a team from the Univer",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 08 Nov 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187779/one-orient-headquarters-von-gerkan-marg-and-partners-architects",
-        "image_url": "https://images.adsttc.com/media/images/6ae3/7392/1c13/4b01/a2d9/b95f/large_jpg/one-orient-headquarters-von-gerkan-marg-and-partners-architects_1.jpg?1793291175",
+        "published_at": "Mon, 09 Nov 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1188231/earth-craft-at-the-us-pavilion-will-trace-the-work-of-builders-at-the-2027-venice-architecture-biennale",
+        "image_url": "https://images.adsttc.com/media/images/6af0/d5be/e43f/5e01/8839/863d/large_jpg/the-us-pavilion-examines-the-work-of-builders-through-earth-craft-at-the-2027-venice-architecture-biennale_6.jpg?1794168266",
         "impact": 4
       },
       {
-        "title": "SCI-Arc task force champions long-term architectural strategies for fire-prone areas",
-        "summary": "the sci-arc resilient futures task force supports los angeles homeowners recovering from the 2025 wildfires, offering climate-resilient architectural solutions to replace outdated building habits. The post SCI-Arc task force champions long-term architectural strategies for fire-prone areas appeared first on designboom ",
+        "title": "Driftwood Residence / Nestcraft Architecture",
+        "summary": "Driftwood is a 2,900-square-foot house on an irregular 11-cent urban plot, designed for three generations. The project explores how the familiar qualities of traditional domestic environments can be reinterpreted through a contemporary tropical architectural language.",
         "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Fri, 06 Nov 2026 11:00:21 +0000",
-        "source_url": "https://www.designboom.com/architecture/sci-arc-resilient-futures-task-force/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/10/sci-arc-resilient-futures-task-force-designboom-facebook.jpg",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 09 Nov 2026 03:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187593/driftwood-residence-nestcraft-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6ae0/acf8/3271/8400/01d0/f02c/large_jpg/Abhimanyu_K__4_.jpg?1793109298",
         "impact": 4
       },
       {
-        "title": "architecture that invites nature as a designer, from dissolving walls to insect-built pavilions",
-        "summary": "these built spaces invite natural forces into the design process, allowing materials to dissolve and buildings to change. The post architecture that invites nature as a designer, from dissolving walls to insect-built pavilions appeared first on designboom | architecture &amp; design magazine.",
+        "title": "inside mikoü architecture and its search for meaning in craft and construction",
+        "summary": "from the intimacy of the traditional riad to the engineering of contemporary buildings, the french-moroccan twin architects explore how cultural memory, craftsmanship, and industrialization can inform a more holistic approach to architecture. The post inside mikoü architecture and its search for meaning in craft and co",
         "category": "Architecture",
         "source": "designboom.com",
         "journal": "designboom.com",
-        "published_at": "Thu, 05 Nov 2026 22:35:12 +0000",
-        "source_url": "https://www.designboom.com/architecture/nature-take-over-dissolving-walls-insect-built-pavilions/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/architecture-shaped-natural-forces-posthuman-utopias-designboom-FB.jpg",
+        "published_at": "Mon, 09 Nov 2026 09:45:59 +0000",
+        "source_url": "https://www.designboom.com/architecture/salwa-selma-mikoustudio-craft-architecture-interview-louisiana-channel/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/salwa-selma-mikoustudio-craft-architecture-interview-louisiana-channel-designboom-1200.jpg",
         "impact": 4
       },
       {
-        "title": "making room for nature: the urban landscapes of kongjian yu",
-        "summary": "turenscape’s ecological landscapes show how wetlands, waterways, and restored habitats can become part of urban infrastructure, making room for both people and other forms of life. The post making room for nature: the urban landscapes of kongjian yu appeared first on designboom | architecture &amp; design magazine.",
+        "title": "Artists' Modernist Houses",
+        "summary": "A beautifully illustrated architecture book showcasing some of the most stunning Modernist houses which are or have been lived in by artists.This book is an enticing celebration of the most dynamic and unique architectural visions of artists who have designed their own houses, collaborated with or commissioned architec",
         "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 05 Nov 2026 11:50:28 +0000",
-        "source_url": "https://www.designboom.com/architecture/room-nature-urban-landscapes-kongjian-yu-turenscape-adaptation-evidence-china-charles-waldheim/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/room-nature-urban-landscapes-kongjian-yu-turenscape-adaptation-evidence-china-charles-waldheim-designboom-1200.jpg",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 09 Nov 2026 09:40:00 +0000",
+        "source_url": "https://www.archdaily.com/1188313/artists-modernist-houses",
+        "image_url": "https://images.adsttc.com/media/images/6af1/d282/4ba6/4700/01d0/8343/large_jpg/9781837330263RGB.jpg?1794232969",
         "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "Skanska reports $6.9B in Q3 awards, notching record intake 2 quarters in a row",
-        "summary": "Booming U.S. data center construction kept the firm&rsquo;s third-quarter backlog robust, and CEO Anders Danielsson told Construction Dive the company is looking to grow its U.S. infrastructure footprint.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 05 Nov 2026 15:40:27 -0500",
-        "source_url": "https://www.constructiondive.com/news/skanska-record-order-intake-earnings-q3-2026/873921/",
-        "image_url": "https://imgproxy.divecdn.com/EBBQVE2QuJm-vj-DfuzYR89JIfGDVnW5cfm5FqF8-jY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMDVfMTUyMDM2LnBuZw==.webp",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -436,82 +425,93 @@
         "impact": 4
       },
       {
-        "title": "Tutor Perini sees $200B in potential bids. Almost none of them are data centers.",
-        "summary": "The day after voters made their distaste for data centers clear, the heavy civil contractor said it saw renewed momentum for increased infrastructure funding.",
+        "title": "Commercial pullback led to lower construction planning in October",
+        "summary": "Weaker data center and warehouse project planning led to a 9% monthly decline in the Dodge Momentum Index.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 06 Nov 2026 15:08:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/tutor-perini-q3-2026-earnings-not-data-centers/874040/",
-        "image_url": "https://imgproxy.divecdn.com/vxvmwCy70Y5eBEYFckwYF7kkuiHTh3LiQYGWKrloORc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9icm9va2x5bi1iLmpwZw==.webp",
+        "published_at": "Mon, 09 Nov 2026 14:09:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/commercial-pullback-lower-construction-planning-october/874146/",
+        "image_url": "https://imgproxy.divecdn.com/VbNki_LnN-6WiJRV33fGz8roPHKAe1BurQc6wLtGiZs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAzNTUwODAwLmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "WSP hits record backlog, remains bullish on infrastructure, power work",
-        "summary": "Even as public opposition to data centers grows and experts wonder about the new Congress&rsquo; priorities, WSP touted its work in key segments.",
+        "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
+        "summary": "Early construction work has already started on the site, according to a Fluor news release.&nbsp;",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Fri, 06 Nov 2026 14:23:18 -0500",
-        "source_url": "https://www.constructiondive.com/news/wsp-Q3-2026-earnings-backlog-infrastructure-power/874029/",
-        "image_url": "https://imgproxy.divecdn.com/DPPYk0HAT8FggdmW8B5xVCo7JSPAPTG56TrpVoQbYX4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY3OTg4MjY3LmpwZw==.webp",
+        "published_at": "Mon, 09 Nov 2026 10:43:06 -0500",
+        "source_url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
+        "image_url": "https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp",
+        "impact": 3
+      },
+      {
+        "title": "How streamlining basic processes like bill pay can drive construction business growth",
+        "summary": "See how streamlined bill payments help construction firms cut costs, save time and drive growth.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 09 Nov 2026 05:00:00 -0500",
+        "source_url": "https://www.constructiondive.com/spons/how-streamlining-basic-processes-like-bill-pay-can-drive-construction-busin/872833/",
+        "image_url": "https://imgproxy.divecdn.com/qv166si39hT5W9rPTI70s5GEVTbWZKxfJwhcoRzx2ks/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db3B5X29mX2FtaW5pLWNvbnN0cnVjdGlvbi1jb25zdHJ1Y3Rpb24tMDA5MzctYnJhbmQtcGhvdG8tMjYtMjA0OHgyMDQ4LmpwZWc=.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-        "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+        "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+        "summary": "arXiv:2611.08613v1 Announce Type: new Abstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar human communities. Yet existing evaluations largely test whether agents can recognize or apply norms",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 05 Nov 2026 09:00:00 GMT",
-        "source_url": "https://openai.com/index/introducing-gpt-6-cyber",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.08613",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "How we detect frontier model misalignment",
-        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "title": "Debate to Deceive: Poisoning LLM's Fact-Checking via Game-Theoretic Multi-Agent Debate",
+        "summary": "arXiv:2611.08756v1 Announce Type: new Abstract: Knowledge attacks on Large Language Models, such as manipulating fact-checking judgments, pose significant risks to AI reliability. Existing approaches -- adversarial suffix/template injection and single-agent self-reflection -- lack robustness across diverse defenses and",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 29 Oct 2026 09:00:00 GMT",
-        "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5gtjUYZjCpVMAAv0AbX0Cs/510ae35e592775228a8ef7b7f0911237/how-we-detect-frontier-model-misalignment-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.08756",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
+        "summary": "arXiv:2611.08922v1 Announce Type: new Abstract: Automated scientific discovery has the potential to advance understanding of disease mechanisms and accelerate identification of early disease markers. Manual data annotation is infeasible at population scale, motivating methods that automatically extract pre-defined phen",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
-        "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/Gp8jNpLlW9YG0p7vG3UfM/c73fa4b5caa4ad978b022dc0123b801b/openai-servicenow-partnership-expansion-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.08922",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Legora is building the agentic operating system for legal work",
-        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "title": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
+        "summary": "arXiv:2611.09156v1 Announce Type: new Abstract: The impacts of climate change have increased the need for reliable real-time rainfall monitoring systems. This study investigates rainfall detection using a network of opportunistic sensors based on satellite microwave links (SMLs) combined with machine learning (ML) clas",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
-        "source_url": "https://openai.com/index/legora",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3u1CdSoTYE4igNYP08r65b/3aff62c6d68495f495218a2ccbbf48f3/legora-smoked-glass-seo-image-1920x1080.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.09156",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Retell uses OpenAI models to help power 100M monthly calls",
-        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
         "category": "AI",
         "source": "openai.com",
         "journal": "openai.com",
-        "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
-        "source_url": "https://openai.com/index/retell-ai",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5uWhs4tBhdZ4XPHsi9IaMG/06f4b61c4303de24a65075b3eaf500b2/retell-ai-customer-story-open-graph-acoustic-fabric.png?w=1600&h=900&fit=fill",
+        "published_at": "Mon, 09 Nov 2026 08:00:00 GMT",
+        "source_url": "https://openai.com/index/coderabbit-codex-daybreak",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5TAanXWCpBQ0R0n2AFa89t/34f319750f5ffc9ebc78901cb054b866/coderabbit-seo-1920x1080.png?w=1600&h=900&fit=fill",
         "impact": 4
       }
     ]
