@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "last_updated": "2026-11-10 04:30 UTC",
+  "date": "2026-11-11",
+  "last_updated": "2026-11-11 02:31 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Wed, 04 Nov 2026 05:43:44 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
+        "impact": 5
+      },
+      {
+        "title": "Astronomers discover hidden alien planet in James Webb images",
+        "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conv",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 10 Nov 2026 18:56:04 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/erasing-stars-to-find-exoplanets.webp",
         "impact": 5
       },
       {
@@ -37,49 +48,27 @@
         "impact": 5
       },
       {
-        "title": "Scientists discover that a clogged filter could revolutionize oil refining",
-        "summary": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one",
+        "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+        "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Thu, 05 Nov 2026 09:04:07 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/membrane-technolog-separates-crude-oil-without-boiling.webp",
-        "impact": 5
-      },
-      {
-        "title": "New perovskite system extends room-temperature spin polarization via successive quantum wells",
-        "summary": "A research team led by Lu Haipeng, a professor in the Department of Chemistry at The Hong Kong University of Science and Technology (HKUST), has achieved a breakthrough in preserving spin information for optoelectronic technologies. The team has developed a perovskite chiral multiple quantum-well system that maintains ",
-        "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Mon, 09 Nov 2026 17:20:10 EST",
-        "source_url": "https://phys.org/news/2026-11-perovskite-room-temperature-polarization-successive.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-no-2.jpg",
+        "published_at": "Mon, 09 Nov 2026 19:42:52 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-physics-accelerator.webp",
         "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-        "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+        "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+        "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Mon, 09 Nov 2026 15:24:59 +0000",
-        "source_url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
-        "impact": 4
-      },
-      {
-        "title": "What could China get from Jensen Huang?",
-        "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent ",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-11-09T18:51:58-05:00",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 10 Nov 2026 22:35:01 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
         "impact": 4
       },
       {
@@ -94,49 +83,49 @@
         "impact": 4
       },
       {
-        "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-        "summary": "\"*sshole\" poses a serious threat to Internet security.",
+        "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+        "summary": "The new model is up to twice as successful at some tasks.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Mon, 09 Nov 2026 19:41:34 +0000",
-        "source_url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+        "published_at": "Tue, 10 Nov 2026 15:00:39 +0000",
+        "source_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
         "impact": 3
       },
       {
-        "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-        "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+        "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+        "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Sat, 07 Nov 2026 11:00:34 +0000",
-        "source_url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 10 Nov 2026 18:49:19 +0000",
+        "source_url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200",
+        "impact": 3
+      },
+      {
+        "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+        "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 10 Nov 2026 16:50:38 +0000",
+        "source_url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/sundrop-promo.jpg?resize=1200,675",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "New drug combination improves survival in patients with muscle-invasive bladder cancer",
-        "summary": "A new treatment approach could help people with an aggressive form of bladder cancer live longer and reduce the chances of their cancer returning or progressing, particularly those who cannot receive standard chemotherapy, according to findings from a large international clinical trial co-led by researchers at the UCLA",
+        "title": "Prostate cancer drug combination adds toxicity without clear benefit for tumors lacking targetable mutations",
+        "summary": "The prospective, multicenter, randomized phase 2 ZZ-FIRST clinical trial, led by the Vall d'Hebron Institute of Oncology's (VHIO) Prostate Cancer Group, evaluated the androgen receptor pathway inhibitor (ARPI) enzalutamide plus the poly(ADP-ribose) polymerase inhibitor (PARPi) talazoparib versus enzalutamide alone in p",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 09 Nov 2026 18:30:01 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-drug-combination-survival-patients-muscle.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/hand-on-bladder.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Routine invasive procedures for stable heart disease found to offer no long-term survival advantage over drug therapy",
-        "summary": "Patients with stable heart disease and abnormal stress tests who have invasive procedures early in their care do not live longer than those initially treated with drugs and lifestyle changes alone, an international study shows.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 09 Nov 2026 19:40:06 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-routine-invasive-procedures-stable-heart.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-surgery.jpg",
+        "published_at": "Tue, 10 Nov 2026 17:20:08 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-prostate-cancer-drug-combination-toxicity.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-drug-c.jpg",
         "impact": 5
       },
       {
@@ -170,6 +159,17 @@
         "published_at": "Sun, 08 Nov 2026 05:52:31 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/targeted-lipid-nanoparticles-deliver-mrna-to-nk-cells.webp",
+        "impact": 4
+      },
+      {
+        "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
+        "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery could lead to an affordable treatment, although clinical trials are still needed t",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 06 Nov 2026 18:30:16 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/scientist-analyzes-broccoli.webp",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
+        "summary": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 10 Nov 2026 22:09:39 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/eKkegi3q7cuhqgmtgMrZ6U-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
         "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
         "category": "Space",
@@ -265,25 +276,14 @@
         "impact": 4
       },
       {
-        "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
-        "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challen",
+        "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+        "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosm",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Mon, 09 Nov 2026 17:42:42 +0000",
-        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "NASA needs more astronauts for moon missions and beyond. You can apply now, but only until Dec. 3",
-        "summary": "On Saturday (Nov. 7), NASA put out the call for applications for a new class of astronauts. Applications are due by Dec. 3.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 09 Nov 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/uKcp2YwMdfHRKw3V3tyPb-1920-80.jpg",
+        "published_at": "Tue, 10 Nov 2026 18:06:33 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg",
         "impact": 4
       }
     ],
@@ -300,25 +300,14 @@
         "impact": 4
       },
       {
-        "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
-        "summary": "Finding dim exoplanets hidden in the glare of their stars is an ongoing challenge in astronomy. Telescopes use coronagraphs to block out starlight, but even they have their limitations. Researchers have developed a new technique with the JWST that can find dim exoplanets more easily than ever.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 05 Nov 2026 12:42:40 +0000",
-        "source_url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
-        "image_url": "https://www.universetoday.com/article_images/STScI-01F3NW8E6TFNH2PDM8S6CSVA3P_20261104_225248.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
-        "summary": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
+        "title": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
+        "summary": "While rivals announce increasingly expensive smart telescopes, ZWO’s new Seestar S30 Plus makes galaxy and nebula photography surprisingly affordable.",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Fri, 06 Nov 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/wBy8Spn5h2GF3fZmTit74h-1920-80.png",
+        "published_at": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/z2QmaT5onPi8VTz593SMfc-1920-80.jpg",
         "impact": 4
       },
       {
@@ -342,40 +331,51 @@
         "source_url": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries",
         "image_url": "https://www.universetoday.com/article_images/1280px-NGC_1052-DF2_a_ghostly_galaxy_lacking_dark_matter_20261106_190049.jpg",
         "impact": 4
+      },
+      {
+        "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
+        "summary": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capab",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 05 Nov 2026 15:08:44 +0000",
+        "source_url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
+        "image_url": "https://www.universetoday.com/article_images/opo2520_20261105_150830.jpg",
+        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Grande Nef de l'Île-des-Vannes Renovation / Chatillon Architectes",
-        "summary": "Following seven years of closure, Chatillon Architectes implements contemporary solutions and state-of-the-art facilities, bringing this distinctive building back to life, first as an Olympic training site and then for its subsequent return to the local community. The first images of the restored Grande Nef de l'Île-d",
+        "title": "Archohm: Indian Contemporary Architecture",
+        "summary": "This publication compiles 25 years of work by Studio Archohm, highlighting their evolution into key players in Indian nation-building through large-scale urban, infrastructure, and civic projects, alongside private-sector experimentation.The studio's multidisciplinary portfolio spans design research, city branding, edu",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 09 Nov 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
-        "image_url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770",
+        "published_at": "Tue, 10 Nov 2026 09:20:00 +0000",
+        "source_url": "https://www.archdaily.com/1188408/archohm-indian-contemporary-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6af3/2c31/eabd/2a00/0192/bf94/large_jpg/Screenshot_2026-11-09_at_8.47.45_PM.jpg?1794321478",
+        "impact": 5
+      },
+      {
+        "title": "Downtown Cary Park / Machado Silvetti",
+        "summary": "Downtown Cary Park is the centerpiece of an investment by the citizens of the Town of Cary in enhancing, expanding, and protecting the public life of their rapidly growing community. Located in the heart of downtown Cary, North Carolina, the park is a transformational synthesis of urban design, landscape, architecture,",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 10 Nov 2026 12:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188292/downtown-cary-park-machado-silvetti",
+        "image_url": "https://images.adsttc.com/media/images/6af1/c431/4ba6/4700/01d0/8271/large_jpg/04_Cary_DTP_ARCH-50.jpg?1794229336",
         "impact": 4
       },
       {
-        "title": "\"Earth Craft\" at the U.S. Pavilion Will Trace the Work of Builders at the 2027 Venice Architecture Biennale",
-        "summary": "The United States' contribution to the 20th International Architecture Exhibition of La Biennale di Venezia will explore the relationship between the country's architecture, landscapes, and the people who shape it. Titled Earth Craft, the exhibition will be commissioned, organized, and curated by a team from the Univer",
+        "title": "Minimal Maximum / Stempel & Tesar Architekti",
+        "summary": "This minimalist family home is the architect's own house—a personal manifesto in which more than two decades of designing residential architecture for others is condensed into a single, highly concentrated response to a demanding urban plot in Prague. Every centimetre became a deliberate decision, resulting in a \"minim",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 09 Nov 2026 05:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1188231/earth-craft-at-the-us-pavilion-will-trace-the-work-of-builders-at-the-2027-venice-architecture-biennale",
-        "image_url": "https://images.adsttc.com/media/images/6af0/d5be/e43f/5e01/8839/863d/large_jpg/the-us-pavilion-examines-the-work-of-builders-through-earth-craft-at-the-2027-venice-architecture-biennale_6.jpg?1794168266",
-        "impact": 4
-      },
-      {
-        "title": "Driftwood Residence / Nestcraft Architecture",
-        "summary": "Driftwood is a 2,900-square-foot house on an irregular 11-cent urban plot, designed for three generations. The project explores how the familiar qualities of traditional domestic environments can be reinterpreted through a contemporary tropical architectural language.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 09 Nov 2026 03:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187593/driftwood-residence-nestcraft-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6ae0/acf8/3271/8400/01d0/f02c/large_jpg/Abhimanyu_K__4_.jpg?1793109298",
+        "published_at": "Tue, 10 Nov 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
+        "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
         "impact": 4
       },
       {
@@ -390,14 +390,14 @@
         "impact": 4
       },
       {
-        "title": "Artists' Modernist Houses",
-        "summary": "A beautifully illustrated architecture book showcasing some of the most stunning Modernist houses which are or have been lived in by artists.This book is an enticing celebration of the most dynamic and unique architectural visions of artists who have designed their own houses, collaborated with or commissioned architec",
+        "title": "Benfica AM & MR Villa / João Tiago Aguiar, Arquitectos",
+        "summary": "The intervention in this house in Benfica, set close to the surrounding woodland is based on a strategy of continuity and transformation. The original construction is partially preserved through the retention of the main façade and part of the lateral elevation, maintaining its urban presence and memory, while the inte",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 09 Nov 2026 09:40:00 +0000",
-        "source_url": "https://www.archdaily.com/1188313/artists-modernist-houses",
-        "image_url": "https://images.adsttc.com/media/images/6af1/d282/4ba6/4700/01d0/8343/large_jpg/9781837330263RGB.jpg?1794232969",
+        "published_at": "Tue, 10 Nov 2026 13:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188291/benfica-am-and-mr-villa-joao-tiago-aguiar-arquitectos",
+        "image_url": "https://images.adsttc.com/media/images/6af1/c386/4ba6/4700/01d0/8243/large_jpg/JTABenficaFN0182.jpg?1794229141",
         "impact": 4
       }
     ],
@@ -421,98 +421,98 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/10/09/GettyImages-2197655235.webp?crop=true&height=257&t=1791563503&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/10/28/AonArticle3-900x550.webp?crop=true&height=257&t=1793197047&width=420",
         "impact": 4
       },
       {
-        "title": "Commercial pullback led to lower construction planning in October",
-        "summary": "Weaker data center and warehouse project planning led to a 9% monthly decline in the Dodge Momentum Index.",
+        "title": "NHS SBS planning £750M public sector construction and civils framework",
+        "summary": "NHS Shared Business Services (NHS SBS) is planning a £750M framework for public sector construction works, covering projects ranging from minor refurbishments to major civil engineering schemes. The post NHS SBS planning £750M public sector construction and civils framework appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 09 Nov 2026 14:09:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/commercial-pullback-lower-construction-planning-october/874146/",
-        "image_url": "https://imgproxy.divecdn.com/VbNki_LnN-6WiJRV33fGz8roPHKAe1BurQc6wLtGiZs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAzNTUwODAwLmpwZw==.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Tue, 10 Nov 2026 13:53:47 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/nhs-sbs-planning-750m-public-sector-construction-and-civils-framework-10-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/shutterstock_2274248711-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "Fluor wins EPC contract on $4B Kentucky data center campus",
-        "summary": "Early construction work has already started on the site, according to a Fluor news release.&nbsp;",
+        "title": "Government to review cost of UK rail construction",
+        "summary": "The government has launched a review asking why rail infrastructure projects in the UK are costly to deliver, with recommendations expected within six months. The post Government to review cost of UK rail construction appeared first on New Civil Engineer.",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Mon, 09 Nov 2026 10:43:06 -0500",
-        "source_url": "https://www.constructiondive.com/news/fluor-epc-contract-kentucky-data-center-terawulf/874097/",
-        "image_url": "https://imgproxy.divecdn.com/14g-8qDaR6wqPDcxvTDsA51gzO9yZeOkK7TD0bsKQPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJ5LUhhd2VzdmlsbGUtMTAyNHg2ODUtMS5qcGc=.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Mon, 09 Nov 2026 16:23:00 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/government-to-review-cost-of-uk-rail-construction-09-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/02/arcadis-GettyImages-1494518854-1-560x315.jpg",
+        "impact": 4
       },
       {
-        "title": "How streamlining basic processes like bill pay can drive construction business growth",
-        "summary": "See how streamlined bill payments help construction firms cut costs, save time and drive growth.",
+        "title": "Kast Construction names new CEO",
+        "summary": "Sean Ouellette will take the helm from Mike Neal, who joined Kast as the firm emerged from the 2008 financial crisis.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 09 Nov 2026 05:00:00 -0500",
-        "source_url": "https://www.constructiondive.com/spons/how-streamlining-basic-processes-like-bill-pay-can-drive-construction-busin/872833/",
-        "image_url": "https://imgproxy.divecdn.com/qv166si39hT5W9rPTI70s5GEVTbWZKxfJwhcoRzx2ks/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db3B5X29mX2FtaW5pLWNvbnN0cnVjdGlvbi1jb25zdHJ1Y3Rpb24tMDA5MzctYnJhbmQtcGhvdG8tMjYtMjA0OHgyMDQ4LmpwZWc=.webp",
+        "published_at": "Tue, 10 Nov 2026 16:44:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/kast-construction-names-new-ceo/874324/",
+        "image_url": "https://imgproxy.divecdn.com/tI49Rj0KDRY4PTjAGwlrHtYn-CvHnWcRQymAtl5Gw8Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk3NzE5OTE4LmpwZw==.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "NormGym: Evaluating Normative Competence through Social Interaction",
-        "summary": "arXiv:2611.08613v1 Announce Type: new Abstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar human communities. Yet existing evaluations largely test whether agents can recognize or apply norms",
+        "title": "A Computational Map of the Disaster Mental Health Research Landscape",
+        "summary": "arXiv:2611.10390v1 Announce Type: new Abstract: When disasters strike, they not only damage infrastructure, buildings, and the economy, but also affect the mental health of affected populations. Research on the mental health effects of disasters has expanded rapidly and has become an important, well-funded area of psyc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 09 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.08613",
+        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.10390",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Debate to Deceive: Poisoning LLM's Fact-Checking via Game-Theoretic Multi-Agent Debate",
-        "summary": "arXiv:2611.08756v1 Announce Type: new Abstract: Knowledge attacks on Large Language Models, such as manipulating fact-checking judgments, pose significant risks to AI reliability. Existing approaches -- adversarial suffix/template injection and single-agent self-reflection -- lack robustness across diverse defenses and",
+        "title": "DeepResearch RewardBench: Evaluating Reward Models for Deep Research Report",
+        "summary": "arXiv:2611.10156v1 Announce Type: new Abstract: Empowered by Large Language Models (LLMs), deep research systems integrate online information into research reports through multi-step web searching and information synthesis. Evaluating these reports presents a significant challenge due to their long context, high inform",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 09 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.08756",
+        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.10156",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
-        "summary": "arXiv:2611.08922v1 Announce Type: new Abstract: Automated scientific discovery has the potential to advance understanding of disease mechanisms and accelerate identification of early disease markers. Manual data annotation is infeasible at population scale, motivating methods that automatically extract pre-defined phen",
+        "title": "AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement",
+        "summary": "arXiv:2611.10165v1 Announce Type: new Abstract: Existing LLM post-training quantization techniques determine precision before inference begins, yet the precision a model requires varies dynamically across prompts, layers, and inference phases. We present AutoEMatic, a full-stack co-design that adapts the precision of w",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 09 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.08922",
+        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.10165",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
-        "summary": "arXiv:2611.09156v1 Announce Type: new Abstract: The impacts of climate change have increased the need for reliable real-time rainfall monitoring systems. This study investigates rainfall detection using a network of opportunistic sensors based on satellite microwave links (SMLs) combined with machine learning (ML) clas",
+        "title": "AVCORP: Identifying and Resisting Deception via Communication Theory and Theory of Mind",
+        "summary": "arXiv:2611.10176v1 Announce Type: new Abstract: Today's LLM-based agents are vulnerable to deception by users and other agents. Defending against deception requires Theory of Mind (ToM) reasoning to infer the beliefs and goals of others as well as modeling tactics based on communication theory. To enable training model",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 09 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.09156",
+        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.10176",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "CodeRabbit scales agentic software development and ships 20x more",
-        "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
+        "summary": "arXiv:2611.10329v1 Announce Type: new Abstract: LLM agents increasingly drive systems research and rely on simulators to evaluate candidate designs at scale. Simulators are imperfect by design: their modeling limitations can distort predictions yet leave the recommended design correct, or change which design should be ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Mon, 09 Nov 2026 08:00:00 GMT",
-        "source_url": "https://openai.com/index/coderabbit-codex-daybreak",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5TAanXWCpBQ0R0n2AFa89t/34f319750f5ffc9ebc78901cb054b866/coderabbit-seo-1920x1080.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.10329",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
