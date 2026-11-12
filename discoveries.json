@@ -1,19 +1,8 @@
 {
-  "date": "2026-11-11",
-  "last_updated": "2026-11-11 02:31 UTC",
+  "date": "2026-11-12",
+  "last_updated": "2026-11-12 03:34 UTC",
   "categories": {
     "science": [
-      {
-        "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-        "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 04 Nov 2026 05:43:44 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
-        "impact": 5
-      },
       {
         "title": "Astronomers discover hidden alien planet in James Webb images",
         "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conv",
@@ -37,14 +26,14 @@
         "impact": 5
       },
       {
-        "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
-        "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and applications in electro",
+        "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+        "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a myste",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Wed, 04 Nov 2026 07:23:36 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/mit-nanoparticle-assembly.webp",
+        "published_at": "Wed, 11 Nov 2026 04:43:55 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/rising-star-cave-system-excavation.webp",
         "impact": 5
       },
       {
@@ -56,6 +45,17 @@
         "published_at": "Mon, 09 Nov 2026 19:42:52 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-physics-accelerator.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists discover why some mosquitoes love you and others don't",
+        "summary": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangerous disease-spreading",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 10 Nov 2026 21:21:13 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp",
         "impact": 5
       }
     ],
@@ -83,51 +83,40 @@
         "impact": 4
       },
       {
-        "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-        "summary": "The new model is up to twice as successful at some tasks.",
+        "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+        "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Tue, 10 Nov 2026 15:00:39 +0000",
-        "source_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+        "published_at": "Wed, 11 Nov 2026 18:16:40 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-        "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+        "title": "IBM to offer access to a dual-processor quantum system in 2027",
+        "summary": "The company plans on linking two 520-qubit chips before next year is over.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 10 Nov 2026 18:49:19 +0000",
-        "source_url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Wed, 11 Nov 2026 16:33:08 +0000",
+        "source_url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-        "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+        "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+        "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 10 Nov 2026 16:50:38 +0000",
-        "source_url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/sundrop-promo.jpg?resize=1200,675",
+        "published_at": "Wed, 11 Nov 2026 19:34:55 +0000",
+        "source_url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800",
         "impact": 3
       }
     ],
     "medicine": [
-      {
-        "title": "Prostate cancer drug combination adds toxicity without clear benefit for tumors lacking targetable mutations",
-        "summary": "The prospective, multicenter, randomized phase 2 ZZ-FIRST clinical trial, led by the Vall d'Hebron Institute of Oncology's (VHIO) Prostate Cancer Group, evaluated the androgen receptor pathway inhibitor (ARPI) enzalutamide plus the poly(ADP-ribose) polymerase inhibitor (PARPi) talazoparib versus enzalutamide alone in p",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 10 Nov 2026 17:20:08 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-prostate-cancer-drug-combination-toxicity.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/prostate-cancer-drug-c.jpg",
-        "impact": 5
-      },
       {
         "title": "A 24-hour fast triggers a surprising repair response in the gut",
         "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.",
@@ -138,6 +127,17 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/rnascope-image-of-small-intestinal-crypts.webp",
         "impact": 5
+      },
+      {
+        "title": "Christchurch mutation points to potential gene therapy avenue for Parkinson's",
+        "summary": "A rare genetic mutation may protect against developing Parkinson's disease and Lewy body dementia, a new study from researchers at Oregon Health & Science University suggests.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 11 Nov 2026 19:20:02 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-christchurch-mutation-potential-gene-therapy.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/christchurch-mutation.jpg",
+        "impact": 4
       },
       {
         "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
@@ -232,6 +232,28 @@
     ],
     "space": [
       {
+        "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+        "summary": "SpaceX will attempt to reach orbit with its Starship megarocket and make its first-ever double catch on Nov. 13. Here's what time Starship Flight 15 will launch.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 11 Nov 2026 11:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/VeeqQAV9pGgQvCWQTrA9CT-1920-80.jpg",
+        "impact": 5
+      },
+      {
+        "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
+        "summary": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 11 Nov 2026 20:50:18 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ELZcUxeke9UwBTiGobNNym-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
         "summary": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
         "category": "Space",
@@ -263,42 +285,9 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
         "image_url": "https://cdn.mos.cms.futurecdn.net/EPxAVj6mJ5xND94v4YiYXA-1920-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
-        "summary": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 07 Nov 2026 16:31:11 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/cnKGmstwQTYV3pPvcNum4d-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-        "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosm",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Tue, 10 Nov 2026 18:06:33 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg",
-        "impact": 4
       }
     ],
     "astronomy": [
-      {
-        "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
-        "summary": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these galaxies should have been far less common so soon after the Big Bang. Researchers may have figured t",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 05 Nov 2026 17:11:33 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
-        "image_url": "https://www.universetoday.com/article_images/Lede_LymanAlpha_c.Matt-Twombly_Simons-Foundation.jpg-1024x576_20261105_133649.jpg",
-        "impact": 4
-      },
       {
         "title": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
         "summary": "While rivals announce increasingly expensive smart telescopes, ZWO’s new Seestar S30 Plus makes galaxy and nebula photography surprisingly affordable.",
@@ -308,6 +297,17 @@
         "published_at": "Tue, 10 Nov 2026 14:00:00 +0000",
         "source_url": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
         "image_url": "https://cdn.mos.cms.futurecdn.net/z2QmaT5onPi8VTz593SMfc-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough",
+        "summary": "TESS watched an exoplanet about 1,000 light years away as it repeatedly transited in front of its star for seven years. But astronomers were surprised to find that the hot Jupiter disappeared. Of course, planets don't just disappear. Something interrupted its transits from our point of view, and astronomers think they'",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 11 Nov 2026 13:02:29 +0000",
+        "source_url": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+        "image_url": "https://www.universetoday.com/article_images/image_7543-Hot-Jupiter_20261110_222441.jpg",
         "impact": 4
       },
       {
@@ -333,14 +333,14 @@
         "impact": 4
       },
       {
-        "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
-        "summary": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capab",
+        "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
+        "summary": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Thu, 05 Nov 2026 15:08:44 +0000",
-        "source_url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
-        "image_url": "https://www.universetoday.com/article_images/opo2520_20261105_150830.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 11 Nov 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/sUscbyNcGzAkq7QeXUWQJn-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -357,6 +357,17 @@
         "impact": 5
       },
       {
+        "title": "Danubio Budapest Building / T2.a Architects",
+        "summary": "Designed by T2a Architects and completed recently on the site of a former river gravel pit on the banks of the Danube in Budapest, the Danubio residential building responds to the unique urban and natural environment, partially overriding the rules of Budapest real estate developers, and realizes a concept that treats ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 11 Nov 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1003582/danubio-budapest-building-t-architects",
+        "image_url": "https://images.adsttc.com/media/images/64a6/8e74/cb9c/4621/9f93/eaa7/large_jpg/danubio-budapest-building-t-architects_14.jpg?1688637064",
+        "impact": 4
+      },
+      {
         "title": "Downtown Cary Park / Machado Silvetti",
         "summary": "Downtown Cary Park is the centerpiece of an investment by the citizens of the Town of Cary in enhancing, expanding, and protecting the public life of their rapidly growing community. Located in the heart of downtown Cary, North Carolina, the park is a transformational synthesis of urban design, landscape, architecture,",
         "category": "Architecture",
@@ -368,14 +379,14 @@
         "impact": 4
       },
       {
-        "title": "Minimal Maximum / Stempel & Tesar Architekti",
-        "summary": "This minimalist family home is the architect's own house—a personal manifesto in which more than two decades of designing residential architecture for others is condensed into a single, highly concentrated response to a demanding urban plot in Prague. Every centimetre became a deliberate decision, resulting in a \"minim",
+        "title": "sumayya vally’s counterspace to design elie khouri art foundation in dubai",
+        "summary": "drawing on beirut’s urban fabric and traditional gulf courtyard houses, counterspace will transform an existing jumeirah villa into a new cultural destination with galleries, educational spaces and gardens, opening in late 2028. The post sumayya vally&#8217;s counterspace to design elie khouri art foundation in dubai a",
         "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 10 Nov 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
-        "image_url": "https://images.adsttc.com/media/images/6aeb/7835/c723/9a5a/c78a/6ae7/large_jpg/minimal-maximum-stempel-and-tesar-architekti_11.jpg?1793816671",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Wed, 11 Nov 2026 11:06:45 +0000",
+        "source_url": "https://www.designboom.com/architecture/sumayya-vally-counterspace-elie-khouri-art-foundation-ekaf-dubai/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/sumayya-vally-counterspace-elie-khouri-art-foundation-ekaf-dubai-designboom-1200.jpg",
         "impact": 4
       },
       {
@@ -387,17 +398,6 @@
         "published_at": "Mon, 09 Nov 2026 09:45:59 +0000",
         "source_url": "https://www.designboom.com/architecture/salwa-selma-mikoustudio-craft-architecture-interview-louisiana-channel/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/salwa-selma-mikoustudio-craft-architecture-interview-louisiana-channel-designboom-1200.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Benfica AM & MR Villa / João Tiago Aguiar, Arquitectos",
-        "summary": "The intervention in this house in Benfica, set close to the surrounding woodland is based on a strategy of continuity and transformation. The original construction is partially preserved through the retention of the main façade and part of the lateral elevation, maintaining its urban presence and memory, while the inte",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 10 Nov 2026 13:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188291/benfica-am-and-mr-villa-joao-tiago-aguiar-arquitectos",
-        "image_url": "https://images.adsttc.com/media/images/6af1/c386/4ba6/4700/01d0/8243/large_jpg/JTABenficaFN0182.jpg?1794229141",
         "impact": 4
       }
     ],
@@ -425,26 +425,26 @@
         "impact": 4
       },
       {
-        "title": "NHS SBS planning £750M public sector construction and civils framework",
-        "summary": "NHS Shared Business Services (NHS SBS) is planning a £750M framework for public sector construction works, covering projects ranging from minor refurbishments to major civil engineering schemes. The post NHS SBS planning £750M public sector construction and civils framework appeared first on New Civil Engineer.",
+        "title": "Spencer Rail begins work on new £28M Waterbeach station near Cambridge",
+        "summary": "Construction has begun on a £28M railway station near Waterbeach, north of Cambridge, intended to serve the planned expansion of the town. The post Spencer Rail begins work on new £28M Waterbeach station near Cambridge appeared first on New Civil Engineer.",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Tue, 10 Nov 2026 13:53:47 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/nhs-sbs-planning-750m-public-sector-construction-and-civils-framework-10-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/shutterstock_2274248711-560x315.jpg",
+        "published_at": "Wed, 11 Nov 2026 16:20:28 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/spencer-rail-begins-work-on-new-28m-waterbeach-station-near-cambridge-11-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/Waterbeach-station-plaza-CGI-560x315.png",
         "impact": 4
       },
       {
-        "title": "Government to review cost of UK rail construction",
-        "summary": "The government has launched a review asking why rail infrastructure projects in the UK are costly to deliver, with recommendations expected within six months. The post Government to review cost of UK rail construction appeared first on New Civil Engineer.",
+        "title": "Gilbane wins $114M Alaska Coast Guard water infrastructure project",
+        "summary": "As part of the scope of work, the contractor will replace more than 8 miles of water distribution lines across Base Kodiak and upgrade four storage tanks.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Mon, 09 Nov 2026 16:23:00 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/government-to-review-cost-of-uk-rail-construction-09-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/02/arcadis-GettyImages-1494518854-1-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 11 Nov 2026 15:34:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/gilbane-alaska-kodiak-coast-guard-water/874438/",
+        "image_url": "https://imgproxy.divecdn.com/Je9zr-vNroU0lomaoeOnWqV_pSnTl13yU5j7j4gEE0k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb2FzdF9ndWFyZF9rb2RpYWsuanBlZw==.webp",
+        "impact": 3
       },
       {
         "title": "Kast Construction names new CEO",
@@ -460,59 +460,59 @@
     ],
     "ai": [
       {
-        "title": "A Computational Map of the Disaster Mental Health Research Landscape",
-        "summary": "arXiv:2611.10390v1 Announce Type: new Abstract: When disasters strike, they not only damage infrastructure, buildings, and the economy, but also affect the mental health of affected populations. Research on the mental health effects of disasters has expanded rapidly and has become an important, well-funded area of psyc",
+        "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
+        "summary": "arXiv:2611.12954v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have enabled weight-space programming (WSP), which directly generates neural network weights without gradient-based optimization. However, extending WSP to physical problems remains challenging, particularly in achieving bot",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.10390",
+        "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.12954",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "DeepResearch RewardBench: Evaluating Reward Models for Deep Research Report",
-        "summary": "arXiv:2611.10156v1 Announce Type: new Abstract: Empowered by Large Language Models (LLMs), deep research systems integrate online information into research reports through multi-step web searching and information synthesis. Evaluating these reports presents a significant challenge due to their long context, high inform",
+        "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
+        "summary": "arXiv:2611.12966v1 Announce Type: new Abstract: Large language models (LLMs) can generate SQL and SQL--Python workflows for investment research, but ensuring point-in-time (PIT) validity remains challenging. Agents must enforce disclosure cutoffs and select the appropriate historical states and record versions througho",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.10156",
+        "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.12966",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement",
-        "summary": "arXiv:2611.10165v1 Announce Type: new Abstract: Existing LLM post-training quantization techniques determine precision before inference begins, yet the precision a model requires varies dynamically across prompts, layers, and inference phases. We present AutoEMatic, a full-stack co-design that adapts the precision of w",
+        "title": "Teaching the Harness: Student-Aware Skill Transfer for LLM Agents",
+        "summary": "arXiv:2611.13144v1 Announce Type: new Abstract: Effective teaching requires reasoning about the learner as well as the task, a capacity that Theory of Mind describes as inferring another agent's latent state from its behavior. We ask whether a stronger LLM teaches a fixed student better when it applies this principle. ",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.10165",
+        "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.13144",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AVCORP: Identifying and Resisting Deception via Communication Theory and Theory of Mind",
-        "summary": "arXiv:2611.10176v1 Announce Type: new Abstract: Today's LLM-based agents are vulnerable to deception by users and other agents. Defending against deception requires Theory of Mind (ToM) reasoning to infer the beliefs and goals of others as well as modeling tactics based on communication theory. To enable training model",
+        "title": "NCP: Verifier-Guided Optimization of Weight-Space Control Policies",
+        "summary": "arXiv:2611.13236v1 Announce Type: new Abstract: We present the Neural Control Plane (NCP), a closed-loop system that observes language-model execution, synthesizes candidate weight-space intervention rules, evaluates them, and maintains a versioned table of admitted policies. NCP separates a pretrained model's inferenc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.10176",
+        "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.13236",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
-        "summary": "arXiv:2611.10329v1 Announce Type: new Abstract: LLM agents increasingly drive systems research and rely on simulators to evaluate candidate designs at scale. Simulators are imperfect by design: their modeling limitations can distort predictions yet leave the recommended design correct, or change which design should be ",
+        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Tue, 10 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.10329",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/cogent-security",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6yvbDz3WNgZACuqR1Bllrv/eea6d3b2ec1cf6115a5738c06073259b/cogent-security-social-sienna.png?w=1600&h=900&fit=fill",
+        "impact": 4
       }
     ]
   }
