@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "last_updated": "2026-11-13 03:06 UTC",
+  "date": "2026-11-14",
+  "last_updated": "2026-11-14 02:54 UTC",
   "categories": {
     "science": [
       {
@@ -37,6 +37,17 @@
         "impact": 5
       },
       {
+        "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+        "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threa",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 13 Nov 2026 07:55:11 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/future-virus-vaccine-technology.webp",
+        "impact": 5
+      },
+      {
         "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
         "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a myste",
         "category": "Science",
@@ -46,29 +57,29 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/rising-star-cave-system-excavation.webp",
         "impact": 5
-      },
-      {
-        "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-        "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 09 Nov 2026 19:42:52 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/particle-collision-physics-accelerator.webp",
-        "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-        "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
+        "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The se",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 12 Nov 2026 14:00:00 +0000",
-        "source_url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
-        "image_url": "https://media.wired.com/photos/6af4fdf535927e964a65305d/191:100/w_1280,c_limit/Security_Apple%E2%80%99s%20HomeView%20Won%E2%80%99t%20Have%20FaceID.%20It%E2%80%99ll%20Have%20Something%20Worse_v1.jpg",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 13 Nov 2026 13:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
+        "impact": 4
+      },
+      {
+        "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+        "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 13 Nov 2026 10:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Ian_0010.jpg?resize=1200,600",
         "impact": 4
       },
       {
@@ -83,36 +94,25 @@
         "impact": 4
       },
       {
-        "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-        "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 11 Nov 2026 18:16:40 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Fri, 13 Nov 2026 18:40:30 +0000",
+        "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
         "impact": 3
       },
       {
-        "title": "Donald Trump really wants Tim Cook to run Nvidia",
-        "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple C",
+        "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+        "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball ",
         "category": "Tech",
         "source": "theverge.com",
         "journal": "theverge.com",
-        "published_at": "2026-11-12T19:46:07-05:00",
-        "source_url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&strip=all&crop=0%2C10.74862229228%2C100%2C78.502755415439&w=1200",
-        "impact": 3
-      },
-      {
-        "title": "Humble Bundle redesign removes two-factor verification from settings",
-        "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, a",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-11-12T18:30:52-05:00",
-        "source_url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&strip=all&crop=0%2C10.805209306634%2C100%2C66.481843291493&w=1200",
+        "published_at": "2026-11-13T13:10:41-05:00",
+        "source_url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,10.696524668582,100,78.606950662836",
         "impact": 3
       }
     ],
@@ -129,14 +129,14 @@
         "impact": 5
       },
       {
-        "title": "AI-powered lung cancer atlas identifies cell types linked to higher risk of spread",
-        "summary": "Recent advances in cancer biology have shown that a tumor is not a uniform mass. It consists of many different cancer cells and is embedded in an environment of immune cells, connective tissue and blood vessels. This variety is a significant factor in determining whether a tumor spreads and how well a therapy works. Wh",
+        "title": "RNA switch lets drugs control gene therapy protein production",
+        "summary": "Bioengineers at the University of California San Diego have developed a technology that allows drugs to control when cells produce therapeutic proteins, which could potentially make gene therapies safer and more adaptable for treating chronic diseases.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Thu, 12 Nov 2026 18:00:05 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-ai-powered-lung-cancer-atlas.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-lung-cancer-atlas.jpg",
+        "published_at": "Fri, 13 Nov 2026 16:20:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-rna-drugs-gene-therapy-protein.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-rna-switch-could-m.jpg",
         "impact": 4
       },
       {
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+        "summary": "Astronauts James A. Lovell Jr. and Edwin E. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Fri, 13 Nov 2026 16:05:54 +0000",
+        "source_url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png",
+        "impact": 5
+      },
+      {
         "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
         "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
         "category": "Space",
@@ -243,7 +254,7 @@
         "impact": 5
       },
       {
-        "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+        "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, today? (Full mission timeline)",
         "summary": "SpaceX will attempt to reach orbit with its Starship megarocket and make its first-ever double catch on Nov. 13. Here's what time Starship Flight 15 will launch.",
         "category": "Space",
         "source": "space.com",
@@ -254,40 +265,40 @@
         "impact": 5
       },
       {
-        "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
-        "summary": "\"It should be very bright, considerably brighter than the Starlink satellites due to its size.\"",
+        "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+        "summary": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 12 Nov 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/358cZ8fgTVudyA6vaGY7Ze-1920-80.jpg",
+        "published_at": "Fri, 13 Nov 2026 23:20:03 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/uCdUUu68WhwxWsXFvArEZS-1920-80.jpg",
         "impact": 4
       },
       {
-        "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
-        "summary": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
+        "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
+        "summary": "On Nov. 13, 1971, Mariner 9 became the first spacecraft to orbit Mars. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 11 Nov 2026 20:50:18 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/ELZcUxeke9UwBTiGobNNym-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
-        "summary": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 10 Nov 2026 22:09:39 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/eKkegi3q7cuhqgmtgMrZ6U-1920-80.jpg",
+        "published_at": "Fri, 13 Nov 2026 21:25:55 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/KqwWii385QWmsk3ReaUnPC-1920-80.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
+        "summary": "The Cosmic Noon was when the Universe's Stelliferous Era Began, and star formation was prodigious during that epoch. But since then, star formation has slowed to a relative crawl, despite the fact that we can watch them forming in regions throughout the Milky Way. What happened to the hydrogen gas that forms stars? New",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 13 Nov 2026 17:51:07 +0000",
+        "source_url": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
+        "image_url": "https://www.universetoday.com/article_images/eso1438b_20261113_173311.jpg",
+        "impact": 4
+      },
       {
         "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
         "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
@@ -297,17 +308,6 @@
         "published_at": "Thu, 12 Nov 2026 17:28:20 +0000",
         "source_url": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
         "image_url": "https://cdn.mos.cms.futurecdn.net/6zArwyGLXXZHN5caJ3ZXtN-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
-        "summary": "While rivals announce increasingly expensive smart telescopes, ZWO’s new Seestar S30 Plus makes galaxy and nebula photography surprisingly affordable.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 10 Nov 2026 14:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/z2QmaT5onPi8VTz593SMfc-1920-80.jpg",
         "impact": 4
       },
       {
@@ -322,49 +322,71 @@
         "impact": 4
       },
       {
-        "title": "I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review",
-        "summary": "I photographed nebulas and star clusters over multiple nights with the Vaonis Vespera 3. It’s one of the most capable smart telescopes I’ve used, but it won’t be for everyone.",
+        "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
+        "summary": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 12 Nov 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/cc6xzdF56vfGcBXL63bxK-1920-80.jpg",
+        "published_at": "Fri, 13 Nov 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Y68XwipN9qoyj2ynq2orbd-1920-80.png",
         "impact": 4
       },
       {
-        "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
-        "summary": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
+        "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
+        "summary": "Celestron’s StarSense Explorer tech makes this 150mm Dobsonian so easy to operate — but its tabletop design makes me wonder whether beginners should go bigger.",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Wed, 11 Nov 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/sUscbyNcGzAkq7QeXUWQJn-1920-80.jpg",
+        "published_at": "Fri, 13 Nov 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/n8CuApNZ4LyAmmJHMQVsL3-1920-80.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Sydney’s Powerhouse Parramatta Museum and Bratislava’s Winter Harbour Redevelopment: This Week’s Review",
-        "summary": "This week's stories focus on cultural architecture and the ways museums, art institutions, and public venues are being designed, expanded, and adapted. Across different cities, new projects bring together exhibition spaces, educational programmes, and areas for public activity, while existing buildings take on new cult",
+        "title": "Argyle House: The Story Behind Edinburgh’s Brutalist Landmark",
+        "summary": "Rising from the rocks that form the base of Castle Rock in Edinburgh, Argyle House stands in stark contrast to the city's most iconic landmark. Built in the late 1960s, this angular, grey building is a quintessential example of post-war Brutalist architecture. A geometric concrete structure stripped of ornamentation th",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 12 Nov 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1188495/sydneys-powerhouse-parramatta-museum-and-bratislavas-winter-harbour-redevelopment-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6af4/76a3/c23f/1f01/895a/f45e/large_jpg/sydneys-powerhouse-parramatta-museum-and-momas-new-cultural-alliance-this-weeks-review_5.jpg?1794406062",
-        "impact": 5
+        "published_at": "Fri, 13 Nov 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1187810/argyle-house-the-story-behind-edinburghs-brutalist-landmark",
+        "image_url": "https://images.adsttc.com/media/images/6ae3/e7ae/a04f/d001/89cd/3fb7/large_jpg/argyle-house-the-story-behind-edinburghs-brutalist-landmar_33.jpg?1793320882",
+        "impact": 4
       },
       {
-        "title": "Danubio Budapest Building / T2.a Architects",
-        "summary": "Designed by T2a Architects and completed recently on the site of a former river gravel pit on the banks of the Danube in Budapest, the Danubio residential building responds to the unique urban and natural environment, partially overriding the rules of Budapest real estate developers, and realizes a concept that treats ",
+        "title": "Capsule Retreat / East Architecture Studio",
+        "summary": "Overlooking the coniferous forests of Mount Lebanon, Capsule Retreat is a modern home that beds into an ancient landscape of sandstone outcrops and alpine villages. Paying close attention to the flesh of the site, the design process sets aside aesthetic sensitivities in favor of a more physiological reading, one that a",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Wed, 11 Nov 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1003582/danubio-budapest-building-t-architects",
-        "image_url": "https://images.adsttc.com/media/images/64a6/8e74/cb9c/4621/9f93/eaa7/large_jpg/danubio-budapest-building-t-architects_14.jpg?1688637064",
+        "published_at": "Fri, 13 Nov 2026 07:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188053/capsule-retreat-east-architecture-studio",
+        "image_url": "https://images.adsttc.com/media/images/6aea/bcbb/d2cc/6001/8a4f/6a41/large_jpg/capsule-retreat-east-architecture-studio_3.jpg?1793768661",
+        "impact": 4
+      },
+      {
+        "title": "JSWD Wins Competition to Design Mixed-Use RIYMAR Towers in Riyadh, Saudi Arabia",
+        "summary": "German architecture practice JSWD has been selected to design RIYMAR Towers, a proposed mixed-use development in Riyadh, Saudi Arabia, following an international invited architecture competition organized by Malcolm Reading Consultants on behalf of RIYMAR Real Estate. Located near the intersection of King Fahd Road and",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 13 Nov 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1188504/jswd-wins-competition-to-design-mixed-use-riymar-towers-in-riyadh-saudi-arabia",
+        "image_url": "https://images.adsttc.com/media/images/6af4/8183/8074/f401/89de/e4d2/large_jpg/jswd-wins-competition-to-design-mixed-use-riymar-towers-in-riyadh-saudi-arabia_3.jpg?1794408852",
+        "impact": 4
+      },
+      {
+        "title": "hyan adapts 1970s timber frame into live-work residence on the hills of hayama",
+        "summary": "the existing columns and beams are retained and structurally strengthened, while the interior is reorganized around a double-height living room and a recessed doma created from a former tatami room. The post hyan adapts 1970s timber frame into live-work residence on the hills of hayama appeared first on designboom | ar",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Fri, 13 Nov 2026 03:10:43 +0000",
+        "source_url": "https://www.designboom.com/architecture/hyan-1970s-timber-frame-live-work-residence-hayama-japan-green-sandwich-house/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-1200.jpg",
         "impact": 4
       },
       {
@@ -376,28 +398,6 @@
         "published_at": "Thu, 12 Nov 2026 10:25:52 +0000",
         "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org-designboom-1200.jpg",
-        "impact": 4
-      },
-      {
-        "title": "sumayya vally’s counterspace to design elie khouri art foundation in dubai",
-        "summary": "drawing on beirut’s urban fabric and traditional gulf courtyard houses, counterspace will transform an existing jumeirah villa into a new cultural destination with galleries, educational spaces and gardens, opening in late 2028. The post sumayya vally&#8217;s counterspace to design elie khouri art foundation in dubai a",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Wed, 11 Nov 2026 11:06:45 +0000",
-        "source_url": "https://www.designboom.com/architecture/sumayya-vally-counterspace-elie-khouri-art-foundation-ekaf-dubai/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/sumayya-vally-counterspace-elie-khouri-art-foundation-ekaf-dubai-designboom-1200.jpg",
-        "impact": 4
-      },
-      {
-        "title": "inside mikoü architecture and its search for meaning in craft and construction",
-        "summary": "from the intimacy of the traditional riad to the engineering of contemporary buildings, the french-moroccan twin architects explore how cultural memory, craftsmanship, and industrialization can inform a more holistic approach to architecture. The post inside mikoü architecture and its search for meaning in craft and co",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Mon, 09 Nov 2026 09:45:59 +0000",
-        "source_url": "https://www.designboom.com/architecture/salwa-selma-mikoustudio-craft-architecture-interview-louisiana-channel/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/salwa-selma-mikoustudio-craft-architecture-interview-louisiana-channel-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -425,15 +425,26 @@
         "impact": 4
       },
       {
-        "title": "Spencer Rail begins work on new £28M Waterbeach station near Cambridge",
-        "summary": "Construction has begun on a £28M railway station near Waterbeach, north of Cambridge, intended to serve the planned expansion of the town. The post Spencer Rail begins work on new £28M Waterbeach station near Cambridge appeared first on New Civil Engineer.",
+        "title": "Ferrovial wins $538M Texas water project",
+        "summary": "The reclamation work in Fort Worth, to be delivered by subsidiary Webber, is the firm&rsquo;s largest water infrastructure project in the U.S. to date.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Wed, 11 Nov 2026 16:20:28 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/spencer-rail-begins-work-on-new-28m-waterbeach-station-near-cambridge-11-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/Waterbeach-station-plaza-CGI-560x315.png",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 13 Nov 2026 12:08:16 -0500",
+        "source_url": "https://www.constructiondive.com/news/ferrovial-wins-538m-texas-water-project/874640/",
+        "image_url": "https://imgproxy.divecdn.com/eJY8NQajAs72-TbxuvIE3SlXCpCk6KwvDNgs4Q3l220/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYXJ5cy1jcmVlay13YXRlci1yZWNsYW1hdGlvbi1wbGFudC1yZW5kZXIucG5n.webp",
+        "impact": 3
+      },
+      {
+        "title": "Punch List: Fortis Construction launches in Texas, Hensel Phelps’ build wins DBIA award",
+        "summary": "Plus, Manhattan makes an executive move, Rosie the Riveter Trust opens awards season and a FlatironDragados-Stacy Witbeck JV marks progress on Los Angeles&rsquo; G Line.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 13 Nov 2026 09:23:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/punch-list-fortis-construction-texas-hensel-phelps-dbia-award/874597/",
+        "image_url": "https://imgproxy.divecdn.com/S2pM6QagjFJqB_pgRq5NghMBJkM2cOJ2lW36cGhDxZo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90cmFuc2l0LWctbGluZS1pbXByb3ZlbWVudHMtaW4tbGEtY291bnR5LWFsdC1pbWFnZS0xLmpwZw==.webp",
+        "impact": 3
       },
       {
         "title": "Construction site next to fatal Brooklyn collapse previously violated stop-work order: DOB",
@@ -445,74 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/project-fatal-brooklyn-collapse-stop-work-order/874545/",
         "image_url": "https://imgproxy.divecdn.com/uKZgVQtlk-L3yJ_Iu1r96b5qBEhV3lJTnfZyxULVQVQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0Nzc3MjQzLmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "Brooklyn building collapses into adjacent construction site, leading to multiple deaths",
-        "summary": "The DOB has issued a stop-work order in response to &ldquo;unsafe construction operations&rdquo; that led to multiple deaths and hospitalizations. The exact cause of the collapse is under investigation.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 12 Nov 2026 09:58:51 -0500",
-        "source_url": "https://www.constructiondive.com/news/brooklyn-building-collapses-adjacent-construction-site-fatalities/874484/",
-        "image_url": "https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+        "summary": "arXiv:2611.14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Ea",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 12 Nov 2026 20:00:00 GMT",
-        "source_url": "https://openai.com/business/customer-stories/amplitude",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Fri, 13 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.14765",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-        "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "title": "Rational Use of Time for Social Coordination in Humans and AI",
+        "summary": "arXiv:2611.14766v1 Announce Type: new Abstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for dynamic, fine-grained social coordination",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/cogent-security",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Fri, 13 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.14766",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "CodeRabbit scales agentic software development and ships 20x more",
-        "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+        "summary": "arXiv:2611.14949v1 Announce Type: new Abstract: Identifying and solving partial differential equations (PDEs) from sampled solution data often requires substantial expert effort in equation discovery, coefficient estimation, and numerical solver configuration, especially under noise and distribution shifts. Can large l",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Mon, 09 Nov 2026 08:00:00 GMT",
-        "source_url": "https://openai.com/index/coderabbit-codex-daybreak",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Fri, 13 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.14949",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-        "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+        "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy",
+        "summary": "arXiv:2611.15006v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly interact with tools and environments, yet plausible model decisions do not always translate into successful execution due to tool-call mismatches, interrupted workflows, and unsupported completion claims. We present EvoX, a R",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 05 Nov 2026 09:00:00 GMT",
-        "source_url": "https://openai.com/index/introducing-gpt-6-cyber",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Fri, 13 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.15006",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "AI for Societal Impact",
-        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "title": "guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems",
+        "summary": "arXiv:2611.15223v1 Announce Type: new Abstract: Large-language model (LLM) agents execute actions on external systems through tool calls, and enterprises deploy runtime controls, such as agent gateways, to check this behavior in real time. However, a control can only evaluate the actions that cross the point where it i",
         "category": "AI",
-        "source": "blog.google",
-        "journal": "blog.google",
-        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
-        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Fri, 13 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.15223",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
