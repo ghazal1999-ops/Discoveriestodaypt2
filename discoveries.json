@@ -1,8 +1,41 @@
 {
-  "date": "2026-11-15",
-  "last_updated": "2026-11-15 02:21 UTC",
+  "date": "2026-11-16",
+  "last_updated": "2026-11-16 02:33 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Alzheimer’s Breakthrough Reveals What Happens When the Brain’s Cleaning System Fails",
+        "summary": "A new study suggests that a little-understood genetic risk factor may influence Alzheimer’s progression by weakening the brain’s natural defenses against toxic plaques. A gene linked to Alzheimer’s disease may play a crucial role in protecting the brain from toxic protein buildup. Researchers at UVA Health have discove",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Sun, 15 Nov 2026 21:33:45 +0000",
+        "source_url": "https://scitechdaily.com/alzheimers-breakthrough-reveals-what-happens-when-the-brains-cleaning-system-fails/",
+        "image_url": "https://scitechdaily.com/images/Alzheimer-Disease-Neurons-With-Amyloid-Plaques-777x583.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+        "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's eme",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 15 Nov 2026 08:04:09 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/binary-white-dwarf-beam.webp",
+        "impact": 5
+      },
+      {
+        "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+        "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 14 Nov 2026 21:18:16 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/laser-light-crystal-quantum-material.webp",
+        "impact": 5
+      },
       {
         "title": "AI-powered bionic eye breakthrough could help the blind see again",
         "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers ",
@@ -15,51 +48,29 @@
         "impact": 5
       },
       {
-        "title": "Astronomers discover hidden alien planet in James Webb images",
-        "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conv",
+        "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+        "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Tue, 10 Nov 2026 18:56:04 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/erasing-stars-to-find-exoplanets.webp",
-        "impact": 5
-      },
-      {
-        "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-        "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sat, 07 Nov 2026 18:34:19 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/extremely-short-electron-wave-packet-at-limits-of-space-and-time.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-        "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threa",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 13 Nov 2026 07:55:11 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/future-virus-vaccine-technology.webp",
-        "impact": 5
-      },
-      {
-        "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-        "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electro",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 13 Nov 2026 20:13:05 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/electric-field-of-light-accelerates-electrons.webp",
+        "published_at": "Sun, 15 Nov 2026 09:03:39 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/radiograph-x-ray-back-bone-spinal-pain.webp",
         "impact": 5
       }
     ],
     "tech": [
+      {
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Sun, 15 Nov 2026 23:30:00 +0000",
+        "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+        "impact": 4
+      },
       {
         "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The se",
@@ -103,17 +114,6 @@
         "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
         "impact": 3
-      },
-      {
-        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-        "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sat, 14 Nov 2026 16:34:15 +0000",
-        "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-        "impact": 3
       }
     ],
     "medicine": [
@@ -140,28 +140,6 @@
         "impact": 4
       },
       {
-        "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-        "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the stronge",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 05 Nov 2026 20:11:19 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/cerebral-angiogram-brain-blood-vessels.webp",
-        "impact": 4
-      },
-      {
-        "title": "MIT scientists turn immune cells into cancer killers inside the body",
-        "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make powerful immune therapies dramatically simpler and less expensive while opening new ",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 08 Nov 2026 05:52:31 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/targeted-lipid-nanoparticles-deliver-mrna-to-nk-cells.webp",
-        "impact": 4
-      },
-      {
         "title": "New brain-body connections expand understanding of Alzheimer's disease",
         "summary": "Research on Alzheimer's disease (AD) and aging has found strong connections between physical health and brain health. These new connections were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
         "category": "Medicine",
@@ -170,6 +148,28 @@
         "published_at": "Sat, 14 Nov 2026 12:00:01 EST",
         "source_url": "https://medicalxpress.com/news/2026-11-brain-body-alzheimer-disease.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/alzheimers-disease-2.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A microbe-made molecule may reverse gut damage by boosting NAD levels",
+        "summary": "Scientists at Rutgers Health have discovered a molecule produced by \"good\" gut bacteria that rapidly heals the intestinal lining, protecting against severe inflammatory diseases and triggering increased production of a coenzyme whose levels diminish with age.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 13 Nov 2026 15:20:01 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-microbe-molecule-reverse-gut-boosting.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-microbe-made-molecul.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Yale scientists reveal what really slows aging and what doesn't",
+        "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although whether these biologic",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 13 Nov 2026 23:26:12 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
         "impact": 4
       }
     ],
@@ -243,7 +243,7 @@
         "impact": 5
       },
       {
-        "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
+        "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (video, photos)",
         "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
         "category": "Space",
         "source": "space.com",
@@ -322,6 +322,17 @@
         "impact": 4
       },
       {
+        "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
+        "summary": "Sufferin' succotash! The Monstars and Tune Squad interplanetary slam arrived 30 years ago, and it's still a clinic in interplanetary conflict resolution.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 15 Nov 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/xJK5chfjW9PoPrdK5KsTyN-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
         "summary": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
         "category": "Astronomy",
@@ -331,20 +342,20 @@
         "source_url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
         "image_url": "https://cdn.mos.cms.futurecdn.net/Y68XwipN9qoyj2ynq2orbd-1920-80.png",
         "impact": 4
-      },
-      {
-        "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
-        "summary": "Celestron’s StarSense Explorer tech makes this 150mm Dobsonian so easy to operate — but its tabletop design makes me wonder whether beginners should go bigger.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 13 Nov 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/n8CuApNZ4LyAmmJHMQVsL3-1920-80.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "OkiDoki Matcha Bar / Dobrochna Rajcic",
+        "summary": "Third Place. Set inside Wrocław's historic 1904 Feniks building (formerly the Barasch Brothers' Department Store) at 75 Szewska Street, Oki Doki is a minimalist matcha bar. The design weaves exposed architectural heritage with a bold Yves Klein blue mural, creating a contemporary urban sanctuary focused on \"togethernes",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sun, 15 Nov 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188229/okidoki-matcha-bar",
+        "image_url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4e/large_jpg/migdal_okidoki_6.jpg?1794132644",
+        "impact": 4
+      },
       {
         "title": "Maryland House / Remi C.T.",
         "summary": "A bold example of infill housing architecture, Maryland House redefines urban living through spatial innovation and design precision. It is a dwelling that challenges traditional spatial hierarchy in the home to focus on the reality of modern city living.",
@@ -368,28 +379,6 @@
         "impact": 4
       },
       {
-        "title": "Capsule Retreat / East Architecture Studio",
-        "summary": "Overlooking the coniferous forests of Mount Lebanon, Capsule Retreat is a modern home that beds into an ancient landscape of sandstone outcrops and alpine villages. Paying close attention to the flesh of the site, the design process sets aside aesthetic sensitivities in favor of a more physiological reading, one that a",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 13 Nov 2026 07:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188053/capsule-retreat-east-architecture-studio",
-        "image_url": "https://images.adsttc.com/media/images/6aea/bcbb/d2cc/6001/8a4f/6a41/large_jpg/capsule-retreat-east-architecture-studio_3.jpg?1793768661",
-        "impact": 4
-      },
-      {
-        "title": "JSWD Wins Competition to Design Mixed-Use RIYMAR Towers in Riyadh, Saudi Arabia",
-        "summary": "German architecture practice JSWD has been selected to design RIYMAR Towers, a proposed mixed-use development in Riyadh, Saudi Arabia, following an international invited architecture competition organized by Malcolm Reading Consultants on behalf of RIYMAR Real Estate. Located near the intersection of King Fahd Road and",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 13 Nov 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1188504/jswd-wins-competition-to-design-mixed-use-riymar-towers-in-riyadh-saudi-arabia",
-        "image_url": "https://images.adsttc.com/media/images/6af4/8183/8074/f401/89de/e4d2/large_jpg/jswd-wins-competition-to-design-mixed-use-riymar-towers-in-riyadh-saudi-arabia_3.jpg?1794408852",
-        "impact": 4
-      },
-      {
         "title": "hyan adapts 1970s timber frame into live-work residence on the hills of hayama",
         "summary": "the existing columns and beams are retained and structurally strengthened, while the interior is reorganized around a double-height living room and a recessed doma created from a former tatami room. The post hyan adapts 1970s timber frame into live-work residence on the hills of hayama appeared first on designboom | ar",
         "category": "Architecture",
@@ -398,6 +387,17 @@
         "published_at": "Fri, 13 Nov 2026 03:10:43 +0000",
         "source_url": "https://www.designboom.com/architecture/hyan-1970s-timber-frame-live-work-residence-hayama-japan-green-sandwich-house/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-1200.jpg",
+        "impact": 4
+      },
+      {
+        "title": "BIG imagines a future beyond temporary shelter for uganda’s bidi bidi refugees",
+        "summary": "a modular masterplan draws on local building traditions, shared infrastructure, and productive landscapes to explore how long-term displacement can give rise to more connected and self-sustaining communities. The post BIG imagines a future beyond temporary shelter for uganda’s bidi bidi refugees appeared first on desig",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Thu, 12 Nov 2026 10:25:52 +0000",
+        "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org-designboom-1200.jpg",
         "impact": 4
       }
     ],
