@@ -1,8 +1,19 @@
 {
-  "date": "2026-11-16",
-  "last_updated": "2026-11-16 02:33 UTC",
+  "date": "2026-11-17",
+  "last_updated": "2026-11-17 04:56 UTC",
   "categories": {
     "science": [
+      {
+        "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+        "summary": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way for more reliable quantum memory, although researchers are still trying to understand why it works.",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 15 Nov 2026 21:56:02 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/electron-and-nucleus-spins-controlled-by-wave-signals.webp",
+        "impact": 5
+      },
       {
         "title": "Alzheimer’s Breakthrough Reveals What Happens When the Brain’s Cleaning System Fails",
         "summary": "A new study suggests that a little-understood genetic risk factor may influence Alzheimer’s progression by weakening the brain’s natural defenses against toxic plaques. A gene linked to Alzheimer’s disease may play a crucial role in protecting the brain from toxic protein buildup. Researchers at UVA Health have discove",
@@ -46,31 +57,9 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/beyeler-bionic-eye.webp",
         "impact": 5
-      },
-      {
-        "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-        "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 15 Nov 2026 09:03:39 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/radiograph-x-ray-back-bone-spinal-pain.webp",
-        "impact": 5
       }
     ],
     "tech": [
-      {
-        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-        "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 15 Nov 2026 23:30:00 +0000",
-        "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
-        "impact": 4
-      },
       {
         "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The se",
@@ -105,71 +94,82 @@
         "impact": 4
       },
       {
-        "title": "Where was Nvidia’s security team?",
-        "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate secur",
+        "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+        "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Sun, 15 Nov 2026 00:08:07 +0000",
-        "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 16 Nov 2026 22:58:27 +0000",
+        "source_url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+        "impact": 3
+      },
+      {
+        "title": "US moves to cut China’s remote access to AI chips",
+        "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+        "category": "Tech",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Mon, 16 Nov 2026 19:10:09 +0000",
+        "source_url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "A 24-hour fast triggers a surprising repair response in the gut",
-        "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.",
+        "title": "CAR T-cell therapy shows promise for patients with lupus",
+        "summary": "For patients with systemic lupus erythematosus (SLE), chimeric antigen receptor T-cell (CAR T-cell) therapy is associated with consistent reductions in disease activity, according to research presented at the annual meeting of the American College of Rheumatology (ACR Convergence 2026), held from Nov. 6 to 11 in Orland",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 16 Nov 2026 15:00:03 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-car-cell-therapy-patients-lupus.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/acr-car-t-cell-therapy.jpg",
+        "impact": 4
+      },
+      {
+        "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
+        "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of",
         "category": "Medicine",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sun, 08 Nov 2026 06:06:30 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/rnascope-image-of-small-intestinal-crypts.webp",
-        "impact": 5
-      },
-      {
-        "title": "RNA switch lets drugs control gene therapy protein production",
-        "summary": "Bioengineers at the University of California San Diego have developed a technology that allows drugs to control when cells produce therapeutic proteins, which could potentially make gene therapies safer and more adaptable for treating chronic diseases.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 13 Nov 2026 16:20:06 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-rna-drugs-gene-therapy-protein.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-rna-switch-could-m.jpg",
+        "published_at": "Sun, 15 Nov 2026 20:40:04 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/brain-waves-neural-signals-treatment.webp",
         "impact": 4
       },
       {
-        "title": "New brain-body connections expand understanding of Alzheimer's disease",
-        "summary": "Research on Alzheimer's disease (AD) and aging has found strong connections between physical health and brain health. These new connections were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+        "title": "Immune cell state may help explain how cytomegalovirus evades body's defenses",
+        "summary": "Human cytomegalovirus (HCMV) is a major global health burden that causes lifelong infection in humans. It is the leading infectious cause of developmental disabilities in children and can be life-threatening to individuals with a weakened immune system, for example, in transplant patients. Despite 70 years of research ",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sat, 14 Nov 2026 12:00:01 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-brain-body-alzheimer-disease.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2024/alzheimers-disease-2.jpg",
+        "published_at": "Mon, 16 Nov 2026 20:40:04 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-immune-cell-state-cytomegalovirus-evades.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/portrait-of-katharina.jpg",
         "impact": 4
       },
       {
-        "title": "A microbe-made molecule may reverse gut damage by boosting NAD levels",
-        "summary": "Scientists at Rutgers Health have discovered a molecule produced by \"good\" gut bacteria that rapidly heals the intestinal lining, protecting against severe inflammatory diseases and triggering increased production of a coenzyme whose levels diminish with age.",
+        "title": "More than half of physician disciplinary actions in California study involved gaps in medical knowledge",
+        "summary": "Gaps in medical knowledge, such as prescribing inappropriate medications, incorrectly interpreting imaging studies or ordering an unnecessary high-risk procedure that could jeopardize a patient's health, played a role in 52.3% of the physician disciplinary actions reviewed in a new American Board of Internal Medicine (",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Fri, 13 Nov 2026 15:20:01 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-microbe-molecule-reverse-gut-boosting.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-microbe-made-molecul.jpg",
+        "published_at": "Mon, 16 Nov 2026 17:20:22 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-physician-disciplinary-actions-california-involved.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/physician.jpg",
         "impact": 4
       },
       {
-        "title": "Yale scientists reveal what really slows aging and what doesn't",
-        "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although whether these biologic",
+        "title": "ACAAI: Considerable delay seen from Rx to approval for children's biologics",
+        "summary": "There is a considerable delay from prescription of biologic therapy to final approval for pediatric patients, and almost 40% of prescriptions requiring a prior authorization (PA) are denied, according to a study presented at the annual meeting of the American College of Allergy, Asthma and Immunology, held from Nov. 12",
         "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Fri, 13 Nov 2026 23:26:12 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Mon, 16 Nov 2026 17:00:01 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-acaai-considerable-delay-rx-children.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rx.jpg",
         "impact": 4
       }
     ],
@@ -254,17 +254,6 @@
         "impact": 5
       },
       {
-        "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
-        "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 12 Nov 2026 17:28:20 +0000",
-        "source_url": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/6zArwyGLXXZHN5caJ3ZXtN-1920-80.png",
-        "impact": 5
-      },
-      {
         "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
         "summary": "On Nov. 14, 1969, the Apollo 12 astronauts launched to the moon. Here's why it mattered.",
         "category": "Space",
@@ -285,6 +274,17 @@
         "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
         "image_url": "https://cdn.mos.cms.futurecdn.net/uCdUUu68WhwxWsXFvArEZS-1920-80.jpg",
         "impact": 4
+      },
+      {
+        "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
+        "summary": "On Nov. 13, 1971, Mariner 9 became the first spacecraft to orbit Mars. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Fri, 13 Nov 2026 21:25:55 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/KqwWii385QWmsk3ReaUnPC-1920-80.jpg",
+        "impact": 4
       }
     ],
     "astronomy": [
@@ -300,25 +300,25 @@
         "impact": 4
       },
       {
-        "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
-        "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 12 Nov 2026 17:28:20 +0000",
-        "source_url": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/6zArwyGLXXZHN5caJ3ZXtN-1920-80.png",
-        "impact": 4
-      },
-      {
-        "title": "Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough",
-        "summary": "TESS watched an exoplanet about 1,000 light years away as it repeatedly transited in front of its star for seven years. But astronomers were surprised to find that the hot Jupiter disappeared. Of course, planets don't just disappear. Something interrupted its transits from our point of view, and astronomers think they'",
+        "title": "This Supernova is 50 Million Light Years Away, But That's Close Enough For Astronomers",
+        "summary": "A new supernova has been detected in a spiral galaxy about 50 million light years away. That's close enough for detatiled follow-up observations, which have already begun. It's a type Ia supernova, meaning it's an exploding white dwarf rather than a massive star ending its life in a core-collapse detonation. Astronomer",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Wed, 11 Nov 2026 13:02:29 +0000",
-        "source_url": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
-        "image_url": "https://www.universetoday.com/article_images/image_7543-Hot-Jupiter_20261110_222441.jpg",
+        "published_at": "Mon, 16 Nov 2026 21:11:30 +0000",
+        "source_url": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
+        "image_url": "https://www.universetoday.com/article_images/noirlab2628a_20261116_195920.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A Magna Carta for the stars: King Charles III takes on space sustainability",
+        "summary": "\"I think once people are aware of it, they want the same sustainability standards for protecting our planet\".",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 16 Nov 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/7PXmLixSAtL4bHuXbpKk8U-1920-80.jpg",
         "impact": 4
       },
       {
@@ -346,6 +346,28 @@
     ],
     "architecture": [
       {
+        "title": "Kashef Chowdhury/URBANA Receives the First Ambasz–MoMA Annual Prize for Nature–Reconciled Architecture",
+        "summary": "The Museum of Modern Art (MoMA) has selected Kashef Chowdhury/URBANA as the recipient of the first Ambasz–MoMA Annual Prize for Nature–Reconciled Architecture. The prize goes to the Dhaka-based architectural office for the design of the Friendship Centre, a rural training facility in Gaibandha, Bangladesh, inspired by ",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 16 Nov 2026 08:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188667/kashef-chowdhury-urbana-receives-the-first-ambasz-moma-annual-prize-for-nature-reconciled-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6afa/00de/c23f/1f01/895a/ff4b/large_jpg/kashef-chowdhury-urbana-receives-the-inaugural-ambasz-moma-annual-prize-for-nature-reconciled-architecture_4.jpg?1794769143",
+        "impact": 4
+      },
+      {
+        "title": "From the Fun Palace to the Fish: Architecture’s Triumph or Computation’s Takeover?",
+        "summary": "The Heydar Aliyev Center in Baku, Azerbaijan, rises in fluid curves and folds in the midst of a wide clearing in the city's gridded forest of urban blocks. The striking structure, completed in 2013 by Zaha Hadid Architects, acts as a primary venue for the country's cultural programs. Its curvaceous form sits in contras",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 16 Nov 2026 04:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188572/from-the-fun-palace-to-the-fish-architectures-triumph-or-computations-takeover",
+        "image_url": "https://images.adsttc.com/media/images/6af6/54f7/c23f/1f01/895a/f98a/large_jpg/from-the-fun-palace-to-the-fish-the-triumph-of-computation-in-architecture_1.jpg?1794528554",
+        "impact": 4
+      },
+      {
         "title": "OkiDoki Matcha Bar / Dobrochna Rajcic",
         "summary": "Third Place. Set inside Wrocław's historic 1904 Feniks building (formerly the Barasch Brothers' Department Store) at 75 Szewska Street, Oki Doki is a minimalist matcha bar. The design weaves exposed architectural heritage with a bold Yves Klein blue mural, creating a contemporary urban sanctuary focused on \"togethernes",
         "category": "Architecture",
@@ -357,47 +379,25 @@
         "impact": 4
       },
       {
-        "title": "Maryland House / Remi C.T.",
-        "summary": "A bold example of infill housing architecture, Maryland House redefines urban living through spatial innovation and design precision. It is a dwelling that challenges traditional spatial hierarchy in the home to focus on the reality of modern city living.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Sat, 14 Nov 2026 10:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188511/maryland-house",
-        "image_url": "https://images.adsttc.com/media/images/6af4/9801/eabd/2a00/0192/c6b2/large_jpg/MH_RCT_05_EDIT.jpg?1794414625",
-        "impact": 4
-      },
-      {
-        "title": "Argyle House: The Story Behind Edinburgh’s Brutalist Landmark",
-        "summary": "Rising from the rocks that form the base of Castle Rock in Edinburgh, Argyle House stands in stark contrast to the city's most iconic landmark. Built in the late 1960s, this angular, grey building is a quintessential example of post-war Brutalist architecture. A geometric concrete structure stripped of ornamentation th",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 13 Nov 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1187810/argyle-house-the-story-behind-edinburghs-brutalist-landmark",
-        "image_url": "https://images.adsttc.com/media/images/6ae3/e7ae/a04f/d001/89cd/3fb7/large_jpg/argyle-house-the-story-behind-edinburghs-brutalist-landmar_33.jpg?1793320882",
-        "impact": 4
-      },
-      {
-        "title": "hyan adapts 1970s timber frame into live-work residence on the hills of hayama",
-        "summary": "the existing columns and beams are retained and structurally strengthened, while the interior is reorganized around a double-height living room and a recessed doma created from a former tatami room. The post hyan adapts 1970s timber frame into live-work residence on the hills of hayama appeared first on designboom | ar",
+        "title": "podcast: indian architects adapt building codes and restore soil through trust",
+        "summary": "the two conversations bring together seven indian practitioners to dissect the unseen negotiations of contemporary practice. The post podcast: indian architects adapt building codes and restore soil through trust appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
         "source": "designboom.com",
         "journal": "designboom.com",
-        "published_at": "Fri, 13 Nov 2026 03:10:43 +0000",
-        "source_url": "https://www.designboom.com/architecture/hyan-1970s-timber-frame-live-work-residence-hayama-japan-green-sandwich-house/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-1200.jpg",
+        "published_at": "Mon, 16 Nov 2026 11:00:24 +0000",
+        "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-07-08/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/indx-global-room-for-utopias-podcast-04-designboom-1200.jpg",
         "impact": 4
       },
       {
-        "title": "BIG imagines a future beyond temporary shelter for uganda’s bidi bidi refugees",
-        "summary": "a modular masterplan draws on local building traditions, shared infrastructure, and productive landscapes to explore how long-term displacement can give rise to more connected and self-sustaining communities. The post BIG imagines a future beyond temporary shelter for uganda’s bidi bidi refugees appeared first on desig",
+        "title": "The Black Timber / SO Arquitetura & Design",
+        "summary": "Black Timber begins with an elementary operation: building almost entirely from a single material and exploring, through it, two opposing conditions.&nbsp;",
         "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Thu, 12 Nov 2026 10:25:52 +0000",
-        "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org-designboom-1200.jpg",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 16 Nov 2026 13:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188494/the-black-timber-so-arquitetura-and-design",
+        "image_url": "https://images.adsttc.com/media/images/6af4/6d3f/c23f/1f01/895a/f3d8/large_jpg/the-black-timber-so-arquitetura-and-design_21.jpg?1794403714",
         "impact": 4
       }
     ],
@@ -425,6 +425,17 @@
         "impact": 4
       },
       {
+        "title": "‘Scorching-hot’ construction input prices are more difficult to pass along",
+        "summary": "Tariff-impacted materials including iron, steel and copper will likely continue to drive price escalation in the months ahead, according to an Associated Builders and Contractors analysis.&nbsp;",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 16 Nov 2026 09:34:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/scorching-hot-construction-input-prices-october/874729/",
+        "image_url": "https://imgproxy.divecdn.com/fZ-0hjNi8yg2Wge20leG9rnoChq2h4maK6HCOIi-SvA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2NDU1NDEzLmpwZw==.webp",
+        "impact": 3
+      },
+      {
         "title": "Ferrovial wins $538M Texas water project",
         "summary": "The reclamation work in Fort Worth, to be delivered by subsidiary Webber, is the firm&rsquo;s largest water infrastructure project in the U.S. to date.",
         "category": "Construction",
@@ -445,74 +456,63 @@
         "source_url": "https://www.constructiondive.com/news/punch-list-fortis-construction-texas-hensel-phelps-dbia-award/874597/",
         "image_url": "https://imgproxy.divecdn.com/S2pM6QagjFJqB_pgRq5NghMBJkM2cOJ2lW36cGhDxZo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90cmFuc2l0LWctbGluZS1pbXByb3ZlbWVudHMtaW4tbGEtY291bnR5LWFsdC1pbWFnZS0xLmpwZw==.webp",
         "impact": 3
-      },
-      {
-        "title": "Construction site next to fatal Brooklyn collapse previously violated stop-work order: DOB",
-        "summary": "The Wednesday incident killed eight people, including two construction workers, said New York City Mayor Zohran Mamdani. He vowed the city would hold the responsible parties accountable.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 12 Nov 2026 15:01:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/project-fatal-brooklyn-collapse-stop-work-order/874545/",
-        "image_url": "https://imgproxy.divecdn.com/uKZgVQtlk-L3yJ_Iu1r96b5qBEhV3lJTnfZyxULVQVQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0Nzc3MjQzLmpwZw==.webp",
-        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+        "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.18",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 12 Nov 2026 20:00:00 GMT",
-        "source_url": "https://openai.com/business/customer-stories/amplitude",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.17338",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-        "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+        "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/cogent-security",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.17515",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "CodeRabbit scales agentic software development and ships 20x more",
-        "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+        "summary": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up ap",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Mon, 09 Nov 2026 08:00:00 GMT",
-        "source_url": "https://openai.com/index/coderabbit-codex-daybreak",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.17532",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-        "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+        "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+        "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique m",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 05 Nov 2026 09:00:00 GMT",
-        "source_url": "https://openai.com/index/introducing-gpt-6-cyber",
-        "image_url": "https://picsum.photos/seed/aifallback/1200/800",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.17610",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "AI for Societal Impact",
-        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+        "summary": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under ",
         "category": "AI",
-        "source": "blog.google",
-        "journal": "blog.google",
-        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
-        "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.17621",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
