@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "last_updated": "2026-11-17 04:56 UTC",
+  "date": "2026-11-18",
+  "last_updated": "2026-11-18 04:01 UTC",
   "categories": {
     "science": [
       {
@@ -12,17 +12,6 @@
         "published_at": "Sun, 15 Nov 2026 21:56:02 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/electron-and-nucleus-spins-controlled-by-wave-signals.webp",
-        "impact": 5
-      },
-      {
-        "title": "Alzheimer’s Breakthrough Reveals What Happens When the Brain’s Cleaning System Fails",
-        "summary": "A new study suggests that a little-understood genetic risk factor may influence Alzheimer’s progression by weakening the brain’s natural defenses against toxic plaques. A gene linked to Alzheimer’s disease may play a crucial role in protecting the brain from toxic protein buildup. Researchers at UVA Health have discove",
-        "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Sun, 15 Nov 2026 21:33:45 +0000",
-        "source_url": "https://scitechdaily.com/alzheimers-breakthrough-reveals-what-happens-when-the-brains-cleaning-system-fails/",
-        "image_url": "https://scitechdaily.com/images/Alzheimer-Disease-Neurons-With-Amyloid-Plaques-777x583.jpg",
         "impact": 5
       },
       {
@@ -57,6 +46,17 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/beyeler-bionic-eye.webp",
         "impact": 5
+      },
+      {
+        "title": "Quantum Breakthrough: Scientists Develop a Detector That Can Count Over 9,000 Photons",
+        "summary": "A new detector can measure hundreds of photons with less than a single photon&#8217;s uncertainty, offering scientists a sharper way to investigate quantum light and advance future technologies. Scientists developing powerful quantum computers and highly sensitive cameras need ways to count individual particles of ligh",
+        "category": "Science",
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Tue, 17 Nov 2026 16:08:05 +0000",
+        "source_url": "https://scitechdaily.com/quantum-breakthrough-scientists-develop-a-detector-that-can-count-over-9000-photons/",
+        "image_url": "https://scitechdaily.com/images/Photon-Number-Resolution-Illustration-777x777.jpg",
+        "impact": 5
       }
     ],
     "tech": [
@@ -83,17 +83,6 @@
         "impact": 4
       },
       {
-        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-        "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Thu, 12 Nov 2026 20:16:24 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
         "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
         "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
         "category": "Tech",
@@ -105,27 +94,49 @@
         "impact": 3
       },
       {
-        "title": "US moves to cut China’s remote access to AI chips",
-        "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+        "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Mon, 16 Nov 2026 19:10:09 +0000",
-        "source_url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Tue, 17 Nov 2026 23:37:48 +0000",
+        "source_url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+        "impact": 3
+      },
+      {
+        "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+        "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got t",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-17T17:25:41-05:00",
+        "source_url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&strip=all&crop=0%2C10.742803501923%2C100%2C78.514392996155&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "CAR T-cell therapy shows promise for patients with lupus",
-        "summary": "For patients with systemic lupus erythematosus (SLE), chimeric antigen receptor T-cell (CAR T-cell) therapy is associated with consistent reductions in disease activity, according to research presented at the annual meeting of the American College of Rheumatology (ACR Convergence 2026), held from Nov. 6 to 11 in Orland",
+        "title": "FDA approves new drug for advanced head and neck squamous cell carcinoma",
+        "summary": "The U.S. Food and Drug Administration has approved Janssen Biotech's Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for the treatment of adults with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) whose disease has progressed during or after receipt of platinum-based chemotherapy and immuno",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 16 Nov 2026 15:00:03 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-car-cell-therapy-patients-lupus.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/acr-car-t-cell-therapy.jpg",
+        "published_at": "Tue, 17 Nov 2026 20:20:05 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-fda-drug-advanced-neck-squamous.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/doctor-examine-neck.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+        "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Sci",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 17 Nov 2026 06:39:45 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-brain-boost-power-spark.webp",
         "impact": 4
       },
       {
@@ -140,36 +151,25 @@
         "impact": 4
       },
       {
-        "title": "Immune cell state may help explain how cytomegalovirus evades body's defenses",
-        "summary": "Human cytomegalovirus (HCMV) is a major global health burden that causes lifelong infection in humans. It is the leading infectious cause of developmental disabilities in children and can be life-threatening to individuals with a weakened immune system, for example, in transplant patients. Despite 70 years of research ",
+        "title": "FDA approves first factor XIa inhibitor for secondary stroke prevention",
+        "summary": "The U.S. Food and Drug Administration has approved Sunharbo (asundexian) 50 mg tablets, in combination with antiplatelet therapy, to reduce the risk for stroke in adults following a recent mild-to-moderate noncardioembolic ischemic stroke or a high-risk transient ischemic attack (TIA).",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 16 Nov 2026 20:40:04 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-immune-cell-state-cytomegalovirus-evades.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/portrait-of-katharina.jpg",
+        "published_at": "Tue, 17 Nov 2026 21:20:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-fda-factor-xia-inhibitor-secondary.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/stroke-risk.jpg",
         "impact": 4
       },
       {
-        "title": "More than half of physician disciplinary actions in California study involved gaps in medical knowledge",
-        "summary": "Gaps in medical knowledge, such as prescribing inappropriate medications, incorrectly interpreting imaging studies or ordering an unnecessary high-risk procedure that could jeopardize a patient's health, played a role in 52.3% of the physician disciplinary actions reviewed in a new American Board of Internal Medicine (",
+        "title": "GLP-1 weight-loss drugs linked to inadequate intake of key nutrients in some people",
+        "summary": "Drugs taken to suppress appetite, such as Wegovy and Mounjaro, are associated with inadequate intakes of key nutrients and energy in some people, finds a small exploratory study published in the journal BMJ Nutrition Prevention & Health.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 16 Nov 2026 17:20:22 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-physician-disciplinary-actions-california-involved.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/physician.jpg",
-        "impact": 4
-      },
-      {
-        "title": "ACAAI: Considerable delay seen from Rx to approval for children's biologics",
-        "summary": "There is a considerable delay from prescription of biologic therapy to final approval for pediatric patients, and almost 40% of prescriptions requiring a prior authorization (PA) are denied, according to a study presented at the annual meeting of the American College of Allergy, Asthma and Immunology, held from Nov. 12",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Mon, 16 Nov 2026 17:00:01 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-acaai-considerable-delay-rx-children.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/rx.jpg",
+        "published_at": "Tue, 17 Nov 2026 18:30:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-glp-weight-loss-drugs-linked.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/person-taking-suppleme.jpg",
         "impact": 4
       }
     ],
@@ -232,17 +232,6 @@
     ],
     "space": [
       {
-        "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-        "summary": "Astronauts James A. Lovell Jr. and Edwin E. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 13 Nov 2026 16:05:54 +0000",
-        "source_url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png",
-        "impact": 5
-      },
-      {
         "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (video, photos)",
         "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
         "category": "Space",
@@ -285,9 +274,31 @@
         "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
         "image_url": "https://cdn.mos.cms.futurecdn.net/KqwWii385QWmsk3ReaUnPC-1920-80.jpg",
         "impact": 4
+      },
+      {
+        "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+        "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 17 Nov 2026 19:16:22 +0000",
+        "source_url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ng35.jpg",
+        "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "Galaxy Outflows Likely Regulate Star Formation At ‘Cosmic Noon’ NASA’s Webb Reveals",
+        "summary": "A galaxy’s ultimate habitability is likely linked to massive gaseous outflows that regulate star formation.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 17 Nov 2026 09:29:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals",
+        "image_url": "https://www.universetoday.com/article_images/NGC_4414_NASA-med_20261117_095611.jpg",
+        "impact": 4
+      },
       {
         "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
         "summary": "The Cosmic Noon was when the Universe's Stelliferous Era Began, and star formation was prodigious during that epoch. But since then, star formation has slowed to a relative crawl, despite the fact that we can watch them forming in regions throughout the Milky Way. What happened to the hydrogen gas that forms stars? New",
@@ -297,6 +308,17 @@
         "published_at": "Fri, 13 Nov 2026 17:51:07 +0000",
         "source_url": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
         "image_url": "https://www.universetoday.com/article_images/eso1438b_20261113_173311.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Computer Simulations Provide the Best Explanation for Those \"Little Red Dots\" Yet!",
+        "summary": "Tiny ‘Little Red Dot’ galaxies found by the James Webb Space Telescope are revealed to be the remnants of supermassive primordial stars surrounded by dense gaseous envelopes.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 17 Nov 2026 22:58:52 +0000",
+        "source_url": "https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet",
+        "image_url": "https://www.universetoday.com/article_images/littlereddots_1_20260727_200136_20261117_224922.jpg",
         "impact": 4
       },
       {
@@ -320,62 +342,51 @@
         "source_url": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
         "image_url": "https://cdn.mos.cms.futurecdn.net/7PXmLixSAtL4bHuXbpKk8U-1920-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
-        "summary": "Sufferin' succotash! The Monstars and Tune Squad interplanetary slam arrived 30 years ago, and it's still a clinic in interplanetary conflict resolution.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 15 Nov 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/xJK5chfjW9PoPrdK5KsTyN-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
-        "summary": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 13 Nov 2026 17:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Y68XwipN9qoyj2ynq2orbd-1920-80.png",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Kashef Chowdhury/URBANA Receives the First Ambasz–MoMA Annual Prize for Nature–Reconciled Architecture",
-        "summary": "The Museum of Modern Art (MoMA) has selected Kashef Chowdhury/URBANA as the recipient of the first Ambasz–MoMA Annual Prize for Nature–Reconciled Architecture. The prize goes to the Dhaka-based architectural office for the design of the Friendship Centre, a rural training facility in Gaibandha, Bangladesh, inspired by ",
+        "title": "raumlaborberlin at IE School of Architecture & Design’s COMMON(S) Lecture Series",
+        "summary": "IE School of Architecture &amp; Design welcomes raumlaborberlin, the internationally acclaimed German architecture collective, as part of its COMMON(S) 2026&ndash;27 Lecture Series. On November 25, 2026, Benjamin Foerster-Baldenius, founding member of raumlabor, will present the lecture &ldquo;In the Flow of Making&rdq",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 16 Nov 2026 08:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188667/kashef-chowdhury-urbana-receives-the-first-ambasz-moma-annual-prize-for-nature-reconciled-architecture",
-        "image_url": "https://images.adsttc.com/media/images/6afa/00de/c23f/1f01/895a/ff4b/large_jpg/kashef-chowdhury-urbana-receives-the-inaugural-ambasz-moma-annual-prize-for-nature-reconciled-architecture_4.jpg?1794769143",
+        "published_at": "Tue, 17 Nov 2026 09:10:00 +0000",
+        "source_url": "https://www.archdaily.com/1188760/raumlaborberlin-at-ie-school-of-architecture-and-designs-common-s-lecture-series",
+        "image_url": "https://images.adsttc.com/media/images/6afc/5ada/eabd/2a00/0192/fa7e/large_jpg/Lecture-Series-Banner_1920x1080_Raumlabor_1.jpg?1794923242",
+        "impact": 5
+      },
+      {
+        "title": "North Boulder Library / WORKac",
+        "summary": "The Boulder Public Library issued an open Request for Proposal (RFP) in 2018 for a new branch library in North Boulder, a project the community had anticipated for over two decades. The RFP called for an \"iconic\" building, which many competitors interpreted as a visually striking design. However, WORKac www.work.ac - t",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Tue, 17 Nov 2026 11:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1030123/north-boulder-library-workac",
+        "image_url": "https://images.adsttc.com/media/images/6823/a1e0/5513/910e/326f/f811/large_jpg/north-boulder-library-workac_6.jpg?1747165698",
         "impact": 4
       },
       {
-        "title": "From the Fun Palace to the Fish: Architecture’s Triumph or Computation’s Takeover?",
-        "summary": "The Heydar Aliyev Center in Baku, Azerbaijan, rises in fluid curves and folds in the midst of a wide clearing in the city's gridded forest of urban blocks. The striking structure, completed in 2013 by Zaha Hadid Architects, acts as a primary venue for the country's cultural programs. Its curvaceous form sits in contras",
+        "title": "Kingston Urban Room Exhibition: Tall Buildings, Shared Futures.",
+        "summary": "This November the Kingston Urban Room is inviting residents to explore local tall buildings and help shape the conversation about Kingston&rsquo;s future: The exhibition&rsquo;s central question is: As Kingston grows, what should we value, what should we protect, and what should we change? Tall Buildings, Shared Future",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 16 Nov 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188572/from-the-fun-palace-to-the-fish-architectures-triumph-or-computations-takeover",
-        "image_url": "https://images.adsttc.com/media/images/6af6/54f7/c23f/1f01/895a/f98a/large_jpg/from-the-fun-palace-to-the-fish-the-triumph-of-computation-in-architecture_1.jpg?1794528554",
+        "published_at": "Tue, 17 Nov 2026 09:05:00 +0000",
+        "source_url": "https://www.archdaily.com/1188756/kingston-urban-room-exhibition-tall-buildings-shared-futures",
+        "image_url": "https://images.adsttc.com/media/images/6afc/568e/eabd/2a00/0192/fa5c/large_jpg/IMG_1379.jpg?1794922137",
         "impact": 4
       },
       {
-        "title": "OkiDoki Matcha Bar / Dobrochna Rajcic",
-        "summary": "Third Place. Set inside Wrocław's historic 1904 Feniks building (formerly the Barasch Brothers' Department Store) at 75 Szewska Street, Oki Doki is a minimalist matcha bar. The design weaves exposed architectural heritage with a bold Yves Klein blue mural, creating a contemporary urban sanctuary focused on \"togethernes",
+        "title": "HaloPlaza Hangzhou Vanke Mixed-use Complex / Nikken Sekkei",
+        "summary": "By revitalizing a neglected canal, we created a fresh and vibrant urban environment and planned a continuous and open public space along the waterfront. Above this public space, multiple functions — including offices, retail, cultural, and serviced apartments — are vertically layered together with elevated open spaces.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sun, 15 Nov 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188229/okidoki-matcha-bar",
-        "image_url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4e/large_jpg/migdal_okidoki_6.jpg?1794132644",
+        "published_at": "Tue, 17 Nov 2026 00:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1187950/haloplaza-hangzhou-vanke-mixed-use-complex-nikken-sekkei",
+        "image_url": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae70/large_jpg/_Exterior_Facade1_ShenzhenGuyuArtCultureCommunication.jpg?1793622516",
         "impact": 4
       },
       {
@@ -388,20 +399,31 @@
         "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-07-08/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/indx-global-room-for-utopias-podcast-04-designboom-1200.jpg",
         "impact": 4
-      },
-      {
-        "title": "The Black Timber / SO Arquitetura & Design",
-        "summary": "Black Timber begins with an elementary operation: building almost entirely from a single material and exploring, through it, two opposing conditions.&nbsp;",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 16 Nov 2026 13:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188494/the-black-timber-so-arquitetura-and-design",
-        "image_url": "https://images.adsttc.com/media/images/6af4/6d3f/c23f/1f01/895a/f3d8/large_jpg/the-black-timber-so-arquitetura-and-design_21.jpg?1794403714",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "Port Authority proposes $10.3B budget for NYC-area projects",
+        "summary": "The funds would go toward construction at Kennedy and Newark Liberty airports, as well as the $10 billion Midtown Bus Terminal replacement, among other infrastructure builds.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 17 Nov 2026 12:18:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/port-authority-proposes-budget-nyc-area-projects/874913/",
+        "image_url": "https://imgproxy.divecdn.com/KhZeoJrmY6SAvBJVmfOsy7w-2vcEUXnyp368dCi5Viw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NDgzOTE0NTQxNF82MjhlM2Q4ZmY2X28uanBn.webp",
+        "impact": 4
+      },
+      {
+        "title": "FlatironDragados completes $133M North Carolina highway project",
+        "summary": "The infrastructure giant finished seven new bridges and a new interchange along a stretch of the $1.7 billion Winston-Salem Northern Beltway.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 17 Nov 2026 09:17:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/flatirondragados-completes-north-carolina-highway/874867/",
+        "image_url": "https://imgproxy.divecdn.com/eKH7J0MSoC3wZlhnOXF7qCjkqcqYQKWWn6TOU4luaDM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9oaWdod2F5cy13aW5zdG9uLXNhbGVtLW5vcnRoZXJuLWJlbHR3YXktZWFzdGVybi1zZWN0aW9uLXN1YnN0YW50aWFsLWNvbXBsZXRpb24tODAweDU5OS5qcGc=.webp",
+        "impact": 4
+      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -425,92 +447,70 @@
         "impact": 4
       },
       {
-        "title": "‘Scorching-hot’ construction input prices are more difficult to pass along",
-        "summary": "Tariff-impacted materials including iron, steel and copper will likely continue to drive price escalation in the months ahead, according to an Associated Builders and Contractors analysis.&nbsp;",
+        "title": "Granite buys materials businesses in Utah, Tennessee",
+        "summary": "The additions of Construction Materials Co. in Provo, Utah, and Ford Construction near Memphis, Tennessee, build on the contractor&rsquo;s picks-and-shovels strategy.&nbsp;",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 16 Nov 2026 09:34:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/scorching-hot-construction-input-prices-october/874729/",
-        "image_url": "https://imgproxy.divecdn.com/fZ-0hjNi8yg2Wge20leG9rnoChq2h4maK6HCOIi-SvA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2NDU1NDEzLmpwZw==.webp",
-        "impact": 3
-      },
-      {
-        "title": "Ferrovial wins $538M Texas water project",
-        "summary": "The reclamation work in Fort Worth, to be delivered by subsidiary Webber, is the firm&rsquo;s largest water infrastructure project in the U.S. to date.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 13 Nov 2026 12:08:16 -0500",
-        "source_url": "https://www.constructiondive.com/news/ferrovial-wins-538m-texas-water-project/874640/",
-        "image_url": "https://imgproxy.divecdn.com/eJY8NQajAs72-TbxuvIE3SlXCpCk6KwvDNgs4Q3l220/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYXJ5cy1jcmVlay13YXRlci1yZWNsYW1hdGlvbi1wbGFudC1yZW5kZXIucG5n.webp",
-        "impact": 3
-      },
-      {
-        "title": "Punch List: Fortis Construction launches in Texas, Hensel Phelps’ build wins DBIA award",
-        "summary": "Plus, Manhattan makes an executive move, Rosie the Riveter Trust opens awards season and a FlatironDragados-Stacy Witbeck JV marks progress on Los Angeles&rsquo; G Line.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 13 Nov 2026 09:23:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/punch-list-fortis-construction-texas-hensel-phelps-dbia-award/874597/",
-        "image_url": "https://imgproxy.divecdn.com/S2pM6QagjFJqB_pgRq5NghMBJkM2cOJ2lW36cGhDxZo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90cmFuc2l0LWctbGluZS1pbXByb3ZlbWVudHMtaW4tbGEtY291bnR5LWFsdC1pbWFnZS0xLmpwZw==.webp",
+        "published_at": "Tue, 17 Nov 2026 10:22:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/granite-materials-businesses-utah-tennessee/874816/",
+        "image_url": "https://imgproxy.divecdn.com/GfFfVp8aoGX4YIcoITJQ6FiauSFSTY7os8XrJ1d3dRI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XZWJzaXRlX2ltYWdlX2Jhbm5lcl8xNDQweDUyMC5qcGc=.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-        "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.18",
+        "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
+        "summary": "arXiv:2611.18714v1 Announce Type: new Abstract: Can AI systems be moral agents? That is, can they undertake actions that can be correctly assessed as morally right or wrong? There is no settled normative criterion of moral agency that applies neatly outside paradigm human cases. Because of the difficulties with a norma",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.17338",
+        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.18714",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-        "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is ",
+        "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
+        "summary": "arXiv:2611.18747v1 Announce Type: new Abstract: Multimodal large language models (LLMs) have enabled capable computer-use agents that perceive graphical user interfaces, reason over instructions, and execute actions. However, existing approaches to learning from video demonstrations typically convert videos into screen",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.17515",
+        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.18747",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-        "summary": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up ap",
+        "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
+        "summary": "arXiv:2611.18908v1 Announce Type: new Abstract: Alignment-trained large language model (LLM) agents are increasingly deployed in autonomous, multi-round settings where ethical compliance can come into direct tension with task success. While safety literature extensively documents failure modes like sycophancy and rewar",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.17532",
+        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.18908",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-        "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique m",
+        "title": "Large Language Models for AI Infrastructure",
+        "summary": "arXiv:2611.19061v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to design, optimize, and operate the infrastructure behind AI training and serving, yet the literature remains fragmented across hardware design, machine learning systems, electronic design automation, and high-performanc",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.17610",
+        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.19061",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-        "summary": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under ",
+        "title": "What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges",
+        "summary": "arXiv:2611.19199v1 Announce Type: new Abstract: LoCoMo is a widely reported benchmark for long-term conversational memory, but published scores mix memory quality with choices of answer prompt, judge and baseline layout that are rarely reported together. We measure how much these choices move a score, and evaluate Beco",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.17621",
+        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.19199",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
