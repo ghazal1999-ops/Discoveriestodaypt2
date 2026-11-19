@@ -1,8 +1,19 @@
 {
-  "date": "2026-11-18",
-  "last_updated": "2026-11-18 04:01 UTC",
+  "date": "2026-11-19",
+  "last_updated": "2026-11-19 03:58 UTC",
   "categories": {
     "science": [
+      {
+        "title": "New discovery reveals what may be holding back room-temperature superconductors",
+        "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different o",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 18 Nov 2026 07:16:46 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/neon-lights-cube-superconductor.webp",
+        "impact": 5
+      },
       {
         "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
         "summary": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way for more reliable quantum memory, although researchers are still trying to understand why it works.",
@@ -37,17 +48,6 @@
         "impact": 5
       },
       {
-        "title": "AI-powered bionic eye breakthrough could help the blind see again",
-        "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers ",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 12 Nov 2026 06:55:55 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/beyeler-bionic-eye.webp",
-        "impact": 5
-      },
-      {
         "title": "Quantum Breakthrough: Scientists Develop a Detector That Can Count Over 9,000 Photons",
         "summary": "A new detector can measure hundreds of photons with less than a single photon&#8217;s uncertainty, offering scientists a sharper way to investigate quantum light and advance future technologies. Scientists developing powerful quantum computers and highly sensitive cameras need ways to count individual particles of ligh",
         "category": "Science",
@@ -61,71 +61,104 @@
     ],
     "tech": [
       {
-        "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The se",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 13 Nov 2026 13:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-        "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 13 Nov 2026 10:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Ian_0010.jpg?resize=1200,600",
-        "impact": 4
-      },
-      {
-        "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-        "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+        "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
+        "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
         "category": "Tech",
         "source": "arstechnica.com",
         "journal": "arstechnica.com",
-        "published_at": "Mon, 16 Nov 2026 22:58:27 +0000",
-        "source_url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+        "published_at": "Wed, 18 Nov 2026 16:24:34 +0000",
+        "source_url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-        "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+        "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+        "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Tue, 17 Nov 2026 23:37:48 +0000",
-        "source_url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+        "published_at": "Wed, 18 Nov 2026 21:34:13 +0000",
+        "source_url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305757563-Medium.jpeg?w=594",
         "impact": 3
       },
       {
-        "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-        "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got t",
+        "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+        "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
         "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-11-17T17:25:41-05:00",
-        "source_url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&strip=all&crop=0%2C10.742803501923%2C100%2C78.514392996155&w=1200",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Wed, 18 Nov 2026 21:15:00 +0000",
+        "source_url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+        "image_url": "https://media.wired.com/photos/6afcdd342972080ddb9f0499/191:100/w_1280,c_limit/AI-Lab-US-Chip-War-Business.jpg",
+        "impact": 3
+      },
+      {
+        "title": "The AI Hype Index: AI is everywhere",
+        "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, an",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 18 Nov 2026 14:42:44 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
+        "impact": 3
+      },
+      {
+        "title": "The Download: AI learns to smell and hydropower struggles",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Wed, 18 Nov 2026 13:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
         "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "FDA approves new drug for advanced head and neck squamous cell carcinoma",
-        "summary": "The U.S. Food and Drug Administration has approved Janssen Biotech's Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for the treatment of adults with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) whose disease has progressed during or after receipt of platinum-based chemotherapy and immuno",
+        "title": "How research paved the way for progress in a rare form of ALS",
+        "summary": "An experimental ALS drug that grew out of basic and clinical research at Columbia University's Vagelos College of Physicians and Surgeons may soon become available for patients with a rare and aggressive form of the disease.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Tue, 17 Nov 2026 20:20:05 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-fda-drug-advanced-neck-squamous.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/doctor-examine-neck.jpg",
+        "published_at": "Wed, 18 Nov 2026 19:00:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-paved-rare-als.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/neuron-1.jpg",
+        "impact": 5
+      },
+      {
+        "title": "FDA approves drug for infantile-onset Niemann-Pick type C after analysis finds longer survival",
+        "summary": "Researchers at the National Institutes of Health (NIH) and their collaborators at Beren Therapeutics, Thousand Oaks, California, have developed a treatment for infants with Niemann-Pick type C (NPC) disease, which is a rare and rapidly fatal pediatric neurodegenerative disorder. The drug, known as cyclodextrin (brand n",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 18 Nov 2026 17:00:07 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-fda-drug-infantile-onset-niemann.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-image-of-h.jpg",
+        "impact": 5
+      },
+      {
+        "title": "Targeting immune overactivity in Down syndrome shows promise in phase 2 clinical trial",
+        "summary": "In a first-of-its-kind clinical trial, researchers at the Linda Crnic Institute for Down Syndrome (Crnic Institute) at the University of Colorado Anschutz found that a medication targeting immune overactivity in people with Down syndrome reduced underlying inflammation and was associated with improvements in inflammato",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 18 Nov 2026 16:40:14 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-immune-overactivity-syndrome-phase-clinical.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-treatment-targetin.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A rare disease reveals a hidden flaw in the immune system",
+        "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing s",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 18 Nov 2026 07:33:09 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/microscopic-natural-killer-cell.webp",
         "impact": 4
       },
       {
@@ -137,39 +170,6 @@
         "published_at": "Tue, 17 Nov 2026 06:39:45 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/human-brain-boost-power-spark.webp",
-        "impact": 4
-      },
-      {
-        "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
-        "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 15 Nov 2026 20:40:04 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/brain-waves-neural-signals-treatment.webp",
-        "impact": 4
-      },
-      {
-        "title": "FDA approves first factor XIa inhibitor for secondary stroke prevention",
-        "summary": "The U.S. Food and Drug Administration has approved Sunharbo (asundexian) 50 mg tablets, in combination with antiplatelet therapy, to reduce the risk for stroke in adults following a recent mild-to-moderate noncardioembolic ischemic stroke or a high-risk transient ischemic attack (TIA).",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 17 Nov 2026 21:20:06 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-fda-factor-xia-inhibitor-secondary.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/stroke-risk.jpg",
-        "impact": 4
-      },
-      {
-        "title": "GLP-1 weight-loss drugs linked to inadequate intake of key nutrients in some people",
-        "summary": "Drugs taken to suppress appetite, such as Wegovy and Mounjaro, are associated with inadequate intakes of key nutrients and energy in some people, finds a small exploratory study published in the journal BMJ Nutrition Prevention & Health.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 17 Nov 2026 18:30:06 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-glp-weight-loss-drugs-linked.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/person-taking-suppleme.jpg",
         "impact": 4
       }
     ],
@@ -232,58 +232,58 @@
     ],
     "space": [
       {
-        "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (video, photos)",
-        "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 13 Nov 2026 20:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/R7TryzciM4KTsiDuMSDHDM-1920-80.jpg",
-        "impact": 5
-      },
-      {
-        "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
-        "summary": "On Nov. 14, 1969, the Apollo 12 astronauts launched to the moon. Here's why it mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 14 Nov 2026 14:51:27 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/L58BN7mnVx7acqZpijhSpi-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
-        "summary": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 13 Nov 2026 23:20:03 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/uCdUUu68WhwxWsXFvArEZS-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
-        "summary": "On Nov. 13, 1971, Mariner 9 became the first spacecraft to orbit Mars. Here's why it mattered.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Fri, 13 Nov 2026 21:25:55 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/KqwWii385QWmsk3ReaUnPC-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
-        "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space",
+        "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+        "summary": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust f",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Tue, 17 Nov 2026 19:16:22 +0000",
-        "source_url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ng35.jpg",
+        "published_at": "Wed, 18 Nov 2026 18:12:32 +0000",
+        "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg",
+        "impact": 4
+      },
+      {
+        "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
+        "summary": "NASA's SkyFall helicopters are set to be transported to Mars on the agency's first nuclear rocket, but some experts are questioning why NASA is combining two such high-profile missions into one.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 18 Nov 2026 17:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/5WC4k7CxeW2EBfXrzQcUGV-1920-80.png",
+        "impact": 4
+      },
+      {
+        "title": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water",
+        "summary": "On Nov. 18, 2013, NASA launched the MAVEN spacecraft to Mars to investigate the planet's missing water. Here's why it mattered.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Wed, 18 Nov 2026 21:10:52 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/8jyVey3VPrfaF54tkdGT8g-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?",
+        "summary": "Voyager 1 just reached a light-day in space, but Voyager 2 won't do the same until 2035, due to speed choices made throughout their 50-year missions.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 17 Nov 2026 22:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/zZT8rszrQ9SSmarSrsRfiQ-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
+        "summary": "The British company Foundational thinks its laser-reflecting tech can help humanity fight the space-junk problem — and it just proved out a demo version in an orbital test.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 17 Nov 2026 21:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Gt5R75f7y96u2THoLmzmaC-1920-80.jpg",
         "impact": 4
       }
     ],
@@ -300,14 +300,25 @@
         "impact": 4
       },
       {
-        "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
-        "summary": "The Cosmic Noon was when the Universe's Stelliferous Era Began, and star formation was prodigious during that epoch. But since then, star formation has slowed to a relative crawl, despite the fact that we can watch them forming in regions throughout the Milky Way. What happened to the hydrogen gas that forms stars? New",
+        "title": "Extremely Accurate Measurements of a Pair of Flaring Red Dwarfs",
+        "summary": "Astronomers used the Very Large Baseline Array of radio telescopes to measure a pair of active red dwarfs with extreme precision. One of the stars is an extreme type of red dwarf called a Complex Periodic Variable. This is the first time one of these stars has been measured accurately in a binary system.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Fri, 13 Nov 2026 17:51:07 +0000",
-        "source_url": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
-        "image_url": "https://www.universetoday.com/article_images/eso1438b_20261113_173311.jpg",
+        "published_at": "Wed, 18 Nov 2026 17:41:05 +0000",
+        "source_url": "https://www.universetoday.com/articles/extremely-accurate-measurements-of-a-pair-of-flaring-red-dwarfs",
+        "image_url": "https://www.universetoday.com/article_images/PIG420-DwarfStarBinary_4K_lrg-1024x576_20261118_133912.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Fermi’s 14-Year All-Sky Map Bridges Astronomy’s Elusive \"MeV Gap\"",
+        "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We’ve always had trouble measuring them in the “mega-electron volt” (MeV) energy range, which astronomers have taken to calling the “MeV gap”. But a new paper from an international group of scientists worki",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 18 Nov 2026 17:23:14 +0000",
+        "source_url": "https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap",
+        "image_url": "https://www.universetoday.com/article_images/10540_All-sky_comparison_20261118_172312.jpg",
         "impact": 4
       },
       {
@@ -331,30 +342,41 @@
         "source_url": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
         "image_url": "https://www.universetoday.com/article_images/noirlab2628a_20261116_195920.jpg",
         "impact": 4
-      },
-      {
-        "title": "A Magna Carta for the stars: King Charles III takes on space sustainability",
-        "summary": "\"I think once people are aware of it, they want the same sustainability standards for protecting our planet\".",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 16 Nov 2026 13:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/7PXmLixSAtL4bHuXbpKk8U-1920-80.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "raumlaborberlin at IE School of Architecture & Design’s COMMON(S) Lecture Series",
-        "summary": "IE School of Architecture &amp; Design welcomes raumlaborberlin, the internationally acclaimed German architecture collective, as part of its COMMON(S) 2026&ndash;27 Lecture Series. On November 25, 2026, Benjamin Foerster-Baldenius, founding member of raumlabor, will present the lecture &ldquo;In the Flow of Making&rdq",
+        "title": "Call for Entries: The New Heart of Kraaiennest with OBA Next (Amsterdam)",
+        "summary": "The City of Amsterdam is holding an international design competition for the project ‘The New Heart of Kraaiennest with OBA Next’. The purpose of the procurement procedure is to select a design team. The assignment calls for a cohesive design addressing the public realm, civic and community facilities, socioeconomic gr",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 17 Nov 2026 09:10:00 +0000",
-        "source_url": "https://www.archdaily.com/1188760/raumlaborberlin-at-ie-school-of-architecture-and-designs-common-s-lecture-series",
-        "image_url": "https://images.adsttc.com/media/images/6afc/5ada/eabd/2a00/0192/fa7e/large_jpg/Lecture-Series-Banner_1920x1080_Raumlabor_1.jpg?1794923242",
-        "impact": 5
+        "published_at": "Wed, 18 Nov 2026 09:05:00 +0000",
+        "source_url": "https://www.archdaily.com/1188777/call-for-entries-the-new-heart-of-kraaiennest-with-oba-next-amsterdam",
+        "image_url": "https://images.adsttc.com/media/images/6afc/6911/eabd/2a00/0192/fb37/large_jpg/Kraaiennest.jpg?1794926880",
+        "impact": 4
+      },
+      {
+        "title": "Kelly Wearstler Studio and ESG Architecture Lead Transformation of Minoru Yamasaki's Minneapolis Building",
+        "summary": "The proposed conversion of Minoru Yamasaki's former Northwestern National Life Insurance Company headquarters in Minneapolis has advanced with the announcement of its design team, hotel operator, and expanded program. First presented in April 2026, the adaptive reuse project will transform the 1965 building at 20 Washi",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 18 Nov 2026 06:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1188836/kelly-wearstler-studio-and-esg-architecture-lead-transformation-of-minoru-yamasakis-minneapolis-building",
+        "image_url": "https://images.adsttc.com/media/images/6afd/7d00/8074/f464/a9f9/3bb5/large_jpg/kelly-wearstler-studio-and-esg-architecture-lead-transformation-of-minoru-yamasakis-minneapolis-building_9.jpg?1794997513",
+        "impact": 4
+      },
+      {
+        "title": "Rainwater and Public Space: Winners of Buildner’s Rome Rain Rooms Competition",
+        "summary": "Buildner has announced the results of Rome Rain Rooms, an international architecture ideas competition inviting designers to reconsider the relationship between rainfall, public space, and the historic city of Rome. The challenge explored how a small urban pavilion could transform water from a resource typically channe",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 18 Nov 2026 05:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188578/rainwater-and-public-space-winners-of-buildners-rome-rain-rooms-competition",
+        "image_url": "https://images.adsttc.com/media/images/6af6/4f08/c23f/1f01/895a/f96a/large_jpg/_1.jpg?1794527022",
+        "impact": 4
       },
       {
         "title": "North Boulder Library / WORKac",
@@ -368,36 +390,14 @@
         "impact": 4
       },
       {
-        "title": "Kingston Urban Room Exhibition: Tall Buildings, Shared Futures.",
-        "summary": "This November the Kingston Urban Room is inviting residents to explore local tall buildings and help shape the conversation about Kingston&rsquo;s future: The exhibition&rsquo;s central question is: As Kingston grows, what should we value, what should we protect, and what should we change? Tall Buildings, Shared Future",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 17 Nov 2026 09:05:00 +0000",
-        "source_url": "https://www.archdaily.com/1188756/kingston-urban-room-exhibition-tall-buildings-shared-futures",
-        "image_url": "https://images.adsttc.com/media/images/6afc/568e/eabd/2a00/0192/fa5c/large_jpg/IMG_1379.jpg?1794922137",
-        "impact": 4
-      },
-      {
-        "title": "HaloPlaza Hangzhou Vanke Mixed-use Complex / Nikken Sekkei",
-        "summary": "By revitalizing a neglected canal, we created a fresh and vibrant urban environment and planned a continuous and open public space along the waterfront. Above this public space, multiple functions — including offices, retail, cultural, and serviced apartments — are vertically layered together with elevated open spaces.",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 17 Nov 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1187950/haloplaza-hangzhou-vanke-mixed-use-complex-nikken-sekkei",
-        "image_url": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae70/large_jpg/_Exterior_Facade1_ShenzhenGuyuArtCultureCommunication.jpg?1793622516",
-        "impact": 4
-      },
-      {
-        "title": "podcast: indian architects adapt building codes and restore soil through trust",
-        "summary": "the two conversations bring together seven indian practitioners to dissect the unseen negotiations of contemporary practice. The post podcast: indian architects adapt building codes and restore soil through trust appeared first on designboom | architecture &amp; design magazine.",
+        "title": "BIG stacks timber volumes with alpine views for new neighborhood in switzerland",
+        "summary": "bjarke ingels group proposes four timber buildings in thun, switzerland with stepped hotel terraces overlooking the alps. The post BIG stacks timber volumes with alpine views for new neighborhood in switzerland appeared first on designboom | architecture &amp; design magazine.",
         "category": "Architecture",
         "source": "designboom.com",
         "journal": "designboom.com",
-        "published_at": "Mon, 16 Nov 2026 11:00:24 +0000",
-        "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-07-08/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/indx-global-room-for-utopias-podcast-04-designboom-1200.jpg",
+        "published_at": "Wed, 18 Nov 2026 19:21:34 +0000",
+        "source_url": "https://www.designboom.com/architecture/big-timber-alpine-neighborhood-switzerland-siegenthalergut-thun-bjarke-ingels-group/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/BIG-siegenthalergut-hotel-urban-district-switzerland-designboom-FB.jpg",
         "impact": 4
       }
     ],
@@ -443,74 +443,74 @@
         "journal": "enr.com",
         "published_at": "Mon, 07 May 2012 12:00:00 -0400",
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
-        "image_url": "https://www.enr.com/ext/resources/2026/10/28/AonArticle3-900x550.webp?crop=true&height=257&t=1793197047&width=420",
+        "image_url": "https://www.enr.com/ext/resources/2026/11/13/ZHH_ENR_CBC_WSC_Image.webp?crop=true&height=257&t=1794592467&width=420",
         "impact": 4
       },
       {
-        "title": "Granite buys materials businesses in Utah, Tennessee",
-        "summary": "The additions of Construction Materials Co. in Provo, Utah, and Ford Construction near Memphis, Tennessee, build on the contractor&rsquo;s picks-and-shovels strategy.&nbsp;",
+        "title": "RAF, VolkerFitzpatrick and Aecom replace 3km Brize Norton runway in 16 weeks as part of £180M infrastructure project",
+        "summary": "Aircraft have returned to Royal Air Force (RAF) Brize Norton, in Oxfordshire, following the replacement of its 3km runway in a 16-week construction programme. The post RAF, VolkerFitzpatrick and Aecom replace 3km Brize Norton runway in 16 weeks as part of £180M infrastructure project appeared first on New Civil Enginee",
         "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 17 Nov 2026 10:22:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/granite-materials-businesses-utah-tennessee/874816/",
-        "image_url": "https://imgproxy.divecdn.com/GfFfVp8aoGX4YIcoITJQ6FiauSFSTY7os8XrJ1d3dRI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XZWJzaXRlX2ltYWdlX2Jhbm5lcl8xNDQweDUyMC5qcGc=.webp",
-        "impact": 3
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Wed, 18 Nov 2026 13:41:12 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/raf-volkerfitzpatrick-and-aecom-replace-3km-brize-norton-runway-in-16-weeks-as-part-of-180m-infrastructure-project-18-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/RAF-Brize-Norton-560x315.jpg",
+        "impact": 4
       }
     ],
     "ai": [
       {
-        "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
-        "summary": "arXiv:2611.18714v1 Announce Type: new Abstract: Can AI systems be moral agents? That is, can they undertake actions that can be correctly assessed as morally right or wrong? There is no settled normative criterion of moral agency that applies neatly outside paradigm human cases. Because of the difficulties with a norma",
+        "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
+        "summary": "arXiv:2611.22030v1 Announce Type: new Abstract: An agent resource's value depends on its backbone and companion resources and is known only after execution. Token-based generators remain tied to their training catalog, while independent resource scoring misses complementarities and reused bundles target other tasks. We",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.18714",
+        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.22030",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
-        "summary": "arXiv:2611.18747v1 Announce Type: new Abstract: Multimodal large language models (LLMs) have enabled capable computer-use agents that perceive graphical user interfaces, reason over instructions, and execute actions. However, existing approaches to learning from video demonstrations typically convert videos into screen",
+        "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+        "summary": "arXiv:2611.22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of consumers. Naturally, one might assume that models with more thinking po",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.18747",
+        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.22033",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
-        "summary": "arXiv:2611.18908v1 Announce Type: new Abstract: Alignment-trained large language model (LLM) agents are increasingly deployed in autonomous, multi-round settings where ethical compliance can come into direct tension with task success. While safety literature extensively documents failure modes like sycophancy and rewar",
+        "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+        "summary": "arXiv:2611.22177v1 Announce Type: new Abstract: Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is k",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.18908",
+        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.22177",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Large Language Models for AI Infrastructure",
-        "summary": "arXiv:2611.19061v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to design, optimize, and operate the infrastructure behind AI training and serving, yet the literature remains fragmented across hardware design, machine learning systems, electronic design automation, and high-performanc",
+        "title": "Context Has a Price: Adding and Removing Context for LLM Coding Agents under Prefix Caching",
+        "summary": "arXiv:2611.22238v1 Announce Type: new Abstract: Coding agents repeatedly send their conversation history to a language model. Adding useful code may reduce search, while removing old tool outputs may shorten later prompts. But do these changes reduce the cost of solving a task? We study this as a measurement problem in",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.19061",
+        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.22238",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges",
-        "summary": "arXiv:2611.19199v1 Announce Type: new Abstract: LoCoMo is a widely reported benchmark for long-term conversational memory, but published scores mix memory quality with choices of answer prompt, judge and baseline layout that are rarely reported together. We measure how much these choices move a score, and evaluate Beco",
+        "title": "Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents",
+        "summary": "arXiv:2611.22245v1 Announce Type: new Abstract: Multi-agent delegation lets LLM systems distribute evidence collection across workers with separate contexts. This creates a consistency challenge: facts retrieved by workers may be missing from the evidence available to the lead for a joint conclusion. We introduce a ben",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Tue, 17 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.19199",
+        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.22245",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
