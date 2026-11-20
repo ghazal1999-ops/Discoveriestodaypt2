@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "last_updated": "2026-11-19 03:58 UTC",
+  "date": "2026-11-20",
+  "last_updated": "2026-11-20 03:52 UTC",
   "categories": {
     "science": [
       {
@@ -48,38 +48,60 @@
         "impact": 5
       },
       {
-        "title": "Quantum Breakthrough: Scientists Develop a Detector That Can Count Over 9,000 Photons",
-        "summary": "A new detector can measure hundreds of photons with less than a single photon&#8217;s uncertainty, offering scientists a sharper way to investigate quantum light and advance future technologies. Scientists developing powerful quantum computers and highly sensitive cameras need ways to count individual particles of ligh",
+        "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+        "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
         "category": "Science",
-        "source": "scitechdaily.com",
-        "journal": "scitechdaily.com",
-        "published_at": "Tue, 17 Nov 2026 16:08:05 +0000",
-        "source_url": "https://scitechdaily.com/quantum-breakthrough-scientists-develop-a-detector-that-can-count-over-9000-photons/",
-        "image_url": "https://scitechdaily.com/images/Photon-Number-Resolution-Illustration-777x777.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 15 Nov 2026 09:03:39 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/radiograph-x-ray-back-bone-spinal-pain.webp",
         "impact": 5
       }
     ],
     "tech": [
       {
-        "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
-        "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Wed, 18 Nov 2026 16:24:34 +0000",
-        "source_url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
-        "impact": 3
-      },
-      {
-        "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-        "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+        "title": "Meta’s new Muse Charm device may cost $300",
+        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Wed, 18 Nov 2026 21:34:13 +0000",
-        "source_url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305757563-Medium.jpeg?w=594",
+        "published_at": "Thu, 19 Nov 2026 21:58:06 +0000",
+        "source_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
+        "impact": 3
+      },
+      {
+        "title": "A brief history of Nvidia’s recent stock fluctuations",
+        "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-19T16:59:35-05:00",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "impact": 3
+      },
+      {
+        "title": "What’s With All These Outages?",
+        "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 19 Nov 2026 21:57:01 +0000",
+        "source_url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+        "image_url": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/191:100/w_1280,c_limit/Uncanny-Valley-FAA-Outage-Business.jpg",
+        "impact": 3
+      },
+      {
+        "title": "Litter-Robot Promo Codes: Up to $150 Off",
+        "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Thu, 19 Nov 2026 06:00:00 +0000",
+        "source_url": "https://www.wired.com/story/litter-robot-promo-code/",
+        "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/191:100/w_1280,c_limit/WIRED-Coupons-R2_15.png",
         "impact": 3
       },
       {
@@ -92,62 +114,18 @@
         "source_url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
         "image_url": "https://media.wired.com/photos/6afcdd342972080ddb9f0499/191:100/w_1280,c_limit/AI-Lab-US-Chip-War-Business.jpg",
         "impact": 3
-      },
-      {
-        "title": "The AI Hype Index: AI is everywhere",
-        "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, an",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 18 Nov 2026 14:42:44 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
-        "impact": 3
-      },
-      {
-        "title": "The Download: AI learns to smell and hydropower struggles",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy",
-        "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Wed, 18 Nov 2026 13:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
-        "impact": 3
       }
     ],
     "medicine": [
       {
-        "title": "How research paved the way for progress in a rare form of ALS",
-        "summary": "An experimental ALS drug that grew out of basic and clinical research at Columbia University's Vagelos College of Physicians and Surgeons may soon become available for patients with a rare and aggressive form of the disease.",
+        "title": "Improved blood test offers less invasive way to detect Alzheimer's disease",
+        "summary": "A new study in Nature Aging from Lund University in Sweden shows that improved blood tests for the diagnosis of Alzheimer's disease can now be used with accuracy similar to that of the cerebrospinal fluid tests that have long been the standard in health care. The blood test has been approved for use in Europe, the U.S.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Wed, 18 Nov 2026 19:00:06 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-paved-rare-als.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/neuron-1.jpg",
-        "impact": 5
-      },
-      {
-        "title": "FDA approves drug for infantile-onset Niemann-Pick type C after analysis finds longer survival",
-        "summary": "Researchers at the National Institutes of Health (NIH) and their collaborators at Beren Therapeutics, Thousand Oaks, California, have developed a treatment for infants with Niemann-Pick type C (NPC) disease, which is a rare and rapidly fatal pediatric neurodegenerative disorder. The drug, known as cyclodextrin (brand n",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 18 Nov 2026 17:00:07 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-fda-drug-infantile-onset-niemann.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/microscopic-image-of-h.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Targeting immune overactivity in Down syndrome shows promise in phase 2 clinical trial",
-        "summary": "In a first-of-its-kind clinical trial, researchers at the Linda Crnic Institute for Down Syndrome (Crnic Institute) at the University of Colorado Anschutz found that a medication targeting immune overactivity in people with Down syndrome reduced underlying inflammation and was associated with improvements in inflammato",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Wed, 18 Nov 2026 16:40:14 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-immune-overactivity-syndrome-phase-clinical.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-treatment-targetin.jpg",
+        "published_at": "Thu, 19 Nov 2026 19:20:11 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-blood-invasive-alzheimer-disease.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood-test-1.jpg",
         "impact": 4
       },
       {
@@ -170,6 +148,28 @@
         "published_at": "Tue, 17 Nov 2026 06:39:45 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/human-brain-boost-power-spark.webp",
+        "impact": 4
+      },
+      {
+        "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
+        "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sun, 15 Nov 2026 20:40:04 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/brain-waves-neural-signals-treatment.webp",
+        "impact": 4
+      },
+      {
+        "title": "Over half of NHS hospitals putting vulnerable patients in public areas, data reveal",
+        "summary": "Exclusive data published by The BMJ today reveal that half of hospital trusts in England are breaching NHS corridor care guidelines by treating vulnerable groups in emergency department corridors, including children, mental health patients and those with physical and learning disabilities.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Thu, 19 Nov 2026 22:40:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-nhs-hospitals-vulnerable-patients-areas.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/emergency-department.jpg",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 4
       },
       {
+        "title": "China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)",
+        "summary": "China has rolled to the launch pad the rocket and spacecraft for its Shenzhou-24 mission, which will fly the first international astronaut to the nation's Tiangong space station.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Thu, 19 Nov 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/x2E4iRkmARYuAXnEPdeciJ-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
         "summary": "NASA's SkyFall helicopters are set to be transported to Mars on the agency's first nuclear rocket, but some experts are questioning why NASA is combining two such high-profile missions into one.",
         "category": "Space",
@@ -254,36 +265,25 @@
         "impact": 4
       },
       {
-        "title": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water",
-        "summary": "On Nov. 18, 2013, NASA launched the MAVEN spacecraft to Mars to investigate the planet's missing water. Here's why it mattered.",
+        "title": "Lake Pelku",
+        "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of ",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Wed, 18 Nov 2026 21:10:52 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/8jyVey3VPrfaF54tkdGT8g-1920-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 19 Nov 2026 15:32:39 +0000",
+        "source_url": "https://www.nasa.gov/image-article/lake-pelku/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
         "impact": 4
       },
       {
-        "title": "NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?",
-        "summary": "Voyager 1 just reached a light-day in space, but Voyager 2 won't do the same until 2035, due to speed choices made throughout their 50-year missions.",
+        "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+        "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 17 Nov 2026 22:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/zZT8rszrQ9SSmarSrsRfiQ-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
-        "summary": "The British company Foundational thinks its laser-reflecting tech can help humanity fight the space-junk problem — and it just proved out a demo version in an orbital test.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Tue, 17 Nov 2026 21:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/Gt5R75f7y96u2THoLmzmaC-1920-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Thu, 19 Nov 2026 14:44:39 +0000",
+        "source_url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg",
         "impact": 4
       }
     ],
@@ -297,6 +297,28 @@
         "published_at": "Tue, 17 Nov 2026 09:29:00 +0000",
         "source_url": "https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals",
         "image_url": "https://www.universetoday.com/article_images/NGC_4414_NASA-med_20261117_095611.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start",
+        "summary": "Euclid was launched to build a 3D map of the sky to probe cosmic structure and the Universe's expansion. Part of its job is to hunt for strong gravitational lenses, important probes of dark matter. So far it's off to a great start. It found 15,000 strong gravitational lens candidates in its first data relase.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 19 Nov 2026 14:49:01 +0000",
+        "source_url": "https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start",
+        "image_url": "https://www.universetoday.com/article_images/Closer_Euclid_view_of_Abell_2390-1024x682.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Feast Your Eyes on Uranus at Opposition This Thanksgiving 2026",
+        "summary": "The outer planets are ever so slowly starting to sneak back into the evening sky this month. First, Saturn crossed this mark last month on October 4th, then Neptune followed suit on September 26th. Now, the planet Uranus makes the transition, crossing opposition next week.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Thu, 19 Nov 2026 14:00:00 +0000",
+        "source_url": "https://www.universetoday.com/articles/feast-your-eyes-on-uranus-at-opposition-this-thanksgiving-2026",
+        "image_url": "https://www.universetoday.com/article_images/PIA18182orig_20261117_190916.jpg",
         "impact": 4
       },
       {
@@ -320,31 +342,53 @@
         "source_url": "https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap",
         "image_url": "https://www.universetoday.com/article_images/10540_All-sky_comparison_20261118_172312.jpg",
         "impact": 4
-      },
-      {
-        "title": "Computer Simulations Provide the Best Explanation for Those \"Little Red Dots\" Yet!",
-        "summary": "Tiny ‘Little Red Dot’ galaxies found by the James Webb Space Telescope are revealed to be the remnants of supermassive primordial stars surrounded by dense gaseous envelopes.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 17 Nov 2026 22:58:52 +0000",
-        "source_url": "https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet",
-        "image_url": "https://www.universetoday.com/article_images/littlereddots_1_20260727_200136_20261117_224922.jpg",
-        "impact": 4
-      },
-      {
-        "title": "This Supernova is 50 Million Light Years Away, But That's Close Enough For Astronomers",
-        "summary": "A new supernova has been detected in a spiral galaxy about 50 million light years away. That's close enough for detatiled follow-up observations, which have already begun. It's a type Ia supernova, meaning it's an exploding white dwarf rather than a massive star ending its life in a core-collapse detonation. Astronomer",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 16 Nov 2026 21:11:30 +0000",
-        "source_url": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
-        "image_url": "https://www.universetoday.com/article_images/noirlab2628a_20261116_195920.jpg",
-        "impact": 4
       }
     ],
     "architecture": [
+      {
+        "title": "A Guide to Urban Resilience Against El Niño and BIG's Refugee City Masterplan: This Week’s Review",
+        "summary": "Two timely themes ran through this week's news: the integration of inherited and new elements in restoration and renovation projects at both large and small scales, and the idea of an architecture reconciled with the environment. The latter concept is borrowed from the Ambasz–MoMA Annual Prize, established to recognize",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 19 Nov 2026 05:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1188874/a-guide-to-urban-resilience-against-el-nino-and-bigs-refugee-city-masterplan-this-weeks-review",
+        "image_url": "https://images.adsttc.com/media/images/6afe/3ccb/c23f/1f6a/4351/65bf/large_jpg/a-new-urban-resilience-guide-for-el-nino-and-bigs-refugee-city-masterplan-this-weeks-review_5.jpg?1795046616",
+        "impact": 5
+      },
+      {
+        "title": "Casa Sierra Morena I / Gallese Arquitectos",
+        "summary": "Sierra Morena House I was designed around the idea of structural honesty, allowing the structure, materials, and openings to define the architecture without relying on additional finishes, while keeping maintenance to a minimum.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 19 Nov 2026 19:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188976/casa-sierra-morena-i-gallese-arquitectos",
+        "image_url": "https://images.adsttc.com/media/images/6aff/835d/eabd/2a00/0193/2753/large_jpg/18.jpg?1795130271",
+        "impact": 4
+      },
+      {
+        "title": "Architecture as a Social Practice: Lessons from Ammodo Architecture Days",
+        "summary": "What connects a cooperative housing development in Barcelona, a cultural institution hosted in an unfinished concrete structure in Accra, and a floating festival platform in the Peruvian Amazon? Despite their unique geographic and social contexts, these projects encourage an understanding of architecture that extends b",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 19 Nov 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1188740/architecture-as-a-social-practice-lessons-from-ammodo-architecture-days",
+        "image_url": "https://images.adsttc.com/media/images/6afc/676b/c23f/1f38/8f80/949c/large_jpg/architecture-as-a-social-practice-lessons-from-ammodo-architecture-days_1.jpg?1794926450",
+        "impact": 4
+      },
+      {
+        "title": "The Outpost Cabin / Ample",
+        "summary": "Located at Charnley River Station in the remote Kimberley region of Western Australia, The Outpost is a collection of eight architecturally designed accommodation buildings developed by Ample for Australian Wildlife Conservancy (AWC). Designed in partnership with Agents of Architecture, with interiors by Unearthed Inte",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Thu, 19 Nov 2026 02:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188751/the-outpost-accommodation-ample",
+        "image_url": "https://images.adsttc.com/media/images/6afc/506a/eabd/2a00/0192/fa08/large_jpg/TheOutpost_Ample_BrookJames_LowRes_03.jpg?1794920633",
+        "impact": 4
+      },
       {
         "title": "Call for Entries: The New Heart of Kraaiennest with OBA Next (Amsterdam)",
         "summary": "The City of Amsterdam is holding an international design competition for the project ‘The New Heart of Kraaiennest with OBA Next’. The purpose of the procurement procedure is to select a design team. The assignment calls for a cohesive design addressing the public realm, civic and community facilities, socioeconomic gr",
@@ -355,73 +399,18 @@
         "source_url": "https://www.archdaily.com/1188777/call-for-entries-the-new-heart-of-kraaiennest-with-oba-next-amsterdam",
         "image_url": "https://images.adsttc.com/media/images/6afc/6911/eabd/2a00/0192/fb37/large_jpg/Kraaiennest.jpg?1794926880",
         "impact": 4
-      },
-      {
-        "title": "Kelly Wearstler Studio and ESG Architecture Lead Transformation of Minoru Yamasaki's Minneapolis Building",
-        "summary": "The proposed conversion of Minoru Yamasaki's former Northwestern National Life Insurance Company headquarters in Minneapolis has advanced with the announcement of its design team, hotel operator, and expanded program. First presented in April 2026, the adaptive reuse project will transform the 1965 building at 20 Washi",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 18 Nov 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1188836/kelly-wearstler-studio-and-esg-architecture-lead-transformation-of-minoru-yamasakis-minneapolis-building",
-        "image_url": "https://images.adsttc.com/media/images/6afd/7d00/8074/f464/a9f9/3bb5/large_jpg/kelly-wearstler-studio-and-esg-architecture-lead-transformation-of-minoru-yamasakis-minneapolis-building_9.jpg?1794997513",
-        "impact": 4
-      },
-      {
-        "title": "Rainwater and Public Space: Winners of Buildner’s Rome Rain Rooms Competition",
-        "summary": "Buildner has announced the results of Rome Rain Rooms, an international architecture ideas competition inviting designers to reconsider the relationship between rainfall, public space, and the historic city of Rome. The challenge explored how a small urban pavilion could transform water from a resource typically channe",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Wed, 18 Nov 2026 05:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188578/rainwater-and-public-space-winners-of-buildners-rome-rain-rooms-competition",
-        "image_url": "https://images.adsttc.com/media/images/6af6/4f08/c23f/1f01/895a/f96a/large_jpg/_1.jpg?1794527022",
-        "impact": 4
-      },
-      {
-        "title": "North Boulder Library / WORKac",
-        "summary": "The Boulder Public Library issued an open Request for Proposal (RFP) in 2018 for a new branch library in North Boulder, a project the community had anticipated for over two decades. The RFP called for an \"iconic\" building, which many competitors interpreted as a visually striking design. However, WORKac www.work.ac - t",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Tue, 17 Nov 2026 11:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1030123/north-boulder-library-workac",
-        "image_url": "https://images.adsttc.com/media/images/6823/a1e0/5513/910e/326f/f811/large_jpg/north-boulder-library-workac_6.jpg?1747165698",
-        "impact": 4
-      },
-      {
-        "title": "BIG stacks timber volumes with alpine views for new neighborhood in switzerland",
-        "summary": "bjarke ingels group proposes four timber buildings in thun, switzerland with stepped hotel terraces overlooking the alps. The post BIG stacks timber volumes with alpine views for new neighborhood in switzerland appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Wed, 18 Nov 2026 19:21:34 +0000",
-        "source_url": "https://www.designboom.com/architecture/big-timber-alpine-neighborhood-switzerland-siegenthalergut-thun-bjarke-ingels-group/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/BIG-siegenthalergut-hotel-urban-district-switzerland-designboom-FB.jpg",
-        "impact": 4
       }
     ],
     "construction": [
       {
-        "title": "Port Authority proposes $10.3B budget for NYC-area projects",
-        "summary": "The funds would go toward construction at Kennedy and Newark Liberty airports, as well as the $10 billion Midtown Bus Terminal replacement, among other infrastructure builds.",
+        "title": "ASCE gives New York infrastructure a ‘C-’ grade",
+        "summary": "The report card, which measures categories including water, transit and bridges, indicates the state's civil offerings are adequate, but still have much room for improvement.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Tue, 17 Nov 2026 12:18:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/port-authority-proposes-budget-nyc-area-projects/874913/",
-        "image_url": "https://imgproxy.divecdn.com/KhZeoJrmY6SAvBJVmfOsy7w-2vcEUXnyp368dCi5Viw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NDgzOTE0NTQxNF82MjhlM2Q4ZmY2X28uanBn.webp",
-        "impact": 4
-      },
-      {
-        "title": "FlatironDragados completes $133M North Carolina highway project",
-        "summary": "The infrastructure giant finished seven new bridges and a new interchange along a stretch of the $1.7 billion Winston-Salem Northern Beltway.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Tue, 17 Nov 2026 09:17:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/flatirondragados-completes-north-carolina-highway/874867/",
-        "image_url": "https://imgproxy.divecdn.com/eKH7J0MSoC3wZlhnOXF7qCjkqcqYQKWWn6TOU4luaDM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9oaWdod2F5cy13aW5zdG9uLXNhbGVtLW5vcnRoZXJuLWJlbHR3YXktZWFzdGVybi1zZWN0aW9uLXN1YnN0YW50aWFsLWNvbXBsZXRpb24tODAweDU5OS5qcGc=.webp",
+        "published_at": "Thu, 19 Nov 2026 14:09:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/asce-new-york-infrastructure-grade-rail-transit-construction/875231/",
+        "image_url": "https://imgproxy.divecdn.com/TpVNeh8JCTk66yuAUBBqoNq_Mq4xAA5PsEtrxeUPsBw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk4ODQwMDc2LmpwZw==.webp",
         "impact": 4
       },
       {
@@ -447,70 +436,81 @@
         "impact": 4
       },
       {
-        "title": "RAF, VolkerFitzpatrick and Aecom replace 3km Brize Norton runway in 16 weeks as part of £180M infrastructure project",
-        "summary": "Aircraft have returned to Royal Air Force (RAF) Brize Norton, in Oxfordshire, following the replacement of its 3km runway in a 16-week construction programme. The post RAF, VolkerFitzpatrick and Aecom replace 3km Brize Norton runway in 16 weeks as part of £180M infrastructure project appeared first on New Civil Enginee",
+        "title": "A groundbreaking project to underground power lines in Wales is pushing tunnelling boundaries",
+        "summary": "A unique project to underground power infrastructure in Wales has also proven exceptional for its tunnelling complexities – from dicey geology to deep-shaft engineering. The post A groundbreaking project to underground power lines in Wales is pushing tunnelling boundaries appeared first on New Civil Engineer.",
         "category": "Construction",
         "source": "newcivilengineer.com",
         "journal": "newcivilengineer.com",
-        "published_at": "Wed, 18 Nov 2026 13:41:12 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/raf-volkerfitzpatrick-and-aecom-replace-3km-brize-norton-runway-in-16-weeks-as-part-of-180m-infrastructure-project-18-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/RAF-Brize-Norton-560x315.jpg",
+        "published_at": "Thu, 19 Nov 2026 04:00:51 +0000",
+        "source_url": "https://www.newcivilengineer.com/in-depth/a-groundbreaking-project-to-underground-power-lines-in-wales-is-pushing-tunnelling-boundaries-19-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/Picture13-560x315.jpeg",
         "impact": 4
+      },
+      {
+        "title": "Skanska, Traylor Bros. JV wraps $1.6B New Jersey Transit project",
+        "summary": "The 2.4-mile rail bridge over the Hackensack River replaces a 116-year-old span that caused frequent delays for Amtrak passengers.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Wed, 18 Nov 2026 14:47:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/skanska-traylor-bros-new-jersey-rail-bridge/875098/",
+        "image_url": "https://picsum.photos/seed/constructionfallback/1200/800",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
-        "summary": "arXiv:2611.22030v1 Announce Type: new Abstract: An agent resource's value depends on its backbone and companion resources and is known only after execution. Token-based generators remain tied to their training catalog, while independent resource scoring misses complementarities and reused bundles target other tasks. We",
+        "title": "MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems",
+        "summary": "arXiv:2611.23910v1 Announce Type: new Abstract: The typical workflow for improving large-scale ranking and recommendation models is slow and tedious: an engineer forms a hypothesis, implements it as a code change, trains a model, and evaluates it both offline and online, often relying on their own intuition and experie",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.22030",
+        "published_at": "Thu, 19 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.23910",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
-        "summary": "arXiv:2611.22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of consumers. Naturally, one might assume that models with more thinking po",
+        "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+        "summary": "arXiv:2611.23483v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls. However, this sequential loop is slow, and its answers carry no reliability score. Prior speculation of tokens, reasoning steps, or answers keeps the loop",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.22033",
+        "published_at": "Thu, 19 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.23483",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
-        "summary": "arXiv:2611.22177v1 Announce Type: new Abstract: Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is k",
+        "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+        "summary": "arXiv:2611.23509v1 Announce Type: new Abstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to recombine promising mechanisms for task decomposition, model coordination, and verification. This search, how",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.22177",
+        "published_at": "Thu, 19 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.23509",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Context Has a Price: Adding and Removing Context for LLM Coding Agents under Prefix Caching",
-        "summary": "arXiv:2611.22238v1 Announce Type: new Abstract: Coding agents repeatedly send their conversation history to a language model. Adding useful code may reduce search, while removing old tool outputs may shorten later prompts. But do these changes reduce the cost of solving a task? We study this as a measurement problem in",
+        "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+        "summary": "arXiv:2611.23564v1 Announce Type: new Abstract: When LLM agents pass intermediate judgments downstream without uncertainty, later decisions may treat tentative assumptions as facts. Effective uncertainty propagation must preserve information for correction and update inherited beliefs as new evidence arrives. Yet scala",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.22238",
+        "published_at": "Thu, 19 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.23564",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       },
       {
-        "title": "Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents",
-        "summary": "arXiv:2611.22245v1 Announce Type: new Abstract: Multi-agent delegation lets LLM systems distribute evidence collection across workers with separate contexts. This creates a consistency challenge: facts retrieved by workers may be missing from the evidence available to the lead for a joint conclusion. We introduce a ben",
+        "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+        "summary": "arXiv:2611.23588v1 Announce Type: new Abstract: Enterprise LLM agents operate in dynamic environments where foundation models evolve rapidly, workflows update frequently, and deployments need to satisfy accuracy and cost requirements. We propose ARISE (Agent Refinement through Iterative Self-Evaluation), a practical me",
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.22245",
+        "published_at": "Thu, 19 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.23588",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
       }
