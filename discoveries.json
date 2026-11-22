@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-21",
-  "last_updated": "2026-11-21 03:44 UTC",
+  "date": "2026-11-22",
+  "last_updated": "2026-11-22 02:48 UTC",
   "categories": {
     "science": [
       {
@@ -26,17 +26,6 @@
         "impact": 5
       },
       {
-        "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-        "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's eme",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Sun, 15 Nov 2026 08:04:09 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/binary-white-dwarf-beam.webp",
-        "impact": 5
-      },
-      {
         "title": "Alzheimer’s Breakthrough: Researchers Find New Clues to Cognitive Decline in Healthy Adults",
         "summary": "Researchers have identified a promising way to assess Alzheimer&#8217;s-related cognitive risks in otherwise healthy older adults. A blood test could help estimate whether someone with no memory problems will develop cognitive impairment within the next five or 10 years. In a new Mayo Clinic study published in JAMA Neu",
         "category": "Science",
@@ -57,20 +46,20 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp",
         "impact": 5
+      },
+      {
+        "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
+        "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount off the coast of Cape Verde. According to the researchers, the discovery underscores the role of under",
+        "category": "Science",
+        "source": "phys.org",
+        "journal": "phys.org",
+        "published_at": "Fri, 20 Nov 2026 21:00:01 EST",
+        "source_url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-call-of-the-seamou.jpg",
+        "impact": 5
       }
     ],
     "tech": [
-      {
-        "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-        "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest [&",
-        "category": "Tech",
-        "source": "theverge.com",
-        "journal": "theverge.com",
-        "published_at": "2026-11-20T13:00:00-05:00",
-        "source_url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-        "impact": 4
-      },
       {
         "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
         "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
@@ -114,6 +103,17 @@
         "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
         "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
         "impact": 3
+      },
+      {
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
+        "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to N",
+        "category": "Tech",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-21T15:03:37-05:00",
+        "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+        "impact": 3
       }
     ],
     "medicine": [
@@ -127,6 +127,17 @@
         "source_url": "https://medicalxpress.com/news/2026-11-custom-mri-tool-weeks-pancreatic.html",
         "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ohio-state-developed-c-1.jpg",
         "impact": 5
+      },
+      {
+        "title": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
+        "summary": "In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not all populations are ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Sat, 21 Nov 2026 09:00:01 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/despite-soaring-demand.jpg",
+        "impact": 4
       },
       {
         "title": "'Pan-RAS molecular glue' is a safe and effective treatment for lung and pancreatic cancers",
@@ -159,17 +170,6 @@
         "published_at": "Wed, 18 Nov 2026 07:33:09 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/microscopic-natural-killer-cell.webp",
-        "impact": 4
-      },
-      {
-        "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-        "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Sci",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Tue, 17 Nov 2026 06:39:45 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/human-brain-boost-power-spark.webp",
         "impact": 4
       }
     ],
@@ -243,6 +243,17 @@
         "impact": 4
       },
       {
+        "title": "SpaceX launches classified mission for US Space Force from California (video)",
+        "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sat, 21 Nov 2026 05:28:14 +0000",
+        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/YaShmYFZ8edZqBUjFWgP3-1920-80.jpg",
+        "impact": 4
+      },
+      {
         "title": "China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)",
         "summary": "China has rolled to the launch pad the rocket and spacecraft for its Shenzhou-24 mission, which will fly the first international astronaut to the nation's Tiangong space station.",
         "category": "Space",
@@ -273,17 +284,6 @@
         "published_at": "Fri, 20 Nov 2026 22:27:05 +0000",
         "source_url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
         "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26805/PIA26805.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-        "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.&#160;&#160; Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program man",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 20 Nov 2026 16:27:46 +0000",
-        "source_url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6269-stennis-honor-awards-1.jpg",
         "impact": 4
       }
     ],
@@ -357,6 +357,17 @@
         "impact": 5
       },
       {
+        "title": "Strata House / VPA Architects",
+        "summary": "Strata House is a project rooted in quiet and calming living. The house was curated around a singular conviction — designing around the climate to make light and shadows its most eloquent architectural gesture. The south-facing plot demanded a pronounced response. Deep overhead projections extend across the façade to i",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Sat, 21 Nov 2026 21:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188548/strata-house-vpa-architects",
+        "image_url": "https://images.adsttc.com/media/images/6af5/a136/eabd/2a00/0192/d4a7/large_jpg/DJI_20260312174636_0452_D.jpg?1794482945",
+        "impact": 4
+      },
+      {
         "title": "Snake Building / C+S Architects",
         "summary": "The Snake Building in Aarschot, Belgium, is part of a collaboration with a2o Architekten, a Hasselt-based office, commissioned by the client to design the urban regeneration of the De Torens masterplan: a former industrial site in the center of Aarschot, developed with housing, commercial, and public spaces. A series o",
         "category": "Architecture",
@@ -387,17 +398,6 @@
         "published_at": "Fri, 20 Nov 2026 06:30:00 +0000",
         "source_url": "https://www.archdaily.com/1188996/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland",
         "image_url": "https://images.adsttc.com/media/images/6b00/21f8/c23f/1f6a/4351/6bc9/large_jpg/big-unveils-timber-mixed-use-development-for-new-siegenthalergut-district-in-switzerland_3.jpg?1795170825",
-        "impact": 4
-      },
-      {
-        "title": "What Happened to Parametricism? How a Style Blurred Into a Look",
-        "summary": "In September 2008, at a series of sessions organized alongside the 11th Venice Architecture Biennale under the name of the Dark Side Club, a text was presented that announced, for the first time since Modernism, a new style for architecture. Parametricism as Style, written by Patrik Schumacher, then a partner at Zaha H",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Fri, 20 Nov 2026 04:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188271/what-happened-to-parametricism-how-a-style-blurred-into-a-look",
-        "image_url": "https://images.adsttc.com/media/images/6af2/2230/8074/f401/89de/d965/large_jpg/what-happened-to-parametricism-patrik-schumacher-and-the-promise-of-an-epochal-style_2.jpg?1794253365",
         "impact": 4
       }
     ],
@@ -447,72 +447,72 @@
         "impact": 4
       },
       {
-        "title": "Consultation for earthworks trials on £2.2bn Fens Reservoir launched",
-        "summary": "Anglian Water and Cambridge Water are consulting on temporary earthworks trials intended to test construction methods for a proposed £2.2bn reservoir in the Cambridgeshire Fens. The post Consultation for earthworks trials on £2.2bn Fens Reservoir launched appeared first on New Civil Engineer.",
+        "title": "$17B Tesla manufacturing plant led October’s construction starts rebound",
+        "summary": "Without the boost from manufacturing construction, total groundbreakings would have ticked down over the month, said Eric Gaus, chief economist at Dodge Construction Network.",
         "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 20 Nov 2026 14:37:37 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/consultation-for-earthworks-trials-on-2-2bn-fens-reservoir-launched-20-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2024/07/01_Fens_Reservoir_3D_View_LDADesign-560x315.jpg",
-        "impact": 4
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Fri, 20 Nov 2026 14:42:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/tesla-manufacturing-plant-october-construction-starts-rebound/875377/",
+        "image_url": "https://imgproxy.divecdn.com/gMdMZxT0SBbYquoVKMYn99oHfLXG1xH5XaG31ux7aV8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS84NTU5MjcwMjVfMTk2ODA2ODM0NDI0MDg1Nl81NTMyNTE4NTQ3ODEzOTAyNTJfbi5qcGc=.webp",
+        "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
-        "summary": "arXiv:2611.25088v1 Announce Type: new Abstract: Enabling AI systems to autonomously improve AI models requires agents capable of performing machine learning engineering (MLE). In practice, designing, training, and evaluating complex models demands modifying multi-file repositories to reproduce results, debug training r",
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.25088",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Thu, 12 Nov 2026 20:00:00 GMT",
+        "source_url": "https://openai.com/business/customer-stories/amplitude",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7xyAtQVA8C5CZGHW7aQidr/a71aedc6e0ed7395f081f75411af6d03/amplitude-wave-seo.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
-        "summary": "arXiv:2611.25111v1 Announce Type: new Abstract: Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap remains between flexible general-purpose agents and statistically controlled pipelines. We introduce DSFlow, a LangGraph-ba",
+        "title": "Building AI that can work across the enterprise",
+        "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: reth",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.25111",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 16 Nov 2026 13:00:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
+        "impact": 4
       },
       {
-        "title": "Pro$^2$ Agent: Scientific Problem Probing for Autonomous AI R&D",
-        "summary": "arXiv:2611.25357v1 Announce Type: new Abstract: Large language model (LLM) agents can now autonomously conduct AI research by writing code and running experiments. They typically do so by iteratively optimizing a codebase, while ignoring the problem structure behind the task. This formulation is effective on simpler ta",
+        "title": "Combatting adversarial distillation",
+        "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.25357",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 20 Nov 2026 10:00:00 GMT",
+        "source_url": "https://openai.com/index/combatting-adversarial-distillation",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
-        "summary": "arXiv:2611.25360v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used not only to power AI agents but also to build them. While many benchmarks assess the quality of LLM- powered agents, few ascertain how good LLMs are at building them. To this end, we introduce AppSci-Bench, where we const",
+        "title": "Can AI help scientists identify promising drug candidates?",
+        "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.25360",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/introducing-medchembench",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
+        "impact": 4
       },
       {
-        "title": "Stop Going in Circles:Loop-Triggered Routing for System 1 Decision Agents",
-        "summary": "arXiv:2611.25363v1 Announce Type: new Abstract: System 1 decision models (represented by Jev) provide fast, low-cost action selection, but existing agent integrations do not reliably translate these local advantages into task completion. At certain points during execution, an agent may repeatedly select the same action",
+        "title": "Research acceleration: The jagged frontier",
+        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
         "category": "AI",
-        "source": "arxiv.org",
-        "journal": "arxiv.org",
-        "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
-        "source_url": "https://arxiv.org/abs/2611.25363",
-        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "impact": 5
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
+        "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2YS8yWiGpKflhlEnAkcLU/f51ead4391706f6c3198f0d61a0f147a/research-acceleration-the-jagged-frontier-social.png",
+        "impact": 4
       }
     ]
   }
