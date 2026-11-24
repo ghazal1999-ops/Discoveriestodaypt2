@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "last_updated": "2026-11-23 03:28 UTC",
+  "date": "2026-11-24",
+  "last_updated": "2026-11-24 06:44 UTC",
   "categories": {
     "science": [
       {
@@ -37,15 +37,15 @@
         "impact": 5
       },
       {
-        "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
-        "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount off the coast of Cape Verde. According to the researchers, the discovery underscores the role of under",
+        "title": "A galactic shock wave could rewrite the map of the Milky Way",
+        "summary": "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it. Even more unexpectedly, part of the Norma spi",
         "category": "Science",
-        "source": "phys.org",
-        "journal": "phys.org",
-        "published_at": "Fri, 20 Nov 2026 21:00:01 EST",
-        "source_url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-call-of-the-seamou.jpg",
-        "impact": 5
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Mon, 23 Nov 2026 06:41:39 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/milky-way-norma-arm-and-bar-shock-front.webp",
+        "impact": 4
       },
       {
         "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
@@ -61,58 +61,58 @@
     ],
     "tech": [
       {
-        "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-        "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 20 Nov 2026 14:15:21 +0000",
-        "source_url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
-        "impact": 3
-      },
-      {
-        "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-        "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
-        "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Fri, 20 Nov 2026 12:00:43 +0000",
-        "source_url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg",
-        "impact": 3
-      },
-      {
-        "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Sun, 22 Nov 2026 17:06:00 +0000",
-        "source_url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
+        "published_at": "Mon, 23 Nov 2026 17:14:23 +0000",
+        "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+        "impact": 4
+      },
+      {
+        "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+        "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
+        "category": "Tech",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Tue, 24 Nov 2026 01:35:38 +0000",
+        "source_url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+        "image_url": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/191:100/w_1280,c_limit/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
         "impact": 3
       },
       {
-        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-        "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+        "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+        "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 20 Nov 2026 20:58:29 +0000",
-        "source_url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
+        "source": "wired.com",
+        "journal": "wired.com",
+        "published_at": "Mon, 23 Nov 2026 13:11:00 +0000",
+        "source_url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+        "image_url": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/191:100/w_1280,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
         "impact": 3
       },
       {
-        "title": "Chips can survive the space environment — can their financing?",
-        "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but",
         "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Fri, 20 Nov 2026 17:40:01 +0000",
-        "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Mon, 23 Nov 2026 13:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+        "impact": 3
+      },
+      {
+        "title": "The Download: inside the quest to make our minds immortal",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 20 Nov 2026 13:10:00 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
         "impact": 3
       }
     ],
@@ -129,47 +129,47 @@
         "impact": 5
       },
       {
-        "title": "Newly identified transport pathway reveals how caveolin-1 helps cells store fat",
-        "summary": "Lipodystrophy is a serious metabolic disease characterized by abnormal lipid storage in the body. In people with this condition, ingested fats are not stored in adipose tissue as they are in healthy individuals, but are instead deposited in the liver, muscle tissue or the heart muscle, among other places, with far-reac",
+        "title": "Alzheimer's drug diranersen shows clinical benefit in trial",
+        "summary": "Interim results of the CELIA trial, with data from the first two years of the trial, were presented this week at the Clinical Trials on Alzheimer's Disease (CTAD 2026) conference in Boston, U.S. Professor Cath Mummery (UCL Queen Square Institute of Neurology and UCLH) is one of the study's principal investigators.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 22 Nov 2026 15:30:01 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-newly-pathway-reveals-caveolin-cells.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/caveolin1-gene-causes.jpg",
+        "published_at": "Mon, 23 Nov 2026 20:20:08 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-alzheimer-drug-diranersen-clinical-benefit.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-injection.jpg",
         "impact": 4
       },
       {
-        "title": "New imaging technology reveals previously unseen immune cell patterns in tissue",
-        "summary": "Scientists can now see a previously hidden dimension of the immune system thanks to BCR-MERFISH, a new imaging technology developed by researchers at Boston Children's Hospital. By mapping where different groups of antibody-producing cells are located in tissue, the technology could help researchers better understand h",
+        "title": "Can AI expedite medical imaging? Yes—if we can trust the picture",
+        "summary": "When it comes to medical imaging, everyone wants better technology faster—but no one wants to cut corners on health and safety. Enter a new statistical tool that determines whether AI-generated data could accurately stand in for patient data in clinical trials.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Sun, 22 Nov 2026 09:00:04 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-imaging-technology-reveals-previously-unseen.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-imaging-technology-3.jpg",
+        "published_at": "Mon, 23 Nov 2026 15:00:08 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-ai-medical-imaging-picture.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-ai-expedite-medica.jpg",
         "impact": 4
       },
       {
-        "title": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
-        "summary": "In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not all populations are ",
+        "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
+        "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring its function could help",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Sat, 21 Nov 2026 09:00:01 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/despite-soaring-demand.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Sat, 21 Nov 2026 22:00:27 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/colorful-neurons-in-alzheimers-disease.webp",
         "impact": 4
       },
       {
-        "title": "'Pan-RAS molecular glue' is a safe and effective treatment for lung and pancreatic cancers",
-        "summary": "Results from the AURORAS-1 Phase I clinical trial of an anticancer drug called ERAS-0015 have shown that it is safe and has caused tumors to shrink in hard-to-treat diseases such as lung and pancreatic cancer.",
+        "title": "A rare disease reveals a hidden flaw in the immune system",
+        "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing s",
         "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Fri, 20 Nov 2026 21:40:01 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-pan-ras-molecular-safe-effective.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/patient.jpg",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 18 Nov 2026 07:33:09 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/microscopic-natural-killer-cell.webp",
         "impact": 4
       }
     ],
@@ -232,25 +232,25 @@
     ],
     "space": [
       {
-        "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-        "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects,",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Fri, 20 Nov 2026 20:46:14 +0000",
-        "source_url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/elementium-illustration.png",
-        "impact": 4
-      },
-      {
-        "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
-        "summary": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
+        "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
+        "summary": "On Nov. 23, 2015, a Blue Origin rocket made a historic landing after launching into suborbital space. Here's why it mattered.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Sun, 22 Nov 2026 22:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-1920-80.jpg",
+        "published_at": "Mon, 23 Nov 2026 18:10:48 +0000",
+        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/rYz3SSLeu9tzXrHMf852WZ-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
+        "summary": "Conspiracy theories surround the odd-looking appearance of a shadow seen in the final images captured by Phobos 2, the Soviet Union’s last mission into deep space.",
+        "category": "Space",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 23 Nov 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/5f234bkPYjkQXoTHrrXGnR-1920-80.jpg",
         "impact": 4
       },
       {
@@ -311,37 +311,37 @@
         "impact": 4
       },
       {
-        "title": "Extremely Accurate Measurements of a Pair of Flaring Red Dwarfs",
-        "summary": "Astronomers used the Very Large Baseline Array of radio telescopes to measure a pair of active red dwarfs with extreme precision. One of the stars is an extreme type of red dwarf called a Complex Periodic Variable. This is the first time one of these stars has been measured accurately in a binary system.",
+        "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
+        "summary": "Three stars, 28 light-years, and one big cosmic mystery.",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 18 Nov 2026 17:41:05 +0000",
-        "source_url": "https://www.universetoday.com/articles/extremely-accurate-measurements-of-a-pair-of-flaring-red-dwarfs",
-        "image_url": "https://www.universetoday.com/article_images/PIG420-DwarfStarBinary_4K_lrg-1024x576_20261118_133912.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Mon, 23 Nov 2026 11:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/w9Et548dKkQsFNMMM5mASN-1920-80.jpg",
         "impact": 4
       },
       {
-        "title": "Fermi’s 14-Year All-Sky Map Bridges Astronomy’s Elusive \"MeV Gap\"",
-        "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We’ve always had trouble measuring them in the “mega-electron volt” (MeV) energy range, which astronomers have taken to calling the “MeV gap”. But a new paper from an international group of scientists worki",
+        "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+        "summary": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
         "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Wed, 18 Nov 2026 17:23:14 +0000",
-        "source_url": "https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap",
-        "image_url": "https://www.universetoday.com/article_images/10540_All-sky_comparison_20261118_172312.jpg",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Sun, 22 Nov 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/2VZB5hMXtFVHiNULWtqb4b-1920-80.jpg",
         "impact": 4
       },
       {
-        "title": "Computer Simulations Provide the Best Explanation for Those \"Little Red Dots\" Yet!",
-        "summary": "Tiny ‘Little Red Dot’ galaxies found by the James Webb Space Telescope are revealed to be the remnants of supermassive primordial stars surrounded by dense gaseous envelopes.",
+        "title": "Making Sense of Chaotic Supernova Ejecta With the JWST",
+        "summary": "It's impossible to see inside a star. But some stars explode, spreading their insides out and letting astronomers examine them in detail. It's messy, but astronomers are skilled at stellar forensics, and they have a fine tool at their disposal: the JWST.",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Tue, 17 Nov 2026 22:58:52 +0000",
-        "source_url": "https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet",
-        "image_url": "https://www.universetoday.com/article_images/littlereddots_1_20260727_200136_20261117_224922.jpg",
-        "impact": 4
+        "published_at": "Mon, 23 Nov 2026 22:32:05 +0000",
+        "source_url": "https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst",
+        "image_url": "https://www.universetoday.com/article_images/weic2624a_20261123_202517.jpg",
+        "impact": 3
       }
     ],
     "architecture": [
@@ -357,14 +357,36 @@
         "impact": 5
       },
       {
-        "title": "Strata House / VPA Architects",
-        "summary": "Strata House is a project rooted in quiet and calming living. The house was curated around a singular conviction — designing around the climate to make light and shadows its most eloquent architectural gesture. The south-facing plot demanded a pronounced response. Deep overhead projections extend across the façade to i",
+        "title": "Floresta Building / MMBB Arquitetos + Rodrigo Oliveira Paisagismo",
+        "summary": "From the very beginning, the design of Floresta aimed to organize the built volume around a central garden. Situated on a hillside that overlooks the São Paulo ridge on one side and the Tietê valley on the other, the apartments are aligned in two parallel blocks, transverse to the access street, with large windows faci",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Sat, 21 Nov 2026 21:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188548/strata-house-vpa-architects",
-        "image_url": "https://images.adsttc.com/media/images/6af5/a136/eabd/2a00/0192/d4a7/large_jpg/DJI_20260312174636_0452_D.jpg?1794482945",
+        "published_at": "Mon, 23 Nov 2026 17:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1189052/floresta-building-mmbb-arquitetos-plus-rodrigo-oliveira-paisagismo",
+        "image_url": "https://images.adsttc.com/media/images/6aff/3d7c/eabd/2a00/0193/25bd/large_jpg/Nelson_Kon_61DJI_0593_-_Copia.jpg?1795112559",
+        "impact": 4
+      },
+      {
+        "title": "Architecture as Evidence: Reading the Built Environment Through Forensic Investigation",
+        "summary": "Architecture is commonly examined through its visible form, materials and spatial organisation. The physical fabric of a building can also retain evidence of events and alterations that are not apparent from its present appearance. Cracks, repairs and structural changes may indicate when and how a building was modified",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Mon, 23 Nov 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1188678/architecture-as-evidence-reading-the-built-environment-through-forensic-investigation",
+        "image_url": "https://images.adsttc.com/media/images/6afa/b0f7/e7ea/b401/a117/0bb1/large_jpg/architecture-as-evidence-reading-the-built-environment-through-forensic-investigation_8.jpg?1794814264",
+        "impact": 4
+      },
+      {
+        "title": "HTA Design unveils \"UK's largest council housing development\"",
+        "summary": "A collection of brick-clad buildings containing over 450 homes forms Kidbrooke Park Road in London, which architecture studio HTA Design claims is the largest council housing development in the UK. The post HTA Design unveils &quot;UK&#039;s largest council housing development&quot; appeared first on Dezeen.",
+        "category": "Architecture",
+        "source": "dezeen.com",
+        "journal": "dezeen.com",
+        "published_at": "Mon, 23 Nov 2026 11:30:00 +0000",
+        "source_url": "https://www.dezeen.com/2026/11/23/kidbrooke-park-road-hta-design/",
+        "image_url": "https://static-2026.dezeen.com/uploads/2026/11/kidbrooke-park-road-hta-design-council-housing-hero_dezeen_2364_col_0.jpg",
         "impact": 4
       },
       {
@@ -377,31 +399,20 @@
         "source_url": "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Nachwachsende-Stadt-big-thun-switzerland_dezeen_2364_col_sq1.jpg",
         "impact": 4
-      },
-      {
-        "title": "stone plinths and secret blue rooms shape bureau de change’s paris jewelry boutique",
-        "summary": "bureau de change transforms an 18th-century paris building into a nikos koulis boutique with sculptural limestone and hidden octagonal rooms. The post stone plinths and secret blue rooms shape bureau de change&#8217;s paris jewelry boutique appeared first on designboom | architecture &amp; design magazine.",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Sat, 21 Nov 2026 08:10:05 +0000",
-        "source_url": "https://www.designboom.com/architecture/stone-blue-rooms-bureau-de-change-paris-jewelry-boutique-nikos-koulis/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/bureau-de-change-nikos-koulis-paris-designboom-FB.jpg",
-        "impact": 4
-      },
-      {
-        "title": "angelo renna’s eight principles for welcoming non-human life back into our cities",
-        "summary": "challenging decades of sanitized, anthropocentric urbanism, angelo renna proposes a shift from development to co-evolution, offering strategies to welcome plants, insects, birds, and wildlife back into everyday city life. The post angelo renna’s eight principles for welcoming non-human life back into our cities appeare",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Fri, 20 Nov 2026 21:35:56 +0000",
-        "source_url": "https://www.designboom.com/architecture/angelo-renna-eight-principles-welcoming-non-human-life-back-into-our-cities-guest-essays/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/lesser-houses-2-angelo-renna-designboom-1200-1.jpg",
-        "impact": 4
       }
     ],
     "construction": [
+      {
+        "title": "BGS seeks industry input on national geotechnical data service",
+        "summary": "The British Geological Survey (BGS) is seeking views from professionals in construction, engineering, infrastructure and environmental sectors as it develops a national service for finding and using ground investigation data. The post BGS seeks industry input on national geotechnical data service appeared first on New ",
+        "category": "Construction",
+        "source": "newcivilengineer.com",
+        "journal": "newcivilengineer.com",
+        "published_at": "Mon, 23 Nov 2026 11:58:53 +0000",
+        "source_url": "https://www.newcivilengineer.com/latest/bgs-seeks-industry-input-on-national-geotechnical-data-service-23-11-2026/",
+        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/P1020517-Monitoring-shallow-groundwater-560x315.jpg",
+        "impact": 4
+      },
       {
         "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
         "summary": "Plus, the New York City Department of Design and Construction names its first deputy commissioner, Granite wins a $26M groundwater job and Skanska delivers a healthcare center.",
@@ -445,17 +456,6 @@
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/11/13/ZHH_ENR_CBC_WSC_Image.webp?crop=true&height=257&t=1794592467&width=420",
         "impact": 4
-      },
-      {
-        "title": "Consultation for earthworks trials on £2.2bn Fens Reservoir launched",
-        "summary": "Anglian Water and Cambridge Water are consulting on temporary earthworks trials intended to test construction methods for a proposed £2.2bn reservoir in the Cambridgeshire Fens. The post Consultation for earthworks trials on £2.2bn Fens Reservoir launched appeared first on New Civil Engineer.",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Fri, 20 Nov 2026 14:37:37 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/consultation-for-earthworks-trials-on-2-2bn-fens-reservoir-launched-20-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2024/07/01_Fens_Reservoir_3D_View_LDADesign-560x315.jpg",
-        "impact": 4
       }
     ],
     "ai": [
@@ -482,6 +482,17 @@
         "impact": 4
       },
       {
+        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
+        "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
         "title": "Perplexity and Intelligence",
         "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
         "category": "AI",
@@ -501,17 +512,6 @@
         "published_at": "Fri, 20 Nov 2026 10:00:00 GMT",
         "source_url": "https://openai.com/index/combatting-adversarial-distillation",
         "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
-      },
-      {
-        "title": "Can AI help scientists identify promising drug candidates?",
-        "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-        "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/introducing-medchembench",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
         "impact": 4
       }
     ]
