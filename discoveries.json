@@ -1,19 +1,8 @@
 {
-  "date": "2026-11-24",
-  "last_updated": "2026-11-24 06:44 UTC",
+  "date": "2026-11-25",
+  "last_updated": "2026-11-25 05:14 UTC",
   "categories": {
     "science": [
-      {
-        "title": "New discovery reveals what may be holding back room-temperature superconductors",
-        "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different o",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 18 Nov 2026 07:16:46 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/neon-lights-cube-superconductor.webp",
-        "impact": 5
-      },
       {
         "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
         "summary": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found direct evidence that Einstein's theory of relativity changes how heavy atoms form triple bonds, causing normally distinct types of chemical bonds to blend together. The breakthrough con",
@@ -23,6 +12,17 @@
         "published_at": "Fri, 20 Nov 2026 07:56:02 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/einstein-equations-gravity-spacetime.webp",
+        "impact": 5
+      },
+      {
+        "title": "Earth's next ice age may have already begun. Global warming stopped it",
+        "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 ",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 24 Nov 2026 04:29:15 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/new-ice-age-frozen-planet-earth.webp",
         "impact": 5
       },
       {
@@ -37,82 +37,82 @@
         "impact": 5
       },
       {
-        "title": "A galactic shock wave could rewrite the map of the Milky Way",
-        "summary": "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it. Even more unexpectedly, part of the Norma spi",
+        "title": "One Tiny Protein Change Could Help Explain Severe Childhood Epilepsy",
+        "summary": "Scientists have uncovered a previously unknown molecular mechanism that helps position a protein linked to severe childhood epilepsy within nerve cells. A single change in a protein associated with severe childhood epilepsy can dramatically alter where it resides inside nerve cells, according to new research from the U",
         "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Mon, 23 Nov 2026 06:41:39 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/milky-way-norma-arm-and-bar-shock-front.webp",
-        "impact": 4
+        "source": "scitechdaily.com",
+        "journal": "scitechdaily.com",
+        "published_at": "Tue, 24 Nov 2026 12:11:31 +0000",
+        "source_url": "https://scitechdaily.com/one-tiny-protein-change-could-help-explain-severe-childhood-epilepsy/",
+        "image_url": "https://scitechdaily.com/images/Brain-Waves-in-Epilepsy-777x518.jpg",
+        "impact": 5
       },
       {
-        "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
-        "summary": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal how life endured the h",
+        "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+        "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery raises an astonishing possibility: Carbon essential to life may have traveled from space to Earth's ",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Sun, 22 Nov 2026 06:31:14 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/dna-genetic-evolution.webp",
+        "published_at": "Mon, 23 Nov 2026 00:53:36 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/melt-inclusions-in-olivine-crystals-from-kilauea-iki-eruption.webp",
         "impact": 4
       }
     ],
     "tech": [
       {
-        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-        "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+        "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
         "category": "Tech",
         "source": "techcrunch.com",
         "journal": "techcrunch.com",
-        "published_at": "Mon, 23 Nov 2026 17:14:23 +0000",
-        "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+        "published_at": "Tue, 24 Nov 2026 15:51:07 +0000",
+        "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754",
         "impact": 4
       },
       {
-        "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
-        "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
+        "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+        "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Tue, 24 Nov 2026 01:35:38 +0000",
-        "source_url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
-        "image_url": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/191:100/w_1280,c_limit/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 24 Nov 2026 22:36:28 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-        "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+        "title": "One terminal command gave my forgotten Android device a desk job",
+        "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Mon, 23 Nov 2026 13:11:00 +0000",
-        "source_url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-        "image_url": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/191:100/w_1280,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+        "source": "arstechnica.com",
+        "journal": "arstechnica.com",
+        "published_at": "Tue, 24 Nov 2026 12:15:38 +0000",
+        "source_url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS-1152x648.jpg",
         "impact": 3
       },
       {
-        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but",
+        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+        "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrat",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 23 Nov 2026 13:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 25 Nov 2026 00:12:02 +0000",
+        "source_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
         "impact": 3
       },
       {
-        "title": "The Download: inside the quest to make our minds immortal",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going",
+        "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+        "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
         "category": "Tech",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Fri, 20 Nov 2026 13:10:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 25 Nov 2026 00:10:27 +0000",
+        "source_url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
         "impact": 3
       }
     ],
@@ -129,25 +129,36 @@
         "impact": 5
       },
       {
-        "title": "Alzheimer's drug diranersen shows clinical benefit in trial",
-        "summary": "Interim results of the CELIA trial, with data from the first two years of the trial, were presented this week at the Clinical Trials on Alzheimer's Disease (CTAD 2026) conference in Boston, U.S. Professor Cath Mummery (UCL Queen Square Institute of Neurology and UCLH) is one of the study's principal investigators.",
+        "title": "FDA approves bezuclastinib in combination with sunitinib as new second-line therapy for patients with GIST",
+        "summary": "The U.S. Food and Drug Administration (FDA) has approved a combination of bezuclastinib plus sunitinib as second-line therapy after first-line treatment with imatinib for adults with advanced gastrointestinal stromal tumors (GIST) based on evidence from the phase 3 PEAK study led by Dana-Farber Cancer Institute showing",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 23 Nov 2026 20:20:08 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-alzheimer-drug-diranersen-clinical-benefit.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-injection.jpg",
+        "published_at": "Tue, 24 Nov 2026 19:20:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-fda-bezuclastinib-combination-sunitinib-line.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/fda.jpg",
         "impact": 4
       },
       {
-        "title": "Can AI expedite medical imaging? Yes—if we can trust the picture",
-        "summary": "When it comes to medical imaging, everyone wants better technology faster—but no one wants to cut corners on health and safety. Enter a new statistical tool that determines whether AI-generated data could accurately stand in for patient data in clinical trials.",
+        "title": "Common patterns of b/tsDMARD use identified in rheumatoid arthritis",
+        "summary": "Common patterns of biologic and targeted synthetic disease-modifying antirheumatic drug (b/tsDMARD) use are seen among patients with rheumatoid arthritis (RA), and these patterns are associated with underlying genetic associations, according to a study published online Nov. 20 in Arthritis & Rheumatology.",
         "category": "Medicine",
         "source": "medicalxpress.com",
         "journal": "medicalxpress.com",
-        "published_at": "Mon, 23 Nov 2026 15:00:08 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-ai-medical-imaging-picture.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-ai-expedite-medica.jpg",
+        "published_at": "Tue, 24 Nov 2026 18:00:08 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-common-patterns-btsdmard-rheumatoid-arthritis.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/rheumatoid-arthritis.jpg",
+        "impact": 4
+      },
+      {
+        "title": "How antibody therapy reverses type 1 diabetes in mice",
+        "summary": "Researchers at UC Davis Health have uncovered key mechanisms behind an experimental antibody that reverses type 1 diabetes (T1D) in mice. Findings from their study, published in the journal Diabetes, could advance efforts to develop treatments for patients with acute T1D.",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Tue, 24 Nov 2026 16:40:04 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-antibody-therapy-reverses-diabetes-mice.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-1-diabetes.jpg",
         "impact": 4
       },
       {
@@ -159,17 +170,6 @@
         "published_at": "Sat, 21 Nov 2026 22:00:27 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/colorful-neurons-in-alzheimers-disease.webp",
-        "impact": 4
-      },
-      {
-        "title": "A rare disease reveals a hidden flaw in the immune system",
-        "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing s",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 18 Nov 2026 07:33:09 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/microscopic-natural-killer-cell.webp",
         "impact": 4
       }
     ],
@@ -276,38 +276,60 @@
         "impact": 4
       },
       {
-        "title": "China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)",
-        "summary": "China has rolled to the launch pad the rocket and spacecraft for its Shenzhou-24 mission, which will fly the first international astronaut to the nation's Tiangong space station.",
+        "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+        "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (DOE), and industry m",
         "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 19 Nov 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/x2E4iRkmARYuAXnEPdeciJ-1920-80.jpg",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Tue, 24 Nov 2026 21:04:32 +0000",
+        "source_url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/sr-1-freedom-11-6-2026.png",
         "impact": 4
       }
     ],
     "astronomy": [
       {
-        "title": "Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start",
-        "summary": "Euclid was launched to build a 3D map of the sky to probe cosmic structure and the Universe's expansion. Part of its job is to hunt for strong gravitational lenses, important probes of dark matter. So far it's off to a great start. It found 15,000 strong gravitational lens candidates in its first data relase.",
+        "title": "Maybe Dark Energy Isn't so Inexplicable After All",
+        "summary": "The Universe as we know it is comprised of three \"things\": baryonic matter (planets, stars, galaxies, us), dark matter (still unexplained) and dark energy (really, really still unexplained). Of the three, dark energy remains challenging because it's driving the acceleration of the expanding Universe. However, we can't ",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 19 Nov 2026 14:49:01 +0000",
-        "source_url": "https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start",
-        "image_url": "https://www.universetoday.com/article_images/Closer_Euclid_view_of_Abell_2390-1024x682.jpg",
+        "published_at": "Wed, 25 Nov 2026 02:59:47 +0000",
+        "source_url": "https://www.universetoday.com/articles/maybe-dark-energy-isnt-so-inexplicable-after-all",
+        "image_url": "https://www.universetoday.com/article_images/Expansion-univers_Pfeiffer_1000x680_20261125_024918.jpg",
         "impact": 4
       },
       {
-        "title": "Feast Your Eyes on Uranus at Opposition This Thanksgiving 2026",
-        "summary": "The outer planets are ever so slowly starting to sneak back into the evening sky this month. First, Saturn crossed this mark last month on October 4th, then Neptune followed suit on September 26th. Now, the planet Uranus makes the transition, crossing opposition next week.",
+        "title": "A Gigantic Stellar Eruption Spreads Planetary Material Into Space",
+        "summary": "Asymptotic Giant Branch (AGB) stars spread heavy elements into space with their stellar winds. This material eventually forms more stars, and even rocky planets like ours. For a long time, astronomers thought this important mass-loss was driven by stellar winds. But new research shows how magnetic fields play an import",
         "category": "Astronomy",
         "source": "universetoday.com",
         "journal": "universetoday.com",
-        "published_at": "Thu, 19 Nov 2026 14:00:00 +0000",
-        "source_url": "https://www.universetoday.com/articles/feast-your-eyes-on-uranus-at-opposition-this-thanksgiving-2026",
-        "image_url": "https://www.universetoday.com/article_images/PIA18182orig_20261117_190916.jpg",
+        "published_at": "Tue, 24 Nov 2026 20:08:06 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-gigantic-stellar-eruption-spreads-planetary-material-into-space",
+        "image_url": "https://www.universetoday.com/article_images/a2a9e8770a00d97f_800x800ar_20261124_184207.jpg",
+        "impact": 4
+      },
+      {
+        "title": "A Star’s ‘Obliquity’ Likely Has Little Impact On A Given Planet’s Habitability",
+        "summary": "For decades, astronomers have puzzled over whether a star’s given obliquity, or axial tilt, changes over time and space. A new paper says large obliquity changes appear to be uncommon.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Tue, 24 Nov 2026 09:42:27 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-stars-obliquity-likely-has-little-impact-on-a-given-planets-habitability",
+        "image_url": "https://www.universetoday.com/article_images/3000x20001_20261124_090516.jpg",
+        "impact": 4
+      },
+      {
+        "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
+        "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
+        "category": "Astronomy",
+        "source": "space.com",
+        "journal": "space.com",
+        "published_at": "Tue, 24 Nov 2026 15:00:00 +0000",
+        "source_url": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/tAoiTfHAthygj2RWYL6cCW-1920-80.jpg",
         "impact": 4
       },
       {
@@ -320,28 +342,6 @@
         "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
         "image_url": "https://cdn.mos.cms.futurecdn.net/w9Et548dKkQsFNMMM5mASN-1920-80.jpg",
         "impact": 4
-      },
-      {
-        "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
-        "summary": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sun, 22 Nov 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/2VZB5hMXtFVHiNULWtqb4b-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Making Sense of Chaotic Supernova Ejecta With the JWST",
-        "summary": "It's impossible to see inside a star. But some stars explode, spreading their insides out and letting astronomers examine them in detail. It's messy, but astronomers are skilled at stellar forensics, and they have a fine tool at their disposal: the JWST.",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Mon, 23 Nov 2026 22:32:05 +0000",
-        "source_url": "https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst",
-        "image_url": "https://www.universetoday.com/article_images/weic2624a_20261123_202517.jpg",
-        "impact": 3
       }
     ],
     "architecture": [
@@ -357,25 +357,14 @@
         "impact": 5
       },
       {
-        "title": "Floresta Building / MMBB Arquitetos + Rodrigo Oliveira Paisagismo",
-        "summary": "From the very beginning, the design of Floresta aimed to organize the built volume around a central garden. Situated on a hillside that overlooks the São Paulo ridge on one side and the Tietê valley on the other, the apartments are aligned in two parallel blocks, transverse to the access street, with large windows faci",
+        "title": "Private House in Kaklebi / Werkraum Design Architecture",
+        "summary": "The private house in Kaklebi, near Tbilisi, is composed of a series of timber-clad volumes rather than a single block, arranged to follow the slope of a wooded site and to preserve its existing mature trees. Distributed across multiple levels, the building reduces its own visual presence in the landscape while giving e",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Mon, 23 Nov 2026 17:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1189052/floresta-building-mmbb-arquitetos-plus-rodrigo-oliveira-paisagismo",
-        "image_url": "https://images.adsttc.com/media/images/6aff/3d7c/eabd/2a00/0193/25bd/large_jpg/Nelson_Kon_61DJI_0593_-_Copia.jpg?1795112559",
-        "impact": 4
-      },
-      {
-        "title": "Architecture as Evidence: Reading the Built Environment Through Forensic Investigation",
-        "summary": "Architecture is commonly examined through its visible form, materials and spatial organisation. The physical fabric of a building can also retain evidence of events and alterations that are not apparent from its present appearance. Cracks, repairs and structural changes may indicate when and how a building was modified",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Mon, 23 Nov 2026 07:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1188678/architecture-as-evidence-reading-the-built-environment-through-forensic-investigation",
-        "image_url": "https://images.adsttc.com/media/images/6afa/b0f7/e7ea/b401/a117/0bb1/large_jpg/architecture-as-evidence-reading-the-built-environment-through-forensic-investigation_8.jpg?1794814264",
+        "published_at": "Tue, 24 Nov 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188266/private-house-in-kaklebi",
+        "image_url": "https://images.adsttc.com/media/images/6af1/8c88/4ba6/4700/01d0/80a0/large_jpg/Grigory_Sokolinsky_19.jpg?1794215149",
         "impact": 4
       },
       {
@@ -399,42 +388,20 @@
         "source_url": "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
         "image_url": "https://static-2026.dezeen.com/uploads/2026/11/Nachwachsende-Stadt-big-thun-switzerland_dezeen_2364_col_sq1.jpg",
         "impact": 4
+      },
+      {
+        "title": "can le corbusier’s last building be disassembled and shipped?",
+        "summary": "some 22,000 screws hold together the pavillon le corbusier's prefabricated steel frames in zurich, yet its concrete ramp, staircase, and legacy make relocation near-impossible. The post can le corbusier&#8217;s last building be disassembled and shipped? appeared first on designboom | architecture &amp; design magazine.",
+        "category": "Architecture",
+        "source": "designboom.com",
+        "journal": "designboom.com",
+        "published_at": "Tue, 24 Nov 2026 11:25:21 +0000",
+        "source_url": "https://www.designboom.com/interviews/can-le-corbusier-last-building-disassembled-shipped/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/pavillon-le-corbusier-designboom-03.jpg",
+        "impact": 4
       }
     ],
     "construction": [
-      {
-        "title": "BGS seeks industry input on national geotechnical data service",
-        "summary": "The British Geological Survey (BGS) is seeking views from professionals in construction, engineering, infrastructure and environmental sectors as it develops a national service for finding and using ground investigation data. The post BGS seeks industry input on national geotechnical data service appeared first on New ",
-        "category": "Construction",
-        "source": "newcivilengineer.com",
-        "journal": "newcivilengineer.com",
-        "published_at": "Mon, 23 Nov 2026 11:58:53 +0000",
-        "source_url": "https://www.newcivilengineer.com/latest/bgs-seeks-industry-input-on-national-geotechnical-data-service-23-11-2026/",
-        "image_url": "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2026/11/P1020517-Monitoring-shallow-groundwater-560x315.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Punch List: Maryland awards demo contract on $4B Key Bridge rebuild",
-        "summary": "Plus, the New York City Department of Design and Construction names its first deputy commissioner, Granite wins a $26M groundwater job and Skanska delivers a healthcare center.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Fri, 20 Nov 2026 09:01:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/punch-list-maryland-awards-demo-contract-key-bridge-rebuild/875300/",
-        "image_url": "https://imgproxy.divecdn.com/tCoeVTgKdmTOSzIPkORlTuIyzkDoEeRwBa9_0Z37Okw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxMTc3MTIxLmpwZw==.webp",
-        "impact": 4
-      },
-      {
-        "title": "ASCE gives New York infrastructure a ‘C-’ grade",
-        "summary": "The report card, which measures categories including water, transit and bridges, indicates the state's civil offerings are adequate, but still have much room for improvement.",
-        "category": "Construction",
-        "source": "constructiondive.com",
-        "journal": "constructiondive.com",
-        "published_at": "Thu, 19 Nov 2026 14:09:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/asce-new-york-infrastructure-grade-rail-transit-construction/875231/",
-        "image_url": "https://imgproxy.divecdn.com/TpVNeh8JCTk66yuAUBBqoNq_Mq4xAA5PsEtrxeUPsBw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk4ODQwMDc2LmpwZw==.webp",
-        "impact": 4
-      },
       {
         "title": "Letter to the Editor: There's Nothing New Under the Sun for Bridges",
         "summary": "I get a bit amused by articles on “new” construction methods for bridges, such as the following one in Ohio.",
@@ -456,20 +423,42 @@
         "source_url": "https://www.enr.com/articles/8137-correction-wrong-casino-collapse-photo",
         "image_url": "https://www.enr.com/ext/resources/2026/11/13/ZHH_ENR_CBC_WSC_Image.webp?crop=true&height=257&t=1794592467&width=420",
         "impact": 4
+      },
+      {
+        "title": "ASCE grades Pennsylvania infrastructure with ‘C-’",
+        "summary": "Despite bright spots in energy and aviation, Pennsylvania needs billions of dollars in upgrades to roads and water systems, ASCE said.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 24 Nov 2026 11:21:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/asce-grades-pennsylvania-infrastructure/875611/",
+        "image_url": "https://imgproxy.divecdn.com/tNjXIolO2VZKEuKonQldAWKReLaxyAa_tyEHbaEd4-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxNjI3NTQ3LmpwZw==.webp",
+        "impact": 3
+      },
+      {
+        "title": "4 construction contract provisions I’ll never sign",
+        "summary": "A construction executive breaks down the increased risks on today&rsquo;s more complex projects and why contractors need to be more choosy about what they agree to.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Tue, 24 Nov 2026 09:57:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/4-construction-contract-provisions-ill-never-sign/875516/",
+        "image_url": "https://imgproxy.divecdn.com/Y2geHAZDFQBDSmGiiTZNyoXpy9nK3Obvrt8elxozEFI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzc4MjY5NjM3X0U0WG9yRFEuanBn.webp",
+        "impact": 3
+      },
+      {
+        "title": "Whiting-Turner wins $155M Coast Guard academy STEM building",
+        "summary": "The accelerated design-build-to-budget delivery method is part of a broader federal contracting reform initiative for faster, more flexible military construction.",
+        "category": "Construction",
+        "source": "constructiondive.com",
+        "journal": "constructiondive.com",
+        "published_at": "Mon, 23 Nov 2026 14:25:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/whiting-turner-coast-guard-academy-stem-building/875525/",
+        "image_url": "https://imgproxy.divecdn.com/hl3hROvuTPf5GSMqOjIidW3hU5fm9Zy3lk-1OybQGT4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDAwd19xOTVfdEFtVGdsei53ZWJw.webp",
+        "impact": 3
       }
     ],
     "ai": [
-      {
-        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-        "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Thu, 12 Nov 2026 20:00:00 GMT",
-        "source_url": "https://openai.com/business/customer-stories/amplitude",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7xyAtQVA8C5CZGHW7aQidr/a71aedc6e0ed7395f081f75411af6d03/amplitude-wave-seo.png?w=1600&h=900&fit=fill",
-        "impact": 4
-      },
       {
         "title": "Building AI that can work across the enterprise",
         "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: reth",
@@ -512,6 +501,17 @@
         "published_at": "Fri, 20 Nov 2026 10:00:00 GMT",
         "source_url": "https://openai.com/index/combatting-adversarial-distillation",
         "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
+        "impact": 4
+      },
+      {
+        "title": "Can AI help scientists identify promising drug candidates?",
+        "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+        "category": "AI",
+        "source": "openai.com",
+        "journal": "openai.com",
+        "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
+        "source_url": "https://openai.com/index/introducing-medchembench",
+        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
         "impact": 4
       }
     ]
