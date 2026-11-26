@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "last_updated": "2026-11-25 05:14 UTC",
+  "date": "2026-11-26",
+  "last_updated": "2026-11-26 04:41 UTC",
   "categories": {
     "science": [
       {
@@ -48,29 +48,18 @@
         "impact": 5
       },
       {
-        "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
-        "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery raises an astonishing possibility: Carbon essential to life may have traveled from space to Earth's ",
+        "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+        "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any difference between t",
         "category": "Science",
         "source": "sciencedaily.com",
         "journal": "sciencedaily.com",
-        "published_at": "Mon, 23 Nov 2026 00:53:36 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/melt-inclusions-in-olivine-crystals-from-kilauea-iki-eruption.webp",
+        "published_at": "Wed, 25 Nov 2026 05:06:22 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/particle-trapped-antimatter-physics.webp",
         "impact": 4
       }
     ],
     "tech": [
-      {
-        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-        "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-        "category": "Tech",
-        "source": "techcrunch.com",
-        "journal": "techcrunch.com",
-        "published_at": "Tue, 24 Nov 2026 15:51:07 +0000",
-        "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-        "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754",
-        "impact": 4
-      },
       {
         "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
         "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
@@ -83,14 +72,25 @@
         "impact": 3
       },
       {
-        "title": "One terminal command gave my forgotten Android device a desk job",
-        "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+        "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+        "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
         "category": "Tech",
-        "source": "arstechnica.com",
-        "journal": "arstechnica.com",
-        "published_at": "Tue, 24 Nov 2026 12:15:38 +0000",
-        "source_url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS-1152x648.jpg",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 25 Nov 2026 13:08:19 +0000",
+        "source_url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/flipkart-ceo-kalyan-krishnamurthy.jpg?resize=1200,800",
+        "impact": 3
+      },
+      {
+        "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+        "category": "Tech",
+        "source": "techcrunch.com",
+        "journal": "techcrunch.com",
+        "published_at": "Wed, 25 Nov 2026 13:00:00 +0000",
+        "source_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
         "impact": 3
       },
       {
@@ -118,6 +118,17 @@
     ],
     "medicine": [
       {
+        "title": "Novel hormone therapy significantly reduces risk of breast cancer recurrence",
+        "summary": "A new type of hormone therapy significantly reduced the risk of invasive breast cancer recurrence or death in patients with early-stage, hormone receptor (HR)-positive, HER2-negative breast cancer compared with standard treatments, according to findings from a large international phase 3 clinical trial co-led by invest",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Wed, 25 Nov 2026 17:00:01 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-hormone-therapy-significantly-breast-cancer.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/oral-medicine.jpg",
+        "impact": 5
+      },
+      {
         "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
         "summary": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, diabetes, anxiety, a",
         "category": "Medicine",
@@ -129,39 +140,6 @@
         "impact": 5
       },
       {
-        "title": "FDA approves bezuclastinib in combination with sunitinib as new second-line therapy for patients with GIST",
-        "summary": "The U.S. Food and Drug Administration (FDA) has approved a combination of bezuclastinib plus sunitinib as second-line therapy after first-line treatment with imatinib for adults with advanced gastrointestinal stromal tumors (GIST) based on evidence from the phase 3 PEAK study led by Dana-Farber Cancer Institute showing",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 24 Nov 2026 19:20:06 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-fda-bezuclastinib-combination-sunitinib-line.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/fda.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Common patterns of b/tsDMARD use identified in rheumatoid arthritis",
-        "summary": "Common patterns of biologic and targeted synthetic disease-modifying antirheumatic drug (b/tsDMARD) use are seen among patients with rheumatoid arthritis (RA), and these patterns are associated with underlying genetic associations, according to a study published online Nov. 20 in Arthritis & Rheumatology.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 24 Nov 2026 18:00:08 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-common-patterns-btsdmard-rheumatoid-arthritis.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/rheumatoid-arthritis.jpg",
-        "impact": 4
-      },
-      {
-        "title": "How antibody therapy reverses type 1 diabetes in mice",
-        "summary": "Researchers at UC Davis Health have uncovered key mechanisms behind an experimental antibody that reverses type 1 diabetes (T1D) in mice. Findings from their study, published in the journal Diabetes, could advance efforts to develop treatments for patients with acute T1D.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Tue, 24 Nov 2026 16:40:04 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-antibody-therapy-reverses-diabetes-mice.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-1-diabetes.jpg",
-        "impact": 4
-      },
-      {
         "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
         "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring its function could help",
         "category": "Medicine",
@@ -170,6 +148,28 @@
         "published_at": "Sat, 21 Nov 2026 22:00:27 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/colorful-neurons-in-alzheimers-disease.webp",
+        "impact": 4
+      },
+      {
+        "title": "A rare disease reveals a hidden flaw in the immune system",
+        "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing s",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Wed, 18 Nov 2026 07:33:09 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/microscopic-natural-killer-cell.webp",
+        "impact": 4
+      },
+      {
+        "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+        "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Sci",
+        "category": "Medicine",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Tue, 17 Nov 2026 06:39:45 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/human-brain-boost-power-spark.webp",
         "impact": 4
       }
     ],
@@ -232,6 +232,17 @@
     ],
     "space": [
       {
+        "title": "NASA Eyes Crop Candidates for Future Menus",
+        "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing point",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Wed, 25 Nov 2026 17:53:42 +0000",
+        "source_url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/bps/space-crops/SpaceCrops_thanksgiving.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "impact": 5
+      },
+      {
         "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
         "summary": "On Nov. 23, 2015, a Blue Origin rocket made a historic landing after launching into suborbital space. Here's why it mattered.",
         "category": "Space",
@@ -254,40 +265,40 @@
         "impact": 4
       },
       {
-        "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
-        "summary": "The BepiColombo spacecraft finally arrived in orbit around Mercury on Saturday (Nov. 21), more than eight years after leaving its home planet.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 21 Nov 2026 11:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "SpaceX launches classified mission for US Space Force from California (video)",
-        "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Sat, 21 Nov 2026 05:28:14 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/YaShmYFZ8edZqBUjFWgP3-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-        "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (DOE), and industry m",
+        "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+        "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreemen",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Tue, 24 Nov 2026 21:04:32 +0000",
-        "source_url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/sr-1-freedom-11-6-2026.png",
+        "published_at": "Wed, 25 Nov 2026 19:06:56 +0000",
+        "source_url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Eye of the Sahara",
+        "summary": "The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, ",
+        "category": "Space",
+        "source": "nasa.gov",
+        "journal": "nasa.gov",
+        "published_at": "Wed, 25 Nov 2026 16:21:04 +0000",
+        "source_url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "A New Discovery is Re-Drawing the Map of the Milky Way",
+        "summary": "New research shows that star formation is occurring in the Milky Way's central bar. This goes against previous research, and against observations of other barred spiral galaxies. The discovery by a PhD student shows a vast rotating structure of stars near the centre of our Galaxy is driving enormous shock fronts throug",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Wed, 25 Nov 2026 13:13:45 +0000",
+        "source_url": "https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way",
+        "image_url": "https://www.universetoday.com/article_images/cq5dam.web.1280.1280_20261124_201307.jpg",
+        "impact": 4
+      },
       {
         "title": "Maybe Dark Energy Isn't so Inexplicable After All",
         "summary": "The Universe as we know it is comprised of three \"things\": baryonic matter (planets, stars, galaxies, us), dark matter (still unexplained) and dark energy (really, really still unexplained). Of the three, dark energy remains challenging because it's driving the acceleration of the expanding Universe. However, we can't ",
@@ -322,49 +333,38 @@
         "impact": 4
       },
       {
-        "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
-        "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
+        "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
+        "summary": "The Euclid space telescope has spotted the most distant and ancient quasar ever seen, a bright cosmic event powered by a supermassive black hole with 360 million times the mass of the sun.",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Tue, 24 Nov 2026 15:00:00 +0000",
-        "source_url": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/tAoiTfHAthygj2RWYL6cCW-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
-        "summary": "Three stars, 28 light-years, and one big cosmic mystery.",
-        "category": "Astronomy",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Mon, 23 Nov 2026 11:00:00 +0000",
-        "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/w9Et548dKkQsFNMMM5mASN-1920-80.jpg",
+        "published_at": "Wed, 25 Nov 2026 13:00:00 +0000",
+        "source_url": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/fEK8PZxUpuXu5Hi99gzbe4-1920-80.png",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "green metal facade and plant walls envelop municipal kitchen in austria",
-        "summary": "preparing 15,000 meals daily for the city's childcare and social institutions, the building transforms a highly specialized production facility into an open and socially oriented piece of urban infrastructure. The post green metal facade and plant walls envelop municipal kitchen in austria appeared first on designboom ",
-        "category": "Architecture",
-        "source": "designboom.com",
-        "journal": "designboom.com",
-        "published_at": "Sun, 22 Nov 2026 21:15:58 +0000",
-        "source_url": "https://www.designboom.com/architecture/green-metal-facade-plant-walls-municipal-kitchen-austria-central-kitchen-graz-superfuture-group/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/zigzag-green-metal-facade-austria-central-kitchen-graz-superfuture-group-designboom-1200-1.jpg",
-        "impact": 5
-      },
-      {
-        "title": "Private House in Kaklebi / Werkraum Design Architecture",
-        "summary": "The private house in Kaklebi, near Tbilisi, is composed of a series of timber-clad volumes rather than a single block, arranged to follow the slope of a wooded site and to preserve its existing mature trees. Distributed across multiple levels, the building reduces its own visual presence in the landscape while giving e",
+        "title": "UBC Arts Student Centre / Leckie Studio Architecture + Design",
+        "summary": "The Arts Student Centre at the University of British Columbia is conceived as a compact 11,000 square-foot three-storey building - a multi-purpose facility that provides a new home for the Arts Undergraduate Society and Faculty of Arts students.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Tue, 24 Nov 2026 06:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1188266/private-house-in-kaklebi",
-        "image_url": "https://images.adsttc.com/media/images/6af1/8c88/4ba6/4700/01d0/80a0/large_jpg/Grigory_Sokolinsky_19.jpg?1794215149",
+        "published_at": "Wed, 25 Nov 2026 12:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188947/ubc-arts-student-centre-leckie-studio-architecture-plus-design",
+        "image_url": "https://images.adsttc.com/media/images/6aff/0852/eabd/2a00/0193/2514/large_jpg/02_-_ASC_-_Exterior.jpg?1795098773",
+        "impact": 4
+      },
+      {
+        "title": "LeopoldQuartier / Gangoly & Kristiner Architekten",
+        "summary": "A mature, diverse urban fabric is given its crowning glory. The new urban design brings order to the block's historically evolved diversity. The existing buildings, varying in orientation and character, gain a clear sense of belonging through the newly added elements: as part of an alleyway, a courtyard or a park.",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Wed, 25 Nov 2026 06:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1188641/leopoldquartier",
+        "image_url": "https://images.adsttc.com/media/images/6af7/cbf1/eabd/2a00/0192/f19d/large_jpg/105_-_02_Exterior_Tag_Gangoly_Kristiner_Leopoldquartier_Patrick_Johannsen_Fotografie-31.jpg?1794624558",
         "impact": 4
       },
       {
@@ -390,14 +390,14 @@
         "impact": 4
       },
       {
-        "title": "can le corbusier’s last building be disassembled and shipped?",
-        "summary": "some 22,000 screws hold together the pavillon le corbusier's prefabricated steel frames in zurich, yet its concrete ramp, staircase, and legacy make relocation near-impossible. The post can le corbusier&#8217;s last building be disassembled and shipped? appeared first on designboom | architecture &amp; design magazine.",
+        "title": "the search for a home without a fixed address, from prefabricated houses to floating dwellings",
+        "summary": "from postwar demountable houses to floating neighborhoods, architects have repeatedly questioned the assumption that buildings must remain tied to one site. the answers reveal different ideas about permanence, ownership, and the future of domestic space. The post the search for a home without a fixed address, from pref",
         "category": "Architecture",
         "source": "designboom.com",
         "journal": "designboom.com",
-        "published_at": "Tue, 24 Nov 2026 11:25:21 +0000",
-        "source_url": "https://www.designboom.com/interviews/can-le-corbusier-last-building-disassembled-shipped/",
-        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/pavillon-le-corbusier-designboom-03.jpg",
+        "published_at": "Wed, 25 Nov 2026 11:50:54 +0000",
+        "source_url": "https://www.designboom.com/architecture/search-home-fixed-address-prefabricated-houses-floating-dwellings/",
+        "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/search-home-fixed-address-prefabricated-houses-floating-dwellings-designboom-1200.jpg",
         "impact": 4
       }
     ],
@@ -425,94 +425,94 @@
         "impact": 4
       },
       {
-        "title": "ASCE grades Pennsylvania infrastructure with ‘C-’",
-        "summary": "Despite bright spots in energy and aviation, Pennsylvania needs billions of dollars in upgrades to roads and water systems, ASCE said.",
+        "title": "NY AG extends workers’ comp deadline in $1.4M construction firm settlement",
+        "summary": "The case, which included alleged sexual harassment and retaliation by Alba Services, can serves as a reminder for contractors to have robust claims insurance, lawyers said.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Tue, 24 Nov 2026 11:21:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/asce-grades-pennsylvania-infrastructure/875611/",
-        "image_url": "https://imgproxy.divecdn.com/tNjXIolO2VZKEuKonQldAWKReLaxyAa_tyEHbaEd4-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxNjI3NTQ3LmpwZw==.webp",
+        "published_at": "Wed, 25 Nov 2026 11:43:53 -0500",
+        "source_url": "https://www.constructiondive.com/news/ny-ag-workers-comp-deadline-construction-settlement/875765/",
+        "image_url": "https://imgproxy.divecdn.com/uMLGexkRja78OND7uoWhhPSVZne5KJ9k7PyayEahosw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxNDkxMTExLmpwZw==.webp",
         "impact": 3
       },
       {
-        "title": "4 construction contract provisions I’ll never sign",
-        "summary": "A construction executive breaks down the increased risks on today&rsquo;s more complex projects and why contractors need to be more choosy about what they agree to.",
+        "title": "3 apartment projects start construction",
+        "summary": "An office-to-residential conversion in New Jersey, hospital-adjacent units in Minnesota and a long-awaited affordable redevelopment in New York broke ground last week.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Tue, 24 Nov 2026 09:57:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/4-construction-contract-provisions-ill-never-sign/875516/",
-        "image_url": "https://imgproxy.divecdn.com/Y2geHAZDFQBDSmGiiTZNyoXpy9nK3Obvrt8elxozEFI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzc4MjY5NjM3X0U0WG9yRFEuanBn.webp",
+        "published_at": "Wed, 25 Nov 2026 09:02:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/apartment-projects-start-construction/875718/",
+        "image_url": "https://imgproxy.divecdn.com/Qe_ikK19JD9PScYWfeQnRvnk6ik90sA4JSWRFQsE8vA/g:nowe:0:67/c:626:353/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaXR5V2Fsa19Sb2NoZXN0ZXJNTl9FU0dfV2lkc2V0aC0zLWUxNzc4MTc5MDQxOTE2LnBuZw==.webp",
         "impact": 3
       },
       {
-        "title": "Whiting-Turner wins $155M Coast Guard academy STEM building",
-        "summary": "The accelerated design-build-to-budget delivery method is part of a broader federal contracting reform initiative for faster, more flexible military construction.",
+        "title": "DPR exec details how tech is changing healthcare builds",
+        "summary": "Hamilton Espinosa, the co-leader of DPR Construction&rsquo;s healthcare segment, spoke about how artificial intelligence is impacting projects in a tough healthcare construction market.",
         "category": "Construction",
         "source": "constructiondive.com",
         "journal": "constructiondive.com",
-        "published_at": "Mon, 23 Nov 2026 14:25:00 -0500",
-        "source_url": "https://www.constructiondive.com/news/whiting-turner-coast-guard-academy-stem-building/875525/",
-        "image_url": "https://imgproxy.divecdn.com/hl3hROvuTPf5GSMqOjIidW3hU5fm9Zy3lk-1OybQGT4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMDAwd19xOTVfdEFtVGdsei53ZWJw.webp",
+        "published_at": "Wed, 25 Nov 2026 09:01:00 -0500",
+        "source_url": "https://www.constructiondive.com/news/dpr-exec-healthcare-builds-tech-ai-robots/875678/",
+        "image_url": "https://imgproxy.divecdn.com/XalRB__3_LEhNvb0_OeN9S2eC_sHTsg5DJEETO8Ltcc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LYWlzZXJfUGVybWFuZW50ZV9XZXN0bWluc3Rlcl9yZW5kZXJpbmcuanBn.webp",
         "impact": 3
       }
     ],
     "ai": [
       {
-        "title": "Building AI that can work across the enterprise",
-        "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: reth",
+        "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+        "summary": "arXiv:2611.31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benchmarks largely focus on coarse-grained emotion recognition or binary truth-deception detection, over",
         "category": "AI",
-        "source": "technologyreview.com",
-        "journal": "technologyreview.com",
-        "published_at": "Mon, 16 Nov 2026 13:00:00 +0000",
-        "source_url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Wed, 25 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.31346",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Richpanel helps companies automate 50% of support in 30 days",
-        "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+        "summary": "arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic questio",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
-        "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Wed, 25 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.31427",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Perplexity and Intelligence",
-        "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+        "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+        "summary": "arXiv:2611.31475v1 Announce Type: new Abstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal large language model (MLLM) cannot resolve from pixels alone. Tool access, however, shifts the bottlenec",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Sun, 22 Nov 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/perplexity-and-intelligence",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Wed, 25 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.31475",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Combatting adversarial distillation",
-        "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+        "title": "Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls",
+        "summary": "arXiv:2611.31554v1 Announce Type: new Abstract: Code-executing LLM agents submit blocks of code that issue several API writes. If a block fails after some of its writes have taken effect, the agent rewrites the block and continues. It is unknown how often such a recovery harms the external state when the failure occurs",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 20 Nov 2026 10:00:00 GMT",
-        "source_url": "https://openai.com/index/combatting-adversarial-distillation",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Wed, 25 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.31554",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       },
       {
-        "title": "Can AI help scientists identify promising drug candidates?",
-        "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+        "title": "Multi-agent System for Automatic Discovery of Pareto-optimal Meta-solvers for PDEs",
+        "summary": "arXiv:2611.31611v1 Announce Type: new Abstract: Designing linear solvers for discretized partial differential equations requires problem-specific expertise. We present a multi-agent framework, in which language-model agents propose, critique, implement, and evaluate solver configurations assembled from Krylov methods, ",
         "category": "AI",
-        "source": "openai.com",
-        "journal": "openai.com",
-        "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
-        "source_url": "https://openai.com/index/introducing-medchembench",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
-        "impact": 4
+        "source": "arxiv.org",
+        "journal": "arxiv.org",
+        "published_at": "Wed, 25 Nov 2026 00:00:00 -0500",
+        "source_url": "https://arxiv.org/abs/2611.31611",
+        "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "impact": 5
       }
     ]
   }
