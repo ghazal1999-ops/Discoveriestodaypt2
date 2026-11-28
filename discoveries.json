@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-27",
-  "last_updated": "2026-11-27 04:45 UTC",
+  "date": "2026-11-28",
+  "last_updated": "2026-11-28 04:30 UTC",
   "categories": {
     "science": [
       {
@@ -12,6 +12,17 @@
         "published_at": "Fri, 20 Nov 2026 07:56:02 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/einstein-equations-gravity-spacetime.webp",
+        "impact": 5
+      },
+      {
+        "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+        "summary": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a major source of plastic",
+        "category": "Science",
+        "source": "sciencedaily.com",
+        "journal": "sciencedaily.com",
+        "published_at": "Fri, 27 Nov 2026 04:52:24 EST",
+        "source_url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+        "image_url": "https://www.sciencedaily.com/images/1920/connor-thompson-engine-oil-sample.webp",
         "impact": 5
       },
       {
@@ -46,20 +57,20 @@
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/new-ice-age-frozen-planet-earth.webp",
         "impact": 5
-      },
-      {
-        "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
-        "summary": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far fewer physical differences between males and females than scientists once believed. The discovery challenges a classic example of sexual dimorphism and raises questions about how historical biases have shaped our understand",
-        "category": "Science",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Thu, 26 Nov 2026 20:05:56 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/uintatheres.webp",
-        "impact": 4
       }
     ],
     "tech": [
+      {
+        "title": "Our 2027 Innovators Under 35 competition is now open",
+        "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.&#160; We’re on the hunt for researchers and founders who are engi",
+        "category": "Tech",
+        "source": "technologyreview.com",
+        "journal": "technologyreview.com",
+        "published_at": "Fri, 27 Nov 2026 10:48:47 +0000",
+        "source_url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+        "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/IU35-2027-SA.jpg?resize=1200,600",
+        "impact": 4
+      },
       {
         "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
         "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
@@ -83,40 +94,40 @@
         "impact": 3
       },
       {
-        "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
-        "summary": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home.",
+        "title": "The absolute best Black Friday deals you can still get",
+        "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber [&#8230;]",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 26 Nov 2026 10:44:00 +0000",
-        "source_url": "https://www.wired.com/story/best-robot-vacuum/",
-        "image_url": "https://media.wired.com/photos/6b0742e76b92a77c48186528/191:100/w_1280,c_limit/I-Put-the-Best-Robot-Vacuums-Through-a-Houseful-of-Messes.jpg",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-27T22:28:32-05:00",
+        "source_url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       },
       {
-        "title": "Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces",
-        "summary": "This flexible movement could potentially be applied to the design of soft robots that operate in confined spaces.",
+        "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+        "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a [&#8230;]",
         "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Thu, 26 Nov 2026 10:00:00 +0000",
-        "source_url": "https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/",
-        "image_url": "https://media.wired.com/photos/6afdf964ad9e100370243ebe/191:100/w_1280,c_limit/521341010",
-        "impact": 3
-      },
-      {
-        "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
-        "summary": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
-        "category": "Tech",
-        "source": "wired.com",
-        "journal": "wired.com",
-        "published_at": "Wed, 25 Nov 2026 10:01:00 +0000",
-        "source_url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-        "image_url": "https://media.wired.com/photos/6b04dfdd15bd092ec9b63873/191:100/w_1280,c_limit/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg",
+        "source": "theverge.com",
+        "journal": "theverge.com",
+        "published_at": "2026-11-27T18:32:17-05:00",
+        "source_url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "impact": 3
       }
     ],
     "medicine": [
+      {
+        "title": "In a first, ultrasound maps blood flow through an entire human kidney in 3D",
+        "summary": "For the first time, a research team at the Inserm Institute of Physics for Medicine (Inserm/ESPCI Paris-PSL/CNRS) in Paris has succeeded in visualizing the entire vascular network and blood flow in a human kidney. This breakthrough opens up promising clinical prospects: improving our understanding and diagnosis of kidn",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 27 Nov 2026 13:20:08 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-ultrasound-blood-entire-human-kidney.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/kidney-as-youve-never.jpg",
+        "impact": 5
+      },
       {
         "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
         "summary": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, diabetes, anxiety, a",
@@ -129,6 +140,28 @@
         "impact": 5
       },
       {
+        "title": "New approach could make curative lung cancer treatment possible for more patients",
+        "summary": "Despite significant advances in treatment, lung cancer remains the leading cause of cancer-related deaths worldwide. A clinical trial recently published in Nature Medicine suggests that a more flexible approach to treating locally advanced non-small-cell lung cancer could open up new treatment options for patients. By ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 27 Nov 2026 10:40:17 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-approach-curative-lung-cancer-treatment.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-could-mak.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Ebola data from West Africa suggest potential benefit of the antidiarrheal drug loperamide",
+        "summary": "Ebola virus disease causes severe diarrhea and vomiting in the majority of affected patients. In resource-limited settings, some patients receive the antidiarrheal agent loperamide during the early stages of illness, when oral intake remains possible. An international research team has now systematically evaluated the ",
+        "category": "Medicine",
+        "source": "medicalxpress.com",
+        "journal": "medicalxpress.com",
+        "published_at": "Fri, 27 Nov 2026 07:40:06 EST",
+        "source_url": "https://medicalxpress.com/news/2026-11-ebola-west-africa-potential-benefit.html",
+        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ebola.jpg",
+        "impact": 4
+      },
+      {
         "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
         "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring its function could help",
         "category": "Medicine",
@@ -137,39 +170,6 @@
         "published_at": "Sat, 21 Nov 2026 22:00:27 EST",
         "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
         "image_url": "https://www.sciencedaily.com/images/1920/colorful-neurons-in-alzheimers-disease.webp",
-        "impact": 4
-      },
-      {
-        "title": "A rare disease reveals a hidden flaw in the immune system",
-        "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing s",
-        "category": "Medicine",
-        "source": "sciencedaily.com",
-        "journal": "sciencedaily.com",
-        "published_at": "Wed, 18 Nov 2026 07:33:09 EST",
-        "source_url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-        "image_url": "https://www.sciencedaily.com/images/1920/microscopic-natural-killer-cell.webp",
-        "impact": 4
-      },
-      {
-        "title": "Genomic work helps find treatment for rare blood disorder",
-        "summary": "Sisters with a rare blood condition are the first patients to receive a repurposed drug to treat it, after a team of doctors and cardiovascular scientists used genomic sequencing to identify the drug's target.",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 26 Nov 2026 18:00:02 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-genomic-treatment-rare-blood-disorder.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/genomic-work-helps-fin.jpg",
-        "impact": 4
-      },
-      {
-        "title": "Oral nutrition supplement interventions show short-term benefits in patient outcomes at low cost for older adults",
-        "summary": "A systematic review published in the journal Value in Health by Amarsinh Desai, Ph.D., Olivia M. Dong, Ph.D., and colleagues examines the health and economic effects of oral nutrition supplements in older adults, most with or at risk of malnutrition. The researchers found that oral nutrition supplement use, often as pa",
-        "category": "Medicine",
-        "source": "medicalxpress.com",
-        "journal": "medicalxpress.com",
-        "published_at": "Thu, 26 Nov 2026 14:00:02 EST",
-        "source_url": "https://medicalxpress.com/news/2026-11-oral-nutrition-supplement-interventions-short.html",
-        "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/protein-powder-1.jpg",
         "impact": 4
       }
     ],
@@ -243,51 +243,62 @@
         "impact": 5
       },
       {
-        "title": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live",
-        "summary": "The Thanksgiving Day launch will be Rocket Lab's 14th mission for Tokyo-based Synspective, its largest customer.",
-        "category": "Space",
-        "source": "space.com",
-        "journal": "space.com",
-        "published_at": "Thu, 26 Nov 2026 16:00:00 +0000",
-        "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/5fu2jLB5FYDbB2bLUEjaTD-1920-80.jpg",
-        "impact": 4
-      },
-      {
-        "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
-        "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreemen",
+        "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+        "summary": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage ",
         "category": "Space",
         "source": "nasa.gov",
         "journal": "nasa.gov",
-        "published_at": "Wed, 25 Nov 2026 19:06:56 +0000",
-        "source_url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg",
+        "published_at": "Fri, 27 Nov 2026 15:01:00 +0000",
+        "source_url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg",
         "impact": 4
       },
       {
-        "title": "Eye of the Sahara",
-        "summary": "The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, ",
-        "category": "Space",
-        "source": "nasa.gov",
-        "journal": "nasa.gov",
-        "published_at": "Wed, 25 Nov 2026 16:21:04 +0000",
-        "source_url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
-        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
-        "impact": 4
-      },
-      {
-        "title": "On this day in space! Nov. 26, 2011: NASA's 2-ton nuclear-powered Curiosity rover launches to Mars",
-        "summary": "On November 26, 2011, the NASA Curiosity rover launched to Mars. Here's why it mattered.",
+        "title": "Dropping missiles from orbit? 2 European companies sign agreement to study the idea",
+        "summary": "Atmos Space Cargo will fly its first Phoenix cargo-return capsule on SpaceX's Bandwagon 3 rideshare mission, which is scheduled to launch this spring.",
         "category": "Space",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 26 Nov 2026 16:55:48 +0000",
-        "source_url": "https://www.space.com/space-exploration/on-this-day-in-space-november-26-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/s6uK2uLH5pLBWGLCdwEJJn-1920-80.jpg",
+        "published_at": "Fri, 27 Nov 2026 19:00:00 +0000",
+        "source_url": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ihTDar3HRcfjgiC5bDXJbU-1920-80.jpg",
+        "impact": 4
+      },
+      {
+        "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+        "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life o",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 27 Nov 2026 14:22:00 +0000",
+        "source_url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+        "image_url": "https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg",
+        "impact": 4
+      },
+      {
+        "title": "APOD: 2026 November 27 – The Moon Watchers",
+        "summary": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional",
+        "category": "Space",
+        "source": "science.nasa.gov",
+        "journal": "science.nasa.gov",
+        "published_at": "Fri, 27 Nov 2026 05:05:00 +0000",
+        "source_url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Plenilunio1_2048r.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "impact": 4
       }
     ],
     "astronomy": [
+      {
+        "title": "All the Gaps We See in Protoplanetary Disks Aren't From Planets",
+        "summary": "Astronomers have observed dozens of protoplanetary disks around young stars. ALMA has proven to be especially effective at this task. It's found rings and gaps, and they signify young planets forming in the disks. But not all of these disk features are from planets, according to new research.",
+        "category": "Astronomy",
+        "source": "universetoday.com",
+        "journal": "universetoday.com",
+        "published_at": "Fri, 27 Nov 2026 22:54:51 +0000",
+        "source_url": "https://www.universetoday.com/articles/all-the-gaps-we-see-in-protoplanetary-disks-arent-from-planets",
+        "image_url": "https://www.universetoday.com/article_images/20261124_Yamaguchi_Fig.1_20261126_235908.jpg",
+        "impact": 4
+      },
       {
         "title": "Detection of Vaporized Rock Reveals the Birth of a Solar System",
         "summary": "Astronomers have detected titanium oxide in gas form for the first time around a young, massive star. The detection offers a rare glimpse into the very earliest stages of solar system formation, before the formation of planets and asteroids.",
@@ -322,49 +333,27 @@
         "impact": 4
       },
       {
-        "title": "A Gigantic Stellar Eruption Spreads Planetary Material Into Space",
-        "summary": "Asymptotic Giant Branch (AGB) stars spread heavy elements into space with their stellar winds. This material eventually forms more stars, and even rocky planets like ours. For a long time, astronomers thought this important mass-loss was driven by stellar winds. But new research shows how magnetic fields play an import",
-        "category": "Astronomy",
-        "source": "universetoday.com",
-        "journal": "universetoday.com",
-        "published_at": "Tue, 24 Nov 2026 20:08:06 +0000",
-        "source_url": "https://www.universetoday.com/articles/a-gigantic-stellar-eruption-spreads-planetary-material-into-space",
-        "image_url": "https://www.universetoday.com/article_images/a2a9e8770a00d97f_800x800ar_20261124_184207.jpg",
-        "impact": 4
-      },
-      {
-        "title": "This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!",
-        "summary": "The Dwarflab Dwarf Mini got four stars in our expert review for its simple operation and deep-sky astrophotography capability. This Black Friday deal brings it down to $339 and Space+ members could win one in our prize draw.",
+        "title": "Make the most of the new moon on Dec. 8 and get closer views of the stars with the Celestron Inspire 100AZ",
+        "summary": "The Celestron Inspire 100AZ is a great first telescope and will give you better views of the stars and Saturn in the moonless skies come Dec. 8. It is now 15% cheaper for Black Friday.",
         "category": "Astronomy",
         "source": "space.com",
         "journal": "space.com",
-        "published_at": "Thu, 26 Nov 2026 19:00:00 +0000",
-        "source_url": "https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-mini-smart-telescope-80-dollars-off-black-friday-deal-2026",
-        "image_url": "https://cdn.mos.cms.futurecdn.net/x6hjuYnx3tRF9F3x3HMja8-1920-80.jpg",
+        "published_at": "Fri, 27 Nov 2026 15:10:00 +0000",
+        "source_url": "https://www.space.com/stargazing/skywatching-kit/make-the-most-of-the-new-moon-on-dec-8-and-get-closer-views-of-the-stars-with-the-celestron-inspire-100az",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/DSjDMSi5hZMEmkrKAsCb9G-1920-80.jpg",
         "impact": 4
       }
     ],
     "architecture": [
       {
-        "title": "Lisbon Triennale Announces CO-OP and Herzog & de Meuron’s Memphis Museum Opens: This Week’s Review",
-        "summary": "This week's news explores how architecture responds to collective needs, environmental challenges, and changing cultural contexts. From the Lisbon Architecture Triennale's announcement of CO-OP as the theme for its 2028 edition to the recognition of Mexican practice COLECTIVO C733 with the inaugural Siza Award for Publ",
+        "title": "Argentine Media Library / CONTINUO ARCHITECTURE",
+        "summary": "Located in the Argentine neighbourhood of Beauvais, France, the new Argentine Media Library is part of a major urban regeneration programme. Designed by CONTINUO ARCHITECTURE, the project aims to create a new cultural landmark, strengthening the relationship between architecture, public space and community life.",
         "category": "Architecture",
         "source": "archdaily.com",
         "journal": "archdaily.com",
-        "published_at": "Thu, 26 Nov 2026 06:30:00 +0000",
-        "source_url": "https://www.archdaily.com/1189276/lisbon-triennale-announces-co-op-and-herzog-and-de-meurons-memphis-museum-opens-this-weeks-review",
-        "image_url": "https://images.adsttc.com/media/images/6b08/037a/3a81/a801/8917/c73a/large_jpg/lisbon-triennale-announces-co-op-and-herzog-and-de-meurons-memphis-museum-opens-this-weeks-review_5.jpg?1795687301",
-        "impact": 4
-      },
-      {
-        "title": "BW House / Studio S+AO",
-        "summary": "BW House is a renovated and extended residence designed by Studio S+AO as a private sanctuary within the city. Set on a 900-square-meter site, the house has a total building area of 1,500 square meters across three floors. Designed in an artistic modern tropical style, BW House combines minimalist architecture with a w",
-        "category": "Architecture",
-        "source": "archdaily.com",
-        "journal": "archdaily.com",
-        "published_at": "Thu, 26 Nov 2026 00:00:00 +0000",
-        "source_url": "https://www.archdaily.com/1189236/bw-house-studio-s-plus-ao",
-        "image_url": "https://images.adsttc.com/media/images/6b06/ff39/94d7/ea00/019d/0dbe/large_jpg/_AP_7162-Pano-Edit.jpg?1795620746",
+        "published_at": "Fri, 27 Nov 2026 10:00:00 +0000",
+        "source_url": "https://www.archdaily.com/1189058/argentine-media-library-continuo-architecture",
+        "image_url": "https://images.adsttc.com/media/images/6b04/3611/94d7/ea00/019d/0140/large_jpg/DSCF11000_11.jpg?1795438112",
         "impact": 4
       },
       {
@@ -398,6 +387,17 @@
         "published_at": "Thu, 26 Nov 2026 09:30:13 +0000",
         "source_url": "https://www.designboom.com/architecture/podcast-room-for-utopias-11/",
         "image_url": "https://www.designboom.com/twitterimages/uploads/2026/11/indx-global-room-for-utopias-06-designboom-1200.jpg",
+        "impact": 4
+      },
+      {
+        "title": "Engineered Waterways: What Architecture Can Learn from Urban Canals",
+        "summary": "Unlike open coastlines or the edges of natural bodies of water, urban canals are narrow, linear, engineered landscapes that cut decisively through the urban fabric. Where rivers follow the contours of a landscape and shape the landform, canals impose their geometry and logic, redefining the relationship between archite",
+        "category": "Architecture",
+        "source": "archdaily.com",
+        "journal": "archdaily.com",
+        "published_at": "Fri, 27 Nov 2026 07:30:00 +0000",
+        "source_url": "https://www.archdaily.com/1189031/engineered-waterways-what-architecture-can-learn-from-urban-canals",
+        "image_url": "https://images.adsttc.com/media/images/6b04/18b1/2bc2/8501/8901/2721/large_jpg/engineered-waterways-six-architectural-lessons-from-urban-canals_36.jpg?1795430596",
         "impact": 4
       }
     ],
@@ -465,7 +465,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
         "source_url": "https://arxiv.org/abs/2611.33470",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -476,7 +476,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
         "source_url": "https://arxiv.org/abs/2611.33394",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -487,7 +487,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
         "source_url": "https://arxiv.org/abs/2611.33563",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -498,7 +498,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
         "source_url": "https://arxiv.org/abs/2611.33706",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
@@ -509,7 +509,7 @@
         "category": "AI",
         "source": "arxiv.org",
         "journal": "arxiv.org",
-        "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
         "source_url": "https://arxiv.org/abs/2611.33712",
         "image_url": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "impact": 5
